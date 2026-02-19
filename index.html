@@ -248,8 +248,21 @@
     { label: "Food Dive",              url: "https://www.fooddive.com/feeds/news/" },
   ];
 
-  // CORS proxy (allorigins wraps the feed in JSON: { contents: "<rss xml>" })
-  const PROXY = "https://api.allorigins.win/get?url=";
+  // CORS proxies tried in order; first success wins
+  const PROXIES = [
+    {
+      build: u => "https://corsproxy.io/?" + encodeURIComponent(u),
+      extract: async r => r.text(),           // returns raw XML
+    },
+    {
+      build: u => "https://api.allorigins.win/get?url=" + encodeURIComponent(u),
+      extract: async r => { const j = await r.json(); return j.contents; },
+    },
+    {
+      build: u => "https://thingproxy.freeboard.io/fetch/" + u,
+      extract: async r => r.text(),
+    },
+  ];
 
   // ── HTML stripping ────────────────────────────────────────────────────────
   /**
@@ -353,16 +366,13 @@
   }
 
   // ── RSS fetch & parse ─────────────────────────────────────────────────────
-  async function fetchFeed(feed) {
-    const res = await fetch(PROXY + encodeURIComponent(feed.url));
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const json = await res.json();
+  function parseXmlItems(xmlStr, feedLabel) {
     const parser = new DOMParser();
-    const xml = parser.parseFromString(json.contents, "text/xml");
-
-    const items = Array.from(xml.querySelectorAll("item"));
+    const xml = parser.parseFromString(xmlStr, "text/xml");
+    const items = Array.from(xml.querySelectorAll("item, entry"));
+    if (!items.length) throw new Error("No items in feed");
     return items.map(item => ({
-      source:      feed.label,
+      source:      feedLabel,
       title:       stripHtml(item.querySelector("title")?.textContent || ""),
       link:        item.querySelector("link")?.textContent?.trim()
                    || item.querySelector("link")?.getAttribute("href") || "#",
@@ -373,6 +383,24 @@
       pubDate:     item.querySelector("pubDate")?.textContent
                    || item.querySelector("published")?.textContent || "",
     }));
+  }
+
+  async function fetchFeed(feed) {
+    let lastError;
+    for (const proxy of PROXIES) {
+      try {
+        const controller = new AbortController();
+        const timeout = setTimeout(() => controller.abort(), 9000);
+        const res = await fetch(proxy.build(feed.url), { signal: controller.signal });
+        clearTimeout(timeout);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const xmlStr = await proxy.extract(res);
+        return parseXmlItems(xmlStr, feed.label);
+      } catch (e) {
+        lastError = e;
+      }
+    }
+    throw lastError;
   }
 
   // ── Render helpers ────────────────────────────────────────────────────────
