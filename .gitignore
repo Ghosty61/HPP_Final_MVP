@@ -1,0 +1,21 @@
+# Google OAuth2 credentials — NEVER commit these
+credentials.json
+token.pickle
+
+# Runtime state files
+.last_run_timestamp
+hpp_monitor.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
