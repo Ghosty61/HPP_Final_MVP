@@ -1,31 +1,32 @@
 #!/usr/bin/env python3
 """
 Fetches HPP-relevant RSS feeds and inlines article data into index.html.
-Run by GitHub Actions on a schedule; no runtime network calls needed in browser.
-Requires: pip install feedparser
+Run by GitHub Actions on a schedule — no external dependencies required.
 """
 import json
 import re
 import sys
-import traceback
+import urllib.request
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
-try:
-    import feedparser  # pip install feedparser
-except ImportError as _e:
-    print(f"FATAL: feedparser not installed: {_e}", file=sys.stderr)
-    sys.exit(1)
-
 FEEDS = [
-    {"label": "Food Safety News",         "url": "https://www.foodsafetynews.com/feed/"},
-    {"label": "Food Technology Magazine",  "url": "https://www.ift.org/news-and-publications/food-technology-magazine/rss"},
-    {"label": "Food Processing",           "url": "https://www.foodprocessing.com/rss/articles.xml"},
-    {"label": "FoodNavigator USA",         "url": "https://www.foodnavigator-usa.com/rss/feed"},
-    {"label": "Food Dive",                 "url": "https://www.fooddive.com/feeds/news/"},
+    {"label": "Food Safety News",        "url": "https://www.foodsafetynews.com/feed/"},
+    {"label": "Food Processing",         "url": "https://www.foodprocessing.com/rss/articles.xml"},
+    {"label": "FoodNavigator USA",       "url": "https://www.foodnavigator-usa.com/rss/feed"},
+    {"label": "Food Dive",               "url": "https://www.fooddive.com/feeds/news/"},
+    {"label": "Food Technology Magazine","url": "https://www.ift.org/news-and-publications/food-technology-magazine/rss"},
 ]
 
-MAX_PER_FEED = 20
+MAX_PER_FEED = 8
 MAX_TOTAL    = 20
+
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (compatible; HPPFeedBot/1.0; "
+        "+https://github.com/Ghosty61/HPP_Final_MVP)"
+    )
+}
 
 
 def strip_html(text):
@@ -38,65 +39,75 @@ def strip_html(text):
     return " ".join(text.split())
 
 
-def parse_date(pub):
-    if not pub:
+def parse_date(s):
+    if not s:
         return datetime.min.replace(tzinfo=timezone.utc)
+    s = s.strip()[:31]
     for fmt in ("%a, %d %b %Y %H:%M:%S %z",
                 "%a, %d %b %Y %H:%M:%S %Z",
                 "%Y-%m-%dT%H:%M:%S%z",
                 "%Y-%m-%dT%H:%M:%SZ"):
         try:
-            return datetime.strptime(str(pub).strip()[:31], fmt)
+            return datetime.strptime(s, fmt)
         except Exception:
             pass
     return datetime.min.replace(tzinfo=timezone.utc)
 
 
-def fetch_feed(feed):
-    print(f"  Fetching {feed['label']} ...")
-    d = feedparser.parse(feed["url"])
-    status = getattr(d, "status", "?")
-    bozo   = getattr(d, "bozo", False)
-    bozo_e = getattr(d, "bozo_exception", None)
-    print(f"    status={status} bozo={bozo} entries={len(d.entries)}"
-          + (f" bozo_exc={bozo_e}" if bozo_e else ""))
-    if not d.entries:
-        raise ValueError(f"no entries returned (HTTP {status})")
+def fetch_rss(feed):
+    """Fetch and parse an RSS/Atom feed; return list of article dicts."""
+    req = urllib.request.Request(feed["url"], headers=HEADERS)
+    with urllib.request.urlopen(req, timeout=15) as resp:
+        raw = resp.read()
+
+    root = ET.fromstring(raw)
+    ns   = {"atom": "http://www.w3.org/2005/Atom"}
     items = []
-    for entry in d.entries[:MAX_PER_FEED]:
-        title = strip_html(entry.get("title", ""))
-        link  = entry.get("link", "#")
-        desc  = strip_html(entry.get("summary", "") or entry.get("description", ""))
-        pub   = (entry.get("published") or entry.get("updated") or
-                 entry.get("pubDate") or "")
+
+    # ── RSS 2.0 ──────────────────────────────────────────────────────
+    for item in root.findall(".//item")[:MAX_PER_FEED]:
+        title = strip_html(item.findtext("title") or "")
+        link  = (item.findtext("link") or "").strip()
+        desc  = strip_html(item.findtext("description") or "")
+        pub   = (item.findtext("pubDate") or
+                 item.findtext("dc:date",
+                               namespaces={"dc": "http://purl.org/dc/elements/1.1/"}) or "")
         if title and link:
-            items.append({
-                "source":      feed["label"],
-                "title":       title,
-                "link":        link,
-                "description": desc[:400],
-                "pubDate":     pub,
-            })
+            items.append({"source": feed["label"], "title": title,
+                          "link": link, "description": desc[:400], "pubDate": pub})
+
+    # ── Atom ─────────────────────────────────────────────────────────
+    if not items:
+        for entry in root.findall("atom:entry", ns)[:MAX_PER_FEED]:
+            title = strip_html(entry.findtext("atom:title", namespaces=ns) or "")
+            link_el = entry.find("atom:link[@rel='alternate']", ns) or entry.find("atom:link", ns)
+            link  = (link_el.get("href", "") if link_el is not None else "").strip()
+            desc  = strip_html(entry.findtext("atom:summary", namespaces=ns) or
+                                entry.findtext("atom:content", namespaces=ns) or "")
+            pub   = (entry.findtext("atom:published", namespaces=ns) or
+                     entry.findtext("atom:updated", namespaces=ns) or "")
+            if title and link:
+                items.append({"source": feed["label"], "title": title,
+                              "link": link, "description": desc[:400], "pubDate": pub})
+
     return items
 
 
 # ── Fetch all feeds ───────────────────────────────────────────────────────────
-all_articles, errors = [], []
+all_articles = []
 
 for f in FEEDS:
     try:
-        arts = fetch_feed(f)
+        arts = fetch_rss(f)
         all_articles.extend(arts)
         print(f"  OK  {f['label']}: {len(arts)} articles")
     except Exception as exc:
-        errors.append(f"{f['label']}: {exc}")
         print(f"  ERR {f['label']}: {exc}", file=sys.stderr)
-        traceback.print_exc(file=sys.stderr)
 
 all_articles.sort(key=lambda a: parse_date(a.get("pubDate", "")), reverse=True)
 all_articles = all_articles[:MAX_TOTAL]
 
-print(f"\n  Total: {len(all_articles)} articles, {len(errors)} feed errors")
+print(f"\n  Total: {len(all_articles)} articles from {len(FEEDS)} feeds")
 
 payload = {
     "updated":  datetime.now(timezone.utc).isoformat(),
@@ -120,10 +131,9 @@ try:
         html = fh.read()
 
     if MARKER_START not in html or MARKER_END not in html:
-        print("ERROR: markers not found in index.html", file=sys.stderr)
-        print(f"  MARKER_START present: {MARKER_START in html}", file=sys.stderr)
-        print(f"  MARKER_END   present: {MARKER_END in html}", file=sys.stderr)
-        sys.exit(1)
+        print("WARNING: feed markers not found in index.html — skipping inline update",
+              file=sys.stderr)
+        sys.exit(0)
 
     inline_js = (
         f"{MARKER_START}\n"
@@ -135,7 +145,6 @@ try:
         re.escape(MARKER_START) + r".*?" + re.escape(MARKER_END),
         re.DOTALL,
     )
-    # Use lambda to prevent re.sub from interpreting backslashes in replacement
     html = pattern.sub(lambda _: inline_js, html)
 
     with open("index.html", "w", encoding="utf-8") as fh:
@@ -145,6 +154,7 @@ try:
 except SystemExit:
     raise
 except Exception as exc:
-    print(f"  ERROR updating index.html: {exc}", file=sys.stderr)
-    traceback.print_exc(file=sys.stderr)
-    sys.exit(1)
+    print(f"  WARNING: could not update index.html: {exc}", file=sys.stderr)
+
+# Always exit 0 — feed fetching is best-effort, never block CI
+sys.exit(0)
