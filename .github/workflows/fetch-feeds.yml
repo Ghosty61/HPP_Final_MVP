@@ -23,6 +23,9 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install dependencies
+        run: pip install feedparser
+
       - name: Fetch feeds and update index.html
         run: python scripts/fetch_feeds.py
 
