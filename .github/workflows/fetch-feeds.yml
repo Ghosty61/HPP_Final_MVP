@@ -24,10 +24,10 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install feedparser
+        run: python -m pip install feedparser
 
       - name: Fetch feeds and update index.html
-        run: python scripts/fetch_feeds.py
+        run: python scripts/fetch_feeds.py || echo "Feed fetch had errors (non-fatal)"
 
       - name: Commit updated files
         run: |
