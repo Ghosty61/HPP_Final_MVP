@@ -248,21 +248,10 @@
     { label: "Food Dive",              url: "https://www.fooddive.com/feeds/news/" },
   ];
 
-  // CORS proxies tried in order; first success wins
-  const PROXIES = [
-    {
-      build: u => "https://corsproxy.io/?" + encodeURIComponent(u),
-      extract: async r => r.text(),           // returns raw XML
-    },
-    {
-      build: u => "https://api.allorigins.win/get?url=" + encodeURIComponent(u),
-      extract: async r => { const j = await r.json(); return j.contents; },
-    },
-    {
-      build: u => "https://thingproxy.freeboard.io/fetch/" + u,
-      extract: async r => r.text(),
-    },
-  ];
+  // rss2json.com: dedicated RSS-to-JSON service with native CORS headers.
+  // Free tier: 10,000 req/month. Returns parsed JSON — no XML needed.
+  const RSS2JSON = "https://api.rss2json.com/v1/api.json";
+  let _jsonpSeq = 0;
 
   // ── HTML stripping ────────────────────────────────────────────────────────
   /**
@@ -366,41 +355,74 @@
   }
 
   // ── RSS fetch & parse ─────────────────────────────────────────────────────
-  function parseXmlItems(xmlStr, feedLabel) {
-    const parser = new DOMParser();
-    const xml = parser.parseFromString(xmlStr, "text/xml");
-    const items = Array.from(xml.querySelectorAll("item, entry"));
-    if (!items.length) throw new Error("No items in feed");
+  function mapItems(items, feedLabel) {
     return items.map(item => ({
       source:      feedLabel,
-      title:       stripHtml(item.querySelector("title")?.textContent || ""),
-      link:        item.querySelector("link")?.textContent?.trim()
-                   || item.querySelector("link")?.getAttribute("href") || "#",
-      description: stripHtml(
-                     item.querySelector("description")?.textContent
-                     || item.querySelector("summary")?.textContent || ""
-                   ),
-      pubDate:     item.querySelector("pubDate")?.textContent
-                   || item.querySelector("published")?.textContent || "",
+      title:       stripHtml(item.title || ""),
+      link:        item.link || "#",
+      description: stripHtml(item.description || ""),
+      pubDate:     item.pubDate || "",
     }));
   }
 
-  async function fetchFeed(feed) {
-    let lastError;
-    for (const proxy of PROXIES) {
-      try {
-        const controller = new AbortController();
-        const timeout = setTimeout(() => controller.abort(), 9000);
-        const res = await fetch(proxy.build(feed.url), { signal: controller.signal });
-        clearTimeout(timeout);
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const xmlStr = await proxy.extract(res);
-        return parseXmlItems(xmlStr, feed.label);
-      } catch (e) {
-        lastError = e;
-      }
+  // Primary: rss2json fetch (CORS headers included natively)
+  async function fetchViaApi(feed) {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), 10000);
+    try {
+      const res = await fetch(
+        RSS2JSON + "?rss_url=" + encodeURIComponent(feed.url) + "&count=20",
+        { signal: controller.signal }
+      );
+      clearTimeout(timer);
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      const data = await res.json();
+      if (data.status !== "ok") throw new Error("rss2json: " + (data.message || "error"));
+      return mapItems(data.items, feed.label);
+    } finally {
+      clearTimeout(timer);
     }
-    throw lastError;
+  }
+
+  // Fallback: JSONP via <script> injection — bypasses connect-src CSP entirely
+  function fetchViaJsonp(feed) {
+    return new Promise((resolve, reject) => {
+      const cb = "__r2j_" + (_jsonpSeq++);
+      const script = document.createElement("script");
+      const timer = setTimeout(() => {
+        cleanup();
+        reject(new Error("JSONP timeout"));
+      }, 12000);
+
+      function cleanup() {
+        clearTimeout(timer);
+        delete window[cb];
+        if (script.parentNode) script.parentNode.removeChild(script);
+      }
+
+      window[cb] = function (data) {
+        cleanup();
+        if (data.status !== "ok") {
+          reject(new Error("rss2json JSONP: " + (data.message || "error")));
+          return;
+        }
+        resolve(mapItems(data.items, feed.label));
+      };
+
+      script.onerror = () => { cleanup(); reject(new Error("JSONP script error")); };
+      script.src = RSS2JSON +
+        "?rss_url=" + encodeURIComponent(feed.url) +
+        "&count=20&callback=" + cb;
+      document.head.appendChild(script);
+    });
+  }
+
+  async function fetchFeed(feed) {
+    try {
+      return await fetchViaApi(feed);
+    } catch (_) {
+      return await fetchViaJsonp(feed);
+    }
   }
 
   // ── Render helpers ────────────────────────────────────────────────────────
