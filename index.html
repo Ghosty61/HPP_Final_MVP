@@ -236,6 +236,10 @@
 <div class="toast" id="toast">LinkedIn post copied to clipboard</div>
 
 <script>
+  /* __FEEDS_DATA_START__ */
+  var __FEEDS__ = null;   // replaced with live data by GitHub Actions every 2 hours
+  /* __FEEDS_DATA_END__ */
+
   // ── Configuration ─────────────────────────────────────────────────────────
   const MAX_ARTICLES = 20;
 
@@ -248,8 +252,10 @@
     { label: "Food Dive",              url: "https://www.fooddive.com/feeds/news/" },
   ];
 
-  // CORS proxy (allorigins wraps the feed in JSON: { contents: "<rss xml>" })
-  const PROXY = "https://api.allorigins.win/get?url=";
+  // rss2json.com: dedicated RSS-to-JSON service with native CORS headers.
+  // Free tier: 10,000 req/month. Returns parsed JSON — no XML needed.
+  const RSS2JSON = "https://api.rss2json.com/v1/api.json";
+  let _jsonpSeq = 0;
 
   // ── HTML stripping ────────────────────────────────────────────────────────
   /**
@@ -353,26 +359,74 @@
   }
 
   // ── RSS fetch & parse ─────────────────────────────────────────────────────
-  async function fetchFeed(feed) {
-    const res = await fetch(PROXY + encodeURIComponent(feed.url));
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const json = await res.json();
-    const parser = new DOMParser();
-    const xml = parser.parseFromString(json.contents, "text/xml");
-
-    const items = Array.from(xml.querySelectorAll("item"));
+  function mapItems(items, feedLabel) {
     return items.map(item => ({
-      source:      feed.label,
-      title:       stripHtml(item.querySelector("title")?.textContent || ""),
-      link:        item.querySelector("link")?.textContent?.trim()
-                   || item.querySelector("link")?.getAttribute("href") || "#",
-      description: stripHtml(
-                     item.querySelector("description")?.textContent
-                     || item.querySelector("summary")?.textContent || ""
-                   ),
-      pubDate:     item.querySelector("pubDate")?.textContent
-                   || item.querySelector("published")?.textContent || "",
+      source:      feedLabel,
+      title:       stripHtml(item.title || ""),
+      link:        item.link || "#",
+      description: stripHtml(item.description || ""),
+      pubDate:     item.pubDate || "",
     }));
+  }
+
+  // Primary: rss2json fetch (CORS headers included natively)
+  async function fetchViaApi(feed) {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), 10000);
+    try {
+      const res = await fetch(
+        RSS2JSON + "?rss_url=" + encodeURIComponent(feed.url) + "&count=20",
+        { signal: controller.signal }
+      );
+      clearTimeout(timer);
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      const data = await res.json();
+      if (data.status !== "ok") throw new Error("rss2json: " + (data.message || "error"));
+      return mapItems(data.items, feed.label);
+    } finally {
+      clearTimeout(timer);
+    }
+  }
+
+  // Fallback: JSONP via <script> injection — bypasses connect-src CSP entirely
+  function fetchViaJsonp(feed) {
+    return new Promise((resolve, reject) => {
+      const cb = "__r2j_" + (_jsonpSeq++);
+      const script = document.createElement("script");
+      const timer = setTimeout(() => {
+        cleanup();
+        reject(new Error("JSONP timeout"));
+      }, 12000);
+
+      function cleanup() {
+        clearTimeout(timer);
+        delete window[cb];
+        if (script.parentNode) script.parentNode.removeChild(script);
+      }
+
+      window[cb] = function (data) {
+        cleanup();
+        if (data.status !== "ok") {
+          reject(new Error("rss2json JSONP: " + (data.message || "error")));
+          return;
+        }
+        resolve(mapItems(data.items, feed.label));
+      };
+
+      script.onerror = () => { cleanup(); reject(new Error("JSONP script error")); };
+      script.src = RSS2JSON +
+        "?rss_url=" + encodeURIComponent(feed.url) +
+        "&count=20&callback=" + cb;
+      document.head.appendChild(script);
+    });
+  }
+
+  async function fetchFeed(feed) {
+    try {
+      return await fetchViaApi(feed);
+    } catch (_) {
+      return await fetchViaJsonp(feed);
+    }
   }
 
   // ── Render helpers ────────────────────────────────────────────────────────
@@ -415,51 +469,48 @@
     return card;
   }
 
-  // ── Main ──────────────────────────────────────────────────────────────────
-  async function loadFeeds() {
-    renderSkeletons();
-    const statusEl = document.getElementById("status");
-    const container = document.getElementById("feed-container");
+  // ── Render from article array ─────────────────────────────────────────────
+  function renderArticles(articles, failNote) {
+    const statusEl   = document.getElementById("status");
+    const container  = document.getElementById("feed-container");
 
-    // Fetch all feeds concurrently; don't let one failure block others
-    const results = await Promise.allSettled(RSS_FEEDS.map(fetchFeed));
-
-    let articles = [];
-    let failCount = 0;
-
-    results.forEach((r, i) => {
-      if (r.status === "fulfilled") {
-        articles = articles.concat(r.value);
-      } else {
-        failCount++;
-        console.warn(`Feed "${RSS_FEEDS[i].label}" failed:`, r.reason);
-      }
-    });
-
-    // Sort newest first, deduplicate by link, then cap at MAX_ARTICLES
     articles.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-    const seen = new Set();
-    const unique = articles.filter(a => {
-      if (seen.has(a.link)) return false;
-      seen.add(a.link);
-      return true;
-    });
+    const seen   = new Set();
+    const unique = articles.filter(a => { if (seen.has(a.link)) return false; seen.add(a.link); return true; });
     const display = unique.slice(0, MAX_ARTICLES);
 
     container.innerHTML = "";
-
     if (display.length === 0) {
       container.innerHTML = `<div class="error-msg">Could not load any articles. Check your network connection or feed URLs.</div>`;
       statusEl.textContent = "";
       return;
     }
-
     display.forEach(a => container.appendChild(renderArticle(a)));
+    statusEl.textContent = `Showing ${display.length} of ${unique.length} articles${failNote || ""}`;
+  }
 
-    const note = failCount > 0
-      ? ` (${failCount} feed${failCount > 1 ? "s" : ""} unavailable)`
-      : "";
-    statusEl.textContent = `Showing ${display.length} of ${unique.length} articles${note}`;
+  // ── Main ──────────────────────────────────────────────────────────────────
+  async function loadFeeds() {
+    renderSkeletons();
+
+    // ── Path 1: use pre-fetched data baked in by GitHub Actions (no network) ──
+    if (window.__FEEDS__ && Array.isArray(window.__FEEDS__.articles) && window.__FEEDS__.articles.length) {
+      renderArticles(window.__FEEDS__.articles, "");
+      return;
+    }
+
+    // ── Path 2: live fetch via rss2json.com (CORS + JSONP fallback) ───────────
+    const results = await Promise.allSettled(RSS_FEEDS.map(fetchFeed));
+
+    let articles = [];
+    let failCount = 0;
+    results.forEach((r, i) => {
+      if (r.status === "fulfilled") { articles = articles.concat(r.value); }
+      else { failCount++; console.warn(`Feed "${RSS_FEEDS[i].label}" failed:`, r.reason); }
+    });
+
+    const note = failCount > 0 ? ` (${failCount} feed${failCount > 1 ? "s" : ""} unavailable)` : "";
+    renderArticles(articles, note);
   }
 
   loadFeeds();
