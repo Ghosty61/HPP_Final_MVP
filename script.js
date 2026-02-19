@@ -27,5 +27,8 @@ document.addEventListener("DOMContentLoaded", () => {
         const revenue = annualVolume * pricePerKg;
         let tier = revenue < 15000000 ? "Starter (£299/mo)" : "Professional (£599/mo)";
         document.getElementById('recommendedTier').innerText = tier;
+
+        // 6. Show results panel
+        document.getElementById('results').style.display = 'block';
     });
 });

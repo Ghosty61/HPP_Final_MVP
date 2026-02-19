@@ -1,0 +1,16 @@
+{
+  "name": "hpp-final-mvp",
+  "version": "1.0.0",
+  "description": "HPP ROI Calculator with user authentication",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "better-sqlite3": "^9.4.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
