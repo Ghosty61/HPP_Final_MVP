@@ -1,0 +1,39 @@
+name: Fetch RSS Feeds
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'   # every 2 hours
+  workflow_dispatch:          # manual trigger button in GitHub UI
+  push:
+    branches: [main]          # also runs automatically when PR is merged
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch feeds and update index.html
+        run: python scripts/fetch_feeds.py
+
+      - name: Commit updated files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feeds.json index.html
+          if git diff --staged --quiet; then
+            echo "No changes — feeds are up to date."
+          else
+            git commit -m "chore: refresh feed articles [skip ci]"
+            git push origin main
+          fi

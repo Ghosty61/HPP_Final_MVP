@@ -236,6 +236,10 @@
 <div class="toast" id="toast">LinkedIn post copied to clipboard</div>
 
 <script>
+  /* __FEEDS_DATA_START__ */
+  var __FEEDS__ = null;   // replaced with live data by GitHub Actions every 2 hours
+  /* __FEEDS_DATA_END__ */
+
   // ── Configuration ─────────────────────────────────────────────────────────
   const MAX_ARTICLES = 20;
 
@@ -465,51 +469,48 @@
     return card;
   }
 
-  // ── Main ──────────────────────────────────────────────────────────────────
-  async function loadFeeds() {
-    renderSkeletons();
-    const statusEl = document.getElementById("status");
-    const container = document.getElementById("feed-container");
+  // ── Render from article array ─────────────────────────────────────────────
+  function renderArticles(articles, failNote) {
+    const statusEl   = document.getElementById("status");
+    const container  = document.getElementById("feed-container");
 
-    // Fetch all feeds concurrently; don't let one failure block others
-    const results = await Promise.allSettled(RSS_FEEDS.map(fetchFeed));
-
-    let articles = [];
-    let failCount = 0;
-
-    results.forEach((r, i) => {
-      if (r.status === "fulfilled") {
-        articles = articles.concat(r.value);
-      } else {
-        failCount++;
-        console.warn(`Feed "${RSS_FEEDS[i].label}" failed:`, r.reason);
-      }
-    });
-
-    // Sort newest first, deduplicate by link, then cap at MAX_ARTICLES
     articles.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-    const seen = new Set();
-    const unique = articles.filter(a => {
-      if (seen.has(a.link)) return false;
-      seen.add(a.link);
-      return true;
-    });
+    const seen   = new Set();
+    const unique = articles.filter(a => { if (seen.has(a.link)) return false; seen.add(a.link); return true; });
     const display = unique.slice(0, MAX_ARTICLES);
 
     container.innerHTML = "";
-
     if (display.length === 0) {
       container.innerHTML = `<div class="error-msg">Could not load any articles. Check your network connection or feed URLs.</div>`;
       statusEl.textContent = "";
       return;
     }
-
     display.forEach(a => container.appendChild(renderArticle(a)));
+    statusEl.textContent = `Showing ${display.length} of ${unique.length} articles${failNote || ""}`;
+  }
 
-    const note = failCount > 0
-      ? ` (${failCount} feed${failCount > 1 ? "s" : ""} unavailable)`
-      : "";
-    statusEl.textContent = `Showing ${display.length} of ${unique.length} articles${note}`;
+  // ── Main ──────────────────────────────────────────────────────────────────
+  async function loadFeeds() {
+    renderSkeletons();
+
+    // ── Path 1: use pre-fetched data baked in by GitHub Actions (no network) ──
+    if (window.__FEEDS__ && Array.isArray(window.__FEEDS__.articles) && window.__FEEDS__.articles.length) {
+      renderArticles(window.__FEEDS__.articles, "");
+      return;
+    }
+
+    // ── Path 2: live fetch via rss2json.com (CORS + JSONP fallback) ───────────
+    const results = await Promise.allSettled(RSS_FEEDS.map(fetchFeed));
+
+    let articles = [];
+    let failCount = 0;
+    results.forEach((r, i) => {
+      if (r.status === "fulfilled") { articles = articles.concat(r.value); }
+      else { failCount++; console.warn(`Feed "${RSS_FEEDS[i].label}" failed:`, r.reason); }
+    });
+
+    const note = failCount > 0 ? ` (${failCount} feed${failCount > 1 ? "s" : ""} unavailable)` : "";
+    renderArticles(articles, note);
   }
 
   loadFeeds();
