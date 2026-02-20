@@ -2,6 +2,10 @@
 """
 Fetches HPP-relevant RSS feeds and inlines article data into index.html.
 Run by GitHub Actions on a schedule — no external dependencies required.
+
+Two feed types:
+  filtered=False  Google News queries (already targeted by search term)
+  filtered=True   Direct publication RSS feeds (broad content — keyword-filtered)
 """
 import json
 import re
@@ -10,60 +14,154 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
-# Google News RSS — US and UK/EU locale variants for broad HPP coverage.
+# ── Relevance filter ──────────────────────────────────────────────────────────
+# Articles from direct RSS feeds must contain at least one of these terms
+# (case-insensitive, checked in title + description combined).
+RELEVANCE_KEYWORDS = [
+    # HPP technology
+    "high pressure processing", " hpp ", "hpp-", "hpp:", "hpp—",
+    "pascalization", "ultra-high pressure", "cold pressed", "hyperbaric",
+    # Manufacturers
+    "hiperbaric", "quintus", "avure", "nc hyperbaric", "stansted fluid",
+    # Food safety — shown even without HPP mention (illustrates HPP's value)
+    "listeria", "salmonella", "e. coli", "e.coli", "campylobacter",
+    "food recall", "food safety alert", "food contamination",
+    "contamination recall", "outbreak", "pathogen", "foodborne",
+]
+
+
+def is_relevant(title, description):
+    """Return True if the article mentions any HPP or food-safety keyword."""
+    haystack = (title + " " + description).lower()
+    return any(kw in haystack for kw in RELEVANCE_KEYWORDS)
+
+
+# ── Feed definitions ──────────────────────────────────────────────────────────
 _GN_US = "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q="
 _GN_UK = "https://news.google.com/rss/search?hl=en-GB&gl=GB&ceid=GB:en&q="
 
 FEEDS = [
-    # ── HPP Manufacturers ────────────────────────────────────────────────────
-    {"label": "Hiperbaric",
-     "url": _GN_US + "Hiperbaric+%22high+pressure%22"},
+    # ━━ Direct industry & manufacturer RSS feeds (filtered=True) ━━━━━━━━━━━━
+    # Hiperbaric blog — the world's leading HPP manufacturer publishes frequently
+    {"label": "Hiperbaric Blog",
+     "url": "https://www.hiperbaric.com/en/hpp-technology/hpp-blog/rss.xml",
+     "filtered": False,   # every post is HPP-relevant
+     "fetch_limit": 10},
+
+    # Food Safety News — daily recall/outbreak reporting
+    {"label": "Food Safety News",
+     "url": "https://www.foodsafetynews.com/feed",
+     "filtered": True,
+     "fetch_limit": 20},
+
+    # New Food Magazine — UK/EU-leaning, strong HPP and food tech coverage
+    {"label": "New Food Magazine",
+     "url": "https://www.newfoodmagazine.com/feed",
+     "filtered": True,
+     "fetch_limit": 20},
+
+    # Food Dive — US industry news, frequent HPP & food safety stories
+    {"label": "Food Dive",
+     "url": "https://www.fooddive.com/feeds/news/",
+     "filtered": True,
+     "fetch_limit": 20},
+
+    # FoodNavigator — Europe edition (William Reed)
+    {"label": "FoodNavigator EU",
+     "url": "https://www.foodnavigator.com/Info/FoodNavigator-RSS",
+     "filtered": True,
+     "fetch_limit": 20},
+
+    # FoodNavigator USA
+    {"label": "FoodNavigator USA",
+     "url": "https://www.foodnavigator-usa.com/Info/FoodNavigator-USA-RSS",
+     "filtered": True,
+     "fetch_limit": 20},
+
+    # Food Manufacture UK (William Reed)
+    {"label": "Food Manufacture UK",
+     "url": "https://www.foodmanufacture.co.uk/Info/FoodManufacture-RSS",
+     "filtered": True,
+     "fetch_limit": 20},
+
+    # EFSA — EU food safety authority press releases
+    {"label": "EFSA Food Safety",
+     "url": "https://www.efsa.europa.eu/en/news/rss",
+     "filtered": True,
+     "fetch_limit": 20},
+
+    # UK FSA — food alerts and recalls
+    {"label": "UK Food Standards Agency",
+     "url": "https://www.food.gov.uk/news-alerts/feed",
+     "filtered": True,
+     "fetch_limit": 20},
+
+    # ━━ Google News targeted searches (filtered=False — query already focused) ━
+    # Manufacturers
+    {"label": "Hiperbaric News",
+     "url": _GN_US + "Hiperbaric+%22high+pressure%22",
+     "filtered": False, "fetch_limit": 5},
     {"label": "Quintus Technologies",
-     "url": _GN_US + "%22Quintus+Technologies%22+%22high+pressure%22"},
-    {"label": "Avure & Other HPP Equipment",
-     "url": _GN_US + "%22Avure%22+OR+%22NC+Hyperbaric%22+OR+%22Stansted+Fluid%22+%22high+pressure%22"},
-    {"label": "HPP Manufacturers Global",
-     "url": _GN_US + "%22high+pressure+processing%22+manufacturer+OR+equipment+OR+machine"},
+     "url": _GN_US + "%22Quintus+Technologies%22+%22high+pressure%22",
+     "filtered": False, "fetch_limit": 5},
+    {"label": "HPP Equipment Makers",
+     "url": _GN_US + "%22Avure%22+OR+%22NC+Hyperbaric%22+OR+%22Stansted+Fluid%22+%22high+pressure%22",
+     "filtered": False, "fetch_limit": 5},
+    {"label": "HPP Manufacturers",
+     "url": _GN_US + "%22high+pressure+processing%22+manufacturer+OR+equipment+OR+machine",
+     "filtered": False, "fetch_limit": 5},
 
-    # ── Food Safety ──────────────────────────────────────────────────────────
+    # Food safety (Google News — pre-filtered by query)
     {"label": "Listeria Outbreaks",
-     "url": _GN_US + "listeria+outbreak+food+recall+contamination"},
+     "url": _GN_US + "listeria+outbreak+food+recall+contamination",
+     "filtered": False, "fetch_limit": 5},
     {"label": "Salmonella Outbreaks",
-     "url": _GN_US + "salmonella+outbreak+food+recall+contamination"},
-    {"label": "Food Safety & Pathogens",
-     "url": _GN_US + "food+safety+pathogen+outbreak+HPP+OR+pasteurisation"},
+     "url": _GN_US + "salmonella+outbreak+food+recall+contamination",
+     "filtered": False, "fetch_limit": 5},
 
-    # ── HPP by Sector ────────────────────────────────────────────────────────
+    # HPP by sector
     {"label": "HPP Healthcare & Medical",
-     "url": _GN_US + "%22high+pressure+processing%22+medical+OR+healthcare+OR+pharmaceutical+OR+biotech"},
+     "url": _GN_US + "%22high+pressure+processing%22+medical+OR+healthcare+OR+pharmaceutical+OR+biotech",
+     "filtered": False, "fetch_limit": 5},
     {"label": "HPP Cosmetics & Beauty",
-     "url": _GN_US + "%22high+pressure+processing%22+cosmetics+OR+skincare+OR+beauty+OR+personal+care"},
+     "url": _GN_US + "%22high+pressure+processing%22+cosmetics+OR+skincare+OR+beauty+OR+%22personal+care%22",
+     "filtered": False, "fetch_limit": 5},
     {"label": "HPP Dairy",
-     "url": _GN_US + "%22high+pressure%22+dairy+OR+milk+OR+cheese+OR+yogurt+processing"},
+     "url": _GN_US + "%22high+pressure%22+dairy+OR+milk+OR+cheese+OR+yogurt+processing",
+     "filtered": False, "fetch_limit": 5},
     {"label": "HPP Seafood",
-     "url": _GN_US + "%22high+pressure%22+seafood+OR+shellfish+OR+oyster+OR+shrimp+processing"},
+     "url": _GN_US + "%22high+pressure%22+seafood+OR+shellfish+OR+oyster+OR+shrimp+processing",
+     "filtered": False, "fetch_limit": 5},
     {"label": "HPP Juices & Beverages",
-     "url": _GN_US + "%22high+pressure%22+juice+OR+beverage+OR+smoothie+OR+cold-pressed"},
+     "url": _GN_US + "%22high+pressure%22+juice+OR+beverage+OR+smoothie+OR+cold-pressed",
+     "filtered": False, "fetch_limit": 5},
     {"label": "HPP Meat & Deli",
-     "url": _GN_US + "%22high+pressure%22+meat+OR+deli+OR+charcuterie+OR+%22ready-to-eat%22+processing"},
+     "url": _GN_US + "%22high+pressure%22+meat+OR+deli+OR+charcuterie+OR+%22ready-to-eat%22+processing",
+     "filtered": False, "fetch_limit": 5},
     {"label": "HPP Soups & Meals",
-     "url": _GN_US + "%22high+pressure%22+soup+OR+%22ready+meal%22+OR+%22prepared+food%22+processing"},
+     "url": _GN_US + "%22high+pressure%22+soup+OR+%22ready+meal%22+OR+%22prepared+food%22+processing",
+     "filtered": False, "fetch_limit": 5},
     {"label": "HPP Innovation & Research",
-     "url": _GN_US + "%22high+pressure+processing%22+innovation+OR+research+OR+study+OR+technology"},
+     "url": _GN_US + "%22high+pressure+processing%22+innovation+OR+research+OR+study+OR+technology",
+     "filtered": False, "fetch_limit": 5},
 
-    # ── UK & EU Focus ────────────────────────────────────────────────────────
+    # UK & EU (Google News UK locale)
     {"label": "UK HPP Industry",
-     "url": _GN_UK + "%22high+pressure+processing%22+UK+OR+Britain+OR+England"},
+     "url": _GN_UK + "%22high+pressure+processing%22+UK+OR+Britain+OR+England",
+     "filtered": False, "fetch_limit": 5},
     {"label": "UK & EU Food Safety",
-     "url": _GN_UK + "food+safety+recall+contamination+UK+OR+Europe+OR+EFSA"},
+     "url": _GN_UK + "food+safety+recall+contamination+UK+OR+Europe+OR+EFSA",
+     "filtered": False, "fetch_limit": 5},
     {"label": "EU HPP & Food Tech",
-     "url": _GN_UK + "%22high+pressure%22+food+technology+Europe+OR+EU+OR+European"},
+     "url": _GN_UK + "%22high+pressure%22+food+technology+Europe+OR+EU+OR+European",
+     "filtered": False, "fetch_limit": 5},
     {"label": "UK Food Industry News",
-     "url": _GN_UK + "food+drink+industry+UK+processing+innovation"},
+     "url": _GN_UK + "food+drink+industry+UK+processing+innovation",
+     "filtered": False, "fetch_limit": 5},
 ]
 
-MAX_PER_FEED = 5
-MAX_TOTAL    = 40
+MAX_RELEVANT_PER_FILTERED_FEED = 5   # cap after keyword filtering
+MAX_TOTAL = 50
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; HPPFeedBot/1.0; +https://github.com/Ghosty61/HPP_Final_MVP)",
@@ -97,6 +195,9 @@ def parse_date(s):
 
 def fetch_rss(feed):
     """Fetch and parse an RSS/Atom feed; return list of article dicts."""
+    limit    = feed.get("fetch_limit", 10)
+    filtered = feed.get("filtered", False)
+
     req = urllib.request.Request(feed["url"], headers=HEADERS)
     with urllib.request.urlopen(req, timeout=15) as resp:
         raw = resp.read()
@@ -106,7 +207,7 @@ def fetch_rss(feed):
     items = []
 
     # ── RSS 2.0 ──────────────────────────────────────────────────────
-    for item in root.findall(".//item")[:MAX_PER_FEED]:
+    for item in root.findall(".//item")[:limit]:
         title = strip_html(item.findtext("title") or "")
         link  = (item.findtext("link") or "").strip()
         desc  = strip_html(item.findtext("description") or "")
@@ -114,12 +215,15 @@ def fetch_rss(feed):
                  item.findtext("dc:date",
                                namespaces={"dc": "http://purl.org/dc/elements/1.1/"}) or "")
         if title and link:
-            items.append({"source": feed["label"], "title": title,
-                          "link": link, "description": desc[:400], "pubDate": pub})
+            if not filtered or is_relevant(title, desc):
+                items.append({"source": feed["label"], "title": title,
+                              "link": link, "description": desc[:400], "pubDate": pub})
+                if filtered and len(items) >= MAX_RELEVANT_PER_FILTERED_FEED:
+                    break
 
     # ── Atom ─────────────────────────────────────────────────────────
     if not items:
-        for entry in root.findall("atom:entry", ns)[:MAX_PER_FEED]:
+        for entry in root.findall("atom:entry", ns)[:limit]:
             title = strip_html(entry.findtext("atom:title", namespaces=ns) or "")
             link_el = entry.find("atom:link[@rel='alternate']", ns) or entry.find("atom:link", ns)
             link  = (link_el.get("href", "") if link_el is not None else "").strip()
@@ -128,31 +232,48 @@ def fetch_rss(feed):
             pub   = (entry.findtext("atom:published", namespaces=ns) or
                      entry.findtext("atom:updated", namespaces=ns) or "")
             if title and link:
-                items.append({"source": feed["label"], "title": title,
-                              "link": link, "description": desc[:400], "pubDate": pub})
+                if not filtered or is_relevant(title, desc):
+                    items.append({"source": feed["label"], "title": title,
+                                  "link": link, "description": desc[:400], "pubDate": pub})
+                    if filtered and len(items) >= MAX_RELEVANT_PER_FILTERED_FEED:
+                        break
 
     return items
 
 
 # ── Fetch all feeds ───────────────────────────────────────────────────────────
 all_articles = []
+ok_count  = 0
+err_count = 0
 
 for f in FEEDS:
     try:
         arts = fetch_rss(f)
         all_articles.extend(arts)
-        print(f"  OK  {f['label']}: {len(arts)} articles")
+        tag = "(filtered)" if f.get("filtered") else ""
+        print(f"  OK  {f['label']}: {len(arts)} articles {tag}")
+        ok_count += 1
     except Exception as exc:
         print(f"  ERR {f['label']}: {exc}", file=sys.stderr)
+        err_count += 1
 
-all_articles.sort(key=lambda a: parse_date(a.get("pubDate", "")), reverse=True)
-all_articles = all_articles[:MAX_TOTAL]
+# Deduplicate by link
+seen  = set()
+dedup = []
+for a in all_articles:
+    key = a["link"].split("?")[0].rstrip("/")   # ignore query-string variants
+    if key not in seen:
+        seen.add(key)
+        dedup.append(a)
 
-print(f"\n  Total: {len(all_articles)} articles from {len(FEEDS)} feeds")
+dedup.sort(key=lambda a: parse_date(a.get("pubDate", "")), reverse=True)
+dedup = dedup[:MAX_TOTAL]
+
+print(f"\n  Total: {len(dedup)} unique articles | feeds OK={ok_count} ERR={err_count}")
 
 payload = {
     "updated":  datetime.now(timezone.utc).isoformat(),
-    "articles": all_articles,
+    "articles": dedup,
 }
 
 # ── Write feeds.json ──────────────────────────────────────────────────────────
