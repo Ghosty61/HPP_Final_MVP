@@ -237,16 +237,28 @@
 
 <script>
   // ── Configuration ─────────────────────────────────────────────────────────
-  const MAX_ARTICLES = 20;
+  const MAX_ARTICLES = 40;
 
-  // Google News RSS — fetched live in the browser via CORS proxy
-  const _GN = "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=";
+  // Google News RSS — fetched live in the browser via CORS proxy (fallback only)
+  const _GN_US = "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=";
+  const _GN_UK = "https://news.google.com/rss/search?hl=en-GB&gl=GB&ceid=GB:en&q=";
   const RSS_FEEDS = [
-    { label: "HPP News",       url: _GN + "high+pressure+processing+food" },
-    { label: "Food Safety",    url: _GN + "food+safety+news" },
-    { label: "Food Technology",url: _GN + "food+technology+innovation" },
-    { label: "Food Processing",url: _GN + "food+processing+industry" },
-    { label: "Food Packaging", url: _GN + "food+packaging+preservation" },
+    // HPP Manufacturers
+    { label: "Hiperbaric",              url: _GN_US + "Hiperbaric+%22high+pressure%22" },
+    { label: "Quintus Technologies",    url: _GN_US + "%22Quintus+Technologies%22+%22high+pressure%22" },
+    { label: "HPP Equipment Makers",    url: _GN_US + "%22Avure%22+OR+%22NC+Hyperbaric%22+%22high+pressure%22" },
+    // Food Safety
+    { label: "Listeria Outbreaks",      url: _GN_US + "listeria+outbreak+food+recall" },
+    { label: "Salmonella Outbreaks",    url: _GN_US + "salmonella+outbreak+food+recall" },
+    // HPP Sectors
+    { label: "HPP Healthcare",          url: _GN_US + "%22high+pressure+processing%22+medical+OR+healthcare" },
+    { label: "HPP Cosmetics",           url: _GN_US + "%22high+pressure+processing%22+cosmetics+OR+skincare" },
+    { label: "HPP Dairy & Seafood",     url: _GN_US + "%22high+pressure%22+dairy+OR+seafood+OR+oyster" },
+    { label: "HPP Juices & Beverages",  url: _GN_US + "%22high+pressure%22+juice+OR+beverage+OR+cold-pressed" },
+    { label: "HPP Meat & Ready Meals",  url: _GN_US + "%22high+pressure%22+meat+OR+deli+OR+%22ready-to-eat%22" },
+    // UK & EU
+    { label: "UK HPP Industry",         url: _GN_UK + "%22high+pressure+processing%22+UK+OR+Europe" },
+    { label: "UK & EU Food Safety",     url: _GN_UK + "food+safety+recall+UK+OR+Europe+OR+EFSA" },
   ];
 
   // CORS proxies tried in order; first success wins

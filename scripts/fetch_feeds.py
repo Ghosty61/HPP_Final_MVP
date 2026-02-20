@@ -10,23 +10,60 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
-# Google News RSS — specific search queries ensure only relevant HPP/food content.
-_GN = "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q="
+# Google News RSS — US and UK/EU locale variants for broad HPP coverage.
+_GN_US = "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q="
+_GN_UK = "https://news.google.com/rss/search?hl=en-GB&gl=GB&ceid=GB:en&q="
+
 FEEDS = [
-    {"label": "HPP Industry",
-     "url": _GN + "%22high+pressure+processing%22+food"},
-    {"label": "Food Safety News",
-     "url": _GN + "food+safety+technology+2024+OR+2025"},
-    {"label": "Food Technology",
-     "url": _GN + "food+technology+innovation+processing"},
-    {"label": "HPP Applications",
-     "url": _GN + "%22high+pressure%22+%22food+processing%22"},
-    {"label": "Food & Drink Industry",
-     "url": _GN + "food+drink+industry+news"},
+    # ── HPP Manufacturers ────────────────────────────────────────────────────
+    {"label": "Hiperbaric",
+     "url": _GN_US + "Hiperbaric+%22high+pressure%22"},
+    {"label": "Quintus Technologies",
+     "url": _GN_US + "%22Quintus+Technologies%22+%22high+pressure%22"},
+    {"label": "Avure & Other HPP Equipment",
+     "url": _GN_US + "%22Avure%22+OR+%22NC+Hyperbaric%22+OR+%22Stansted+Fluid%22+%22high+pressure%22"},
+    {"label": "HPP Manufacturers Global",
+     "url": _GN_US + "%22high+pressure+processing%22+manufacturer+OR+equipment+OR+machine"},
+
+    # ── Food Safety ──────────────────────────────────────────────────────────
+    {"label": "Listeria Outbreaks",
+     "url": _GN_US + "listeria+outbreak+food+recall+contamination"},
+    {"label": "Salmonella Outbreaks",
+     "url": _GN_US + "salmonella+outbreak+food+recall+contamination"},
+    {"label": "Food Safety & Pathogens",
+     "url": _GN_US + "food+safety+pathogen+outbreak+HPP+OR+pasteurisation"},
+
+    # ── HPP by Sector ────────────────────────────────────────────────────────
+    {"label": "HPP Healthcare & Medical",
+     "url": _GN_US + "%22high+pressure+processing%22+medical+OR+healthcare+OR+pharmaceutical+OR+biotech"},
+    {"label": "HPP Cosmetics & Beauty",
+     "url": _GN_US + "%22high+pressure+processing%22+cosmetics+OR+skincare+OR+beauty+OR+personal+care"},
+    {"label": "HPP Dairy",
+     "url": _GN_US + "%22high+pressure%22+dairy+OR+milk+OR+cheese+OR+yogurt+processing"},
+    {"label": "HPP Seafood",
+     "url": _GN_US + "%22high+pressure%22+seafood+OR+shellfish+OR+oyster+OR+shrimp+processing"},
+    {"label": "HPP Juices & Beverages",
+     "url": _GN_US + "%22high+pressure%22+juice+OR+beverage+OR+smoothie+OR+cold-pressed"},
+    {"label": "HPP Meat & Deli",
+     "url": _GN_US + "%22high+pressure%22+meat+OR+deli+OR+charcuterie+OR+%22ready-to-eat%22+processing"},
+    {"label": "HPP Soups & Meals",
+     "url": _GN_US + "%22high+pressure%22+soup+OR+%22ready+meal%22+OR+%22prepared+food%22+processing"},
+    {"label": "HPP Innovation & Research",
+     "url": _GN_US + "%22high+pressure+processing%22+innovation+OR+research+OR+study+OR+technology"},
+
+    # ── UK & EU Focus ────────────────────────────────────────────────────────
+    {"label": "UK HPP Industry",
+     "url": _GN_UK + "%22high+pressure+processing%22+UK+OR+Britain+OR+England"},
+    {"label": "UK & EU Food Safety",
+     "url": _GN_UK + "food+safety+recall+contamination+UK+OR+Europe+OR+EFSA"},
+    {"label": "EU HPP & Food Tech",
+     "url": _GN_UK + "%22high+pressure%22+food+technology+Europe+OR+EU+OR+European"},
+    {"label": "UK Food Industry News",
+     "url": _GN_UK + "food+drink+industry+UK+processing+innovation"},
 ]
 
-MAX_PER_FEED = 8
-MAX_TOTAL    = 20
+MAX_PER_FEED = 5
+MAX_TOTAL    = 40
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; HPPFeedBot/1.0; +https://github.com/Ghosty61/HPP_Final_MVP)",
