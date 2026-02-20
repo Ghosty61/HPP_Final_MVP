@@ -41,121 +41,98 @@ _GN_US = "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q="
 _GN_UK = "https://news.google.com/rss/search?hl=en-GB&gl=GB&ceid=GB:en&q="
 
 FEEDS = [
-    # ━━ Direct industry & manufacturer RSS feeds (filtered=True) ━━━━━━━━━━━━
-    # Hiperbaric blog — the world's leading HPP manufacturer publishes frequently
+    # ━━ Direct manufacturer & publication RSS feeds ━━━━━━━━━━━━━━━━━━━━━━━━━━
+    # Hiperbaric blog (HubSpot CMS — try two common HubSpot RSS URL patterns)
     {"label": "Hiperbaric Blog",
      "url": "https://www.hiperbaric.com/en/hpp-technology/hpp-blog/rss.xml",
-     "filtered": False,   # every post is HPP-relevant
-     "fetch_limit": 10},
+     "filtered": False, "fetch_limit": 10},
+    {"label": "Hiperbaric Blog (alt)",
+     "url": "https://www.hiperbaric.com/en/hpp-technology/hpp-blog?format=rss",
+     "filtered": False, "fetch_limit": 10},
 
-    # Food Safety News — daily recall/outbreak reporting
+    # Food Safety News — daily recall/outbreak reporting (WordPress)
     {"label": "Food Safety News",
      "url": "https://www.foodsafetynews.com/feed",
-     "filtered": True,
-     "fetch_limit": 20},
+     "filtered": True, "fetch_limit": 20},
 
-    # New Food Magazine — UK/EU-leaning, strong HPP and food tech coverage
+    # New Food Magazine — UK/EU-leaning, strong HPP coverage (WordPress)
     {"label": "New Food Magazine",
      "url": "https://www.newfoodmagazine.com/feed",
-     "filtered": True,
-     "fetch_limit": 20},
+     "filtered": True, "fetch_limit": 20},
 
-    # Food Dive — US industry news, frequent HPP & food safety stories
+    # Food Dive — US industry news, frequent HPP stories
     {"label": "Food Dive",
      "url": "https://www.fooddive.com/feeds/news/",
-     "filtered": True,
-     "fetch_limit": 20},
-
-    # FoodNavigator — Europe edition (William Reed)
-    {"label": "FoodNavigator EU",
-     "url": "https://www.foodnavigator.com/Info/FoodNavigator-RSS",
-     "filtered": True,
-     "fetch_limit": 20},
-
-    # FoodNavigator USA
-    {"label": "FoodNavigator USA",
-     "url": "https://www.foodnavigator-usa.com/Info/FoodNavigator-USA-RSS",
-     "filtered": True,
-     "fetch_limit": 20},
-
-    # Food Manufacture UK (William Reed)
-    {"label": "Food Manufacture UK",
-     "url": "https://www.foodmanufacture.co.uk/Info/FoodManufacture-RSS",
-     "filtered": True,
-     "fetch_limit": 20},
-
-    # EFSA — EU food safety authority press releases
-    {"label": "EFSA Food Safety",
-     "url": "https://www.efsa.europa.eu/en/news/rss",
-     "filtered": True,
-     "fetch_limit": 20},
-
-    # UK FSA — food alerts and recalls
-    {"label": "UK Food Standards Agency",
-     "url": "https://www.food.gov.uk/news-alerts/feed",
-     "filtered": True,
-     "fetch_limit": 20},
+     "filtered": True, "fetch_limit": 20},
 
     # ━━ Google News targeted searches (filtered=False — query already focused) ━
-    # Manufacturers
-    {"label": "Hiperbaric News",
-     "url": _GN_US + "Hiperbaric+%22high+pressure%22",
+    # ── Manufacturers ────────────────────────────────────────────────────────
+    # Hiperbaric: search brand name alone to catch ALL their coverage & blog posts
+    {"label": "Hiperbaric",
+     "url": _GN_US + "Hiperbaric",
+     "filtered": False, "fetch_limit": 8},
+    # Also search UK/EU Google News for Hiperbaric to catch European coverage
+    {"label": "Hiperbaric EU",
+     "url": _GN_UK + "Hiperbaric",
      "filtered": False, "fetch_limit": 5},
     {"label": "Quintus Technologies",
-     "url": _GN_US + "%22Quintus+Technologies%22+%22high+pressure%22",
+     "url": _GN_US + "%22Quintus+Technologies%22",
      "filtered": False, "fetch_limit": 5},
-    {"label": "HPP Equipment Makers",
-     "url": _GN_US + "%22Avure%22+OR+%22NC+Hyperbaric%22+OR+%22Stansted+Fluid%22+%22high+pressure%22",
+    {"label": "Avure HPP",
+     "url": _GN_US + "%22Avure%22+%22high+pressure%22",
      "filtered": False, "fetch_limit": 5},
-    {"label": "HPP Manufacturers",
+    {"label": "NC Hyperbaric",
+     "url": _GN_US + "%22NC+Hyperbaric%22",
+     "filtered": False, "fetch_limit": 5},
+    {"label": "HPP Equipment & Machines",
      "url": _GN_US + "%22high+pressure+processing%22+manufacturer+OR+equipment+OR+machine",
      "filtered": False, "fetch_limit": 5},
 
-    # Food safety (Google News — pre-filtered by query)
+    # ── Food safety ──────────────────────────────────────────────────────────
     {"label": "Listeria Outbreaks",
-     "url": _GN_US + "listeria+outbreak+food+recall+contamination",
-     "filtered": False, "fetch_limit": 5},
+     "url": _GN_US + "listeria+outbreak+food+recall",
+     "filtered": False, "fetch_limit": 6},
     {"label": "Salmonella Outbreaks",
-     "url": _GN_US + "salmonella+outbreak+food+recall+contamination",
+     "url": _GN_US + "salmonella+outbreak+food+recall",
+     "filtered": False, "fetch_limit": 6},
+    {"label": "Food Safety UK & EU",
+     "url": _GN_UK + "listeria+OR+salmonella+food+safety+recall+UK+OR+Europe",
      "filtered": False, "fetch_limit": 5},
 
-    # HPP by sector
+    # ── HPP by sector ────────────────────────────────────────────────────────
     {"label": "HPP Healthcare & Medical",
-     "url": _GN_US + "%22high+pressure+processing%22+medical+OR+healthcare+OR+pharmaceutical+OR+biotech",
+     "url": _GN_US + "%22high+pressure+processing%22+medical+OR+healthcare+OR+pharmaceutical",
      "filtered": False, "fetch_limit": 5},
     {"label": "HPP Cosmetics & Beauty",
-     "url": _GN_US + "%22high+pressure+processing%22+cosmetics+OR+skincare+OR+beauty+OR+%22personal+care%22",
+     "url": _GN_US + "%22high+pressure+processing%22+cosmetics+OR+skincare+OR+beauty",
      "filtered": False, "fetch_limit": 5},
     {"label": "HPP Dairy",
-     "url": _GN_US + "%22high+pressure%22+dairy+OR+milk+OR+cheese+OR+yogurt+processing",
+     "url": _GN_US + "%22high+pressure%22+dairy+OR+milk+OR+cheese+processing",
      "filtered": False, "fetch_limit": 5},
     {"label": "HPP Seafood",
-     "url": _GN_US + "%22high+pressure%22+seafood+OR+shellfish+OR+oyster+OR+shrimp+processing",
+     "url": _GN_US + "%22high+pressure%22+seafood+OR+shellfish+OR+oyster+processing",
      "filtered": False, "fetch_limit": 5},
     {"label": "HPP Juices & Beverages",
-     "url": _GN_US + "%22high+pressure%22+juice+OR+beverage+OR+smoothie+OR+cold-pressed",
+     "url": _GN_US + "%22high+pressure%22+juice+OR+beverage+OR+%22cold+pressed%22",
      "filtered": False, "fetch_limit": 5},
     {"label": "HPP Meat & Deli",
-     "url": _GN_US + "%22high+pressure%22+meat+OR+deli+OR+charcuterie+OR+%22ready-to-eat%22+processing",
+     "url": _GN_US + "%22high+pressure%22+meat+OR+deli+OR+%22ready-to-eat%22+processing",
      "filtered": False, "fetch_limit": 5},
     {"label": "HPP Soups & Meals",
-     "url": _GN_US + "%22high+pressure%22+soup+OR+%22ready+meal%22+OR+%22prepared+food%22+processing",
+     "url": _GN_US + "%22high+pressure%22+soup+OR+%22ready+meal%22+processing",
      "filtered": False, "fetch_limit": 5},
     {"label": "HPP Innovation & Research",
-     "url": _GN_US + "%22high+pressure+processing%22+innovation+OR+research+OR+study+OR+technology",
+     "url": _GN_US + "%22high+pressure+processing%22+innovation+OR+research+OR+technology",
      "filtered": False, "fetch_limit": 5},
 
-    # UK & EU (Google News UK locale)
+    # ── UK & EU focus ────────────────────────────────────────────────────────
     {"label": "UK HPP Industry",
-     "url": _GN_UK + "%22high+pressure+processing%22+UK+OR+Britain+OR+England",
-     "filtered": False, "fetch_limit": 5},
-    {"label": "UK & EU Food Safety",
-     "url": _GN_UK + "food+safety+recall+contamination+UK+OR+Europe+OR+EFSA",
+     "url": _GN_UK + "%22high+pressure+processing%22+UK+OR+Britain",
      "filtered": False, "fetch_limit": 5},
     {"label": "EU HPP & Food Tech",
-     "url": _GN_UK + "%22high+pressure%22+food+technology+Europe+OR+EU+OR+European",
+     "url": _GN_UK + "%22high+pressure%22+food+technology+Europe+OR+EU",
      "filtered": False, "fetch_limit": 5},
-    {"label": "UK Food Industry News",
+    {"label": "UK Food Industry",
      "url": _GN_UK + "food+drink+industry+UK+processing+innovation",
      "filtered": False, "fetch_limit": 5},
 ]
@@ -257,11 +234,11 @@ for f in FEEDS:
         print(f"  ERR {f['label']}: {exc}", file=sys.stderr)
         err_count += 1
 
-# Deduplicate by link
+# Deduplicate by link (strip query strings which vary between sources)
 seen  = set()
 dedup = []
 for a in all_articles:
-    key = a["link"].split("?")[0].rstrip("/")   # ignore query-string variants
+    key = a["link"].split("?")[0].rstrip("/")
     if key not in seen:
         seen.add(key)
         dedup.append(a)
