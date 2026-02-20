@@ -236,16 +236,34 @@
 <div class="toast" id="toast">LinkedIn post copied to clipboard</div>
 
 <script>
-  /* __FEEDS_DATA_START__ */
-  var __FEEDS__ = null;   // replaced with live data by GitHub Actions every 2 hours
-  /* __FEEDS_DATA_END__ */
-
   // ── Configuration ─────────────────────────────────────────────────────────
   const MAX_ARTICLES = 20;
 
-  // feeds.json is updated every 2 hours by GitHub Actions
-  const FEEDS_JSON_URL =
-    "https://raw.githubusercontent.com/Ghosty61/HPP_Final_MVP/main/feeds.json";
+  // Google News RSS — fetched live in the browser via CORS proxy
+  const _GN = "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=";
+  const RSS_FEEDS = [
+    { label: "HPP News",       url: _GN + "high+pressure+processing+food" },
+    { label: "Food Safety",    url: _GN + "food+safety+news" },
+    { label: "Food Technology",url: _GN + "food+technology+innovation" },
+    { label: "Food Processing",url: _GN + "food+processing+industry" },
+    { label: "Food Packaging", url: _GN + "food+packaging+preservation" },
+  ];
+
+  // CORS proxies tried in order; first success wins
+  const PROXIES = [
+    {
+      build:   u => "https://corsproxy.io/?" + encodeURIComponent(u),
+      extract: async r => r.text(),
+    },
+    {
+      build:   u => "https://api.allorigins.win/get?url=" + encodeURIComponent(u),
+      extract: async r => { const j = await r.json(); return j.contents; },
+    },
+    {
+      build:   u => "https://thingproxy.freeboard.io/fetch/" + u,
+      extract: async r => r.text(),
+    },
+  ];
 
   // ── HTML stripping ────────────────────────────────────────────────────────
   /**
@@ -408,30 +426,83 @@
     statusEl.textContent = `Showing ${display.length} of ${unique.length} articles${failNote || ""}`;
   }
 
+  // ── RSS fetch & parse ─────────────────────────────────────────────────────
+  function parseXmlItems(xmlStr, feedLabel) {
+    const parser = new DOMParser();
+    const xml = parser.parseFromString(xmlStr, "text/xml");
+    const items = Array.from(xml.querySelectorAll("item, entry"));
+    if (!items.length) throw new Error("No items in feed");
+    return items.map(item => ({
+      source:      feedLabel,
+      title:       stripHtml(item.querySelector("title")?.textContent || ""),
+      link:        item.querySelector("link")?.textContent?.trim()
+                   || item.querySelector("link")?.getAttribute("href") || "#",
+      description: stripHtml(
+                     item.querySelector("description")?.textContent
+                     || item.querySelector("summary")?.textContent || ""
+                   ),
+      pubDate:     item.querySelector("pubDate")?.textContent
+                   || item.querySelector("published")?.textContent || "",
+    }));
+  }
+
+  async function fetchFeed(feed) {
+    let lastError;
+    for (const proxy of PROXIES) {
+      try {
+        const controller = new AbortController();
+        const timeout = setTimeout(() => controller.abort(), 9000);
+        const res = await fetch(proxy.build(feed.url), { signal: controller.signal });
+        clearTimeout(timeout);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const xmlStr = await proxy.extract(res);
+        return parseXmlItems(xmlStr, feed.label);
+      } catch (e) {
+        lastError = e;
+      }
+    }
+    throw lastError;
+  }
+
   // ── Main ──────────────────────────────────────────────────────────────────
   async function loadFeeds() {
     renderSkeletons();
+    const statusEl = document.getElementById("status");
+    const container = document.getElementById("feed-container");
 
-    // ── Path 1: inline data baked in by GitHub Actions (GitHub Pages version) ──
-    if (window.__FEEDS__ && Array.isArray(window.__FEEDS__.articles) && window.__FEEDS__.articles.length) {
-      renderArticles(window.__FEEDS__.articles, "");
+    const results = await Promise.allSettled(RSS_FEEDS.map(fetchFeed));
+
+    let articles = [];
+    let failCount = 0;
+    results.forEach((r, i) => {
+      if (r.status === "fulfilled") {
+        articles = articles.concat(r.value);
+      } else {
+        failCount++;
+        console.warn(`Feed "${RSS_FEEDS[i].label}" failed:`, r.reason);
+      }
+    });
+
+    articles.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+    const seen = new Set();
+    const unique = articles.filter(a => {
+      if (seen.has(a.link)) return false;
+      seen.add(a.link);
+      return true;
+    });
+    const display = unique.slice(0, MAX_ARTICLES);
+
+    container.innerHTML = "";
+    if (display.length === 0) {
+      container.innerHTML = `<div class="error-msg">Could not load any articles. Check your network connection or feed URLs.</div>`;
+      statusEl.textContent = "";
       return;
     }
-
-    // ── Path 2: fetch feeds.json from GitHub — updated every 2 hours ──────────
-    try {
-      const res = await fetch(FEEDS_JSON_URL, { cache: "no-cache" });
-      if (!res.ok) throw new Error("HTTP " + res.status);
-      const data = await res.json();
-      if (Array.isArray(data.articles) && data.articles.length) {
-        renderArticles(data.articles, "");
-        return;
-      }
-    } catch (err) {
-      console.warn("Could not fetch feeds.json from GitHub:", err);
-    }
-
-    renderArticles([], "");
+    display.forEach(a => container.appendChild(renderArticle(a)));
+    const note = failCount > 0
+      ? ` (${failCount} feed${failCount > 1 ? "s" : ""} unavailable)`
+      : "";
+    statusEl.textContent = `Showing ${display.length} of ${unique.length} articles${note}`;
   }
 
   loadFeeds();
