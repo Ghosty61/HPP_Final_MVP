@@ -10,37 +10,26 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
-# Reddit RSS feeds are explicitly bot-friendly and reliably accessible from CI/CD runners.
-# PubMed provides open academic RSS with no bot restrictions.
+# Google News RSS — specific search queries ensure only relevant HPP/food content.
+_GN = "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q="
 FEEDS = [
-    # Reddit — open RSS, no bot blocking, relevant communities
-    {"label": "r/foodscience",
-     "url": "https://www.reddit.com/r/foodscience/.rss"},
-    {"label": "r/FoodSafety",
-     "url": "https://www.reddit.com/r/FoodSafety/.rss"},
-    {"label": "HPP Search",
-     "url": "https://www.reddit.com/search.rss?q=high+pressure+processing+food&sort=new"},
-    # PubMed — open academic RSS, government infrastructure, no bot blocking
-    {"label": "PubMed: HPP",
-     "url": (
-         "https://pubmed.ncbi.nlm.nih.gov/rss/search/"
-         "?term=high+pressure+processing+food"
-         "&db=pubmed&retmax=8&tool=HPPFeedBot&email=bot@example.com"
-     )},
-    {"label": "PubMed: Food Safety",
-     "url": (
-         "https://pubmed.ncbi.nlm.nih.gov/rss/search/"
-         "?term=food+safety+technology+preservation"
-         "&db=pubmed&retmax=8&tool=HPPFeedBot&email=bot@example.com"
-     )},
+    {"label": "HPP Industry",
+     "url": _GN + "%22high+pressure+processing%22+food"},
+    {"label": "Food Safety News",
+     "url": _GN + "food+safety+technology+2024+OR+2025"},
+    {"label": "Food Technology",
+     "url": _GN + "food+technology+innovation+processing"},
+    {"label": "HPP Applications",
+     "url": _GN + "%22high+pressure%22+%22food+processing%22"},
+    {"label": "Food & Drink Industry",
+     "url": _GN + "food+drink+industry+news"},
 ]
 
 MAX_PER_FEED = 8
 MAX_TOTAL    = 20
 
 HEADERS = {
-    # Reddit requires a descriptive UA; generic 'Mozilla' UAs are blocked.
-    "User-Agent": "HPPFeedBot/1.0 (GitHub Actions bot; +https://github.com/Ghosty61/HPP_Final_MVP)",
+    "User-Agent": "Mozilla/5.0 (compatible; HPPFeedBot/1.0; +https://github.com/Ghosty61/HPP_Final_MVP)",
 }
 
 
