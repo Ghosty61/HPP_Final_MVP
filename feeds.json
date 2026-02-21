@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-21T10:27:37.997788+00:00",
+  "updated": "2026-02-21T12:50:29.336311+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -149,7 +149,7 @@
       "pubDate": "Wed, 11 Feb 2026 13:45:00 GMT"
     },
     {
-      "source": "HPP Dairy",
+      "source": "HPP Cosmetics & Beauty",
       "title": "Milk | Pros, Cons, Debate, Arguments, Dairy, Nutrition, & Health - Britannica",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42d2NVQXpzcmh1Sjk0OGF3cngwdTNVdlJwZ0h5cE02UEtRZ0Rzb0VNa2pTcmllYmdyanJGejhqZEZCeUpyUGMtLUZsYXRxTnlMaS1ESnl2azk?oc=5",
       "description": "Milk | Pros, Cons, Debate, Arguments, Dairy, Nutrition, & Health Britannica",
@@ -175,6 +175,13 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80TVJmeFBjdi14cHhHR3NiV0c4RzJ6bWR6OERFV1VRSkw4b0p1QXhHeDFjdy12X05POWNqWHk2NDVRNjNqckhkeEd2TS1JWjhHMllFVkg4REJ6TGdlUGpjZEd0azdmQdIBa0FVX3lxTE00VDgyWWQ3a1ZZLTIzSEdSWVEyZW80NGVZT2FjUnF1Wm44dXppV3REeWU1bjJfYlFtMzdmU01zMHlOVzBwNWdDc3JXWEMxNm9VdGR4RkdwNTk3V1AwR3lVOXN0bzZRa0YyemJB?oc=5",
       "description": "Antioxidant-Rich Barrier Creams Trend Hunter",
       "pubDate": "Mon, 26 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Soups & Meals",
+      "title": "Incidental food nanoparticles from freshwater clam soup stabilize Pickering emulsions - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3M29MLW96aDdhaV81RWJmYlhTTHYxWER6SlcybnI2S2RjZHhjSjJXNjR6TGxIUUdqcXBnMzFxQkFOa1JiaVlxR1N1b1dMbzQ1RHlieGs0dUpjaGxIMXJj?oc=5",
+      "description": "Incidental food nanoparticles from freshwater clam soup stabilize Pickering emulsions Nature",
+      "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT"
     },
     {
       "source": "Quintus Technologies",
@@ -241,31 +248,31 @@
     },
     {
       "source": "Quintus Technologies",
-      "title": "Second Hot Isostatic Press to go live at Wallwork in time for Formnext - Aerospace Manufacturing",
+      "title": "Second Hot Isostatic Press to go live at Wallwork in time for Formnext - Aerospace Manufacturing magazine",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS2hObS14cmN1VFc4WEx3SkN6enFzOXFycVNZeDVEUTg1MTRiejd5T1lYcWdkOE9rcEhUc2tVUDRQMUc3cjVSUTRqUmN2bnVjZVpRdFc3d0p1SWZITXlxWTFqNEVfMG1ubzlVeDFCRXV0UHVwS0VBbFRNMTI3UXMwWUQwWFZ3OFBsXzhHQVA3dWRld0R2dHI5R081UQ?oc=5",
-      "description": "Second Hot Isostatic Press to go live at Wallwork in time for Formnext Aerospace Manufacturing",
+      "description": "Second Hot Isostatic Press to go live at Wallwork in time for Formnext Aerospace Manufacturing magazine",
       "pubDate": "Mon, 03 Nov 2025 08:00:00 GMT"
     },
     {
-      "source": "HPP Cosmetics & Beauty",
+      "source": "HPP Healthcare & Medical",
       "title": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdFZlWGhqdzd2Qk81Q1kyN2tXc2M1VGVMdDBrM19kNkt6S3pZbWkwLVR6WUFYcUVLVTRtdEVsR2M2TzQzN3FXOVpGOUxlejdTd2VqdUhyekZuSnVCU0xXY0NSZklEcFphM3hwSS1PY1duUkJBeFo4dzUzWHRqX2YzVzB4a2tTRmZwS05SRk5jdlduVWlPUTRzVXN0em9INjhHX3hTaUs4dVo4RjRJMlhfM2RTaHJncHNUZUpTV3FNV1QzMWxGVkdfQmcxcjI1UWl3UW42djBsa3dUNklQdE83TmxkbnNQcnQwbUstTTh2SnRPb1hBZ3ZqTV9LNURDMFV1eklubElBVzhQM0lqM1Zv?oc=5",
       "description": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership PR Newswire",
       "pubDate": "Mon, 03 Nov 2025 08:00:00 GMT"
     },
     {
-      "source": "UK HPP Industry",
+      "source": "HPP Dairy",
       "title": "Farm to factory: These are the technologies transforming modern dairy manufacturing - FoodBev Media",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUXY1V2ZWc3l5MlVWRFZFdnozSHpNUXJPVG1rdVp1ME9jdGJtTnJTSktTMEhEdnA0YzB5VzdDTUpTQzFKM3c4bnp1aDUwcGpTeDJPMGpOZWMwdnIxU3RxWTRnaU5mOXhYelA1R0V1X1ljY1NjWllwVkZyUTZMX29FeU8zR2ZXc0Rxempna0JGYm01VHplWDJuZ0cyYV9Tb3pVeG9EcGlzY2l1cFFQbnJBdg?oc=5",
       "description": "Farm to factory: These are the technologies transforming modern dairy manufacturing FoodBev Media",
       "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "GEA’s NiSoMate® becomes an essential compliance tool as EU waste directive comes into force - New Food magazine",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelI2dkkyYkNqcm5MWXFoeWlxbUVPaGZMN085X3FZb0N6TWRpek90Mnd4akRtU3hpdUNGems5cnU1U3VtRDBUVU1lTXJzOE1JNkJ3MW1XUGNLZTlTNzI4U2xBLUVURlBySTVEYVNHa0pyQ0l0ampKTVJjc1pqdGxSbWZ6NDdGZ3hWUjcxX2dCSUxBUQ?oc=5",
-      "description": "GEA’s NiSoMate® becomes an essential compliance tool as EU waste directive comes into force New Food magazine",
-      "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT"
+      "source": "HPP Dairy",
+      "title": "The key to dairy foods safety - Dairy Foods Magazine",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SVklCRXdLbHc5enNib2R6am1UdHA5VDhNeW9qd290OXNNUkRnd1owcWxBcGhPb1UtY2FXQnpQbERTdzlNX0d3UjNIbzRyLWd6VDR2X1BYXzV5LTFscXc0VVozMGpDR1d1S09QRHprNXhkZlg2bGZPeUJ6aw?oc=5",
+      "description": "The key to dairy foods safety Dairy Foods Magazine",
+      "pubDate": "Fri, 10 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "HPP Soups & Meals",
@@ -317,6 +324,13 @@
       "pubDate": "Mon, 15 Sep 2025 07:00:00 GMT"
     },
     {
+      "source": "EU HPP & Food Tech",
+      "title": "Food Preservatives Market Size and Share Forecast Outlook 2025 to 2035 - Fact.MR",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40N0E5Um9JQlFBY1d5YUp4R3ZES00wbzNDSUxnLXBSeENlbU0wRmZzeHpzUVpIMW84ckNDT2lmRkd1VlVJN29UOHR6UEppdjNMbE5pbklmSFZmR1lSZWNyNUdWcXZvOUdTQlM4?oc=5",
+      "description": "Food Preservatives Market Size and Share Forecast Outlook 2025 to 2035 Fact.MR",
+      "pubDate": "Thu, 11 Sep 2025 07:00:00 GMT"
+    },
+    {
       "source": "HPP Juices & Beverages",
       "title": "HPP technology offers beverage brands a fresh take on minimal processing - Beverage Industry",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNjlXVkgwNWotWjlSN1c1NUNqWmZtR3otSTdXREhDVk5XdzVDUzZFRC1VYjR1ekM2RlJ2aVd4cG0zVm1hWEpIQ0NXRjZoY2VPZEE0VGwxLXZBVTg5MWY1em42WjNmRzc3SjJFU2toVGJnTWMxX3Z5MUI4ZEFlU2NITVZXSklaamJMbFJFd2QxRnJnaEdscTQ4Z01GVnAwMjRUTERqREVLSDVQbnFWVG9kSEdfemtqUQ?oc=5",
@@ -331,25 +345,11 @@
       "pubDate": "Sat, 30 Aug 2025 07:00:00 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "Food Irradiation Equipment Market | Global Market Analysis Report - 2035 - Future Market Insights",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb3V6cjBzVWpMZTdSa1ltUHJDV2JKalpHcjN6VU9SS193aW14ME5Ic1FzTERYZWZObmwxVUNTaDN4NG4waGdDYTdVYkk5akpEZUZfYXUwTkxCRmhwMDlQaGNYMV80TmFHTkVoTDB2NjNBQmxWUUsyQXN4TmtTbDY3VHdVOXQ?oc=5",
-      "description": "Food Irradiation Equipment Market | Global Market Analysis Report - 2035 Future Market Insights",
-      "pubDate": "Fri, 22 Aug 2025 07:00:00 GMT"
-    },
-    {
       "source": "UK HPP Industry",
-      "title": "Daily Dose expands with new juice offerings - Food Manufacture",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUjhaaVNMUS1RRXE4bU56MGtMbk9qWWNVS29LYmxXQThPelJtWDl1aGd5NnZkM0RZcFl3ckJOOW9yZXVDZE05NHAtWVcyUWJEVUdPcWw0X2JFbVRwbWl3WkxOZWUtbG9FbDdqRklDcmEyaDhmWk5HN2lZUy1pbmxSVGhZMVpCQ0FFQkJ4Si10ZWFlZllxYWpZOVFDWGNoWUdocm1rek5iekxaOHlGLUhSSmFn?oc=5",
-      "description": "Daily Dose expands with new juice offerings Food Manufacture",
-      "pubDate": "Fri, 08 Aug 2025 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Baby food in pouches is stripped of nutrients – but convenient, healthy alternatives are on the horizon - The Conversation",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOFQtQjdneDIyOC1hZ0Njb3luQTl2eUY1SmtidXhWSnRuSVFBRzU4cHpMaXd4UWEtWEZtTVpHLWhYd2pxRTdsTE1NYk9OMnlqVEp1QjdmNU1kbGtma244ZFZzTTJFV3JVTnZfcnpPRjVBemMzYVdvQUQyUGpIRE9BZy03OF9kMkxLa3FKZW9id3FpMEVXN0R6SlFrWkUyMmJpcUJMNDlKZTZUQjZsRzNHdlZYZ3VuemxBZDBWM2M4WmdrRDBqbkxka3RqcmYzYm42?oc=5",
-      "description": "Baby food in pouches is stripped of nutrients – but convenient, healthy alternatives are on the horizon The Conversation",
-      "pubDate": "Fri, 08 Aug 2025 07:00:00 GMT"
+      "title": "High Pressure Processing (HPP) for Rice and Grain Market | Global Market Analysis Report - 2035 - Future Market Insights",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTFRoeGFhZ094LVVhN01DbkJCd1RhVXVpaUttWUZiNk1YYWx3VWwycWRrSXlBbENEQW95UmFOTk91S2Z3dWl6dWdWQndoNzdlY0tpQ1g5RmRLa0ZwWEt1UGxudHEzRk5USW5FQ1FocEQ3NGhrV2pxYjdxTV9iVDNiZzhEY3k1T1BTT3hDcmtfdWpFeVM2THZSbHJYVE11bU1k?oc=5",
+      "description": "High Pressure Processing (HPP) for Rice and Grain Market | Global Market Analysis Report - 2035 Future Market Insights",
+      "pubDate": "Thu, 28 Aug 2025 07:00:00 GMT"
     }
   ]
 }
