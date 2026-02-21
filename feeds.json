@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-21T06:43:12.131566+00:00",
+  "updated": "2026-02-21T08:32:40.020891+00:00",
   "articles": [
     {
       "source": "Salmonella Outbreaks",
@@ -114,18 +114,18 @@
       "pubDate": "Tue, 17 Feb 2026 07:54:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Extensively Drug-Resistant Salmonella Outbreak Linked to Moringa Powder Capsules - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54ZVo4a2hNMkFQUVVld1VUM0NpMXRPdVY2SFFvYnVNX21Ga0hnZU5yQ29XV1VEYVZfQnhkSHRvQVhOM1V4eGhmd2k5ZFYxdEtVMWZkd0w2a1VsQUs4SlM4dzh1QWF1NEkycGlLOC0wUjk0N1ppSk55RFBpQ2RYZw?oc=5",
-      "description": "Extensively Drug-Resistant Salmonella Outbreak Linked to Moringa Powder Capsules Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Fri, 13 Feb 2026 21:54:42 GMT"
-    },
-    {
       "source": "Hiperbaric",
       "title": "American Pasteurization Company Expands HPP Capacity in Milwaukee - National Today",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdU9iWVZGdDltUzFHazEwNTQ2UlYzQllGV2JBSnV0b01xWGdsREFKMHNIcFA1bVNMY25kUFhFV19WaXU0emhQRTdyLUUxQWtvTTdTZXJjTEdzRll1RGtjZXJuT2xQcURIYzVvQWctSGNuZ2ZMYWVUd0UzeGhXS2RtNmZPRndHeTNyemcxRUhYWnJBNXUyTDMtVVRaX0F3bXZEdk8zcDgzdnAtVVVOS0dxUnZEcjFTbWVObGhhRnJWaXFBdw?oc=5",
       "description": "American Pasteurization Company Expands HPP Capacity in Milwaukee National Today",
       "pubDate": "Fri, 13 Feb 2026 15:07:01 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Extensively Drug-Resistant Salmonella Outbreak Linked to Moringa Powder Capsules - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54ZVo4a2hNMkFQUVVld1VUM0NpMXRPdVY2SFFvYnVNX21Ga0hnZU5yQ29XV1VEYVZfQnhkSHRvQVhOM1V4eGhmd2k5ZFYxdEtVMWZkd0w2a1VsQUs4SlM4dzh1QWF1NEkycGlLOC0wUjk0N1ppSk55RFBpQ2RYZw?oc=5",
+      "description": "Extensively Drug-Resistant Salmonella Outbreak Linked to Moringa Powder Capsules Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -175,6 +175,13 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80TVJmeFBjdi14cHhHR3NiV0c4RzJ6bWR6OERFV1VRSkw4b0p1QXhHeDFjdy12X05POWNqWHk2NDVRNjNqckhkeEd2TS1JWjhHMllFVkg4REJ6TGdlUGpjZEd0azdmQdIBa0FVX3lxTE00VDgyWWQ3a1ZZLTIzSEdSWVEyZW80NGVZT2FjUnF1Wm44dXppV3REeWU1bjJfYlFtMzdmU01zMHlOVzBwNWdDc3JXWEMxNm9VdGR4RkdwNTk3V1AwR3lVOXN0bzZRa0YyemJB?oc=5",
       "description": "Antioxidant-Rich Barrier Creams Trend Hunter",
       "pubDate": "Mon, 26 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Soups & Meals",
+      "title": "Incidental food nanoparticles from freshwater clam soup stabilize Pickering emulsions - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3M29MLW96aDdhaV81RWJmYlhTTHYxWER6SlcybnI2S2RjZHhjSjJXNjR6TGxIUUdqcXBnMzFxQkFOa1JiaVlxR1N1b1dMbzQ1RHlieGs0dUpjaGxIMXJj?oc=5",
+      "description": "Incidental food nanoparticles from freshwater clam soup stabilize Pickering emulsions Nature",
+      "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT"
     },
     {
       "source": "Quintus Technologies",
@@ -317,7 +324,7 @@
       "pubDate": "Mon, 15 Sep 2025 07:00:00 GMT"
     },
     {
-      "source": "Avure HPP",
+      "source": "HPP Juices & Beverages",
       "title": "HPP technology offers beverage brands a fresh take on minimal processing - Beverage Industry",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNjlXVkgwNWotWjlSN1c1NUNqWmZtR3otSTdXREhDVk5XdzVDUzZFRC1VYjR1ekM2RlJ2aVd4cG0zVm1hWEpIQ0NXRjZoY2VPZEE0VGwxLXZBVTg5MWY1em42WjNmRzc3SjJFU2toVGJnTWMxX3Z5MUI4ZEFlU2NITVZXSklaamJMbFJFd2QxRnJnaEdscTQ4Z01GVnAwMjRUTERqREVLSDVQbnFWVG9kSEdfemtqUQ?oc=5",
       "description": "HPP technology offers beverage brands a fresh take on minimal processing Beverage Industry",
@@ -343,13 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTFRoeGFhZ094LVVhN01DbkJCd1RhVXVpaUttWUZiNk1YYWx3VWwycWRrSXlBbENEQW95UmFOTk91S2Z3dWl6dWdWQndoNzdlY0tpQ1g5RmRLa0ZwWEt1UGxudHEzRk5USW5FQ1FocEQ3NGhrV2pxYjdxTV9iVDNiZzhEY3k1T1BTT3hDcmtfdWpFeVM2THZSbHJYVE11bU1k?oc=5",
       "description": "High Pressure Processing (HPP) for Rice and Grain Market | Global Market Analysis Report - 2035 Future Market Insights",
       "pubDate": "Thu, 28 Aug 2025 07:00:00 GMT"
-    },
-    {
-      "source": "UK HPP Industry",
-      "title": "Daily Dose expands with new juice offerings - Food Manufacture",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUjhaaVNMUS1RRXE4bU56MGtMbk9qWWNVS29LYmxXQThPelJtWDl1aGd5NnZkM0RZcFl3ckJOOW9yZXVDZE05NHAtWVcyUWJEVUdPcWw0X2JFbVRwbWl3WkxOZWUtbG9FbDdqRklDcmEyaDhmWk5HN2lZUy1pbmxSVGhZMVpCQ0FFQkJ4Si10ZWFlZllxYWpZOVFDWGNoWUdocm1rek5iekxaOHlGLUhSSmFn?oc=5",
-      "description": "Daily Dose expands with new juice offerings Food Manufacture",
-      "pubDate": "Fri, 08 Aug 2025 07:00:00 GMT"
     }
   ]
 }
