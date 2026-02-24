@@ -1,6 +1,13 @@
 {
-  "updated": "2026-02-24T02:10:34.798403+00:00",
+  "updated": "2026-02-24T05:21:45.014343+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Scientist awarded grant to study severe E. coli complication",
+      "link": "https://www.foodsafetynews.com/2026/02/scientist-awarded-grant-to-study-severe-e-coli-complication/",
+      "description": "A scientist at a university in England has been given funding to study a serious condition that can develop after an E. coli infection. Dr. Patrick Walsh from Newcastle University&#xA0;received&#xA0;a Kidney Research UK paediatric start up grant of &#xA3;40,000&#xA0;($54,300) to look",
+      "pubDate": "Tue, 24 Feb 2026 05:01:16 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Idaho firm recalls more than 11 tons of ground been because of E. coli",
@@ -42,13 +49,6 @@
       "link": "https://www.foodsafetynews.com/2026/02/sunday-edition-the-glyphosate-debate/",
       "description": "Quick bites from the food safety arena The&#xA0; FDA&#x2019;s warning about Ambrosia Brands moringa powder &#xA0;responsible for a Salmonella Newport outbreak has been updated to include more than 70 countries. The powder comes in capsule form and is sold under the Rosabella brand.&#xA0;This strain",
       "pubDate": "Sun, 22 Feb 2026 13:00:21 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Salmonella outbreak sickens 14 in Denmark",
-      "link": "https://www.foodsafetynews.com/2026/02/salmonella-outbreak-sickens-14-in-denmark/",
-      "description": "Danish authorities are trying to find the source of a Salmonella outbreak that has sickened 14 people. Since mid-November 2025, the Statens Serum Institut (SSI) has recorded 14 cases of Salmonella Enteritidis. SSI, the Danish Veterinary, Food, Agriculture and Fisheries Agency, and the National Food Institute are investigating the outbreak.",
-      "pubDate": "Fri, 20 Feb 2026 05:03:08 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -94,9 +94,9 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Recalled supplement linked to reported salmonella outbreak, FDA says - FOX 13 Tampa Bay",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMmVNMkFveGJKU0hJUzVmOWdNa2xqZWhMVXZrdUh4Q3ZaU0dNdEtaMk5GT2xnOVdlY3h5X0xWeng1b1lZUmxhUW91QTd0WVVYV1JZN0c3bk12VzNSbUJ1NXdSbEpMR09tRzRZV0NERzZhMzJNb3NCUWowNDFXcjYzcHpoeVNJZ9IBiwFBVV95cUxQVnQyeXhoaDkzb3Z3WWpTOG1QWndJS3l3aF9IVHFwWElmcU5ZSHFFWlE2Q0x2bVpYSy1IVF9nbTAzR2xLLVgzWnE0ZG1kQnNKOTkzVWRNNmFtTFNDR3NtLWVCSGlZTzlYNUFJbER0NjRhTGswbU5odUp3Z1Nic3hwY2o1d1luRjVibDNB?oc=5",
-      "description": "Recalled supplement linked to reported salmonella outbreak, FDA says FOX 13 Tampa Bay",
+      "title": "Recalled supplement linked to reported salmonella outbreak, FDA says - FOX 2 Detroit",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZzlhc19HdzR5V29MUzVxc1I5UWhzVFk0b0V0THVZWEJHUW1pUTl5OHlmc0JaNWgya1BIQkpvNC1YOERrQ1dGUEptTTM5M2JNbnRFX21pSXVfX2dvOUVGbHk2YVZMakdWbjBPR2RPUV9Eam1sLUQ3ZHFoV3oySWp4YlZtbV9RYzc30gGOAUFVX3lxTE9zWjJOMFhuSHNVVEk4LWZnajlRdjRiMWZfUEZod1RqY253LU1OalQ2SlFfZ3VOWmVBcDJiLUhKelJpd1I2UlotcmtYUnJXQnE5SnlUcXpLemlvekEtZlJOUUZsUHFaR1lXTVhuZWNLdnh0MHh5U3ZBRGhIMnpSZDNrOE5HT3ZkcF9RRWJmUmc?oc=5",
+      "description": "Recalled supplement linked to reported salmonella outbreak, FDA says FOX 2 Detroit",
       "pubDate": "Wed, 18 Feb 2026 16:55:34 GMT"
     },
     {
@@ -135,7 +135,7 @@
       "pubDate": "Wed, 11 Feb 2026 13:45:00 GMT"
     },
     {
-      "source": "HPP Dairy",
+      "source": "HPP Cosmetics & Beauty",
       "title": "Milk | Pros, Cons, Debate, Arguments, Dairy, Nutrition, & Health - Britannica",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42d2NVQXpzcmh1Sjk0OGF3cngwdTNVdlJwZ0h5cE02UEtRZ0Rzb0VNa2pTcmllYmdyanJGejhqZEZCeUpyUGMtLUZsYXRxTnlMaS1ESnl2azk?oc=5",
       "description": "Milk | Pros, Cons, Debate, Arguments, Dairy, Nutrition, & Health Britannica",
@@ -234,9 +234,9 @@
     },
     {
       "source": "Quintus Technologies",
-      "title": "Second Hot Isostatic Press to go live at Wallwork in time for Formnext - Aerospace Manufacturing magazine",
+      "title": "Second Hot Isostatic Press to go live at Wallwork in time for Formnext - Aerospace Manufacturing",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS2hObS14cmN1VFc4WEx3SkN6enFzOXFycVNZeDVEUTg1MTRiejd5T1lYcWdkOE9rcEhUc2tVUDRQMUc3cjVSUTRqUmN2bnVjZVpRdFc3d0p1SWZITXlxWTFqNEVfMG1ubzlVeDFCRXV0UHVwS0VBbFRNMTI3UXMwWUQwWFZ3OFBsXzhHQVA3dWRld0R2dHI5R081UQ?oc=5",
-      "description": "Second Hot Isostatic Press to go live at Wallwork in time for Formnext Aerospace Manufacturing magazine",
+      "description": "Second Hot Isostatic Press to go live at Wallwork in time for Formnext Aerospace Manufacturing",
       "pubDate": "Mon, 03 Nov 2025 08:00:00 GMT"
     },
     {
@@ -252,6 +252,13 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUXY1V2ZWc3l5MlVWRFZFdnozSHpNUXJPVG1rdVp1ME9jdGJtTnJTSktTMEhEdnA0YzB5VzdDTUpTQzFKM3c4bnp1aDUwcGpTeDJPMGpOZWMwdnIxU3RxWTRnaU5mOXhYelA1R0V1X1ljY1NjWllwVkZyUTZMX29FeU8zR2ZXc0Rxempna0JGYm01VHplWDJuZ0cyYV9Tb3pVeG9EcGlzY2l1cFFQbnJBdg?oc=5",
       "description": "Farm to factory: These are the technologies transforming modern dairy manufacturing FoodBev Media",
       "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "GEA’s NiSoMate® becomes an essential compliance tool as EU waste directive comes into force - New Food magazine",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelI2dkkyYkNqcm5MWXFoeWlxbUVPaGZMN085X3FZb0N6TWRpek90Mnd4akRtU3hpdUNGems5cnU1U3VtRDBUVU1lTXJzOE1JNkJ3MW1XUGNLZTlTNzI4U2xBLUVURlBySTVEYVNHa0pyQ0l0ampKTVJjc1pqdGxSbWZ6NDdGZ3hWUjcxX2dCSUxBUQ?oc=5",
+      "description": "GEA’s NiSoMate® becomes an essential compliance tool as EU waste directive comes into force New Food magazine",
+      "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -296,13 +303,6 @@
       "pubDate": "Mon, 08 Sep 2025 07:00:00 GMT"
     },
     {
-      "source": "HPP Cosmetics & Beauty",
-      "title": "Global Smoothies Market Size to Hit $25.35B by 2033: Trends & Forecast - vocal.media",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMkNONjBPQ0stbTI5ZjZIb0kwV1lKZ29KcUpJVGYyVXVTa0x6dmgtMTlaQXlEM3ZrNm4xcHdGNkNnR2NReXgzX0NIYkNEUTVCbWRsSHJmalFfMjZKZklMZGVOOUFJMkJwWW1QaWJmVmdNLVlLTFVBVThMLW9FTzdYSFU0MFpVZks2VkVUWWNMRVFVY2JBYUp2VDBqcEVmbF9Q?oc=5",
-      "description": "Global Smoothies Market Size to Hit $25.35B by 2033: Trends & Forecast vocal.media",
-      "pubDate": "Wed, 03 Sep 2025 11:52:58 GMT"
-    },
-    {
       "source": "Hiperbaric EU",
       "title": "Drinktec 2025: Hiperbaric points the way forward for the future of safe and sustainable beverages - Food and Drink Technology",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb3ZOU1J3ajJGSDU5b0ZKSkx1R284YzdURDNGTC1vT1RkNnpna1YzZ21ncVVwLW1EcVdCWXUtQ0s0Z1RjLUJ5OXFlRU9kVVZmYW5YejBJS1d5bHR1SDg1UnhwQjd1RkZHS0FUVmJhNWQ2TWlVTkRnQ0Z1N19RdWJBdWRzMFF5aXVCSHJFdFBqdTdYOFdNYVhtN0RSbGVyVS1pVUhubkVQZllua2lsMF9EWmNsYVVQZVlzOGpaZUF1ekNCa1ZTSWNMTGdsNXVXa25iOENCNQ?oc=5",
@@ -331,13 +331,6 @@
       "pubDate": "Fri, 08 Aug 2025 07:00:00 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "Baby food in pouches is stripped of nutrients – but convenient, healthy alternatives are on the horizon - The Conversation",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOFQtQjdneDIyOC1hZ0Njb3luQTl2eUY1SmtidXhWSnRuSVFBRzU4cHpMaXd4UWEtWEZtTVpHLWhYd2pxRTdsTE1NYk9OMnlqVEp1QjdmNU1kbGtma244ZFZzTTJFV3JVTnZfcnpPRjVBemMzYVdvQUQyUGpIRE9BZy03OF9kMkxLa3FKZW9id3FpMEVXN0R6SlFrWkUyMmJpcUJMNDlKZTZUQjZsRzNHdlZYZ3VuemxBZDBWM2M4WmdrRDBqbkxka3RqcmYzYm42?oc=5",
-      "description": "Baby food in pouches is stripped of nutrients – but convenient, healthy alternatives are on the horizon The Conversation",
-      "pubDate": "Fri, 08 Aug 2025 07:00:00 GMT"
-    },
-    {
       "source": "Food Safety UK & EU",
       "title": "Retail chief urges public to take Listeria risk seriously - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PVmR6aDNmRzRTbnRsdUtQVzhHekctRUVNUW9iRmRWT09SOFp5UTkxankzUGp5ek9zZTZWOFVkRXpCb1RkeUpKQ3FMRm1FMTMyN0pzTEpHQUFBQdIBX0FVX3lxTE9XYjc5dkNyQVhRMGJMSWlrTk5vUUZKNkVaN2NKV2E5eWhmU1NtN3loQ1dyZUFvQTA4NnpqX1dkMVl0VWxYcTdnM2pWcFRZSk45VzVybGFqTTVvUmM3TnpB?oc=5",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVUNqa2FVT3NUMlpCY0FELTgwWm1lWnpMWTR0Q1dXaXFERlVZc3hBRlB5dG9pdzA4RTBuNHBNWkY2dTg2bEJIQjUwdWFPLU0ySkplNkV0dXdiRUlyMDNlRzMxMTFhN1BwbHU3Q1B4T0JISHRfbFZOWHUwaTlYVXlYclUxT3VYdHlBZWhtS1FKUmJLZjc5bUlkcTEyN0pvNndBdDc0Z19TQVpWVGkwd3NkVXZDSFdVdw?oc=5",
       "description": "News - New partnership will enhance training and development for food and drink industry University of Nottingham",
       "pubDate": "Mon, 21 Jul 2025 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Dairy",
+      "title": "The Clean-Label-Friendly Solution: Stabilizing Milk-Based Cocoa Beverages with Citrus Fiber - ACS Publications",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NbmR0WVE5MmxXOGdSWEU5VWZHemJhaGdvRTBlZkUwdVlGek5HNVg0THNlZFB0bkp5UHpJWjFQS1lpa0xNNHFiU2MwS0lDb2ZGVUI0SnFEdklUZnAybFE?oc=5",
+      "description": "The Clean-Label-Friendly Solution: Stabilizing Milk-Based Cocoa Beverages with Citrus Fiber ACS Publications",
+      "pubDate": "Thu, 17 Jul 2025 07:00:00 GMT"
     }
   ]
 }
