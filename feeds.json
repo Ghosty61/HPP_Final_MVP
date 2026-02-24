@@ -1,6 +1,13 @@
 {
-  "updated": "2026-02-23T22:42:15.329479+00:00",
+  "updated": "2026-02-24T02:10:34.798403+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Idaho firm recalls more than 11 tons of ground been because of E. coli",
+      "link": "https://www.foodsafetynews.com/2026/02/idaho-firm-recalls-more-than-11-tons-of-ground-been-because-of-e-coli/",
+      "description": "CS Beef Packers LLC of Kuna, ID, is recalling 22,912 pounds of raw ground beef that may be contaminated with E. coli O145, the U.SDA&#x2019;s Food Safety and Inspection Service (FSIS) announced today. The raw ground beef items were produced on Jan. 14, 2026. For photos",
+      "pubDate": "Tue, 24 Feb 2026 01:30:20 GMT"
+    },
     {
       "source": "Food Safety UK & EU",
       "title": "Popular health supplements sold in Ireland urgently recalled due to Salmonella fears - RSVP Live",
@@ -42,13 +49,6 @@
       "link": "https://www.foodsafetynews.com/2026/02/salmonella-outbreak-sickens-14-in-denmark/",
       "description": "Danish authorities are trying to find the source of a Salmonella outbreak that has sickened 14 people. Since mid-November 2025, the Statens Serum Institut (SSI) has recorded 14 cases of Salmonella Enteritidis. SSI, the Danish Veterinary, Food, Agriculture and Fisheries Agency, and the National Food Institute are investigating the outbreak.",
       "pubDate": "Fri, 20 Feb 2026 05:03:08 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Misbranding, Salmonella and illegal colors lead to stepped up import enforcement",
-      "link": "https://www.foodsafetynews.com/2026/02/misbranding-salmonella-and-illegal-colors-lead-to-stepped-up-import-enforcement/",
-      "description": "The Food and Drug Administration uses import alerts to enforce U.S. food safety regulations for food from foreign countries. The agency updates and modifies the alerts as needed. Recent modifications to FDA&#x2019;s import alerts, as posted by the agency, are listed below. Click here to go to",
-      "pubDate": "Fri, 20 Feb 2026 05:00:10 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -114,13 +114,6 @@
       "pubDate": "Fri, 13 Feb 2026 15:07:01 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Extensively Drug-Resistant Salmonella Outbreak Linked to Moringa Powder Capsules - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54ZVo4a2hNMkFQUVVld1VUM0NpMXRPdVY2SFFvYnVNX21Ga0hnZU5yQ29XV1VEYVZfQnhkSHRvQVhOM1V4eGhmd2k5ZFYxdEtVMWZkd0w2a1VsQUs4SlM4dzh1QWF1NEkycGlLOC0wUjk0N1ppSk55RFBpQ2RYZw?oc=5",
-      "description": "Extensively Drug-Resistant Salmonella Outbreak Linked to Moringa Powder Capsules Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "Listeria Outbreak Linked to Prepared Pasta Meals - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVljR2g1SWZ1cDJkZE5xMkgxMVR6emh2WXplNFBSaUs3Ni1LaF9ySk54QmtwWDd2SWU5YUdfQnhfLWhJX1lQZmhJQ2xMZkU0MDlHeHQzR2xZQlNiWHhYUmQxcUZuZF93WjU3TnBTbDVyaVBVWXVGMlZyamFjLVc5elB4WTdGdjV2VGc?oc=5",
@@ -161,6 +154,13 @@
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSVBUWVJXVjFTbmNRV0M2U1lPTi1PUnhjc2ZlM0NsZ0UxaTVlVE41QklrUGFaeHJGVjI4QTRGd2M3Tm9BelpsWVFucnNFeVhTWUdmMWNQektYUlhXRllfUFc0QURyYW9ldDB4Q1B1U1N0amRBRzgyX2lnWWVDVklqWWd0VDFVc3dpN2szTV9ySWJTdDI2aVNNLUlmRWlTTnA4anFMbXBidThqbWRHMlUybEFLaW5zT016eWdHWmpoaXItT3I3VThCTk5qaHVveDhNTTcyYkhVLWhDcE5GZGMtSFJyYXBMbkVmcjVHVTltNm9kQk5jR3ZvVEVyZw?oc=5",
       "description": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio Florida Today",
       "pubDate": "Sun, 01 Feb 2026 18:42:26 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Investigation Update: Salmonella Outbreak, January 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYjZJajZ1bTFMRUZHUzJTTFNmRjI3VkhEck01aG54M2kxelBubjFBNDVGY0RXWFJIekl2MFFDeXlRNC1SMWV3N2xBbkpfam1qb3pVTGxGbVAzQUljUG9MSm1IR1NEeThvLU0xRWFmRElJb204aWlaNTdQenFXbEJlb3EtZWZQVXY5QmVSZ2l4SmdjeFVNS3VTeg?oc=5",
+      "description": "Investigation Update: Salmonella Outbreak, January 2026 Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Thu, 29 Jan 2026 08:00:00 GMT"
     },
     {
       "source": "Quintus Technologies",
@@ -240,14 +240,7 @@
       "pubDate": "Mon, 03 Nov 2025 08:00:00 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "6 dead, 25 hospitalized in nationwide listeria outbreak linked to precooked pasta meals - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY25lTXNiSnBhUnZuQVVMaHRpcHZzX2dJX18yWWgzdW1pVE9QVTVqTThYNkJldFE3TEdsSFdMM3pxYU5LTng0MEluNzM5cS1jbGJ5MzlHZGgtM1RnWFdLeHBBaGdjYnoxWTB5bXZhOTZvZ0dOdHNBaHFBTWpXWERXNm4zQkotcHgyak0xSU9YV1NqdDgwXzE1bE9tbEZXWlVKNlZUdmp4UEIwcUFWZjFwdk1hTHRwTnh4Z3c?oc=5",
-      "description": "6 dead, 25 hospitalized in nationwide listeria outbreak linked to precooked pasta meals NBC News",
-      "pubDate": "Mon, 03 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Healthcare & Medical",
+      "source": "HPP Cosmetics & Beauty",
       "title": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdFZlWGhqdzd2Qk81Q1kyN2tXc2M1VGVMdDBrM19kNkt6S3pZbWkwLVR6WUFYcUVLVTRtdEVsR2M2TzQzN3FXOVpGOUxlejdTd2VqdUhyekZuSnVCU0xXY0NSZklEcFphM3hwSS1PY1duUkJBeFo4dzUzWHRqX2YzVzB4a2tTRmZwS05SRk5jdlduVWlPUTRzVXN0em9INjhHX3hTaUs4dVo4RjRJMlhfM2RTaHJncHNUZUpTV3FNV1QzMWxGVkdfQmcxcjI1UWl3UW42djBsa3dUNklQdE83TmxkbnNQcnQwbUstTTh2SnRPb1hBZ3ZqTV9LNURDMFV1eklubElBVzhQM0lqM1Zv?oc=5",
       "description": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership PR Newswire",
@@ -261,17 +254,17 @@
       "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT"
     },
     {
-      "source": "HPP Soups & Meals",
-      "title": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong - HuffPost UK",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmNOYlI3cE1Ubk5BaXRtWWpnQkFsLVhvN19LTFRmYnBHLXVPSU51ZmFacnltV25ZWmk5dEt1ZkhzX2NvUlBfY0p6ZGtOVmpHblNWZzBLYVp0YTVWS0lvWXB3V1FxSnZEaV92OVJDbUh5RnRSVmFaQ1hYTU5QelBOYWV5VE5nRWR1S0JFQ19xX2Nta09XdkU0R0pBZlFxWUVFWjhKdE0tOA?oc=5",
-      "description": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong HuffPost UK",
-      "pubDate": "Fri, 10 Oct 2025 07:00:00 GMT"
+      "source": "Listeria Outbreaks",
+      "title": "What to know about the listeria outbreak tied to precooked pasta - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlJnazBSd2FuVGlNeWxHVjBqWWhSWmdTT25PMHFYeDVRMHBOczBZOFp2Z0hVTW9IYmNNdXRNbjkwUDZHZGpQS0JtdTdmUnVmeGZicGY2ZVF5QjRoNWRCODh6QURRdGQ4S1VzQXlRbUliNUFDTHRuUkNCS0N6RGx4SUMzNTlYWFFZTDVRSWtTcGV4RGFaY3Y1U3B5Y3VRLUk3QkhNWlFJU3VEV1QwZmRkY1Zoc2c?oc=5",
+      "description": "What to know about the listeria outbreak tied to precooked pasta NBC News",
+      "pubDate": "Wed, 08 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
-      "title": "Hiperbaric to Install 30 HPP Machines in 2025 - Food Engineering Mag",
+      "title": "Hiperbaric to Install 30 HPP Machines in 2025 - FoodEngineeringMag.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQajhvMENNTkQ4Q2t3UUNTbURRZkc1Q0lkN2lnM0ppeWtWOC1tVXdERFpHa3FhaV9qUXFXTlItcGFJWmRFdEd5aGVIOFg3SE9va2R3bm5hTXdUNjhyR3o0OFViMVJlU2M0Y3VyQ190dEM0VlMzMlJ6YWl3UjRCWjhmQmZXRlpEVmNWdDlxR3Fyb3k2UFl6eFA2QUJ2QzM?oc=5",
-      "description": "Hiperbaric to Install 30 HPP Machines in 2025 Food Engineering Mag",
+      "description": "Hiperbaric to Install 30 HPP Machines in 2025 FoodEngineeringMag.com",
       "pubDate": "Mon, 06 Oct 2025 07:00:00 GMT"
     },
     {
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PVmR6aDNmRzRTbnRsdUtQVzhHekctRUVNUW9iRmRWT09SOFp5UTkxankzUGp5ek9zZTZWOFVkRXpCb1RkeUpKQ3FMRm1FMTMyN0pzTEpHQUFBQdIBX0FVX3lxTE9XYjc5dkNyQVhRMGJMSWlrTk5vUUZKNkVaN2NKV2E5eWhmU1NtN3loQ1dyZUFvQTA4NnpqX1dkMVl0VWxYcTdnM2pWcFRZSk45VzVybGFqTTVvUmM3TnpB?oc=5",
       "description": "Retail chief urges public to take Listeria risk seriously BBC",
       "pubDate": "Thu, 07 Aug 2025 07:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "News - New partnership will enhance training and development for food and drink industry - University of Nottingham",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVUNqa2FVT3NUMlpCY0FELTgwWm1lWnpMWTR0Q1dXaXFERlVZc3hBRlB5dG9pdzA4RTBuNHBNWkY2dTg2bEJIQjUwdWFPLU0ySkplNkV0dXdiRUlyMDNlRzMxMTFhN1BwbHU3Q1B4T0JISHRfbFZOWHUwaTlYVXlYclUxT3VYdHlBZWhtS1FKUmJLZjc5bUlkcTEyN0pvNndBdDc0Z19TQVpWVGkwd3NkVXZDSFdVdw?oc=5",
+      "description": "News - New partnership will enhance training and development for food and drink industry University of Nottingham",
+      "pubDate": "Mon, 21 Jul 2025 07:00:00 GMT"
     }
   ]
 }
