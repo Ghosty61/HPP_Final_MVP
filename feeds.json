@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-25T10:52:54.949897+00:00",
+  "updated": "2026-02-25T13:07:09.056228+00:00",
   "articles": [
     {
       "source": "EU HPP & Food Tech",
@@ -28,13 +28,6 @@
       "link": "https://www.foodsafetynews.com/2026/02/cream-cheese-being-recalled-because-of-listeria-contamination/",
       "description": "Made Fresh Salads Inc. of Bay Shore, NY, is recalling assorted flavors of cream cheese because they have the potential to be contaminated with Listeria monocytogenes. The cream cheese was distributed in Brooklyn, Queens, Bronx and New York City area by direct delivery to retail stores and distributors. Products are",
       "pubDate": "Tue, 24 Feb 2026 23:51:45 GMT"
-    },
-    {
-      "source": "HPP Innovation & Research",
-      "title": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio - Naples Daily News",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeEpHN3ROcE4yZ1BKc2w1ZDd2cE9ycHczaHBaVHZUNzc1R0hPZkkwVk1NcFpncVFCSUhrUE1DOTg3djd2XzJvUWh2WFVWdmk0bC0ycWZxcVhWS1diTTNOODZsS1FfdzhLeGlMbGFpbmR2ZlZ6T1NJT0F5cmMzem9wRExZbHJJRmZZT2YtQVVyVDBCSGtvUW50UFQwNjNIb3NWMmk0U1hYSkNJT1EtNUFLc0lFRTJ1cW9pUTRtWjZlVXVLZHk4UG1Zblp3SUJla3E0dVM3XzBYelBJamw4U0V3NklXRllHdTVzMTRTeXlmSldaMFhuOWk2dw?oc=5",
-      "description": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio Naples Daily News",
-      "pubDate": "Tue, 24 Feb 2026 17:17:09 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -149,6 +142,13 @@
       "pubDate": "Thu, 12 Feb 2026 08:00:00 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "Investigation Update: Prepared Pasta Meals Outbreak, February 2026 | Listeria Infection - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTVZJcGs3VjJuOTBoenhDeHVoelh6ZXJ3M2ZqT1V0U09KenYwd2w0MzJ1YzFhOExCQ2V5ZEs5LXBPM3RSLWIydFhjR1RHV3h5c193WGpLOU03cndOZmt1Um1aSDZaU01wcUdmazZxdXg1NER5bXY4SlRTV0xmVmpjaGVrSWNEbm40Yjh4a3FYR0JNd2Ri?oc=5",
+      "description": "Investigation Update: Prepared Pasta Meals Outbreak, February 2026 | Listeria Infection Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Thu, 12 Feb 2026 08:00:00 GMT"
+    },
+    {
       "source": "HPP Equipment & Machines",
       "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXhUbEgxOUMycF9EN0RUdmxwWWt1WUVyYU1iUnQ0R2FCTlZZcTlFUEMwaG45Z0lGZHpQNGpXTFJEcW9HNm1RN1lSNzZFX2M4QnllM3NmMXc2UVRMTWFvNHM2dXkyc01pNHJ5MlpvWTNMQWJDdUxvc1I5NWR2NFIzOS1vWGFNMUtiZ2d2NVRUVHVTTk9BdENMUmZkcjZZc2VwUXowOGhXWWRvcGQ5T2wtYjRhbTNzSlFrUHZXWmNLWFYzUVlNUE1uTG1xYk5EUDFHQkVsSlJFcHhDN3BTM0dWcnp6MVNOc1VUbFB1ZUJMYzhMenJRNkRkeS1maTlYNGozbEthVW1B?oc=5",
@@ -184,10 +184,10 @@
       "pubDate": "Thu, 29 Jan 2026 08:00:00 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "Fat and oil processing - Hydrogenation, Trans Fats, Oils - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WMVR4QTNaLXFUa0swMTBuZFR2S3J1cmg1c0JtOHhqV0h0cENmOWt1RUxNUTVRenhWX3k5cE1TRXFTOHh1VFVzSFBQYkszdnlQd2Z3MWJLV092WkFFV0R0WktwWHdxS0JtMXZrV2Q1OWw?oc=5",
-      "description": "Fat and oil processing - Hydrogenation, Trans Fats, Oils Britannica",
+      "source": "HPP Soups & Meals",
+      "title": "Incidental food nanoparticles from freshwater clam soup stabilize Pickering emulsions - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3M29MLW96aDdhaV81RWJmYlhTTHYxWER6SlcybnI2S2RjZHhjSjJXNjR6TGxIUUdqcXBnMzFxQkFOa1JiaVlxR1N1b1dMbzQ1RHlieGs0dUpjaGxIMXJj?oc=5",
+      "description": "Incidental food nanoparticles from freshwater clam soup stabilize Pickering emulsions Nature",
       "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT"
     },
     {
@@ -247,13 +247,6 @@
       "pubDate": "Tue, 11 Nov 2025 08:00:00 GMT"
     },
     {
-      "source": "HPP Soups & Meals",
-      "title": "I Make the Best Chicken Soup Ever—Here's My Secret - Allrecipes",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtdnJxTW9PYk9kWHVUVFFYUktkYm1MWWluWnUxdGVjYncyTnFVaEk2SXJEcU1RTW1hWXVBTS1rT3dyejB4SGlPeHNCaE5jbkNvS2ViVW81ZlRWSWlfTE8zV0NZbEJldmhoZWZfNnRfQ2hhNHZKSXlsUVJn?oc=5",
-      "description": "I Make the Best Chicken Soup Ever—Here's My Secret Allrecipes",
-      "pubDate": "Sun, 09 Nov 2025 08:00:00 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "6 Dead in Multistate Listeria Outbreak Linked to Recalled Pasta Meals. Which Products Are Affected? - TODAY.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2hwS1d0SE1MMlE3MlE1Q1ZJUWVGN3c3UWoxdnFrSE1kd1VOVU9ZREFBS1NOeEdheUlyaFhGa3dWVlpsek05Y1ZoeFMzdXVKZWFPQldXcUFHVWZUa3BjOWdzLTE3VXFQZXBESDVvcHJtWnBZS1JRUHN6Q3BQZ2lEZDBBNmtwVXZiRXc?oc=5",
@@ -265,13 +258,6 @@
       "title": "Nationwide Listeria outbreak: 6 dead and 27 hospitalized, dozens of products recalled - WRAL",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1NLbnJCRjM4WHZIME1oWTJCbEw0OXEtT2U2V1dnYWxaVEN2NGtlZ0kzaEx6V0R0YlBSLWZZXzRQWjBERVZOT2NXVldvY0VFaEEyZnNUejEtdDltdnBQWlNnNjlNU1ZhWl9SbkpxUXdody1HSkMtbkk2V0hYV3oyZ1lLY1RiS01BeVo0anhnZ3Y?oc=5",
       "description": "Nationwide Listeria outbreak: 6 dead and 27 hospitalized, dozens of products recalled WRAL",
-      "pubDate": "Tue, 04 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Worsening listeria outbreak tied to pasta products kills 6, hospitalizes 25 - NPR",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTZULXpxNnJQME9pNE93bDdBaEpsN2NIY09ENnN6c2QtNWdxaVdWY1RkMVlrcmw0ZzJuQkoydER6OEJtVmpKNEdpQS10Vnc3LXRkazM1VHdZc1hITFN5RV9fSUstcnR0cnM5bWdmZHM2d1ZZWmptUHJoMHpkMUl3R2JlUQ?oc=5",
-      "description": "Worsening listeria outbreak tied to pasta products kills 6, hospitalizes 25 NPR",
       "pubDate": "Tue, 04 Nov 2025 08:00:00 GMT"
     },
     {
@@ -331,7 +317,7 @@
       "pubDate": "Mon, 15 Sep 2025 07:00:00 GMT"
     },
     {
-      "source": "HPP Juices & Beverages",
+      "source": "Avure HPP",
       "title": "HPP technology offers beverage brands a fresh take on minimal processing - Beverage Industry Magazine",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNjlXVkgwNWotWjlSN1c1NUNqWmZtR3otSTdXREhDVk5XdzVDUzZFRC1VYjR1ekM2RlJ2aVd4cG0zVm1hWEpIQ0NXRjZoY2VPZEE0VGwxLXZBVTg5MWY1em42WjNmRzc3SjJFU2toVGJnTWMxX3Z5MUI4ZEFlU2NITVZXSklaamJMbFJFd2QxRnJnaEdscTQ4Z01GVnAwMjRUTERqREVLSDVQbnFWVG9kSEdfemtqUQ?oc=5",
       "description": "HPP technology offers beverage brands a fresh take on minimal processing Beverage Industry Magazine",
@@ -350,6 +336,20 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfQVRRcWxoT2tFQzQyRFFSWTFuU2ZzcFBGWG55VFFiUzEtNXdjRGtMNmV2RUVxb1VRbmRpNFFlTTZsYWwzR2VmWkk1Wl9lU2pvYTk0U09fRDhxTS11VUFn?oc=5",
       "description": "Effect of low-temperature sous vide under high-pressure on the moisture retention, tenderness, and color of pork loins Nature",
       "pubDate": "Sat, 30 Aug 2025 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Cosmetics & Beauty",
+      "title": "High Pressure Processing (HPP) for Rice and Grain Market | Global Market Analysis Report - 2035 - Future Market Insights",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTFRoeGFhZ094LVVhN01DbkJCd1RhVXVpaUttWUZiNk1YYWx3VWwycWRrSXlBbENEQW95UmFOTk91S2Z3dWl6dWdWQndoNzdlY0tpQ1g5RmRLa0ZwWEt1UGxudHEzRk5USW5FQ1FocEQ3NGhrV2pxYjdxTV9iVDNiZzhEY3k1T1BTT3hDcmtfdWpFeVM2THZSbHJYVE11bU1k?oc=5",
+      "description": "High Pressure Processing (HPP) for Rice and Grain Market | Global Market Analysis Report - 2035 Future Market Insights",
+      "pubDate": "Thu, 28 Aug 2025 07:00:00 GMT"
+    },
+    {
+      "source": "UK HPP Industry",
+      "title": "Daily Dose expands with new juice offerings - Food Manufacture",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUjhaaVNMUS1RRXE4bU56MGtMbk9qWWNVS29LYmxXQThPelJtWDl1aGd5NnZkM0RZcFl3ckJOOW9yZXVDZE05NHAtWVcyUWJEVUdPcWw0X2JFbVRwbWl3WkxOZWUtbG9FbDdqRklDcmEyaDhmWk5HN2lZUy1pbmxSVGhZMVpCQ0FFQkJ4Si10ZWFlZllxYWpZOVFDWGNoWUdocm1rek5iekxaOHlGLUhSSmFn?oc=5",
+      "description": "Daily Dose expands with new juice offerings Food Manufacture",
+      "pubDate": "Fri, 08 Aug 2025 07:00:00 GMT"
     }
   ]
 }
