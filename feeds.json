@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-01T20:28:35.439415+00:00",
+  "updated": "2026-03-01T22:25:39.722811+00:00",
   "articles": [
     {
       "source": "Salmonella Outbreaks",
@@ -42,6 +42,13 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLXVsSlVQRTAzVFk1QWRoXzFoejU0RkQ5TWpIQ2o0SEc5QldScG9QUk1TWnlFR0xNMkdnbVlNWTlIU0pOdnlwZHpUeHc5MGR3YkQ0VmlVRHByTTVmbGVFWk1IT190VTJva0MtYzNubVhYblBzeHlFNG4zUGFIUlF2eVJGS1lfamdtSnExc2M5aW5CZ3hxdkdpREVaWXBlSlVPY0kwNlZiSDNWbXQ2Njl1YzNLbzBxaUl5amRtZmpR0gHDAUFVX3lxTE13cmRDY3NFeWJsMVpqdWJZYndaWmY1ZVp4OUd2Q3pTSmFMQ1RGWVZkclZaUVIxNHF1eFJoT25LSG1LT0NiakpMRGptc3hpNGhTQnlROXNWaGRCS2ltYkozclhRbDlFelRIVVhoVC1fcDdua2J3ZE43OUM2OGdsanpmaVBZMUt4UmM5Q1lsLWM1ME1MZXRvT0hQejY0ZTZ6NkVaX3JjOFpCOVMxN1NEczFxbmgzRnc0czNOU2RCLThpeWpjMA?oc=5",
       "description": "Blueberries recalled by FDA in 4 states Good Morning America",
       "pubDate": "Thu, 26 Feb 2026 15:37:29 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "The latest product recalls and safety alerts from Which? - which.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnZEdm8tLUMxdlpRajZ4bGZ1eE5nRElJdGtTVDB5R0hMcWxoV2NIV1BvSkNsY3BUaGl6TzV2cXZSdEZWV0JOenZseW5icmxadFBZcERkOGpMb3BjaGJrN241Q1VCeWw1TldCMjBscEtfTzkwM2tsTTJyQlI0VkFaVWRseVZObmoycnRFaXJkQlY?oc=5",
+      "description": "The latest product recalls and safety alerts from Which? which.co.uk",
+      "pubDate": "Thu, 26 Feb 2026 08:00:00 GMT"
     },
     {
       "source": "Food Safety News",
@@ -184,7 +191,7 @@
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "HPP Cosmetics & Beauty",
+      "source": "HPP Dairy",
       "title": "Milk | Pros, Cons, Debate, Arguments, Dairy, Nutrition, & Health - Britannica",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42d2NVQXpzcmh1Sjk0OGF3cngwdTNVdlJwZ0h5cE02UEtRZ0Rzb0VNa2pTcmllYmdyanJGejhqZEZCeUpyUGMtLUZsYXRxTnlMaS1ESnl2azk?oc=5",
       "description": "Milk | Pros, Cons, Debate, Arguments, Dairy, Nutrition, & Health Britannica",
@@ -213,9 +220,9 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Urgent food recall issued as salmonella found in treat - customer told 'do not eat it' - Daily Express",
+      "title": "Urgent food recall issued as salmonella found in treat - customer told 'do not eat it' - Express.co.uk",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNV91Vy12aW1MRWkyaEpIS2Q5REt4VGRDcXJRa3lyX0l4Z0xOTkhhdll3ZHdWOFBCd1djWjVGTHRSMWFRZV9PQkM3RHlSMlkyX0g0NkQyQmdwOU1PSUJGdXpwNnQtY3pmSHBOVjlIVE9rNHViWUVmVk51OUpwbzNwRU5qLTlsRVo3OXdKcTl4NEZPemtvLWozTkYwZW8zNkN2TXJJeXUzbTXSAa4BQVVfeXFMT1NBWTJXSlEtbk5BYW5NRDg3MG1mS1Q3MkFIazF6d2FkVURURXVaZ2k0ajI4bGtsVEVzeUxXSk1FMHFlZEpIclJMdFRRelk5SXQ5TDYxbENWbHh2YmlFS3lqUmNiUnFYY2xDV2t2Y2tpdFVEUlZ0cElZcWUyZ09tR2ZVb2djRkJNdkNlSWpzeWRTMDZqVnoteEJNOXF5WFBFejU4R3VLRjkxTGEyOEdn?oc=5",
-      "description": "Urgent food recall issued as salmonella found in treat - customer told 'do not eat it' Daily Express",
+      "description": "Urgent food recall issued as salmonella found in treat - customer told 'do not eat it' Express.co.uk",
       "pubDate": "Thu, 25 Dec 2025 08:00:00 GMT"
     },
     {
@@ -254,13 +261,6 @@
       "pubDate": "Tue, 25 Nov 2025 08:00:00 GMT"
     },
     {
-      "source": "UK HPP Industry",
-      "title": "Holy Moly launches in Tesco Ireland with trio of fresh avocado dips - Retail Times",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMmVpSWtESGk3M1VKNEpTb01ENl9xRTJKanhYamUxRzBfc0N4UXV2STFtSVVFWmRKUTRtdWxsZ1NXdHBERjF1UmRhTmtKcU5sOGl5aVRTNGs2SHR6d0Y5VGJzdndzTFlKcTZHczJ3RlBRWVpmdUgya0l3MVJ5Q2FvU1NVdC15NmtuaHFiZkEyZERhckdRTmc4VWZ3?oc=5",
-      "description": "Holy Moly launches in Tesco Ireland with trio of fresh avocado dips Retail Times",
-      "pubDate": "Thu, 20 Nov 2025 08:00:00 GMT"
-    },
-    {
       "source": "UK Food Industry",
       "title": "Multi-million pound backing for cutting edge projects by UK scientists and innovators - GOV.UK",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOHBkdFNzZkNVSVhGa1NaQk1paF9qV0M4Q1J4dEpqUnFRWnJ0NmhKcUVpeFlyUElRNkEtYWFxekNBWjZoYnE1c2lUb0VtSjBieklqVldoMmVjYWNfRk1VQ0ZOaGZSTUEzcjlrVWNSTTkyYzVENHZFVHFXbnFJelZXdkx1TW9hMEVZd3owQ1pYaEtrVlliQUVZbjQzWm12d0M2cEszVkNRMVUxV2xDb1dXcFdQSkttYzVPdEltOA?oc=5",
@@ -280,20 +280,6 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSUlzOGhNYlZRQU1wbzVsN3FMckc1cktqSlFJalFaNXpLWmhBcDlxZnRKUHNaV01uYkU0ajRaQkJaWTNlYnh5QS1HNkMzbV9SUUJlQnJTSkJoMk5ocGpHWFJ5SEtvaEtIclVFaHdRQjZpREg4OVpkcDg0SXdIRUJBNWdQNWhmakp1ekZYVTlvd2J2c2h4djFuQ2JXeHg0M2tJWUI0cDdPelRUZ1FGbUZRVjdLcWhtNGxzaWkxclVzbHhXX1BlLTJlTEF0R3NxamR3dGFQRFFoaS1hZUdoZjdVLTBn?oc=5",
       "description": "Quintus Technologies Unveils Pilot-Scale Warm Isostatic Presses for All-Solid-State Battery Production PRWeb",
       "pubDate": "Tue, 11 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Soups & Meals",
-      "title": "I Make the Best Chicken Soup Ever—Here's My Secret - Allrecipes",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtdnJxTW9PYk9kWHVUVFFYUktkYm1MWWluWnUxdGVjYncyTnFVaEk2SXJEcU1RTW1hWXVBTS1rT3dyejB4SGlPeHNCaE5jbkNvS2ViVW81ZlRWSWlfTE8zV0NZbEJldmhoZWZfNnRfQ2hhNHZKSXlsUVJn?oc=5",
-      "description": "I Make the Best Chicken Soup Ever—Here's My Secret Allrecipes",
-      "pubDate": "Sun, 09 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "36Kr Exclusive: GAO Bingqiang-Backed Smart Kitchen Appliance Team \"LISSOME\" Completes Over RMB 10M Pre-A Round Financing - 36 Kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGSnBtcXVBSVJrWnBCM19QdkZpblBwWmFQbGVYUHphc3NJOXhfTXJibFZSM1lORHl5UmxjeThISU5FY253bjBZb0JjTnE5LXRGU0Mw?oc=5",
-      "description": "36Kr Exclusive: GAO Bingqiang-Backed Smart Kitchen Appliance Team \"LISSOME\" Completes Over RMB 10M Pre-A Round Financing 36 Kr",
-      "pubDate": "Fri, 07 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -317,24 +303,10 @@
       "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "GEA’s NiSoMate® becomes an essential compliance tool as EU waste directive comes into force - New Food magazine",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelI2dkkyYkNqcm5MWXFoeWlxbUVPaGZMN085X3FZb0N6TWRpek90Mnd4akRtU3hpdUNGems5cnU1U3VtRDBUVU1lTXJzOE1JNkJ3MW1XUGNLZTlTNzI4U2xBLUVURlBySTVEYVNHa0pyQ0l0ampKTVJjc1pqdGxSbWZ6NDdGZ3hWUjcxX2dCSUxBUQ?oc=5",
-      "description": "GEA’s NiSoMate® becomes an essential compliance tool as EU waste directive comes into force New Food magazine",
-      "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT"
-    },
-    {
       "source": "HPP Dairy",
       "title": "The key to dairy foods safety - Dairy Foods Magazine",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SVklCRXdLbHc5enNib2R6am1UdHA5VDhNeW9qd290OXNNUkRnd1owcWxBcGhPb1UtY2FXQnpQbERTdzlNX0d3UjNIbzRyLWd6VDR2X1BYXzV5LTFscXc0VVozMGpDR1d1S09QRHprNXhkZlg2bGZPeUJ6aw?oc=5",
       "description": "The key to dairy foods safety Dairy Foods Magazine",
-      "pubDate": "Fri, 10 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Soups & Meals",
-      "title": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong - HuffPost UK",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmNOYlI3cE1Ubk5BaXRtWWpnQkFsLVhvN19LTFRmYnBHLXVPSU51ZmFacnltV25ZWmk5dEt1ZkhzX2NvUlBfY0p6ZGtOVmpHblNWZzBLYVp0YTVWS0lvWXB3V1FxSnZEaV92OVJDbUh5RnRSVmFaQ1hYTU5QelBOYWV5VE5nRWR1S0JFQ19xX2Nta09XdkU0R0pBZlFxWUVFWjhKdE0tOA?oc=5",
-      "description": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong HuffPost UK",
       "pubDate": "Fri, 10 Oct 2025 07:00:00 GMT"
     },
     {
@@ -350,6 +322,34 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMUxuYkhXcGh0dmtRdUNudHBVNzZQRDdpdVA5WnR6MDdDMHB6VV9iOE9HSTNrenExM1dkU1g3bEE2cTE2b0ZRX1dPZUpWVEFkSXRYajFNLWdHbmN6bGR6WXhyNm1oNHJzZkVZa2stMzBIR2Z4UzRIZ3dqMmZWS0ZDTGtnemgxNVJUbEhtdml3MGpaeGFfbkxaVTRPX1dJOEdWSFN0LXJRZW5NSFhieWY1SFFpOFVXMXNqTkRZd05TR3I4c25YR0gzWURiY3J1Skhwank0UnBaNEx2MDdKY0tUTw?oc=5",
       "description": "‘You can’t retrofit skin care’: Why this indie brand is betting on high-pressure processing biotech Cosmetics Design North America",
       "pubDate": "Wed, 24 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "The productivity ingredient UK food and drink can no longer ignore - The Manufacturer",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSTdmUzFUUzFOLTBfRUxyQk10QkM3X1dCNG1ZeGR2Zy16d3M0SXNOV09CMUVvNUhzd1J3S1pIWWR3Q3RwMVVNRDRROU1ldkZTRnhYS2JnUGVjQTN2MHlQbUw4b3FMOGV2d19RcXdxZWtJSE1QdXpuWHROUVc4a2UtLVNxQ280cENUX1RZSzlMZmhwbHNXTk9lcjFVTThRY0UtUmlFaTNjQnlkV0Zw?oc=5",
+      "description": "The productivity ingredient UK food and drink can no longer ignore The Manufacturer",
+      "pubDate": "Mon, 15 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "source": "Avure HPP",
+      "title": "HPP technology offers beverage brands a fresh take on minimal processing - Beverage Industry",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNjlXVkgwNWotWjlSN1c1NUNqWmZtR3otSTdXREhDVk5XdzVDUzZFRC1VYjR1ekM2RlJ2aVd4cG0zVm1hWEpIQ0NXRjZoY2VPZEE0VGwxLXZBVTg5MWY1em42WjNmRzc3SjJFU2toVGJnTWMxX3Z5MUI4ZEFlU2NITVZXSklaamJMbFJFd2QxRnJnaEdscTQ4Z01GVnAwMjRUTERqREVLSDVQbnFWVG9kSEdfemtqUQ?oc=5",
+      "description": "HPP technology offers beverage brands a fresh take on minimal processing Beverage Industry",
+      "pubDate": "Mon, 08 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric EU",
+      "title": "Drinktec 2025: Hiperbaric points the way forward for the future of safe and sustainable beverages - Food and Drink Technology",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb3ZOU1J3ajJGSDU5b0ZKSkx1R284YzdURDNGTC1vT1RkNnpna1YzZ21ncVVwLW1EcVdCWXUtQ0s0Z1RjLUJ5OXFlRU9kVVZmYW5YejBJS1d5bHR1SDg1UnhwQjd1RkZHS0FUVmJhNWQ2TWlVTkRnQ0Z1N19RdWJBdWRzMFF5aXVCSHJFdFBqdTdYOFdNYVhtN0RSbGVyVS1pVUhubkVQZllua2lsMF9EWmNsYVVQZVlzOGpaZUF1ekNCa1ZTSWNMTGdsNXVXa25iOENCNQ?oc=5",
+      "description": "Drinktec 2025: Hiperbaric points the way forward for the future of safe and sustainable beverages Food and Drink Technology",
+      "pubDate": "Mon, 01 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Meat & Deli",
+      "title": "Effect of low-temperature sous vide under high-pressure on the moisture retention, tenderness, and color of pork loins - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfQVRRcWxoT2tFQzQyRFFSWTFuU2ZzcFBGWG55VFFiUzEtNXdjRGtMNmV2RUVxb1VRbmRpNFFlTTZsYWwzR2VmWkk1Wl9lU2pvYTk0U09fRDhxTS11VUFn?oc=5",
+      "description": "Effect of low-temperature sous vide under high-pressure on the moisture retention, tenderness, and color of pork loins Nature",
+      "pubDate": "Sat, 30 Aug 2025 07:00:00 GMT"
     }
   ]
 }
