@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-01T14:25:21.686867+00:00",
+  "updated": "2026-03-01T16:29:55.080053+00:00",
   "articles": [
     {
       "source": "Salmonella Outbreaks",
@@ -42,13 +42,6 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLXVsSlVQRTAzVFk1QWRoXzFoejU0RkQ5TWpIQ2o0SEc5QldScG9QUk1TWnlFR0xNMkdnbVlNWTlIU0pOdnlwZHpUeHc5MGR3YkQ0VmlVRHByTTVmbGVFWk1IT190VTJva0MtYzNubVhYblBzeHlFNG4zUGFIUlF2eVJGS1lfamdtSnExc2M5aW5CZ3hxdkdpREVaWXBlSlVPY0kwNlZiSDNWbXQ2Njl1YzNLbzBxaUl5amRtZmpR0gHDAUFVX3lxTE13cmRDY3NFeWJsMVpqdWJZYndaWmY1ZVp4OUd2Q3pTSmFMQ1RGWVZkclZaUVIxNHF1eFJoT25LSG1LT0NiakpMRGptc3hpNGhTQnlROXNWaGRCS2ltYkozclhRbDlFelRIVVhoVC1fcDdua2J3ZE43OUM2OGdsanpmaVBZMUt4UmM5Q1lsLWM1ME1MZXRvT0hQejY0ZTZ6NkVaX3JjOFpCOVMxN1NEczFxbmgzRnc0czNOU2RCLThpeWpjMA?oc=5",
       "description": "Blueberries recalled by FDA in 4 states Good Morning America",
       "pubDate": "Thu, 26 Feb 2026 15:37:29 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Infant Botulism: Infant Formula (November 2025) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUjFDQjlHQ2x1ZUZEdkREVlBxREh2QVAtc2xtSGZzQkVDMnlJSEx5UkppYWkzdVZYSWhQTEdwd0NsaTd0SWxpc05FS3FVWFliMnVhZG5OUm9FbmNFM3ZvN1JlS3lLZVhaTkJmRU1xS2Q4OGtpYXFYX0ZnSHZGU2xpNkdDdVN0YlFaQnZHNllHaDJKUG9nWnRVN1NpdjhMSHQ3c3pZQUJvS2ZTT2x1bGhXVTRPWFFxQUM4R3ltVA?oc=5",
-      "description": "Outbreak Investigation of Infant Botulism: Infant Formula (November 2025) fda.gov",
-      "pubDate": "Thu, 26 Feb 2026 10:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -156,6 +149,13 @@
       "pubDate": "Thu, 19 Feb 2026 08:00:00 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "Superfood Supplements Recalled Over Antibiotic-Resistant Salmonella Outbreak, FDA Reports - Prevention",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRlAwS1FIM2VGazBpNVJEbGxGRzR2MXBqTEd4SFdHeGRGSmI4SkY4NTJkNWp0eF9RcU0xSTRQODdlNG5TRExhcDV3aTdRLW5IaWYyN1JhNzZYaWhCazlROHk0Tk1PNXZienBHMnpjZkRMVG00NmhudHhoTlJjNVU2TGVaT29PNmRCRXdkTk15SnUwZE1NVnZ5YU05NU5adjFH?oc=5",
+      "description": "Superfood Supplements Recalled Over Antibiotic-Resistant Salmonella Outbreak, FDA Reports Prevention",
+      "pubDate": "Thu, 19 Feb 2026 08:00:00 GMT"
+    },
+    {
       "source": "Food Safety UK & EU",
       "title": "Tesco recalls popular fruit product over salmonella contamination - The Mirror",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUGtOcGFRSV94VlVDWE9nUUlhQ0ZUQ2xCbmc3VVhlNGd0UmRPSFpTMkNOdDltcF9URUZjRV9Gd0tCZ3pVTDRsZXlTRndYZ2Q5TmlpSXdnaDkyTUhDVzBjbWtuLVdHVHlINkp2X05CdEZIZUlOWnJ2aDliY0Z3SDJ3VG1sSDkyZW0tNlHSAY8BQVVfeXFMUFhpQjBTZ01EeE9IQkprbldOVWMyQ1VyRmpsdVRhZWUtSEM0VWZpVll3WjZKZEhpX0c4cW9xcUUtS19ObVQ4V3pGQkxDQmEtdVNRNmpBeHMxYjY0ZDRsTk1KZVUxRTJyMndSbE1kREE4NG14djV0b0NhYXdWc1lCamVCWUFyRUdzaUpEbGFUX3M?oc=5",
@@ -168,13 +168,6 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNFZNRWZ0ZVA3S2xrVmE4ZlhQNS0xRVNWcGRITFRTN2xMUG9PcVNFUFhXTWJLMDE4NmNVWEVFRFlYLW1sWVBGUWYwRTFSQTJFSGR2dmo3SXBncTY5NG9TRnpmTFJNd1ZrR3F6MVRMWXF2ai1tZTBxdUV6LXp5T1VuWlFzb1pLX0dQbVFLTWo5dDZ2WXpLX0ZvdGJYVTlOLXBubDdKakZwT0Jyd0pkTGpxYkdHeFBkQQ?oc=5",
       "description": "Tesco recalls fruit product over urgent salmonella fears Food Manufacture",
       "pubDate": "Thu, 19 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Recalled supplement linked to reported salmonella outbreak, FDA says - LiveNOW from FOX",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV2NVWHRaeUNuT05CQ2VWcnF1eFdRQUpJaVRyQWJVZXprbzhLWlkwSDA3eDVaT1ZyTVgxX0FtRFlJb09Jd1NqRFRLVkhCTjhVanBpdDk3OXZhdXBGR29acjhwNHRxZGV5NkpzSmdZTkI4RjlybEkxLXI1S1lCd3gxc1IxakE3M0nSAYwBQVVfeXFMTy14Q19EYTYxVkVvNHE2WnhfUEd4T1BmRVVld0tKOXBFaEFOdWwyZ05XSXl6bDJ5MWxIcnRQQjdabGw1QWF1WUliek5PQ1ROVXJsUVZRVHF6dTdWMFY1Skd3M3RVb0U0Vm9jS2dodVoyMlVIQ0xSTUtlajJsNS1iR0JCZ3hmdnUwVHlqeXQ?oc=5",
-      "description": "Recalled supplement linked to reported salmonella outbreak, FDA says LiveNOW from FOX",
-      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -212,13 +205,6 @@
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "We Braised Over 100 Pounds of Pork Shoulder to Find the 7 Best Pressure Cookers - Food & Wine",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfYXEwOC1TdFdPOEtQQVZ5a012UEVVZkRob3Y2Rjd5b0w1NVhNd2M0anhWVU5UZDh6UmRyTXZ1Mld5d3hiVlRNRGR6cU9pTENUcXo0encxNDg2RXhVeGo5X1ZUMUVncUdXNmw3alpTa1N2bG53YWc?oc=5",
-      "description": "We Braised Over 100 Pounds of Pork Shoulder to Find the 7 Best Pressure Cookers Food & Wine",
-      "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "UK Food Industry",
       "title": "Registration opens for Food, Drink & Hospitality Week 2026, with Food and Drink Innovation at its core - Restaurant Industry Magazine",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVgzMVpmRU1IeVlNZlFVdnNEZlFKVGoxT3VXZHBPY2xyNjZ4Q1AwT1ZtUXZFT3M4Q3RRblU5cHE4RHc4T0RwZHBnd2Q1Yzc1Z2wzNl9iSWFZOGREVS1HaG1oVndrZ29YTERPV1dMcDlNdGhtRW9QR3RZRUZVXzY5ODB1NmlseUtSUFJjcHNjeTJ6aXNnZnE1NTE2LUdDZUVLbzEtOVV2YlNLR3JIUXBubFZicklFVV9GVndEb3AtNDVqR0gzcXRSWnBGYmJQZUtFbFV0T0dQbXVYTUU?oc=5",
@@ -233,11 +219,25 @@
       "pubDate": "Mon, 02 Feb 2026 09:37:57 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "Salmonella outbreak linked to supplements sickens 65 across 28 states - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkFadU1uUmEtRlN2VEMtTXBRVW12eHY5Ujhzd0lZX2Q3QTNWT0pCVDdBWmJwbWRubWdXMkxHSmx0M1pkM1BNYVZOd3FtU0NOUnpRN0pndS1LREtTUWNkYW5Jaks1a3RhUVBhU1p4dGZGQ2hITzlWUmpManYzSEQ5R0lTVDgyY1lvT2twQ01ueEl1cmZrMHYxRkFfeFUybzNINWhRcE1oSWM0Zm5NM0E?oc=5",
+      "description": "Salmonella outbreak linked to supplements sickens 65 across 28 states USA Today",
+      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
+    },
+    {
       "source": "UK Food Industry",
       "title": "£3m fund unveiled to target diet and health innovation - British Baker",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
       "description": "£3m fund unveiled to target diet and health innovation British Baker",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Fat and oil processing - Hydrogenation, Trans Fats, Oils - Britannica",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WMVR4QTNaLXFUa0swMTBuZFR2S3J1cmg1c0JtOHhqV0h0cENmOWt1RUxNUTVRenhWX3k5cE1TRXFTOHh1VFVzSFBQYkszdnlQd2Z3MWJLV092WkFFV0R0WktwWHdxS0JtMXZrV2Q1OWw?oc=5",
+      "description": "Fat and oil processing - Hydrogenation, Trans Fats, Oils Britannica",
+      "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT"
     },
     {
       "source": "Quintus Technologies",
@@ -324,13 +324,6 @@
       "pubDate": "Fri, 10 Oct 2025 07:00:00 GMT"
     },
     {
-      "source": "HPP Soups & Meals",
-      "title": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong - HuffPost UK",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmNOYlI3cE1Ubk5BaXRtWWpnQkFsLVhvN19LTFRmYnBHLXVPSU51ZmFacnltV25ZWmk5dEt1ZkhzX2NvUlBfY0p6ZGtOVmpHblNWZzBLYVp0YTVWS0lvWXB3V1FxSnZEaV92OVJDbUh5RnRSVmFaQ1hYTU5QelBOYWV5VE5nRWR1S0JFQ19xX2Nta09XdkU0R0pBZlFxWUVFWjhKdE0tOA?oc=5",
-      "description": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong HuffPost UK",
-      "pubDate": "Fri, 10 Oct 2025 07:00:00 GMT"
-    },
-    {
       "source": "Hiperbaric",
       "title": "Hiperbaric to Install 30 HPP Machines in 2025 - Food Engineering Mag",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQajhvMENNTkQ4Q2t3UUNTbURRZkc1Q0lkN2lnM0ppeWtWOC1tVXdERFpHa3FhaV9qUXFXTlItcGFJWmRFdEd5aGVIOFg3SE9va2R3bm5hTXdUNjhyR3o0OFViMVJlU2M0Y3VyQ190dEM0VlMzMlJ6YWl3UjRCWjhmQmZXRlpEVmNWdDlxR3Fyb3k2UFl6eFA2QUJ2QzM?oc=5",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSTdmUzFUUzFOLTBfRUxyQk10QkM3X1dCNG1ZeGR2Zy16d3M0SXNOV09CMUVvNUhzd1J3S1pIWWR3Q3RwMVVNRDRROU1ldkZTRnhYS2JnUGVjQTN2MHlQbUw4b3FMOGV2d19RcXdxZWtJSE1QdXpuWHROUVc4a2UtLVNxQ280cENUX1RZSzlMZmhwbHNXTk9lcjFVTThRY0UtUmlFaTNjQnlkV0Zw?oc=5",
       "description": "The productivity ingredient UK food and drink can no longer ignore The Manufacturer",
       "pubDate": "Mon, 15 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "source": "Avure HPP",
+      "title": "HPP technology offers beverage brands a fresh take on minimal processing - Beverage Industry",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNjlXVkgwNWotWjlSN1c1NUNqWmZtR3otSTdXREhDVk5XdzVDUzZFRC1VYjR1ekM2RlJ2aVd4cG0zVm1hWEpIQ0NXRjZoY2VPZEE0VGwxLXZBVTg5MWY1em42WjNmRzc3SjJFU2toVGJnTWMxX3Z5MUI4ZEFlU2NITVZXSklaamJMbFJFd2QxRnJnaEdscTQ4Z01GVnAwMjRUTERqREVLSDVQbnFWVG9kSEdfemtqUQ?oc=5",
+      "description": "HPP technology offers beverage brands a fresh take on minimal processing Beverage Industry",
+      "pubDate": "Mon, 08 Sep 2025 07:00:00 GMT"
     }
   ]
 }
