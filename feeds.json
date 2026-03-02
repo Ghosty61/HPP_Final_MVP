@@ -1,6 +1,13 @@
 {
-  "updated": "2026-03-02T02:10:26.296895+00:00",
+  "updated": "2026-03-02T05:15:09.358524+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "E. coli survival in French pizza outbreak remains a mystery",
+      "link": "https://www.foodsafetynews.com/2026/03/e-coli-survival-in-french-pizza-outbreak-remains-a-mystery/",
+      "description": "Scientists have published a report on the largest documented outbreak of Shiga toxin-producing E. coli (STEC) in France but have been unable to explain how the pathogen survived in cooked pizzas. On Feb. 10, 2022, Sant&#xE9; publique France and the National Reference Center for E. coli identified a spike",
+      "pubDate": "Mon, 02 Mar 2026 05:05:08 GMT"
+    },
     {
       "source": "Salmonella Outbreaks",
       "title": "Senior News Line: Keep track of food recalls - AgriNews",
@@ -42,6 +49,13 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLXVsSlVQRTAzVFk1QWRoXzFoejU0RkQ5TWpIQ2o0SEc5QldScG9QUk1TWnlFR0xNMkdnbVlNWTlIU0pOdnlwZHpUeHc5MGR3YkQ0VmlVRHByTTVmbGVFWk1IT190VTJva0MtYzNubVhYblBzeHlFNG4zUGFIUlF2eVJGS1lfamdtSnExc2M5aW5CZ3hxdkdpREVaWXBlSlVPY0kwNlZiSDNWbXQ2Njl1YzNLbzBxaUl5amRtZmpR0gHDAUFVX3lxTE13cmRDY3NFeWJsMVpqdWJZYndaWmY1ZVp4OUd2Q3pTSmFMQ1RGWVZkclZaUVIxNHF1eFJoT25LSG1LT0NiakpMRGptc3hpNGhTQnlROXNWaGRCS2ltYkozclhRbDlFelRIVVhoVC1fcDdua2J3ZE43OUM2OGdsanpmaVBZMUt4UmM5Q1lsLWM1ME1MZXRvT0hQejY0ZTZ6NkVaX3JjOFpCOVMxN1NEczFxbmgzRnc0czNOU2RCLThpeWpjMA?oc=5",
       "description": "Blueberries recalled by FDA in 4 states Good Morning America",
       "pubDate": "Thu, 26 Feb 2026 15:37:29 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Outbreak Investigation of Infant Botulism: Infant Formula (November 2025) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUjFDQjlHQ2x1ZUZEdkREVlBxREh2QVAtc2xtSGZzQkVDMnlJSEx5UkppYWkzdVZYSWhQTEdwd0NsaTd0SWxpc05FS3FVWFliMnVhZG5OUm9FbmNFM3ZvN1JlS3lLZVhaTkJmRU1xS2Q4OGtpYXFYX0ZnSHZGU2xpNkdDdVN0YlFaQnZHNllHaDJKUG9nWnRVN1NpdjhMSHQ3c3pZQUJvS2ZTT2x1bGhXVTRPWFFxQUM4R3ltVA?oc=5",
+      "description": "Outbreak Investigation of Infant Botulism: Infant Formula (November 2025) fda.gov",
+      "pubDate": "Thu, 26 Feb 2026 10:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -86,13 +100,6 @@
       "pubDate": "Wed, 25 Feb 2026 10:04:08 GMT"
     },
     {
-      "source": "HPP Healthcare & Medical",
-      "title": "Duckweed Protein Benefits: Is This Aquatic Plant a Sustainable Superfood? - News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUVPWXN3Sk4tNHFLMUtXZmFIUDJ2WFcyRjhuSVo2c2pxVHlCOWc2c1U1NThubHJNNXdkZlJzbFNEbmNYU2RhX3FrZ3lzRDJCVGRlMGdrdjJCX05lb3V6NEY3emtNWmJKV3Jhemgza25iZzFlWFh4NG1udC1xWjY5V2VfTko1ZEFJM3JoeUp5YzBOLUJpVkVPMGF2SVRVbHlmaUZ4Q050ZUxIaWRaQWVYR213?oc=5",
-      "description": "Duckweed Protein Benefits: Is This Aquatic Plant a Sustainable Superfood? News-Medical",
-      "pubDate": "Wed, 25 Feb 2026 03:39:26 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
       "title": "Nationwide Recalls on Frozen Food, Supplements and More to Be Aware of Right Now - EatingWell",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Cc2N3YjRLYkI4aVROZjFwLTRyZEZWR09aaVFISkNqeWMxVnN2WjJlcXRhcm04TVVoYWNTSjlvZmFGemk4elcxZ29jdmJPSUtGaUVoejhORjhxS0d1UzJRTm9Pci1XQU9BZjU3NmVxYm5VZ3dZcXY0?oc=5",
@@ -112,13 +119,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPRGFSN1VPVG1objhFSUFGYm5IcnVscE5jME4wcmZ3VVZtTVdDN3laUHloWGg0dGxLcUplRjdWR3RybXFRWkJ6b18yTTRxOVdBeWQ1aGJyMVVpSVFVTzhFSzhVZkF4b3Rma2stdk5KcTVDX1hoYWVZYi1Ob000Yk1ZTXRnMFA5bUpMUkFPNGdEdHIzbVRvcFBxNWlZUFQ0N29GMHlyYm1KSW9kWXpMX2t2WHRpN2ctdU55LTMtbGJ4LWh1cXMzTnppQ1l3QW9nSFV5NXFVZHduUXhzLVVVNi1ONWxCODhBak40NDg3QUVoaU9qRDRtMzV5VURQaDQ0ZFI3a1BfbElGZnpURWVkbVZUUmp5SXpKdzFyM2QyeFdJWGVYUQ?oc=5",
       "description": "Oklahoma Strengthens Food Processing Infrastructure with $7 Million Investment at Oklahoma State University, Installs Hiperbaric 55 HPP System PR Newswire",
       "pubDate": "Tue, 24 Feb 2026 13:08:00 GMT"
-    },
-    {
-      "source": "HPP Equipment & Machines",
-      "title": "Oklahoma Strengthens Food Processing Infrastructure with $7 Million Investment at Oklahoma State University, Installs Hiperbaric 55 HPP System - lelezard.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91RnBrMElmVmVzRE1iM2lOUEZub01WRTE2NF80R0tlRjU2TUIxa3NPRV9rdG9XTjdZVDZLczhZcTFkcHVON3FBMmt1S2FnY09ZZXJfUVZNTzFjUQ?oc=5",
-      "description": "Oklahoma Strengthens Food Processing Infrastructure with $7 Million Investment at Oklahoma State University, Installs Hiperbaric 55 HPP System lelezard.com",
-      "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Equipment & Machines",
@@ -142,13 +142,6 @@
       "pubDate": "Thu, 19 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Superfood Supplements Recalled Over Antibiotic-Resistant Salmonella Outbreak, FDA Reports - Prevention",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRlAwS1FIM2VGazBpNVJEbGxGRzR2MXBqTEd4SFdHeGRGSmI4SkY4NTJkNWp0eF9RcU0xSTRQODdlNG5TRExhcDV3aTdRLW5IaWYyN1JhNzZYaWhCazlROHk0Tk1PNXZienBHMnpjZkRMVG00NmhudHhoTlJjNVU2TGVaT29PNmRCRXdkTk15SnUwZE1NVnZ5YU05NU5adjFH?oc=5",
-      "description": "Superfood Supplements Recalled Over Antibiotic-Resistant Salmonella Outbreak, FDA Reports Prevention",
-      "pubDate": "Thu, 19 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "Food Safety UK & EU",
       "title": "Tesco recalls fruit product over urgent salmonella fears - Food Manufacture",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNFZNRWZ0ZVA3S2xrVmE4ZlhQNS0xRVNWcGRITFRTN2xMUG9PcVNFUFhXTWJLMDE4NmNVWEVFRFlYLW1sWVBGUWYwRTFSQTJFSGR2dmo3SXBncTY5NG9TRnpmTFJNd1ZrR3F6MVRMWXF2ai1tZTBxdUV6LXp5T1VuWlFzb1pLX0dQbVFLTWo5dDZ2WXpLX0ZvdGJYVTlOLXBubDdKakZwT0Jyd0pkTGpxYkdHeFBkQQ?oc=5",
@@ -161,20 +154,6 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUGtOcGFRSV94VlVDWE9nUUlhQ0ZUQ2xCbmc3VVhlNGd0UmRPSFpTMkNOdDltcF9URUZjRV9Gd0tCZ3pVTDRsZXlTRndYZ2Q5TmlpSXdnaDkyTUhDVzBjbWtuLVdHVHlINkp2X05CdEZIZUlOWnJ2aDliY0Z3SDJ3VG1sSDkyZW0tNlHSAY8BQVVfeXFMUFhpQjBTZ01EeE9IQkprbldOVWMyQ1VyRmpsdVRhZWUtSEM0VWZpVll3WjZKZEhpX0c4cW9xcUUtS19ObVQ4V3pGQkxDQmEtdVNRNmpBeHMxYjY0ZDRsTk1KZVUxRTJyMndSbE1kREE4NG14djV0b0NhYXdWc1lCamVCWUFyRUdzaUpEbGFUX3M?oc=5",
       "description": "Tesco recalls popular fruit product over salmonella contamination The Mirror",
       "pubDate": "Thu, 19 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Soups & Meals",
-      "title": "Great Smog of London | 1952, Cause, Deaths, & Facts - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tUWJ6bnVFemttRVQtYkZDZXJLZ2FBUmtFM180M0o1NlRUREowb0FtXzZCMV9sT2M3bTBicmdKYU9NS3NOeldVN3h5OV9hVkl2c2pYYWlwLTExNkE3MzJBamdOZw?oc=5",
-      "description": "Great Smog of London | 1952, Cause, Deaths, & Facts Britannica",
-      "pubDate": "Mon, 16 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Extensively Drug-Resistant Salmonella Outbreak Linked to Moringa Powder Capsules - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54ZVo4a2hNMkFQUVVld1VUM0NpMXRPdVY2SFFvYnVNX21Ga0hnZU5yQ29XV1VEYVZfQnhkSHRvQVhOM1V4eGhmd2k5ZFYxdEtVMWZkd0w2a1VsQUs4SlM4dzh1QWF1NEkycGlLOC0wUjk0N1ppSk55RFBpQ2RYZw?oc=5",
-      "description": "Extensively Drug-Resistant Salmonella Outbreak Linked to Moringa Powder Capsules Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -212,13 +191,6 @@
       "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "HPP Soups & Meals",
-      "title": "Bowen Yang says watching SNL after his exit is 'totally bizarre' but 'ultimately fun' - The Express Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVWF3ZU53Rk12bWZfWXBWU21lTXFYTFlDT2tmMk5hT2tYS3oxSUJ4WGFEWURHcUxmbUhpRHNQX2ZoWUpXV29PX0k5MmoyN2R5ZnJvcm1UX2VwZ2syN1U5RVhSYVpMeEtQcTB6cEE2VFNMa0t5Q3lZZHJoUmpfVjduS3VsRE1tSmZaSG8wcXROMldURF90R3BXWGdGRG5sS3h1ZEJ1LVdpdW1RbXJlc3h6UmdjRG92NHpCaVHSAcIBQVVfeXFMUHQ5OWFuZV9IUlRzY244WTduTHFUOVRTSG5GNlNldHdtc0hUeGR1cjZWYmdBUEwxckJ4U1paQ2xwWTdwc2YxQzZIWU13WDdzaFlDemR5V0d1S3FGUl9EbVNSZGhpWUxuXzdRX3pYaFBsSFE3V242WUNDYXV2cGhLVHBrcmFBTC1yX1V0TUlRQXUxbDlTUW5KUVNnT0Y2ZWtoak8tdnBtMDRYbkcxb2hvWUxEZy1DOWpzYVhXMm1CellXTFE?oc=5",
-      "description": "Bowen Yang says watching SNL after his exit is 'totally bizarre' but 'ultimately fun' The Express Tribune",
-      "pubDate": "Sat, 07 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "UK Food Industry",
       "title": "£3m BBSRC and Defra funding to accelerate healthier UK food innovation - New Food magazine",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM2ZhUFFzZ1pyZGRMWThoUlZyNERMMWE5U0t6Sk5KRFZSTTJoeFNFc2poX2ZpR3FRZ2tWX1Jlc3R5aUE3YmdXSVBoNEs0SjVtOVJ2U0ZvYjFtNlByNVlTNTdwb1JsS3pYRHRrNmNDS2FRUU43X1gtSnhZWkcxQkY4bzU3Y1BiZzJwRGc0NVltZ3J6TUVaWnhibHdpOUp5c2dOeG9FVFZ0UTREYmJxOEE?oc=5",
@@ -231,13 +203,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkFadU1uUmEtRlN2VEMtTXBRVW12eHY5Ujhzd0lZX2Q3QTNWT0pCVDdBWmJwbWRubWdXMkxHSmx0M1pkM1BNYVZOd3FtU0NOUnpRN0pndS1LREtTUWNkYW5Jaks1a3RhUVBhU1p4dGZGQ2hITzlWUmpManYzSEQ5R0lTVDgyY1lvT2twQ01ueEl1cmZrMHYxRkFfeFUybzNINWhRcE1oSWM0Zm5NM0E?oc=5",
       "description": "Salmonella outbreak linked to supplements sickens 65 across 28 states USA Today",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "Urgent food recall issued as salmonella found in treat - customer told 'do not eat it' - Express.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNV91Vy12aW1MRWkyaEpIS2Q5REt4VGRDcXJRa3lyX0l4Z0xOTkhhdll3ZHdWOFBCd1djWjVGTHRSMWFRZV9PQkM3RHlSMlkyX0g0NkQyQmdwOU1PSUJGdXpwNnQtY3pmSHBOVjlIVE9rNHViWUVmVk51OUpwbzNwRU5qLTlsRVo3OXdKcTl4NEZPemtvLWozTkYwZW8zNkN2TXJJeXUzbTXSAa4BQVVfeXFMT1NBWTJXSlEtbk5BYW5NRDg3MG1mS1Q3MkFIazF6d2FkVURURXVaZ2k0ajI4bGtsVEVzeUxXSk1FMHFlZEpIclJMdFRRelk5SXQ5TDYxbENWbHh2YmlFS3lqUmNiUnFYY2xDV2t2Y2tpdFVEUlZ0cElZcWUyZ09tR2ZVb2djRkJNdkNlSWpzeWRTMDZqVnoteEJNOXF5WFBFejU4R3VLRjkxTGEyOEdn?oc=5",
-      "description": "Urgent food recall issued as salmonella found in treat - customer told 'do not eat it' Express.co.uk",
-      "pubDate": "Thu, 25 Dec 2025 08:00:00 GMT"
     },
     {
       "source": "Quintus Technologies",
@@ -275,10 +240,17 @@
       "pubDate": "Tue, 25 Nov 2025 08:00:00 GMT"
     },
     {
-      "source": "UK HPP Industry",
-      "title": "Holy Moly launches in Tesco Ireland with trio of fresh avocado dips - Retail Times",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMmVpSWtESGk3M1VKNEpTb01ENl9xRTJKanhYamUxRzBfc0N4UXV2STFtSVVFWmRKUTRtdWxsZ1NXdHBERjF1UmRhTmtKcU5sOGl5aVRTNGs2SHR6d0Y5VGJzdndzTFlKcTZHczJ3RlBRWVpmdUgya0l3MVJ5Q2FvU1NVdC15NmtuaHFiZkEyZERhckdRTmc4VWZ3?oc=5",
-      "description": "Holy Moly launches in Tesco Ireland with trio of fresh avocado dips Retail Times",
+      "source": "HPP Meat & Deli",
+      "title": "High-Pressure Processing reverses the dark color or dark-cutting beef to bright red - MEAT+POULTRY",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzJuTUJEMjVscTBHVnRDWjdnR2hTM0dDWTk5ZkkwV2lXdzJwR0N0dmZaeHJ0OEhjNnRBbGNSUElDcHM1T3Y3emNBeGJrZDltMXJ3S0VydloyUXM1WWVxNzhKU1NSZGFEeUtKZ3ZtY2hLR3BSV2thNFNDMG13Tll2eTZSOEZ2aHZSMm51Q3doSGJtcHlpWlUwcm5OYU1sZjNkLXBhdzZoWDYzeFJDRzRvdWs2YjNGZnkzaXM5OE1DMDg0VUg3?oc=5",
+      "description": "High-Pressure Processing reverses the dark color or dark-cutting beef to bright red MEAT+POULTRY",
+      "pubDate": "Fri, 21 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Salmonella Outbreak Linked to Eggs - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NVEs0TXhkNTZmcTB2Y1Fsdm5nTWRvdlpBQ1oxb09YYTVVRUl5VU4zWlBLUnpnU3RCV19CVmIyU3FXbnVvRUxraXZJOUh0ZHZLNjdSS1dMRFJEckpGdExXb2U4T1FuaEZWb1pfSXBKZw?oc=5",
+      "description": "Salmonella Outbreak Linked to Eggs Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Thu, 20 Nov 2025 08:00:00 GMT"
     },
     {
@@ -303,6 +275,20 @@
       "pubDate": "Tue, 11 Nov 2025 08:00:00 GMT"
     },
     {
+      "source": "EU HPP & Food Tech",
+      "title": "36Kr Exclusive: GAO Bingqiang-Backed Smart Kitchen Appliance Team \"LISSOME\" Completes Over RMB 10M Pre-A Round Financing - 36 Kr",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGSnBtcXVBSVJrWnBCM19QdkZpblBwWmFQbGVYUHphc3NJOXhfTXJibFZSM1lORHl5UmxjeThISU5FY253bjBZb0JjTnE5LXRGU0Mw?oc=5",
+      "description": "36Kr Exclusive: GAO Bingqiang-Backed Smart Kitchen Appliance Team \"LISSOME\" Completes Over RMB 10M Pre-A Round Financing 36 Kr",
+      "pubDate": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric",
+      "title": "Hiperbaric introduces HPP tolling service integration to Sunrise Logistics' Pennsylvania cold chain operation - The National Provisioner",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd05nOUt1OHh4UzVxeE5qYXhWaEZCd25xdmFxaXNfMW1Jbm1aYkpYVmx2OG02MFE4dkwzeHdDaklzS2NtcXpkVjBPVm5RTmdnX1Nxa2cxRGROTUIzV0ZjdWRRaDAyQndLcU5XX0tqNFF6Zk5hUk5yZHNOcU40bzRRSGoxTkthYi1HUFo3aFNCRnpBYmQ0V0lBdXo2SEx1VU5SenplTkdHTjV5ZUd6b1I5QlltZ1lhWVFhOGtzTWFlUFNueHl4akhWcmx6MENxc0huOU9Ga2NwY1hSSnR3Y1VHdDBkVUQyVmprYkZsMWJ2TQ?oc=5",
+      "description": "Hiperbaric introduces HPP tolling service integration to Sunrise Logistics' Pennsylvania cold chain operation The National Provisioner",
+      "pubDate": "Tue, 04 Nov 2025 08:00:00 GMT"
+    },
+    {
       "source": "Quintus Technologies",
       "title": "Second Hot Isostatic Press to go live at Wallwork in time for Formnext - Aerospace Manufacturing",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS2hObS14cmN1VFc4WEx3SkN6enFzOXFycVNZeDVEUTg1MTRiejd5T1lYcWdkOE9rcEhUc2tVUDRQMUc3cjVSUTRqUmN2bnVjZVpRdFc3d0p1SWZITXlxWTFqNEVfMG1ubzlVeDFCRXV0UHVwS0VBbFRNMTI3UXMwWUQwWFZ3OFBsXzhHQVA3dWRld0R2dHI5R081UQ?oc=5",
@@ -315,6 +301,20 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUXY1V2ZWc3l5MlVWRFZFdnozSHpNUXJPVG1rdVp1ME9jdGJtTnJTSktTMEhEdnA0YzB5VzdDTUpTQzFKM3c4bnp1aDUwcGpTeDJPMGpOZWMwdnIxU3RxWTRnaU5mOXhYelA1R0V1X1ljY1NjWllwVkZyUTZMX29FeU8zR2ZXc0Rxempna0JGYm01VHplWDJuZ0cyYV9Tb3pVeG9EcGlzY2l1cFFQbnJBdg?oc=5",
       "description": "Farm to factory: These are the technologies transforming modern dairy manufacturing FoodBev Media",
       "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "GEA’s NiSoMate® becomes an essential compliance tool as EU waste directive comes into force - New Food magazine",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelI2dkkyYkNqcm5MWXFoeWlxbUVPaGZMN085X3FZb0N6TWRpek90Mnd4akRtU3hpdUNGems5cnU1U3VtRDBUVU1lTXJzOE1JNkJ3MW1XUGNLZTlTNzI4U2xBLUVURlBySTVEYVNHa0pyQ0l0ampKTVJjc1pqdGxSbWZ6NDdGZ3hWUjcxX2dCSUxBUQ?oc=5",
+      "description": "GEA’s NiSoMate® becomes an essential compliance tool as EU waste directive comes into force New Food magazine",
+      "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "High-tech eyes and ears to boost speed and safety for first responder teams - research-and-innovation.ec.europa.eu",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVEc3YUFqLWZKMUwzbkJYWTNYSzJKNU4wUTl3b2NyYjNrZjNsMm5CU2JCQU15dWMybXhYMlFIUEpFTDRLUVJHaEZKcXUwNTdhLVFiSndPaGFLaXcwRnItZ1QwQ0tpZW5IZnRUY1pBM01kQVFvaE83MWZsWnAyaVFadV84a0JXeml2ejFIYXRMYnZqUm1TZk44YjF2SlF2cUhRVUpiYzdQSUN2MlBVSU5GcndzUzBCUWw5V2dHendkRm5LWXpralFvUGN3ZE1IZHczREZEaWMxQmRKOXVCVHpocDhmUDM2T2lzeXc?oc=5",
+      "description": "High-tech eyes and ears to boost speed and safety for first responder teams research-and-innovation.ec.europa.eu",
+      "pubDate": "Thu, 23 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "HPP Dairy",
