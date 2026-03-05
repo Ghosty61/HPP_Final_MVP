@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-05T06:54:31.530997+00:00",
+  "updated": "2026-03-05T08:43:19.125623+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -38,9 +38,9 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Urgent recall issued for 'contaminated' meat sold at Tesco - 'do not eat it' - Daily Express",
+      "title": "Urgent recall issued for 'contaminated' meat sold at Tesco - 'do not eat it' - Express.co.uk",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNEo0THp5dzVxZmNwR2psWHhwQzdsejhIR2dsSnBpZWt0X1QzS2sxRzREQUdiWlV6TmtZdkotbTR2V3pKdlRncHRHQnpmTWVLSTlhanh0UzI1cWU3cFN6Q2JpRFpIRW0xRXExYWM2UEdKUkNsUHZZcWE0eGwzM0pQR0xmZkRVYllDLU5NOWZIQ3jSAZYBQVVfeXFMTmxJeUxuS0w1R0dMZ0Q1QVh4ZnVZOG5CRU1PNzByVEx3U3Y0cHMzRkI2Y3hRRDk3eUsxT3AyanZzYi01QWdGc0l3RWg0R01wTnNzaDBIdjd6UEZxc2YzSlgtRGcxLVF4ZVhvdnFKcUdVcEN4ekZZSF92dDIwcUR3bFZqWHVEc1otMjBkREhBb3FOLTcyaEZB?oc=5",
-      "description": "Urgent recall issued for 'contaminated' meat sold at Tesco - 'do not eat it' Daily Express",
+      "description": "Urgent recall issued for 'contaminated' meat sold at Tesco - 'do not eat it' Express.co.uk",
       "pubDate": "Tue, 03 Mar 2026 09:30:00 GMT"
     },
     {
@@ -136,6 +136,13 @@
     },
     {
       "source": "Salmonella Outbreaks",
+      "title": "Recalled supplement linked to reported salmonella outbreak, FDA says - LiveNOW from FOX",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV2NVWHRaeUNuT05CQ2VWcnF1eFdRQUpJaVRyQWJVZXprbzhLWlkwSDA3eDVaT1ZyTVgxX0FtRFlJb09Jd1NqRFRLVkhCTjhVanBpdDk3OXZhdXBGR29acjhwNHRxZGV5NkpzSmdZTkI4RjlybEkxLXI1S1lCd3gxc1IxakE3M0nSAYwBQVVfeXFMTy14Q19EYTYxVkVvNHE2WnhfUEd4T1BmRVVld0tKOXBFaEFOdWwyZ05XSXl6bDJ5MWxIcnRQQjdabGw1QWF1WUliek5PQ1ROVXJsUVZRVHF6dTdWMFY1Skd3M3RVb0U0Vm9jS2dodVoyMlVIQ0xSTUtlajJsNS1iR0JCZ3hmdnUwVHlqeXQ?oc=5",
+      "description": "Recalled supplement linked to reported salmonella outbreak, FDA says LiveNOW from FOX",
+      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
       "title": "FDA Issues Recall of Trendy Superfood After Supplements Were Linked to Salmonella Outbreak - People.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY2drdUg0WDFzblg1UTJiU3UzTEVxM1JhLWw0ZTZGM0Y2QzZ2clpJdGJsbmQxMjduVFdoYVl5WFhyRndqdHVfWm1FRUtRV3JhTXRaTXNpeThVTmVMSXNXbl9UaTNKYjEyZmk5RGg5VzZCNi1scHV0djQxcEI5emVZU1UwT2VvaDBnMlhJQlQweDFzcnRRMGJzZnVCNGVtUQ?oc=5",
       "description": "FDA Issues Recall of Trendy Superfood After Supplements Were Linked to Salmonella Outbreak People.com",
@@ -177,7 +184,7 @@
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "HPP Dairy",
+      "source": "HPP Cosmetics & Beauty",
       "title": "Milk | Pros, Cons, Debate, Arguments, Dairy, Nutrition, & Health - Britannica",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42d2NVQXpzcmh1Sjk0OGF3cngwdTNVdlJwZ0h5cE02UEtRZ0Rzb0VNa2pTcmllYmdyanJGejhqZEZCeUpyUGMtLUZsYXRxTnlMaS1ESnl2azk?oc=5",
       "description": "Milk | Pros, Cons, Debate, Arguments, Dairy, Nutrition, & Health Britannica",
@@ -198,6 +205,13 @@
       "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT"
     },
     {
+      "source": "HPP Soups & Meals",
+      "title": "Bowen Yang says watching SNL after his exit is 'totally bizarre' but 'ultimately fun' - The Express Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVWF3ZU53Rk12bWZfWXBWU21lTXFYTFlDT2tmMk5hT2tYS3oxSUJ4WGFEWURHcUxmbUhpRHNQX2ZoWUpXV29PX0k5MmoyN2R5ZnJvcm1UX2VwZ2syN1U5RVhSYVpMeEtQcTB6cEE2VFNMa0t5Q3lZZHJoUmpfVjduS3VsRE1tSmZaSG8wcXROMldURF90R3BXWGdGRG5sS3h1ZEJ1LVdpdW1RbXJlc3h6UmdjRG92NHpCaVHSAcIBQVVfeXFMUHQ5OWFuZV9IUlRzY244WTduTHFUOVRTSG5GNlNldHdtc0hUeGR1cjZWYmdBUEwxckJ4U1paQ2xwWTdwc2YxQzZIWU13WDdzaFlDemR5V0d1S3FGUl9EbVNSZGhpWUxuXzdRX3pYaFBsSFE3V242WUNDYXV2cGhLVHBrcmFBTC1yX1V0TUlRQXUxbDlTUW5KUVNnT0Y2ZWtoak8tdnBtMDRYbkcxb2hvWUxEZy1DOWpzYVhXMm1CellXTFE?oc=5",
+      "description": "Bowen Yang says watching SNL after his exit is 'totally bizarre' but 'ultimately fun' The Express Tribune",
+      "pubDate": "Sat, 07 Feb 2026 08:00:00 GMT"
+    },
+    {
       "source": "Salmonella Outbreaks",
       "title": "Report Raises Concerns About U.S. Food Recall Timeliness, Transparency in 2025 - Food Safety Magazine",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa0t0dWtyMUEwRUc1ZVJVcUVhLWVqeE1UcnpNWXFFQmh4WENwYVEtcTF5dkpROFFMQjE3Z3ZRUlBhLW5SWmxPUDZYQXR1QUU0YVU2TU91T3FxcnRIbXdfUlJKT2lweldjXy1XZTU3a0tfN09yMG5tRkhPenNDMlhhYjlqRV9MT0JtTVZQVV9CbUJYR3EzNVB4WU1UOXFySS1iMXduSzJBdTFXanR3NVRSZmt4MDdNdUxqWlE?oc=5",
@@ -212,32 +226,11 @@
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
-      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
-      "pubDate": "Thu, 29 Jan 2026 08:00:00 GMT"
-    },
-    {
       "source": "Quintus Technologies",
       "title": "Quintus Technologies and Lyric Robot Form Strategic Collaboration to Accelerate Industrialization of Solid-State Battery Production - PRWeb",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSVo1em95Tjc1b3d4Tm9HNE1vaWVrMlZZQ2FBMGUzbDM4bUNGaVJDc3luTWVWTi1GWERhcTV1cGxIRmthZU5kcWZoRnF1WVY5bkl0TS1JcGhBSVJsT2NaSW5nVHVTUXkwRUpaY29tUGdJUDFzc1ZRSDlzRHdSWElxa21nNENpeWJRZWxMRU56ZzVWbG51SFFUZGt4czBUMTZYOFI3Q0JLRDd5SDZjX0FrY21sYzFra0N1bFFsQ1BjQXJJLTgzZHdqWl9TRWJxMnFxM3RJT0xLTlJiX040eUxoU0taSUQ0UVNxX0dHU3pzdTNNQU9VQ2czaWN2bFRzVXFTMTBHLXBGNF8?oc=5",
       "description": "Quintus Technologies and Lyric Robot Form Strategic Collaboration to Accelerate Industrialization of Solid-State Battery Production PRWeb",
       "pubDate": "Tue, 23 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Soups & Meals",
-      "title": "Our Top-Tested Instant Pots Can Do so Much More Than Pressure Cook - Good Housekeeping",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcHdWSklKNlIzdC1VcFBtdGZKSFBWRE9YN3F4cEttREFzZWhRcE8wdGdLdlQtMWdTWTBLSTQ0MEZCNVl2T1I5aTc4cmVuSTV3ZTVZSVdXZGcxeTJ2Z3FZNVNJQm1DR0ZLNV9lUXVhM2wxR2poMTRNc0p6N0lrVnczQkxmeWlkUkwwODhEdGNVU3lQUE9YZ01N?oc=5",
-      "description": "Our Top-Tested Instant Pots Can Do so Much More Than Pressure Cook Good Housekeeping",
-      "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Soups & Meals",
-      "title": "6 Rules for Canning You Should Never, Ever Break - Better Homes & Gardens",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFZNbW0wQ05lcHdEZEpxSlBHYWZtN3k3Z3hOZjRhZ2ZfX0owR0tpenhMY3RCQVdON2xtYS0xUWlJaERUa1Z6cmtQbFo2UVN6NEVReEZQUk1EQmppTWFBX1dTQzBqaS0yb1BaSndrVnZBY3dUTUxWUG02dW1jdnA3QWRudGRKSVpwdG9GTmNtUFplMWZGRGp2d2VCYlFfU00?oc=5",
-      "description": "6 Rules for Canning You Should Never, Ever Break Better Homes & Gardens",
-      "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT"
     },
     {
       "source": "Quintus Technologies",
@@ -280,13 +273,6 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSUlzOGhNYlZRQU1wbzVsN3FMckc1cktqSlFJalFaNXpLWmhBcDlxZnRKUHNaV01uYkU0ajRaQkJaWTNlYnh5QS1HNkMzbV9SUUJlQnJTSkJoMk5ocGpHWFJ5SEtvaEtIclVFaHdRQjZpREg4OVpkcDg0SXdIRUJBNWdQNWhmakp1ekZYVTlvd2J2c2h4djFuQ2JXeHg0M2tJWUI0cDdPelRUZ1FGbUZRVjdLcWhtNGxzaWkxclVzbHhXX1BlLTJlTEF0R3NxamR3dGFQRFFoaS1hZUdoZjdVLTBn?oc=5",
       "description": "Quintus Technologies Unveils Pilot-Scale Warm Isostatic Presses for All-Solid-State Battery Production PRWeb",
       "pubDate": "Tue, 11 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Soups & Meals",
-      "title": "I Make the Best Chicken Soup Ever—Here's My Secret - Allrecipes",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtdnJxTW9PYk9kWHVUVFFYUktkYm1MWWluWnUxdGVjYncyTnFVaEk2SXJEcU1RTW1hWXVBTS1rT3dyejB4SGlPeHNCaE5jbkNvS2ViVW81ZlRWSWlfTE8zV0NZbEJldmhoZWZfNnRfQ2hhNHZKSXlsUVJn?oc=5",
-      "description": "I Make the Best Chicken Soup Ever—Here's My Secret Allrecipes",
-      "pubDate": "Sun, 09 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -350,6 +336,20 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQajhvMENNTkQ4Q2t3UUNTbURRZkc1Q0lkN2lnM0ppeWtWOC1tVXdERFpHa3FhaV9qUXFXTlItcGFJWmRFdEd5aGVIOFg3SE9va2R3bm5hTXdUNjhyR3o0OFViMVJlU2M0Y3VyQ190dEM0VlMzMlJ6YWl3UjRCWjhmQmZXRlpEVmNWdDlxR3Fyb3k2UFl6eFA2QUJ2QzM?oc=5",
       "description": "Hiperbaric to Install 30 HPP Machines in 2025 Food Engineering Mag",
       "pubDate": "Mon, 06 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric",
+      "title": "Hiperbaric Achieves Record Growth with 30 HPP Machine Installations in 2025, Expands Tolling Network with New Partnerships - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMEd3MWdOZE5BdVpza3dzWWhuQ19FcnE1UjR3aXhaaWZZdUg5LUhLZXVsUzB0V1lYc1hxNHVqTVNoRU13anFHclhlMXNydC10ejVNRW8tZW1qdS1lLVZkMU9vckpIYmJ1cWJsZUpZV1hGOGJCMGV6V2l4dE84NE52RnZTSVo2R2JrZ1M0cTYtVDV1eWlwdWl5RGFoQnJZR1lMZlVoRTZ2V1BpczQ1N2xDbGNzNEN3VXRYOGQ5c2xXQVQ5ZEd0WVNvWGNNWHNocmEwdDA3WXdkT2xudXRpLVFWN2lXZDhPMmtGSkducGpFcmpUVGFxcHFPZkFtV3NRU21oOUtVUGNoelo?oc=5",
+      "description": "Hiperbaric Achieves Record Growth with 30 HPP Machine Installations in 2025, Expands Tolling Network with New Partnerships PR Newswire",
+      "pubDate": "Thu, 02 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Innovation & Research",
+      "title": "HPP or HPTP in pet food production -- what's the difference? - PetfoodIndustry",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaUtRSGhHYTdSUXI5dktCcEhVSm05cnpQLWZpTHcyaThUTzJVeXVxbnRTcG5JeWFiazE3ZnZYdm04dWhRcHpkSll6TEdtMkpjRFJ6MXc2djdfOTJZN2tWc2VRSGhGZDJ6Uml0UDdBUHFLSEYxTzlEZkZrYmhxWXhiMGg5SHJPTW9GZlhtRVpjMmFpbWlnLU9fUXpqTEJ4Nmdtbm9oUVkzZU1raDJBVDB3WFZwN2dPcUY2MmRHMndQRVItaS1xOVNXVTFEYXo?oc=5",
+      "description": "HPP or HPTP in pet food production -- what's the difference? PetfoodIndustry",
+      "pubDate": "Wed, 01 Oct 2025 07:00:00 GMT"
     }
   ]
 }
