@@ -253,24 +253,6 @@
     },
   ];
 
-   const PROXIES = [
-    {
-      build:   u => "https://corsproxy.io/?" + encodeURIComponent(u ),
-      extract: async r => r.text(),
-    },
-    {
-      build:   u => "https://api.allorigins.win/get?url=" + encodeURIComponent(u ),
-      extract: async r => { const j = await r.json(); return j.contents; },
-    },
-    {
-      build:   u => "https://thingproxy.freeboard.io/fetch/" + u,
-      extract: async r => r.text( ),
-    },
-  ];
-
-    },
-  ];
-
   // ── HTML stripping ────────────────────────────────────────────────────────
   /**
    * Properly strips all HTML tags and decodes HTML entities by letting the
