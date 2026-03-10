@@ -1,12 +1,19 @@
 {
-  "updated": "2026-03-10T02:04:34.992194+00:00",
+  "updated": "2026-03-10T05:10:01.785794+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "World Food Safety Day theme announced",
+      "link": "https://www.foodsafetynews.com/2026/03/world-food-safety-day-theme-announced/",
+      "description": "Central to the occasion will be the updated WHO estimates on the burden of foodborne disease.",
+      "pubDate": "Tue, 10 Mar 2026 04:05:14 GMT"
+    },
     {
       "source": "Hiperbaric",
       "title": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation - Food and Drink Technology",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZEJqUEI0WkJVVHhkX3M5ek9hYUp6Tnh1R1hWLWhLY2c2bWEzOEFNcXJhY016UDdMS0EtZFRnRWtxTElEcGdxX0RETWwzV3FsemRrdVFXQ1JWLW5oLXhVNW95a3JsNjRCWldTVEtIcnpSc05ZSDY3a3VhX092QXhKRldyNFJWemRjbU5Md0Z0eFRXQzk1eU5mbVgwbDFBazg0ekNuek9OYkowY2pvX1NBSGtoekZURTRBZUN6N1dtZk5nSEE?oc=5",
       "description": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation Food and Drink Technology",
-      "pubDate": "Mon, 09 Mar 2026 22:20:34 GMT"
+      "pubDate": "Mon, 09 Mar 2026 23:39:12 GMT"
     },
     {
       "source": "Food Safety News",
@@ -49,13 +56,6 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON1p1aXZ0WDBySkIzWUNBU2Y2eUp5NzQzZTdsVlVraVpkZkpGMU5iOUhxT1FITHJuWlpVZktvMlFTSkFlOWdKYThyNF82c29jbjNMS2lIdnpMeU50ZjRadzFLdXN4U1BwMUNzdE5QOEdLQXFnM005dHNOc0NFVVNmaw?oc=5",
       "description": "Salmonella sickens 84 across the UK Food Safety News",
       "pubDate": "Fri, 06 Mar 2026 05:05:38 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Outbreak investigation report from FDA fails to provide crucial information",
-      "link": "https://www.foodsafetynews.com/2026/03/outbreak-investigation-report-from-fda-fails-to-provide-crucial-information/",
-      "description": "One import sample was collected by FDA as part of the outbreak investigation. The agency knows the supplier, distribution center and manufacturer, but it is not reporting the names of those businesses.",
-      "pubDate": "Fri, 06 Mar 2026 05:05:17 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -112,20 +112,6 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUVPWXN3Sk4tNHFLMUtXZmFIUDJ2WFcyRjhuSVo2c2pxVHlCOWc2c1U1NThubHJNNXdkZlJzbFNEbmNYU2RhX3FrZ3lzRDJCVGRlMGdrdjJCX05lb3V6NEY3emtNWmJKV3Jhemgza25iZzFlWFh4NG1udC1xWjY5V2VfTko1ZEFJM3JoeUp5YzBOLUJpVkVPMGF2SVRVbHlmaUZ4Q050ZUxIaWRaQWVYR213?oc=5",
       "description": "Duckweed Protein Benefits: Is This Aquatic Plant a Sustainable Superfood? News-Medical",
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Equipment & Machines",
-      "title": "Analysis of Segments and Major Growth Areas in the High-Pressure Processing Equipment Market - openPR.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWlIaTRPRlR2Z1B4VWk0MHJrOW15Nzdxem9OekJyZzJ3Y2RUSmZDQlFwTTFfemZ1SUJ2SVRyVmU4VUZydXF3QndmeHlWeFoweXFJVDd5UC1nOE9NdjNqWDZQS0M0Y2I5ZXRIS2xTZzZnc0V0R1VGclBoQngwUWUwNkpGc2phakQwTXF6LUt2ajBQTW03RjFTWHhtS1UyQkdBUXc?oc=5",
-      "description": "Analysis of Segments and Major Growth Areas in the High-Pressure Processing Equipment Market openPR.com",
-      "pubDate": "Mon, 23 Feb 2026 05:07:20 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Supplement Sold on TikTok, Amazon and More Recalled Due to Salmonella Outbreak - EatingWell",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR0NGOV9QaktTMXFBVGdGQTZmY21nc1N5aVpKZm14UkQ4c2dVYVl4NEl5TEoxWjF2ME9VVDhJMXY5Yk9uTXJhVmlDOFEyTktrdVdPY3g2ZURtdXlNX1hmTHFFZ3ltcEhOMk83UnJfLUVDRWl6dHhTN2FGU1VISFZ0Qg?oc=5",
-      "description": "Supplement Sold on TikTok, Amazon and More Recalled Due to Salmonella Outbreak EatingWell",
-      "pubDate": "Tue, 17 Feb 2026 08:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -261,6 +247,13 @@
       "pubDate": "Sun, 09 Nov 2025 08:00:00 GMT"
     },
     {
+      "source": "EU HPP & Food Tech",
+      "title": "36Kr Exclusive: GAO Bingqiang-Backed Smart Kitchen Appliance Team \"LISSOME\" Completes Over RMB 10M Pre-A Round Financing - 36 Kr",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGSnBtcXVBSVJrWnBCM19QdkZpblBwWmFQbGVYUHphc3NJOXhfTXJibFZSM1lORHl5UmxjeThISU5FY253bjBZb0JjTnE5LXRGU0Mw?oc=5",
+      "description": "36Kr Exclusive: GAO Bingqiang-Backed Smart Kitchen Appliance Team \"LISSOME\" Completes Over RMB 10M Pre-A Round Financing 36 Kr",
+      "pubDate": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
       "source": "Listeria Outbreaks",
       "title": "6 Dead in Multistate Listeria Outbreak Linked to Recalled Pasta Meals. Which Products Are Affected? - TODAY.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2hwS1d0SE1MMlE3MlE1Q1ZJUWVGN3c3UWoxdnFrSE1kd1VOVU9ZREFBS1NOeEdheUlyaFhGa3dWVlpsek05Y1ZoeFMzdXVKZWFPQldXcUFHVWZUa3BjOWdzLTE3VXFQZXBESDVvcHJtWnBZS1JRUHN6Q3BQZ2lEZDBBNmtwVXZiRXc?oc=5",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSTdmUzFUUzFOLTBfRUxyQk10QkM3X1dCNG1ZeGR2Zy16d3M0SXNOV09CMUVvNUhzd1J3S1pIWWR3Q3RwMVVNRDRROU1ldkZTRnhYS2JnUGVjQTN2MHlQbUw4b3FMOGV2d19RcXdxZWtJSE1QdXpuWHROUVc4a2UtLVNxQ280cENUX1RZSzlMZmhwbHNXTk9lcjFVTThRY0UtUmlFaTNjQnlkV0Zw?oc=5",
       "description": "The productivity ingredient UK food and drink can no longer ignore The Manufacturer",
       "pubDate": "Mon, 15 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Healthcare & Medical",
+      "title": "U of A researcher honoured as a 2025 IFT Fellow - thegatewayonline.ca",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSE1aUGZlanJfUC1sUDMwY3N6WU9hOWxwVF9WdS0xbEFrbXh3Q28yVXMzMHBWUmo0bGlNNV8tVGlXTHliZGlHRS1uTDdXNEVhaXNMTl9wZ3hmYUtoWjJ4OGdWV29rSTVmenFrTXkweDNtVFpRU3ZlSTVNaU1BT0NUTEFKVEkySTlVZ3pwcEZaYzZXcU9ua2xBR0o2OTBxZw?oc=5",
+      "description": "U of A researcher honoured as a 2025 IFT Fellow thegatewayonline.ca",
+      "pubDate": "Tue, 09 Sep 2025 07:00:00 GMT"
     }
   ]
 }
