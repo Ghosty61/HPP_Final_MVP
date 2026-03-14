@@ -1,13 +1,6 @@
 {
-  "updated": "2026-03-14T05:10:58.566727+00:00",
+  "updated": "2026-03-14T06:50:00.059907+00:00",
   "articles": [
-    {
-      "source": "HPP Seafood",
-      "title": "Oyster Processor comes to Dock+ - NanaimoNewsNOW",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OS1NNQWRKNUJqUW81ak16UmhZb3N6QzZtRlZiVk1FNlhTblN3VFpzdGNDaFBtTkI2X2U4TFEwZm1PVGFWN0ZXekl0azBZaEUzYjBBcG5xZWFyMGw4TC1GNlBaT2ZfRkNyT1huSjBqUWUyd0tlZ0NzcA?oc=5",
-      "description": "Oyster Processor comes to Dock+ NanaimoNewsNOW",
-      "pubDate": "Fri, 13 Mar 2026 17:24:50 GMT"
-    },
     {
       "source": "Food Safety News",
       "title": "France hit by deadly Listeria outbreak",
@@ -72,13 +65,6 @@
       "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "Urgent recall for meat item sold at Tesco as salmonella detected - Daily Record",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOG8zTzhHanB6S3A4LUFNalpSeWJ0MDJiVHdReHl2N04zM2g1cXZjLTZBU2p2TW9IdHY5VUhSMGFtQVROQTdZSjNXcWtvS09DeTBNWEtkajBRd3hoNjV2NEF2bkJvRHpmQ2lDVkdacDZHTDQweEZWUXVNb3RNQ2RneFhBdGRGZllJTG8tNW1EVjFJUdIBlwFBVV95cUxQb1dFczFDWTZvcjAzOUxhSWE2ZHZ0OUlGMWlDbk5HNWZLdDZnNURDTnJScnZuemtHalVQZm5mYnJJeGVFZWh5bFVqTEx2NUpQcUw0MjN0ZWJ6M0g3QjYzWnlvVE1vNlZYQm1wYVQ0d0Y4NzBsS1RNZWNBOUdKS2FiMEhTdGw5VXQ0aHgzX1pBZkVsbGhxNUJN?oc=5",
-      "description": "Urgent recall for meat item sold at Tesco as salmonella detected Daily Record",
-      "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT"
-    },
-    {
       "source": "Hiperbaric",
       "title": "Oklahoma Strengthens Food Processing Infrastructure with $7 Million Investment at Oklahoma State University, Installs Hiperbaric 55 HPP System - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPRGFSN1VPVG1objhFSUFGYm5IcnVscE5jME4wcmZ3VVZtTVdDN3laUHloWGg0dGxLcUplRjdWR3RybXFRWkJ6b18yTTRxOVdBeWQ1aGJyMVVpSVFVTzhFSzhVZkF4b3Rma2stdk5KcTVDX1hoYWVZYi1Ob000Yk1ZTXRnMFA5bUpMUkFPNGdEdHIzbVRvcFBxNWlZUFQ0N29GMHlyYm1KSW9kWXpMX2t2WHRpN2ctdU55LTMtbGJ4LWh1cXMzTnppQ1l3QW9nSFV5NXFVZHduUXhzLVVVNi1ONWxCODhBak40NDg3QUVoaU9qRDRtMzV5VURQaDQ0ZFI3a1BfbElGZnpURWVkbVZUUmp5SXpKdzFyM2QyeFdJWGVYUQ?oc=5",
@@ -104,6 +90,13 @@
       "title": "Outbreak Investigation of Extensively Drug-Resistant Salmonella: Moringa Powder (February 2026) - fda.gov",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOXA4S0pBZmg3bzZrRmZTQzFJODhKV3ZPcm83RWNSR0E1N3dTR28wTG9MYXc5M0plb1Y1aU9wMHQ5OVl3ZVZVRC15c2t1eUZCODlSZ2xCbExXSjVGYUJWWnVSZkVQT0dMQzlkRjE5NGU2aWNtdkFxOWZoUk1jODBVQW1hRTB2MG5oNWp6dlVBT1E1Qi02MVNVQ2tZM1FzMjZfcko0djRpbjNzUlpVMTlmMi14aTVmUUJ5ZVk3LUdQcGduZmQ4RGJwWXVrckFIdDFwbVRXSDFBbVVTZw?oc=5",
       "description": "Outbreak Investigation of Extensively Drug-Resistant Salmonella: Moringa Powder (February 2026) fda.gov",
+      "pubDate": "Thu, 19 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "Tesco recalls popular fruit product over salmonella contamination - The Mirror",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUGtOcGFRSV94VlVDWE9nUUlhQ0ZUQ2xCbmc3VVhlNGd0UmRPSFpTMkNOdDltcF9URUZjRV9Gd0tCZ3pVTDRsZXlTRndYZ2Q5TmlpSXdnaDkyTUhDVzBjbWtuLVdHVHlINkp2X05CdEZIZUlOWnJ2aDliY0Z3SDJ3VG1sSDkyZW0tNlHSAY8BQVVfeXFMUFhpQjBTZ01EeE9IQkprbldOVWMyQ1VyRmpsdVRhZWUtSEM0VWZpVll3WjZKZEhpX0c4cW9xcUUtS19ObVQ4V3pGQkxDQmEtdVNRNmpBeHMxYjY0ZDRsTk1KZVUxRTJyMndSbE1kREE4NG14djV0b0NhYXdWc1lCamVCWUFyRUdzaUpEbGFUX3M?oc=5",
+      "description": "Tesco recalls popular fruit product over salmonella contamination The Mirror",
       "pubDate": "Thu, 19 Feb 2026 08:00:00 GMT"
     },
     {
@@ -160,13 +153,6 @@
       "title": "£3m BBSRC and Defra funding to accelerate healthier UK food innovation - New Food magazine",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM2ZhUFFzZ1pyZGRMWThoUlZyNERMMWE5U0t6Sk5KRFZSTTJoeFNFc2poX2ZpR3FRZ2tWX1Jlc3R5aUE3YmdXSVBoNEs0SjVtOVJ2U0ZvYjFtNlByNVlTNTdwb1JsS3pYRHRrNmNDS2FRUU43X1gtSnhZWkcxQkY4bzU3Y1BiZzJwRGc0NVltZ3J6TUVaWnhibHdpOUp5c2dOeG9FVFZ0UTREYmJxOEE?oc=5",
       "description": "£3m BBSRC and Defra funding to accelerate healthier UK food innovation New Food magazine",
-      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "£3 million investment to drive diet and health innovation - Wired-Gov",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjRvbDFCeDJRZXMzcWFJMUFXV1FEdTFaY1ZCX1lnYzZxNjVEcFdNODhHWjRqc1ZLNk5HYTQ0UEhpX1Zwc2ZTRHlQMW9za1JaWi1LLVFEX1VQUnZVSzF4UEYtOWZnZ0dPVnlVUjhodmppT1NlU1pWcG5JOXFKd2k1VUlDck1sU2Y2bmliTXYxTzdSNW5PZkFySzNQMXBfXzZ0Ui03ZFBHdGxRUXY3MXlzd3FVSjhhak5rR2lBOXpNSjY?oc=5",
-      "description": "£3 million investment to drive diet and health innovation Wired-Gov",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
     {
@@ -231,6 +217,13 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NVEs0TXhkNTZmcTB2Y1Fsdm5nTWRvdlpBQ1oxb09YYTVVRUl5VU4zWlBLUnpnU3RCV19CVmIyU3FXbnVvRUxraXZJOUh0ZHZLNjdSS1dMRFJEckpGdExXb2U4T1FuaEZWb1pfSXBKZw?oc=5",
       "description": "Salmonella Outbreak Linked to Eggs Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Thu, 20 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Multi-million pound backing for cutting edge projects by UK scientists and innovators - GOV.UK",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOHBkdFNzZkNVSVhGa1NaQk1paF9qV0M4Q1J4dEpqUnFRWnJ0NmhKcUVpeFlyUElRNkEtYWFxekNBWjZoYnE1c2lUb0VtSjBieklqVldoMmVjYWNfRk1VQ0ZOaGZSTUEzcjlrVWNSTTkyYzVENHZFVHFXbnFJelZXdkx1TW9hMEVZd3owQ1pYaEtrVlliQUVZbjQzWm12d0M2cEszVkNRMVUxV2xDb1dXcFdQSkttYzVPdEltOA?oc=5",
+      "description": "Multi-million pound backing for cutting edge projects by UK scientists and innovators GOV.UK",
+      "pubDate": "Tue, 18 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfQVRRcWxoT2tFQzQyRFFSWTFuU2ZzcFBGWG55VFFiUzEtNXdjRGtMNmV2RUVxb1VRbmRpNFFlTTZsYWwzR2VmWkk1Wl9lU2pvYTk0U09fRDhxTS11VUFn?oc=5",
       "description": "Effect of low-temperature sous vide under high-pressure on the moisture retention, tenderness, and color of pork loins Nature",
       "pubDate": "Sat, 30 Aug 2025 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Equipment & Machines",
+      "title": "High Pressure Processing (HPP) for Rice and Grain Market | Global Market Analysis Report - 2035 - Future Market Insights",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTFRoeGFhZ094LVVhN01DbkJCd1RhVXVpaUttWUZiNk1YYWx3VWwycWRrSXlBbENEQW95UmFOTk91S2Z3dWl6dWdWQndoNzdlY0tpQ1g5RmRLa0ZwWEt1UGxudHEzRk5USW5FQ1FocEQ3NGhrV2pxYjdxTV9iVDNiZzhEY3k1T1BTT3hDcmtfdWpFeVM2THZSbHJYVE11bU1k?oc=5",
+      "description": "High Pressure Processing (HPP) for Rice and Grain Market | Global Market Analysis Report - 2035 Future Market Insights",
+      "pubDate": "Thu, 28 Aug 2025 07:00:00 GMT"
     }
   ]
 }
