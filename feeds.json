@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T05:27:56.875345+00:00",
+  "updated": "2026-03-15T06:58:37.648947+00:00",
   "articles": [
     {
       "source": "HPP Seafood",
@@ -58,6 +58,13 @@
       "pubDate": "Mon, 09 Mar 2026 23:39:12 GMT"
     },
     {
+      "source": "UK Food Industry",
+      "title": "Good Growth Programme driving innovation, sustainability and food security in Cornwall and Isles of Scilly agri-food sector - Cornwall's Rewind Radio",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNYmR3ellhSEFLanRORm01MlZsVllTRXhwZWNYZUoxbEZvLVhBRkQwekpLRW5wczhtd191b2dlWkZFbmZfVkhHZ1FfVnZkMWp6OUk0VW1na09Ba0tvTDAwLUNibGJoTlFIQ3NHZnhTZktEb1Z5VlJmTG1MVVd1UGNUZ0ZjY3kwRkRUSUtiUlVlcmxrSGo3eUhNV2l0MjlzUW90YVVXZmxHTmNjbHcybWtaZ1ItanF2NlRXaEhrVHA1ZGw2alVjOXNiWnpvckNadXNXRnc1REFmUTRTSmxxUkFJcGwwUTVMdlhzSzItWlVHTURUdHNRSlE?oc=5",
+      "description": "Good Growth Programme driving innovation, sustainability and food security in Cornwall and Isles of Scilly agri-food sector Cornwall's Rewind Radio",
+      "pubDate": "Mon, 09 Mar 2026 05:02:06 GMT"
+    },
+    {
       "source": "HPP Soups & Meals",
       "title": "After Testing 8+ Instant Pots, These 3 Impressed Our Kitchen Experts Most - Good Housekeeping",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcHdWSklKNlIzdC1VcFBtdGZKSFBWRE9YN3F4cEttREFzZWhRcE8wdGdLdlQtMWdTWTBLSTQ0MEZCNVl2T1I5aTc4cmVuSTV3ZTVZSVdXZGcxeTJ2Z3FZNVNJQm1DR0ZLNV9lUXVhM2wxR2poMTRNc0p6N0lrVnczQkxmeWlkUkwwODhEdGNVU3lQUE9YZ01N?oc=5",
@@ -69,13 +76,6 @@
       "title": "Tesco recalls French pork product after salmonella found - Food Manufacture",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSm1sbEctdGNPX1lJeldRcVRzajB1NUlYYS1PRVduUHdjd3NvNnBEUnRjRmJ3RFVrbnN3YzJQZXBMSkpvQnFVUTdwOHhMZGYyLUJsZFJiTXRSNVNEWng5R2dzRjB1RldXajBnOWxGVFB5eGlpNWtBcTNLV3c1TzZ2djd3U2NTdkxJdEhHOXZsX0dhOHQ4Rzl6OEU4UnBEMGZiZEYtT2paZU9nY3ExWWZnV01zeTNNZUNvUW92V3FXZTA?oc=5",
       "description": "Tesco recalls French pork product after salmonella found Food Manufacture",
-      "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "Tesco urgently recalls Salmonella-affected deli product with 'do not eat' warning - Liverpool Echo",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUExlY181VXliWmZLbklKRzNfVmE0TjhfYVFIcFYzS0RhUFZiZ0RTbWh4RWtzei1XcU1peVNKeHpwSmVEU09jSmEwV1p0UTA2Tm1aMXQ2b1JhdEpTa0hFN1l2TEJoT1dNZ29mV05ZM1JVQVNlMEFZX3VxSGQ0QVJsc2tSWDBvWklsRWoyMncxak5oSkwzeFJwRDhiZnNFdG9rUGRJ0gGoAUFVX3lxTE1OdktSOXFod25EbE5wTElEM0ZTdzhlS2w4azdFNm1HdjYwRGtUZHh0MG9tTTV5RmgyQmZJenFBVEJPOTZtcXJLRXlnTTBIYTVCYW9BckZCVGFrN0p3X0tleGQ1aDRHNThmTVlvVVN5UXFUUm5EQTk0ZHYzMmlnYlE3SGpCM2Exd2VmVE5jczlRZmx3ajlDellCajFlQzQtalp6V0g2VGtSYw?oc=5",
-      "description": "Tesco urgently recalls Salmonella-affected deli product with 'do not eat' warning Liverpool Echo",
       "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT"
     },
     {
@@ -135,20 +135,6 @@
       "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "£3m BBSRC and Defra funding to accelerate healthier UK food innovation - New Food magazine",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM2ZhUFFzZ1pyZGRMWThoUlZyNERMMWE5U0t6Sk5KRFZSTTJoeFNFc2poX2ZpR3FRZ2tWX1Jlc3R5aUE3YmdXSVBoNEs0SjVtOVJ2U0ZvYjFtNlByNVlTNTdwb1JsS3pYRHRrNmNDS2FRUU43X1gtSnhZWkcxQkY4bzU3Y1BiZzJwRGc0NVltZ3J6TUVaWnhibHdpOUp5c2dOeG9FVFZ0UTREYmJxOEE?oc=5",
-      "description": "£3m BBSRC and Defra funding to accelerate healthier UK food innovation New Food magazine",
-      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "£3 million investment to drive diet and health innovation - Wired-Gov",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjRvbDFCeDJRZXMzcWFJMUFXV1FEdTFaY1ZCX1lnYzZxNjVEcFdNODhHWjRqc1ZLNk5HYTQ0UEhpX1Zwc2ZTRHlQMW9za1JaWi1LLVFEX1VQUnZVSzF4UEYtOWZnZ0dPVnlVUjhodmppT1NlU1pWcG5JOXFKd2k1VUlDck1sU2Y2bmliTXYxTzdSNW5PZkFySzNQMXBfXzZ0Ui03ZFBHdGxRUXY3MXlzd3FVSjhhak5rR2lBOXpNSjY?oc=5",
-      "description": "£3 million investment to drive diet and health innovation Wired-Gov",
-      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
       "title": "'Super greens' sold nationwide tied to salmonella outbreak. See recalled products. - USA Today",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRDlTMFpPNGE1VDJpTDJYZHBKVnpuN0pZQ2JtaUpfS1VSSFBCOGF6d3lDa1hIaHY0VE5DZzlZSjE5ZXVnOWQ0NTVvMjctOXg2ZWNjcGFLd1pxWUJ5dlVqRmxaQ0R4eHpMNl9sdTlra0R3d1BpRE11TE5kNktWN3V3X0NuQXFlY3NQdjA3bDdEQkVCdEpTM3ZxcDZNNHE4LTVSeGlaci0xN2t2OWp2cUdYSXMzQlg2NUE?oc=5",
@@ -161,6 +147,13 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRnA5X0pOVDFsNVMtRFpGU01uMjhkaVVGMkJ1VTc4cTczc2pqNGRWN2FGalE1NlFBLVRiTjFEMU41MG9FaUxZbnJCdjFfdkFLUnRDWUdVWk8yVlgxX1pDYjBKc2NRb0ZZUXNHUjQ5NVUxa3NTd01JSExpS1VILUFLdDd3a0hIS1ZiTThZVVNXb05BQnprRUZCcw?oc=5",
       "description": "Super Greens Powder Recalled After Link to Salmonella Outbreak That Sickened 45 TODAY.com",
       "pubDate": "Thu, 15 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "Urgent food recall issued as salmonella found in treat - customer told 'do not eat it' - Daily Express",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNV91Vy12aW1MRWkyaEpIS2Q5REt4VGRDcXJRa3lyX0l4Z0xOTkhhdll3ZHdWOFBCd1djWjVGTHRSMWFRZV9PQkM3RHlSMlkyX0g0NkQyQmdwOU1PSUJGdXpwNnQtY3pmSHBOVjlIVE9rNHViWUVmVk51OUpwbzNwRU5qLTlsRVo3OXdKcTl4NEZPemtvLWozTkYwZW8zNkN2TXJJeXUzbTXSAa4BQVVfeXFMT1NBWTJXSlEtbk5BYW5NRDg3MG1mS1Q3MkFIazF6d2FkVURURXVaZ2k0ajI4bGtsVEVzeUxXSk1FMHFlZEpIclJMdFRRelk5SXQ5TDYxbENWbHh2YmlFS3lqUmNiUnFYY2xDV2t2Y2tpdFVEUlZ0cElZcWUyZ09tR2ZVb2djRkJNdkNlSWpzeWRTMDZqVnoteEJNOXF5WFBFejU4R3VLRjkxTGEyOEdn?oc=5",
+      "description": "Urgent food recall issued as salmonella found in treat - customer told 'do not eat it' Daily Express",
+      "pubDate": "Thu, 25 Dec 2025 08:00:00 GMT"
     },
     {
       "source": "Quintus Technologies",
@@ -210,6 +203,13 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NVEs0TXhkNTZmcTB2Y1Fsdm5nTWRvdlpBQ1oxb09YYTVVRUl5VU4zWlBLUnpnU3RCV19CVmIyU3FXbnVvRUxraXZJOUh0ZHZLNjdSS1dMRFJEckpGdExXb2U4T1FuaEZWb1pfSXBKZw?oc=5",
       "description": "Salmonella Outbreak Linked to Eggs Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Thu, 20 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Sustainable dairy partnership wins top award for innovation - University of Reading",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSC02ZWtjMU1FNjBJcTdtVGhZanNIWFN2RTRrWXEwSExfZHQ1SkNQN0h0bTVweFdYeEZDLWlSTXNHeE1rV2ZBbEZXN2xxNzQ4dkQxTVRRM2ptaXY4RWpDLUxPM2p5a3J3SlZCbzctOXJSRnA4Z0lONVFreWdGczRsQ0QyQkV4dGVuZk5nVW9GUE1EZkdyRk5lWm5IQ0N4dTVxWEFTSUFZN2o4S3hfOUE?oc=5",
+      "description": "Sustainable dairy partnership wins top award for innovation University of Reading",
+      "pubDate": "Fri, 14 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "HPP Soups & Meals",
