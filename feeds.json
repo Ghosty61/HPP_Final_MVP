@@ -1,6 +1,13 @@
 {
-  "updated": "2026-03-17T02:10:48.287221+00:00",
+  "updated": "2026-03-17T05:21:45.553510+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Scientists hope new Swiss system will help in Listeria battle",
+      "link": "https://www.foodsafetynews.com/2026/03/scientists-hope-new-swiss-system-will-help-in-listeria-battle/",
+      "description": "Plus: Information about a Bacillus cereus outbreak at a school",
+      "pubDate": "Tue, 17 Mar 2026 04:03:12 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "RAW FARM cheddar cheese linked to E. coli outbreak",
@@ -35,13 +42,6 @@
       "link": "https://www.foodsafetynews.com/2026/03/france-hit-by-deadly-listeria-outbreak/",
       "description": "Drôme Ardèche Tradition has recalled products",
       "pubDate": "Fri, 13 Mar 2026 04:03:31 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "FDA tightens import rules for certain foods with Salmonella and undeclared colors",
-      "link": "https://www.foodsafetynews.com/2026/03/fda-tightens-import-rules-for-certain-foods-with-salmonella-and-undeclared-colors/",
-      "description": "The Food and Drug Administration uses import alerts to enforce U.S. food safety regulations for food from foreign countries. The agency updates and modifies the alerts as needed. Recent modifications to FDA&#x2019;s import alerts, as posted by the agency, are listed below.",
-      "pubDate": "Fri, 13 Mar 2026 04:02:57 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -114,7 +114,7 @@
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "HPP Cosmetics & Beauty",
+      "source": "HPP Dairy",
       "title": "Milk | Pros, Cons, Debate, Arguments, Dairy, Nutrition, & Health - Britannica",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42d2NVQXpzcmh1Sjk0OGF3cngwdTNVdlJwZ0h5cE02UEtRZ0Rzb0VNa2pTcmllYmdyanJGejhqZEZCeUpyUGMtLUZsYXRxTnlMaS1ESnl2azk?oc=5",
       "description": "Milk | Pros, Cons, Debate, Arguments, Dairy, Nutrition, & Health Britannica",
@@ -142,11 +142,11 @@
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Salmonella Outbreak Linked to Moringa Leaf Powder - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
-      "description": "Salmonella Outbreak Linked to Moringa Leaf Powder Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Thu, 29 Jan 2026 08:00:00 GMT"
+      "source": "UK Food Industry",
+      "title": "£3 million investment to drive diet and health innovation - Wired-gov.net",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjRvbDFCeDJRZXMzcWFJMUFXV1FEdTFaY1ZCX1lnYzZxNjVEcFdNODhHWjRqc1ZLNk5HYTQ0UEhpX1Zwc2ZTRHlQMW9za1JaWi1LLVFEX1VQUnZVSzF4UEYtOWZnZ0dPVnlVUjhodmppT1NlU1pWcG5JOXFKd2k1VUlDck1sU2Y2bmliTXYxTzdSNW5PZkFySzNQMXBfXzZ0Ui03ZFBHdGxRUXY3MXlzd3FVSjhhak5rR2lBOXpNSjY?oc=5",
+      "description": "£3 million investment to drive diet and health innovation Wired-gov.net",
+      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -154,6 +154,20 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYjZJajZ1bTFMRUZHUzJTTFNmRjI3VkhEck01aG54M2kxelBubjFBNDVGY0RXWFJIekl2MFFDeXlRNC1SMWV3N2xBbkpfam1qb3pVTGxGbVAzQUljUG9MSm1IR1NEeThvLU0xRWFmRElJb204aWlaNTdQenFXbEJlb3EtZWZQVXY5QmVSZ2l4SmdjeFVNS3VTeg?oc=5",
       "description": "Investigation Update: Salmonella Outbreak, January 2026 Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Thu, 29 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Techarena 2026 Announces TOP46 Finalists - Techarenan News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN2xPd3RzZTBLY05nNEJDWVRMUV9KcjFiY0JZX0VKMTVKUUlNVmRsckJfdTJzbXBSOHlQdDlhdDBVSkpCYlNyWE8xVDZRZlJ2cnJ6dGxRT1JBQVBWUXFnYmxMQkV2Y0VWdzRFZFZfcm0yTGEyMDZDS3RIOUR3S0RRRGNWQzU2NWc?oc=5",
+      "description": "Techarena 2026 Announces TOP46 Finalists Techarenan News",
+      "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "'Super greens' sold nationwide tied to salmonella outbreak. See recalled products. - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRDlTMFpPNGE1VDJpTDJYZHBKVnpuN0pZQ2JtaUpfS1VSSFBCOGF6d3lDa1hIaHY0VE5DZzlZSjE5ZXVnOWQ0NTVvMjctOXg2ZWNjcGFLd1pxWUJ5dlVqRmxaQ0R4eHpMNl9sdTlra0R3d1BpRE11TE5kNktWN3V3X0NuQXFlY3NQdjA3bDdEQkVCdEpTM3ZxcDZNNHE4LTVSeGlaci0xN2t2OWp2cUdYSXMzQlg2NUE?oc=5",
+      "description": "'Super greens' sold nationwide tied to salmonella outbreak. See recalled products. USA Today",
+      "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Soups & Meals",
@@ -168,13 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSVo1em95Tjc1b3d4Tm9HNE1vaWVrMlZZQ2FBMGUzbDM4bUNGaVJDc3luTWVWTi1GWERhcTV1cGxIRmthZU5kcWZoRnF1WVY5bkl0TS1JcGhBSVJsT2NaSW5nVHVTUXkwRUpaY29tUGdJUDFzc1ZRSDlzRHdSWElxa21nNENpeWJRZWxMRU56ZzVWbG51SFFUZGt4czBUMTZYOFI3Q0JLRDd5SDZjX0FrY21sYzFra0N1bFFsQ1BjQXJJLTgzZHdqWl9TRWJxMnFxM3RJT0xLTlJiX040eUxoU0taSUQ0UVNxX0dHU3pzdTNNQU9VQ2czaWN2bFRzVXFTMTBHLXBGNF8?oc=5",
       "description": "Quintus Technologies and Lyric Robot Form Strategic Collaboration to Accelerate Industrialization of Solid-State Battery Production PRWeb",
       "pubDate": "Tue, 23 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Soups & Meals",
-      "title": "6 Rules for Canning You Should Never, Ever Break - Better Homes & Gardens",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFZNbW0wQ05lcHdEZEpxSlBHYWZtN3k3Z3hOZjRhZ2ZfX0owR0tpenhMY3RCQVdON2xtYS0xUWlJaERUa1Z6cmtQbFo2UVN6NEVReEZQUk1EQmppTWFBX1dTQzBqaS0yb1BaSndrVnZBY3dUTUxWUG02dW1jdnA3QWRudGRKSVpwdG9GTmNtUFplMWZGRGp2d2VCYlFfU00?oc=5",
-      "description": "6 Rules for Canning You Should Never, Ever Break Better Homes & Gardens",
-      "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT"
     },
     {
       "source": "Quintus Technologies",
@@ -205,11 +212,11 @@
       "pubDate": "Fri, 21 Nov 2025 08:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "Multi-million pound backing for cutting edge projects by UK scientists and innovators - GOV.UK",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOHBkdFNzZkNVSVhGa1NaQk1paF9qV0M4Q1J4dEpqUnFRWnJ0NmhKcUVpeFlyUElRNkEtYWFxekNBWjZoYnE1c2lUb0VtSjBieklqVldoMmVjYWNfRk1VQ0ZOaGZSTUEzcjlrVWNSTTkyYzVENHZFVHFXbnFJelZXdkx1TW9hMEVZd3owQ1pYaEtrVlliQUVZbjQzWm12d0M2cEszVkNRMVUxV2xDb1dXcFdQSkttYzVPdEltOA?oc=5",
-      "description": "Multi-million pound backing for cutting edge projects by UK scientists and innovators GOV.UK",
-      "pubDate": "Tue, 18 Nov 2025 08:00:00 GMT"
+      "source": "HPP Soups & Meals",
+      "title": "I Make the Best Chicken Soup Ever—Here's My Secret - Allrecipes",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtdnJxTW9PYk9kWHVUVFFYUktkYm1MWWluWnUxdGVjYncyTnFVaEk2SXJEcU1RTW1hWXVBTS1rT3dyejB4SGlPeHNCaE5jbkNvS2ViVW81ZlRWSWlfTE8zV0NZbEJldmhoZWZfNnRfQ2hhNHZKSXlsUVJn?oc=5",
+      "description": "I Make the Best Chicken Soup Ever—Here's My Secret Allrecipes",
+      "pubDate": "Sun, 09 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -254,20 +261,6 @@
       "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "High-tech eyes and ears to boost speed and safety for first responder teams - research-and-innovation.ec.europa.eu",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVEc3YUFqLWZKMUwzbkJYWTNYSzJKNU4wUTl3b2NyYjNrZjNsMm5CU2JCQU15dWMybXhYMlFIUEpFTDRLUVJHaEZKcXUwNTdhLVFiSndPaGFLaXcwRnItZ1QwQ0tpZW5IZnRUY1pBM01kQVFvaE83MWZsWnAyaVFadV84a0JXeml2ejFIYXRMYnZqUm1TZk44YjF2SlF2cUhRVUpiYzdQSUN2MlBVSU5GcndzUzBCUWw5V2dHendkRm5LWXpralFvUGN3ZE1IZHczREZEaWMxQmRKOXVCVHpocDhmUDM2T2lzeXc?oc=5",
-      "description": "High-tech eyes and ears to boost speed and safety for first responder teams research-and-innovation.ec.europa.eu",
-      "pubDate": "Thu, 23 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "3 Popular Pet Food Brands Voluntarily Recall Products amid Possible Salmonella Risk: FDA - People.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU5uTUNhOVN5VHhOR1daejVvY2tFWkk2VTVBSkYtNDNuTVJRX2U5VmhfTnhMZmZaM1VxRFVDaktUbEhMd25UN3lac1pic1lfVDJxRzZTODUzb01QOUxZbnpiTl9XMnRYUHc4UHVhZlMwZnpHQlViSm1KejltTUJ5YXZXQWxzQ1V0SlJNTzdzWEdJQjliYlZrTkVCYVlPSXpXcTZnV0o2cw?oc=5",
-      "description": "3 Popular Pet Food Brands Voluntarily Recall Products amid Possible Salmonella Risk: FDA People.com",
-      "pubDate": "Wed, 22 Oct 2025 07:00:00 GMT"
-    },
-    {
       "source": "Hiperbaric",
       "title": "New HPP tolling facility in North Carolina to feature Hiperbaric system - Pet Food Processing",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNDlqSEdueVZFbHIxU1ZUUjM5WGh5OGxBT1dvUkdPQmRPa3VsY25ISEpPSjV0WGticnh1Zk1yVjViNURINHYzS1o4WGZucE9naVJ0c1JLdGZvRi1nY0doVTFURFZTeWlYOG8ydWpFR0xyMkxmbTNMVGxnWEwtYnAwTGV4WlZWWE50WkVuQVdLWnVYQmwyMDJlR1I5TFAtb0ZOZkI5Y1pFOE15TVB2QWpQWWh4X0g4bVJPb0JPLQ?oc=5",
@@ -290,9 +283,9 @@
     },
     {
       "source": "Hiperbaric",
-      "title": "Hiperbaric to Install 30 HPP Machines in 2025 - FoodEngineeringMag.com",
+      "title": "Hiperbaric to Install 30 HPP Machines in 2025 - Food Engineering Mag",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQajhvMENNTkQ4Q2t3UUNTbURRZkc1Q0lkN2lnM0ppeWtWOC1tVXdERFpHa3FhaV9qUXFXTlItcGFJWmRFdEd5aGVIOFg3SE9va2R3bm5hTXdUNjhyR3o0OFViMVJlU2M0Y3VyQ190dEM0VlMzMlJ6YWl3UjRCWjhmQmZXRlpEVmNWdDlxR3Fyb3k2UFl6eFA2QUJ2QzM?oc=5",
-      "description": "Hiperbaric to Install 30 HPP Machines in 2025 FoodEngineeringMag.com",
+      "description": "Hiperbaric to Install 30 HPP Machines in 2025 Food Engineering Mag",
       "pubDate": "Mon, 06 Oct 2025 07:00:00 GMT"
     },
     {
@@ -310,6 +303,13 @@
       "pubDate": "Wed, 01 Oct 2025 07:00:00 GMT"
     },
     {
+      "source": "HPP Juices & Beverages",
+      "title": "Synergistic effect of fermented raspberry juice and high hydrostatic pressure along with coconut sap in chitosan coating for barramundi preservation - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xTm0wMFJuRUtPZFlxQjN0OUktcHlyT0o0blFKeHhhN1hzekJFQnN6ejhuUVQ4V2VrblFIdmxoRVdRYW1Dbk1tQkNUUTU5ME5jT0JEU3hRVWJqZUZvYllR?oc=5",
+      "description": "Synergistic effect of fermented raspberry juice and high hydrostatic pressure along with coconut sap in chitosan coating for barramundi preservation Nature",
+      "pubDate": "Fri, 26 Sep 2025 07:00:00 GMT"
+    },
+    {
       "source": "UK Food Industry",
       "title": "The productivity ingredient UK food and drink can no longer ignore - The Manufacturer",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSTdmUzFUUzFOLTBfRUxyQk10QkM3X1dCNG1ZeGR2Zy16d3M0SXNOV09CMUVvNUhzd1J3S1pIWWR3Q3RwMVVNRDRROU1ldkZTRnhYS2JnUGVjQTN2MHlQbUw4b3FMOGV2d19RcXdxZWtJSE1QdXpuWHROUVc4a2UtLVNxQ280cENUX1RZSzlMZmhwbHNXTk9lcjFVTThRY0UtUmlFaTNjQnlkV0Zw?oc=5",
@@ -322,6 +322,13 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNjlXVkgwNWotWjlSN1c1NUNqWmZtR3otSTdXREhDVk5XdzVDUzZFRC1VYjR1ekM2RlJ2aVd4cG0zVm1hWEpIQ0NXRjZoY2VPZEE0VGwxLXZBVTg5MWY1em42WjNmRzc3SjJFU2toVGJnTWMxX3Z5MUI4ZEFlU2NITVZXSklaamJMbFJFd2QxRnJnaEdscTQ4Z01GVnAwMjRUTERqREVLSDVQbnFWVG9kSEdfemtqUQ?oc=5",
       "description": "HPP technology offers beverage brands a fresh take on minimal processing Beverage Industry",
       "pubDate": "Mon, 08 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Cosmetics & Beauty",
+      "title": "Global Smoothies Market Size to Hit $25.35B by 2033: Trends & Forecast - vocal.media",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMkNONjBPQ0stbTI5ZjZIb0kwV1lKZ29KcUpJVGYyVXVTa0x6dmgtMTlaQXlEM3ZrNm4xcHdGNkNnR2NReXgzX0NIYkNEUTVCbWRsSHJmalFfMjZKZklMZGVOOUFJMkJwWW1QaWJmVmdNLVlLTFVBVThMLW9FTzdYSFU0MFpVZks2VkVUWWNMRVFVY2JBYUp2VDBqcEVmbF9Q?oc=5",
+      "description": "Global Smoothies Market Size to Hit $25.35B by 2033: Trends & Forecast vocal.media",
+      "pubDate": "Wed, 03 Sep 2025 11:52:58 GMT"
     },
     {
       "source": "HPP Meat & Deli",
@@ -342,13 +349,6 @@
       "title": "Daily Dose expands with new juice offerings - Food Manufacture",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUjhaaVNMUS1RRXE4bU56MGtMbk9qWWNVS29LYmxXQThPelJtWDl1aGd5NnZkM0RZcFl3ckJOOW9yZXVDZE05NHAtWVcyUWJEVUdPcWw0X2JFbVRwbWl3WkxOZWUtbG9FbDdqRklDcmEyaDhmWk5HN2lZUy1pbmxSVGhZMVpCQ0FFQkJ4Si10ZWFlZllxYWpZOVFDWGNoWUdocm1rek5iekxaOHlGLUhSSmFn?oc=5",
       "description": "Daily Dose expands with new juice offerings Food Manufacture",
-      "pubDate": "Fri, 08 Aug 2025 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Baby food in pouches is stripped of nutrients – but convenient, healthy alternatives are on the horizon - The Conversation",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOFQtQjdneDIyOC1hZ0Njb3luQTl2eUY1SmtidXhWSnRuSVFBRzU4cHpMaXd4UWEtWEZtTVpHLWhYd2pxRTdsTE1NYk9OMnlqVEp1QjdmNU1kbGtma244ZFZzTTJFV3JVTnZfcnpPRjVBemMzYVdvQUQyUGpIRE9BZy03OF9kMkxLa3FKZW9id3FpMEVXN0R6SlFrWkUyMmJpcUJMNDlKZTZUQjZsRzNHdlZYZ3VuemxBZDBWM2M4WmdrRDBqbkxka3RqcmYzYm42?oc=5",
-      "description": "Baby food in pouches is stripped of nutrients – but convenient, healthy alternatives are on the horizon The Conversation",
       "pubDate": "Fri, 08 Aug 2025 07:00:00 GMT"
     }
   ]
