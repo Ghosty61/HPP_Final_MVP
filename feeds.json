@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-19T16:59:20.319440+00:00",
+  "updated": "2026-03-19T18:59:45.720873+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -100,20 +100,6 @@
       "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "Urgent Tesco recall over Salmonella-tainted product — 48-hour health warning - Manchester Evening News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTXVCMFota2I1R2MwSTlXMjdQcUgwTWVNRzUxSl9qMDJfQTBJNG91XzUxOGwyMjhVMkhrbURjUTNPRjhjOGtYV0loNVh2MXJoWEtkODUtUExBRS1tMGZycUF4WGdiaFp1UWtVcnpkLWdHZnpTUFpqUzQ3XzRvUzkxR2dzRVlSTEJZU29rZWZZdlJIOHJaZnBJNWVpeTBuYkZSWlQzctIBqgFBVV95cUxNOHM0QXBhcnYwYlQyS21ubFdDTE52Rkd0S3ZfQUZkdnJ2MjI2ajJLUjdsTndjdE5ZVEZPTGNuWXgzamtVcllyODQyc3lMVnphUUZsSm9YTlFCZS1SbHVIYjYtSkVXcDdnNV96MGI1bkM4a3FCU3JQRll2dHZMYUpsNDNjNGRxQWhGUmRwdDE2WnZ1cHBadmdpbV95TFBvUnlCWnhxeDJocWhfZw?oc=5",
-      "description": "Urgent Tesco recall over Salmonella-tainted product — 48-hour health warning Manchester Evening News",
-      "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Infant Botulism: Infant Formula (November 2025) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUjFDQjlHQ2x1ZUZEdkREVlBxREh2QVAtc2xtSGZzQkVDMnlJSEx5UkppYWkzdVZYSWhQTEdwd0NsaTd0SWxpc05FS3FVWFliMnVhZG5OUm9FbmNFM3ZvN1JlS3lLZVhaTkJmRU1xS2Q4OGtpYXFYX0ZnSHZGU2xpNkdDdVN0YlFaQnZHNllHaDJKUG9nWnRVN1NpdjhMSHQ3c3pZQUJvS2ZTT2x1bGhXVTRPWFFxQUM4R3ltVA?oc=5",
-      "description": "Outbreak Investigation of Infant Botulism: Infant Formula (November 2025) fda.gov",
-      "pubDate": "Thu, 26 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "Hiperbaric",
       "title": "Oklahoma Strengthens Food Processing Infrastructure with $7 Million Investment at Oklahoma State University, Installs Hiperbaric 55 HPP System - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQYkRtYUJONXp5Z3JyNUxiUFpLNlBWSHdHSmNZR1ViQU4tcGFQOTZlSUNiYnhXZTdRdXJtejUzYWZ1aVJhMXU4bEF1YjNDeF9hMDRlRVBUcl9TTS02VmFIVU1zUnJ6NnkwNVUzTEhUa2Nkek40bEpCOWd4SVExZGVlaDM1NjN1aGZtejlsTjRNaUFib0otajJQQWc2Uk5PNTd2RFBuaTRQWWJUZmdEcmVzUGtFdHlzUXBJcDlWOEZVa3NmSVVJV2dlZXNWUURwOHhuQUJGaEVPd3lWcHpadV95WXY3cHdoYTVLOXRGUUxoeHZqbkJzNy12amFoWVE3MGl0R3VPYmNfRFNzbnByYnQxMzI4QXFXQ19PdDBvQ2Rva19wd1pHNkRuLQ?oc=5",
@@ -192,6 +178,13 @@
     },
     {
       "source": "Salmonella Outbreaks",
+      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
+      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
+      "pubDate": "Thu, 29 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
       "title": "Investigation Update: Salmonella Outbreak, January 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYjZJajZ1bTFMRUZHUzJTTFNmRjI3VkhEck01aG54M2kxelBubjFBNDVGY0RXWFJIekl2MFFDeXlRNC1SMWV3N2xBbkpfam1qb3pVTGxGbVAzQUljUG9MSm1IR1NEeThvLU0xRWFmRElJb204aWlaNTdQenFXbEJlb3EtZWZQVXY5QmVSZ2l4SmdjeFVNS3VTeg?oc=5",
       "description": "Investigation Update: Salmonella Outbreak, January 2026 Centers for Disease Control and Prevention | CDC (.gov)",
@@ -203,6 +196,13 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3M29MLW96aDdhaV81RWJmYlhTTHYxWER6SlcybnI2S2RjZHhjSjJXNjR6TGxIUUdqcXBnMzFxQkFOa1JiaVlxR1N1b1dMbzQ1RHlieGs0dUpjaGxIMXJj?oc=5",
       "description": "Incidental food nanoparticles from freshwater clam soup stabilize Pickering emulsions Nature",
       "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "Urgent food recall issued as salmonella found in treat - customer told 'do not eat it' - Daily Express",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNV91Vy12aW1MRWkyaEpIS2Q5REt4VGRDcXJRa3lyX0l4Z0xOTkhhdll3ZHdWOFBCd1djWjVGTHRSMWFRZV9PQkM3RHlSMlkyX0g0NkQyQmdwOU1PSUJGdXpwNnQtY3pmSHBOVjlIVE9rNHViWUVmVk51OUpwbzNwRU5qLTlsRVo3OXdKcTl4NEZPemtvLWozTkYwZW8zNkN2TXJJeXUzbTXSAa4BQVVfeXFMT1NBWTJXSlEtbk5BYW5NRDg3MG1mS1Q3MkFIazF6d2FkVURURXVaZ2k0ajI4bGtsVEVzeUxXSk1FMHFlZEpIclJMdFRRelk5SXQ5TDYxbENWbHh2YmlFS3lqUmNiUnFYY2xDV2t2Y2tpdFVEUlZ0cElZcWUyZ09tR2ZVb2djRkJNdkNlSWpzeWRTMDZqVnoteEJNOXF5WFBFejU4R3VLRjkxTGEyOEdn?oc=5",
+      "description": "Urgent food recall issued as salmonella found in treat - customer told 'do not eat it' Daily Express",
+      "pubDate": "Thu, 25 Dec 2025 08:00:00 GMT"
     },
     {
       "source": "Quintus Technologies",
