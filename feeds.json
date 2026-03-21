@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-21T10:28:30.612436+00:00",
+  "updated": "2026-03-21T12:51:47.077691+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -21,6 +21,13 @@
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPckItYS1tdlkzR1V5NDhlXzNGU1ZKMnNsczV5Z2Vfc3VaSUxfbkxrZnVTRTJYX19WNkpqMzJCTEcwT3F4R1dzWGk4VmdtU0tOWkN1QUJhVFBiam9DRGV1WTlhdndlWXIwZzA4bDVJbDRCdTJjSEhNOG9iUVlVTEw4cEVFang1TXhtUXBydUVhUC1oRmJYUV9keUdTVmQtMExHcUFrOUUtTDNXOHpteU94QVFyZ19yaGJSSHZaZ0dhU0ZsVi13RWdMQWh2WDFZUGRtX2V1UGR0UFhmU0tDdU9WeGQ2OGZNTU9tb2h6ZUxWVi11YzEw?oc=5",
       "description": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio St. Cloud Times",
       "pubDate": "Fri, 20 Mar 2026 10:01:04 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "The FDA Wants This Cheese Removed From Shelves - Prevention",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQzJ3eHowLWhxQzVCRUxHN2hfNTE5eWZJVkFvSDhxdmZCUnBzM0hBZzFka2ZPT0xwZjF5dTRXdUF3a3FfdC0tM2loOGZZendtN2lyRDdKZ2tvZXl5alFvMFBvUzgybnNhX2hvSGpqblM0eDI2M195empKdzY4bmRDcFVFTHAzQmM4ZDZkQWdtRVI0T0NRSjFROEpZUQ?oc=5",
+      "description": "The FDA Wants This Cheese Removed From Shelves Prevention",
+      "pubDate": "Thu, 19 Mar 2026 21:22:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -77,13 +84,6 @@
       "link": "https://www.foodsafetynews.com/2026/03/illnesses-near-100-in-moringa-salmonella-outbreak/",
       "description": "An additional 20 patients have been identified in an outbreak of Salmonella infections traced to moringa powder and capsules. As of March 17, there are 97 confirmed patients, up 20 from the most recent update from the Food and Drug Administration. Also, a new strain of Salmonella &#x2014; Newport &#x2014;",
       "pubDate": "Wed, 18 Mar 2026 04:05:25 GMT"
-    },
-    {
-      "source": "HPP Soups & Meals",
-      "title": "HS-SPME-GC-MS Reveals Flavor Enhancement in Low-Salt Chicken Soup - Chromatography Online",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaDVnNnJUaTdXX3FnNzB3cWxXa0R3dlYtdHVlSVJKekdqZlE0Mkc0NENwdXVNckUxM01IbFFuRmJ5aEFTaFFGWWxhSnNNc0lPUTZCclRldXhiR29ieVlYaFRaMEh5aXNINUZ2N3p4MGNFSkgwbmtIbS1DemlJX005eDdHMFZ2ODdCWGlVUmI4bnJVRVRVZ2NMbENOSG5xOExWTFY4SzQwd0s0MTg?oc=5",
-      "description": "HS-SPME-GC-MS Reveals Flavor Enhancement in Low-Salt Chicken Soup Chromatography Online",
-      "pubDate": "Tue, 17 Mar 2026 14:58:53 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -149,17 +149,17 @@
       "pubDate": "Thu, 12 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "HPP Cosmetics & Beauty",
-      "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXhUbEgxOUMycF9EN0RUdmxwWWt1WUVyYU1iUnQ0R2FCTlZZcTlFUEMwaG45Z0lGZHpQNGpXTFJEcW9HNm1RN1lSNzZFX2M4QnllM3NmMXc2UVRMTWFvNHM2dXkyc01pNHJ5MlpvWTNMQWJDdUxvc1I5NWR2NFIzOS1vWGFNMUtiZ2d2NVRUVHVTTk9BdENMUmZkcjZZc2VwUXowOGhXWWRvcGQ5T2wtYjRhbTNzSlFrUHZXWmNLWFYzUVlNUE1uTG1xYk5EUDFHQkVsSlJFcHhDN3BTM0dWcnp6MVNOc1VUbFB1ZUJMYzhMenJRNkRkeS1maTlYNGozbEthVW1B?oc=5",
-      "description": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility PR Newswire",
-      "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "HPP Dairy",
       "title": "Milk | Pros, Cons, Debate, Arguments, Dairy, Nutrition, & Health - Britannica",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42d2NVQXpzcmh1Sjk0OGF3cngwdTNVdlJwZ0h5cE02UEtRZ0Rzb0VNa2pTcmllYmdyanJGejhqZEZCeUpyUGMtLUZsYXRxTnlMaS1ESnl2azk?oc=5",
       "description": "Milk | Pros, Cons, Debate, Arguments, Dairy, Nutrition, & Health Britannica",
+      "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Innovation & Research",
+      "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXhUbEgxOUMycF9EN0RUdmxwWWt1WUVyYU1iUnQ0R2FCTlZZcTlFUEMwaG45Z0lGZHpQNGpXTFJEcW9HNm1RN1lSNzZFX2M4QnllM3NmMXc2UVRMTWFvNHM2dXkyc01pNHJ5MlpvWTNMQWJDdUxvc1I5NWR2NFIzOS1vWGFNMUtiZ2d2NVRUVHVTTk9BdENMUmZkcjZZc2VwUXowOGhXWWRvcGQ5T2wtYjRhbTNzSlFrUHZXWmNLWFYzUVlNUE1uTG1xYk5EUDFHQkVsSlJFcHhDN3BTM0dWcnp6MVNOc1VUbFB1ZUJMYzhMenJRNkRkeS1maTlYNGozbEthVW1B?oc=5",
+      "description": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility PR Newswire",
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     },
     {
@@ -212,6 +212,13 @@
       "pubDate": "Tue, 23 Dec 2025 08:00:00 GMT"
     },
     {
+      "source": "HPP Soups & Meals",
+      "title": "6 Rules for Canning You Should Never, Ever Break - Better Homes & Gardens",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFZNbW0wQ05lcHdEZEpxSlBHYWZtN3k3Z3hOZjRhZ2ZfX0owR0tpenhMY3RCQVdON2xtYS0xUWlJaERUa1Z6cmtQbFo2UVN6NEVReEZQUk1EQmppTWFBX1dTQzBqaS0yb1BaSndrVnZBY3dUTUxWUG02dW1jdnA3QWRudGRKSVpwdG9GTmNtUFplMWZGRGp2d2VCYlFfU00?oc=5",
+      "description": "6 Rules for Canning You Should Never, Ever Break Better Homes & Gardens",
+      "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT"
+    },
+    {
       "source": "Quintus Technologies",
       "title": "Quintus unveils pilot-scale warm isostatic presses for all-solid-state battery production - Charged EVs",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWYtdVQwYl80R1Ytem9hTzNxNl9sMHFaVVlXa1h3aG9CakY5SnZEZ3NibThISEI0WmNYYXg5TG1wYzd6c0Z0MWlLbUk4UGxqQndKQW8yNlNrcGlNcGEzNnM3eEpLTW8tdy1HUnVSV1dIaTB4MDlDSEtUOWJiSkoxdnozZHJnM3BVS0huUEZ6WjNKZUczLWtUQW1xVW1KR1JPalE5RElBeWpDcFdTNXliM0REZXNxUFV0QjItWW5yYw?oc=5",
@@ -247,6 +254,13 @@
       "pubDate": "Tue, 11 Nov 2025 08:00:00 GMT"
     },
     {
+      "source": "HPP Soups & Meals",
+      "title": "I Make the Best Chicken Soup Ever—Here's My Secret - Allrecipes",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtdnJxTW9PYk9kWHVUVFFYUktkYm1MWWluWnUxdGVjYncyTnFVaEk2SXJEcU1RTW1hWXVBTS1rT3dyejB4SGlPeHNCaE5jbkNvS2ViVW81ZlRWSWlfTE8zV0NZbEJldmhoZWZfNnRfQ2hhNHZKSXlsUVJn?oc=5",
+      "description": "I Make the Best Chicken Soup Ever—Here's My Secret Allrecipes",
+      "pubDate": "Sun, 09 Nov 2025 08:00:00 GMT"
+    },
+    {
       "source": "Listeria Outbreaks",
       "title": "6 Dead in Multistate Listeria Outbreak Linked to Recalled Pasta Meals. Which Products Are Affected? - TODAY.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2hwS1d0SE1MMlE3MlE1Q1ZJUWVGN3c3UWoxdnFrSE1kd1VOVU9ZREFBS1NOeEdheUlyaFhGa3dWVlpsek05Y1ZoeFMzdXVKZWFPQldXcUFHVWZUa3BjOWdzLTE3VXFQZXBESDVvcHJtWnBZS1JRUHN6Q3BQZ2lEZDBBNmtwVXZiRXc?oc=5",
@@ -258,13 +272,6 @@
       "title": "Nationwide Listeria outbreak: 6 dead and 27 hospitalized, dozens of products recalled - WRAL",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1NLbnJCRjM4WHZIME1oWTJCbEw0OXEtT2U2V1dnYWxaVEN2NGtlZ0kzaEx6V0R0YlBSLWZZXzRQWjBERVZOT2NXVldvY0VFaEEyZnNUejEtdDltdnBQWlNnNjlNU1ZhWl9SbkpxUXdody1HSkMtbkk2V0hYV3oyZ1lLY1RiS01BeVo0anhnZ3Y?oc=5",
       "description": "Nationwide Listeria outbreak: 6 dead and 27 hospitalized, dozens of products recalled WRAL",
-      "pubDate": "Tue, 04 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Worsening listeria outbreak tied to pasta products kills 6, hospitalizes 25 - NPR",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTZULXpxNnJQME9pNE93bDdBaEpsN2NIY09ENnN6c2QtNWdxaVdWY1RkMVlrcmw0ZzJuQkoydER6OEJtVmpKNEdpQS10Vnc3LXRkazM1VHdZc1hITFN5RV9fSUstcnR0cnM5bWdmZHM2d1ZZWmptUHJoMHpkMUl3R2JlUQ?oc=5",
-      "description": "Worsening listeria outbreak tied to pasta products kills 6, hospitalizes 25 NPR",
       "pubDate": "Tue, 04 Nov 2025 08:00:00 GMT"
     },
     {
@@ -343,13 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMUxuYkhXcGh0dmtRdUNudHBVNzZQRDdpdVA5WnR6MDdDMHB6VV9iOE9HSTNrenExM1dkU1g3bEE2cTE2b0ZRX1dPZUpWVEFkSXRYajFNLWdHbmN6bGR6WXhyNm1oNHJzZkVZa2stMzBIR2Z4UzRIZ3dqMmZWS0ZDTGtnemgxNVJUbEhtdml3MGpaeGFfbkxaVTRPX1dJOEdWSFN0LXJRZW5NSFhieWY1SFFpOFVXMXNqTkRZd05TR3I4c25YR0gzWURiY3J1Skhwank0UnBaNEx2MDdKY0tUTw?oc=5",
       "description": "‘You can’t retrofit skin care’: Why this indie brand is betting on high-pressure processing biotech Cosmetics Design North America",
       "pubDate": "Wed, 24 Sep 2025 07:00:00 GMT"
-    },
-    {
-      "source": "Avure HPP",
-      "title": "HPP technology offers beverage brands a fresh take on minimal processing - Beverage Industry",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNjlXVkgwNWotWjlSN1c1NUNqWmZtR3otSTdXREhDVk5XdzVDUzZFRC1VYjR1ekM2RlJ2aVd4cG0zVm1hWEpIQ0NXRjZoY2VPZEE0VGwxLXZBVTg5MWY1em42WjNmRzc3SjJFU2toVGJnTWMxX3Z5MUI4ZEFlU2NITVZXSklaamJMbFJFd2QxRnJnaEdscTQ4Z01GVnAwMjRUTERqREVLSDVQbnFWVG9kSEdfemtqUQ?oc=5",
-      "description": "HPP technology offers beverage brands a fresh take on minimal processing Beverage Industry",
-      "pubDate": "Mon, 08 Sep 2025 07:00:00 GMT"
     }
   ]
 }
