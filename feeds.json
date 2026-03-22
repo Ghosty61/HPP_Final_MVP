@@ -1,6 +1,13 @@
 {
-  "updated": "2026-03-22T18:38:43.275982+00:00",
+  "updated": "2026-03-22T20:29:30.740115+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Publisher's Platform: To Safer Infant Formulas and doing away with Botulism, Cronobacter sakazakii, Salmonella and Bacillus cereus",
+      "link": "https://www.foodsafetynews.com/2026/03/publishers-platform-to-safer-infant-formulas-and-doing-away-with-botulism-cronobacter-sakazakii-salmonella-and-bacillus-cereus/",
+      "description": "Infant formula has until recently been considered low risk for C. botulinum (and, then there are other pathogens – Cronobacter sakazakii, Salmonella and recently, Bacillus cereus of concern).",
+      "pubDate": "Sun, 22 Mar 2026 20:12:01 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Almost 23,000 pounds of ground beef recalled because of E. coli contamination",
@@ -79,20 +86,6 @@
       "pubDate": "Wed, 18 Mar 2026 04:06:29 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Illnesses near 100 in moringa Salmonella outbreak",
-      "link": "https://www.foodsafetynews.com/2026/03/illnesses-near-100-in-moringa-salmonella-outbreak/",
-      "description": "An additional 20 patients have been identified in an outbreak of Salmonella infections traced to moringa powder and capsules. As of March 17, there are 97 confirmed patients, up 20 from the most recent update from the Food and Drug Administration. Also, a new strain of Salmonella &#x2014; Newport &#x2014;",
-      "pubDate": "Wed, 18 Mar 2026 04:05:25 GMT"
-    },
-    {
-      "source": "HPP Soups & Meals",
-      "title": "HS-SPME-GC-MS Reveals Flavor Enhancement in Low-Salt Chicken Soup - Chromatography Online",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaDVnNnJUaTdXX3FnNzB3cWxXa0R3dlYtdHVlSVJKekdqZlE0Mkc0NENwdXVNckUxM01IbFFuRmJ5aEFTaFFGWWxhSnNNc0lPUTZCclRldXhiR29ieVlYaFRaMEh5aXNINUZ2N3p4MGNFSkgwbmtIbS1DemlJX005eDdHMFZ2ODdCWGlVUmI4bnJVRVRVZ2NMbENOSG5xOExWTFY4SzQwd0s0MTg?oc=5",
-      "description": "HS-SPME-GC-MS Reveals Flavor Enhancement in Low-Salt Chicken Soup Chromatography Online",
-      "pubDate": "Tue, 17 Mar 2026 14:58:53 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
       "title": "Salmonella Outbreak Linked to Moringa Leaf Powder - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
@@ -122,6 +115,13 @@
     },
     {
       "source": "Food Safety UK & EU",
+      "title": "Urgent Tesco recall over Salmonella-tainted product — 48-hour health warning - Manchester Evening News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTXVCMFota2I1R2MwSTlXMjdQcUgwTWVNRzUxSl9qMDJfQTBJNG91XzUxOGwyMjhVMkhrbURjUTNPRjhjOGtYV0loNVh2MXJoWEtkODUtUExBRS1tMGZycUF4WGdiaFp1UWtVcnpkLWdHZnpTUFpqUzQ3XzRvUzkxR2dzRVlSTEJZU29rZWZZdlJIOHJaZnBJNWVpeTBuYkZSWlQzctIBqgFBVV95cUxNOHM0QXBhcnYwYlQyS21ubFdDTE52Rkd0S3ZfQUZkdnJ2MjI2ajJLUjdsTndjdE5ZVEZPTGNuWXgzamtVcllyODQyc3lMVnphUUZsSm9YTlFCZS1SbHVIYjYtSkVXcDdnNV96MGI1bkM4a3FCU3JQRll2dHZMYUpsNDNjNGRxQWhGUmRwdDE2WnZ1cHBadmdpbV95TFBvUnlCWnhxeDJocWhfZw?oc=5",
+      "description": "Urgent Tesco recall over Salmonella-tainted product — 48-hour health warning Manchester Evening News",
+      "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
       "title": "Tesco urgently recalls Salmonella-affected deli product with 'do not eat' warning - Liverpool Echo",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUExlY181VXliWmZLbklKRzNfVmE0TjhfYVFIcFYzS0RhUFZiZ0RTbWh4RWtzei1XcU1peVNKeHpwSmVEU09jSmEwV1p0UTA2Tm1aMXQ2b1JhdEpTa0hFN1l2TEJoT1dNZ29mV05ZM1JVQVNlMEFZX3VxSGQ0QVJsc2tSWDBvWklsRWoyMncxak5oSkwzeFJwRDhiZnNFdG9rUGRJ0gGoAUFVX3lxTE1OdktSOXFod25EbE5wTElEM0ZTdzhlS2w4azdFNm1HdjYwRGtUZHh0MG9tTTV5RmgyQmZJenFBVEJPOTZtcXJLRXlnTTBIYTVCYW9BckZCVGFrN0p3X0tleGQ1aDRHNThmTVlvVVN5UXFUUm5EQTk0ZHYzMmlnYlE3SGpCM2Exd2VmVE5jczlRZmx3ajlDellCajFlQzQtalp6V0g2VGtSYw?oc=5",
       "description": "Tesco urgently recalls Salmonella-affected deli product with 'do not eat' warning Liverpool Echo",
@@ -139,7 +139,7 @@
       "title": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 - Fortune Business Insights",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaExyNHUyeE9rM0ZPN2dtQk0yMzllUTFZQnBYMnE5SkxXZGpLVlZwTk54eWY2eFF6S3RZWFFUcUR1Yjk5WXVaUGRIQV8zN2d4Y2doUzNPM1RiVkxjdy0yNDExTV9pN1hybUpYbE1iSU5pcnlMcUN0TGZJTUZpc28yR2VEU1M0M0dGc0k2a2lUVjcwQS1OZlFB?oc=5",
       "description": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 Fortune Business Insights",
-      "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT"
+      "pubDate": "Mon, 02 Mar 2026 08:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -149,18 +149,18 @@
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     },
     {
+      "source": "HPP Equipment & Machines",
+      "title": "The pros of processing automation - Beverage Industry",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT0wwejZtUlBTU3NMOTZ4RUpTSWVUUzJId0N0MmJPVloxZmYycWlyN1czUW1QblNaWlA5UlJrd2ZuenAyVHpDOUxUVmQ0eGRSYmlkSmpqXzdKWkxIZ0RtNS12WkstZFdWTVFUN3VYNkF2U2g2dXRudWVTVGJRMGlOYU93?oc=5",
+      "description": "The pros of processing automation Beverage Industry",
+      "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
+    },
+    {
       "source": "HPP Healthcare & Medical",
       "title": "Duckweed Protein Benefits: Is This Aquatic Plant a Sustainable Superfood? - News-Medical",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUVPWXN3Sk4tNHFLMUtXZmFIUDJ2WFcyRjhuSVo2c2pxVHlCOWc2c1U1NThubHJNNXdkZlJzbFNEbmNYU2RhX3FrZ3lzRDJCVGRlMGdrdjJCX05lb3V6NEY3emtNWmJKV3Jhemgza25iZzFlWFh4NG1udC1xWjY5V2VfTko1ZEFJM3JoeUp5YzBOLUJpVkVPMGF2SVRVbHlmaUZ4Q050ZUxIaWRaQWVYR213?oc=5",
       "description": "Duckweed Protein Benefits: Is This Aquatic Plant a Sustainable Superfood? News-Medical",
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Equipment & Machines",
-      "title": "The pros of processing automation - Beverage Industry",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT0wwejZtUlBTU3NMOTZ4RUpTSWVUUzJId0N0MmJPVloxZmYycWlyN1czUW1QblNaWlA5UlJrd2ZuenAyVHpDOUxUVmQ0eGRSYmlkSmpqXzdKWkxIZ0RtNS12WkstZFdWTVFUN3VYNkF2U2g2dXRudWVTVGJRMGlOYU93?oc=5",
-      "description": "The pros of processing automation Beverage Industry",
-      "pubDate": "Tue, 24 Feb 2026 05:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -226,13 +226,6 @@
       "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "Urgent food recall issued as salmonella found in treat - customer told 'do not eat it' - Daily Express",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNV91Vy12aW1MRWkyaEpIS2Q5REt4VGRDcXJRa3lyX0l4Z0xOTkhhdll3ZHdWOFBCd1djWjVGTHRSMWFRZV9PQkM3RHlSMlkyX0g0NkQyQmdwOU1PSUJGdXpwNnQtY3pmSHBOVjlIVE9rNHViWUVmVk51OUpwbzNwRU5qLTlsRVo3OXdKcTl4NEZPemtvLWozTkYwZW8zNkN2TXJJeXUzbTXSAa4BQVVfeXFMT1NBWTJXSlEtbk5BYW5NRDg3MG1mS1Q3MkFIazF6d2FkVURURXVaZ2k0ajI4bGtsVEVzeUxXSk1FMHFlZEpIclJMdFRRelk5SXQ5TDYxbENWbHh2YmlFS3lqUmNiUnFYY2xDV2t2Y2tpdFVEUlZ0cElZcWUyZ09tR2ZVb2djRkJNdkNlSWpzeWRTMDZqVnoteEJNOXF5WFBFejU4R3VLRjkxTGEyOEdn?oc=5",
-      "description": "Urgent food recall issued as salmonella found in treat - customer told 'do not eat it' Daily Express",
-      "pubDate": "Thu, 25 Dec 2025 08:00:00 GMT"
-    },
-    {
       "source": "Quintus Technologies",
       "title": "Quintus Technologies and Lyric Robot Form Strategic Collaboration to Accelerate Industrialization of Solid-State Battery Production - PRWeb",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSVo1em95Tjc1b3d4Tm9HNE1vaWVrMlZZQ2FBMGUzbDM4bUNGaVJDc3luTWVWTi1GWERhcTV1cGxIRmthZU5kcWZoRnF1WVY5bkl0TS1JcGhBSVJsT2NaSW5nVHVTUXkwRUpaY29tUGdJUDFzc1ZRSDlzRHdSWElxa21nNENpeWJRZWxMRU56ZzVWbG51SFFUZGt4czBUMTZYOFI3Q0JLRDd5SDZjX0FrY21sYzFra0N1bFFsQ1BjQXJJLTgzZHdqWl9TRWJxMnFxM3RJT0xLTlJiX040eUxoU0taSUQ0UVNxX0dHU3pzdTNNQU9VQ2czaWN2bFRzVXFTMTBHLXBGNF8?oc=5",
@@ -273,6 +266,13 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSUlzOGhNYlZRQU1wbzVsN3FMckc1cktqSlFJalFaNXpLWmhBcDlxZnRKUHNaV01uYkU0ajRaQkJaWTNlYnh5QS1HNkMzbV9SUUJlQnJTSkJoMk5ocGpHWFJ5SEtvaEtIclVFaHdRQjZpREg4OVpkcDg0SXdIRUJBNWdQNWhmakp1ekZYVTlvd2J2c2h4djFuQ2JXeHg0M2tJWUI0cDdPelRUZ1FGbUZRVjdLcWhtNGxzaWkxclVzbHhXX1BlLTJlTEF0R3NxamR3dGFQRFFoaS1hZUdoZjdVLTBn?oc=5",
       "description": "Quintus Technologies Unveils Pilot-Scale Warm Isostatic Presses for All-Solid-State Battery Production PRWeb",
       "pubDate": "Tue, 11 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Soups & Meals",
+      "title": "I Make the Best Chicken Soup Ever—Here's My Secret - Allrecipes",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtdnJxTW9PYk9kWHVUVFFYUktkYm1MWWluWnUxdGVjYncyTnFVaEk2SXJEcU1RTW1hWXVBTS1rT3dyejB4SGlPeHNCaE5jbkNvS2ViVW81ZlRWSWlfTE8zV0NZbEJldmhoZWZfNnRfQ2hhNHZKSXlsUVJn?oc=5",
+      "description": "I Make the Best Chicken Soup Ever—Here's My Secret Allrecipes",
+      "pubDate": "Sun, 09 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
