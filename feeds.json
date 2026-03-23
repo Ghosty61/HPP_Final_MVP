@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T22:27:12.727768+00:00",
+  "updated": "2026-03-23T02:24:40.277531+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -7,6 +7,13 @@
       "link": "https://www.foodsafetynews.com/2026/03/publishers-platform-to-safer-infant-formulas-and-doing-away-with-botulism-cronobacter-sakazakii-salmonella-and-bacillus-cereus/",
       "description": "Infant formula has until recently been considered low risk for C. botulinum (and, then there are other pathogens – Cronobacter sakazakii, Salmonella and recently, Bacillus cereus of concern).",
       "pubDate": "Sun, 22 Mar 2026 20:12:01 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Young Again Pet Food Recalled For Salmonella Contamination - Food Poisoning Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY1pPY3p3LWlGU0N6VloydEgxb0Etc1Yza2lzQUh6dC1kTXRQb3AyUkF3QWI2c2N1dGt4UW5vSjM5WGVIVjM5T2RlVU5sdWl2TDdfRlFaTXYydkR3WGJzTVROQ0hpUFFkVnVzSUFmZGwyWml3NU92bTRtSGc5cjVROGJkQU9ZZzdsSnFXZ3RTMlpjWlpJbkMwYjVVVldsOEU?oc=5",
+      "description": "Young Again Pet Food Recalled For Salmonella Contamination Food Poisoning Bulletin",
+      "pubDate": "Sat, 21 Mar 2026 15:17:38 GMT"
     },
     {
       "source": "Food Safety News",
@@ -51,7 +58,7 @@
       "pubDate": "Wed, 18 Mar 2026 14:02:29 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
+      "source": "Salmonella Outbreaks",
       "title": "Investigations of Foodborne Illness Outbreaks - fda.gov",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk9CZUFHZmRHM3p1V1VfczVQOGxOVU5VSjllbF9tSzFyZDZqVXpfOVdTMnNVZk9VZjRVTDlRN3pvbjZZTER0bG5CY2h0Q0F6SldIMDl0WXNmanBtSGthVjQxMU5NZHNibkNLMXBqRnVsOWk4andKSkdrWUM4eUYzaFVzdGI5OFFXRGE5NWJTTFJja2cxaEJaN3doZw?oc=5",
       "description": "Investigations of Foodborne Illness Outbreaks fda.gov",
@@ -93,13 +100,6 @@
       "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Costco Recalls Popular Meatloaf Kit Over Salmonella Risk. See the Full List of Affected Products - TODAY.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTh6YncwdFYtTjVWM1dMc3pUeWJiVXBvWHJNeVp3LThWOE1zVTFVaFhGNVROVU9MNGNURXhlcUptNjN1VjdlTGdENDMyM0o0Uy1wMXNzTVFtUFJJSTdzT0hwcW9vQ0lHTFVOcmx6OWwxWnd0VUQ0VkJnd1pTQVRtR1JjSFA2b05oM29ROQ?oc=5",
-      "description": "Costco Recalls Popular Meatloaf Kit Over Salmonella Risk. See the Full List of Affected Products TODAY.com",
-      "pubDate": "Mon, 16 Mar 2026 14:45:01 GMT"
-    },
-    {
       "source": "Hiperbaric",
       "title": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation - Food and Drink Technology",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZEJqUEI0WkJVVHhkX3M5ek9hYUp6Tnh1R1hWLWhLY2c2bWEzOEFNcXJhY016UDdMS0EtZFRnRWtxTElEcGdxX0RETWwzV3FsemRrdVFXQ1JWLW5oLXhVNW95a3JsNjRCWldTVEtIcnpSc05ZSDY3a3VhX092QXhKRldyNFJWemRjbU5Md0Z0eFRXQzk1eU5mbVgwbDFBazg0ekNuek9OYkowY2pvX1NBSGtoekZURTRBZUN6N1dtZk5nSEE?oc=5",
@@ -139,7 +139,7 @@
       "title": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 - Fortune Business Insights",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaExyNHUyeE9rM0ZPN2dtQk0yMzllUTFZQnBYMnE5SkxXZGpLVlZwTk54eWY2eFF6S3RZWFFUcUR1Yjk5WXVaUGRIQV8zN2d4Y2doUzNPM1RiVkxjdy0yNDExTV9pN1hybUpYbE1iSU5pcnlMcUN0TGZJTUZpc28yR2VEU1M0M0dGc0k2a2lUVjcwQS1OZlFB?oc=5",
       "description": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 Fortune Business Insights",
-      "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT"
+      "pubDate": "Mon, 02 Mar 2026 08:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -192,13 +192,6 @@
     },
     {
       "source": "UK Food Industry",
-      "title": "Registration opens for Food, Drink & Hospitality Week 2026, with Food and Drink Innovation at its core - Restaurant Industry Magazine",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVgzMVpmRU1IeVlNZlFVdnNEZlFKVGoxT3VXZHBPY2xyNjZ4Q1AwT1ZtUXZFT3M4Q3RRblU5cHE4RHc4T0RwZHBnd2Q1Yzc1Z2wzNl9iSWFZOGREVS1HaG1oVndrZ29YTERPV1dMcDlNdGhtRW9QR3RZRUZVXzY5ODB1NmlseUtSUFJjcHNjeTJ6aXNnZnE1NTE2LUdDZUVLbzEtOVV2YlNLR3JIUXBubFZicklFVV9GVndEb3AtNDVqR0gzcXRSWnBGYmJQZUtFbFV0T0dQbXVYTUU?oc=5",
-      "description": "Registration opens for Food, Drink & Hospitality Week 2026, with Food and Drink Innovation at its core Restaurant Industry Magazine",
-      "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
       "title": "£3m BBSRC and Defra funding to accelerate healthier UK food innovation - New Food magazine",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM2ZhUFFzZ1pyZGRMWThoUlZyNERMMWE5U0t6Sk5KRFZSTTJoeFNFc2poX2ZpR3FRZ2tWX1Jlc3R5aUE3YmdXSVBoNEs0SjVtOVJ2U0ZvYjFtNlByNVlTNTdwb1JsS3pYRHRrNmNDS2FRUU43X1gtSnhZWkcxQkY4bzU3Y1BiZzJwRGc0NVltZ3J6TUVaWnhibHdpOUp5c2dOeG9FVFZ0UTREYmJxOEE?oc=5",
       "description": "£3m BBSRC and Defra funding to accelerate healthier UK food innovation New Food magazine",
@@ -209,6 +202,13 @@
       "title": "£3 million investment to drive diet and health innovation - Wired-gov.net",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjRvbDFCeDJRZXMzcWFJMUFXV1FEdTFaY1ZCX1lnYzZxNjVEcFdNODhHWjRqc1ZLNk5HYTQ0UEhpX1Zwc2ZTRHlQMW9za1JaWi1LLVFEX1VQUnZVSzF4UEYtOWZnZ0dPVnlVUjhodmppT1NlU1pWcG5JOXFKd2k1VUlDck1sU2Y2bmliTXYxTzdSNW5PZkFySzNQMXBfXzZ0Ui03ZFBHdGxRUXY3MXlzd3FVSjhhak5rR2lBOXpNSjY?oc=5",
       "description": "£3 million investment to drive diet and health innovation Wired-gov.net",
+      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "£3m fund unveiled to target diet and health innovation - British Baker",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
+      "description": "£3m fund unveiled to target diet and health innovation British Baker",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
     {
@@ -231,6 +231,13 @@
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSVo1em95Tjc1b3d4Tm9HNE1vaWVrMlZZQ2FBMGUzbDM4bUNGaVJDc3luTWVWTi1GWERhcTV1cGxIRmthZU5kcWZoRnF1WVY5bkl0TS1JcGhBSVJsT2NaSW5nVHVTUXkwRUpaY29tUGdJUDFzc1ZRSDlzRHdSWElxa21nNENpeWJRZWxMRU56ZzVWbG51SFFUZGt4czBUMTZYOFI3Q0JLRDd5SDZjX0FrY21sYzFra0N1bFFsQ1BjQXJJLTgzZHdqWl9TRWJxMnFxM3RJT0xLTlJiX040eUxoU0taSUQ0UVNxX0dHU3pzdTNNQU9VQ2czaWN2bFRzVXFTMTBHLXBGNF8?oc=5",
       "description": "Quintus Technologies and Lyric Robot Form Strategic Collaboration to Accelerate Industrialization of Solid-State Battery Production PRWeb",
       "pubDate": "Tue, 23 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Soups & Meals",
+      "title": "6 Rules for Canning You Should Never, Ever Break - Better Homes & Gardens",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFZNbW0wQ05lcHdEZEpxSlBHYWZtN3k3Z3hOZjRhZ2ZfX0owR0tpenhMY3RCQVdON2xtYS0xUWlJaERUa1Z6cmtQbFo2UVN6NEVReEZQUk1EQmppTWFBX1dTQzBqaS0yb1BaSndrVnZBY3dUTUxWUG02dW1jdnA3QWRudGRKSVpwdG9GTmNtUFplMWZGRGp2d2VCYlFfU00?oc=5",
+      "description": "6 Rules for Canning You Should Never, Ever Break Better Homes & Gardens",
+      "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT"
     },
     {
       "source": "Quintus Technologies",
@@ -310,6 +317,20 @@
       "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT"
     },
     {
+      "source": "EU HPP & Food Tech",
+      "title": "GEA’s NiSoMate® becomes an essential compliance tool as EU waste directive comes into force - New Food magazine",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelI2dkkyYkNqcm5MWXFoeWlxbUVPaGZMN085X3FZb0N6TWRpek90Mnd4akRtU3hpdUNGems5cnU1U3VtRDBUVU1lTXJzOE1JNkJ3MW1XUGNLZTlTNzI4U2xBLUVURlBySTVEYVNHa0pyQ0l0ampKTVJjc1pqdGxSbWZ6NDdGZ3hWUjcxX2dCSUxBUQ?oc=5",
+      "description": "GEA’s NiSoMate® becomes an essential compliance tool as EU waste directive comes into force New Food magazine",
+      "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "High-tech eyes and ears to boost speed and safety for first responder teams - research-and-innovation.ec.europa.eu",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVEc3YUFqLWZKMUwzbkJYWTNYSzJKNU4wUTl3b2NyYjNrZjNsMm5CU2JCQU15dWMybXhYMlFIUEpFTDRLUVJHaEZKcXUwNTdhLVFiSndPaGFLaXcwRnItZ1QwQ0tpZW5IZnRUY1pBM01kQVFvaE83MWZsWnAyaVFadV84a0JXeml2ejFIYXRMYnZqUm1TZk44YjF2SlF2cUhRVUpiYzdQSUN2MlBVSU5GcndzUzBCUWw5V2dHendkRm5LWXpralFvUGN3ZE1IZHczREZEaWMxQmRKOXVCVHpocDhmUDM2T2lzeXc?oc=5",
+      "description": "High-tech eyes and ears to boost speed and safety for first responder teams research-and-innovation.ec.europa.eu",
+      "pubDate": "Thu, 23 Oct 2025 07:00:00 GMT"
+    },
+    {
       "source": "Hiperbaric",
       "title": "New HPP tolling facility in North Carolina to feature Hiperbaric system - Pet Food Processing",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNDlqSEdueVZFbHIxU1ZUUjM5WGh5OGxBT1dvUkdPQmRPa3VsY25ISEpPSjV0WGticnh1Zk1yVjViNURINHYzS1o4WGZucE9naVJ0c1JLdGZvRi1nY0doVTFURFZTeWlYOG8ydWpFR0xyMkxmbTNMVGxnWEwtYnAwTGV4WlZWWE50WkVuQVdLWnVYQmwyMDJlR1I5TFAtb0ZOZkI5Y1pFOE15TVB2QWpQWWh4X0g4bVJPb0JPLQ?oc=5",
@@ -329,27 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmNOYlI3cE1Ubk5BaXRtWWpnQkFsLVhvN19LTFRmYnBHLXVPSU51ZmFacnltV25ZWmk5dEt1ZkhzX2NvUlBfY0p6ZGtOVmpHblNWZzBLYVp0YTVWS0lvWXB3V1FxSnZEaV92OVJDbUh5RnRSVmFaQ1hYTU5QelBOYWV5VE5nRWR1S0JFQ19xX2Nta09XdkU0R0pBZlFxWUVFWjhKdE0tOA?oc=5",
       "description": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong HuffPost UK",
       "pubDate": "Fri, 10 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "What to know about the listeria outbreak tied to precooked pasta - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlJnazBSd2FuVGlNeWxHVjBqWWhSWmdTT25PMHFYeDVRMHBOczBZOFp2Z0hVTW9IYmNNdXRNbjkwUDZHZGpQS0JtdTdmUnVmeGZicGY2ZVF5QjRoNWRCODh6QURRdGQ4S1VzQXlRbUliNUFDTHRuUkNCS0N6RGx4SUMzNTlYWFFZTDVRSWtTcGV4RGFaY3Y1U3B5Y3VRLUk3QkhNWlFJU3VEV1QwZmRkY1Zoc2c?oc=5",
-      "description": "What to know about the listeria outbreak tied to precooked pasta NBC News",
-      "pubDate": "Wed, 08 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric",
-      "title": "Hiperbaric to Install 30 HPP Machines in 2025 - FoodEngineeringMag",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQajhvMENNTkQ4Q2t3UUNTbURRZkc1Q0lkN2lnM0ppeWtWOC1tVXdERFpHa3FhaV9qUXFXTlItcGFJWmRFdEd5aGVIOFg3SE9va2R3bm5hTXdUNjhyR3o0OFViMVJlU2M0Y3VyQ190dEM0VlMzMlJ6YWl3UjRCWjhmQmZXRlpEVmNWdDlxR3Fyb3k2UFl6eFA2QUJ2QzM?oc=5",
-      "description": "Hiperbaric to Install 30 HPP Machines in 2025 FoodEngineeringMag",
-      "pubDate": "Mon, 06 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric",
-      "title": "Hiperbaric Achieves Record Growth with 30 HPP Machine Installations in 2025, Expands Tolling Network with New Partnerships - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMEd3MWdOZE5BdVpza3dzWWhuQ19FcnE1UjR3aXhaaWZZdUg5LUhLZXVsUzB0V1lYc1hxNHVqTVNoRU13anFHclhlMXNydC10ejVNRW8tZW1qdS1lLVZkMU9vckpIYmJ1cWJsZUpZV1hGOGJCMGV6V2l4dE84NE52RnZTSVo2R2JrZ1M0cTYtVDV1eWlwdWl5RGFoQnJZR1lMZlVoRTZ2V1BpczQ1N2xDbGNzNEN3VXRYOGQ5c2xXQVQ5ZEd0WVNvWGNNWHNocmEwdDA3WXdkT2xudXRpLVFWN2lXZDhPMmtGSkducGpFcmpUVGFxcHFPZkFtV3NRU21oOUtVUGNoelo?oc=5",
-      "description": "Hiperbaric Achieves Record Growth with 30 HPP Machine Installations in 2025, Expands Tolling Network with New Partnerships PR Newswire",
-      "pubDate": "Thu, 02 Oct 2025 07:00:00 GMT"
     }
   ]
 }
