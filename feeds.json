@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-23T14:56:20.396445+00:00",
+  "updated": "2026-03-23T16:57:08.836229+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -21,6 +21,13 @@
       "link": "https://www.foodsafetynews.com/2026/03/congress-members-want-fda-to-force-raw-farm-to-recall-raw-cheese-because-of-e-coli-outbreak/",
       "description": "Dairy has refused to recall products found to be likely source of outbreak",
       "pubDate": "Sat, 21 Mar 2026 01:03:45 GMT"
+    },
+    {
+      "source": "HPP Innovation & Research",
+      "title": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio - St. Cloud Times",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPckItYS1tdlkzR1V5NDhlXzNGU1ZKMnNsczV5Z2Vfc3VaSUxfbkxrZnVTRTJYX19WNkpqMzJCTEcwT3F4R1dzWGk4VmdtU0tOWkN1QUJhVFBiam9DRGV1WTlhdndlWXIwZzA4bDVJbDRCdTJjSEhNOG9iUVlVTEw4cEVFang1TXhtUXBydUVhUC1oRmJYUV9keUdTVmQtMExHcUFrOUUtTDNXOHpteU94QVFyZ19yaGJSSHZaZ0dhU0ZsVi13RWdMQWh2WDFZUGRtX2V1UGR0UFhmU0tDdU9WeGQ2OGZNTU9tb2h6ZUxWVi11YzEw?oc=5",
+      "description": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio St. Cloud Times",
+      "pubDate": "Fri, 20 Mar 2026 10:01:04 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -51,13 +58,6 @@
       "pubDate": "Wed, 18 Mar 2026 14:02:29 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "Investigations of Foodborne Illness Outbreaks - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk9CZUFHZmRHM3p1V1VfczVQOGxOVU5VSjllbF9tSzFyZDZqVXpfOVdTMnNVZk9VZjRVTDlRN3pvbjZZTER0bG5CY2h0Q0F6SldIMDl0WXNmanBtSGthVjQxMU5NZHNibkNLMXBqRnVsOWk4andKSkdrWUM4eUYzaFVzdGI5OFFXRGE5NWJTTFJja2cxaEJaN3doZw?oc=5",
-      "description": "Investigations of Foodborne Illness Outbreaks fda.gov",
-      "pubDate": "Wed, 18 Mar 2026 14:00:00 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
       "title": "Salmonella Outbreak Linked to Moringa Supplements Ends with 97 Sickened in 32 States - Food Safety Magazine",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRlV3X2lsNldMRnVLdmtSNTRLSGhsSHhmRmdXWlI0Vi1GZ0F5LW92d09hRlpHaHM5Tld0d000VGFOQzdZNk9KWmxyTVlUb1M0OFFlQlhMUnliTWFIbW50Zm1CQWcwcklTcDNBU1BQSXNRZ0hScnBQamlBb3l5RTdybXVyNDRhRURBNUJiWHBSdzh3WVZTMTU4MmlyVExuUi1BeC1IU3VBdjY1cVhNLTFXYld4aEFuSEM2bFZwRUJEUGpYYjVOTHc?oc=5",
@@ -77,13 +77,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWWo3alREQU1pTkszaWk4czJoM2NhLW1tYUplNWVTUGduZ2ZoeXd0b0lhdnNjY1h4bHhyaklUMUtoS3cwRDBhR3dfOWlIRU5mUUFIcjhFajVJOUVCc0ZIcTZjTEpYRmN3WUpNQTczZDdlek5Ielgyd0c0MHo5Q1Q3dEx1UVRRdXZ2RnBjSlRyR0lGbTg?oc=5",
       "description": "Illnesses near 100 in moringa Salmonella outbreak Food Safety News",
       "pubDate": "Wed, 18 Mar 2026 04:06:29 GMT"
-    },
-    {
-      "source": "HPP Soups & Meals",
-      "title": "HS-SPME-GC-MS Reveals Flavor Enhancement in Low-Salt Chicken Soup - Chromatography Online",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaDVnNnJUaTdXX3FnNzB3cWxXa0R3dlYtdHVlSVJKekdqZlE0Mkc0NENwdXVNckUxM01IbFFuRmJ5aEFTaFFGWWxhSnNNc0lPUTZCclRldXhiR29ieVlYaFRaMEh5aXNINUZ2N3p4MGNFSkgwbmtIbS1DemlJX005eDdHMFZ2ODdCWGlVUmI4bnJVRVRVZ2NMbENOSG5xOExWTFY4SzQwd0s0MTg?oc=5",
-      "description": "HS-SPME-GC-MS Reveals Flavor Enhancement in Low-Salt Chicken Soup Chromatography Online",
-      "pubDate": "Tue, 17 Mar 2026 14:58:53 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -107,39 +100,11 @@
       "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "Urgent Tesco recall over Salmonella-tainted product — 48-hour health warning - Manchester Evening News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTXVCMFota2I1R2MwSTlXMjdQcUgwTWVNRzUxSl9qMDJfQTBJNG91XzUxOGwyMjhVMkhrbURjUTNPRjhjOGtYV0loNVh2MXJoWEtkODUtUExBRS1tMGZycUF4WGdiaFp1UWtVcnpkLWdHZnpTUFpqUzQ3XzRvUzkxR2dzRVlSTEJZU29rZWZZdlJIOHJaZnBJNWVpeTBuYkZSWlQzctIBqgFBVV95cUxNOHM0QXBhcnYwYlQyS21ubFdDTE52Rkd0S3ZfQUZkdnJ2MjI2ajJLUjdsTndjdE5ZVEZPTGNuWXgzamtVcllyODQyc3lMVnphUUZsSm9YTlFCZS1SbHVIYjYtSkVXcDdnNV96MGI1bkM4a3FCU3JQRll2dHZMYUpsNDNjNGRxQWhGUmRwdDE2WnZ1cHBadmdpbV95TFBvUnlCWnhxeDJocWhfZw?oc=5",
-      "description": "Urgent Tesco recall over Salmonella-tainted product — 48-hour health warning Manchester Evening News",
-      "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "Tesco urgently recalls Salmonella-affected deli product with 'do not eat' warning - Liverpool Echo",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUExlY181VXliWmZLbklKRzNfVmE0TjhfYVFIcFYzS0RhUFZiZ0RTbWh4RWtzei1XcU1peVNKeHpwSmVEU09jSmEwV1p0UTA2Tm1aMXQ2b1JhdEpTa0hFN1l2TEJoT1dNZ29mV05ZM1JVQVNlMEFZX3VxSGQ0QVJsc2tSWDBvWklsRWoyMncxak5oSkwzeFJwRDhiZnNFdG9rUGRJ0gGoAUFVX3lxTE1OdktSOXFod25EbE5wTElEM0ZTdzhlS2w4azdFNm1HdjYwRGtUZHh0MG9tTTV5RmgyQmZJenFBVEJPOTZtcXJLRXlnTTBIYTVCYW9BckZCVGFrN0p3X0tleGQ1aDRHNThmTVlvVVN5UXFUUm5EQTk0ZHYzMmlnYlE3SGpCM2Exd2VmVE5jczlRZmx3ajlDellCajFlQzQtalp6V0g2VGtSYw?oc=5",
-      "description": "Tesco urgently recalls Salmonella-affected deli product with 'do not eat' warning Liverpool Echo",
-      "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "Urgent recall for meat item sold at Tesco as salmonella detected - Daily Record",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOG8zTzhHanB6S3A4LUFNalpSeWJ0MDJiVHdReHl2N04zM2g1cXZjLTZBU2p2TW9IdHY5VUhSMGFtQVROQTdZSjNXcWtvS09DeTBNWEtkajBRd3hoNjV2NEF2bkJvRHpmQ2lDVkdacDZHTDQweEZWUXVNb3RNQ2RneFhBdGRGZllJTG8tNW1EVjFJUdIBlwFBVV95cUxQb1dFczFDWTZvcjAzOUxhSWE2ZHZ0OUlGMWlDbk5HNWZLdDZnNURDTnJScnZuemtHalVQZm5mYnJJeGVFZWh5bFVqTEx2NUpQcUw0MjN0ZWJ6M0g3QjYzWnlvVE1vNlZYQm1wYVQ0d0Y4NzBsS1RNZWNBOUdKS2FiMEhTdGw5VXQ0aHgzX1pBZkVsbGhxNUJN?oc=5",
-      "description": "Urgent recall for meat item sold at Tesco as salmonella detected Daily Record",
-      "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT"
-    },
-    {
       "source": "HPP Equipment & Machines",
       "title": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 - Fortune Business Insights",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaExyNHUyeE9rM0ZPN2dtQk0yMzllUTFZQnBYMnE5SkxXZGpLVlZwTk54eWY2eFF6S3RZWFFUcUR1Yjk5WXVaUGRIQV8zN2d4Y2doUzNPM1RiVkxjdy0yNDExTV9pN1hybUpYbE1iSU5pcnlMcUN0TGZJTUZpc28yR2VEU1M0M0dGc0k2a2lUVjcwQS1OZlFB?oc=5",
       "description": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 Fortune Business Insights",
       "pubDate": "Mon, 02 Mar 2026 08:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Infant Botulism: Infant Formula (November 2025) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUjFDQjlHQ2x1ZUZEdkREVlBxREh2QVAtc2xtSGZzQkVDMnlJSEx5UkppYWkzdVZYSWhQTEdwd0NsaTd0SWxpc05FS3FVWFliMnVhZG5OUm9FbmNFM3ZvN1JlS3lLZVhaTkJmRU1xS2Q4OGtpYXFYX0ZnSHZGU2xpNkdDdVN0YlFaQnZHNllHaDJKUG9nWnRVN1NpdjhMSHQ3c3pZQUJvS2ZTT2x1bGhXVTRPWFFxQUM4R3ltVA?oc=5",
-      "description": "Outbreak Investigation of Infant Botulism: Infant Formula (November 2025) fda.gov",
-      "pubDate": "Thu, 26 Feb 2026 08:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -219,6 +184,13 @@
       "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT"
     },
     {
+      "source": "Food Safety UK & EU",
+      "title": "Urgent food recall issued as salmonella found in treat - customer told 'do not eat it' - Daily Express",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNV91Vy12aW1MRWkyaEpIS2Q5REt4VGRDcXJRa3lyX0l4Z0xOTkhhdll3ZHdWOFBCd1djWjVGTHRSMWFRZV9PQkM3RHlSMlkyX0g0NkQyQmdwOU1PSUJGdXpwNnQtY3pmSHBOVjlIVE9rNHViWUVmVk51OUpwbzNwRU5qLTlsRVo3OXdKcTl4NEZPemtvLWozTkYwZW8zNkN2TXJJeXUzbTXSAa4BQVVfeXFMT1NBWTJXSlEtbk5BYW5NRDg3MG1mS1Q3MkFIazF6d2FkVURURXVaZ2k0ajI4bGtsVEVzeUxXSk1FMHFlZEpIclJMdFRRelk5SXQ5TDYxbENWbHh2YmlFS3lqUmNiUnFYY2xDV2t2Y2tpdFVEUlZ0cElZcWUyZ09tR2ZVb2djRkJNdkNlSWpzeWRTMDZqVnoteEJNOXF5WFBFejU4R3VLRjkxTGEyOEdn?oc=5",
+      "description": "Urgent food recall issued as salmonella found in treat - customer told 'do not eat it' Daily Express",
+      "pubDate": "Thu, 25 Dec 2025 08:00:00 GMT"
+    },
+    {
       "source": "Quintus Technologies",
       "title": "Quintus Technologies and Lyric Robot Form Strategic Collaboration to Accelerate Industrialization of Solid-State Battery Production - PRWeb",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSVo1em95Tjc1b3d4Tm9HNE1vaWVrMlZZQ2FBMGUzbDM4bUNGaVJDc3luTWVWTi1GWERhcTV1cGxIRmthZU5kcWZoRnF1WVY5bkl0TS1JcGhBSVJsT2NaSW5nVHVTUXkwRUpaY29tUGdJUDFzc1ZRSDlzRHdSWElxa21nNENpeWJRZWxMRU56ZzVWbG51SFFUZGt4czBUMTZYOFI3Q0JLRDd5SDZjX0FrY21sYzFra0N1bFFsQ1BjQXJJLTgzZHdqWl9TRWJxMnFxM3RJT0xLTlJiX040eUxoU0taSUQ0UVNxX0dHU3pzdTNNQU9VQ2czaWN2bFRzVXFTMTBHLXBGNF8?oc=5",
@@ -261,6 +233,13 @@
       "pubDate": "Tue, 11 Nov 2025 08:00:00 GMT"
     },
     {
+      "source": "HPP Soups & Meals",
+      "title": "I Make the Best Chicken Soup Ever—Here's My Secret - Allrecipes",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtdnJxTW9PYk9kWHVUVFFYUktkYm1MWWluWnUxdGVjYncyTnFVaEk2SXJEcU1RTW1hWXVBTS1rT3dyejB4SGlPeHNCaE5jbkNvS2ViVW81ZlRWSWlfTE8zV0NZbEJldmhoZWZfNnRfQ2hhNHZKSXlsUVJn?oc=5",
+      "description": "I Make the Best Chicken Soup Ever—Here's My Secret Allrecipes",
+      "pubDate": "Sun, 09 Nov 2025 08:00:00 GMT"
+    },
+    {
       "source": "Listeria Outbreaks",
       "title": "6 Dead in Multistate Listeria Outbreak Linked to Recalled Pasta Meals. Which Products Are Affected? - TODAY.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2hwS1d0SE1MMlE3MlE1Q1ZJUWVGN3c3UWoxdnFrSE1kd1VOVU9ZREFBS1NOeEdheUlyaFhGa3dWVlpsek05Y1ZoeFMzdXVKZWFPQldXcUFHVWZUa3BjOWdzLTE3VXFQZXBESDVvcHJtWnBZS1JRUHN6Q3BQZ2lEZDBBNmtwVXZiRXc?oc=5",
@@ -287,6 +266,13 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS2hObS14cmN1VFc4WEx3SkN6enFzOXFycVNZeDVEUTg1MTRiejd5T1lYcWdkOE9rcEhUc2tVUDRQMUc3cjVSUTRqUmN2bnVjZVpRdFc3d0p1SWZITXlxWTFqNEVfMG1ubzlVeDFCRXV0UHVwS0VBbFRNMTI3UXMwWUQwWFZ3OFBsXzhHQVA3dWRld0R2dHI5R081UQ?oc=5",
       "description": "Second Hot Isostatic Press to go live at Wallwork in time for Formnext Aerospace Manufacturing magazine",
       "pubDate": "Mon, 03 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (October 2025) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZzY5clRJaDVESUM4WmQ1TUtHbFB6RmFLVkdjMDNFTGtlSHUyWDdwQXZsVk5nQ2RMb3l0cVVDa09IOGV0bDZ3RTVJMUM5MmY0MmNWUmdwdDZSZzVMLUFlUUFVNUJ5UUMzTV9GWTZ4N21sNW1YUDllOUE2SWlwOXZxU3JYc1J5bGNIaTI3SEdoLV9ZWTRaNmgtUTJxSGxVOU4yWmhINkR2ZVlsNHhrU2hWTmhZTnZ3WE9TVFI0?oc=5",
+      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (October 2025) fda.gov",
+      "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "HPP Dairy",
@@ -324,6 +310,13 @@
       "pubDate": "Fri, 10 Oct 2025 07:00:00 GMT"
     },
     {
+      "source": "HPP Soups & Meals",
+      "title": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong - HuffPost UK",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmNOYlI3cE1Ubk5BaXRtWWpnQkFsLVhvN19LTFRmYnBHLXVPSU51ZmFacnltV25ZWmk5dEt1ZkhzX2NvUlBfY0p6ZGtOVmpHblNWZzBLYVp0YTVWS0lvWXB3V1FxSnZEaV92OVJDbUh5RnRSVmFaQ1hYTU5QelBOYWV5VE5nRWR1S0JFQ19xX2Nta09XdkU0R0pBZlFxWUVFWjhKdE0tOA?oc=5",
+      "description": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong HuffPost UK",
+      "pubDate": "Fri, 10 Oct 2025 07:00:00 GMT"
+    },
+    {
       "source": "Listeria Outbreaks",
       "title": "What to know about the listeria outbreak tied to precooked pasta - NBC News",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlJnazBSd2FuVGlNeWxHVjBqWWhSWmdTT25PMHFYeDVRMHBOczBZOFp2Z0hVTW9IYmNNdXRNbjkwUDZHZGpQS0JtdTdmUnVmeGZicGY2ZVF5QjRoNWRCODh6QURRdGQ4S1VzQXlRbUliNUFDTHRuUkNCS0N6RGx4SUMzNTlYWFFZTDVRSWtTcGV4RGFaY3Y1U3B5Y3VRLUk3QkhNWlFJU3VEV1QwZmRkY1Zoc2c?oc=5",
@@ -343,6 +336,13 @@
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMEd3MWdOZE5BdVpza3dzWWhuQ19FcnE1UjR3aXhaaWZZdUg5LUhLZXVsUzB0V1lYc1hxNHVqTVNoRU13anFHclhlMXNydC10ejVNRW8tZW1qdS1lLVZkMU9vckpIYmJ1cWJsZUpZV1hGOGJCMGV6V2l4dE84NE52RnZTSVo2R2JrZ1M0cTYtVDV1eWlwdWl5RGFoQnJZR1lMZlVoRTZ2V1BpczQ1N2xDbGNzNEN3VXRYOGQ5c2xXQVQ5ZEd0WVNvWGNNWHNocmEwdDA3WXdkT2xudXRpLVFWN2lXZDhPMmtGSkducGpFcmpUVGFxcHFPZkFtV3NRU21oOUtVUGNoelo?oc=5",
       "description": "Hiperbaric Achieves Record Growth with 30 HPP Machine Installations in 2025, Expands Tolling Network with New Partnerships PR Newswire",
       "pubDate": "Thu, 02 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Innovation & Research",
+      "title": "HPP or HPTP in pet food production -- what's the difference? - PetfoodIndustry",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaUtRSGhHYTdSUXI5dktCcEhVSm05cnpQLWZpTHcyaThUTzJVeXVxbnRTcG5JeWFiazE3ZnZYdm04dWhRcHpkSll6TEdtMkpjRFJ6MXc2djdfOTJZN2tWc2VRSGhGZDJ6Uml0UDdBUHFLSEYxTzlEZkZrYmhxWXhiMGg5SHJPTW9GZlhtRVpjMmFpbWlnLU9fUXpqTEJ4Nmdtbm9oUVkzZU1raDJBVDB3WFZwN2dPcUY2MmRHMndQRVItaS1xOVNXVTFEYXo?oc=5",
+      "description": "HPP or HPTP in pet food production -- what's the difference? PetfoodIndustry",
+      "pubDate": "Wed, 01 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "HPP Cosmetics & Beauty",
