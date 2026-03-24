@@ -1,6 +1,20 @@
 {
-  "updated": "2026-03-24T02:09:35.787920+00:00",
+  "updated": "2026-03-24T05:23:18.266339+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Italian Hepatitis A outbreak linked to shellfish",
+      "link": "https://www.foodsafetynews.com/2026/03/italian-hepatitis-a-outbreak-linked-to-shellfish/",
+      "description": "A ban on the serving and consumption of raw seafood in all public establishments has been put in place.",
+      "pubDate": "Tue, 24 Mar 2026 04:05:38 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Bakery products behind large Salmonella outbreak in Korea",
+      "link": "https://www.foodsafetynews.com/2026/03/bakery-products-behind-large-salmonella-outbreak-in-korea/",
+      "description": "A Salmonella outbreak in Korea that affected more than 300 people was likely caused by cross-contamination during production of bakery products, according to a study. In May 2025, clusters of salmonellosis were identified in seven cities associated with the consumption of bakery products from one manufacturer.",
+      "pubDate": "Tue, 24 Mar 2026 04:01:59 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Publisher's Platform: To Safer Infant Formulas and doing away with Botulism, Cronobacter sakazakii, Salmonella and Bacillus cereus",
@@ -9,18 +23,18 @@
       "pubDate": "Sun, 22 Mar 2026 20:12:01 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Young Again Pet Food Recalled For Salmonella Contamination - Food Poisoning Bulletin",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY1pPY3p3LWlGU0N6VloydEgxb0Etc1Yza2lzQUh6dC1kTXRQb3AyUkF3QWI2c2N1dGt4UW5vSjM5WGVIVjM5T2RlVU5sdWl2TDdfRlFaTXYydkR3WGJzTVROQ0hpUFFkVnVzSUFmZGwyWml3NU92bTRtSGc5cjVROGJkQU9ZZzdsSnFXZ3RTMlpjWlpJbkMwYjVVVldsOEU?oc=5",
-      "description": "Young Again Pet Food Recalled For Salmonella Contamination Food Poisoning Bulletin",
-      "pubDate": "Sat, 21 Mar 2026 15:17:38 GMT"
-    },
-    {
       "source": "Food Safety News",
       "title": "Congress members want FDA to force Raw Farm to recall raw cheese because of E. coli outbreak",
       "link": "https://www.foodsafetynews.com/2026/03/congress-members-want-fda-to-force-raw-farm-to-recall-raw-cheese-because-of-e-coli-outbreak/",
       "description": "Dairy has refused to recall products found to be likely source of outbreak",
       "pubDate": "Sat, 21 Mar 2026 01:03:45 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "CDC Warns of Salmonella Outbreak Linked to Cucumbers; Recall Issued - Central Oregon Daily",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTGNKUmdnekx6WllRX0xaTnhFYThDVzlPVzM5bmVUQXBmMnE2Zm9WdVd5SGxaRjQ3azdRUVBCdlZJMHQ1SU9JeWs1Sjdac2JKVkxUaTdrWmZwaU1JMHFLaWF1TUNGTmM2M3NXNEdvTExlZW9GYzN6RTd4OFNSWUdwZWtwMmpmdE9lZG9tRTd6QmUteVNVYjM1THpqQURydzJ4dmhnR0I1cGc3RzcyRFJfaldPcVVOQ3FpSjFtWENWcUJhYUdqUllVb1djVjlTOWhXcHRjLXZvdHlDeVNnYlJKcmln?oc=5",
+      "description": "CDC Warns of Salmonella Outbreak Linked to Cucumbers; Recall Issued Central Oregon Daily",
+      "pubDate": "Sat, 21 Mar 2026 00:00:28 GMT"
     },
     {
       "source": "HPP Innovation & Research",
@@ -42,13 +56,6 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUXJUR0lKRktzZXBSZlNjM0V4R0F4MzJYd2Q4WlFyQ0dlSHZhX2xHa0NPQ3hnS0FFWURIc2ptRzNPMkxRb3dXcVNMUjFHNzV0Q2JKM3p5bHpIbXhZYVE5dGpabVNwX01zREVLVTBXNlpqNXlRSXdGS251VU1NMk5UTDN3Yk41M21KU1E?oc=5",
       "description": "'Super greens' sicken, hospitalize dozens more in salmonella outbreak AOL.com",
       "pubDate": "Thu, 19 Mar 2026 20:27:45 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "ECDC renews Cape Verde warning as illnesses continue",
-      "link": "https://www.foodsafetynews.com/2026/03/ecdc-renews-cape-verde-warning-as-illnesses-continue/",
-      "description": "Laboratory testing of samples from returning travelers has most often identified Shigella and Salmonella, which suggests a persistent source or ongoing exposure.",
-      "pubDate": "Thu, 19 Mar 2026 04:05:58 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -164,6 +171,13 @@
     },
     {
       "source": "UK Food Industry",
+      "title": "£3 million investment to drive diet and health innovation - Wired-gov.net",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjRvbDFCeDJRZXMzcWFJMUFXV1FEdTFaY1ZCX1lnYzZxNjVEcFdNODhHWjRqc1ZLNk5HYTQ0UEhpX1Zwc2ZTRHlQMW9za1JaWi1LLVFEX1VQUnZVSzF4UEYtOWZnZ0dPVnlVUjhodmppT1NlU1pWcG5JOXFKd2k1VUlDck1sU2Y2bmliTXYxTzdSNW5PZkFySzNQMXBfXzZ0Ui03ZFBHdGxRUXY3MXlzd3FVSjhhak5rR2lBOXpNSjY?oc=5",
+      "description": "£3 million investment to drive diet and health innovation Wired-gov.net",
+      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
       "title": "Meet the food innovation centres leading the way in sustainable, tech-driven development - FoodBev Media",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVUY204LVk3LUY2MXN6QXVRcnJKb0hKbFBRbHNpeXAxSlhzN3c1WW90NGY1UzNCU1cwUDNmbFd6LTRTZWpYZ0lpTTdJRnRQT3ptQ3hneVdYSnRWNjdYRGNsTkV0S21Jb1M5Sk83T21aeE1VVWNSZWkzUEI4b0lKTWR1VTN1ZjAyYVl3eXFRX014ZzlJUnRRM2J3MEJaYVJHTzNWZzNoTVlNbVdsS2lydDBVX213Q0E?oc=5",
       "description": "Meet the food innovation centres leading the way in sustainable, tech-driven development FoodBev Media",
@@ -240,13 +254,6 @@
       "pubDate": "Sun, 09 Nov 2025 08:00:00 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "36Kr Exclusive: GAO Bingqiang-Backed Smart Kitchen Appliance Team \"LISSOME\" Completes Over RMB 10M Pre-A Round Financing - 36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGSnBtcXVBSVJrWnBCM19QdkZpblBwWmFQbGVYUHphc3NJOXhfTXJibFZSM1lORHl5UmxjeThISU5FY253bjBZb0JjTnE5LXRGU0Mw?oc=5",
-      "description": "36Kr Exclusive: GAO Bingqiang-Backed Smart Kitchen Appliance Team \"LISSOME\" Completes Over RMB 10M Pre-A Round Financing 36Kr",
-      "pubDate": "Fri, 07 Nov 2025 08:00:00 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "Nationwide Listeria outbreak: 6 dead and 27 hospitalized, dozens of products recalled - WRAL",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1NLbnJCRjM4WHZIME1oWTJCbEw0OXEtT2U2V1dnYWxaVEN2NGtlZ0kzaEx6V0R0YlBSLWZZXzRQWjBERVZOT2NXVldvY0VFaEEyZnNUejEtdDltdnBQWlNnNjlNU1ZhWl9SbkpxUXdody1HSkMtbkk2V0hYV3oyZ1lLY1RiS01BeVo0anhnZ3Y?oc=5",
@@ -294,13 +301,6 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83bXZkTUFiX3E1cmxOVEVPNlgxemRkTzQ1Q0o3OEhnVldwcUJMVjlLamNiY3NJd2VmckZVczFnTDYzUUQ4anFudHdCUllkNU5HYXNuN2UxSUVBa0pqTnFrbVE2dmgwWXYzdkF3V3hWeTlzcWJsa3gwdjBn?oc=5",
       "description": "More illnesses, deaths reported in listeria outbreak tied to recalled pasta salads, meals sold nationwide CNN",
       "pubDate": "Thu, 30 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "GEA’s NiSoMate® becomes an essential compliance tool as EU waste directive comes into force - New Food magazine",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelI2dkkyYkNqcm5MWXFoeWlxbUVPaGZMN085X3FZb0N6TWRpek90Mnd4akRtU3hpdUNGems5cnU1U3VtRDBUVU1lTXJzOE1JNkJ3MW1XUGNLZTlTNzI4U2xBLUVURlBySTVEYVNHa0pyQ0l0ampKTVJjc1pqdGxSbWZ6NDdGZ3hWUjcxX2dCSUxBUQ?oc=5",
-      "description": "GEA’s NiSoMate® becomes an essential compliance tool as EU waste directive comes into force New Food magazine",
-      "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
