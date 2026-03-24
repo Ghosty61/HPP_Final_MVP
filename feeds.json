@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-24T05:23:18.266339+00:00",
+  "updated": "2026-03-24T07:05:30.495986+00:00",
   "articles": [
     {
       "source": "Food Safety News",
       "title": "Italian Hepatitis A outbreak linked to shellfish",
       "link": "https://www.foodsafetynews.com/2026/03/italian-hepatitis-a-outbreak-linked-to-shellfish/",
-      "description": "A ban on the serving and consumption of raw seafood in all public establishments has been put in place.",
+      "description": "A ban on the serving and consumption of raw seafood in all public establishments in Napoli has been put in place.",
       "pubDate": "Tue, 24 Mar 2026 04:05:38 GMT"
     },
     {
@@ -63,13 +63,6 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUFHb1UtZWhvTmwwekh6YW4wemx6OGxnRFN0X2JTQnBYVUNWMkFmMllBRUVjQWJ2RXhGb1Qyb3RsMEYySUdqbE9Sc3pNbGx3eF9QeFo2TVR6MFpFVUF4dEdsYnRqZTFSVHlkWjBJMnRmRVpES2pEMUxRUGt0ZGxDSkFRalB1M3g4YWN6b3VwV25UTW9DZjZEQmVLa0ZocDJET1NONDEydUd0SklDaEtKRTBLWE5kdw?oc=5",
       "description": "Hiperbaric promotes global scientific talent with third edition of HPP Research Awards FoodBev Media",
       "pubDate": "Wed, 18 Mar 2026 14:02:29 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Investigations of Foodborne Illness Outbreaks - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk9CZUFHZmRHM3p1V1VfczVQOGxOVU5VSjllbF9tSzFyZDZqVXpfOVdTMnNVZk9VZjRVTDlRN3pvbjZZTER0bG5CY2h0Q0F6SldIMDl0WXNmanBtSGthVjQxMU5NZHNibkNLMXBqRnVsOWk4andKSkdrWUM4eUYzaFVzdGI5OFFXRGE5NWJTTFJja2cxaEJaN3doZw?oc=5",
-      "description": "Investigations of Foodborne Illness Outbreaks fda.gov",
-      "pubDate": "Wed, 18 Mar 2026 14:00:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaUtRSGhHYTdSUXI5dktCcEhVSm05cnpQLWZpTHcyaThUTzJVeXVxbnRTcG5JeWFiazE3ZnZYdm04dWhRcHpkSll6TEdtMkpjRFJ6MXc2djdfOTJZN2tWc2VRSGhGZDJ6Uml0UDdBUHFLSEYxTzlEZkZrYmhxWXhiMGg5SHJPTW9GZlhtRVpjMmFpbWlnLU9fUXpqTEJ4Nmdtbm9oUVkzZU1raDJBVDB3WFZwN2dPcUY2MmRHMndQRVItaS1xOVNXVTFEYXo?oc=5",
       "description": "HPP or HPTP in pet food production -- what's the difference? PetfoodIndustry",
       "pubDate": "Wed, 01 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Cosmetics & Beauty",
+      "title": "‘You can’t retrofit skin care’: Why this indie brand is betting on high-pressure processing biotech - Cosmetics Design North America",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMUxuYkhXcGh0dmtRdUNudHBVNzZQRDdpdVA5WnR6MDdDMHB6VV9iOE9HSTNrenExM1dkU1g3bEE2cTE2b0ZRX1dPZUpWVEFkSXRYajFNLWdHbmN6bGR6WXhyNm1oNHJzZkVZa2stMzBIR2Z4UzRIZ3dqMmZWS0ZDTGtnemgxNVJUbEhtdml3MGpaeGFfbkxaVTRPX1dJOEdWSFN0LXJRZW5NSFhieWY1SFFpOFVXMXNqTkRZd05TR3I4c25YR0gzWURiY3J1Skhwank0UnBaNEx2MDdKY0tUTw?oc=5",
+      "description": "‘You can’t retrofit skin care’: Why this indie brand is betting on high-pressure processing biotech Cosmetics Design North America",
+      "pubDate": "Wed, 24 Sep 2025 07:00:00 GMT"
     }
   ]
 }
