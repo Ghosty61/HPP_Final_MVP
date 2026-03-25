@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T17:03:10.192457+00:00",
+  "updated": "2026-03-25T18:56:49.747653+00:00",
   "articles": [
     {
       "source": "Hiperbaric",
@@ -30,6 +30,13 @@
       "pubDate": "Wed, 25 Mar 2026 04:01:29 GMT"
     },
     {
+      "source": "UK Food Industry",
+      "title": "Europe Food and Beverages Market Size and Analysis, 2034 - Market Data Forecast",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFRiSl9GOVdlZHlfalNxOHk1V25kTkhPV20wU3JpbjNrLXV1VmljMjZfR0dNbEV2b3V2NjZpaDZaM3ZKYTZvazBiV3dDSkY2eWl5eWRrVUE0Z09BV2Y0bzdxLXdaeUgzN2lyTFlFLXNoVXRHQ0xsamN4S0pZeFRUSVV6c1otRzZWYlE?oc=5",
+      "description": "Europe Food and Beverages Market Size and Analysis, 2034 Market Data Forecast",
+      "pubDate": "Tue, 24 Mar 2026 06:42:30 GMT"
+    },
+    {
       "source": "Food Safety News",
       "title": "Italian Hepatitis A outbreak linked to shellfish",
       "link": "https://www.foodsafetynews.com/2026/03/italian-hepatitis-a-outbreak-linked-to-shellfish/",
@@ -42,13 +49,6 @@
       "link": "https://www.foodsafetynews.com/2026/03/bakery-products-behind-large-salmonella-outbreak-in-korea/",
       "description": "A Salmonella outbreak in Korea that affected more than 300 people was likely caused by cross-contamination during production of bakery products, according to a study. In May 2025, clusters of salmonellosis were identified in seven cities associated with the consumption of bakery products from one manufacturer.",
       "pubDate": "Tue, 24 Mar 2026 04:01:59 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "The latest product recalls and safety alerts from Which? - which.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnZEdm8tLUMxdlpRajZ4bGZ1eE5nRElJdGtTVDB5R0hMcWxoV2NIV1BvSkNsY3BUaGl6TzV2cXZSdEZWV0JOenZseW5icmxadFBZcERkOGpMb3BjaGJrN241Q1VCeWw1TldCMjBscEtfTzkwM2tsTTJyQlI0VkFaVWRseVZObmoycnRFaXJkQlY?oc=5",
-      "description": "The latest product recalls and safety alerts from Which? which.co.uk",
-      "pubDate": "Sun, 22 Mar 2026 07:00:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -142,10 +142,24 @@
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     },
     {
+      "source": "EU HPP & Food Tech",
+      "title": "Europe Agricultural Grow Lights Market Share & Growth, 2034 - Market Data Forecast",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb09xTmM2VkNDX2ZvMlk0VkM5Tm41OENOWmJfdTVXU1ZQRjJfQ2wyNzQyZF81Y0hJOEtCU3Z3a2hQVzlLYmZxalpnQzJpUDJCakRySEt5NXdHOVVLc05kdWdvZ2l1ZFU4ay1wZUVqOXJIRjQxclAzV3VnMFhYSXdGT1FJUkMtTU5iMzJJTVJSNmRmQQ?oc=5",
+      "description": "Europe Agricultural Grow Lights Market Share & Growth, 2034 Market Data Forecast",
+      "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT"
+    },
+    {
       "source": "Food Safety UK & EU",
       "title": "Tesco recalls fruit product over urgent salmonella fears - Food Manufacture",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNFZNRWZ0ZVA3S2xrVmE4ZlhQNS0xRVNWcGRITFRTN2xMUG9PcVNFUFhXTWJLMDE4NmNVWEVFRFlYLW1sWVBGUWYwRTFSQTJFSGR2dmo3SXBncTY5NG9TRnpmTFJNd1ZrR3F6MVRMWXF2ai1tZTBxdUV6LXp5T1VuWlFzb1pLX0dQbVFLTWo5dDZ2WXpLX0ZvdGJYVTlOLXBubDdKakZwT0Jyd0pkTGpxYkdHeFBkQQ?oc=5",
       "description": "Tesco recalls fruit product over urgent salmonella fears Food Manufacture",
+      "pubDate": "Thu, 19 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "Tesco recalls popular fruit product over salmonella contamination - mirror.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUGtOcGFRSV94VlVDWE9nUUlhQ0ZUQ2xCbmc3VVhlNGd0UmRPSFpTMkNOdDltcF9URUZjRV9Gd0tCZ3pVTDRsZXlTRndYZ2Q5TmlpSXdnaDkyTUhDVzBjbWtuLVdHVHlINkp2X05CdEZIZUlOWnJ2aDliY0Z3SDJ3VG1sSDkyZW0tNlHSAY8BQVVfeXFMUFhpQjBTZ01EeE9IQkprbldOVWMyQ1VyRmpsdVRhZWUtSEM0VWZpVll3WjZKZEhpX0c4cW9xcUUtS19ObVQ4V3pGQkxDQmEtdVNRNmpBeHMxYjY0ZDRsTk1KZVUxRTJyMndSbE1kREE4NG14djV0b0NhYXdWc1lCamVCWUFyRUdzaUpEbGFUX3M?oc=5",
+      "description": "Tesco recalls popular fruit product over salmonella contamination mirror.co.uk",
       "pubDate": "Thu, 19 Feb 2026 08:00:00 GMT"
     },
     {
@@ -156,13 +170,6 @@
       "pubDate": "Thu, 12 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "HPP Cosmetics & Beauty",
-      "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXhUbEgxOUMycF9EN0RUdmxwWWt1WUVyYU1iUnQ0R2FCTlZZcTlFUEMwaG45Z0lGZHpQNGpXTFJEcW9HNm1RN1lSNzZFX2M4QnllM3NmMXc2UVRMTWFvNHM2dXkyc01pNHJ5MlpvWTNMQWJDdUxvc1I5NWR2NFIzOS1vWGFNMUtiZ2d2NVRUVHVTTk9BdENMUmZkcjZZc2VwUXowOGhXWWRvcGQ5T2wtYjRhbTNzSlFrUHZXWmNLWFYzUVlNUE1uTG1xYk5EUDFHQkVsSlJFcHhDN3BTM0dWcnp6MVNOc1VUbFB1ZUJMYzhMenJRNkRkeS1maTlYNGozbEthVW1B?oc=5",
-      "description": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility PR Newswire",
-      "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "HPP Dairy",
       "title": "Milk | Pros, Cons, Debate, Arguments, Dairy, Nutrition, & Health - Britannica",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42d2NVQXpzcmh1Sjk0OGF3cngwdTNVdlJwZ0h5cE02UEtRZ0Rzb0VNa2pTcmllYmdyanJGejhqZEZCeUpyUGMtLUZsYXRxTnlMaS1ESnl2azk?oc=5",
@@ -170,11 +177,11 @@
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "Registration opens for Food, Drink & Hospitality Week 2026, with Food and Drink Innovation at its core - Restaurant Industry Magazine",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVgzMVpmRU1IeVlNZlFVdnNEZlFKVGoxT3VXZHBPY2xyNjZ4Q1AwT1ZtUXZFT3M4Q3RRblU5cHE4RHc4T0RwZHBnd2Q1Yzc1Z2wzNl9iSWFZOGREVS1HaG1oVndrZ29YTERPV1dMcDlNdGhtRW9QR3RZRUZVXzY5ODB1NmlseUtSUFJjcHNjeTJ6aXNnZnE1NTE2LUdDZUVLbzEtOVV2YlNLR3JIUXBubFZicklFVV9GVndEb3AtNDVqR0gzcXRSWnBGYmJQZUtFbFV0T0dQbXVYTUU?oc=5",
-      "description": "Registration opens for Food, Drink & Hospitality Week 2026, with Food and Drink Innovation at its core Restaurant Industry Magazine",
-      "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT"
+      "source": "HPP Innovation & Research",
+      "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXhUbEgxOUMycF9EN0RUdmxwWWt1WUVyYU1iUnQ0R2FCTlZZcTlFUEMwaG45Z0lGZHpQNGpXTFJEcW9HNm1RN1lSNzZFX2M4QnllM3NmMXc2UVRMTWFvNHM2dXkyc01pNHJ5MlpvWTNMQWJDdUxvc1I5NWR2NFIzOS1vWGFNMUtiZ2d2NVRUVHVTTk9BdENMUmZkcjZZc2VwUXowOGhXWWRvcGQ5T2wtYjRhbTNzSlFrUHZXWmNLWFYzUVlNUE1uTG1xYk5EUDFHQkVsSlJFcHhDN3BTM0dWcnp6MVNOc1VUbFB1ZUJMYzhMenJRNkRkeS1maTlYNGozbEthVW1B?oc=5",
+      "description": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility PR Newswire",
+      "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Soups & Meals",
@@ -343,13 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaUtRSGhHYTdSUXI5dktCcEhVSm05cnpQLWZpTHcyaThUTzJVeXVxbnRTcG5JeWFiazE3ZnZYdm04dWhRcHpkSll6TEdtMkpjRFJ6MXc2djdfOTJZN2tWc2VRSGhGZDJ6Uml0UDdBUHFLSEYxTzlEZkZrYmhxWXhiMGg5SHJPTW9GZlhtRVpjMmFpbWlnLU9fUXpqTEJ4Nmdtbm9oUVkzZU1raDJBVDB3WFZwN2dPcUY2MmRHMndQRVItaS1xOVNXVTFEYXo?oc=5",
       "description": "HPP or HPTP in pet food production -- what's the difference? PetfoodIndustry",
       "pubDate": "Wed, 01 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Cosmetics & Beauty",
-      "title": "‘You can’t retrofit skin care’: Why this indie brand is betting on high-pressure processing biotech - Cosmetics Design North America",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMUxuYkhXcGh0dmtRdUNudHBVNzZQRDdpdVA5WnR6MDdDMHB6VV9iOE9HSTNrenExM1dkU1g3bEE2cTE2b0ZRX1dPZUpWVEFkSXRYajFNLWdHbmN6bGR6WXhyNm1oNHJzZkVZa2stMzBIR2Z4UzRIZ3dqMmZWS0ZDTGtnemgxNVJUbEhtdml3MGpaeGFfbkxaVTRPX1dJOEdWSFN0LXJRZW5NSFhieWY1SFFpOFVXMXNqTkRZd05TR3I4c25YR0gzWURiY3J1Skhwank0UnBaNEx2MDdKY0tUTw?oc=5",
-      "description": "‘You can’t retrofit skin care’: Why this indie brand is betting on high-pressure processing biotech Cosmetics Design North America",
-      "pubDate": "Wed, 24 Sep 2025 07:00:00 GMT"
     }
   ]
 }
