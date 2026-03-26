@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-26T05:41:35.476901+00:00",
+  "updated": "2026-03-26T07:10:23.326871+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -93,10 +93,17 @@
       "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
     },
     {
+      "source": "Hiperbaric EU",
+      "title": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation - Food and Drink Technology",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZEJqUEI0WkJVVHhkX3M5ek9hYUp6Tnh1R1hWLWhLY2c2bWEzOEFNcXJhY016UDdMS0EtZFRnRWtxTElEcGdxX0RETWwzV3FsemRrdVFXQ1JWLW5oLXhVNW95a3JsNjRCWldTVEtIcnpSc05ZSDY3a3VhX092QXhKRldyNFJWemRjbU5Md0Z0eFRXQzk1eU5mbVgwbDFBazg0ekNuek9OYkowY2pvX1NBSGtoekZURTRBZUN6N1dtZk5nSEE?oc=5",
+      "description": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation Food and Drink Technology",
+      "pubDate": "Mon, 09 Mar 2026 23:39:12 GMT"
+    },
+    {
       "source": "Food Safety UK & EU",
-      "title": "Tesco urgently recalls Salmonella-affected deli product with 'do not eat' warning - Liverpool Echo",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUExlY181VXliWmZLbklKRzNfVmE0TjhfYVFIcFYzS0RhUFZiZ0RTbWh4RWtzei1XcU1peVNKeHpwSmVEU09jSmEwV1p0UTA2Tm1aMXQ2b1JhdEpTa0hFN1l2TEJoT1dNZ29mV05ZM1JVQVNlMEFZX3VxSGQ0QVJsc2tSWDBvWklsRWoyMncxak5oSkwzeFJwRDhiZnNFdG9rUGRJ0gGoAUFVX3lxTE1OdktSOXFod25EbE5wTElEM0ZTdzhlS2w4azdFNm1HdjYwRGtUZHh0MG9tTTV5RmgyQmZJenFBVEJPOTZtcXJLRXlnTTBIYTVCYW9BckZCVGFrN0p3X0tleGQ1aDRHNThmTVlvVVN5UXFUUm5EQTk0ZHYzMmlnYlE3SGpCM2Exd2VmVE5jczlRZmx3ajlDellCajFlQzQtalp6V0g2VGtSYw?oc=5",
-      "description": "Tesco urgently recalls Salmonella-affected deli product with 'do not eat' warning Liverpool Echo",
+      "title": "Tesco shoppers issued 'do not eat' warning over meat contaminated with salmonella - Manchester Evening News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcW9WaF92SGlaLUhvZXV5VGJQdUMyN2paRWxzTW9JTDFGSF9uT09oUUhHZW1GUlREa29DcTNBdjByYzVQb1RsMTE5TWxJWVh3Z3Ywd1lyR05sZm1fMDBfbm0tc0ZLNHJxNHZ6UmJFdmdsZTZyNkhZQURLQjdWZEFlVEZhUkZheWZCa2Z1S1VRYVDSAZYBQVVfeXFMTlA4MjJOSGtlMmUxRHlfVFZSR24wbEhleWVMVFZtdFZBQ2tfVHZ4ZDZPcHZwWlVwWHJSRFozWmRxM2x2OW1rR2JXVVQ0T1pSWkRZTTZ4c0l4YTBDeTdWcVAyTm5fWUE4Mi1UbUZaLTlFLXUzQmw0NC1VUjBINUt0QnZKYU1yQ0ZkOWZHUUR3SW1lSkhaWmx3?oc=5",
+      "description": "Tesco shoppers issued 'do not eat' warning over meat contaminated with salmonella Manchester Evening News",
       "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT"
     },
     {
@@ -287,13 +294,6 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83bXZkTUFiX3E1cmxOVEVPNlgxemRkTzQ1Q0o3OEhnVldwcUJMVjlLamNiY3NJd2VmckZVczFnTDYzUUQ4anFudHdCUllkNU5HYXNuN2UxSUVBa0pqTnFrbVE2dmgwWXYzdkF3V3hWeTlzcWJsa3gwdjBn?oc=5",
       "description": "More illnesses, deaths reported in listeria outbreak tied to recalled pasta salads, meals sold nationwide CNN",
       "pubDate": "Thu, 30 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "High-tech eyes and ears to boost speed and safety for first responder teams - research-and-innovation.ec.europa.eu",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVEc3YUFqLWZKMUwzbkJYWTNYSzJKNU4wUTl3b2NyYjNrZjNsMm5CU2JCQU15dWMybXhYMlFIUEpFTDRLUVJHaEZKcXUwNTdhLVFiSndPaGFLaXcwRnItZ1QwQ0tpZW5IZnRUY1pBM01kQVFvaE83MWZsWnAyaVFadV84a0JXeml2ejFIYXRMYnZqUm1TZk44YjF2SlF2cUhRVUpiYzdQSUN2MlBVSU5GcndzUzBCUWw5V2dHendkRm5LWXpralFvUGN3ZE1IZHczREZEaWMxQmRKOXVCVHpocDhmUDM2T2lzeXc?oc=5",
-      "description": "High-tech eyes and ears to boost speed and safety for first responder teams research-and-innovation.ec.europa.eu",
-      "pubDate": "Thu, 23 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
