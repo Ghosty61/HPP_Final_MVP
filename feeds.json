@@ -1,6 +1,27 @@
 {
-  "updated": "2026-03-26T02:28:20.200421+00:00",
+  "updated": "2026-03-26T05:41:35.476901+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "FDA inspecting Raw Farm dairy because of link to outbreak",
+      "link": "https://www.foodsafetynews.com/2026/03/fda-inspecting-raw-farm-dairy-because-of-link-to-outbreak/",
+      "description": "The dairy continues to refuse to recall its products",
+      "pubDate": "Thu, 26 Mar 2026 04:05:58 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Hotel fined for hygiene failures and Salmonella outbreak",
+      "link": "https://www.foodsafetynews.com/2026/03/hotel-fined-for-hygiene-failures-and-salmonella-outbreak/",
+      "description": "A hotel in Australia has been fined for food hygiene offenses relating to a foodborne outbreak that sickened 76 people. The Terrigal Plaza Hotel in New South Wales was ordered to pay more than $53,000 (U.S. $37,000) in fines and costs with a guilty conviction recorded for",
+      "pubDate": "Thu, 26 Mar 2026 04:03:51 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Scientists update data on Campylobacter sources and resistance",
+      "link": "https://www.foodsafetynews.com/2026/03/scientists-update-data-on-campylobacter-sources-and-resistance/",
+      "description": "Scientists&#xA0;have&#xA0;estimated that&#xA0;most Campylobacter&#xA0;cases in an English county are&#xA0;associated with&#xA0;poultry meat, and that many of them&#xA0;are&#xA0;resistant to antibiotics. Researchers from the&#xA0;Ineos Oxford Institute for antimicrobial research&#xA0;and the Department of Biology&#xA0;",
+      "pubDate": "Thu, 26 Mar 2026 04:01:52 GMT"
+    },
     {
       "source": "Hiperbaric",
       "title": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria - Fuel Cells Works",
@@ -21,27 +42,6 @@
       "link": "https://www.foodsafetynews.com/2026/03/salmonella-sickens-120-in-latvia/",
       "description": "In all of 2024, Latvia reported only 211 salmonellosis cases",
       "pubDate": "Wed, 25 Mar 2026 04:05:53 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "High additive levels likely cause of large outbreak in Finland",
-      "link": "https://www.foodsafetynews.com/2026/03/high-additive-levels-likely-cause-of-large-outbreak-in-finland/",
-      "description": "It remains unclear how excessively high levels of an additive got into tortillas that made more than 700 people sick in Finland. In August 2023, 721 individuals became ill with gastrointestinal symptoms in 17 schools in a Finnish municipality. Of these, 323 developed quickly passing symptoms during lunch or under&",
-      "pubDate": "Wed, 25 Mar 2026 04:01:29 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Italian Hepatitis A outbreak linked to shellfish",
-      "link": "https://www.foodsafetynews.com/2026/03/italian-hepatitis-a-outbreak-linked-to-shellfish/",
-      "description": "A ban on the serving and consumption of raw seafood in all public establishments in Napoli has been put in place.",
-      "pubDate": "Tue, 24 Mar 2026 04:05:38 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Bakery products behind large Salmonella outbreak in Korea",
-      "link": "https://www.foodsafetynews.com/2026/03/bakery-products-behind-large-salmonella-outbreak-in-korea/",
-      "description": "A Salmonella outbreak in Korea that affected more than 300 people was likely caused by cross-contamination during production of bakery products, according to a study. In May 2025, clusters of salmonellosis were identified in seven cities associated with the consumption of bakery products from one manufacturer.",
-      "pubDate": "Tue, 24 Mar 2026 04:01:59 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -93,13 +93,6 @@
       "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
     },
     {
-      "source": "Hiperbaric",
-      "title": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation - Food and Drink Technology",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZEJqUEI0WkJVVHhkX3M5ek9hYUp6Tnh1R1hWLWhLY2c2bWEzOEFNcXJhY016UDdMS0EtZFRnRWtxTElEcGdxX0RETWwzV3FsemRrdVFXQ1JWLW5oLXhVNW95a3JsNjRCWldTVEtIcnpSc05ZSDY3a3VhX092QXhKRldyNFJWemRjbU5Md0Z0eFRXQzk1eU5mbVgwbDFBazg0ekNuek9OYkowY2pvX1NBSGtoekZURTRBZUN6N1dtZk5nSEE?oc=5",
-      "description": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation Food and Drink Technology",
-      "pubDate": "Mon, 09 Mar 2026 23:39:12 GMT"
-    },
-    {
       "source": "Food Safety UK & EU",
       "title": "Tesco urgently recalls Salmonella-affected deli product with 'do not eat' warning - Liverpool Echo",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUExlY181VXliWmZLbklKRzNfVmE0TjhfYVFIcFYzS0RhUFZiZ0RTbWh4RWtzei1XcU1peVNKeHpwSmVEU09jSmEwV1p0UTA2Tm1aMXQ2b1JhdEpTa0hFN1l2TEJoT1dNZ29mV05ZM1JVQVNlMEFZX3VxSGQ0QVJsc2tSWDBvWklsRWoyMncxak5oSkwzeFJwRDhiZnNFdG9rUGRJ0gGoAUFVX3lxTE1OdktSOXFod25EbE5wTElEM0ZTdzhlS2w4azdFNm1HdjYwRGtUZHh0MG9tTTV5RmgyQmZJenFBVEJPOTZtcXJLRXlnTTBIYTVCYW9BckZCVGFrN0p3X0tleGQ1aDRHNThmTVlvVVN5UXFUUm5EQTk0ZHYzMmlnYlE3SGpCM2Exd2VmVE5jczlRZmx3ajlDellCajFlQzQtalp6V0g2VGtSYw?oc=5",
@@ -128,6 +121,13 @@
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     },
     {
+      "source": "UK Food Industry",
+      "title": "Rewriting the recipe: the next 25 years of innovation - Food and Drink Technology",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMUstc3dfZjFaTW9YNFRhelRhQmRsSEFVVjFGc0tZZE1jMjZXWXhqaXc2VEd6M2pPOWxrSmU1SGNNNXBLTE9wLUcxZ2lTeFVqM19NZUNJeXJycVQxWGQ3UDV5MklIbEw2NHREa3h6Y1BtajhOTXlWZGhJY2JoU21BM0NGY0pxLWJiSTk1TWhSTGJSUEtE?oc=5",
+      "description": "Rewriting the recipe: the next 25 years of innovation Food and Drink Technology",
+      "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
+    },
+    {
       "source": "Food Safety UK & EU",
       "title": "Tesco recalls fruit product over urgent salmonella fears - Food Manufacture",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNFZNRWZ0ZVA3S2xrVmE4ZlhQNS0xRVNWcGRITFRTN2xMUG9PcVNFUFhXTWJLMDE4NmNVWEVFRFlYLW1sWVBGUWYwRTFSQTJFSGR2dmo3SXBncTY5NG9TRnpmTFJNd1ZrR3F6MVRMWXF2ai1tZTBxdUV6LXp5T1VuWlFzb1pLX0dQbVFLTWo5dDZ2WXpLX0ZvdGJYVTlOLXBubDdKakZwT0Jyd0pkTGpxYkdHeFBkQQ?oc=5",
@@ -142,17 +142,17 @@
       "pubDate": "Thu, 12 Feb 2026 08:00:00 GMT"
     },
     {
+      "source": "HPP Cosmetics & Beauty",
+      "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXhUbEgxOUMycF9EN0RUdmxwWWt1WUVyYU1iUnQ0R2FCTlZZcTlFUEMwaG45Z0lGZHpQNGpXTFJEcW9HNm1RN1lSNzZFX2M4QnllM3NmMXc2UVRMTWFvNHM2dXkyc01pNHJ5MlpvWTNMQWJDdUxvc1I5NWR2NFIzOS1vWGFNMUtiZ2d2NVRUVHVTTk9BdENMUmZkcjZZc2VwUXowOGhXWWRvcGQ5T2wtYjRhbTNzSlFrUHZXWmNLWFYzUVlNUE1uTG1xYk5EUDFHQkVsSlJFcHhDN3BTM0dWcnp6MVNOc1VUbFB1ZUJMYzhMenJRNkRkeS1maTlYNGozbEthVW1B?oc=5",
+      "description": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility PR Newswire",
+      "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
+    },
+    {
       "source": "HPP Dairy",
       "title": "Milk | Pros, Cons, Debate, Arguments, Dairy, Nutrition, & Health - Britannica",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42d2NVQXpzcmh1Sjk0OGF3cngwdTNVdlJwZ0h5cE02UEtRZ0Rzb0VNa2pTcmllYmdyanJGejhqZEZCeUpyUGMtLUZsYXRxTnlMaS1ESnl2azk?oc=5",
       "description": "Milk | Pros, Cons, Debate, Arguments, Dairy, Nutrition, & Health Britannica",
-      "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Innovation & Research",
-      "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXhUbEgxOUMycF9EN0RUdmxwWWt1WUVyYU1iUnQ0R2FCTlZZcTlFUEMwaG45Z0lGZHpQNGpXTFJEcW9HNm1RN1lSNzZFX2M4QnllM3NmMXc2UVRMTWFvNHM2dXkyc01pNHJ5MlpvWTNMQWJDdUxvc1I5NWR2NFIzOS1vWGFNMUtiZ2d2NVRUVHVTTk9BdENMUmZkcjZZc2VwUXowOGhXWWRvcGQ5T2wtYjRhbTNzSlFrUHZXWmNLWFYzUVlNUE1uTG1xYk5EUDFHQkVsSlJFcHhDN3BTM0dWcnp6MVNOc1VUbFB1ZUJMYzhMenJRNkRkeS1maTlYNGozbEthVW1B?oc=5",
-      "description": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility PR Newswire",
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     },
     {
@@ -167,13 +167,6 @@
       "title": "£3m BBSRC and Defra funding to accelerate healthier UK food innovation - New Food magazine",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM2ZhUFFzZ1pyZGRMWThoUlZyNERMMWE5U0t6Sk5KRFZSTTJoeFNFc2poX2ZpR3FRZ2tWX1Jlc3R5aUE3YmdXSVBoNEs0SjVtOVJ2U0ZvYjFtNlByNVlTNTdwb1JsS3pYRHRrNmNDS2FRUU43X1gtSnhZWkcxQkY4bzU3Y1BiZzJwRGc0NVltZ3J6TUVaWnhibHdpOUp5c2dOeG9FVFZ0UTREYmJxOEE?oc=5",
       "description": "£3m BBSRC and Defra funding to accelerate healthier UK food innovation New Food magazine",
-      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "£3 million investment to drive diet and health innovation - Wired-Gov",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjRvbDFCeDJRZXMzcWFJMUFXV1FEdTFaY1ZCX1lnYzZxNjVEcFdNODhHWjRqc1ZLNk5HYTQ0UEhpX1Zwc2ZTRHlQMW9za1JaWi1LLVFEX1VQUnZVSzF4UEYtOWZnZ0dPVnlVUjhodmppT1NlU1pWcG5JOXFKd2k1VUlDck1sU2Y2bmliTXYxTzdSNW5PZkFySzNQMXBfXzZ0Ui03ZFBHdGxRUXY3MXlzd3FVSjhhak5rR2lBOXpNSjY?oc=5",
-      "description": "£3 million investment to drive diet and health innovation Wired-Gov",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
     {
@@ -233,7 +226,7 @@
       "pubDate": "Fri, 21 Nov 2025 08:00:00 GMT"
     },
     {
-      "source": "Hiperbaric EU",
+      "source": "Hiperbaric",
       "title": "Hiperbaric brings advanced Hot Isostatic Pressing to Formnext, unlocking full potential of metal additive manufacturing - tctmagazine.com",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ3c4eWhyU0NKN0ZNTy1mXzJ3Y1Bqa2tqNGdqNXlLT0R5R3BoNVdnX1FwbWNxYzV3TGxTNHZJdWJhTElrQkgxTklNX0JyWDREN25ONVVranlsTjlCRXIzREZUQ1E0VDFaUnVhcWszbzBxVlJDc09DRHhGemd1dFNkZl9PWTlqOFJ4ZTZZNXpvOHM2RjNUNXBUMG0zVS1CNjFMb2NscWtRcFVFUGJZQUZLT0lfS2xVRFBWSkhBNHpWYW4xMnZPZmppWHM0TDY0RnVZa1ZRVl9wMmxTVnV1Sk0ybQ?oc=5",
       "description": "Hiperbaric brings advanced Hot Isostatic Pressing to Formnext, unlocking full potential of metal additive manufacturing tctmagazine.com",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaUtRSGhHYTdSUXI5dktCcEhVSm05cnpQLWZpTHcyaThUTzJVeXVxbnRTcG5JeWFiazE3ZnZYdm04dWhRcHpkSll6TEdtMkpjRFJ6MXc2djdfOTJZN2tWc2VRSGhGZDJ6Uml0UDdBUHFLSEYxTzlEZkZrYmhxWXhiMGg5SHJPTW9GZlhtRVpjMmFpbWlnLU9fUXpqTEJ4Nmdtbm9oUVkzZU1raDJBVDB3WFZwN2dPcUY2MmRHMndQRVItaS1xOVNXVTFEYXo?oc=5",
       "description": "HPP or HPTP in pet food production -- what's the difference? PetfoodIndustry",
       "pubDate": "Wed, 01 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Cosmetics & Beauty",
+      "title": "‘You can’t retrofit skin care’: Why this indie brand is betting on high-pressure processing biotech - Cosmetics Design North America",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMUxuYkhXcGh0dmtRdUNudHBVNzZQRDdpdVA5WnR6MDdDMHB6VV9iOE9HSTNrenExM1dkU1g3bEE2cTE2b0ZRX1dPZUpWVEFkSXRYajFNLWdHbmN6bGR6WXhyNm1oNHJzZkVZa2stMzBIR2Z4UzRIZ3dqMmZWS0ZDTGtnemgxNVJUbEhtdml3MGpaeGFfbkxaVTRPX1dJOEdWSFN0LXJRZW5NSFhieWY1SFFpOFVXMXNqTkRZd05TR3I4c25YR0gzWURiY3J1Skhwank0UnBaNEx2MDdKY0tUTw?oc=5",
+      "description": "‘You can’t retrofit skin care’: Why this indie brand is betting on high-pressure processing biotech Cosmetics Design North America",
+      "pubDate": "Wed, 24 Sep 2025 07:00:00 GMT"
     }
   ]
 }
