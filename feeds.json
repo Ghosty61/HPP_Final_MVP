@@ -1,6 +1,13 @@
 {
-  "updated": "2026-03-28T02:12:34.712156+00:00",
+  "updated": "2026-03-28T05:21:38.247791+00:00",
   "articles": [
+    {
+      "source": "Food Safety UK & EU",
+      "title": "Food hygiene experts issue warning following recall and salmonella outbreak - Bournemouth Echo",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZEhCUmV2SUNCcndlMmowbnd3dllMNTZKcDlkSl9MUVJQQmd2RjhheHJzOExFbVlFTW53RTVzelNyNk9EdnpLNUdkTGlRQzJjMi1wY0JrZjh5dkt1NGh3Z0VsSUVCenIzSFU1blhYNXVqMzZZWUYzbWlXR2x5TjRJcTVMcHBBNEx4bGZmd3lWdTU1SHZ0UmFIdEEyZ3phdw?oc=5",
+      "description": "Food hygiene experts issue warning following recall and salmonella outbreak Bournemouth Echo",
+      "pubDate": "Sat, 28 Mar 2026 05:00:00 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Publisher's Platform: Seriously, Do Not Drink Raw Milk and watch out for Cheese",
@@ -58,13 +65,6 @@
       "pubDate": "Sat, 21 Mar 2026 00:00:28 GMT"
     },
     {
-      "source": "HPP Seafood",
-      "title": "Greenhead Lobster continuing to refine its premium lobster products - SeafoodSource",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXZMXzNQYVBNSGZZXzRBWGF4UnBjVjdSeVoyVE9xN2VYMUwzNGZoTTFYVUJ1S1FCVUNiTkt3WWhSX01wd3ZrMXNxbFlYMGs4aVBjeV9iMVBiX1JDQm1YU2hNbTZHemRnWGoxdzF4ZG1MWWZUN0k3aVhKVEtIWU1ZZUlrazRhY2h1VjN6ZVR0YjJXeXZPVjVuNngwUnRVemVOUUJud1dnR01wTHR0emxKc29QQjlWZw?oc=5",
-      "description": "Greenhead Lobster continuing to refine its premium lobster products SeafoodSource",
-      "pubDate": "Thu, 19 Mar 2026 17:59:51 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
       "title": "'Super greens' sicken, hospitalize dozens more in salmonella outbreak - USA Today",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2F3RG5TUGFCSkZDSXcxcXY4NW9fTnhZRkgzU1I4Vm1vZHhwNFM2MGVQeXNoR09tT1NXcE1zWE9Qdy1PS2NXcWVfcm5idExOcVliT3NhSlF3UnFiMnhVQ1FPMjJoZ29JU2Z2Q3pRY3M4VjBhRUZFbmpiaW5xYnVuRnM0b0tnTGFORjIzSWZ5T19BZ0kwRURKSHpjNUttaDA4QlZfdm5meEw1NkpGdlQ4ZDVUQkxxdw?oc=5",
@@ -79,25 +79,18 @@
       "pubDate": "Wed, 18 Mar 2026 14:02:29 GMT"
     },
     {
+      "source": "HPP Soups & Meals",
+      "title": "HS-SPME-GC-MS Reveals Flavor Enhancement in Low-Salt Chicken Soup - chromatographyonline.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaDVnNnJUaTdXX3FnNzB3cWxXa0R3dlYtdHVlSVJKekdqZlE0Mkc0NENwdXVNckUxM01IbFFuRmJ5aEFTaFFGWWxhSnNNc0lPUTZCclRldXhiR29ieVlYaFRaMEh5aXNINUZ2N3p4MGNFSkgwbmtIbS1DemlJX005eDdHMFZ2ODdCWGlVUmI4bnJVRVRVZ2NMbENOSG5xOExWTFY4SzQwd0s0MTg?oc=5",
+      "description": "HS-SPME-GC-MS Reveals Flavor Enhancement in Low-Salt Chicken Soup chromatographyonline.com",
+      "pubDate": "Tue, 17 Mar 2026 14:58:53 GMT"
+    },
+    {
       "source": "Salmonella Outbreaks",
       "title": "Salmonella Outbreak Linked to Moringa Leaf Powder - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
       "description": "Salmonella Outbreak Linked to Moringa Leaf Powder Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Here’s Why You’re Seeing So Many Food Recalls - Delish",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2NLbExLOVVfUHRJVlIwV1dPUU5aOEdrbFlReTZxT0FHcTJCMjQ4VGk2Q00xZFhCZzNCUWlYZVY5SlZlcW5oWEZ3ak1YM3lHNDUydkhqT1hXNVZUZS1VNnhxUjJldDBYdXhhbkZvREhwamRBTHZhOWVLdjlQQnhiZA?oc=5",
-      "description": "Here’s Why You’re Seeing So Many Food Recalls Delish",
-      "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "Urgent Tesco recall over Salmonella-tainted product — 48-hour health warning - Manchester Evening News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTXVCMFota2I1R2MwSTlXMjdQcUgwTWVNRzUxSl9qMDJfQTBJNG91XzUxOGwyMjhVMkhrbURjUTNPRjhjOGtYV0loNVh2MXJoWEtkODUtUExBRS1tMGZycUF4WGdiaFp1UWtVcnpkLWdHZnpTUFpqUzQ3XzRvUzkxR2dzRVlSTEJZU29rZWZZdlJIOHJaZnBJNWVpeTBuYkZSWlQzctIBqgFBVV95cUxNOHM0QXBhcnYwYlQyS21ubFdDTE52Rkd0S3ZfQUZkdnJ2MjI2ajJLUjdsTndjdE5ZVEZPTGNuWXgzamtVcllyODQyc3lMVnphUUZsSm9YTlFCZS1SbHVIYjYtSkVXcDdnNV96MGI1bkM4a3FCU3JQRll2dHZMYUpsNDNjNGRxQWhGUmRwdDE2WnZ1cHBadmdpbV95TFBvUnlCWnhxeDJocWhfZw?oc=5",
-      "description": "Urgent Tesco recall over Salmonella-tainted product — 48-hour health warning Manchester Evening News",
-      "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Equipment & Machines",
@@ -121,18 +114,18 @@
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "Rewriting the recipe: the next 25 years of innovation - foodanddrinktechnology.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMUstc3dfZjFaTW9YNFRhelRhQmRsSEFVVjFGc0tZZE1jMjZXWXhqaXc2VEd6M2pPOWxrSmU1SGNNNXBLTE9wLUcxZ2lTeFVqM19NZUNJeXJycVQxWGQ3UDV5MklIbEw2NHREa3h6Y1BtajhOTXlWZGhJY2JoU21BM0NGY0pxLWJiSTk1TWhSTGJSUEtE?oc=5",
-      "description": "Rewriting the recipe: the next 25 years of innovation foodanddrinktechnology.com",
+      "source": "HPP Juices & Beverages",
+      "title": "The pros of processing automation - Beverage Industry",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT0wwejZtUlBTU3NMOTZ4RUpTSWVUUzJId0N0MmJPVloxZmYycWlyN1czUW1QblNaWlA5UlJrd2ZuenAyVHpDOUxUVmQ0eGRSYmlkSmpqXzdKWkxIZ0RtNS12WkstZFdWTVFUN3VYNkF2U2g2dXRudWVTVGJRMGlOYU93?oc=5",
+      "description": "The pros of processing automation Beverage Industry",
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Extensively Drug-Resistant Salmonella: Moringa Powder (February 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOXA4S0pBZmg3bzZrRmZTQzFJODhKV3ZPcm83RWNSR0E1N3dTR28wTG9MYXc5M0plb1Y1aU9wMHQ5OVl3ZVZVRC15c2t1eUZCODlSZ2xCbExXSjVGYUJWWnVSZkVQT0dMQzlkRjE5NGU2aWNtdkFxOWZoUk1jODBVQW1hRTB2MG5oNWp6dlVBT1E1Qi02MVNVQ2tZM1FzMjZfcko0djRpbjNzUlpVMTlmMi14aTVmUUJ5ZVk3LUdQcGduZmQ4RGJwWXVrckFIdDFwbVRXSDFBbVVTZw?oc=5",
-      "description": "Outbreak Investigation of Extensively Drug-Resistant Salmonella: Moringa Powder (February 2026) fda.gov",
-      "pubDate": "Thu, 19 Feb 2026 08:00:00 GMT"
+      "source": "UK Food Industry",
+      "title": "Rewriting the recipe: the next 25 years of innovation - Food and Drink Technology",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMUstc3dfZjFaTW9YNFRhelRhQmRsSEFVVjFGc0tZZE1jMjZXWXhqaXc2VEd6M2pPOWxrSmU1SGNNNXBLTE9wLUcxZ2lTeFVqM19NZUNJeXJycVQxWGQ3UDV5MklIbEw2NHREa3h6Y1BtajhOTXlWZGhJY2JoU21BM0NGY0pxLWJiSTk1TWhSTGJSUEtE?oc=5",
+      "description": "Rewriting the recipe: the next 25 years of innovation Food and Drink Technology",
+      "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -178,9 +171,9 @@
     },
     {
       "source": "UK Food Industry",
-      "title": "£3m BBSRC and Defra funding to accelerate healthier UK food innovation - New Food magazine",
+      "title": "£3m BBSRC and Defra funding to accelerate healthier UK food innovation - newfoodmagazine.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM2ZhUFFzZ1pyZGRMWThoUlZyNERMMWE5U0t6Sk5KRFZSTTJoeFNFc2poX2ZpR3FRZ2tWX1Jlc3R5aUE3YmdXSVBoNEs0SjVtOVJ2U0ZvYjFtNlByNVlTNTdwb1JsS3pYRHRrNmNDS2FRUU43X1gtSnhZWkcxQkY4bzU3Y1BiZzJwRGc0NVltZ3J6TUVaWnhibHdpOUp5c2dOeG9FVFZ0UTREYmJxOEE?oc=5",
-      "description": "£3m BBSRC and Defra funding to accelerate healthier UK food innovation New Food magazine",
+      "description": "£3m BBSRC and Defra funding to accelerate healthier UK food innovation newfoodmagazine.com",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
     {
@@ -192,16 +185,16 @@
     },
     {
       "source": "HPP Soups & Meals",
-      "title": "Incidental food nanoparticles from freshwater clam soup stabilize Pickering emulsions - nature.com",
+      "title": "Incidental food nanoparticles from freshwater clam soup stabilize Pickering emulsions - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3M29MLW96aDdhaV81RWJmYlhTTHYxWER6SlcybnI2S2RjZHhjSjJXNjR6TGxIUUdqcXBnMzFxQkFOa1JiaVlxR1N1b1dMbzQ1RHlieGs0dUpjaGxIMXJj?oc=5",
-      "description": "Incidental food nanoparticles from freshwater clam soup stabilize Pickering emulsions nature.com",
+      "description": "Incidental food nanoparticles from freshwater clam soup stabilize Pickering emulsions Nature",
       "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Urgent food recall issued as salmonella found in treat - customer told 'do not eat it' - express.co.uk",
+      "title": "Urgent food recall issued as salmonella found in treat - customer told 'do not eat it' - Daily Express",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNV91Vy12aW1MRWkyaEpIS2Q5REt4VGRDcXJRa3lyX0l4Z0xOTkhhdll3ZHdWOFBCd1djWjVGTHRSMWFRZV9PQkM3RHlSMlkyX0g0NkQyQmdwOU1PSUJGdXpwNnQtY3pmSHBOVjlIVE9rNHViWUVmVk51OUpwbzNwRU5qLTlsRVo3OXdKcTl4NEZPemtvLWozTkYwZW8zNkN2TXJJeXUzbTXSAa4BQVVfeXFMT1NBWTJXSlEtbk5BYW5NRDg3MG1mS1Q3MkFIazF6d2FkVURURXVaZ2k0ajI4bGtsVEVzeUxXSk1FMHFlZEpIclJMdFRRelk5SXQ5TDYxbENWbHh2YmlFS3lqUmNiUnFYY2xDV2t2Y2tpdFVEUlZ0cElZcWUyZ09tR2ZVb2djRkJNdkNlSWpzeWRTMDZqVnoteEJNOXF5WFBFejU4R3VLRjkxTGEyOEdn?oc=5",
-      "description": "Urgent food recall issued as salmonella found in treat - customer told 'do not eat it' express.co.uk",
+      "description": "Urgent food recall issued as salmonella found in treat - customer told 'do not eat it' Daily Express",
       "pubDate": "Thu, 25 Dec 2025 08:00:00 GMT"
     },
     {
@@ -227,9 +220,9 @@
     },
     {
       "source": "HPP Meat & Deli",
-      "title": "High-Pressure Processing reverses the dark color or dark-cutting beef to bright red - MEAT+POULTRY",
+      "title": "High-Pressure Processing reverses the dark color or dark-cutting beef to bright red - meatpoultry.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzJuTUJEMjVscTBHVnRDWjdnR2hTM0dDWTk5ZkkwV2lXdzJwR0N0dmZaeHJ0OEhjNnRBbGNSUElDcHM1T3Y3emNBeGJrZDltMXJ3S0VydloyUXM1WWVxNzhKU1NSZGFEeUtKZ3ZtY2hLR3BSV2thNFNDMG13Tll2eTZSOEZ2aHZSMm51Q3doSGJtcHlpWlUwcm5OYU1sZjNkLXBhdzZoWDYzeFJDRzRvdWs2YjNGZnkzaXM5OE1DMDg0VUg3?oc=5",
-      "description": "High-Pressure Processing reverses the dark color or dark-cutting beef to bright red MEAT+POULTRY",
+      "description": "High-Pressure Processing reverses the dark color or dark-cutting beef to bright red meatpoultry.com",
       "pubDate": "Fri, 21 Nov 2025 08:00:00 GMT"
     },
     {
@@ -247,11 +240,11 @@
       "pubDate": "Wed, 12 Nov 2025 08:00:00 GMT"
     },
     {
-      "source": "HPP Soups & Meals",
-      "title": "I Make the Best Chicken Soup Ever—Here's My Secret - Allrecipes",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtdnJxTW9PYk9kWHVUVFFYUktkYm1MWWluWnUxdGVjYncyTnFVaEk2SXJEcU1RTW1hWXVBTS1rT3dyejB4SGlPeHNCaE5jbkNvS2ViVW81ZlRWSWlfTE8zV0NZbEJldmhoZWZfNnRfQ2hhNHZKSXlsUVJn?oc=5",
-      "description": "I Make the Best Chicken Soup Ever—Here's My Secret Allrecipes",
-      "pubDate": "Sun, 09 Nov 2025 08:00:00 GMT"
+      "source": "Listeria Outbreaks",
+      "title": "6 Dead in Multistate Listeria Outbreak Linked to Recalled Pasta Meals. Which Products Are Affected? - TODAY.com",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2hwS1d0SE1MMlE3MlE1Q1ZJUWVGN3c3UWoxdnFrSE1kd1VOVU9ZREFBS1NOeEdheUlyaFhGa3dWVlpsek05Y1ZoeFMzdXVKZWFPQldXcUFHVWZUa3BjOWdzLTE3VXFQZXBESDVvcHJtWnBZS1JRUHN6Q3BQZ2lEZDBBNmtwVXZiRXc?oc=5",
+      "description": "6 Dead in Multistate Listeria Outbreak Linked to Recalled Pasta Meals. Which Products Are Affected? TODAY.com",
+      "pubDate": "Wed, 05 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -287,13 +280,6 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83bXZkTUFiX3E1cmxOVEVPNlgxemRkTzQ1Q0o3OEhnVldwcUJMVjlLamNiY3NJd2VmckZVczFnTDYzUUQ4anFudHdCUllkNU5HYXNuN2UxSUVBa0pqTnFrbVE2dmgwWXYzdkF3V3hWeTlzcWJsa3gwdjBn?oc=5",
       "description": "More illnesses, deaths reported in listeria outbreak tied to recalled pasta salads, meals sold nationwide CNN",
       "pubDate": "Thu, 30 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "High-tech eyes and ears to boost speed and safety for first responder teams - research-and-innovation.ec.europa.eu",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVEc3YUFqLWZKMUwzbkJYWTNYSzJKNU4wUTl3b2NyYjNrZjNsMm5CU2JCQU15dWMybXhYMlFIUEpFTDRLUVJHaEZKcXUwNTdhLVFiSndPaGFLaXcwRnItZ1QwQ0tpZW5IZnRUY1pBM01kQVFvaE83MWZsWnAyaVFadV84a0JXeml2ejFIYXRMYnZqUm1TZk44YjF2SlF2cUhRVUpiYzdQSUN2MlBVSU5GcndzUzBCUWw5V2dHendkRm5LWXpralFvUGN3ZE1IZHczREZEaWMxQmRKOXVCVHpocDhmUDM2T2lzeXc?oc=5",
-      "description": "High-tech eyes and ears to boost speed and safety for first responder teams research-and-innovation.ec.europa.eu",
-      "pubDate": "Thu, 23 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -350,6 +336,20 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMUxuYkhXcGh0dmtRdUNudHBVNzZQRDdpdVA5WnR6MDdDMHB6VV9iOE9HSTNrenExM1dkU1g3bEE2cTE2b0ZRX1dPZUpWVEFkSXRYajFNLWdHbmN6bGR6WXhyNm1oNHJzZkVZa2stMzBIR2Z4UzRIZ3dqMmZWS0ZDTGtnemgxNVJUbEhtdml3MGpaeGFfbkxaVTRPX1dJOEdWSFN0LXJRZW5NSFhieWY1SFFpOFVXMXNqTkRZd05TR3I4c25YR0gzWURiY3J1Skhwank0UnBaNEx2MDdKY0tUTw?oc=5",
       "description": "‘You can’t retrofit skin care’: Why this indie brand is betting on high-pressure processing biotech Cosmetics Design North America",
       "pubDate": "Wed, 24 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Home Delivery Meals Linked to Salmonella Outbreak Across 10 States: What to Know - TODAY.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRE56NllfRkdYcy14OEtmakdQT0JlbUNKN1ZFdXdvSlJfendtSWdTZXNIUW5sOTVyYTA3QnV4Ym5Id2Z6ejIxazNqZGZTaHBjck9YU3hRUmlZdE5DODFUckdnUFBjdmluUUhaMHhUTEZpNHEybWhUbjFwY09MdTQ5LWR1YlFSZm1KSXpXd0xPejhzZHlNUFE?oc=5",
+      "description": "Home Delivery Meals Linked to Salmonella Outbreak Across 10 States: What to Know TODAY.com",
+      "pubDate": "Tue, 09 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Healthcare & Medical",
+      "title": "U of A researcher honoured as a 2025 IFT Fellow - thegatewayonline.ca",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSE1aUGZlanJfUC1sUDMwY3N6WU9hOWxwVF9WdS0xbEFrbXh3Q28yVXMzMHBWUmo0bGlNNV8tVGlXTHliZGlHRS1uTDdXNEVhaXNMTl9wZ3hmYUtoWjJ4OGdWV29rSTVmenFrTXkweDNtVFpRU3ZlSTVNaU1BT0NUTEFKVEkySTlVZ3pwcEZaYzZXcU9ua2xBR0o2OTBxZw?oc=5",
+      "description": "U of A researcher honoured as a 2025 IFT Fellow thegatewayonline.ca",
+      "pubDate": "Tue, 09 Sep 2025 07:00:00 GMT"
     }
   ]
 }
