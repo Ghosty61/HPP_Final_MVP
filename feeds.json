@@ -1,6 +1,27 @@
 {
-  "updated": "2026-04-03T02:27:47.634794+00:00",
+  "updated": "2026-04-03T05:42:28.058074+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Be sure to serve food safety at spring holiday meals",
+      "link": "https://www.foodsafetynews.com/2026/04/be-sure-to-serve-food-safety-at-spring-holiday-meals/",
+      "description": "Spring holidays bring families and friends together for Easter ham, Passover brisket, and Mother&#x2019;s Day egg-based brunch dishes. As consumers across America prepare these traditional meals for gatherings, following basic food safety practices can help reduce the risk of foodborne illness. &#x201C;Spring holidays are about cherished traditions",
+      "pubDate": "Fri, 03 Apr 2026 04:05:42 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Swedish hepatitis A outbreak expands with 11 sick",
+      "link": "https://www.foodsafetynews.com/2026/04/swedish-hepatitis-a-outbreak-expands-with-11-sick/",
+      "description": "Plus illness data for main pathogens in 2025",
+      "pubDate": "Fri, 03 Apr 2026 04:03:05 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "FDA increases enforcement of import rules for products with Salmonella, pesticides and heavy metals",
+      "link": "https://www.foodsafetynews.com/2026/04/fda-increases-enforcement-of-import-rules-for-products-with-salmonella-pesticides-and-heavy-metals/",
+      "description": "The Food and Drug Administration uses import alerts to enforce U.S. food safety regulations for food from foreign countries. The agency updates and modifies the alerts as needed. Recent modifications to FDA&#x2019;s import alerts, as posted by the agency, are listed below. Click here to go to",
+      "pubDate": "Fri, 03 Apr 2026 04:02:14 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Salad recalled because of Listeria contamination",
@@ -16,27 +37,6 @@
       "pubDate": "Thu, 02 Apr 2026 04:04:00 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Live chicks and ducklings as Easter gifts pose Salmonella risk",
-      "link": "https://www.foodsafetynews.com/2026/04/live-chicks-and-ducklings-as-easter-gifts-pose-salmonella-risk/",
-      "description": "Gifting live chicks, ducklings and bunnies as Easter presents remains a popular tradition, but public health officials warn the practice continues to fuel Salmonella outbreaks and animal welfare concerns. Salmonella outbreaks linked to backyard poultry, animal abandonment and potential ecological damage have prompted repeated calls for safer alternatives such as",
-      "pubDate": "Thu, 02 Apr 2026 04:02:26 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "FSAI issues Listeria guidance following outbreak",
-      "link": "https://www.foodsafetynews.com/2026/04/fsai-issues-listeria-guidance-following-outbreak/",
-      "description": "The Food Safety Authority of Ireland (FSAI) has published guidance to help businesses with their food safety management systems as well as detection and control&#xA0;of Listeria. It was issued as part of FSAI&#x2019;s response to recent outbreaks of listeriosis, including one in Ireland in 2025 and",
-      "pubDate": "Thu, 02 Apr 2026 04:01:46 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Publisher's Platform: Raw Farm has a history of outbreaks linked to its raw milk products",
-      "link": "https://www.foodsafetynews.com/2026/04/publishers-platform-23/",
-      "description": "The dairy's raw cheddar cheese is currently linked to an E. coli outbreak, but its owners refuse to initiate a recall.",
-      "pubDate": "Wed, 01 Apr 2026 22:48:10 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
       "title": "Drug-Resistant Salmonella Outbreak Linked to Moringa Supplements Ends, Root Cause Remains Unknown - Food Safety Magazine",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTGlfU3BWclhXVVBDV1Q5dmd6dTdnM1oteXlzT1pPN1JkWTNqMDNidVhIS3gxY2FwVmI3SFB2S2g5NTR3NWxDUFJyUGNUZF94aGZQY0RGMjJfSS1PYkJlMWhfQkRPOEw1N2tjVlhQc1VxaEI0aVVRWjM2enpUVmNxeF9pU2ZwdFhOMlFwbE9xRUM0MkpZVTlMVW9XdC1wRWNMMlRCMTYzVWtDN0hoNHUySDQ0enR5OWpvS0VvRW5iWlRBcy1kQlBrNzFXVGlEZC1FQ25fRWNR?oc=5",
@@ -45,9 +45,9 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Lawsuits filed in Moringa Powder Salmonella Outbreak - foodpoisonjournal.com",
+      "title": "Lawsuits filed in Moringa Powder Salmonella Outbreak - Food Poison Journal",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYjdjbVpRcUJCaVppSGFGcGtyS1p0Q3JwS01HbXQybDJmb0xIa0oyV1dzeXJaam5CblRSRlhtSVp6X3I2ME9PVW1qVWRXWHpFUjBleTlxbVJJdGVodDFoR01mdzdhS0x4NDZJZzhuUl90Mno3T3NnRl9KRjltWmVPSHVSSFhPVU9GMGlTcDFHSFlwWmpycXZyanJySlZuMVZUanQwMVVTMEVPQ1lxLUNjc1FFVGE?oc=5",
-      "description": "Lawsuits filed in Moringa Powder Salmonella Outbreak foodpoisonjournal.com",
+      "description": "Lawsuits filed in Moringa Powder Salmonella Outbreak Food Poison Journal",
       "pubDate": "Tue, 31 Mar 2026 20:29:28 GMT"
     },
     {
@@ -87,10 +87,10 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Food hygiene experts issue warning following recall and salmonella outbreak - Dorset Echo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeTZEZlE2STNybWJja0xxZWZzcV9HVFl1UXlyZjkwT2YzWDZiOEt2bFAzNVJhZUxVRXlOZ0dYUFlwajNvaDhwLXVPNmJOc3lCSVEzYzIzSFoxY1FMeTNyalViSU1XYU1aVTNBd24yeTVTUWkwRW5aenNrZmMySjVxVmFJcENCczFSTHkwOHEtcEl6a2gyYnZz?oc=5",
-      "description": "Food hygiene experts issue warning following recall and salmonella outbreak Dorset Echo",
-      "pubDate": "Sat, 28 Mar 2026 12:11:05 GMT"
+      "title": "Food hygiene experts issue warning following recall and salmonella outbreak - Bournemouth Echo",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZEhCUmV2SUNCcndlMmowbnd3dllMNTZKcDlkSl9MUVJQQmd2RjhheHJzOExFbVlFTW53RTVzelNyNk9EdnpLNUdkTGlRQzJjMi1wY0JrZjh5dkt1NGh3Z0VsSUVCenIzSFU1blhYNXVqMzZZWUYzbWlXR2x5TjRJcTVMcHBBNEx4bGZmd3lWdTU1SHZ0UmFIdEEyZ3phdw?oc=5",
+      "description": "Food hygiene experts issue warning following recall and salmonella outbreak Bournemouth Echo",
+      "pubDate": "Sat, 28 Mar 2026 05:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -119,13 +119,6 @@
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMWpFYUZveHVvay1yVVNMNWZxN0NDcnhEdnBvVDdueFBuZWhRVkticVM5andBeGtkc1ZBYzlBcmFGY0xHWGIzaF9UZVV5NUxsNjZ1ZkhHRV9TSk9fbzd0R1E2YXJCM2dMMWMtZmp5ZWxyb1FWRTRKWkV1WDN3WXlZeEg4TmwzUnc0ZDcxeWtWWDZuZ3NEOFJyZS1KNnJqdjFpOTZjVFlCNU8wcWpKdjNYM18yeDgzUUl4Qjl2MUVHUW8xc0Jzd2ZNZWxsNkwtYzExN04xTXktNUxaV05kcFdfMjVqTDNGZEhkaEFEMzJBaWFoam9zZjJ4LQ?oc=5",
       "description": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria Fuel Cells Works",
       "pubDate": "Wed, 25 Mar 2026 14:03:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "CDC Warns of Salmonella Outbreak Linked to Cucumbers; Recall Issued - Central Oregon Daily",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTGNKUmdnekx6WllRX0xaTnhFYThDVzlPVzM5bmVUQXBmMnE2Zm9WdVd5SGxaRjQ3azdRUVBCdlZJMHQ1SU9JeWs1Sjdac2JKVkxUaTdrWmZwaU1JMHFLaWF1TUNGTmM2M3NXNEdvTExlZW9GYzN6RTd4OFNSWUdwZWtwMmpmdE9lZG9tRTd6QmUteVNVYjM1THpqQURydzJ4dmhnR0I1cGc3RzcyRFJfaldPcVVOQ3FpSjFtWENWcUJhYUdqUllVb1djVjlTOWhXcHRjLXZvdHlDeVNnYlJKcmln?oc=5",
-      "description": "CDC Warns of Salmonella Outbreak Linked to Cucumbers; Recall Issued Central Oregon Daily",
-      "pubDate": "Sat, 21 Mar 2026 00:00:28 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -184,11 +177,25 @@
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "Recalled supplement linked to reported salmonella outbreak, FDA says - livenowfox.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV2NVWHRaeUNuT05CQ2VWcnF1eFdRQUpJaVRyQWJVZXprbzhLWlkwSDA3eDVaT1ZyTVgxX0FtRFlJb09Jd1NqRFRLVkhCTjhVanBpdDk3OXZhdXBGR29acjhwNHRxZGV5NkpzSmdZTkI4RjlybEkxLXI1S1lCd3gxc1IxakE3M0nSAYwBQVVfeXFMTy14Q19EYTYxVkVvNHE2WnhfUEd4T1BmRVVld0tKOXBFaEFOdWwyZ05XSXl6bDJ5MWxIcnRQQjdabGw1QWF1WUliek5PQ1ROVXJsUVZRVHF6dTdWMFY1Skd3M3RVb0U0Vm9jS2dodVoyMlVIQ0xSTUtlajJsNS1iR0JCZ3hmdnUwVHlqeXQ?oc=5",
+      "description": "Recalled supplement linked to reported salmonella outbreak, FDA says livenowfox.com",
+      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT"
+    },
+    {
       "source": "Listeria Outbreaks",
       "title": "Listeria Outbreak Linked to Prepared Pasta Meals - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVljR2g1SWZ1cDJkZE5xMkgxMVR6emh2WXplNFBSaUs3Ni1LaF9ySk54QmtwWDd2SWU5YUdfQnhfLWhJX1lQZmhJQ2xMZkU0MDlHeHQzR2xZQlNiWHhYUmQxcUZuZF93WjU3TnBTbDVyaVBVWXVGMlZyamFjLVc5elB4WTdGdjV2VGc?oc=5",
       "description": "Listeria Outbreak Linked to Prepared Pasta Meals Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Thu, 12 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Healthcare & Medical",
+      "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXhUbEgxOUMycF9EN0RUdmxwWWt1WUVyYU1iUnQ0R2FCTlZZcTlFUEMwaG45Z0lGZHpQNGpXTFJEcW9HNm1RN1lSNzZFX2M4QnllM3NmMXc2UVRMTWFvNHM2dXkyc01pNHJ5MlpvWTNMQWJDdUxvc1I5NWR2NFIzOS1vWGFNMUtiZ2d2NVRUVHVTTk9BdENMUmZkcjZZc2VwUXowOGhXWWRvcGQ5T2wtYjRhbTNzSlFrUHZXWmNLWFYzUVlNUE1uTG1xYk5EUDFHQkVsSlJFcHhDN3BTM0dWcnp6MVNOc1VUbFB1ZUJMYzhMenJRNkRkeS1maTlYNGozbEthVW1B?oc=5",
+      "description": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility PR Newswire",
+      "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Dairy",
@@ -198,11 +205,11 @@
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "HPP Innovation & Research",
-      "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXhUbEgxOUMycF9EN0RUdmxwWWt1WUVyYU1iUnQ0R2FCTlZZcTlFUEMwaG45Z0lGZHpQNGpXTFJEcW9HNm1RN1lSNzZFX2M4QnllM3NmMXc2UVRMTWFvNHM2dXkyc01pNHJ5MlpvWTNMQWJDdUxvc1I5NWR2NFIzOS1vWGFNMUtiZ2d2NVRUVHVTTk9BdENMUmZkcjZZc2VwUXowOGhXWWRvcGQ5T2wtYjRhbTNzSlFrUHZXWmNLWFYzUVlNUE1uTG1xYk5EUDFHQkVsSlJFcHhDN3BTM0dWcnp6MVNOc1VUbFB1ZUJMYzhMenJRNkRkeS1maTlYNGozbEthVW1B?oc=5",
-      "description": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility PR Newswire",
-      "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
+      "source": "UK Food Industry",
+      "title": "Registration opens for Food, Drink & Hospitality Week 2026, with Food and Drink Innovation at its core - Restaurant Industry Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVgzMVpmRU1IeVlNZlFVdnNEZlFKVGoxT3VXZHBPY2xyNjZ4Q1AwT1ZtUXZFT3M4Q3RRblU5cHE4RHc4T0RwZHBnd2Q1Yzc1Z2wzNl9iSWFZOGREVS1HaG1oVndrZ29YTERPV1dMcDlNdGhtRW9QR3RZRUZVXzY5ODB1NmlseUtSUFJjcHNjeTJ6aXNnZnE1NTE2LUdDZUVLbzEtOVV2YlNLR3JIUXBubFZicklFVV9GVndEb3AtNDVqR0gzcXRSWnBGYmJQZUtFbFV0T0dQbXVYTUU?oc=5",
+      "description": "Registration opens for Food, Drink & Hospitality Week 2026, with Food and Drink Innovation at its core Restaurant Industry Magazine",
+      "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Soups & Meals",
@@ -226,11 +233,18 @@
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "£3 million investment to drive diet and health innovation - Wired-Gov",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjRvbDFCeDJRZXMzcWFJMUFXV1FEdTFaY1ZCX1lnYzZxNjVEcFdNODhHWjRqc1ZLNk5HYTQ0UEhpX1Zwc2ZTRHlQMW9za1JaWi1LLVFEX1VQUnZVSzF4UEYtOWZnZ0dPVnlVUjhodmppT1NlU1pWcG5JOXFKd2k1VUlDck1sU2Y2bmliTXYxTzdSNW5PZkFySzNQMXBfXzZ0Ui03ZFBHdGxRUXY3MXlzd3FVSjhhak5rR2lBOXpNSjY?oc=5",
-      "description": "£3 million investment to drive diet and health innovation Wired-Gov",
-      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
+      "source": "Salmonella Outbreaks",
+      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
+      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
+      "pubDate": "Thu, 29 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Cosmetics & Beauty",
+      "title": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUTcycmlFc1ROWGhqNVl6ZHdOVGFhVnNtY2hZdnZuc1FFdUlWVnVRRnJTdV9QdGlrdWJnTFAzYnNEUXozcUMyY1BsMHM3My1FZmJMZTdFU2xWOGdjem9pandJZ1Z1djBmR3dfbDRxUFc1ZmRiSnk2cjBuc1BQb2VyLXZpTHZ6MG5GUURqMzJNeS1KRDVPZkt3cWFRTmxlS1JHTVRGY0RWMWZOUUt6TTVHcFY1OU12OE5nQWZ0dmZ4LTJRaVViS1duX0wxTGFHV2pjdkNLOUJJZHJyZHJqSzAwRWUxRjNUNlRsVkdKQnlEaHRXTTd2OFRrQkJSc0xVdw?oc=5",
+      "description": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio The News Journal",
+      "pubDate": "Wed, 21 Jan 2026 15:34:13 GMT"
     },
     {
       "source": "HPP Soups & Meals",
@@ -282,13 +296,6 @@
       "pubDate": "Wed, 12 Nov 2025 08:00:00 GMT"
     },
     {
-      "source": "HPP Soups & Meals",
-      "title": "I Make the Best Chicken Soup Ever—Here's My Secret - Allrecipes",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtdnJxTW9PYk9kWHVUVFFYUktkYm1MWWluWnUxdGVjYncyTnFVaEk2SXJEcU1RTW1hWXVBTS1rT3dyejB4SGlPeHNCaE5jbkNvS2ViVW81ZlRWSWlfTE8zV0NZbEJldmhoZWZfNnRfQ2hhNHZKSXlsUVJn?oc=5",
-      "description": "I Make the Best Chicken Soup Ever—Here's My Secret Allrecipes",
-      "pubDate": "Sun, 09 Nov 2025 08:00:00 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "6 Dead in Multistate Listeria Outbreak Linked to Recalled Pasta Meals. Which Products Are Affected? - TODAY.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2hwS1d0SE1MMlE3MlE1Q1ZJUWVGN3c3UWoxdnFrSE1kd1VOVU9ZREFBS1NOeEdheUlyaFhGa3dWVlpsek05Y1ZoeFMzdXVKZWFPQldXcUFHVWZUa3BjOWdzLTE3VXFQZXBESDVvcHJtWnBZS1JRUHN6Q3BQZ2lEZDBBNmtwVXZiRXc?oc=5",
@@ -303,17 +310,17 @@
       "pubDate": "Tue, 04 Nov 2025 08:00:00 GMT"
     },
     {
-      "source": "Hiperbaric",
-      "title": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdFZlWGhqdzd2Qk81Q1kyN2tXc2M1VGVMdDBrM19kNkt6S3pZbWkwLVR6WUFYcUVLVTRtdEVsR2M2TzQzN3FXOVpGOUxlejdTd2VqdUhyekZuSnVCU0xXY0NSZklEcFphM3hwSS1PY1duUkJBeFo4dzUzWHRqX2YzVzB4a2tTRmZwS05SRk5jdlduVWlPUTRzVXN0em9INjhHX3hTaUs4dVo4RjRJMlhfM2RTaHJncHNUZUpTV3FNV1QzMWxGVkdfQmcxcjI1UWl3UW42djBsa3dUNklQdE83TmxkbnNQcnQwbUstTTh2SnRPb1hBZ3ZqTV9LNURDMFV1eklubElBVzhQM0lqM1Zv?oc=5",
-      "description": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership PR Newswire",
-      "pubDate": "Mon, 03 Nov 2025 08:00:00 GMT"
-    },
-    {
       "source": "Quintus Technologies",
       "title": "Second Hot Isostatic Press to go live at Wallwork in time for Formnext - Aerospace Manufacturing magazine",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS2hObS14cmN1VFc4WEx3SkN6enFzOXFycVNZeDVEUTg1MTRiejd5T1lYcWdkOE9rcEhUc2tVUDRQMUc3cjVSUTRqUmN2bnVjZVpRdFc3d0p1SWZITXlxWTFqNEVfMG1ubzlVeDFCRXV0UHVwS0VBbFRNMTI3UXMwWUQwWFZ3OFBsXzhHQVA3dWRld0R2dHI5R081UQ?oc=5",
       "description": "Second Hot Isostatic Press to go live at Wallwork in time for Formnext Aerospace Manufacturing magazine",
+      "pubDate": "Mon, 03 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Equipment & Machines",
+      "title": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdFZlWGhqdzd2Qk81Q1kyN2tXc2M1VGVMdDBrM19kNkt6S3pZbWkwLVR6WUFYcUVLVTRtdEVsR2M2TzQzN3FXOVpGOUxlejdTd2VqdUhyekZuSnVCU0xXY0NSZklEcFphM3hwSS1PY1duUkJBeFo4dzUzWHRqX2YzVzB4a2tTRmZwS05SRk5jdlduVWlPUTRzVXN0em9INjhHX3hTaUs4dVo4RjRJMlhfM2RTaHJncHNUZUpTV3FNV1QzMWxGVkdfQmcxcjI1UWl3UW42djBsa3dUNklQdE83TmxkbnNQcnQwbUstTTh2SnRPb1hBZ3ZqTV9LNURDMFV1eklubElBVzhQM0lqM1Zv?oc=5",
+      "description": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership PR Newswire",
       "pubDate": "Mon, 03 Nov 2025 08:00:00 GMT"
     },
     {
@@ -342,13 +349,6 @@
       "title": "The key to dairy foods safety - Dairy Foods Magazine",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SVklCRXdLbHc5enNib2R6am1UdHA5VDhNeW9qd290OXNNUkRnd1owcWxBcGhPb1UtY2FXQnpQbERTdzlNX0d3UjNIbzRyLWd6VDR2X1BYXzV5LTFscXc0VVozMGpDR1d1S09QRHprNXhkZlg2bGZPeUJ6aw?oc=5",
       "description": "The key to dairy foods safety Dairy Foods Magazine",
-      "pubDate": "Fri, 10 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Soups & Meals",
-      "title": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong - HuffPost UK",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmNOYlI3cE1Ubk5BaXRtWWpnQkFsLVhvN19LTFRmYnBHLXVPSU51ZmFacnltV25ZWmk5dEt1ZkhzX2NvUlBfY0p6ZGtOVmpHblNWZzBLYVp0YTVWS0lvWXB3V1FxSnZEaV92OVJDbUh5RnRSVmFaQ1hYTU5QelBOYWV5VE5nRWR1S0JFQ19xX2Nta09XdkU0R0pBZlFxWUVFWjhKdE0tOA?oc=5",
-      "description": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong HuffPost UK",
       "pubDate": "Fri, 10 Oct 2025 07:00:00 GMT"
     }
   ]
