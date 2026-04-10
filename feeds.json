@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-10T02:38:00.914573+00:00",
+  "updated": "2026-04-10T05:58:10.349440+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Spanish scientists investigate outbreaks affecting children",
+      "link": "https://www.foodsafetynews.com/2026/04/spanish-scientists-investigate-outbreaks-affecting-children/",
+      "description": "Scientists have investigated how to minimize the risk of exposure to a compound involved in almost a dozen outbreaks affecting young children in Spain. Several outbreaks were linked to meals with chicken served to children younger than 3 years old that tested positive for biogenic amines, such as histamine and",
+      "pubDate": "Fri, 10 Apr 2026 04:05:44 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Outbreaks fall in Hong Kong in 2025",
+      "link": "https://www.foodsafetynews.com/2026/04/outbreaks-fall-in-hong-kong-in-2025/",
+      "description": "Illness after eating oysters continues to be a problem",
+      "pubDate": "Fri, 10 Apr 2026 04:01:55 GMT"
+    },
     {
       "source": "Food Safety UK & EU",
       "title": "Recalls and Alerts: April 9, 2026 - eFoodAlert",
@@ -35,20 +49,6 @@
       "link": "https://www.foodsafetynews.com/2026/04/salmonella-outbreak-continues-with-68-confirmed-patients/",
       "description": "The FDA is continuing to investigate an outbreak of Salmonella Newport infections that has sickened at least 68 people. The outbreak was first reported by the Food and Drug Administration on Feb. 25. At that time the agency reported 38 confirmed patients. The source of the outbreak is not yet",
       "pubDate": "Thu, 09 Apr 2026 04:04:09 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "STOP Foodborne Illness to spotlight food safety culture at Food Safety Summit",
-      "link": "https://www.foodsafetynews.com/2026/04/stop-foodborne-illness-to-spotlight-food-safety-culture-at-food-safety-summit/",
-      "description": "By STOP Foodborne Illness As the industry prepares to gather in Rosemont, Illinois for the 28th annual Food Safety Summit, a longstanding partnership with STOP Foodborne Illness (STOP) will once again take center stage.",
-      "pubDate": "Thu, 09 Apr 2026 04:03:43 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "WHO urges action ahead of estimates release",
-      "link": "https://www.foodsafetynews.com/2026/04/who-urges-action-ahead-of-estimates-release/",
-      "description": "Updated foodborne illness estimates will be published in June",
-      "pubDate": "Thu, 09 Apr 2026 04:01:57 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -149,13 +149,6 @@
       "pubDate": "Wed, 18 Mar 2026 14:02:29 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Salmonella Outbreak Linked to Moringa Leaf Powder - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
-      "description": "Salmonella Outbreak Linked to Moringa Leaf Powder Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Equipment & Machines",
       "title": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 - Fortune Business Insights",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaExyNHUyeE9rM0ZPN2dtQk0yMzllUTFZQnBYMnE5SkxXZGpLVlZwTk54eWY2eFF6S3RZWFFUcUR1Yjk5WXVaUGRIQV8zN2d4Y2doUzNPM1RiVkxjdy0yNDExTV9pN1hybUpYbE1iSU5pcnlMcUN0TGZJTUZpc28yR2VEU1M0M0dGc0k2a2lUVjcwQS1OZlFB?oc=5",
@@ -205,6 +198,13 @@
       "pubDate": "Thu, 12 Feb 2026 08:00:00 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "New deaths, hospitalizations reported in connection with listeria outbreak tied to ready-to-eat pasta - ABC News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVHA4VUZ2TFlHeGNyaUU1SlpWbDZydmd2SjFEbFBpbG15QUJnMVpvZUwxc00ycFh6ZlFFZjVwZlZ6d1NnendSMENRV3N0MVphLTdLTElSRVI5U25ZdUlCNXJya2R1bGt3Zk1VTFBtRk8xZ01zWVVhWENtaVktb1pnR3M3UVJON0NCN2VVd2ZXYjRIdEVoZlJCbjV6ZU9nVkd5R0ZJaURTcDJDN1hHMC0yQjViaUpvM1gwcFHSAb8BQVVfeXFMTUpJSjc1VzRYWlprX3BiR2ptMm9JLUozYk1KNU9IS3FWYmZ5U1lWUW1UWTV0RG1NRDFERThnWm40MVVEUU9SWUhHbFF5S2hJVk55ZHBNRWNLQnlGMzN2NHRxQmpwampxY0N5aXFnYk9ZY0pPU1dSbFRKdjhEVFVybmIzYmlISGJ5NnNLMEhhZ2Viel81MFdMMC1BZ2NxQllJMWpBUTFiOXE0alZtUGI3UHBDbTBYWUk5MzNTQ0toWG8?oc=5",
+      "description": "New deaths, hospitalizations reported in connection with listeria outbreak tied to ready-to-eat pasta ABC News",
+      "pubDate": "Wed, 11 Feb 2026 18:56:39 GMT"
+    },
+    {
       "source": "HPP Equipment & Machines",
       "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXhUbEgxOUMycF9EN0RUdmxwWWt1WUVyYU1iUnQ0R2FCTlZZcTlFUEMwaG45Z0lGZHpQNGpXTFJEcW9HNm1RN1lSNzZFX2M4QnllM3NmMXc2UVRMTWFvNHM2dXkyc01pNHJ5MlpvWTNMQWJDdUxvc1I5NWR2NFIzOS1vWGFNMUtiZ2d2NVRUVHVTTk9BdENMUmZkcjZZc2VwUXowOGhXWWRvcGQ5T2wtYjRhbTNzSlFrUHZXWmNLWFYzUVlNUE1uTG1xYk5EUDFHQkVsSlJFcHhDN3BTM0dWcnp6MVNOc1VUbFB1ZUJMYzhMenJRNkRkeS1maTlYNGozbEthVW1B?oc=5",
@@ -217,6 +217,27 @@
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42d2NVQXpzcmh1Sjk0OGF3cngwdTNVdlJwZ0h5cE02UEtRZ0Rzb0VNa2pTcmllYmdyanJGejhqZEZCeUpyUGMtLUZsYXRxTnlMaS1ESnl2azk?oc=5",
       "description": "Milk | Pros, Cons, Debate, Arguments, Dairy, Nutrition, & Health Britannica",
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Registration opens for Food, Drink & Hospitality Week 2026, with Food and Drink Innovation at its core - Restaurant Industry Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVgzMVpmRU1IeVlNZlFVdnNEZlFKVGoxT3VXZHBPY2xyNjZ4Q1AwT1ZtUXZFT3M4Q3RRblU5cHE4RHc4T0RwZHBnd2Q1Yzc1Z2wzNl9iSWFZOGREVS1HaG1oVndrZ29YTERPV1dMcDlNdGhtRW9QR3RZRUZVXzY5ODB1NmlseUtSUFJjcHNjeTJ6aXNnZnE1NTE2LUdDZUVLbzEtOVV2YlNLR3JIUXBubFZicklFVV9GVndEb3AtNDVqR0gzcXRSWnBGYmJQZUtFbFV0T0dQbXVYTUU?oc=5",
+      "description": "Registration opens for Food, Drink & Hospitality Week 2026, with Food and Drink Innovation at its core Restaurant Industry Magazine",
+      "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Soups & Meals",
+      "title": "Bowen Yang says watching SNL after his exit is 'totally bizarre' but 'ultimately fun' - The Express Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVWF3ZU53Rk12bWZfWXBWU21lTXFYTFlDT2tmMk5hT2tYS3oxSUJ4WGFEWURHcUxmbUhpRHNQX2ZoWUpXV29PX0k5MmoyN2R5ZnJvcm1UX2VwZ2syN1U5RVhSYVpMeEtQcTB6cEE2VFNMa0t5Q3lZZHJoUmpfVjduS3VsRE1tSmZaSG8wcXROMldURF90R3BXWGdGRG5sS3h1ZEJ1LVdpdW1RbXJlc3h6UmdjRG92NHpCaVHSAcIBQVVfeXFMUHQ5OWFuZV9IUlRzY244WTduTHFUOVRTSG5GNlNldHdtc0hUeGR1cjZWYmdBUEwxckJ4U1paQ2xwWTdwc2YxQzZIWU13WDdzaFlDemR5V0d1S3FGUl9EbVNSZGhpWUxuXzdRX3pYaFBsSFE3V242WUNDYXV2cGhLVHBrcmFBTC1yX1V0TUlRQXUxbDlTUW5KUVNnT0Y2ZWtoak8tdnBtMDRYbkcxb2hvWUxEZy1DOWpzYVhXMm1CellXTFE?oc=5",
+      "description": "Bowen Yang says watching SNL after his exit is 'totally bizarre' but 'ultimately fun' The Express Tribune",
+      "pubDate": "Sat, 07 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Report Raises Concerns About U.S. Food Recall Timeliness, Transparency in 2025 - Food Safety Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa0t0dWtyMUEwRUc1ZVJVcUVhLWVqeE1UcnpNWXFFQmh4WENwYVEtcTF5dkpROFFMQjE3Z3ZRUlBhLW5SWmxPUDZYQXR1QUU0YVU2TU91T3FxcnRIbXdfUlJKT2lweldjXy1XZTU3a0tfN09yMG5tRkhPenNDMlhhYjlqRV9MT0JtTVZQVV9CbUJYR3EzNVB4WU1UOXFySS1iMXduSzJBdTFXanR3NVRSZmt4MDdNdUxqWlE?oc=5",
+      "description": "Report Raises Concerns About U.S. Food Recall Timeliness, Transparency in 2025 Food Safety Magazine",
+      "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -261,13 +282,6 @@
       "pubDate": "Tue, 09 Dec 2025 08:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "Ingredients under pressure: What HFSS means for NPD - Food Manufacture",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVZrV3oyajAyMGNRaXBYbVBhYWU0NXVqU2JQME5YWWxCUzlTN3dzZHV6ZVVWU1ZibEc3WUdiMzlXTWFaNms2Y0VDODhiT3hrRmdsdi1BYW1hcVBNNTVscFRKd1Zwc3hEOURCeTJjNUJmZzZlZURKc3JnOFd3dlBvbl9fUUlMdlM1Smg2TkFsZkZVWEJjVVRCVjFJRTVMUHNhWTNiU2VwX25WYUlxdi15YU0wbGM?oc=5",
-      "description": "Ingredients under pressure: What HFSS means for NPD Food Manufacture",
-      "pubDate": "Wed, 26 Nov 2025 08:00:00 GMT"
-    },
-    {
       "source": "Hiperbaric",
       "title": "Universal Pure Expands HPP Capacity with New Hiperbaric 525i System at Pennsylvania Facility - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNW14WS12LXVKNkdJc3dsTzNScDdjb1Nscks3Y1lHRlJKa2FFTHBOUUNQbnJpd1VOR2U5dk9FOHVZb3NDcDZna3FyWlRfOUZMRkZKVW4yZXdJOElKLXdyZEdGWi1lYlRXNzVxNzJpRC1hblU0V0duZXJ2SEdLYUY3TThaUnZmNklBSm10VWFfQU1OT1lkNzhtNTk5aXZQNmlNZFFqNzJQbXAxVWxoblNPLXdic1pBLTBnc3FzNUxwa2lTSGdfekc5eEIzWGtuWVF1TW9FLUVhYVZwNlo3VVVDdURn?oc=5",
@@ -280,13 +294,6 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzJuTUJEMjVscTBHVnRDWjdnR2hTM0dDWTk5ZkkwV2lXdzJwR0N0dmZaeHJ0OEhjNnRBbGNSUElDcHM1T3Y3emNBeGJrZDltMXJ3S0VydloyUXM1WWVxNzhKU1NSZGFEeUtKZ3ZtY2hLR3BSV2thNFNDMG13Tll2eTZSOEZ2aHZSMm51Q3doSGJtcHlpWlUwcm5OYU1sZjNkLXBhdzZoWDYzeFJDRzRvdWs2YjNGZnkzaXM5OE1DMDg0VUg3?oc=5",
       "description": "High-Pressure Processing reverses the dark color or dark-cutting beef to bright red MEAT+POULTRY",
       "pubDate": "Fri, 21 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "6 Dead in Multistate Listeria Outbreak Linked to Recalled Pasta Meals. Which Products Are Affected? - TODAY.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2hwS1d0SE1MMlE3MlE1Q1ZJUWVGN3c3UWoxdnFrSE1kd1VOVU9ZREFBS1NOeEdheUlyaFhGa3dWVlpsek05Y1ZoeFMzdXVKZWFPQldXcUFHVWZUa3BjOWdzLTE3VXFQZXBESDVvcHJtWnBZS1JRUHN6Q3BQZ2lEZDBBNmtwVXZiRXc?oc=5",
-      "description": "6 Dead in Multistate Listeria Outbreak Linked to Recalled Pasta Meals. Which Products Are Affected? TODAY.com",
-      "pubDate": "Wed, 05 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -308,13 +315,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdFZlWGhqdzd2Qk81Q1kyN2tXc2M1VGVMdDBrM19kNkt6S3pZbWkwLVR6WUFYcUVLVTRtdEVsR2M2TzQzN3FXOVpGOUxlejdTd2VqdUhyekZuSnVCU0xXY0NSZklEcFphM3hwSS1PY1duUkJBeFo4dzUzWHRqX2YzVzB4a2tTRmZwS05SRk5jdlduVWlPUTRzVXN0em9INjhHX3hTaUs4dVo4RjRJMlhfM2RTaHJncHNUZUpTV3FNV1QzMWxGVkdfQmcxcjI1UWl3UW42djBsa3dUNklQdE83TmxkbnNQcnQwbUstTTh2SnRPb1hBZ3ZqTV9LNURDMFV1eklubElBVzhQM0lqM1Zv?oc=5",
       "description": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership PR Newswire",
       "pubDate": "Mon, 03 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Nationwide listeria outbreak tied to pasta recall results in 27 illnesses, 1 Oregon death - OregonLive.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRk4xT0RaNXpzTUEtNk15Tk43d0hqay04TkhuTUVKN2l2elNsR1dicWRfeG9HcnFKSUtCejdMMnJUY3ZvXzlpcTVjRnpzQlkxRXRKeFdFSTRYU2w1VGVBMHIxc091WTVROUhxSEc5dXpHbE1zOGp3MlY2Q2VxZTk0aVJ0Z2VOSzNpWWRSMGt6dXhUR3hhX01pb2drYmg4Y3RBWnFXWTBtV0oxbG0xRXFTZHVQYmhFeExrMHZlLWtIUXBVMmRBUHhxbnNVZmRXclQ30gHkAUFVX3lxTE0xdk0yUzlGc1lSQWlyZURkMkJKNmtRNExzV0lfYzRHQVA5QlNCUTZpQXlXNDRpNFc1cUhzOU52Rm15QkdaTDNRZUh0a25qaVlTTFZ1VlRtTm1lVkROYnBQOGVsMHB0U1QwbjJlN0pZSzNqVVJvZDZRblVhUnl3OHpWeGk0QWlXbUJyMTk3YllPbndFSG9FRTJkSWs3cXFjSDBING0zbEdWOGFyUlVlNjc4bDlXcWgxeXpvNk1BMERlRHZOQmNsd1FuTWpkMkJlZ2dudW91QmJGVXBER0NERDhwOEY4Uw?oc=5",
-      "description": "Nationwide listeria outbreak tied to pasta recall results in 27 illnesses, 1 Oregon death OregonLive.com",
-      "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
