@@ -1,11 +1,11 @@
 {
-  "updated": "2026-04-10T07:54:32.193784+00:00",
+  "updated": "2026-04-10T09:11:05.226743+00:00",
   "articles": [
     {
       "source": "Food Safety News",
       "title": "Spanish scientists investigate outbreaks affecting children",
       "link": "https://www.foodsafetynews.com/2026/04/spanish-scientists-investigate-outbreaks-affecting-children/",
-      "description": "Scientists have investigated how to minimize the risk of exposure to a compound involved in almost a dozen outbreaks affecting young children in Spain. Several outbreaks were linked to meals with chicken served to children younger than 3 years old that tested positive for biogenic amines, such as histamine and",
+      "description": "Testing indicated high concentrations of biogenic amines",
       "pubDate": "Fri, 10 Apr 2026 04:05:44 GMT"
     },
     {
@@ -261,13 +261,6 @@
       "pubDate": "Tue, 23 Dec 2025 08:00:00 GMT"
     },
     {
-      "source": "HPP Soups & Meals",
-      "title": "6 Rules for Canning You Should Never, Ever Break - Better Homes & Gardens",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFZNbW0wQ05lcHdEZEpxSlBHYWZtN3k3Z3hOZjRhZ2ZfX0owR0tpenhMY3RCQVdON2xtYS0xUWlJaERUa1Z6cmtQbFo2UVN6NEVReEZQUk1EQmppTWFBX1dTQzBqaS0yb1BaSndrVnZBY3dUTUxWUG02dW1jdnA3QWRudGRKSVpwdG9GTmNtUFplMWZGRGp2d2VCYlFfU00?oc=5",
-      "description": "6 Rules for Canning You Should Never, Ever Break Better Homes & Gardens",
-      "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT"
-    },
-    {
       "source": "Quintus Technologies",
       "title": "Quintus unveils pilot-scale warm isostatic presses for all-solid-state battery production - Charged EVs",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWYtdVQwYl80R1Ytem9hTzNxNl9sMHFaVVlXa1h3aG9CakY5SnZEZ3NibThISEI0WmNYYXg5TG1wYzd6c0Z0MWlLbUk4UGxqQndKQW8yNlNrcGlNcGEzNnM3eEpLTW8tdy1HUnVSV1dIaTB4MDlDSEtUOWJiSkoxdnozZHJnM3BVS0huUEZ6WjNKZUczLWtUQW1xVW1KR1JPalE5RElBeWpDcFdTNXliM0REZXNxUFV0QjItWW5yYw?oc=5",
@@ -287,13 +280,6 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzJuTUJEMjVscTBHVnRDWjdnR2hTM0dDWTk5ZkkwV2lXdzJwR0N0dmZaeHJ0OEhjNnRBbGNSUElDcHM1T3Y3emNBeGJrZDltMXJ3S0VydloyUXM1WWVxNzhKU1NSZGFEeUtKZ3ZtY2hLR3BSV2thNFNDMG13Tll2eTZSOEZ2aHZSMm51Q3doSGJtcHlpWlUwcm5OYU1sZjNkLXBhdzZoWDYzeFJDRzRvdWs2YjNGZnkzaXM5OE1DMDg0VUg3?oc=5",
       "description": "High-Pressure Processing reverses the dark color or dark-cutting beef to bright red MEAT+POULTRY",
       "pubDate": "Fri, 21 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Soups & Meals",
-      "title": "I Make the Best Chicken Soup Ever—Here's My Secret - Allrecipes",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtdnJxTW9PYk9kWHVUVFFYUktkYm1MWWluWnUxdGVjYncyTnFVaEk2SXJEcU1RTW1hWXVBTS1rT3dyejB4SGlPeHNCaE5jbkNvS2ViVW81ZlRWSWlfTE8zV0NZbEJldmhoZWZfNnRfQ2hhNHZKSXlsUVJn?oc=5",
-      "description": "I Make the Best Chicken Soup Ever—Here's My Secret Allrecipes",
-      "pubDate": "Sun, 09 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -350,6 +336,20 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNDlqSEdueVZFbHIxU1ZUUjM5WGh5OGxBT1dvUkdPQmRPa3VsY25ISEpPSjV0WGticnh1Zk1yVjViNURINHYzS1o4WGZucE9naVJ0c1JLdGZvRi1nY0doVTFURFZTeWlYOG8ydWpFR0xyMkxmbTNMVGxnWEwtYnAwTGV4WlZWWE50WkVuQVdLWnVYQmwyMDJlR1I5TFAtb0ZOZkI5Y1pFOE15TVB2QWpQWWh4X0g4bVJPb0JPLQ?oc=5",
       "description": "New HPP tolling facility in North Carolina to feature Hiperbaric system Pet Food Processing",
       "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "What to know about the listeria outbreak tied to precooked pasta - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlJnazBSd2FuVGlNeWxHVjBqWWhSWmdTT25PMHFYeDVRMHBOczBZOFp2Z0hVTW9IYmNNdXRNbjkwUDZHZGpQS0JtdTdmUnVmeGZicGY2ZVF5QjRoNWRCODh6QURRdGQ4S1VzQXlRbUliNUFDTHRuUkNCS0N6RGx4SUMzNTlYWFFZTDVRSWtTcGV4RGFaY3Y1U3B5Y3VRLUk3QkhNWlFJU3VEV1QwZmRkY1Zoc2c?oc=5",
+      "description": "What to know about the listeria outbreak tied to precooked pasta NBC News",
+      "pubDate": "Wed, 08 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric",
+      "title": "Hiperbaric to Install 30 HPP Machines in 2025 - foodengineeringmag.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQajhvMENNTkQ4Q2t3UUNTbURRZkc1Q0lkN2lnM0ppeWtWOC1tVXdERFpHa3FhaV9qUXFXTlItcGFJWmRFdEd5aGVIOFg3SE9va2R3bm5hTXdUNjhyR3o0OFViMVJlU2M0Y3VyQ190dEM0VlMzMlJ6YWl3UjRCWjhmQmZXRlpEVmNWdDlxR3Fyb3k2UFl6eFA2QUJ2QzM?oc=5",
+      "description": "Hiperbaric to Install 30 HPP Machines in 2025 foodengineeringmag.com",
+      "pubDate": "Mon, 06 Oct 2025 07:00:00 GMT"
     }
   ]
 }
