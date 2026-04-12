@@ -1,13 +1,6 @@
 {
-  "updated": "2026-04-12T07:15:54.897971+00:00",
+  "updated": "2026-04-12T08:50:58.776242+00:00",
   "articles": [
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Feds close Salmonella investigation into supplement after 97 illnesses - PIRG",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdWlhWFBZZzEtcW9Tck9fUHJQYW9oenBnME1LUk9VUURMTUYxM0pFaWNvSy1iMV9wb0o3THhoWVdfOUtwdG5wYnRPbEVtRFozbzdaR0g3SXBFbHNNdU4zdGE2WG0zNW44NGUybFBaTzZlQ29PclByMVBrR2JfdjlHV2RhXzlOdTFVVmJ2QXZudXZPdldiajRxRjd3cm5IeGdiSjFQb2tn?oc=5",
-      "description": "Feds close Salmonella investigation into supplement after 97 illnesses PIRG",
-      "pubDate": "Sat, 11 Apr 2026 15:25:59 GMT"
-    },
     {
       "source": "Salmonella Outbreaks",
       "title": "Ontario and Canada food recalls: Items sold through Amazon, Hello Fresh, IGA, Sobeys, Foodland, Metro, Food Basics and more - Inside Halton",
@@ -108,10 +101,10 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Food hygiene experts issue warning following recall and salmonella outbreak - Bournemouth Echo",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZEhCUmV2SUNCcndlMmowbnd3dllMNTZKcDlkSl9MUVJQQmd2RjhheHJzOExFbVlFTW53RTVzelNyNk9EdnpLNUdkTGlRQzJjMi1wY0JrZjh5dkt1NGh3Z0VsSUVCenIzSFU1blhYNXVqMzZZWUYzbWlXR2x5TjRJcTVMcHBBNEx4bGZmd3lWdTU1SHZ0UmFIdEEyZ3phdw?oc=5",
-      "description": "Food hygiene experts issue warning following recall and salmonella outbreak Bournemouth Echo",
-      "pubDate": "Sat, 28 Mar 2026 07:00:00 GMT"
+      "title": "Food hygiene experts issue warning following recall and salmonella outbreak - Dorset Echo",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeTZEZlE2STNybWJja0xxZWZzcV9HVFl1UXlyZjkwT2YzWDZiOEt2bFAzNVJhZUxVRXlOZ0dYUFlwajNvaDhwLXVPNmJOc3lCSVEzYzIzSFoxY1FMeTNyalViSU1XYU1aVTNBd24yeTVTUWkwRW5aenNrZmMySjVxVmFJcENCczFSTHkwOHEtcEl6a2gyYnZz?oc=5",
+      "description": "Food hygiene experts issue warning following recall and salmonella outbreak Dorset Echo",
+      "pubDate": "Sat, 28 Mar 2026 12:11:05 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -184,6 +177,13 @@
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "Recalled supplement linked to reported salmonella outbreak, FDA says - LiveNOW from FOX",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV2NVWHRaeUNuT05CQ2VWcnF1eFdRQUpJaVRyQWJVZXprbzhLWlkwSDA3eDVaT1ZyTVgxX0FtRFlJb09Jd1NqRFRLVkhCTjhVanBpdDk3OXZhdXBGR29acjhwNHRxZGV5NkpzSmdZTkI4RjlybEkxLXI1S1lCd3gxc1IxakE3M0nSAYwBQVVfeXFMTy14Q19EYTYxVkVvNHE2WnhfUEd4T1BmRVVld0tKOXBFaEFOdWwyZ05XSXl6bDJ5MWxIcnRQQjdabGw1QWF1WUliek5PQ1ROVXJsUVZRVHF6dTdWMFY1Skd3M3RVb0U0Vm9jS2dodVoyMlVIQ0xSTUtlajJsNS1iR0JCZ3hmdnUwVHlqeXQ?oc=5",
+      "description": "Recalled supplement linked to reported salmonella outbreak, FDA says LiveNOW from FOX",
+      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT"
+    },
+    {
       "source": "Listeria Outbreaks",
       "title": "Listeria Outbreak Linked to Prepared Pasta Meals - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVljR2g1SWZ1cDJkZE5xMkgxMVR6emh2WXplNFBSaUs3Ni1LaF9ySk54QmtwWDd2SWU5YUdfQnhfLWhJX1lQZmhJQ2xMZkU0MDlHeHQzR2xZQlNiWHhYUmQxcUZuZF93WjU3TnBTbDVyaVBVWXVGMlZyamFjLVc5elB4WTdGdjV2VGc?oc=5",
@@ -224,13 +224,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjRvbDFCeDJRZXMzcWFJMUFXV1FEdTFaY1ZCX1lnYzZxNjVEcFdNODhHWjRqc1ZLNk5HYTQ0UEhpX1Zwc2ZTRHlQMW9za1JaWi1LLVFEX1VQUnZVSzF4UEYtOWZnZ0dPVnlVUjhodmppT1NlU1pWcG5JOXFKd2k1VUlDck1sU2Y2bmliTXYxTzdSNW5PZkFySzNQMXBfXzZ0Ui03ZFBHdGxRUXY3MXlzd3FVSjhhak5rR2lBOXpNSjY?oc=5",
       "description": "£3 million investment to drive diet and health innovation Wired-Gov",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
-      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
-      "pubDate": "Thu, 29 Jan 2026 08:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -308,6 +301,13 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS2hObS14cmN1VFc4WEx3SkN6enFzOXFycVNZeDVEUTg1MTRiejd5T1lYcWdkOE9rcEhUc2tVUDRQMUc3cjVSUTRqUmN2bnVjZVpRdFc3d0p1SWZITXlxWTFqNEVfMG1ubzlVeDFCRXV0UHVwS0VBbFRNMTI3UXMwWUQwWFZ3OFBsXzhHQVA3dWRld0R2dHI5R081UQ?oc=5",
       "description": "Second Hot Isostatic Press to go live at Wallwork in time for Formnext Aerospace Manufacturing magazine",
       "pubDate": "Mon, 03 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (October 2025) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZzY5clRJaDVESUM4WmQ1TUtHbFB6RmFLVkdjMDNFTGtlSHUyWDdwQXZsVk5nQ2RMb3l0cVVDa09IOGV0bDZ3RTVJMUM5MmY0MmNWUmdwdDZSZzVMLUFlUUFVNUJ5UUMzTV9GWTZ4N21sNW1YUDllOUE2SWlwOXZxU3JYc1J5bGNIaTI3SEdoLV9ZWTRaNmgtUTJxSGxVOU4yWmhINkR2ZVlsNHhrU2hWTmhZTnZ3WE9TVFI0?oc=5",
+      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (October 2025) fda.gov",
+      "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "HPP Dairy",
