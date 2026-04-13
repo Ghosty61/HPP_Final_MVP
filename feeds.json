@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T06:15:24.970008+00:00",
+  "updated": "2026-04-13T09:55:52.352311+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -14,6 +14,13 @@
       "link": "https://www.foodsafetynews.com/2026/04/companies-fined-after-deaths-at-chicken-factory/",
       "description": "Two companies have been fined after two men were killed by faults involving a system used to reduce Campylobacter contamination at a chicken factory in England. Banham Poultry Ltd and Air Products PLC were sentenced at Norwich Crown Court after the deaths of Jonathan Collins, 34, and Neil Moon, 49,",
       "pubDate": "Mon, 13 Apr 2026 04:01:40 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Feds close Salmonella investigation into supplement after 97 illnesses - PIRG",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdWlhWFBZZzEtcW9Tck9fUHJQYW9oenBnME1LUk9VUURMTUYxM0pFaWNvSy1iMV9wb0o3THhoWVdfOUtwdG5wYnRPbEVtRFozbzdaR0g3SXBFbHNNdU4zdGE2WG0zNW44NGUybFBaTzZlQ29PclByMVBrR2JfdjlHV2RhXzlOdTFVVmJ2QXZudXZPdldiajRxRjd3cm5IeGdiSjFQb2tn?oc=5",
+      "description": "Feds close Salmonella investigation into supplement after 97 illnesses PIRG",
+      "pubDate": "Sat, 11 Apr 2026 15:25:59 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -72,7 +79,7 @@
       "pubDate": "Fri, 03 Apr 2026 19:18:16 GMT"
     },
     {
-      "source": "UK HPP Industry",
+      "source": "HPP Seafood",
       "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
       "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
@@ -133,13 +140,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONDZSQk5wVzJjdnRnM0ZKN2dSeUw2Y2x2RVBreFh6STVjLUdIdnlQMkY1S3R0d3p2NXZxRzh4ck9kdEVFVjlURlF4Ym9HNm9LREpOQmZPX2t6TFI0VVgxRzlZbng0enJHWnRuN3dXaEVxSkM5Z0ZEUWxuOGpnbWtIZ3RXdWNWWkJHaUwwajktanJjZzdCeEZ6cmVyVTlzYVY4S3JnMTRZbEtDRGF4QlE?oc=5",
       "description": "High Pressure Homogenizers Market Fueled by Nanotechnology in Cosmetics Through 2035 - News and Statistics IndexBox",
       "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Juices & Beverages",
-      "title": "Why NFC Juice is the Next Premium Beverage Boom in Asia - openPR.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTHFyT25rOXZUN283dWY0ZlljQV9jdFVjOVRZd2FVbUlsM0pVUUc1RFF4Qi12RUlSeDFZWlNBN0ZPai1MSzhlV1F6S1BhNmpGci1fdHJ1MHdFbXdCVWJXT1hBc0JSaDJHWFB4LU1yd25Va29NNE84MU1uWDFZYnI1Z19taTRwSlZrVEZQOGd3dEdoVk9NZVE?oc=5",
-      "description": "Why NFC Juice is the Next Premium Beverage Boom in Asia openPR.com",
-      "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -212,27 +212,6 @@
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "£3 million investment to drive diet and health innovation - Wired-Gov",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjRvbDFCeDJRZXMzcWFJMUFXV1FEdTFaY1ZCX1lnYzZxNjVEcFdNODhHWjRqc1ZLNk5HYTQ0UEhpX1Zwc2ZTRHlQMW9za1JaWi1LLVFEX1VQUnZVSzF4UEYtOWZnZ0dPVnlVUjhodmppT1NlU1pWcG5JOXFKd2k1VUlDck1sU2Y2bmliTXYxTzdSNW5PZkFySzNQMXBfXzZ0Ui03ZFBHdGxRUXY3MXlzd3FVSjhhak5rR2lBOXpNSjY?oc=5",
-      "description": "£3 million investment to drive diet and health innovation Wired-Gov",
-      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Meet the food innovation centres leading the way in sustainable, tech-driven development - FoodBev Media",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVUY204LVk3LUY2MXN6QXVRcnJKb0hKbFBRbHNpeXAxSlhzN3c1WW90NGY1UzNCU1cwUDNmbFd6LTRTZWpYZ0lpTTdJRnRQT3ptQ3hneVdYSnRWNjdYRGNsTkV0S21Jb1M5Sk83T21aeE1VVWNSZWkzUEI4b0lKTWR1VTN1ZjAyYVl3eXFRX014ZzlJUnRRM2J3MEJaYVJHTzNWZzNoTVlNbVdsS2lydDBVX213Q0E?oc=5",
-      "description": "Meet the food innovation centres leading the way in sustainable, tech-driven development FoodBev Media",
-      "pubDate": "Fri, 23 Jan 2026 08:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "'Super greens' sold nationwide tied to salmonella outbreak. See recalled products. - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRDlTMFpPNGE1VDJpTDJYZHBKVnpuN0pZQ2JtaUpfS1VSSFBCOGF6d3lDa1hIaHY0VE5DZzlZSjE5ZXVnOWQ0NTVvMjctOXg2ZWNjcGFLd1pxWUJ5dlVqRmxaQ0R4eHpMNl9sdTlra0R3d1BpRE11TE5kNktWN3V3X0NuQXFlY3NQdjA3bDdEQkVCdEpTM3ZxcDZNNHE4LTVSeGlaci0xN2t2OWp2cUdYSXMzQlg2NUE?oc=5",
-      "description": "'Super greens' sold nationwide tied to salmonella outbreak. See recalled products. USA Today",
-      "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT"
-    },
-    {
       "source": "HPP Soups & Meals",
       "title": "Incidental food nanoparticles from freshwater clam soup stabilize Pickering emulsions - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3M29MLW96aDdhaV81RWJmYlhTTHYxWER6SlcybnI2S2RjZHhjSjJXNjR6TGxIUUdqcXBnMzFxQkFOa1JiaVlxR1N1b1dMbzQ1RHlieGs0dUpjaGxIMXJj?oc=5",
@@ -261,6 +240,13 @@
       "pubDate": "Tue, 09 Dec 2025 08:00:00 GMT"
     },
     {
+      "source": "UK Food Industry",
+      "title": "Ingredients under pressure: What HFSS means for NPD - Food Manufacture",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVZrV3oyajAyMGNRaXBYbVBhYWU0NXVqU2JQME5YWWxCUzlTN3dzZHV6ZVVWU1ZibEc3WUdiMzlXTWFaNms2Y0VDODhiT3hrRmdsdi1BYW1hcVBNNTVscFRKd1Zwc3hEOURCeTJjNUJmZzZlZURKc3JnOFd3dlBvbl9fUUlMdlM1Smg2TkFsZkZVWEJjVVRCVjFJRTVMUHNhWTNiU2VwX25WYUlxdi15YU0wbGM?oc=5",
+      "description": "Ingredients under pressure: What HFSS means for NPD Food Manufacture",
+      "pubDate": "Wed, 26 Nov 2025 08:00:00 GMT"
+    },
+    {
       "source": "Hiperbaric",
       "title": "Universal Pure Expands HPP Capacity with New Hiperbaric 525i System at Pennsylvania Facility - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNW14WS12LXVKNkdJc3dsTzNScDdjb1Nscks3Y1lHRlJKa2FFTHBOUUNQbnJpd1VOR2U5dk9FOHVZb3NDcDZna3FyWlRfOUZMRkZKVW4yZXdJOElKLXdyZEdGWi1lYlRXNzVxNzJpRC1hblU0V0duZXJ2SEdLYUY3TThaUnZmNklBSm10VWFfQU1OT1lkNzhtNTk5aXZQNmlNZFFqNzJQbXAxVWxoblNPLXdic1pBLTBnc3FzNUxwa2lTSGdfekc5eEIzWGtuWVF1TW9FLUVhYVZwNlo3VVVDdURn?oc=5",
@@ -273,6 +259,13 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzJuTUJEMjVscTBHVnRDWjdnR2hTM0dDWTk5ZkkwV2lXdzJwR0N0dmZaeHJ0OEhjNnRBbGNSUElDcHM1T3Y3emNBeGJrZDltMXJ3S0VydloyUXM1WWVxNzhKU1NSZGFEeUtKZ3ZtY2hLR3BSV2thNFNDMG13Tll2eTZSOEZ2aHZSMm51Q3doSGJtcHlpWlUwcm5OYU1sZjNkLXBhdzZoWDYzeFJDRzRvdWs2YjNGZnkzaXM5OE1DMDg0VUg3?oc=5",
       "description": "High-Pressure Processing reverses the dark color or dark-cutting beef to bright red MEAT+POULTRY",
       "pubDate": "Fri, 21 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Soups & Meals",
+      "title": "I Make the Best Chicken Soup Ever—Here's My Secret - Allrecipes",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtdnJxTW9PYk9kWHVUVFFYUktkYm1MWWluWnUxdGVjYncyTnFVaEk2SXJEcU1RTW1hWXVBTS1rT3dyejB4SGlPeHNCaE5jbkNvS2ViVW81ZlRWSWlfTE8zV0NZbEJldmhoZWZfNnRfQ2hhNHZKSXlsUVJn?oc=5",
+      "description": "I Make the Best Chicken Soup Ever—Here's My Secret Allrecipes",
+      "pubDate": "Sun, 09 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -317,13 +310,6 @@
       "pubDate": "Thu, 30 Oct 2025 07:00:00 GMT"
     },
     {
-      "source": "HPP Juices & Beverages",
-      "title": "Unveiling low-abundance ACE inhibitory peptides in not-from-concentrate orange juice processed by high-pressure processing and pasteurization - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqUENmUDBHMzBub3VDWW5CSFBLT0FsbXhmV3U1anRvN3pyYjRYNTNNZ2dXLTJPUGRYTzQ1X0lqa050azVQdG9xaHVPQU00UVBIRW5OZzI2VzhpWXA2SDZr?oc=5",
-      "description": "Unveiling low-abundance ACE inhibitory peptides in not-from-concentrate orange juice processed by high-pressure processing and pasteurization Nature",
-      "pubDate": "Fri, 24 Oct 2025 07:00:00 GMT"
-    },
-    {
       "source": "Hiperbaric",
       "title": "New HPP tolling facility in North Carolina to feature Hiperbaric system - Pet Food Processing",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNDlqSEdueVZFbHIxU1ZUUjM5WGh5OGxBT1dvUkdPQmRPa3VsY25ISEpPSjV0WGticnh1Zk1yVjViNURINHYzS1o4WGZucE9naVJ0c1JLdGZvRi1nY0doVTFURFZTeWlYOG8ydWpFR0xyMkxmbTNMVGxnWEwtYnAwTGV4WlZWWE50WkVuQVdLWnVYQmwyMDJlR1I5TFAtb0ZOZkI5Y1pFOE15TVB2QWpQWWh4X0g4bVJPb0JPLQ?oc=5",
@@ -350,6 +336,20 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQajhvMENNTkQ4Q2t3UUNTbURRZkc1Q0lkN2lnM0ppeWtWOC1tVXdERFpHa3FhaV9qUXFXTlItcGFJWmRFdEd5aGVIOFg3SE9va2R3bm5hTXdUNjhyR3o0OFViMVJlU2M0Y3VyQ190dEM0VlMzMlJ6YWl3UjRCWjhmQmZXRlpEVmNWdDlxR3Fyb3k2UFl6eFA2QUJ2QzM?oc=5",
       "description": "Hiperbaric to Install 30 HPP Machines in 2025 foodengineeringmag.com",
       "pubDate": "Mon, 06 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric EU",
+      "title": "Hiperbaric Achieves Record Growth with 30 HPP Machine Installations in 2025, Expands Tolling Network with New Partnerships - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMEd3MWdOZE5BdVpza3dzWWhuQ19FcnE1UjR3aXhaaWZZdUg5LUhLZXVsUzB0V1lYc1hxNHVqTVNoRU13anFHclhlMXNydC10ejVNRW8tZW1qdS1lLVZkMU9vckpIYmJ1cWJsZUpZV1hGOGJCMGV6V2l4dE84NE52RnZTSVo2R2JrZ1M0cTYtVDV1eWlwdWl5RGFoQnJZR1lMZlVoRTZ2V1BpczQ1N2xDbGNzNEN3VXRYOGQ5c2xXQVQ5ZEd0WVNvWGNNWHNocmEwdDA3WXdkT2xudXRpLVFWN2lXZDhPMmtGSkducGpFcmpUVGFxcHFPZkFtV3NRU21oOUtVUGNoelo?oc=5",
+      "description": "Hiperbaric Achieves Record Growth with 30 HPP Machine Installations in 2025, Expands Tolling Network with New Partnerships PR Newswire",
+      "pubDate": "Thu, 02 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Innovation & Research",
+      "title": "HPP or HPTP in pet food production -- what's the difference? - PetfoodIndustry",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaUtRSGhHYTdSUXI5dktCcEhVSm05cnpQLWZpTHcyaThUTzJVeXVxbnRTcG5JeWFiazE3ZnZYdm04dWhRcHpkSll6TEdtMkpjRFJ6MXc2djdfOTJZN2tWc2VRSGhGZDJ6Uml0UDdBUHFLSEYxTzlEZkZrYmhxWXhiMGg5SHJPTW9GZlhtRVpjMmFpbWlnLU9fUXpqTEJ4Nmdtbm9oUVkzZU1raDJBVDB3WFZwN2dPcUY2MmRHMndQRVItaS1xOVNXVTFEYXo?oc=5",
+      "description": "HPP or HPTP in pet food production -- what's the difference? PetfoodIndustry",
+      "pubDate": "Wed, 01 Oct 2025 07:00:00 GMT"
     }
   ]
 }
