@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T13:28:34.069052+00:00",
+  "updated": "2026-04-14T15:14:17.872973+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -66,17 +66,17 @@
     },
     {
       "source": "Food Safety UK & EU",
+      "title": "'Do not eat' beef item as urgent recall issued after listeria found - The Mirror",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kWUtOVFphNXgwTHlGMkN3M3pYRGJVbnBQUkpXQ25VT251NnVXZnF5OEJMUWpHOHF2N1M1elFvajh5VFl2SDhNTlBiTTZ4aEVWWDJhaERoZ2thdExOMDE2bFhCdERaVGZBMUtxbUFvbklSRnI50gF6QVVfeXFMTmhpTHlVNUo2N05LSEtncTZRaUhWVEJBVkRiVjl0M3dQUk5FT1d1cVVWbXFDdmV6ZHFMWXFldV9XX25TZkxfd3B2VlZXUmR6MnNqeGlKN2pJc1VscFdIb08xRnEwMG53YWk0V1NhMldDaUFzME5xRjVFemc?oc=5",
+      "description": "'Do not eat' beef item as urgent recall issued after listeria found The Mirror",
+      "pubDate": "Sun, 05 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
       "title": "Recall Roundup: Listeria monocytogenes and Salmonella - New Food",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUENrTjZWV09CYXVJSUoxcFl4LXFMYkVPbkRhUXVLNlo3NUJNbXB3WEZibHpVVFpzekdxZGNMR05oU1Z6ZW92QWUwbVBhclRXNkowRmtiVElrd21PazBQMmtNakEwQUdiM2tleFZzTUJ6dE5IUDNnMG1RRnRLbWF5ZGF0OUoyb05CMWp1aEVQWU96blRhb0c3M0pKU29vYUY3?oc=5",
       "description": "Recall Roundup: Listeria monocytogenes and Salmonella New Food",
       "pubDate": "Fri, 03 Apr 2026 19:18:16 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Extensively Drug-Resistant Salmonella Outbreak Linked to Moringa Powder Capsules - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54ZVo4a2hNMkFQUVVld1VUM0NpMXRPdVY2SFFvYnVNX21Ga0hnZU5yQ29XV1VEYVZfQnhkSHRvQVhOM1V4eGhmd2k5ZFYxdEtVMWZkd0w2a1VsQUs4SlM4dzh1QWF1NEkycGlLOC0wUjk0N1ppSk55RFBpQ2RYZw?oc=5",
-      "description": "Extensively Drug-Resistant Salmonella Outbreak Linked to Moringa Powder Capsules Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
@@ -98,6 +98,13 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXJvUXo3TWdoczNubWhpVjNDZ3dudUgySUxzWlJ4cjBFcEhKWnhNY0FjRTI5aUwtZjVXV25RdDkwQXhLVWFRWmo1ZlpKcW8zV3A2ZExicW9XcFhSalJrU0hHcmNQcFB1OVh4ME4wZEhaVDlTUmVUMzl6RnV6czduT192c012TDkxN29NakI3TTJYMnYtRWpiZHFtLUZ5Y0ktNHVrMlhWSWJaQXRQNV9VSnhkZUZWYkdsbF85OVY5NUs3Qm9maFgyellrR1A?oc=5",
       "description": "Fortress Technology to display touchscreen solution for food safety at interpack 2026 Packaging Europe",
       "pubDate": "Mon, 30 Mar 2026 15:29:43 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "Urgent recall issued as deadly bacteria found in popular product - Daily Express",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSnl2bk5qdVJPOF9vZThaVnhGSTRuV0IwM2I3ZDdRQmpBbXY1TXJnLXQxbXZQVG9pOVNHdHlhaWVnSkE1a0JxaXA5S2NOdzhMbFR6SVNtYWF0VGZJMDRvVW5FRnREOF9KUlQtRjNaaTk4by10djFlamIwU1N3a3QzTm5tamI3RTBiQWpnTVdFSkUzTTFFTXfSAZsBQVVfeXFMT3BUcGxVUFUybjh2Sk1ISTJ4c3NyYV92eTB4M1lERlhKQV9aU2UwWmdMbzN6YnBmdFd0dzJMU1hiVTFRMW1leDZjOXZMQTFIcEswWldyWkF1eU9Qd3pfeEhBMERMdDVyLVZLRmN4VlhfeEJUT2FMZVJTbGdzNUNMcXVVU2J6SGdTTk53bU5zOWJGc1JIdVhzanVaUzA?oc=5",
+      "description": "Urgent recall issued as deadly bacteria found in popular product Daily Express",
+      "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Innovation & Research",
@@ -129,17 +136,10 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "CDC Warns of Salmonella Outbreak Linked to Cucumbers; Recall Issued - Central Oregon Daily",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTGNKUmdnekx6WllRX0xaTnhFYThDVzlPVzM5bmVUQXBmMnE2Zm9WdVd5SGxaRjQ3azdRUVBCdlZJMHQ1SU9JeWs1Sjdac2JKVkxUaTdrWmZwaU1JMHFLaWF1TUNGTmM2M3NXNEdvTExlZW9GYzN6RTd4OFNSWUdwZWtwMmpmdE9lZG9tRTd6QmUteVNVYjM1THpqQURydzJ4dmhnR0I1cGc3RzcyRFJfaldPcVVOQ3FpSjFtWENWcUJhYUdqUllVb1djVjlTOWhXcHRjLXZvdHlDeVNnYlJKcmln?oc=5",
-      "description": "CDC Warns of Salmonella Outbreak Linked to Cucumbers; Recall Issued Central Oregon Daily",
-      "pubDate": "Fri, 20 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "'Super greens' sicken, hospitalize dozens more in salmonella outbreak - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2F3RG5TUGFCSkZDSXcxcXY4NW9fTnhZRkgzU1I4Vm1vZHhwNFM2MGVQeXNoR09tT1NXcE1zWE9Qdy1PS2NXcWVfcm5idExOcVliT3NhSlF3UnFiMnhVQ1FPMjJoZ29JU2Z2Q3pRY3M4VjBhRUZFbmpiaW5xYnVuRnM0b0tnTGFORjIzSWZ5T19BZ0kwRURKSHpjNUttaDA4QlZfdm5meEw1NkpGdlQ4ZDVUQkxxdw?oc=5",
-      "description": "'Super greens' sicken, hospitalize dozens more in salmonella outbreak USA Today",
-      "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT"
+      "title": "Salmonella Outbreak Linked to Moringa Leaf Powder - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
+      "description": "Salmonella Outbreak Linked to Moringa Leaf Powder Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
@@ -219,6 +219,13 @@
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "Report Raises Concerns About U.S. Food Recall Timeliness, Transparency in 2025 - Food Safety Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa0t0dWtyMUEwRUc1ZVJVcUVhLWVqeE1UcnpNWXFFQmh4WENwYVEtcTF5dkpROFFMQjE3Z3ZRUlBhLW5SWmxPUDZYQXR1QUU0YVU2TU91T3FxcnRIbXdfUlJKT2lweldjXy1XZTU3a0tfN09yMG5tRkhPenNDMlhhYjlqRV9MT0JtTVZQVV9CbUJYR3EzNVB4WU1UOXFySS1iMXduSzJBdTFXanR3NVRSZmt4MDdNdUxqWlE?oc=5",
+      "description": "Report Raises Concerns About U.S. Food Recall Timeliness, Transparency in 2025 Food Safety Magazine",
+      "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT"
+    },
+    {
       "source": "UK Food Industry",
       "title": "£3m BBSRC and Defra funding to accelerate healthier UK food innovation - New Food",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjRsemwtTDd0VGxudl90bFJRWTByYXg4RmNKQk5Bc3R3RkFYM1RxS1FzZ0RXSEEzbEhDeTliM1EtbzBxSXpGSkVlWDBHcXZnLTN0b0ViRUlzQXFNeldZV0ZJeU9oT245TXRBdFRqS09ENzhoODJLd0piWXBmZXo3S1N2U2VJTk5abUlFeHlYMjU4cGRkcEROd3l0UzhUcVJ5T3NoOTV3TkNPeWt2SVB5b3Eta2hjT0d0?oc=5",
@@ -245,13 +252,6 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSVZsYkNvZURWYXJiMTdoakhISHVtZ0lnaFllQnNkOEN4Wlp6QVlGbUpTTDJlQzNoOWtkVDE3SXllNnFkbmhNU3BTSUVHNGE4MVZfdi16d29HQWRPeTc1dGsxQlREdkNodGNuMnJTWHBuUWZOOVFZcnI5RWg2aU9XREkwLVNUWVZ0M3c?oc=5",
       "description": "Scientists Find Drinking This Juice Lowers Blood Pressure in as Little as 2 Weeks AOL.com",
       "pubDate": "Fri, 09 Jan 2026 14:15:00 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "Urgent food recall issued as salmonella found in treat - customer told 'do not eat it' - Daily Express",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNV91Vy12aW1MRWkyaEpIS2Q5REt4VGRDcXJRa3lyX0l4Z0xOTkhhdll3ZHdWOFBCd1djWjVGTHRSMWFRZV9PQkM3RHlSMlkyX0g0NkQyQmdwOU1PSUJGdXpwNnQtY3pmSHBOVjlIVE9rNHViWUVmVk51OUpwbzNwRU5qLTlsRVo3OXdKcTl4NEZPemtvLWozTkYwZW8zNkN2TXJJeXUzbTXSAa4BQVVfeXFMT1NBWTJXSlEtbk5BYW5NRDg3MG1mS1Q3MkFIazF6d2FkVURURXVaZ2k0ajI4bGtsVEVzeUxXSk1FMHFlZEpIclJMdFRRelk5SXQ5TDYxbENWbHh2YmlFS3lqUmNiUnFYY2xDV2t2Y2tpdFVEUlZ0cElZcWUyZ09tR2ZVb2djRkJNdkNlSWpzeWRTMDZqVnoteEJNOXF5WFBFejU4R3VLRjkxTGEyOEdn?oc=5",
-      "description": "Urgent food recall issued as salmonella found in treat - customer told 'do not eat it' Daily Express",
-      "pubDate": "Thu, 25 Dec 2025 08:00:00 GMT"
     },
     {
       "source": "Quintus Technologies",
@@ -310,7 +310,7 @@
       "pubDate": "Mon, 03 Nov 2025 08:00:00 GMT"
     },
     {
-      "source": "HPP Healthcare & Medical",
+      "source": "HPP Cosmetics & Beauty",
       "title": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdFZlWGhqdzd2Qk81Q1kyN2tXc2M1VGVMdDBrM19kNkt6S3pZbWkwLVR6WUFYcUVLVTRtdEVsR2M2TzQzN3FXOVpGOUxlejdTd2VqdUhyekZuSnVCU0xXY0NSZklEcFphM3hwSS1PY1duUkJBeFo4dzUzWHRqX2YzVzB4a2tTRmZwS05SRk5jdlduVWlPUTRzVXN0em9INjhHX3hTaUs4dVo4RjRJMlhfM2RTaHJncHNUZUpTV3FNV1QzMWxGVkdfQmcxcjI1UWl3UW42djBsa3dUNklQdE83TmxkbnNQcnQwbUstTTh2SnRPb1hBZ3ZqTV9LNURDMFV1eklubElBVzhQM0lqM1Zv?oc=5",
       "description": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership PR Newswire",
@@ -338,18 +338,18 @@
       "pubDate": "Thu, 30 Oct 2025 07:00:00 GMT"
     },
     {
+      "source": "EU HPP & Food Tech",
+      "title": "High-tech eyes and ears to boost speed and safety for first responder teams - research-and-innovation.ec.europa.eu",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVEc3YUFqLWZKMUwzbkJYWTNYSzJKNU4wUTl3b2NyYjNrZjNsMm5CU2JCQU15dWMybXhYMlFIUEpFTDRLUVJHaEZKcXUwNTdhLVFiSndPaGFLaXcwRnItZ1QwQ0tpZW5IZnRUY1pBM01kQVFvaE83MWZsWnAyaVFadV84a0JXeml2ejFIYXRMYnZqUm1TZk44YjF2SlF2cUhRVUpiYzdQSUN2MlBVSU5GcndzUzBCUWw5V2dHendkRm5LWXpralFvUGN3ZE1IZHczREZEaWMxQmRKOXVCVHpocDhmUDM2T2lzeXc?oc=5",
+      "description": "High-tech eyes and ears to boost speed and safety for first responder teams research-and-innovation.ec.europa.eu",
+      "pubDate": "Thu, 23 Oct 2025 07:00:00 GMT"
+    },
+    {
       "source": "Hiperbaric",
       "title": "New HPP tolling facility in North Carolina to feature Hiperbaric system - Pet Food Processing",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNDlqSEdueVZFbHIxU1ZUUjM5WGh5OGxBT1dvUkdPQmRPa3VsY25ISEpPSjV0WGticnh1Zk1yVjViNURINHYzS1o4WGZucE9naVJ0c1JLdGZvRi1nY0doVTFURFZTeWlYOG8ydWpFR0xyMkxmbTNMVGxnWEwtYnAwTGV4WlZWWE50WkVuQVdLWnVYQmwyMDJlR1I5TFAtb0ZOZkI5Y1pFOE15TVB2QWpQWWh4X0g4bVJPb0JPLQ?oc=5",
       "description": "New HPP tolling facility in North Carolina to feature Hiperbaric system Pet Food Processing",
       "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Soups & Meals",
-      "title": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong - HuffPost UK",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmNOYlI3cE1Ubk5BaXRtWWpnQkFsLVhvN19LTFRmYnBHLXVPSU51ZmFacnltV25ZWmk5dEt1ZkhzX2NvUlBfY0p6ZGtOVmpHblNWZzBLYVp0YTVWS0lvWXB3V1FxSnZEaV92OVJDbUh5RnRSVmFaQ1hYTU5QelBOYWV5VE5nRWR1S0JFQ19xX2Nta09XdkU0R0pBZlFxWUVFWjhKdE0tOA?oc=5",
-      "description": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong HuffPost UK",
-      "pubDate": "Fri, 10 Oct 2025 07:00:00 GMT"
     }
   ]
 }
