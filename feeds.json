@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T22:44:01.722252+00:00",
+  "updated": "2026-04-14T02:38:25.667926+00:00",
   "articles": [
     {
       "source": "Salmonella Outbreaks",
@@ -7,13 +7,6 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQemFPcVhvMlFYM0d1Q280T1RPNncwUldQeVJnblVaVWFMcU54aGV4TG5yVWRiSHpOZDg1Q1BRZVJ4ODZ3R2x0LWlidXlZR3oxZFNLbWRmcHczSzk0RmYta2Y5WkI4bmY1MjlCTHhOYTdiN25KQktFandQTXJOWHcxTWM5UThtSTFJeWFnb3ZQMmtURTB1cWVB?oc=5",
       "description": "RECALL: One year of salmonella pistachio outbreak as cases reach 189 INsauga",
       "pubDate": "Mon, 13 Apr 2026 22:03:38 GMT"
-    },
-    {
-      "source": "HPP Innovation & Research",
-      "title": "Can high-pressure processing replace freezing for Anisakis control? New data from sea bream trials - misPeces",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZkN0b1pENzBMTHlIRnJoQnp3a01qVGN4VUR2TFQtR0xpa1F0SldUa1J5N1daOUk2ZHVwbHpZVGF6WDRiUzlSbEVwQzJzVWJITFVha3FQZElhOU1nem8ybzhycmRQUWUwMXdpRExEdms4UEttY0lHTU5XdHZESGwzejNvMTRkUnczVVpxNS1NZGVWamMxQjQ0OFBCRVBZX1k4WGVqWGpaSmZCOUZEUS1MOGV4cGo5OHVBOVRCM3R4TUZEVHAzZjVEaFlLWQ?oc=5",
-      "description": "Can high-pressure processing replace freezing for Anisakis control? New data from sea bream trials misPeces",
-      "pubDate": "Mon, 13 Apr 2026 07:52:53 GMT"
     },
     {
       "source": "Food Safety News",
@@ -86,7 +79,14 @@
       "pubDate": "Fri, 03 Apr 2026 19:18:16 GMT"
     },
     {
-      "source": "HPP Seafood",
+      "source": "Salmonella Outbreaks",
+      "title": "Extensively Drug-Resistant Salmonella Outbreak Linked to Moringa Powder Capsules - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54ZVo4a2hNMkFQUVVld1VUM0NpMXRPdVY2SFFvYnVNX21Ga0hnZU5yQ29XV1VEYVZfQnhkSHRvQVhOM1V4eGhmd2k5ZFYxdEtVMWZkd0w2a1VsQUs4SlM4dzh1QWF1NEkycGlLOC0wUjk0N1ppSk55RFBpQ2RYZw?oc=5",
+      "description": "Extensively Drug-Resistant Salmonella Outbreak Linked to Moringa Powder Capsules Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK HPP Industry",
       "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
       "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
@@ -105,6 +105,13 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXJvUXo3TWdoczNubWhpVjNDZ3dudUgySUxzWlJ4cjBFcEhKWnhNY0FjRTI5aUwtZjVXV25RdDkwQXhLVWFRWmo1ZlpKcW8zV3A2ZExicW9XcFhSalJrU0hHcmNQcFB1OVh4ME4wZEhaVDlTUmVUMzl6RnV6czduT192c012TDkxN29NakI3TTJYMnYtRWpiZHFtLUZ5Y0ktNHVrMlhWSWJaQXRQNV9VSnhkZUZWYkdsbF85OVY5NUs3Qm9maFgyellrR1A?oc=5",
       "description": "Fortress Technology to display touchscreen solution for food safety at interpack 2026 Packaging Europe",
       "pubDate": "Mon, 30 Mar 2026 15:29:43 GMT"
+    },
+    {
+      "source": "HPP Innovation & Research",
+      "title": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio - York Daily Record",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeVQ1YUxTTU95QXhRUGNUWk9HN29tUUlPZTlha0ZnVmYtc2JPLUVEME1RaFY3NldQUEZvckVtVnVNQ3ZRMmZFVGFFZ2NIek9uTzRVRFJZckY1MElPYjk4bHVjT2N3ZEFPSHBSem1sREVGWmVxX0JPQW0zTjBiaDBqMndPaFJUMEd3cE9scWxJcGd2cDBpMGdNQmswb2VQeTNoR2VZcXpyc041SEFYeU14MXVrUWhTRnZzd1loV3BmcGFrN0JJWGQ3M1FhOHRUTEIwb1BBWndwXzRGR3BtRjJCd2RZQWlWOGdSUnU0ZFZNSQ?oc=5",
+      "description": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio York Daily Record",
+      "pubDate": "Sun, 29 Mar 2026 13:02:40 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -128,18 +135,18 @@
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Seafood",
-      "title": "Greenhead Lobster continuing to refine its premium lobster products - SeafoodSource",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXZMXzNQYVBNSGZZXzRBWGF4UnBjVjdSeVoyVE9xN2VYMUwzNGZoTTFYVUJ1S1FCVUNiTkt3WWhSX01wd3ZrMXNxbFlYMGs4aVBjeV9iMVBiX1JDQm1YU2hNbTZHemRnWGoxdzF4ZG1MWWZUN0k3aVhKVEtIWU1ZZUlrazRhY2h1VjN6ZVR0YjJXeXZPVjVuNngwUnRVemVOUUJud1dnR01wTHR0emxKc29QQjlWZw?oc=5",
-      "description": "Greenhead Lobster continuing to refine its premium lobster products SeafoodSource",
-      "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT"
+      "source": "Salmonella Outbreaks",
+      "title": "CDC Warns of Salmonella Outbreak Linked to Cucumbers; Recall Issued - Central Oregon Daily",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTGNKUmdnekx6WllRX0xaTnhFYThDVzlPVzM5bmVUQXBmMnE2Zm9WdVd5SGxaRjQ3azdRUVBCdlZJMHQ1SU9JeWs1Sjdac2JKVkxUaTdrWmZwaU1JMHFLaWF1TUNGTmM2M3NXNEdvTExlZW9GYzN6RTd4OFNSWUdwZWtwMmpmdE9lZG9tRTd6QmUteVNVYjM1THpqQURydzJ4dmhnR0I1cGc3RzcyRFJfaldPcVVOQ3FpSjFtWENWcUJhYUdqUllVb1djVjlTOWhXcHRjLXZvdHlDeVNnYlJKcmln?oc=5",
+      "description": "CDC Warns of Salmonella Outbreak Linked to Cucumbers; Recall Issued Central Oregon Daily",
+      "pubDate": "Fri, 20 Mar 2026 07:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Salmonella Outbreak Linked to Moringa Leaf Powder - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
-      "description": "Salmonella Outbreak Linked to Moringa Leaf Powder Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
+      "source": "HPP Seafood",
+      "title": "Oyster Processor comes to Dock+ - NanaimoNewsNOW",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OS1NNQWRKNUJqUW81ak16UmhZb3N6QzZtRlZiVk1FNlhTblN3VFpzdGNDaFBtTkI2X2U4TFEwZm1PVGFWN0ZXekl0azBZaEUzYjBBcG5xZWFyMGw4TC1GNlBaT2ZfRkNyT1huSjBqUWUyd0tlZ0NzcA?oc=5",
+      "description": "Oyster Processor comes to Dock+ NanaimoNewsNOW",
+      "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -177,6 +184,13 @@
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "Outbreak Investigation of Extensively Drug-Resistant Salmonella: Moringa Powder (February 2026) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOXA4S0pBZmg3bzZrRmZTQzFJODhKV3ZPcm83RWNSR0E1N3dTR28wTG9MYXc5M0plb1Y1aU9wMHQ5OVl3ZVZVRC15c2t1eUZCODlSZ2xCbExXSjVGYUJWWnVSZkVQT0dMQzlkRjE5NGU2aWNtdkFxOWZoUk1jODBVQW1hRTB2MG5oNWp6dlVBT1E1Qi02MVNVQ2tZM1FzMjZfcko0djRpbjNzUlpVMTlmMi14aTVmUUJ5ZVk3LUdQcGduZmQ4RGJwWXVrckFIdDFwbVRXSDFBbVVTZw?oc=5",
+      "description": "Outbreak Investigation of Extensively Drug-Resistant Salmonella: Moringa Powder (February 2026) fda.gov",
+      "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
+    },
+    {
       "source": "Listeria Outbreaks",
       "title": "Listeria Outbreak Linked to Prepared Pasta Meals - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVljR2g1SWZ1cDJkZE5xMkgxMVR6emh2WXplNFBSaUs3Ni1LaF9ySk54QmtwWDd2SWU5YUdfQnhfLWhJX1lQZmhJQ2xMZkU0MDlHeHQzR2xZQlNiWHhYUmQxcUZuZF93WjU3TnBTbDVyaVBVWXVGMlZyamFjLVc5elB4WTdGdjV2VGc?oc=5",
@@ -198,13 +212,6 @@
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "HPP Soups & Meals",
-      "title": "Bowen Yang says watching SNL after his exit is 'totally bizarre' but 'ultimately fun' - The Express Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVWF3ZU53Rk12bWZfWXBWU21lTXFYTFlDT2tmMk5hT2tYS3oxSUJ4WGFEWURHcUxmbUhpRHNQX2ZoWUpXV29PX0k5MmoyN2R5ZnJvcm1UX2VwZ2syN1U5RVhSYVpMeEtQcTB6cEE2VFNMa0t5Q3lZZHJoUmpfVjduS3VsRE1tSmZaSG8wcXROMldURF90R3BXWGdGRG5sS3h1ZEJ1LVdpdW1RbXJlc3h6UmdjRG92NHpCaVHSAcIBQVVfeXFMUHQ5OWFuZV9IUlRzY244WTduTHFUOVRTSG5GNlNldHdtc0hUeGR1cjZWYmdBUEwxckJ4U1paQ2xwWTdwc2YxQzZIWU13WDdzaFlDemR5V0d1S3FGUl9EbVNSZGhpWUxuXzdRX3pYaFBsSFE3V242WUNDYXV2cGhLVHBrcmFBTC1yX1V0TUlRQXUxbDlTUW5KUVNnT0Y2ZWtoak8tdnBtMDRYbkcxb2hvWUxEZy1DOWpzYVhXMm1CellXTFE?oc=5",
-      "description": "Bowen Yang says watching SNL after his exit is 'totally bizarre' but 'ultimately fun' The Express Tribune",
-      "pubDate": "Sat, 07 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "UK Food Industry",
       "title": "£3m BBSRC and Defra funding to accelerate healthier UK food innovation - New Food",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjRsemwtTDd0VGxudl90bFJRWTByYXg4RmNKQk5Bc3R3RkFYM1RxS1FzZ0RXSEEzbEhDeTliM1EtbzBxSXpGSkVlWDBHcXZnLTN0b0ViRUlzQXFNeldZV0ZJeU9oT245TXRBdFRqS09ENzhoODJLd0piWXBmZXo3S1N2U2VJTk5abUlFeHlYMjU4cGRkcEROd3l0UzhUcVJ5T3NoOTV3TkNPeWt2SVB5b3Eta2hjT0d0?oc=5",
@@ -224,13 +231,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjRvbDFCeDJRZXMzcWFJMUFXV1FEdTFaY1ZCX1lnYzZxNjVEcFdNODhHWjRqc1ZLNk5HYTQ0UEhpX1Zwc2ZTRHlQMW9za1JaWi1LLVFEX1VQUnZVSzF4UEYtOWZnZ0dPVnlVUjhodmppT1NlU1pWcG5JOXFKd2k1VUlDck1sU2Y2bmliTXYxTzdSNW5PZkFySzNQMXBfXzZ0Ui03ZFBHdGxRUXY3MXlzd3FVSjhhak5rR2lBOXpNSjY?oc=5",
       "description": "£3 million investment to drive diet and health innovation Wired-Gov",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
-      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
-      "pubDate": "Thu, 29 Jan 2026 08:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -338,18 +338,18 @@
       "pubDate": "Thu, 30 Oct 2025 07:00:00 GMT"
     },
     {
+      "source": "EU HPP & Food Tech",
+      "title": "High-tech eyes and ears to boost speed and safety for first responder teams - research-and-innovation.ec.europa.eu",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVEc3YUFqLWZKMUwzbkJYWTNYSzJKNU4wUTl3b2NyYjNrZjNsMm5CU2JCQU15dWMybXhYMlFIUEpFTDRLUVJHaEZKcXUwNTdhLVFiSndPaGFLaXcwRnItZ1QwQ0tpZW5IZnRUY1pBM01kQVFvaE83MWZsWnAyaVFadV84a0JXeml2ejFIYXRMYnZqUm1TZk44YjF2SlF2cUhRVUpiYzdQSUN2MlBVSU5GcndzUzBCUWw5V2dHendkRm5LWXpralFvUGN3ZE1IZHczREZEaWMxQmRKOXVCVHpocDhmUDM2T2lzeXc?oc=5",
+      "description": "High-tech eyes and ears to boost speed and safety for first responder teams research-and-innovation.ec.europa.eu",
+      "pubDate": "Thu, 23 Oct 2025 07:00:00 GMT"
+    },
+    {
       "source": "Hiperbaric",
       "title": "New HPP tolling facility in North Carolina to feature Hiperbaric system - Pet Food Processing",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNDlqSEdueVZFbHIxU1ZUUjM5WGh5OGxBT1dvUkdPQmRPa3VsY25ISEpPSjV0WGticnh1Zk1yVjViNURINHYzS1o4WGZucE9naVJ0c1JLdGZvRi1nY0doVTFURFZTeWlYOG8ydWpFR0xyMkxmbTNMVGxnWEwtYnAwTGV4WlZWWE50WkVuQVdLWnVYQmwyMDJlR1I5TFAtb0ZOZkI5Y1pFOE15TVB2QWpQWWh4X0g4bVJPb0JPLQ?oc=5",
       "description": "New HPP tolling facility in North Carolina to feature Hiperbaric system Pet Food Processing",
       "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Soups & Meals",
-      "title": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong - HuffPost UK",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmNOYlI3cE1Ubk5BaXRtWWpnQkFsLVhvN19LTFRmYnBHLXVPSU51ZmFacnltV25ZWmk5dEt1ZkhzX2NvUlBfY0p6ZGtOVmpHblNWZzBLYVp0YTVWS0lvWXB3V1FxSnZEaV92OVJDbUh5RnRSVmFaQ1hYTU5QelBOYWV5VE5nRWR1S0JFQ19xX2Nta09XdkU0R0pBZlFxWUVFWjhKdE0tOA?oc=5",
-      "description": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong HuffPost UK",
-      "pubDate": "Fri, 10 Oct 2025 07:00:00 GMT"
     }
   ]
 }
