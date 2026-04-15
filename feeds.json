@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-14T22:47:09.702485+00:00",
+  "updated": "2026-04-15T02:36:36.074611+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "7-Eleven sandwiches, wraps recalled because of Listeria",
+      "link": "https://www.foodsafetynews.com/2026/04/7-eleven-sandwiches-wraps-recalled-because-of-listeria/",
+      "description": "7-Eleven brand sandwiches, subs and wraps are being recalled in Canada because of contamination with Listeria monocytogenes. The products were distributed to 7-Eleven stores in Alberta, British Columbia and Saskatchewan. The recall was triggered by&#xA0;the company, according to the Canadian Food Inspection Agency. There&#xA0;have been no",
+      "pubDate": "Tue, 14 Apr 2026 22:58:36 GMT"
+    },
     {
       "source": "Salmonella Outbreaks",
       "title": "Canada's salmonella outbreak tied to pistachios is still making people sick 1 year later - MTL Blog",
@@ -42,13 +49,6 @@
       "link": "https://www.foodsafetynews.com/2026/04/colombia-reported-more-than-650-outbreaks-in-2025/",
       "description": "In Costa Rica, 20 outbreaks were investigated in 2025",
       "pubDate": "Mon, 13 Apr 2026 04:05:56 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Companies fined after deaths at chicken factory",
-      "link": "https://www.foodsafetynews.com/2026/04/companies-fined-after-deaths-at-chicken-factory/",
-      "description": "Two companies have been fined after two men were killed by faults involving a system used to reduce Campylobacter contamination at a chicken factory in England. Banham Poultry Ltd and Air Products PLC were sentenced at Norwich Crown Court after the deaths of Jonathan Collins, 34, and Neil Moon, 49,",
-      "pubDate": "Mon, 13 Apr 2026 04:01:40 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -121,6 +121,13 @@
       "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT"
     },
     {
+      "source": "Food Safety UK & EU",
+      "title": "'Do not eat': Meat product recalled due to presence of disease-causing bacteria - Hexham Courant",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdWtEeFRtNEI1bDdmMTBDNHdYTG9Sa2Jrb0VQbjhIRW40SkNrQlJreHZBMzFSUGF0VWNBUlRzc3BXZlVPWDgtVmpnZzBDZDc1TnVNbG0zaENSOVZaNU0xa1A4MzZUS3dOam5uaTNRdGxnelBfbmpnVGcxZUJtY1R6LVFKVU5vbkxqTGNZR3R4TnRFS0NKa3hsNGJQaF9DZGpxeU9OLThTWDB5UzRaSlNIQU9R?oc=5",
+      "description": "'Do not eat': Meat product recalled due to presence of disease-causing bacteria Hexham Courant",
+      "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Innovation & Research",
       "title": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio - York Daily Record",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeVQ1YUxTTU95QXhRUGNUWk9HN29tUUlPZTlha0ZnVmYtc2JPLUVEME1RaFY3NldQUEZvckVtVnVNQ3ZRMmZFVGFFZ2NIek9uTzRVRFJZckY1MElPYjk4bHVjT2N3ZEFPSHBSem1sREVGWmVxX0JPQW0zTjBiaDBqMndPaFJUMEd3cE9scWxJcGd2cDBpMGdNQmswb2VQeTNoR2VZcXpyc041SEFYeU14MXVrUWhTRnZzd1loV3BmcGFrN0JJWGQ3M1FhOHRUTEIwb1BBWndwXzRGR3BtRjJCd2RZQWlWOGdSUnU0ZFZNSQ?oc=5",
@@ -142,7 +149,7 @@
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT"
     },
     {
-      "source": "Hiperbaric",
+      "source": "Hiperbaric EU",
       "title": "Voestalpine installs Hiperbaric compressors at its H2FUTURE plant in Austria - Inspenet",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbmhNQ3pvbkJXT3BLRG90M282ekpIT0dwaUQ2WmpGWDQwVmkxd19kNkNsY1plVUhXTUlGcFh0Y21KU2xlUU13M2NEQ2VENkhYWHBHRTgtcWFXV3FNYWlyWjVvMTNFcWVVd05IeHZfVEI0YU15Sm5WUlBOTDl5WW1BS1dsVjVRdEwzc25rZWVWaHpwSm91TTN3N2ZPX0o2dFFLYkJwV0kzdDNTQQ?oc=5",
       "description": "Voestalpine installs Hiperbaric compressors at its H2FUTURE plant in Austria Inspenet",
@@ -150,10 +157,10 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "'Super greens' sicken, hospitalize dozens more in salmonella outbreak - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2F3RG5TUGFCSkZDSXcxcXY4NW9fTnhZRkgzU1I4Vm1vZHhwNFM2MGVQeXNoR09tT1NXcE1zWE9Qdy1PS2NXcWVfcm5idExOcVliT3NhSlF3UnFiMnhVQ1FPMjJoZ29JU2Z2Q3pRY3M4VjBhRUZFbmpiaW5xYnVuRnM0b0tnTGFORjIzSWZ5T19BZ0kwRURKSHpjNUttaDA4QlZfdm5meEw1NkpGdlQ4ZDVUQkxxdw?oc=5",
-      "description": "'Super greens' sicken, hospitalize dozens more in salmonella outbreak USA Today",
-      "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT"
+      "title": "CDC Warns of Salmonella Outbreak Linked to Cucumbers; Recall Issued - Central Oregon Daily",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTGNKUmdnekx6WllRX0xaTnhFYThDVzlPVzM5bmVUQXBmMnE2Zm9WdVd5SGxaRjQ3azdRUVBCdlZJMHQ1SU9JeWs1Sjdac2JKVkxUaTdrWmZwaU1JMHFLaWF1TUNGTmM2M3NXNEdvTExlZW9GYzN6RTd4OFNSWUdwZWtwMmpmdE9lZG9tRTd6QmUteVNVYjM1THpqQURydzJ4dmhnR0I1cGc3RzcyRFJfaldPcVVOQ3FpSjFtWENWcUJhYUdqUllVb1djVjlTOWhXcHRjLXZvdHlDeVNnYlJKcmln?oc=5",
+      "description": "CDC Warns of Salmonella Outbreak Linked to Cucumbers; Recall Issued Central Oregon Daily",
+      "pubDate": "Fri, 20 Mar 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
@@ -205,13 +212,6 @@
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Extensively Drug-Resistant Salmonella: Moringa Powder (February 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOXA4S0pBZmg3bzZrRmZTQzFJODhKV3ZPcm83RWNSR0E1N3dTR28wTG9MYXc5M0plb1Y1aU9wMHQ5OVl3ZVZVRC15c2t1eUZCODlSZ2xCbExXSjVGYUJWWnVSZkVQT0dMQzlkRjE5NGU2aWNtdkFxOWZoUk1jODBVQW1hRTB2MG5oNWp6dlVBT1E1Qi02MVNVQ2tZM1FzMjZfcko0djRpbjNzUlpVMTlmMi14aTVmUUJ5ZVk3LUdQcGduZmQ4RGJwWXVrckFIdDFwbVRXSDFBbVVTZw?oc=5",
-      "description": "Outbreak Investigation of Extensively Drug-Resistant Salmonella: Moringa Powder (February 2026) fda.gov",
-      "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "Listeria Outbreak Linked to Prepared Pasta Meals - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVljR2g1SWZ1cDJkZE5xMkgxMVR6emh2WXplNFBSaUs3Ni1LaF9ySk54QmtwWDd2SWU5YUdfQnhfLWhJX1lQZmhJQ2xMZkU0MDlHeHQzR2xZQlNiWHhYUmQxcUZuZF93WjU3TnBTbDVyaVBVWXVGMlZyamFjLVc5elB4WTdGdjV2VGc?oc=5",
@@ -248,10 +248,17 @@
     },
     {
       "source": "UK Food Industry",
-      "title": "Meet the food innovation centres leading the way in sustainable, tech-driven development - FoodBev Media",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVUY204LVk3LUY2MXN6QXVRcnJKb0hKbFBRbHNpeXAxSlhzN3c1WW90NGY1UzNCU1cwUDNmbFd6LTRTZWpYZ0lpTTdJRnRQT3ptQ3hneVdYSnRWNjdYRGNsTkV0S21Jb1M5Sk83T21aeE1VVWNSZWkzUEI4b0lKTWR1VTN1ZjAyYVl3eXFRX014ZzlJUnRRM2J3MEJaYVJHTzNWZzNoTVlNbVdsS2lydDBVX213Q0E?oc=5",
-      "description": "Meet the food innovation centres leading the way in sustainable, tech-driven development FoodBev Media",
-      "pubDate": "Fri, 23 Jan 2026 08:00:00 GMT"
+      "title": "£3 million investment to drive diet and health innovation - Wired-gov.net",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjRvbDFCeDJRZXMzcWFJMUFXV1FEdTFaY1ZCX1lnYzZxNjVEcFdNODhHWjRqc1ZLNk5HYTQ0UEhpX1Zwc2ZTRHlQMW9za1JaWi1LLVFEX1VQUnZVSzF4UEYtOWZnZ0dPVnlVUjhodmppT1NlU1pWcG5JOXFKd2k1VUlDck1sU2Y2bmliTXYxTzdSNW5PZkFySzNQMXBfXzZ0Ui03ZFBHdGxRUXY3MXlzd3FVSjhhak5rR2lBOXpNSjY?oc=5",
+      "description": "£3 million investment to drive diet and health innovation Wired-gov.net",
+      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
+      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
+      "pubDate": "Thu, 29 Jan 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Soups & Meals",
@@ -343,13 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUXY1V2ZWc3l5MlVWRFZFdnozSHpNUXJPVG1rdVp1ME9jdGJtTnJTSktTMEhEdnA0YzB5VzdDTUpTQzFKM3c4bnp1aDUwcGpTeDJPMGpOZWMwdnIxU3RxWTRnaU5mOXhYelA1R0V1X1ljY1NjWllwVkZyUTZMX29FeU8zR2ZXc0Rxempna0JGYm01VHplWDJuZ0cyYV9Tb3pVeG9EcGlzY2l1cFFQbnJBdg?oc=5",
       "description": "Farm to factory: These are the technologies transforming modern dairy manufacturing FoodBev Media",
       "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "More illnesses, deaths reported in listeria outbreak tied to recalled pasta salads, meals sold nationwide - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83bXZkTUFiX3E1cmxOVEVPNlgxemRkTzQ1Q0o3OEhnVldwcUJMVjlLamNiY3NJd2VmckZVczFnTDYzUUQ4anFudHdCUllkNU5HYXNuN2UxSUVBa0pqTnFrbVE2dmgwWXYzdkF3V3hWeTlzcWJsa3gwdjBn?oc=5",
-      "description": "More illnesses, deaths reported in listeria outbreak tied to recalled pasta salads, meals sold nationwide CNN",
-      "pubDate": "Thu, 30 Oct 2025 07:00:00 GMT"
     }
   ]
 }
