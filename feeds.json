@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-16T02:43:48.909501+00:00",
+  "updated": "2026-04-16T06:02:15.129264+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Hummus supplier faces fine after Listeria detection",
+      "link": "https://www.foodsafetynews.com/2026/04/hummus-supplier-faces-fine-after-listeria-detection/",
+      "description": "A supplier of ready-to-eat hummus products in South Africa is facing a fine after Listeria was found in its products. The National Consumer Commission (NCC) referred BM Foods Manufacturers to the National Consumer Tribunal following the detection of&#xA0;Listeria monocytogenes &#xA0; in products supplied to a retailer.",
+      "pubDate": "Thu, 16 Apr 2026 04:03:24 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Cheese recalled because of Listeria",
@@ -42,13 +49,6 @@
       "link": "https://www.foodsafetynews.com/2026/04/7-eleven-sandwiches-wraps-recalled-because-of-listeria/",
       "description": "7-Eleven brand sandwiches, subs and wraps are being recalled in Canada because of contamination with Listeria monocytogenes. The products were distributed to 7-Eleven stores in Alberta, British Columbia and Saskatchewan. The recall was triggered by&#xA0;the company, according to the Canadian Food Inspection Agency. There&#xA0;have been no",
       "pubDate": "Tue, 14 Apr 2026 22:58:36 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Experts warn of more severe Salmonella infections",
-      "link": "https://www.foodsafetynews.com/2026/04/experts-warn-of-more-severe-salmonella-infections/",
-      "description": "Rising temperatures and heatwaves are expected to have a major impact on serious Salmonella infections, according to scientists.",
-      "pubDate": "Tue, 14 Apr 2026 04:03:30 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -268,6 +268,13 @@
       "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT"
     },
     {
+      "source": "HPP Juices & Beverages",
+      "title": "Scientists Find Drinking This Juice Lowers Blood Pressure in as Little as 2 Weeks - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSVZsYkNvZURWYXJiMTdoakhISHVtZ0lnaFllQnNkOEN4Wlp6QVlGbUpTTDJlQzNoOWtkVDE3SXllNnFkbmhNU3BTSUVHNGE4MVZfdi16d29HQWRPeTc1dGsxQlREdkNodGNuMnJTWHBuUWZOOVFZcnI5RWg2aU9XREkwLVNUWVZ0M3c?oc=5",
+      "description": "Scientists Find Drinking This Juice Lowers Blood Pressure in as Little as 2 Weeks AOL.com",
+      "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT"
+    },
+    {
       "source": "Food Safety UK & EU",
       "title": "Urgent food recall issued as salmonella found in treat - customer told 'do not eat it' - Daily Express",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNV91Vy12aW1MRWkyaEpIS2Q5REt4VGRDcXJRa3lyX0l4Z0xOTkhhdll3ZHdWOFBCd1djWjVGTHRSMWFRZV9PQkM3RHlSMlkyX0g0NkQyQmdwOU1PSUJGdXpwNnQtY3pmSHBOVjlIVE9rNHViWUVmVk51OUpwbzNwRU5qLTlsRVo3OXdKcTl4NEZPemtvLWozTkYwZW8zNkN2TXJJeXUzbTXSAa4BQVVfeXFMT1NBWTJXSlEtbk5BYW5NRDg3MG1mS1Q3MkFIazF6d2FkVURURXVaZ2k0ajI4bGtsVEVzeUxXSk1FMHFlZEpIclJMdFRRelk5SXQ5TDYxbENWbHh2YmlFS3lqUmNiUnFYY2xDV2t2Y2tpdFVEUlZ0cElZcWUyZ09tR2ZVb2djRkJNdkNlSWpzeWRTMDZqVnoteEJNOXF5WFBFejU4R3VLRjkxTGEyOEdn?oc=5",
@@ -296,6 +303,13 @@
       "pubDate": "Thu, 27 Nov 2025 08:00:00 GMT"
     },
     {
+      "source": "UK Food Industry",
+      "title": "Ingredients under pressure: What HFSS means for NPD - Food Manufacture",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVZrV3oyajAyMGNRaXBYbVBhYWU0NXVqU2JQME5YWWxCUzlTN3dzZHV6ZVVWU1ZibEc3WUdiMzlXTWFaNms2Y0VDODhiT3hrRmdsdi1BYW1hcVBNNTVscFRKd1Zwc3hEOURCeTJjNUJmZzZlZURKc3JnOFd3dlBvbl9fUUlMdlM1Smg2TkFsZkZVWEJjVVRCVjFJRTVMUHNhWTNiU2VwX25WYUlxdi15YU0wbGM?oc=5",
+      "description": "Ingredients under pressure: What HFSS means for NPD Food Manufacture",
+      "pubDate": "Wed, 26 Nov 2025 08:00:00 GMT"
+    },
+    {
       "source": "Hiperbaric",
       "title": "Universal Pure Expands HPP Capacity with New Hiperbaric 525i System at Pennsylvania Facility - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNW14WS12LXVKNkdJc3dsTzNScDdjb1Nscks3Y1lHRlJKa2FFTHBOUUNQbnJpd1VOR2U5dk9FOHVZb3NDcDZna3FyWlRfOUZMRkZKVW4yZXdJOElKLXdyZEdGWi1lYlRXNzVxNzJpRC1hblU0V0duZXJ2SEdLYUY3TThaUnZmNklBSm10VWFfQU1OT1lkNzhtNTk5aXZQNmlNZFFqNzJQbXAxVWxoblNPLXdic1pBLTBnc3FzNUxwa2lTSGdfekc5eEIzWGtuWVF1TW9FLUVhYVZwNlo3VVVDdURn?oc=5",
@@ -308,20 +322,6 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzJuTUJEMjVscTBHVnRDWjdnR2hTM0dDWTk5ZkkwV2lXdzJwR0N0dmZaeHJ0OEhjNnRBbGNSUElDcHM1T3Y3emNBeGJrZDltMXJ3S0VydloyUXM1WWVxNzhKU1NSZGFEeUtKZ3ZtY2hLR3BSV2thNFNDMG13Tll2eTZSOEZ2aHZSMm51Q3doSGJtcHlpWlUwcm5OYU1sZjNkLXBhdzZoWDYzeFJDRzRvdWs2YjNGZnkzaXM5OE1DMDg0VUg3?oc=5",
       "description": "High-Pressure Processing reverses the dark color or dark-cutting beef to bright red MEAT+POULTRY",
       "pubDate": "Fri, 21 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Multi-million pound backing for cutting edge projects by UK scientists and innovators - GOV.UK",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOHBkdFNzZkNVSVhGa1NaQk1paF9qV0M4Q1J4dEpqUnFRWnJ0NmhKcUVpeFlyUElRNkEtYWFxekNBWjZoYnE1c2lUb0VtSjBieklqVldoMmVjYWNfRk1VQ0ZOaGZSTUEzcjlrVWNSTTkyYzVENHZFVHFXbnFJelZXdkx1TW9hMEVZd3owQ1pYaEtrVlliQUVZbjQzWm12d0M2cEszVkNRMVUxV2xDb1dXcFdQSkttYzVPdEltOA?oc=5",
-      "description": "Multi-million pound backing for cutting edge projects by UK scientists and innovators GOV.UK",
-      "pubDate": "Tue, 18 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric EU",
-      "title": "Hiperbaric brings advanced Hot Isostatic Pressing to Formnext, unlocking full potential of metal additive manufacturing - tctmagazine.com",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ3c4eWhyU0NKN0ZNTy1mXzJ3Y1Bqa2tqNGdqNXlLT0R5R3BoNVdnX1FwbWNxYzV3TGxTNHZJdWJhTElrQkgxTklNX0JyWDREN25ONVVranlsTjlCRXIzREZUQ1E0VDFaUnVhcWszbzBxVlJDc09DRHhGemd1dFNkZl9PWTlqOFJ4ZTZZNXpvOHM2RjNUNXBUMG0zVS1CNjFMb2NscWtRcFVFUGJZQUZLT0lfS2xVRFBWSkhBNHpWYW4xMnZPZmppWHM0TDY0RnVZa1ZRVl9wMmxTVnV1Sk0ybQ?oc=5",
-      "description": "Hiperbaric brings advanced Hot Isostatic Pressing to Formnext, unlocking full potential of metal additive manufacturing tctmagazine.com",
-      "pubDate": "Wed, 12 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -338,7 +338,7 @@
       "pubDate": "Mon, 03 Nov 2025 08:00:00 GMT"
     },
     {
-      "source": "HPP Cosmetics & Beauty",
+      "source": "HPP Healthcare & Medical",
       "title": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdFZlWGhqdzd2Qk81Q1kyN2tXc2M1VGVMdDBrM19kNkt6S3pZbWkwLVR6WUFYcUVLVTRtdEVsR2M2TzQzN3FXOVpGOUxlejdTd2VqdUhyekZuSnVCU0xXY0NSZklEcFphM3hwSS1PY1duUkJBeFo4dzUzWHRqX2YzVzB4a2tTRmZwS05SRk5jdlduVWlPUTRzVXN0em9INjhHX3hTaUs4dVo4RjRJMlhfM2RTaHJncHNUZUpTV3FNV1QzMWxGVkdfQmcxcjI1UWl3UW42djBsa3dUNklQdE83TmxkbnNQcnQwbUstTTh2SnRPb1hBZ3ZqTV9LNURDMFV1eklubElBVzhQM0lqM1Zv?oc=5",
       "description": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership PR Newswire",
