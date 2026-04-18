@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T20:38:10.299346+00:00",
+  "updated": "2026-04-18T22:35:50.276411+00:00",
   "articles": [
     {
       "source": "Salmonella Outbreaks",
@@ -51,6 +51,13 @@
       "pubDate": "Fri, 17 Apr 2026 04:02:07 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "Canadian pistachio salmonella outbreak: Ontario cases jump to 74 - Inside Halton",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNanVSc3JQSWY1bVFkN0x2N1dOZjJaZ1Mwc2ViVmxZa05IbVl1RU5tZjVHZTJQUVNaQVB0c29uZ2ZkR0hwOERHQmJFSXc5d2dmQVFHWURTZUdEd1Q5dVlpVzFhV2lsUi15ZklRX2J2bnFkcVlZVXROS2w2amJseWZ4VjE2M2JMZGdFQy1WUXBoZzN5Y0JDTllFWl8tYXlMZE9Qd09Sa29rR0VsXzE5Y1dfRDhNMlhCUkVjTlNGdmIwZWhIeXZDS0ZF?oc=5",
+      "description": "Canadian pistachio salmonella outbreak: Ontario cases jump to 74 Inside Halton",
+      "pubDate": "Thu, 16 Apr 2026 19:30:00 GMT"
+    },
+    {
       "source": "Listeria Outbreaks",
       "title": "Report shows shortcomings in recall system - Food Safety News",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWi1ub0NHYVAwMXJnTzFIZm5sSWlEUmx1cjJYT2k5N25DbG03QTctd2V2UFYxZThIc19rZFZlbjZicUkxbWU5UlFqWmJMVUN5S0lnZ0xLYmd1LU1yb2pweHZYUUx4SHVRQlNab1NoMURGY1FGTi1oWDYzNURrQVFKbFNUa0poY0tPWlE?oc=5",
@@ -94,17 +101,17 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "What Is Listeria and What Makes It So Dangerous? The Story Behind the Deadly Bacteria Causing Food Recalls in the UK | IBTimes UK - International Business Times UK",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ1ZXQkdsLWp0Wm14ZjUzcmpFcTFrWGk5SS1kVENZLXUyQWl0ajUzNUxwV0VkTUxhWng4dFE2MFdpMk05a0tOcVIwUEJBYVhVMWh0NTM5QUtsdkJYQV9wZzVOTkxGMzV5UWxsWDhCaE90WFpZZFBkX0NnWHRacUpDSXludWFTTUk?oc=5",
-      "description": "What Is Listeria and What Makes It So Dangerous? The Story Behind the Deadly Bacteria Causing Food Recalls in the UK | IBTimes UK International Business Times UK",
-      "pubDate": "Tue, 07 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
       "title": "'Do not eat' beef item as urgent recall issued after listeria found - The Mirror",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kWUtOVFphNXgwTHlGMkN3M3pYRGJVbnBQUkpXQ25VT251NnVXZnF5OEJMUWpHOHF2N1M1elFvajh5VFl2SDhNTlBiTTZ4aEVWWDJhaERoZ2thdExOMDE2bFhCdERaVGZBMUtxbUFvbklSRnI50gF6QVVfeXFMTmhpTHlVNUo2N05LSEtncTZRaUhWVEJBVkRiVjl0M3dQUk5FT1d1cVVWbXFDdmV6ZHFMWXFldV9XX25TZkxfd3B2VlZXUmR6MnNqeGlKN2pJc1VscFdIb08xRnEwMG53YWk0V1NhMldDaUFzME5xRjVFemc?oc=5",
       "description": "'Do not eat' beef item as urgent recall issued after listeria found The Mirror",
       "pubDate": "Sun, 05 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Extensively Drug-Resistant Salmonella Outbreak Linked to Moringa Powder Capsules - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54ZVo4a2hNMkFQUVVld1VUM0NpMXRPdVY2SFFvYnVNX21Ga0hnZU5yQ29XV1VEYVZfQnhkSHRvQVhOM1V4eGhmd2k5ZFYxdEtVMWZkd0w2a1VsQUs4SlM4dzh1QWF1NEkycGlLOC0wUjk0N1ppSk55RFBpQ2RYZw?oc=5",
+      "description": "Extensively Drug-Resistant Salmonella Outbreak Linked to Moringa Powder Capsules Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "EU HPP & Food Tech",
@@ -153,13 +160,6 @@
       "title": "Greenhead Lobster continuing to refine its premium lobster products - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXZMXzNQYVBNSGZZXzRBWGF4UnBjVjdSeVoyVE9xN2VYMUwzNGZoTTFYVUJ1S1FCVUNiTkt3WWhSX01wd3ZrMXNxbFlYMGs4aVBjeV9iMVBiX1JDQm1YU2hNbTZHemRnWGoxdzF4ZG1MWWZUN0k3aVhKVEtIWU1ZZUlrazRhY2h1VjN6ZVR0YjJXeXZPVjVuNngwUnRVemVOUUJud1dnR01wTHR0emxKc29QQjlWZw?oc=5",
       "description": "Greenhead Lobster continuing to refine its premium lobster products SeafoodSource",
-      "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "The water flossers I recommend for whiter, healthier teeth, with tips from a dentist - The Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQV0NVWjZwOWhmaXFtMkRxaGtPSU5IemFRWjJvejVNVWMxcHNrRzZKRkRjSGFpNnNwakVDU29xbzJ0aDAxWGUyUUxNSWZoZzc1UlhqQ2g0MWhCektyNi1LNE1OWkxzd0ZGdnZFZUVfS1ExUQ?oc=5",
-      "description": "The water flossers I recommend for whiter, healthier teeth, with tips from a dentist The Telegraph",
       "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT"
     },
     {
@@ -226,13 +226,6 @@
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Extensively Drug-Resistant Salmonella: Moringa Powder (February 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOXA4S0pBZmg3bzZrRmZTQzFJODhKV3ZPcm83RWNSR0E1N3dTR28wTG9MYXc5M0plb1Y1aU9wMHQ5OVl3ZVZVRC15c2t1eUZCODlSZ2xCbExXSjVGYUJWWnVSZkVQT0dMQzlkRjE5NGU2aWNtdkFxOWZoUk1jODBVQW1hRTB2MG5oNWp6dlVBT1E1Qi02MVNVQ2tZM1FzMjZfcko0djRpbjNzUlpVMTlmMi14aTVmUUJ5ZVk3LUdQcGduZmQ4RGJwWXVrckFIdDFwbVRXSDFBbVVTZw?oc=5",
-      "description": "Outbreak Investigation of Extensively Drug-Resistant Salmonella: Moringa Powder (February 2026) fda.gov",
-      "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "Hiperbaric",
       "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb0JEamkwMjhURUVDb2Q2cm1RX1docGhWbldaZERZT3JZcWhTYUJBOUxsQjZCWGY2N2VyemtUT1VKVE9iNGYxOXY3R2xCMHZvaGEybzNpSG5CTy1xVFlfRXRSLVd6akRnNFU3aWdfVW44ZDJobjB6NmgwcFA0MDg2b0JhenowWkhZdlF4OVlNV3dPVERm?oc=5",
@@ -254,18 +247,18 @@
       "pubDate": "Sat, 07 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Report Raises Concerns About U.S. Food Recall Timeliness, Transparency in 2025 - Food Safety Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa0t0dWtyMUEwRUc1ZVJVcUVhLWVqeE1UcnpNWXFFQmh4WENwYVEtcTF5dkpROFFMQjE3Z3ZRUlBhLW5SWmxPUDZYQXR1QUU0YVU2TU91T3FxcnRIbXdfUlJKT2lweldjXy1XZTU3a0tfN09yMG5tRkhPenNDMlhhYjlqRV9MT0JtTVZQVV9CbUJYR3EzNVB4WU1UOXFySS1iMXduSzJBdTFXanR3NVRSZmt4MDdNdUxqWlE?oc=5",
-      "description": "Report Raises Concerns About U.S. Food Recall Timeliness, Transparency in 2025 Food Safety Magazine",
-      "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "UK Food Industry",
       "title": "£3m fund unveiled to target diet and health innovation - British Baker",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
       "description": "£3m fund unveiled to target diet and health innovation British Baker",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
+      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
+      "pubDate": "Thu, 29 Jan 2026 08:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -287,6 +280,13 @@
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSVo1em95Tjc1b3d4Tm9HNE1vaWVrMlZZQ2FBMGUzbDM4bUNGaVJDc3luTWVWTi1GWERhcTV1cGxIRmthZU5kcWZoRnF1WVY5bkl0TS1JcGhBSVJsT2NaSW5nVHVTUXkwRUpaY29tUGdJUDFzc1ZRSDlzRHdSWElxa21nNENpeWJRZWxMRU56ZzVWbG51SFFUZGt4czBUMTZYOFI3Q0JLRDd5SDZjX0FrY21sYzFra0N1bFFsQ1BjQXJJLTgzZHdqWl9TRWJxMnFxM3RJT0xLTlJiX040eUxoU0taSUQ0UVNxX0dHU3pzdTNNQU9VQ2czaWN2bFRzVXFTMTBHLXBGNF8?oc=5",
       "description": "Quintus Technologies and Lyric Robot Form Strategic Collaboration to Accelerate Industrialization of Solid-State Battery Production PRWeb",
       "pubDate": "Tue, 23 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Soups & Meals",
+      "title": "6 Rules for Canning You Should Never, Ever Break - Better Homes & Gardens",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFZNbW0wQ05lcHdEZEpxSlBHYWZtN3k3Z3hOZjRhZ2ZfX0owR0tpenhMY3RCQVdON2xtYS0xUWlJaERUa1Z6cmtQbFo2UVN6NEVReEZQUk1EQmppTWFBX1dTQzBqaS0yb1BaSndrVnZBY3dUTUxWUG02dW1jdnA3QWRudGRKSVpwdG9GTmNtUFplMWZGRGp2d2VCYlFfU00?oc=5",
+      "description": "6 Rules for Canning You Should Never, Ever Break Better Homes & Gardens",
+      "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT"
     },
     {
       "source": "Quintus Technologies",
@@ -338,7 +338,7 @@
       "pubDate": "Mon, 03 Nov 2025 08:00:00 GMT"
     },
     {
-      "source": "HPP Healthcare & Medical",
+      "source": "HPP Cosmetics & Beauty",
       "title": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdFZlWGhqdzd2Qk81Q1kyN2tXc2M1VGVMdDBrM19kNkt6S3pZbWkwLVR6WUFYcUVLVTRtdEVsR2M2TzQzN3FXOVpGOUxlejdTd2VqdUhyekZuSnVCU0xXY0NSZklEcFphM3hwSS1PY1duUkJBeFo4dzUzWHRqX2YzVzB4a2tTRmZwS05SRk5jdlduVWlPUTRzVXN0em9INjhHX3hTaUs4dVo4RjRJMlhfM2RTaHJncHNUZUpTV3FNV1QzMWxGVkdfQmcxcjI1UWl3UW42djBsa3dUNklQdE83TmxkbnNQcnQwbUstTTh2SnRPb1hBZ3ZqTV9LNURDMFV1eklubElBVzhQM0lqM1Zv?oc=5",
       "description": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership PR Newswire",
