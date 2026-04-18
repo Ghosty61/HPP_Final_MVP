@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T02:30:17.115070+00:00",
+  "updated": "2026-04-18T05:41:50.110184+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -65,6 +65,20 @@
       "pubDate": "Wed, 15 Apr 2026 20:55:08 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "Year-long salmonella outbreak from imported pistachios ‘difficult to control.’ Here’s why - Global News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNk15V2ZRaDlFOGVBcGFVaUFNMjlPVHVJb003TlhjckJqMC05NFpwOHFGWnVsdUFiaWxrN2ZOYzgzQm1ScXdRazd6ZDBxWHZhSEluc3d1NlJmeGhhd2VMTGM5RG0yRXMyUHUwSUFLT1BhTFJ5dnBCdDNiSjJNMUt0OUExYXNVNG04bFRBUA?oc=5",
+      "description": "Year-long salmonella outbreak from imported pistachios ‘difficult to control.’ Here’s why Global News",
+      "pubDate": "Wed, 15 Apr 2026 18:55:02 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Current Outbreaks | Foodborne Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rRFgzM2FSMHpvYzJ4ZDNKZFRLeTdMeGk3T0hxMVJrYmpoTjkxZWdzU3ptV2lvZ1NzTEQ3d2xuWWhDQVVBM1ozaEd3UFItZElRZkxrZlh3bUZTWjE4Q191YWRTWGdRZGNnbzlWXw?oc=5",
+      "description": "Current Outbreaks | Foodborne Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
+    },
+    {
       "source": "Hiperbaric",
       "title": "Oklahoma Strengthens Food Processing Infrastructure with $7 Million Investment at Oklahoma State University, Installs Hiperbaric 55 HPP System - Morning Ag Clips",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPa2pBN042OVJQcFp0YXNxUFhUc0d6UkFsd2ctTFlBMEt6ZFNzUUJuZXMwOXN5M0pfTmVVNU1HUTNVZHFsV0RQbXlWRTJLYm9kbG02QW5qMHVvRVlMZTlETXdBcFFpRXhzZVJRS1YzX090eDZmM0dCeHdncjhmQ2t4NGZCLTJScDRhX1lmUlI3dnRDc081SFZNS1lvbGxrcy1ZYk56MWNmRXRya1hxMWVUay1oOUNIY0lHQkJfVGlsWDFJVURXa3ZLMlJ5OGI5dkp5SXpqNXRYaXZqZVlkaURybk5Xc0JxeUc0M0tIcWF4a3B0N2V6VF8tc2FYOUttMU5HbGc?oc=5",
@@ -73,24 +87,10 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "What Is Listeria and What Makes It So Dangerous? The Story Behind the Deadly Bacteria Causing Food Recalls in the UK | IBTimes UK - International Business Times UK",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ1ZXQkdsLWp0Wm14ZjUzcmpFcTFrWGk5SS1kVENZLXUyQWl0ajUzNUxwV0VkTUxhWng4dFE2MFdpMk05a0tOcVIwUEJBYVhVMWh0NTM5QUtsdkJYQV9wZzVOTkxGMzV5UWxsWDhCaE90WFpZZFBkX0NnWHRacUpDSXludWFTTUk?oc=5",
-      "description": "What Is Listeria and What Makes It So Dangerous? The Story Behind the Deadly Bacteria Causing Food Recalls in the UK | IBTimes UK International Business Times UK",
-      "pubDate": "Tue, 07 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
       "title": "'Do not eat' beef item as urgent recall issued after listeria found - The Mirror",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kWUtOVFphNXgwTHlGMkN3M3pYRGJVbnBQUkpXQ25VT251NnVXZnF5OEJMUWpHOHF2N1M1elFvajh5VFl2SDhNTlBiTTZ4aEVWWDJhaERoZ2thdExOMDE2bFhCdERaVGZBMUtxbUFvbklSRnI50gF6QVVfeXFMTmhpTHlVNUo2N05LSEtncTZRaUhWVEJBVkRiVjl0M3dQUk5FT1d1cVVWbXFDdmV6ZHFMWXFldV9XX25TZkxfd3B2VlZXUmR6MnNqeGlKN2pJc1VscFdIb08xRnEwMG53YWk0V1NhMldDaUFzME5xRjVFemc?oc=5",
       "description": "'Do not eat' beef item as urgent recall issued after listeria found The Mirror",
       "pubDate": "Sun, 05 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Extensively Drug-Resistant Salmonella Outbreak Linked to Moringa Powder Capsules - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54ZVo4a2hNMkFQUVVld1VUM0NpMXRPdVY2SFFvYnVNX21Ga0hnZU5yQ29XV1VEYVZfQnhkSHRvQVhOM1V4eGhmd2k5ZFYxdEtVMWZkd0w2a1VsQUs4SlM4dzh1QWF1NEkycGlLOC0wUjk0N1ppSk55RFBpQ2RYZw?oc=5",
-      "description": "Extensively Drug-Resistant Salmonella Outbreak Linked to Moringa Powder Capsules Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "UK HPP Industry",
@@ -118,6 +118,13 @@
       "title": "'Do not eat': Meat product recalled due to presence of disease-causing bacteria - Hexham Courant",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdWtEeFRtNEI1bDdmMTBDNHdYTG9Sa2Jrb0VQbjhIRW40SkNrQlJreHZBMzFSUGF0VWNBUlRzc3BXZlVPWDgtVmpnZzBDZDc1TnVNbG0zaENSOVZaNU0xa1A4MzZUS3dOam5uaTNRdGxnelBfbmpnVGcxZUJtY1R6LVFKVU5vbkxqTGNZR3R4TnRFS0NKa3hsNGJQaF9DZGpxeU9OLThTWDB5UzRaSlNIQU9R?oc=5",
       "description": "'Do not eat': Meat product recalled due to presence of disease-causing bacteria Hexham Courant",
+      "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "Urgent recall issued as deadly bacteria found in popular product - Daily Express",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSnl2bk5qdVJPOF9vZThaVnhGSTRuV0IwM2I3ZDdRQmpBbXY1TXJnLXQxbXZQVG9pOVNHdHlhaWVnSkE1a0JxaXA5S2NOdzhMbFR6SVNtYWF0VGZJMDRvVW5FRnREOF9KUlQtRjNaaTk4by10djFlamIwU1N3a3QzTm5tamI3RTBiQWpnTVdFSkUzTTFFTXfSAZsBQVVfeXFMT3BUcGxVUFUybjh2Sk1ISTJ4c3NyYV92eTB4M1lERlhKQV9aU2UwWmdMbzN6YnBmdFd0dzJMU1hiVTFRMW1leDZjOXZMQTFIcEswWldyWkF1eU9Qd3pfeEhBMERMdDVyLVZLRmN4VlhfeEJUT2FMZVJTbGdzNUNMcXVVU2J6SGdTTk53bU5zOWJGc1JIdVhzanVaUzA?oc=5",
+      "description": "Urgent recall issued as deadly bacteria found in popular product Daily Express",
       "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT"
     },
     {
@@ -227,24 +234,10 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Recalled supplement linked to reported salmonella outbreak, FDA says - LiveNOW from FOX",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV2NVWHRaeUNuT05CQ2VWcnF1eFdRQUpJaVRyQWJVZXprbzhLWlkwSDA3eDVaT1ZyTVgxX0FtRFlJb09Jd1NqRFRLVkhCTjhVanBpdDk3OXZhdXBGR29acjhwNHRxZGV5NkpzSmdZTkI4RjlybEkxLXI1S1lCd3gxc1IxakE3M0nSAYwBQVVfeXFMTy14Q19EYTYxVkVvNHE2WnhfUEd4T1BmRVVld0tKOXBFaEFOdWwyZ05XSXl6bDJ5MWxIcnRQQjdabGw1QWF1WUliek5PQ1ROVXJsUVZRVHF6dTdWMFY1Skd3M3RVb0U0Vm9jS2dodVoyMlVIQ0xSTUtlajJsNS1iR0JCZ3hmdnUwVHlqeXQ?oc=5",
-      "description": "Recalled supplement linked to reported salmonella outbreak, FDA says LiveNOW from FOX",
-      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
       "title": "Outbreak Investigation of Extensively Drug-Resistant Salmonella: Moringa Powder (February 2026) - fda.gov",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOXA4S0pBZmg3bzZrRmZTQzFJODhKV3ZPcm83RWNSR0E1N3dTR28wTG9MYXc5M0plb1Y1aU9wMHQ5OVl3ZVZVRC15c2t1eUZCODlSZ2xCbExXSjVGYUJWWnVSZkVQT0dMQzlkRjE5NGU2aWNtdkFxOWZoUk1jODBVQW1hRTB2MG5oNWp6dlVBT1E1Qi02MVNVQ2tZM1FzMjZfcko0djRpbjNzUlpVMTlmMi14aTVmUUJ5ZVk3LUdQcGduZmQ4RGJwWXVrckFIdDFwbVRXSDFBbVVTZw?oc=5",
       "description": "Outbreak Investigation of Extensively Drug-Resistant Salmonella: Moringa Powder (February 2026) fda.gov",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Listeria Outbreak Linked to Prepared Pasta Meals - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVljR2g1SWZ1cDJkZE5xMkgxMVR6emh2WXplNFBSaUs3Ni1LaF9ySk54QmtwWDd2SWU5YUdfQnhfLWhJX1lQZmhJQ2xMZkU0MDlHeHQzR2xZQlNiWHhYUmQxcUZuZF93WjU3TnBTbDVyaVBVWXVGMlZyamFjLVc5elB4WTdGdjV2VGc?oc=5",
-      "description": "Listeria Outbreak Linked to Prepared Pasta Meals Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Thu, 12 Feb 2026 08:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -268,13 +261,6 @@
       "pubDate": "Sat, 07 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Report Raises Concerns About U.S. Food Recall Timeliness, Transparency in 2025 - Food Safety Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa0t0dWtyMUEwRUc1ZVJVcUVhLWVqeE1UcnpNWXFFQmh4WENwYVEtcTF5dkpROFFMQjE3Z3ZRUlBhLW5SWmxPUDZYQXR1QUU0YVU2TU91T3FxcnRIbXdfUlJKT2lweldjXy1XZTU3a0tfN09yMG5tRkhPenNDMlhhYjlqRV9MT0JtTVZQVV9CbUJYR3EzNVB4WU1UOXFySS1iMXduSzJBdTFXanR3NVRSZmt4MDdNdUxqWlE?oc=5",
-      "description": "Report Raises Concerns About U.S. Food Recall Timeliness, Transparency in 2025 Food Safety Magazine",
-      "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "UK Food Industry",
       "title": "£3m fund unveiled to target diet and health innovation - British Baker",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
@@ -294,6 +280,13 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVUY204LVk3LUY2MXN6QXVRcnJKb0hKbFBRbHNpeXAxSlhzN3c1WW90NGY1UzNCU1cwUDNmbFd6LTRTZWpYZ0lpTTdJRnRQT3ptQ3hneVdYSnRWNjdYRGNsTkV0S21Jb1M5Sk83T21aeE1VVWNSZWkzUEI4b0lKTWR1VTN1ZjAyYVl3eXFRX014ZzlJUnRRM2J3MEJaYVJHTzNWZzNoTVlNbVdsS2lydDBVX213Q0E?oc=5",
       "description": "Meet the food innovation centres leading the way in sustainable, tech-driven development FoodBev Media",
       "pubDate": "Fri, 23 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "45 confirmed sick in multistate Salmonella outbreak tied to supplement - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnNMOEg2OVdWNEFQazU4Y0NrNlhQaVlBS2tKWXp0VmlaMVp6ekk4VjA3Y3BYb0Z4MDZBQnBDNkhUYXJlXzJSUzNhMFFwM0NXYzY3WUxXcG5MbU02VkxGblY3dDgxSWt2alZqeFdmMGJCRzVCeTFXbDVPQ3pVX1hEdFdLU25CVUw2UnFQRWdudFV3bGZHd2ROZ05PV21fRUdJaTdTMg?oc=5",
+      "description": "45 confirmed sick in multistate Salmonella outbreak tied to supplement CIDRAP",
+      "pubDate": "Thu, 15 Jan 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Soups & Meals",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ3c4eWhyU0NKN0ZNTy1mXzJ3Y1Bqa2tqNGdqNXlLT0R5R3BoNVdnX1FwbWNxYzV3TGxTNHZJdWJhTElrQkgxTklNX0JyWDREN25ONVVranlsTjlCRXIzREZUQ1E0VDFaUnVhcWszbzBxVlJDc09DRHhGemd1dFNkZl9PWTlqOFJ4ZTZZNXpvOHM2RjNUNXBUMG0zVS1CNjFMb2NscWtRcFVFUGJZQUZLT0lfS2xVRFBWSkhBNHpWYW4xMnZPZmppWHM0TDY0RnVZa1ZRVl9wMmxTVnV1Sk0ybQ?oc=5",
       "description": "Hiperbaric brings advanced Hot Isostatic Pressing to Formnext, unlocking full potential of metal additive manufacturing tctmagazine.com",
       "pubDate": "Wed, 12 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Nationwide Listeria outbreak: 6 dead and 27 hospitalized, dozens of products recalled - WRAL",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1NLbnJCRjM4WHZIME1oWTJCbEw0OXEtT2U2V1dnYWxaVEN2NGtlZ0kzaEx6V0R0YlBSLWZZXzRQWjBERVZOT2NXVldvY0VFaEEyZnNUejEtdDltdnBQWlNnNjlNU1ZhWl9SbkpxUXdody1HSkMtbkk2V0hYV3oyZ1lLY1RiS01BeVo0anhnZ3Y?oc=5",
+      "description": "Nationwide Listeria outbreak: 6 dead and 27 hospitalized, dozens of products recalled WRAL",
+      "pubDate": "Tue, 04 Nov 2025 08:00:00 GMT"
     }
   ]
 }
