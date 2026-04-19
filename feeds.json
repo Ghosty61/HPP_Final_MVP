@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T10:39:55.523935+00:00",
+  "updated": "2026-04-19T13:03:55.452930+00:00",
   "articles": [
     {
       "source": "Salmonella Outbreaks",
@@ -70,13 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNk15V2ZRaDlFOGVBcGFVaUFNMjlPVHVJb003TlhjckJqMC05NFpwOHFGWnVsdUFiaWxrN2ZOYzgzQm1ScXdRazd6ZDBxWHZhSEluc3d1NlJmeGhhd2VMTGM5RG0yRXMyUHUwSUFLT1BhTFJ5dnBCdDNiSjJNMUt0OUExYXNVNG04bFRBUA?oc=5",
       "description": "Year-long salmonella outbreak from imported pistachios ‘difficult to control.’ Here’s why Global News",
       "pubDate": "Wed, 15 Apr 2026 18:55:02 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Current Outbreaks | Foodborne Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rRFgzM2FSMHpvYzJ4ZDNKZFRLeTdMeGk3T0hxMVJrYmpoTjkxZWdzU3ptV2lvZ1NzTEQ3d2xuWWhDQVVBM1ozaEd3UFItZElRZkxrZlh3bUZTWjE4Q191YWRTWGdRZGNnbzlWXw?oc=5",
-      "description": "Current Outbreaks | Foodborne Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -156,13 +149,6 @@
       "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "The water flossers I recommend for whiter, healthier teeth, with tips from a dentist - The Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQV0NVWjZwOWhmaXFtMkRxaGtPSU5IemFRWjJvejVNVWMxcHNrRzZKRkRjSGFpNnNwakVDU29xbzJ0aDAxWGUyUUxNSWZoZzc1UlhqQ2g0MWhCektyNi1LNE1OWkxzd0ZGdnZFZUVfS1ExUQ?oc=5",
-      "description": "The water flossers I recommend for whiter, healthier teeth, with tips from a dentist The Telegraph",
-      "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT"
-    },
-    {
       "source": "Hiperbaric EU",
       "title": "Hiperbaric promotes global scientific talent with third edition of HPP Research Awards - FoodBev Media",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUFHb1UtZWhvTmwwekh6YW4wemx6OGxnRFN0X2JTQnBYVUNWMkFmMllBRUVjQWJ2RXhGb1Qyb3RsMEYySUdqbE9Sc3pNbGx3eF9QeFo2TVR6MFpFVUF4dEdsYnRqZTFSVHlkWjBJMnRmRVpES2pEMUxRUGt0ZGxDSkFRalB1M3g4YWN6b3VwV25UTW9DZjZEQmVLa0ZocDJET1NONDEydUd0SklDaEtKRTBLWE5kdw?oc=5",
@@ -175,6 +161,13 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCWlc1cTVRcVM0WEYwakxYZVdPeEZmdk5kVzNDRzRkV2ZZTmZZTFNhNDlubTRtSDdrSXZqVTdVTHRQcjNJQzhJYjZ6V042MDh0RTRVa2c3eGQ4Znc0MHNYUzVvczZKYWsyenB6RVAyNVBrT1dwbUE?oc=5",
       "description": "Food Technology Market | Global Market Analysis Report - 2036 Future Market Insights",
       "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Salmonella Outbreak Linked to Moringa Leaf Powder - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
+      "description": "Salmonella Outbreak Linked to Moringa Leaf Powder Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -220,10 +213,24 @@
     },
     {
       "source": "Salmonella Outbreaks",
+      "title": "Recalled supplement linked to reported salmonella outbreak, FDA says - LiveNOW from FOX",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV2NVWHRaeUNuT05CQ2VWcnF1eFdRQUpJaVRyQWJVZXprbzhLWlkwSDA3eDVaT1ZyTVgxX0FtRFlJb09Jd1NqRFRLVkhCTjhVanBpdDk3OXZhdXBGR29acjhwNHRxZGV5NkpzSmdZTkI4RjlybEkxLXI1S1lCd3gxc1IxakE3M0nSAYwBQVVfeXFMTy14Q19EYTYxVkVvNHE2WnhfUEd4T1BmRVVld0tKOXBFaEFOdWwyZ05XSXl6bDJ5MWxIcnRQQjdabGw1QWF1WUliek5PQ1ROVXJsUVZRVHF6dTdWMFY1Skd3M3RVb0U0Vm9jS2dodVoyMlVIQ0xSTUtlajJsNS1iR0JCZ3hmdnUwVHlqeXQ?oc=5",
+      "description": "Recalled supplement linked to reported salmonella outbreak, FDA says LiveNOW from FOX",
+      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
       "title": "Outbreak Investigation of Extensively Drug-Resistant Salmonella: Moringa Powder (February 2026) - fda.gov",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOXA4S0pBZmg3bzZrRmZTQzFJODhKV3ZPcm83RWNSR0E1N3dTR28wTG9MYXc5M0plb1Y1aU9wMHQ5OVl3ZVZVRC15c2t1eUZCODlSZ2xCbExXSjVGYUJWWnVSZkVQT0dMQzlkRjE5NGU2aWNtdkFxOWZoUk1jODBVQW1hRTB2MG5oNWp6dlVBT1E1Qi02MVNVQ2tZM1FzMjZfcko0djRpbjNzUlpVMTlmMi14aTVmUUJ5ZVk3LUdQcGduZmQ4RGJwWXVrckFIdDFwbVRXSDFBbVVTZw?oc=5",
       "description": "Outbreak Investigation of Extensively Drug-Resistant Salmonella: Moringa Powder (February 2026) fda.gov",
       "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Listeria Outbreak Linked to Prepared Pasta Meals - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVljR2g1SWZ1cDJkZE5xMkgxMVR6emh2WXplNFBSaUs3Ni1LaF9ySk54QmtwWDd2SWU5YUdfQnhfLWhJX1lQZmhJQ2xMZkU0MDlHeHQzR2xZQlNiWHhYUmQxcUZuZF93WjU3TnBTbDVyaVBVWXVGMlZyamFjLVc5elB4WTdGdjV2VGc?oc=5",
+      "description": "Listeria Outbreak Linked to Prepared Pasta Meals Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Thu, 12 Feb 2026 08:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -240,13 +247,6 @@
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "HPP Soups & Meals",
-      "title": "Bowen Yang says watching SNL after his exit is 'totally bizarre' but 'ultimately fun' - The Express Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVWF3ZU53Rk12bWZfWXBWU21lTXFYTFlDT2tmMk5hT2tYS3oxSUJ4WGFEWURHcUxmbUhpRHNQX2ZoWUpXV29PX0k5MmoyN2R5ZnJvcm1UX2VwZ2syN1U5RVhSYVpMeEtQcTB6cEE2VFNMa0t5Q3lZZHJoUmpfVjduS3VsRE1tSmZaSG8wcXROMldURF90R3BXWGdGRG5sS3h1ZEJ1LVdpdW1RbXJlc3h6UmdjRG92NHpCaVHSAcIBQVVfeXFMUHQ5OWFuZV9IUlRzY244WTduTHFUOVRTSG5GNlNldHdtc0hUeGR1cjZWYmdBUEwxckJ4U1paQ2xwWTdwc2YxQzZIWU13WDdzaFlDemR5V0d1S3FGUl9EbVNSZGhpWUxuXzdRX3pYaFBsSFE3V242WUNDYXV2cGhLVHBrcmFBTC1yX1V0TUlRQXUxbDlTUW5KUVNnT0Y2ZWtoak8tdnBtMDRYbkcxb2hvWUxEZy1DOWpzYVhXMm1CellXTFE?oc=5",
-      "description": "Bowen Yang says watching SNL after his exit is 'totally bizarre' but 'ultimately fun' The Express Tribune",
-      "pubDate": "Sat, 07 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "UK Food Industry",
       "title": "£3m fund unveiled to target diet and health innovation - British Baker",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
@@ -259,13 +259,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVUY204LVk3LUY2MXN6QXVRcnJKb0hKbFBRbHNpeXAxSlhzN3c1WW90NGY1UzNCU1cwUDNmbFd6LTRTZWpYZ0lpTTdJRnRQT3ptQ3hneVdYSnRWNjdYRGNsTkV0S21Jb1M5Sk83T21aeE1VVWNSZWkzUEI4b0lKTWR1VTN1ZjAyYVl3eXFRX014ZzlJUnRRM2J3MEJaYVJHTzNWZzNoTVlNbVdsS2lydDBVX213Q0E?oc=5",
       "description": "Meet the food innovation centres leading the way in sustainable, tech-driven development FoodBev Media",
       "pubDate": "Fri, 23 Jan 2026 08:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "45 confirmed sick in multistate Salmonella outbreak tied to supplement - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnNMOEg2OVdWNEFQazU4Y0NrNlhQaVlBS2tKWXp0VmlaMVp6ekk4VjA3Y3BYb0Z4MDZBQnBDNkhUYXJlXzJSUzNhMFFwM0NXYzY3WUxXcG5MbU02VkxGblY3dDgxSWt2alZqeFdmMGJCRzVCeTFXbDVPQ3pVX1hEdFdLU25CVUw2UnFQRWdudFV3bGZHd2ROZ05PV21fRUdJaTdTMg?oc=5",
-      "description": "45 confirmed sick in multistate Salmonella outbreak tied to supplement CIDRAP",
-      "pubDate": "Thu, 15 Jan 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Soups & Meals",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83bXZkTUFiX3E1cmxOVEVPNlgxemRkTzQ1Q0o3OEhnVldwcUJMVjlLamNiY3NJd2VmckZVczFnTDYzUUQ4anFudHdCUllkNU5HYXNuN2UxSUVBa0pqTnFrbVE2dmgwWXYzdkF3V3hWeTlzcWJsa3gwdjBn?oc=5",
       "description": "More illnesses, deaths reported in listeria outbreak tied to recalled pasta salads, meals sold nationwide CNN",
       "pubDate": "Thu, 30 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric",
+      "title": "New HPP tolling facility in North Carolina to feature Hiperbaric system - Pet Food Processing",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNDlqSEdueVZFbHIxU1ZUUjM5WGh5OGxBT1dvUkdPQmRPa3VsY25ISEpPSjV0WGticnh1Zk1yVjViNURINHYzS1o4WGZucE9naVJ0c1JLdGZvRi1nY0doVTFURFZTeWlYOG8ydWpFR0xyMkxmbTNMVGxnWEwtYnAwTGV4WlZWWE50WkVuQVdLWnVYQmwyMDJlR1I5TFAtb0ZOZkI5Y1pFOE15TVB2QWpQWWh4X0g4bVJPb0JPLQ?oc=5",
+      "description": "New HPP tolling facility in North Carolina to feature Hiperbaric system Pet Food Processing",
+      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
     }
   ]
 }
