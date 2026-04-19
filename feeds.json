@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T18:53:07.027222+00:00",
+  "updated": "2026-04-19T20:39:12.333197+00:00",
   "articles": [
     {
       "source": "Salmonella Outbreaks",
@@ -9,18 +9,18 @@
       "pubDate": "Sat, 18 Apr 2026 12:57:26 GMT"
     },
     {
+      "source": "Food Safety UK & EU",
+      "title": "Aldi, Tesco and Asda issue urgent product recalls and food safety warnings - Essex Live",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRUthUFAtenAwOU5iWk41NzdOWDloTkN3LW5UaEgtamozaF9oOGZhR1VjbjlFWENhWGs1SUJQYlpDNmJCQktTdjdfUkdEMGJ0Wlllb2RZVzlzQ281cGNUdGVxTGR5djE5MVptTzV6TkFrVkxjQlFvb0hhMFktRmFhTnJaX2ZfTWc4bkxLQnpn0gGTAUFVX3lxTE9sZ3N4ZlltNjlyTERjTnFybGJSdjN6UjJMWjdtQnFjMVp6bWx3Y3MzSndfLVQ5Qlpxd3dzWWxocllhWmloTXdaR3Rick9VVHN5UDVKQ0psa3FEQWlVbkVZZVZKaExsbTZBWnJ6ME5lWVZfcU1MTF9UZ0QxWlU3N3ZsMDMyWnZkNlJiOTNSOVladTV1aw?oc=5",
+      "description": "Aldi, Tesco and Asda issue urgent product recalls and food safety warnings Essex Live",
+      "pubDate": "Sat, 18 Apr 2026 12:14:43 GMT"
+    },
+    {
       "source": "Food Safety News",
       "title": "Dozens more restaurant patrons could be infected with Salmonella",
       "link": "https://www.foodsafetynews.com/2026/04/dozens-more-restaurant-patrons-could-be-infected-with-salmonella/",
       "description": "The number of people confirmed with Salmonella infections after eating at an Ontario restaurant has doubled and at least 44 unconfirmed patients have reported symptoms. As of April 17 there were 13 confirmed patients who had eaten at the Piper Arms Stoney Creek location in Hamilton, Ontario, according to Hamilton",
       "pubDate": "Fri, 17 Apr 2026 23:18:24 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Cucumber recall: What to know amid new salmonella outbreak, with cases in Illinois - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOcGJ5UmNTV3pnS2FwMExnYW00SmFkZkZQbDI0Ml9NUjFPVVMwa2h6aXlBSW41emtUa1pDeDBBTEtFY1FPa040MEU5M2IwemdDa1FtQ0Ntenl3ZUpkTlV4c2RMVDFVUEpJT2pzUHJhMDhKSk13eVpvTF9odDZQWHNaQzMwSTZpSGMxWTIxMnd5ZXdsVGcwVXN1NFVHRHF0MFZXSlAwWEtMLTF5QkxTM2tlR18tYjNOa1hULXpjd2lxdWJwWWVTTEhzU0I3cUxKNnhmWWJSMjhkX1ZjWEYzazNNVDhVXzk1NGdOaXZOcWpaRG9PLVhGRjBaaG9YdVZiakthZ295LUYtaVJpQ0VyclVkZWYyUGh0RXN2bFlsak9aQjhRT0FiYWM5emdIRWxsX2wxNTh4NGJILXlrWUdHVU50N0hPSkRTSE82VjBJaWo0WUlaQlNjYXpyc2lWMUlEN0o1Tm1jalZjLWg1TG1WbXRieHdzVFdrMGs?oc=5",
-      "description": "Cucumber recall: What to know amid new salmonella outbreak, with cases in Illinois MSN",
-      "pubDate": "Fri, 17 Apr 2026 22:19:33 GMT"
     },
     {
       "source": "Food Safety News",
@@ -79,13 +79,6 @@
       "pubDate": "Wed, 15 Apr 2026 18:55:02 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "Food Safety Advocates Demand Faster Recalls - The Food Institute",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEdyWEh2OGttVTBwSE1hTDN2bmpWOFBHQ2JpeTVWOFRPaW1TeGNHYlQ1RUNzeE1UZlVwajNqbHI4VV9JZ18tc1pnckhMME1VRzd2RkxidkN3ZGpaUXVUdzhxSmxZcjF1UGlMZXQ1VjZNUEpWS3gyTDYxVTZCWWNGLTVR?oc=5",
-      "description": "Food Safety Advocates Demand Faster Recalls The Food Institute",
-      "pubDate": "Mon, 13 Apr 2026 18:44:55 GMT"
-    },
-    {
       "source": "Hiperbaric",
       "title": "Oklahoma Strengthens Food Processing Infrastructure with $7 Million Investment at Oklahoma State University, Installs Hiperbaric 55 HPP System - Morning Ag Clips",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPa2pBN042OVJQcFp0YXNxUFhUc0d6UkFsd2ctTFlBMEt6ZFNzUUJuZXMwOXN5M0pfTmVVNU1HUTNVZHFsV0RQbXlWRTJLYm9kbG02QW5qMHVvRVlMZTlETXdBcFFpRXhzZVJRS1YzX090eDZmM0dCeHdncjhmQ2t4NGZCLTJScDRhX1lmUlI3dnRDc081SFZNS1lvbGxrcy1ZYk56MWNmRXRya1hxMWVUay1oOUNIY0lHQkJfVGlsWDFJVURXa3ZLMlJ5OGI5dkp5SXpqNXRYaXZqZVlkaURybk5Xc0JxeUc0M0tIcWF4a3B0N2V6VF8tc2FYOUttMU5HbGc?oc=5",
@@ -93,11 +86,18 @@
       "pubDate": "Wed, 08 Apr 2026 16:50:51 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "'Do not eat' beef item as urgent recall issued after listeria found - The Mirror",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kWUtOVFphNXgwTHlGMkN3M3pYRGJVbnBQUkpXQ25VT251NnVXZnF5OEJMUWpHOHF2N1M1elFvajh5VFl2SDhNTlBiTTZ4aEVWWDJhaERoZ2thdExOMDE2bFhCdERaVGZBMUtxbUFvbklSRnI50gF6QVVfeXFMTmhpTHlVNUo2N05LSEtncTZRaUhWVEJBVkRiVjl0M3dQUk5FT1d1cVVWbXFDdmV6ZHFMWXFldV9XX25TZkxfd3B2VlZXUmR6MnNqeGlKN2pJc1VscFdIb08xRnEwMG53YWk0V1NhMldDaUFzME5xRjVFemc?oc=5",
-      "description": "'Do not eat' beef item as urgent recall issued after listeria found The Mirror",
-      "pubDate": "Sun, 05 Apr 2026 07:00:00 GMT"
+      "source": "Salmonella Outbreaks",
+      "title": "Extensively Drug-Resistant Salmonella Outbreak Linked to Moringa Powder Capsules - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54ZVo4a2hNMkFQUVVld1VUM0NpMXRPdVY2SFFvYnVNX21Ga0hnZU5yQ29XV1VEYVZfQnhkSHRvQVhOM1V4eGhmd2k5ZFYxdEtVMWZkd0w2a1VsQUs4SlM4dzh1QWF1NEkycGlLOC0wUjk0N1ppSk55RFBpQ2RYZw?oc=5",
+      "description": "Extensively Drug-Resistant Salmonella Outbreak Linked to Moringa Powder Capsules Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Soups & Meals",
+      "title": "Beef Concentrate Market Analysis and Growth Outlook to 2035, Driven by Food Industry Trends - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONkdROGo0c1U3UC1mU1lZVUpQWEUxbkFBcjNBRlZHWFhGV2hiWGxMNmdFaEp2VF9OR285U3c1M3B2YTlXYUZqQ3c4YXN6cG9BdlVNY3ptb0JEUFpfY0NDalZhYUgzMnBmdTdjY2JYTGwxc1J6a2N2cFFPSFlQWERvNEtHUFRVSFRrbi00bHctVUJXNjRPS2dSVGIwUzVwRnNCWHNPZzdES0lqbzU2T2FjQUstQy1wVGZrZEIxN3FLUQ?oc=5",
+      "description": "Beef Concentrate Market Analysis and Growth Outlook to 2035, Driven by Food Industry Trends - News and Statistics IndexBox",
+      "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
@@ -163,6 +163,13 @@
       "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT"
     },
     {
+      "source": "EU HPP & Food Tech",
+      "title": "Europe Pouch Market Size, Share & Forecast to 2036 | FMI - Future Market Insights",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yRkdueGZLVkx6VlRVU014ek5xUkdjaGpURW5POWNWSHA0ckk4akFaOVV4TzBDeHVvR1IwNkpsWXMwSnhZNXBMVGRCaHhQX2dXa0FBWHV0Y3MzSXZRZTc4N2dpWkIzRTRLaG45NEpMazJrZw?oc=5",
+      "description": "Europe Pouch Market Size, Share & Forecast to 2036 | FMI Future Market Insights",
+      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT"
+    },
+    {
       "source": "Salmonella Outbreaks",
       "title": "Salmonella Outbreak Linked to Moringa Leaf Powder - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
@@ -175,6 +182,13 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONDZSQk5wVzJjdnRnM0ZKN2dSeUw2Y2x2RVBreFh6STVjLUdIdnlQMkY1S3R0d3p2NXZxRzh4ck9kdEVFVjlURlF4Ym9HNm9LREpOQmZPX2t6TFI0VVgxRzlZbng0enJHWnRuN3dXaEVxSkM5Z0ZEUWxuOGpnbWtIZ3RXdWNWWkJHaUwwajktanJjZzdCeEZ6cmVyVTlzYVY4S3JnMTRZbEtDRGF4QlE?oc=5",
       "description": "High Pressure Homogenizers Market Fueled by Nanotechnology in Cosmetics Through 2035 - News and Statistics IndexBox",
       "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Juices & Beverages",
+      "title": "Why NFC Juice is the Next Premium Beverage Boom in Asia - openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTHFyT25rOXZUN283dWY0ZlljQV9jdFVjOVRZd2FVbUlsM0pVUUc1RFF4Qi12RUlSeDFZWlNBN0ZPai1MSzhlV1F6S1BhNmpGci1fdHJ1MHdFbXdCVWJXT1hBc0JSaDJHWFB4LU1yd25Va29NNE84MU1uWDFZYnI1Z19taTRwSlZrVEZQOGd3dEdoVk9NZVE?oc=5",
+      "description": "Why NFC Juice is the Next Premium Beverage Boom in Asia openPR.com",
+      "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -205,13 +219,6 @@
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Extensively Drug-Resistant Salmonella: Moringa Powder (February 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOXA4S0pBZmg3bzZrRmZTQzFJODhKV3ZPcm83RWNSR0E1N3dTR28wTG9MYXc5M0plb1Y1aU9wMHQ5OVl3ZVZVRC15c2t1eUZCODlSZ2xCbExXSjVGYUJWWnVSZkVQT0dMQzlkRjE5NGU2aWNtdkFxOWZoUk1jODBVQW1hRTB2MG5oNWp6dlVBT1E1Qi02MVNVQ2tZM1FzMjZfcko0djRpbjNzUlpVMTlmMi14aTVmUUJ5ZVk3LUdQcGduZmQ4RGJwWXVrckFIdDFwbVRXSDFBbVVTZw?oc=5",
-      "description": "Outbreak Investigation of Extensively Drug-Resistant Salmonella: Moringa Powder (February 2026) fda.gov",
-      "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "Listeria Outbreak Linked to Prepared Pasta Meals - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVljR2g1SWZ1cDJkZE5xMkgxMVR6emh2WXplNFBSaUs3Ni1LaF9ySk54QmtwWDd2SWU5YUdfQnhfLWhJX1lQZmhJQ2xMZkU0MDlHeHQzR2xZQlNiWHhYUmQxcUZuZF93WjU3TnBTbDVyaVBVWXVGMlZyamFjLVc5elB4WTdGdjV2VGc?oc=5",
@@ -233,18 +240,18 @@
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "HPP Soups & Meals",
-      "title": "Bowen Yang says watching SNL after his exit is 'totally bizarre' but 'ultimately fun' - The Express Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVWF3ZU53Rk12bWZfWXBWU21lTXFYTFlDT2tmMk5hT2tYS3oxSUJ4WGFEWURHcUxmbUhpRHNQX2ZoWUpXV29PX0k5MmoyN2R5ZnJvcm1UX2VwZ2syN1U5RVhSYVpMeEtQcTB6cEE2VFNMa0t5Q3lZZHJoUmpfVjduS3VsRE1tSmZaSG8wcXROMldURF90R3BXWGdGRG5sS3h1ZEJ1LVdpdW1RbXJlc3h6UmdjRG92NHpCaVHSAcIBQVVfeXFMUHQ5OWFuZV9IUlRzY244WTduTHFUOVRTSG5GNlNldHdtc0hUeGR1cjZWYmdBUEwxckJ4U1paQ2xwWTdwc2YxQzZIWU13WDdzaFlDemR5V0d1S3FGUl9EbVNSZGhpWUxuXzdRX3pYaFBsSFE3V242WUNDYXV2cGhLVHBrcmFBTC1yX1V0TUlRQXUxbDlTUW5KUVNnT0Y2ZWtoak8tdnBtMDRYbkcxb2hvWUxEZy1DOWpzYVhXMm1CellXTFE?oc=5",
-      "description": "Bowen Yang says watching SNL after his exit is 'totally bizarre' but 'ultimately fun' The Express Tribune",
-      "pubDate": "Sat, 07 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "UK Food Industry",
       "title": "£3m fund unveiled to target diet and health innovation - British Baker",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
       "description": "£3m fund unveiled to target diet and health innovation British Baker",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
+      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
+      "pubDate": "Thu, 29 Jan 2026 08:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -310,6 +317,13 @@
       "pubDate": "Wed, 12 Nov 2025 08:00:00 GMT"
     },
     {
+      "source": "HPP Soups & Meals",
+      "title": "I Make the Best Chicken Soup Ever—Here's My Secret - Allrecipes",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtdnJxTW9PYk9kWHVUVFFYUktkYm1MWWluWnUxdGVjYncyTnFVaEk2SXJEcU1RTW1hWXVBTS1rT3dyejB4SGlPeHNCaE5jbkNvS2ViVW81ZlRWSWlfTE8zV0NZbEJldmhoZWZfNnRfQ2hhNHZKSXlsUVJn?oc=5",
+      "description": "I Make the Best Chicken Soup Ever—Here's My Secret Allrecipes",
+      "pubDate": "Sun, 09 Nov 2025 08:00:00 GMT"
+    },
+    {
       "source": "Listeria Outbreaks",
       "title": "Nationwide Listeria outbreak: 6 dead and 27 hospitalized, dozens of products recalled - WRAL",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1NLbnJCRjM4WHZIME1oWTJCbEw0OXEtT2U2V1dnYWxaVEN2NGtlZ0kzaEx6V0R0YlBSLWZZXzRQWjBERVZOT2NXVldvY0VFaEEyZnNUejEtdDltdnBQWlNnNjlNU1ZhWl9SbkpxUXdody1HSkMtbkk2V0hYV3oyZ1lLY1RiS01BeVo0anhnZ3Y?oc=5",
@@ -336,20 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUXY1V2ZWc3l5MlVWRFZFdnozSHpNUXJPVG1rdVp1ME9jdGJtTnJTSktTMEhEdnA0YzB5VzdDTUpTQzFKM3c4bnp1aDUwcGpTeDJPMGpOZWMwdnIxU3RxWTRnaU5mOXhYelA1R0V1X1ljY1NjWllwVkZyUTZMX29FeU8zR2ZXc0Rxempna0JGYm01VHplWDJuZ0cyYV9Tb3pVeG9EcGlzY2l1cFFQbnJBdg?oc=5",
       "description": "Farm to factory: These are the technologies transforming modern dairy manufacturing FoodBev Media",
       "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "More illnesses, deaths reported in listeria outbreak tied to recalled pasta salads, meals sold nationwide - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83bXZkTUFiX3E1cmxOVEVPNlgxemRkTzQ1Q0o3OEhnVldwcUJMVjlLamNiY3NJd2VmckZVczFnTDYzUUQ4anFudHdCUllkNU5HYXNuN2UxSUVBa0pqTnFrbVE2dmgwWXYzdkF3V3hWeTlzcWJsa3gwdjBn?oc=5",
-      "description": "More illnesses, deaths reported in listeria outbreak tied to recalled pasta salads, meals sold nationwide CNN",
-      "pubDate": "Thu, 30 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Juices & Beverages",
-      "title": "Unveiling low-abundance ACE inhibitory peptides in not-from-concentrate orange juice processed by high-pressure processing and pasteurization - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqUENmUDBHMzBub3VDWW5CSFBLT0FsbXhmV3U1anRvN3pyYjRYNTNNZ2dXLTJPUGRYTzQ1X0lqa050azVQdG9xaHVPQU00UVBIRW5OZzI2VzhpWXA2SDZr?oc=5",
-      "description": "Unveiling low-abundance ACE inhibitory peptides in not-from-concentrate orange juice processed by high-pressure processing and pasteurization Nature",
-      "pubDate": "Fri, 24 Oct 2025 07:00:00 GMT"
     }
   ]
 }
