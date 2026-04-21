@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T13:42:47.521792+00:00",
+  "updated": "2026-04-21T15:13:40.214526+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -14,6 +14,13 @@
       "link": "https://www.foodsafetynews.com/2026/04/scientists-say-nanoplastics-can-cause-salmonella-to-become-stronger/",
       "description": "Researchers are studying the impact nanoplastics have on Salmonella and have found they cause the pathogen to become more virulent. The researchers at the&#xA0; University of Illinois Urbana-Champaign are particularly looking at Salmonella on plastic used in packaging for ground turkey.",
       "pubDate": "Tue, 21 Apr 2026 04:03:20 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "40 Sick, One Dead in German Salmonella Outbreak Involving Chocolate-Hazelnut Spread - Food Safety Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdE5iNU55UWhFNjhrdE5KY180dTlGOHJSLVVSVHRFMGZiV21KenhJVW8ySTNQeTFPYVNDc0EyalFNUWltS21ORzI3bGdNbHRGTUFtcDZrZDZjX015WmlVOGoxTXRiWmtaQTNtY1dQQWJXNzVBMWpDZFdQNkV5MWF4Q2Q4UVp2b3VPb2RHMnBEZzM4cnZMdDlGRHRVSlRwdWhJSzRUbkMxRTNzQTd4Q0NYakZWQ3NCeGl5R0RBbV9KR0RhbGc?oc=5",
+      "description": "40 Sick, One Dead in German Salmonella Outbreak Involving Chocolate-Hazelnut Spread Food Safety Magazine",
+      "pubDate": "Mon, 20 Apr 2026 13:05:22 GMT"
     },
     {
       "source": "EU HPP & Food Tech",
@@ -79,13 +86,6 @@
       "pubDate": "Thu, 16 Apr 2026 04:07:52 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Year-long salmonella outbreak from imported pistachios ‘difficult to control.’ Here’s why - Global News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNk15V2ZRaDlFOGVBcGFVaUFNMjlPVHVJb003TlhjckJqMC05NFpwOHFGWnVsdUFiaWxrN2ZOYzgzQm1ScXdRazd6ZDBxWHZhSEluc3d1NlJmeGhhd2VMTGM5RG0yRXMyUHUwSUFLT1BhTFJ5dnBCdDNiSjJNMUt0OUExYXNVNG04bFRBUA?oc=5",
-      "description": "Year-long salmonella outbreak from imported pistachios ‘difficult to control.’ Here’s why Global News",
-      "pubDate": "Wed, 15 Apr 2026 18:55:02 GMT"
-    },
-    {
       "source": "Hiperbaric",
       "title": "Oklahoma Strengthens Food Processing Infrastructure with $7 Million Investment at Oklahoma State University, Installs Hiperbaric 55 HPP System - Morning Ag Clips",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPa2pBN042OVJQcFp0YXNxUFhUc0d6UkFsd2ctTFlBMEt6ZFNzUUJuZXMwOXN5M0pfTmVVNU1HUTNVZHFsV0RQbXlWRTJLYm9kbG02QW5qMHVvRVlMZTlETXdBcFFpRXhzZVJRS1YzX090eDZmM0dCeHdncjhmQ2t4NGZCLTJScDRhX1lmUlI3dnRDc081SFZNS1lvbGxrcy1ZYk56MWNmRXRya1hxMWVUay1oOUNIY0lHQkJfVGlsWDFJVURXa3ZLMlJ5OGI5dkp5SXpqNXRYaXZqZVlkaURybk5Xc0JxeUc0M0tIcWF4a3B0N2V6VF8tc2FYOUttMU5HbGc?oc=5",
@@ -100,17 +100,10 @@
       "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT"
     },
     {
-      "source": "UK HPP Industry",
+      "source": "HPP Seafood",
       "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
       "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
-      "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "NEXT GENERATION TOUCHSCREEN BOOSTS FOOD SAFETY - Process and Control Today",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJY25LTGljSk1aUk1LN3RBVVZKZ2hyNTVTdGtReldOa1VxRjZNUmZLdFZGdDdzank1YlkybmdRNmNIMklmNjFHMmVzUGZxNlRCenlxSlpWcEdnVFBDOFNRV3JaSGYzOWxWS2t1ZFFxMUFxaHBFb29sM1M1MHhpUmc?oc=5",
-      "description": "NEXT GENERATION TOUCHSCREEN BOOSTS FOOD SAFETY Process and Control Today",
       "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
     },
     {
@@ -142,10 +135,10 @@
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "'Super greens' sicken, hospitalize dozens more in salmonella outbreak - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2F3RG5TUGFCSkZDSXcxcXY4NW9fTnhZRkgzU1I4Vm1vZHhwNFM2MGVQeXNoR09tT1NXcE1zWE9Qdy1PS2NXcWVfcm5idExOcVliT3NhSlF3UnFiMnhVQ1FPMjJoZ29JU2Z2Q3pRY3M4VjBhRUZFbmpiaW5xYnVuRnM0b0tnTGFORjIzSWZ5T19BZ0kwRURKSHpjNUttaDA4QlZfdm5meEw1NkpGdlQ4ZDVUQkxxdw?oc=5",
-      "description": "'Super greens' sicken, hospitalize dozens more in salmonella outbreak USA Today",
+      "source": "HPP Seafood",
+      "title": "Greenhead Lobster continuing to refine its premium lobster products - SeafoodSource",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXZMXzNQYVBNSGZZXzRBWGF4UnBjVjdSeVoyVE9xN2VYMUwzNGZoTTFYVUJ1S1FCVUNiTkt3WWhSX01wd3ZrMXNxbFlYMGs4aVBjeV9iMVBiX1JDQm1YU2hNbTZHemRnWGoxdzF4ZG1MWWZUN0k3aVhKVEtIWU1ZZUlrazRhY2h1VjN6ZVR0YjJXeXZPVjVuNngwUnRVemVOUUJud1dnR01wTHR0emxKc29QQjlWZw?oc=5",
+      "description": "Greenhead Lobster continuing to refine its premium lobster products SeafoodSource",
       "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT"
     },
     {
@@ -184,7 +177,7 @@
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "HPP Equipment & Machines",
+      "source": "HPP Juices & Beverages",
       "title": "The pros of processing automation - Beverage Industry",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT0wwejZtUlBTU3NMOTZ4RUpTSWVUUzJId0N0MmJPVloxZmYycWlyN1czUW1QblNaWlA5UlJrd2ZuenAyVHpDOUxUVmQ0eGRSYmlkSmpqXzdKWkxIZ0RtNS12WkstZFdWTVFUN3VYNkF2U2g2dXRudWVTVGJRMGlOYU93?oc=5",
       "description": "The pros of processing automation Beverage Industry",
@@ -226,7 +219,7 @@
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "HPP Equipment & Machines",
+      "source": "HPP Innovation & Research",
       "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXhUbEgxOUMycF9EN0RUdmxwWWt1WUVyYU1iUnQ0R2FCTlZZcTlFUEMwaG45Z0lGZHpQNGpXTFJEcW9HNm1RN1lSNzZFX2M4QnllM3NmMXc2UVRMTWFvNHM2dXkyc01pNHJ5MlpvWTNMQWJDdUxvc1I5NWR2NFIzOS1vWGFNMUtiZ2d2NVRUVHVTTk9BdENMUmZkcjZZc2VwUXowOGhXWWRvcGQ5T2wtYjRhbTNzSlFrUHZXWmNLWFYzUVlNUE1uTG1xYk5EUDFHQkVsSlJFcHhDN3BTM0dWcnp6MVNOc1VUbFB1ZUJMYzhMenJRNkRkeS1maTlYNGozbEthVW1B?oc=5",
       "description": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility PR Newswire",
@@ -245,6 +238,13 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVUY204LVk3LUY2MXN6QXVRcnJKb0hKbFBRbHNpeXAxSlhzN3c1WW90NGY1UzNCU1cwUDNmbFd6LTRTZWpYZ0lpTTdJRnRQT3ptQ3hneVdYSnRWNjdYRGNsTkV0S21Jb1M5Sk83T21aeE1VVWNSZWkzUEI4b0lKTWR1VTN1ZjAyYVl3eXFRX014ZzlJUnRRM2J3MEJaYVJHTzNWZzNoTVlNbVdsS2lydDBVX213Q0E?oc=5",
       "description": "Meet the food innovation centres leading the way in sustainable, tech-driven development FoodBev Media",
       "pubDate": "Fri, 23 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "45 confirmed sick in multistate Salmonella outbreak tied to supplement - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnNMOEg2OVdWNEFQazU4Y0NrNlhQaVlBS2tKWXp0VmlaMVp6ekk4VjA3Y3BYb0Z4MDZBQnBDNkhUYXJlXzJSUzNhMFFwM0NXYzY3WUxXcG5MbU02VkxGblY3dDgxSWt2alZqeFdmMGJCRzVCeTFXbDVPQ3pVX1hEdFdLU25CVUw2UnFQRWdudFV3bGZHd2ROZ05PV21fRUdJaTdTMg?oc=5",
+      "description": "45 confirmed sick in multistate Salmonella outbreak tied to supplement CIDRAP",
+      "pubDate": "Thu, 15 Jan 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Soups & Meals",
@@ -296,6 +296,13 @@
       "pubDate": "Fri, 21 Nov 2025 08:00:00 GMT"
     },
     {
+      "source": "UK Food Industry",
+      "title": "Multi-million pound backing for cutting edge projects by UK scientists and innovators - GOV.UK",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOHBkdFNzZkNVSVhGa1NaQk1paF9qV0M4Q1J4dEpqUnFRWnJ0NmhKcUVpeFlyUElRNkEtYWFxekNBWjZoYnE1c2lUb0VtSjBieklqVldoMmVjYWNfRk1VQ0ZOaGZSTUEzcjlrVWNSTTkyYzVENHZFVHFXbnFJelZXdkx1TW9hMEVZd3owQ1pYaEtrVlliQUVZbjQzWm12d0M2cEszVkNRMVUxV2xDb1dXcFdQSkttYzVPdEltOA?oc=5",
+      "description": "Multi-million pound backing for cutting edge projects by UK scientists and innovators GOV.UK",
+      "pubDate": "Tue, 18 Nov 2025 08:00:00 GMT"
+    },
+    {
       "source": "Hiperbaric EU",
       "title": "Hiperbaric brings advanced Hot Isostatic Pressing to Formnext, unlocking full potential of metal additive manufacturing - tctmagazine.com",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ3c4eWhyU0NKN0ZNTy1mXzJ3Y1Bqa2tqNGdqNXlLT0R5R3BoNVdnX1FwbWNxYzV3TGxTNHZJdWJhTElrQkgxTklNX0JyWDREN25ONVVranlsTjlCRXIzREZUQ1E0VDFaUnVhcWszbzBxVlJDc09DRHhGemd1dFNkZl9PWTlqOFJ4ZTZZNXpvOHM2RjNUNXBUMG0zVS1CNjFMb2NscWtRcFVFUGJZQUZLT0lfS2xVRFBWSkhBNHpWYW4xMnZPZmppWHM0TDY0RnVZa1ZRVl9wMmxTVnV1Sk0ybQ?oc=5",
@@ -343,13 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNDlqSEdueVZFbHIxU1ZUUjM5WGh5OGxBT1dvUkdPQmRPa3VsY25ISEpPSjV0WGticnh1Zk1yVjViNURINHYzS1o4WGZucE9naVJ0c1JLdGZvRi1nY0doVTFURFZTeWlYOG8ydWpFR0xyMkxmbTNMVGxnWEwtYnAwTGV4WlZWWE50WkVuQVdLWnVYQmwyMDJlR1I5TFAtb0ZOZkI5Y1pFOE15TVB2QWpQWWh4X0g4bVJPb0JPLQ?oc=5",
       "description": "New HPP tolling facility in North Carolina to feature Hiperbaric system Pet Food Processing",
       "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Soups & Meals",
-      "title": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong - HuffPost UK",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmNOYlI3cE1Ubk5BaXRtWWpnQkFsLVhvN19LTFRmYnBHLXVPSU51ZmFacnltV25ZWmk5dEt1ZkhzX2NvUlBfY0p6ZGtOVmpHblNWZzBLYVp0YTVWS0lvWXB3V1FxSnZEaV92OVJDbUh5RnRSVmFaQ1hYTU5QelBOYWV5VE5nRWR1S0JFQ19xX2Nta09XdkU0R0pBZlFxWUVFWjhKdE0tOA?oc=5",
-      "description": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong HuffPost UK",
-      "pubDate": "Fri, 10 Oct 2025 07:00:00 GMT"
     }
   ]
 }
