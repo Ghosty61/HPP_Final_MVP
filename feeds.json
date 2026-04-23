@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-23T02:42:05.169497+00:00",
+  "updated": "2026-04-23T06:06:12.677760+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Salmonella outbreak sickens 32 in Finland",
+      "link": "https://www.foodsafetynews.com/2026/04/salmonella-outbreak-sickens-32-in-finland/",
+      "description": "Early findings have suggested a link to uncooked sprouts",
+      "pubDate": "Thu, 23 Apr 2026 04:05:00 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Cantaloupes recalled because of Salmonella",
@@ -65,13 +72,6 @@
       "pubDate": "Mon, 20 Apr 2026 13:05:22 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "One dead in German Salmonella outbreak",
-      "link": "https://www.foodsafetynews.com/2026/04/one-dead-in-german-salmonella-outbreak/",
-      "description": "The 40 patients are mainly children and adolescents",
-      "pubDate": "Mon, 20 Apr 2026 04:05:07 GMT"
-    },
-    {
       "source": "Food Safety UK & EU",
       "title": "Food hygiene experts issue warning following recall and salmonella outbreak - Herald.Wales",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTkVvQnN6LWpObDd6eFRueldlekI4Sm1YdXFzUDhqdDIwMGg5LXVQcWd1c0pkNjkzWWFIcnllTzdKUDFUd25SN2g1U3hXT21VNXJZOGpzT0ZqT3RncWlSTzNoR2p6azZRUG82LXZMYUZDSl81cDZ4MnlXZUVNSERPWGxqY0owR3JZLXV3ZGpOOFB1U05HS1pISGpPbmJtSW5JYnV2dVg1WEhrTllDczNFZXpBUXVuUHBCTWc?oc=5",
@@ -101,6 +101,20 @@
     },
     {
       "source": "HPP Seafood",
+      "title": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 - Fortune Business Insights",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaExyNHUyeE9rM0ZPN2dtQk0yMzllUTFZQnBYMnE5SkxXZGpLVlZwTk54eWY2eFF6S3RZWFFUcUR1Yjk5WXVaUGRIQV8zN2d4Y2doUzNPM1RiVkxjdy0yNDExTV9pN1hybUpYbE1iSU5pcnlMcUN0TGZJTUZpc28yR2VEU1M0M0dGc0k2a2lUVjcwQS1OZlFB?oc=5",
+      "description": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 Fortune Business Insights",
+      "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Outbreak Investigation of Extensively Drug-Resistant Salmonella: Moringa Powder (February 2026) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOXA4S0pBZmg3bzZrRmZTQzFJODhKV3ZPcm83RWNSR0E1N3dTR28wTG9MYXc5M0plb1Y1aU9wMHQ5OVl3ZVZVRC15c2t1eUZCODlSZ2xCbExXSjVGYUJWWnVSZkVQT0dMQzlkRjE5NGU2aWNtdkFxOWZoUk1jODBVQW1hRTB2MG5oNWp6dlVBT1E1Qi02MVNVQ2tZM1FzMjZfcko0djRpbjNzUlpVMTlmMi14aTVmUUJ5ZVk3LUdQcGduZmQ4RGJwWXVrckFIdDFwbVRXSDFBbVVTZw?oc=5",
+      "description": "Outbreak Investigation of Extensively Drug-Resistant Salmonella: Moringa Powder (February 2026) fda.gov",
+      "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Seafood",
       "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
       "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
@@ -119,6 +133,13 @@
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMWpFYUZveHVvay1yVVNMNWZxN0NDcnhEdnBvVDdueFBuZWhRVkticVM5andBeGtkc1ZBYzlBcmFGY0xHWGIzaF9UZVV5NUxsNjZ1ZkhHRV9TSk9fbzd0R1E2YXJCM2dMMWMtZmp5ZWxyb1FWRTRKWkV1WDN3WXlZeEg4TmwzUnc0ZDcxeWtWWDZuZ3NEOFJyZS1KNnJqdjFpOTZjVFlCNU8wcWpKdjNYM18yeDgzUUl4Qjl2MUVHUW8xc0Jzd2ZNZWxsNkwtYzExN04xTXktNUxaV05kcFdfMjVqTDNGZEhkaEFEMzJBaWFoam9zZjJ4LQ?oc=5",
       "description": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria Fuel Cells Works",
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "'Super greens' sicken, hospitalize dozens more in salmonella outbreak - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2F3RG5TUGFCSkZDSXcxcXY4NW9fTnhZRkgzU1I4Vm1vZHhwNFM2MGVQeXNoR09tT1NXcE1zWE9Qdy1PS2NXcWVfcm5idExOcVliT3NhSlF3UnFiMnhVQ1FPMjJoZ29JU2Z2Q3pRY3M4VjBhRUZFbmpiaW5xYnVuRnM0b0tnTGFORjIzSWZ5T19BZ0kwRURKSHpjNUttaDA4QlZfdm5meEw1NkpGdlQ4ZDVUQkxxdw?oc=5",
+      "description": "'Super greens' sicken, hospitalize dozens more in salmonella outbreak USA Today",
+      "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
@@ -140,13 +161,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
       "description": "Salmonella Outbreak Linked to Moringa Leaf Powder Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Seafood",
-      "title": "Oyster Processor comes to Dock+ - NanaimoNewsNOW",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OS1NNQWRKNUJqUW81ak16UmhZb3N6QzZtRlZiVk1FNlhTblN3VFpzdGNDaFBtTkI2X2U4TFEwZm1PVGFWN0ZXekl0azBZaEUzYjBBcG5xZWFyMGw4TC1GNlBaT2ZfRkNyT1huSjBqUWUyd0tlZ0NzcA?oc=5",
-      "description": "Oyster Processor comes to Dock+ NanaimoNewsNOW",
-      "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -191,13 +205,6 @@
       "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Extensively Drug-Resistant Salmonella: Moringa Powder (February 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOXA4S0pBZmg3bzZrRmZTQzFJODhKV3ZPcm83RWNSR0E1N3dTR28wTG9MYXc5M0plb1Y1aU9wMHQ5OVl3ZVZVRC15c2t1eUZCODlSZ2xCbExXSjVGYUJWWnVSZkVQT0dMQzlkRjE5NGU2aWNtdkFxOWZoUk1jODBVQW1hRTB2MG5oNWp6dlVBT1E1Qi02MVNVQ2tZM1FzMjZfcko0djRpbjNzUlpVMTlmMi14aTVmUUJ5ZVk3LUdQcGduZmQ4RGJwWXVrckFIdDFwbVRXSDFBbVVTZw?oc=5",
-      "description": "Outbreak Investigation of Extensively Drug-Resistant Salmonella: Moringa Powder (February 2026) fda.gov",
-      "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "Listeria Outbreak Linked to Prepared Pasta Meals - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVljR2g1SWZ1cDJkZE5xMkgxMVR6emh2WXplNFBSaUs3Ni1LaF9ySk54QmtwWDd2SWU5YUdfQnhfLWhJX1lQZmhJQ2xMZkU0MDlHeHQzR2xZQlNiWHhYUmQxcUZuZF93WjU3TnBTbDVyaVBVWXVGMlZyamFjLVc5elB4WTdGdjV2VGc?oc=5",
@@ -219,13 +226,6 @@
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "HPP Soups & Meals",
-      "title": "Bowen Yang says watching SNL after his exit is 'totally bizarre' but 'ultimately fun' - The Express Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVWF3ZU53Rk12bWZfWXBWU21lTXFYTFlDT2tmMk5hT2tYS3oxSUJ4WGFEWURHcUxmbUhpRHNQX2ZoWUpXV29PX0k5MmoyN2R5ZnJvcm1UX2VwZ2syN1U5RVhSYVpMeEtQcTB6cEE2VFNMa0t5Q3lZZHJoUmpfVjduS3VsRE1tSmZaSG8wcXROMldURF90R3BXWGdGRG5sS3h1ZEJ1LVdpdW1RbXJlc3h6UmdjRG92NHpCaVHSAcIBQVVfeXFMUHQ5OWFuZV9IUlRzY244WTduTHFUOVRTSG5GNlNldHdtc0hUeGR1cjZWYmdBUEwxckJ4U1paQ2xwWTdwc2YxQzZIWU13WDdzaFlDemR5V0d1S3FGUl9EbVNSZGhpWUxuXzdRX3pYaFBsSFE3V242WUNDYXV2cGhLVHBrcmFBTC1yX1V0TUlRQXUxbDlTUW5KUVNnT0Y2ZWtoak8tdnBtMDRYbkcxb2hvWUxEZy1DOWpzYVhXMm1CellXTFE?oc=5",
-      "description": "Bowen Yang says watching SNL after his exit is 'totally bizarre' but 'ultimately fun' The Express Tribune",
-      "pubDate": "Sat, 07 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "UK Food Industry",
       "title": "£3m fund unveiled to target diet and health innovation - British Baker",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
@@ -240,13 +240,6 @@
       "pubDate": "Fri, 23 Jan 2026 08:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "45 confirmed sick in multistate Salmonella outbreak tied to supplement - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnNMOEg2OVdWNEFQazU4Y0NrNlhQaVlBS2tKWXp0VmlaMVp6ekk4VjA3Y3BYb0Z4MDZBQnBDNkhUYXJlXzJSUzNhMFFwM0NXYzY3WUxXcG5MbU02VkxGblY3dDgxSWt2alZqeFdmMGJCRzVCeTFXbDVPQ3pVX1hEdFdLU25CVUw2UnFQRWdudFV3bGZHd2ROZ05PV21fRUdJaTdTMg?oc=5",
-      "description": "45 confirmed sick in multistate Salmonella outbreak tied to supplement CIDRAP",
-      "pubDate": "Thu, 15 Jan 2026 08:00:00 GMT"
-    },
-    {
       "source": "HPP Soups & Meals",
       "title": "Incidental food nanoparticles from freshwater clam soup stabilize Pickering emulsions - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3M29MLW96aDdhaV81RWJmYlhTTHYxWER6SlcybnI2S2RjZHhjSjJXNjR6TGxIUUdqcXBnMzFxQkFOa1JiaVlxR1N1b1dMbzQ1RHlieGs0dUpjaGxIMXJj?oc=5",
@@ -259,6 +252,13 @@
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSVo1em95Tjc1b3d4Tm9HNE1vaWVrMlZZQ2FBMGUzbDM4bUNGaVJDc3luTWVWTi1GWERhcTV1cGxIRmthZU5kcWZoRnF1WVY5bkl0TS1JcGhBSVJsT2NaSW5nVHVTUXkwRUpaY29tUGdJUDFzc1ZRSDlzRHdSWElxa21nNENpeWJRZWxMRU56ZzVWbG51SFFUZGt4czBUMTZYOFI3Q0JLRDd5SDZjX0FrY21sYzFra0N1bFFsQ1BjQXJJLTgzZHdqWl9TRWJxMnFxM3RJT0xLTlJiX040eUxoU0taSUQ0UVNxX0dHU3pzdTNNQU9VQ2czaWN2bFRzVXFTMTBHLXBGNF8?oc=5",
       "description": "Quintus Technologies and Lyric Robot Form Strategic Collaboration to Accelerate Industrialization of Solid-State Battery Production PRWeb",
       "pubDate": "Tue, 23 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Soups & Meals",
+      "title": "6 Rules for Canning You Should Never, Ever Break - Better Homes & Gardens",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFZNbW0wQ05lcHdEZEpxSlBHYWZtN3k3Z3hOZjRhZ2ZfX0owR0tpenhMY3RCQVdON2xtYS0xUWlJaERUa1Z6cmtQbFo2UVN6NEVReEZQUk1EQmppTWFBX1dTQzBqaS0yb1BaSndrVnZBY3dUTUxWUG02dW1jdnA3QWRudGRKSVpwdG9GTmNtUFplMWZGRGp2d2VCYlFfU00?oc=5",
+      "description": "6 Rules for Canning You Should Never, Ever Break Better Homes & Gardens",
+      "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT"
     },
     {
       "source": "Quintus Technologies",
@@ -294,13 +294,6 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ3c4eWhyU0NKN0ZNTy1mXzJ3Y1Bqa2tqNGdqNXlLT0R5R3BoNVdnX1FwbWNxYzV3TGxTNHZJdWJhTElrQkgxTklNX0JyWDREN25ONVVranlsTjlCRXIzREZUQ1E0VDFaUnVhcWszbzBxVlJDc09DRHhGemd1dFNkZl9PWTlqOFJ4ZTZZNXpvOHM2RjNUNXBUMG0zVS1CNjFMb2NscWtRcFVFUGJZQUZLT0lfS2xVRFBWSkhBNHpWYW4xMnZPZmppWHM0TDY0RnVZa1ZRVl9wMmxTVnV1Sk0ybQ?oc=5",
       "description": "Hiperbaric brings advanced Hot Isostatic Pressing to Formnext, unlocking full potential of metal additive manufacturing tctmagazine.com",
       "pubDate": "Wed, 12 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Soups & Meals",
-      "title": "I Make the Best Chicken Soup Ever—Here's My Secret - Allrecipes",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtdnJxTW9PYk9kWHVUVFFYUktkYm1MWWluWnUxdGVjYncyTnFVaEk2SXJEcU1RTW1hWXVBTS1rT3dyejB4SGlPeHNCaE5jbkNvS2ViVW81ZlRWSWlfTE8zV0NZbEJldmhoZWZfNnRfQ2hhNHZKSXlsUVJn?oc=5",
-      "description": "I Make the Best Chicken Soup Ever—Here's My Secret Allrecipes",
-      "pubDate": "Sun, 09 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNDlqSEdueVZFbHIxU1ZUUjM5WGh5OGxBT1dvUkdPQmRPa3VsY25ISEpPSjV0WGticnh1Zk1yVjViNURINHYzS1o4WGZucE9naVJ0c1JLdGZvRi1nY0doVTFURFZTeWlYOG8ydWpFR0xyMkxmbTNMVGxnWEwtYnAwTGV4WlZWWE50WkVuQVdLWnVYQmwyMDJlR1I5TFAtb0ZOZkI5Y1pFOE15TVB2QWpQWWh4X0g4bVJPb0JPLQ?oc=5",
       "description": "New HPP tolling facility in North Carolina to feature Hiperbaric system Pet Food Processing",
       "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Soups & Meals",
+      "title": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong - HuffPost UK",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmNOYlI3cE1Ubk5BaXRtWWpnQkFsLVhvN19LTFRmYnBHLXVPSU51ZmFacnltV25ZWmk5dEt1ZkhzX2NvUlBfY0p6ZGtOVmpHblNWZzBLYVp0YTVWS0lvWXB3V1FxSnZEaV92OVJDbUh5RnRSVmFaQ1hYTU5QelBOYWV5VE5nRWR1S0JFQ19xX2Nta09XdkU0R0pBZlFxWUVFWjhKdE0tOA?oc=5",
+      "description": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong HuffPost UK",
+      "pubDate": "Fri, 10 Oct 2025 07:00:00 GMT"
     }
   ]
 }
