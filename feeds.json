@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-23T17:21:30.026201+00:00",
+  "updated": "2026-04-23T19:10:41.837487+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Publisher’s Platform: Hepatitis A and the Food Service Industry: A Case for Universal Vaccination",
+      "link": "https://www.foodsafetynews.com/2026/04/publishers-platform-hepatitis-a-and-the-food-service-industry-a-case-for-universal-vaccination/",
+      "description": "Few pathogens frustrate me more than Hepatitis A, because we have had a safe, effective vaccine against it since 1995, and we still can't seem to get it into the arms of the people who need it most.",
+      "pubDate": "Thu, 23 Apr 2026 17:35:11 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Salmonella outbreak sickens 32 in Finland",
@@ -14,13 +21,6 @@
       "link": "https://www.foodsafetynews.com/2026/04/cantaloupes-recalled-because-of-salmonella/",
       "description": "The U.S. Food and Drug Administration is reporting that Ayco Farms Inc., recalled 8,302 cartons of whole cantaloupes because the fruit may be contaminated with Salmonella. The cantaloupes were sold by Ayco Farms Inc., which first initiated the recall on March 24. On April 20, the FDA upgraded",
       "pubDate": "Thu, 23 Apr 2026 00:32:19 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "Recalls and Alerts: April 21–22, 2026 - eFoodAlert",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TakViMDZsWFRoZjNfcGJNNG53V3pSaEdlMENpTXYyYUdub2RJak5qVWZ6WkJjWGJyRlE3Q3RfU0xoWVR4dkxWd0oxUXAwbEtuajg0OEJSRjM3OWlKWDc2ZGpoaTBQV1hDUnBNY1NfYjBzWE5hYUwwZFZB?oc=5",
-      "description": "Recalls and Alerts: April 21–22, 2026 eFoodAlert",
-      "pubDate": "Wed, 22 Apr 2026 19:10:55 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -49,13 +49,6 @@
       "link": "https://www.foodsafetynews.com/2026/04/rat-poison-finding-prompts-baby-food-recall/",
       "description": "Police seized two jars of HiPP baby food in a store in Brno, which matched the description given in an e-mail sent by the unknown perpetrator.",
       "pubDate": "Tue, 21 Apr 2026 04:05:14 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Scientists say nanoplastics can cause Salmonella to become stronger",
-      "link": "https://www.foodsafetynews.com/2026/04/scientists-say-nanoplastics-can-cause-salmonella-to-become-stronger/",
-      "description": "Researchers are studying the impact nanoplastics have on Salmonella and have found they cause the pathogen to become more virulent. The researchers at the&#xA0; University of Illinois Urbana-Champaign are particularly looking at Salmonella on plastic used in packaging for ground turkey.",
-      "pubDate": "Tue, 21 Apr 2026 04:03:20 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -91,6 +84,13 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaExyNHUyeE9rM0ZPN2dtQk0yMzllUTFZQnBYMnE5SkxXZGpLVlZwTk54eWY2eFF6S3RZWFFUcUR1Yjk5WXVaUGRIQV8zN2d4Y2doUzNPM1RiVkxjdy0yNDExTV9pN1hybUpYbE1iSU5pcnlMcUN0TGZJTUZpc28yR2VEU1M0M0dGc0k2a2lUVjcwQS1OZlFB?oc=5",
       "description": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 Fortune Business Insights",
       "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "'Do not eat' beef item as urgent recall issued after listeria found - The Mirror",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kWUtOVFphNXgwTHlGMkN3M3pYRGJVbnBQUkpXQ25VT251NnVXZnF5OEJMUWpHOHF2N1M1elFvajh5VFl2SDhNTlBiTTZ4aEVWWDJhaERoZ2thdExOMDE2bFhCdERaVGZBMUtxbUFvbklSRnI50gF6QVVfeXFMTmhpTHlVNUo2N05LSEtncTZRaUhWVEJBVkRiVjl0M3dQUk5FT1d1cVVWbXFDdmV6ZHFMWXFldV9XX25TZkxfd3B2VlZXUmR6MnNqeGlKN2pJc1VscFdIb08xRnEwMG53YWk0V1NhMldDaUFzME5xRjVFemc?oc=5",
+      "description": "'Do not eat' beef item as urgent recall issued after listeria found The Mirror",
+      "pubDate": "Sun, 05 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -247,6 +247,13 @@
       "pubDate": "Tue, 23 Dec 2025 08:00:00 GMT"
     },
     {
+      "source": "HPP Soups & Meals",
+      "title": "6 Rules for Canning You Should Never, Ever Break - Better Homes & Gardens",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFZNbW0wQ05lcHdEZEpxSlBHYWZtN3k3Z3hOZjRhZ2ZfX0owR0tpenhMY3RCQVdON2xtYS0xUWlJaERUa1Z6cmtQbFo2UVN6NEVReEZQUk1EQmppTWFBX1dTQzBqaS0yb1BaSndrVnZBY3dUTUxWUG02dW1jdnA3QWRudGRKSVpwdG9GTmNtUFplMWZGRGp2d2VCYlFfU00?oc=5",
+      "description": "6 Rules for Canning You Should Never, Ever Break Better Homes & Gardens",
+      "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT"
+    },
+    {
       "source": "Quintus Technologies",
       "title": "Quintus unveils pilot-scale warm isostatic presses for all-solid-state battery production - Charged EVs",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWYtdVQwYl80R1Ytem9hTzNxNl9sMHFaVVlXa1h3aG9CakY5SnZEZ3NibThISEI0WmNYYXg5TG1wYzd6c0Z0MWlLbUk4UGxqQndKQW8yNlNrcGlNcGEzNnM3eEpLTW8tdy1HUnVSV1dIaTB4MDlDSEtUOWJiSkoxdnozZHJnM3BVS0huUEZ6WjNKZUczLWtUQW1xVW1KR1JPalE5RElBeWpDcFdTNXliM0REZXNxUFV0QjItWW5yYw?oc=5",
@@ -331,25 +338,18 @@
       "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
     },
     {
+      "source": "HPP Soups & Meals",
+      "title": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong - HuffPost UK",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmNOYlI3cE1Ubk5BaXRtWWpnQkFsLVhvN19LTFRmYnBHLXVPSU51ZmFacnltV25ZWmk5dEt1ZkhzX2NvUlBfY0p6ZGtOVmpHblNWZzBLYVp0YTVWS0lvWXB3V1FxSnZEaV92OVJDbUh5RnRSVmFaQ1hYTU5QelBOYWV5VE5nRWR1S0JFQ19xX2Nta09XdkU0R0pBZlFxWUVFWjhKdE0tOA?oc=5",
+      "description": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong HuffPost UK",
+      "pubDate": "Fri, 10 Oct 2025 07:00:00 GMT"
+    },
+    {
       "source": "Listeria Outbreaks",
       "title": "What to know about the listeria outbreak tied to precooked pasta - NBC News",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlJnazBSd2FuVGlNeWxHVjBqWWhSWmdTT25PMHFYeDVRMHBOczBZOFp2Z0hVTW9IYmNNdXRNbjkwUDZHZGpQS0JtdTdmUnVmeGZicGY2ZVF5QjRoNWRCODh6QURRdGQ4S1VzQXlRbUliNUFDTHRuUkNCS0N6RGx4SUMzNTlYWFFZTDVRSWtTcGV4RGFaY3Y1U3B5Y3VRLUk3QkhNWlFJU3VEV1QwZmRkY1Zoc2c?oc=5",
       "description": "What to know about the listeria outbreak tied to precooked pasta NBC News",
       "pubDate": "Wed, 08 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric EU",
-      "title": "Hiperbaric to Install 30 HPP Machines in 2025 - foodengineeringmag.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQajhvMENNTkQ4Q2t3UUNTbURRZkc1Q0lkN2lnM0ppeWtWOC1tVXdERFpHa3FhaV9qUXFXTlItcGFJWmRFdEd5aGVIOFg3SE9va2R3bm5hTXdUNjhyR3o0OFViMVJlU2M0Y3VyQ190dEM0VlMzMlJ6YWl3UjRCWjhmQmZXRlpEVmNWdDlxR3Fyb3k2UFl6eFA2QUJ2QzM?oc=5",
-      "description": "Hiperbaric to Install 30 HPP Machines in 2025 foodengineeringmag.com",
-      "pubDate": "Mon, 06 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric",
-      "title": "Hiperbaric Achieves Record Growth with 30 HPP Machine Installations in 2025, Expands Tolling Network with New Partnerships - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMEd3MWdOZE5BdVpza3dzWWhuQ19FcnE1UjR3aXhaaWZZdUg5LUhLZXVsUzB0V1lYc1hxNHVqTVNoRU13anFHclhlMXNydC10ejVNRW8tZW1qdS1lLVZkMU9vckpIYmJ1cWJsZUpZV1hGOGJCMGV6V2l4dE84NE52RnZTSVo2R2JrZ1M0cTYtVDV1eWlwdWl5RGFoQnJZR1lMZlVoRTZ2V1BpczQ1N2xDbGNzNEN3VXRYOGQ5c2xXQVQ5ZEd0WVNvWGNNWHNocmEwdDA3WXdkT2xudXRpLVFWN2lXZDhPMmtGSkducGpFcmpUVGFxcHFPZkFtV3NRU21oOUtVUGNoelo?oc=5",
-      "description": "Hiperbaric Achieves Record Growth with 30 HPP Machine Installations in 2025, Expands Tolling Network with New Partnerships PR Newswire",
-      "pubDate": "Thu, 02 Oct 2025 07:00:00 GMT"
     }
   ]
 }
