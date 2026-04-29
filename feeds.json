@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-28T22:56:53.606104+00:00",
+  "updated": "2026-04-29T02:56:19.216895+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Ghirardelli recalling powdered drink mixes because of Salmonella",
+      "link": "https://www.foodsafetynews.com/2026/04/ghirardelli-recalling-powdered-drink-mixes-because-of-salmonella/",
+      "description": "Ghirardelli has recalled certain powdered beverage mixes. The recall was initiated following a recall initiated by California Dairies Inc. because of a concern of potential Salmonella contamination in milk powder, which was supplied to a third-party manufacturer and used as an ingredient in powdered beverage mixes. Neither Ghirardelli, its third-party",
+      "pubDate": "Wed, 29 Apr 2026 00:36:34 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Publisher's Platform: It's time to get the S*%! out of chicken and declare Salmonella an adulterant",
@@ -37,13 +44,6 @@
       "pubDate": "Mon, 27 Apr 2026 22:28:08 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "Full list of food items recalled this week – including Ocado, Aldi and Sainsbury’s - The Mirror",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zOHkxdlNMYWxRNk9SYXZfUjhzbXVSdkVKdEw1Wm9QMXA2UTdCNjZsaDFvaGNnaGMyZm14WG5FSDRVbk5wZWFtU0o5Z0hjWVR0UXNMMGJMajdfaGFiVjl2WlJUOXZQZ2g4eHhSRmxybDdiaUY2WlZlVGNEZlPSAYIBQVVfeXFMTzRlR0FGQ2JtZWFHRlN5RzhOYWlOV3ZDUFlmakFNaEtRS0lYd0IwVFY5SGd6U3B1WDFCaVpaZHZ6aWZsTG9nTHZzZXhMdG4yV2NyRS1hTUcwaHFpWm8wcEdXeUpubTBRMkJNUVJQbHpnb0MxQmVlTHdEaGRDa3ppNjZWQQ?oc=5",
-      "description": "Full list of food items recalled this week – including Ocado, Aldi and Sainsbury’s The Mirror",
-      "pubDate": "Mon, 27 Apr 2026 09:57:00 GMT"
-    },
-    {
       "source": "Food Safety News",
       "title": "Outbreak traced to backyard poultry flocks",
       "link": "https://www.foodsafetynews.com/2026/04/outbreak-traced-to-backyard-poultry-flocks/",
@@ -51,11 +51,11 @@
       "pubDate": "Mon, 27 Apr 2026 04:06:02 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Restaurant fined over link to Salmonella outbreak",
-      "link": "https://www.foodsafetynews.com/2026/04/restaurant-fined-over-link-to-salmonella-outbreak/",
-      "description": "Also: Experts advise against eating wild mushrooms",
-      "pubDate": "Mon, 27 Apr 2026 04:04:45 GMT"
+      "source": "Food Safety UK & EU",
+      "title": "Ocado, Aldi and Sainsbury’s issue urgent ‘do not eat’ warnings – list of affected items - Daily Express",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZkVHY2NXQjEzVzFzd09kQUVTQTVpTjFrN0dQQ19FUXg3a3NLYkpxWEw1RGFPT2tvMjhZVkRhWlRGNl82dE1MQ2M4LUNSdkpXLUpDUXJ0a0VEZXFGNFRLOUhVRFFiOWdVc2I2T3MtTlc5MC1wQzJBZlZEM29LYlZxSDVpRy1nMjNiSDNkV1VR0gGTAUFVX3lxTE54RmJZVGxrbDBGel9pZXF4LU90bWlGc000V2xMVDduRlFMamxPWnRQbEtPQ05ZZF9sU1pHZDI5dGppMllDY2Z2SmR5MVVFNklCcUtPd2ZiREZYV1RnZWxvR3lidWhTako3TFg0X0duR2ZERVN5bTc0bEc0M3M5VWloYTI5MGVhMnVtX0lfeFpDbkVhMA?oc=5",
+      "description": "Ocado, Aldi and Sainsbury’s issue urgent ‘do not eat’ warnings – list of affected items Daily Express",
+      "pubDate": "Sat, 25 Apr 2026 23:01:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -65,11 +65,11 @@
       "pubDate": "Thu, 23 Apr 2026 03:08:24 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "Urgent recall issued for food item sold at Morrisons, Tesco and Sainsbury's - Daily Express",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdUNueVZSVUtCbU9pajgzZERXeHFUX2IxYVBLYnpNYzAyZDI1UVB3LVZheWdjQmNjUmVXME9hX1lTdnlNQUdlMGlRTGRaREt5Vk5hdjZSRkxZWTdTQmlUem5pMHZ4ZWg2WjV0T1JyRmhlRlYzME9TOXhlYU1pX3Z0VlBtVEdaQk5nVVBhSmFaRdIBlAFBVV95cUxNY005aWFsTndhWVNPcHEwU3I0cVZGaWotY2d5UGN5OWtnS3lCS2hkdWhuTHdVUkRrWGZYUFpiSzV3V21kcW5iVDRUQW5Pc0JmWW9KRUZKMkNldmJCS1Z1dDMtZjZBQy02aTJDalBoaUZKbWVyaDdkLU9VNjNUemRRT0tOdXhyV0NUbEdNb3kxVndNaFpk?oc=5",
-      "description": "Urgent recall issued for food item sold at Morrisons, Tesco and Sainsbury's Daily Express",
-      "pubDate": "Wed, 22 Apr 2026 21:11:00 GMT"
+      "source": "Quintus Technologies",
+      "title": "Quintus Flexform™ Press Enables Sona SPEED to Deliver Flight-Critical Aerospace Components Faster - PRWeb",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeDBsMXhWM0lkb1ZfVXgwUEhGMUFVWmpGeTVYb2NOS2FsZ1Eteno0TnNwLTdJQXBzVERaWkRnUEQ0Yi1WekxfdGpXaUE0bXNKNGRUX21OSmxfeDdmb2tCSVAyaHNCNnVrazIwSGNieC1aTm43TExhS3I0NXVNN2otYUgxQ1hmUWxNOWZrVWhSaEdibDBuR1daNnJERXBkUVVKQURfdVA5QUp6OWY5V0plWkVXNXlfVFFOV3NhTE5JWUxRSUN4aFF4czFxcFFoRnBnT3FIRGxra3Z2dw?oc=5",
+      "description": "Quintus Flexform™ Press Enables Sona SPEED to Deliver Flight-Critical Aerospace Components Faster PRWeb",
+      "pubDate": "Wed, 22 Apr 2026 07:28:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -100,11 +100,18 @@
       "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
+      "source": "HPP Healthcare & Medical",
       "title": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 - Fortune Business Insights",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEYwb0FKSE1PSTZtQ1IwTHB1ZHBIbzhSc1piZnR6VTRpODRIaDRUaUx1cGZEVldYT0FjSkdEQ0tpNWVITDZ2eXl5TC1IOFM0V0Qwd0ZLaG9RSlp0WXI5V3NEV0pCYTg5RHFIb0NjOWVmcFVxU0ZILVhHdS10cWVtTk5qTVNfcVk?oc=5",
       "description": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 Fortune Business Insights",
       "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Outbreak Investigation of Extensively Drug-Resistant Salmonella: Moringa Powder (February 2026) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOXA4S0pBZmg3bzZrRmZTQzFJODhKV3ZPcm83RWNSR0E1N3dTR28wTG9MYXc5M0plb1Y1aU9wMHQ5OVl3ZVZVRC15c2t1eUZCODlSZ2xCbExXSjVGYUJWWnVSZkVQT0dMQzlkRjE5NGU2aWNtdkFxOWZoUk1jODBVQW1hRTB2MG5oNWp6dlVBT1E1Qi02MVNVQ2tZM1FzMjZfcko0djRpbjNzUlpVMTlmMi14aTVmUUJ5ZVk3LUdQcGduZmQ4RGJwWXVrckFIdDFwbVRXSDFBbVVTZw?oc=5",
+      "description": "Outbreak Investigation of Extensively Drug-Resistant Salmonella: Moringa Powder (February 2026) fda.gov",
+      "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "EU HPP & Food Tech",
@@ -112,6 +119,13 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXJvUXo3TWdoczNubWhpVjNDZ3dudUgySUxzWlJ4cjBFcEhKWnhNY0FjRTI5aUwtZjVXV25RdDkwQXhLVWFRWmo1ZlpKcW8zV3A2ZExicW9XcFhSalJrU0hHcmNQcFB1OVh4ME4wZEhaVDlTUmVUMzl6RnV6czduT192c012TDkxN29NakI3TTJYMnYtRWpiZHFtLUZ5Y0ktNHVrMlhWSWJaQXRQNV9VSnhkZUZWYkdsbF85OVY5NUs3Qm9maFgyellrR1A?oc=5",
       "description": "Fortress Technology to display touchscreen solution for food safety at interpack 2026 Packaging Europe",
       "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "Food hygiene experts issue warning following recall and salmonella outbreak - Dorset Echo",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeTZEZlE2STNybWJja0xxZWZzcV9HVFl1UXlyZjkwT2YzWDZiOEt2bFAzNVJhZUxVRXlOZ0dYUFlwajNvaDhwLXVPNmJOc3lCSVEzYzIzSFoxY1FMeTNyalViSU1XYU1aVTNBd24yeTVTUWkwRW5aenNrZmMySjVxVmFJcENCczFSTHkwOHEtcEl6a2gyYnZz?oc=5",
+      "description": "Food hygiene experts issue warning following recall and salmonella outbreak Dorset Echo",
+      "pubDate": "Sat, 28 Mar 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -133,20 +147,6 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCWlc1cTVRcVM0WEYwakxYZVdPeEZmdk5kVzNDRzRkV2ZZTmZZTFNhNDlubTRtSDdrSXZqVTdVTHRQcjNJQzhJYjZ6V042MDh0RTRVa2c3eGQ4Znc0MHNYUzVvczZKYWsyenB6RVAyNVBrT1dwbUE?oc=5",
       "description": "Food Technology Market | Global Market Analysis Report - 2036 Future Market Insights",
       "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Salmonella Outbreak Linked to Moringa Leaf Powder - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
-      "description": "Salmonella Outbreak Linked to Moringa Leaf Powder Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
-      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
-      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -191,13 +191,6 @@
       "pubDate": "Thu, 12 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "New deaths, hospitalizations reported in connection with listeria outbreak tied to ready-to-eat pasta - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVHA4VUZ2TFlHeGNyaUU1SlpWbDZydmd2SjFEbFBpbG15QUJnMVpvZUwxc00ycFh6ZlFFZjVwZlZ6d1NnendSMENRV3N0MVphLTdLTElSRVI5U25ZdUlCNXJya2R1bGt3Zk1VTFBtRk8xZ01zWVVhWENtaVktb1pnR3M3UVJON0NCN2VVd2ZXYjRIdEVoZlJCbjV6ZU9nVkd5R0ZJaURTcDJDN1hHMC0yQjViaUpvM1gwcFHSAb8BQVVfeXFMTUpJSjc1VzRYWlprX3BiR2ptMm9JLUozYk1KNU9IS3FWYmZ5U1lWUW1UWTV0RG1NRDFERThnWm40MVVEUU9SWUhHbFF5S2hJVk55ZHBNRWNLQnlGMzN2NHRxQmpwampxY0N5aXFnYk9ZY0pPU1dSbFRKdjhEVFVybmIzYmlISGJ5NnNLMEhhZ2Viel81MFdMMC1BZ2NxQllJMWpBUTFiOXE0alZtUGI3UHBDbTBYWUk5MzNTQ0toWG8?oc=5",
-      "description": "New deaths, hospitalizations reported in connection with listeria outbreak tied to ready-to-eat pasta ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Wed, 11 Feb 2026 18:56:39 GMT"
-    },
-    {
       "source": "Hiperbaric",
       "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb0JEamkwMjhURUVDb2Q2cm1RX1docGhWbldaZERZT3JZcWhTYUJBOUxsQjZCWGY2N2VyemtUT1VKVE9iNGYxOXY3R2xCMHZvaGEybzNpSG5CTy1xVFlfRXRSLVd6akRnNFU3aWdfVW44ZDJobjB6NmgwcFA0MDg2b0JhenowWkhZdlF4OVlNV3dPVERm?oc=5",
@@ -224,6 +217,13 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
       "description": "£3m fund unveiled to target diet and health innovation British Baker",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Investigation Update: Salmonella Outbreak, January 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYjZJajZ1bTFMRUZHUzJTTFNmRjI3VkhEck01aG54M2kxelBubjFBNDVGY0RXWFJIekl2MFFDeXlRNC1SMWV3N2xBbkpfam1qb3pVTGxGbVAzQUljUG9MSm1IR1NEeThvLU0xRWFmRElJb204aWlaNTdQenFXbEJlb3EtZWZQVXY5QmVSZ2l4SmdjeFVNS3VTeg?oc=5",
+      "description": "Investigation Update: Salmonella Outbreak, January 2026 Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Thu, 29 Jan 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Soups & Meals",
@@ -296,6 +296,13 @@
       "pubDate": "Tue, 04 Nov 2025 08:00:00 GMT"
     },
     {
+      "source": "Hiperbaric",
+      "title": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdFZlWGhqdzd2Qk81Q1kyN2tXc2M1VGVMdDBrM19kNkt6S3pZbWkwLVR6WUFYcUVLVTRtdEVsR2M2TzQzN3FXOVpGOUxlejdTd2VqdUhyekZuSnVCU0xXY0NSZklEcFphM3hwSS1PY1duUkJBeFo4dzUzWHRqX2YzVzB4a2tTRmZwS05SRk5jdlduVWlPUTRzVXN0em9INjhHX3hTaUs4dVo4RjRJMlhfM2RTaHJncHNUZUpTV3FNV1QzMWxGVkdfQmcxcjI1UWl3UW42djBsa3dUNklQdE83TmxkbnNQcnQwbUstTTh2SnRPb1hBZ3ZqTV9LNURDMFV1eklubElBVzhQM0lqM1Zv?oc=5",
+      "description": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership PR Newswire",
+      "pubDate": "Mon, 03 Nov 2025 08:00:00 GMT"
+    },
+    {
       "source": "Quintus Technologies",
       "title": "Second Hot Isostatic Press to go live at Wallwork in time for Formnext - Aerospace Manufacturing magazine",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS2hObS14cmN1VFc4WEx3SkN6enFzOXFycVNZeDVEUTg1MTRiejd5T1lYcWdkOE9rcEhUc2tVUDRQMUc3cjVSUTRqUmN2bnVjZVpRdFc3d0p1SWZITXlxWTFqNEVfMG1ubzlVeDFCRXV0UHVwS0VBbFRNMTI3UXMwWUQwWFZ3OFBsXzhHQVA3dWRld0R2dHI5R081UQ?oc=5",
@@ -303,11 +310,11 @@
       "pubDate": "Mon, 03 Nov 2025 08:00:00 GMT"
     },
     {
-      "source": "HPP Cosmetics & Beauty",
-      "title": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdFZlWGhqdzd2Qk81Q1kyN2tXc2M1VGVMdDBrM19kNkt6S3pZbWkwLVR6WUFYcUVLVTRtdEVsR2M2TzQzN3FXOVpGOUxlejdTd2VqdUhyekZuSnVCU0xXY0NSZklEcFphM3hwSS1PY1duUkJBeFo4dzUzWHRqX2YzVzB4a2tTRmZwS05SRk5jdlduVWlPUTRzVXN0em9INjhHX3hTaUs4dVo4RjRJMlhfM2RTaHJncHNUZUpTV3FNV1QzMWxGVkdfQmcxcjI1UWl3UW42djBsa3dUNklQdE83TmxkbnNQcnQwbUstTTh2SnRPb1hBZ3ZqTV9LNURDMFV1eklubElBVzhQM0lqM1Zv?oc=5",
-      "description": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership PR Newswire",
-      "pubDate": "Mon, 03 Nov 2025 08:00:00 GMT"
+      "source": "Listeria Outbreaks",
+      "title": "Nationwide listeria outbreak tied to pasta recall results in 27 illnesses, 1 Oregon death - OregonLive.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRk4xT0RaNXpzTUEtNk15Tk43d0hqay04TkhuTUVKN2l2elNsR1dicWRfeG9HcnFKSUtCejdMMnJUY3ZvXzlpcTVjRnpzQlkxRXRKeFdFSTRYU2w1VGVBMHIxc091WTVROUhxSEc5dXpHbE1zOGp3MlY2Q2VxZTk0aVJ0Z2VOSzNpWWRSMGt6dXhUR3hhX01pb2drYmg4Y3RBWnFXWTBtV0oxbG0xRXFTZHVQYmhFeExrMHZlLWtIUXBVMmRBUHhxbnNVZmRXclQ30gHkAUFVX3lxTE0xdk0yUzlGc1lSQWlyZURkMkJKNmtRNExzV0lfYzRHQVA5QlNCUTZpQXlXNDRpNFc1cUhzOU52Rm15QkdaTDNRZUh0a25qaVlTTFZ1VlRtTm1lVkROYnBQOGVsMHB0U1QwbjJlN0pZSzNqVVJvZDZRblVhUnl3OHpWeGk0QWlXbUJyMTk3YllPbndFSG9FRTJkSWs3cXFjSDBING0zbEdWOGFyUlVlNjc4bDlXcWgxeXpvNk1BMERlRHZOQmNsd1FuTWpkMkJlZ2dudW91QmJGVXBER0NERDhwOEY4Uw?oc=5",
+      "description": "Nationwide listeria outbreak tied to pasta recall results in 27 illnesses, 1 Oregon death OregonLive.com",
+      "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -338,18 +345,11 @@
       "pubDate": "Wed, 08 Oct 2025 07:00:00 GMT"
     },
     {
-      "source": "Hiperbaric",
+      "source": "Hiperbaric EU",
       "title": "Hiperbaric Achieves Record Growth with 30 HPP Machine Installations in 2025, Expands Tolling Network with New Partnerships - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMEd3MWdOZE5BdVpza3dzWWhuQ19FcnE1UjR3aXhaaWZZdUg5LUhLZXVsUzB0V1lYc1hxNHVqTVNoRU13anFHclhlMXNydC10ejVNRW8tZW1qdS1lLVZkMU9vckpIYmJ1cWJsZUpZV1hGOGJCMGV6V2l4dE84NE52RnZTSVo2R2JrZ1M0cTYtVDV1eWlwdWl5RGFoQnJZR1lMZlVoRTZ2V1BpczQ1N2xDbGNzNEN3VXRYOGQ5c2xXQVQ5ZEd0WVNvWGNNWHNocmEwdDA3WXdkT2xudXRpLVFWN2lXZDhPMmtGSkducGpFcmpUVGFxcHFPZkFtV3NRU21oOUtVUGNoelo?oc=5",
       "description": "Hiperbaric Achieves Record Growth with 30 HPP Machine Installations in 2025, Expands Tolling Network with New Partnerships PR Newswire",
       "pubDate": "Thu, 02 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Innovation & Research",
-      "title": "HPP or HPTP in pet food production -- what's the difference? - PetfoodIndustry",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaUtRSGhHYTdSUXI5dktCcEhVSm05cnpQLWZpTHcyaThUTzJVeXVxbnRTcG5JeWFiazE3ZnZYdm04dWhRcHpkSll6TEdtMkpjRFJ6MXc2djdfOTJZN2tWc2VRSGhGZDJ6Uml0UDdBUHFLSEYxTzlEZkZrYmhxWXhiMGg5SHJPTW9GZlhtRVpjMmFpbWlnLU9fUXpqTEJ4Nmdtbm9oUVkzZU1raDJBVDB3WFZwN2dPcUY2MmRHMndQRVItaS1xOVNXVTFEYXo?oc=5",
-      "description": "HPP or HPTP in pet food production -- what's the difference? PetfoodIndustry",
-      "pubDate": "Wed, 01 Oct 2025 07:00:00 GMT"
     }
   ]
 }
