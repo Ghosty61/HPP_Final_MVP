@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T21:01:48.972554+00:00",
+  "updated": "2026-04-30T22:54:05.633389+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -13,7 +13,7 @@
       "title": "Food Recalls Are Good, Actually - Mother Jones",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1UHJSaGhRNENZMDF4Yk9DdmlNbHpNTFRpclJrd3hxejZfcHlRRlFoUjYxRkFBYXc4VGk3Y1QzNEVrTloyMmZfbkQ2SUJHTzh3cVl0VmZmRkZ0VUtSN0NPR2FlNU5pSXJKUHU2cUgxWHpOdV9feENQcTRCcjc?oc=5",
       "description": "Food Recalls Are Good, Actually Mother Jones",
-      "pubDate": "Thu, 30 Apr 2026 12:25:21 GMT"
+      "pubDate": "Thu, 30 Apr 2026 12:16:20 GMT"
     },
     {
       "source": "Food Safety News",
@@ -72,13 +72,6 @@
       "pubDate": "Thu, 23 Apr 2026 12:08:55 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Cantaloupes Recalled Across the U.S. After Salmonella Contamination - People.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVTlQWElvb3RpakdjSkFCZHNDelhlVHlCQ1ZmWXdzQ0ZMczYtY2RSS2JmTk43NTZTRkpiYWk3X0V3eHlkeFhmQ0J6TTFEN0prWTdqQUY4VEFqa0tNM2ltMzJYcG9YdWF1a1VkUXl1cjVfTElMZkRYSXNlLVVLelFkTkt5YXVJMjJJeHFnTDNRZ3JzU1R3dUliYw?oc=5",
-      "description": "Cantaloupes Recalled Across the U.S. After Salmonella Contamination People.com",
-      "pubDate": "Thu, 23 Apr 2026 03:08:24 GMT"
-    },
-    {
       "source": "Food Safety UK & EU",
       "title": "Urgent recall issued for food item sold at Morrisons, Tesco and Sainsbury's - Daily Express",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdUNueVZSVUtCbU9pajgzZERXeHFUX2IxYVBLYnpNYzAyZDI1UVB3LVZheWdjQmNjUmVXME9hX1lTdnlNQUdlMGlRTGRaREt5Vk5hdjZSRkxZWTdTQmlUem5pMHZ4ZWg2WjV0T1JyRmhlRlYzME9TOXhlYU1pX3Z0VlBtVEdaQk5nVVBhSmFaRdIBlAFBVV95cUxNY005aWFsTndhWVNPcHEwU3I0cVZGaWotY2d5UGN5OWtnS3lCS2hkdWhuTHdVUkRrWGZYUFpiSzV3V21kcW5iVDRUQW5Pc0JmWW9KRUZKMkNldmJCS1Z1dDMtZjZBQy02aTJDalBoaUZKbWVyaDdkLU9VNjNUemRRT0tOdXhyV0NUbEdNb3kxVndNaFpk?oc=5",
@@ -91,6 +84,13 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeDBsMXhWM0lkb1ZfVXgwUEhGMUFVWmpGeTVYb2NOS2FsZ1Eteno0TnNwLTdJQXBzVERaWkRnUEQ0Yi1WekxfdGpXaUE0bXNKNGRUX21OSmxfeDdmb2tCSVAyaHNCNnVrazIwSGNieC1aTm43TExhS3I0NXVNN2otYUgxQ1hmUWxNOWZrVWhSaEdibDBuR1daNnJERXBkUVVKQURfdVA5QUp6OWY5V0plWkVXNXlfVFFOV3NhTE5JWUxRSUN4aFF4czFxcFFoRnBnT3FIRGxra3Z2dw?oc=5",
       "description": "Quintus Flexform™ Press Enables Sona SPEED to Deliver Flight-Critical Aerospace Components Faster PRWeb",
       "pubDate": "Wed, 22 Apr 2026 07:28:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Cantaloupes Recalled Across the U.S. After Salmonella Contamination - People.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVTlQWElvb3RpakdjSkFCZHNDelhlVHlCQ1ZmWXdzQ0ZMczYtY2RSS2JmTk43NTZTRkpiYWk3X0V3eHlkeFhmQ0J6TTFEN0prWTdqQUY4VEFqa0tNM2ltMzJYcG9YdWF1a1VkUXl1cjVfTElMZkRYSXNlLVVLelFkTkt5YXVJMjJJeHFnTDNRZ3JzU1R3dUliYw?oc=5",
+      "description": "Cantaloupes Recalled Across the U.S. After Salmonella Contamination People.com",
+      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -153,13 +153,6 @@
       "title": "Salmonella Outbreak Linked to Moringa Leaf Powder - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
       "description": "Salmonella Outbreak Linked to Moringa Leaf Powder Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
-      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
       "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
     },
     {
@@ -266,6 +259,13 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVUY204LVk3LUY2MXN6QXVRcnJKb0hKbFBRbHNpeXAxSlhzN3c1WW90NGY1UzNCU1cwUDNmbFd6LTRTZWpYZ0lpTTdJRnRQT3ptQ3hneVdYSnRWNjdYRGNsTkV0S21Jb1M5Sk83T21aeE1VVWNSZWkzUEI4b0lKTWR1VTN1ZjAyYVl3eXFRX014ZzlJUnRRM2J3MEJaYVJHTzNWZzNoTVlNbVdsS2lydDBVX213Q0E?oc=5",
       "description": "Meet the food innovation centres leading the way in sustainable, tech-driven development FoodBev Media",
       "pubDate": "Fri, 23 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "45 confirmed sick in multistate Salmonella outbreak tied to supplement - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnNMOEg2OVdWNEFQazU4Y0NrNlhQaVlBS2tKWXp0VmlaMVp6ekk4VjA3Y3BYb0Z4MDZBQnBDNkhUYXJlXzJSUzNhMFFwM0NXYzY3WUxXcG5MbU02VkxGblY3dDgxSWt2alZqeFdmMGJCRzVCeTFXbDVPQ3pVX1hEdFdLU25CVUw2UnFQRWdudFV3bGZHd2ROZ05PV21fRUdJaTdTMg?oc=5",
+      "description": "45 confirmed sick in multistate Salmonella outbreak tied to supplement CIDRAP",
+      "pubDate": "Thu, 15 Jan 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Soups & Meals",
