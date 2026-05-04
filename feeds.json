@@ -1,6 +1,27 @@
 {
-  "updated": "2026-05-04T02:55:37.423801+00:00",
+  "updated": "2026-05-04T06:38:32.157267+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Publisher’s Platform: Playing 'Romaine Roulette'",
+      "link": "https://www.foodsafetynews.com/2026/05/publishers-platform-playing-romaine-roulette/",
+      "description": "Between 2015 and 2021, E. coli O157-contaminated romaine was implicated in seven outbreaks in the United States, resulting in 4,274 laboratory-confirmed illnesses, 766 hospitalizations, and 11 deaths.",
+      "pubDate": "Mon, 04 May 2026 04:05:54 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Public health agencies investigating Salmonella outbreak at jail",
+      "link": "https://www.foodsafetynews.com/2026/05/public-health-agencies-investigating-salmonella-outbreak-at-jail/",
+      "description": "Local media in South Bend, IN, are reporting that almost two dozen inmates at a county jail are part of a Salmonella outbreak. The 23 inmates at St. Joseph County Jail became ill on April 29 with symptoms including diarrhea, dehydration and fever. The jail&#x2019;s medical staff determined",
+      "pubDate": "Mon, 04 May 2026 04:04:29 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Fine for restaurant linked to Salmonella outbreak",
+      "link": "https://www.foodsafetynews.com/2026/05/fine-for-restaurant-linked-to-salmonella-outbreak/",
+      "description": "A company in England has been fined for food safety failings behind a Salmonella outbreak in 2024. Bracknell Tangs Management, the operator of Tangs Oriental Buffet Restaurant in Bracknell, pleaded guilty to four food safety offences in April at Reading Magistrates Court and was fined &#xA3;25,000 ($34,000)",
+      "pubDate": "Mon, 04 May 2026 04:03:16 GMT"
+    },
     {
       "source": "UK Food Industry",
       "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
@@ -28,27 +49,6 @@
       "link": "https://www.foodsafetynews.com/2026/05/uk-salad-sampling-reveals-low-contamination-rate/",
       "description": "STEC was culture-confirmed in three samples and Salmonella was found once",
       "pubDate": "Fri, 01 May 2026 04:02:14 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "USDA issues public alert about pizza products because of recalled milk powder",
-      "link": "https://www.foodsafetynews.com/2026/05/usda-issues-public-alert-about-pizza-products-because-of-recalled-milk-powder/",
-      "description": "The USDA&#x2019;s Food Safety and Inspection Service (FSIS) is issuing a public health alert for meat and poultry products containing FDA-regulated dairy ingredients that may be contaminated with Salmonella.&#xA0; FSIS expects additional downstream products will be identified as this ingredient recall progresses. As more information becomes available,",
-      "pubDate": "Fri, 01 May 2026 01:15:08 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "E. coli outbreak linked to RAW FARM raw milk cheese declared over",
-      "link": "https://www.foodsafetynews.com/2026/04/e-coli-outbreak-linked-to-raw-farm-raw-milk-cheese-declared-over/",
-      "description": "More than half of the patients were younger than 5",
-      "pubDate": "Thu, 30 Apr 2026 23:44:48 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "FDA issues alert about blood clams in relation to hepatitis A outbreak",
-      "link": "https://www.foodsafetynews.com/2026/04/fda-issues-alert-about-blood-clams-in-relation-to-hepatitis-a-outbreak/",
-      "description": "An outbreak of hepatitis A has spurred the FDA to issue a public alert about fresh-frozen blood clams imported from Ecuador and sold under the La Serranita brand. The outbreak is under investigation by the New York State Department of Health and the U.S. Food and Drug Administration. The",
-      "pubDate": "Thu, 30 Apr 2026 20:38:55 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -87,6 +87,13 @@
     },
     {
       "source": "Food Safety UK & EU",
+      "title": "Ocado, Aldi and Sainsbury’s issue urgent ‘do not eat’ warnings – list of affected items - Daily Express",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZkVHY2NXQjEzVzFzd09kQUVTQTVpTjFrN0dQQ19FUXg3a3NLYkpxWEw1RGFPT2tvMjhZVkRhWlRGNl82dE1MQ2M4LUNSdkpXLUpDUXJ0a0VEZXFGNFRLOUhVRFFiOWdVc2I2T3MtTlc5MC1wQzJBZlZEM29LYlZxSDVpRy1nMjNiSDNkV1VR0gGTAUFVX3lxTE54RmJZVGxrbDBGel9pZXF4LU90bWlGc000V2xMVDduRlFMamxPWnRQbEtPQ05ZZF9sU1pHZDI5dGppMllDY2Z2SmR5MVVFNklCcUtPd2ZiREZYV1RnZWxvR3lidWhTako3TFg0X0duR2ZERVN5bTc0bEc0M3M5VWloYTI5MGVhMnVtX0lfeFpDbkVhMA?oc=5",
+      "description": "Ocado, Aldi and Sainsbury’s issue urgent ‘do not eat’ warnings – list of affected items Daily Express",
+      "pubDate": "Sat, 25 Apr 2026 23:01:00 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
       "title": "Good4U recalls Super Sprouts Super Greens over Salmonella risk - New Food",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRFZ4d01NSXRMa0h5cVBjMEdTSG16X1Q0M3hyUzVBV3l5UDB5RlFmX3Mtdkw2ZXFHS3U4QTY1b196b1V2bVppSzJ1LWJJTUZEWGlUMGwtOWF4VmhHb2FMZ0dMeDRfQ3dvdVMtaTFvMVpRa3NWQm42eWEyVUhHSXdYY3lkLTRpbFFFbEYweERHSWU1VkFWeHZ0U21takhIQldYRDMwQVdRc3VQZjlYTERVcDdLSWRsUQ?oc=5",
       "description": "Good4U recalls Super Sprouts Super Greens over Salmonella risk New Food",
@@ -98,6 +105,13 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeDBsMXhWM0lkb1ZfVXgwUEhGMUFVWmpGeTVYb2NOS2FsZ1Eteno0TnNwLTdJQXBzVERaWkRnUEQ0Yi1WekxfdGpXaUE0bXNKNGRUX21OSmxfeDdmb2tCSVAyaHNCNnVrazIwSGNieC1aTm43TExhS3I0NXVNN2otYUgxQ1hmUWxNOWZrVWhSaEdibDBuR1daNnJERXBkUVVKQURfdVA5QUp6OWY5V0plWkVXNXlfVFFOV3NhTE5JWUxRSUN4aFF4czFxcFFoRnBnT3FIRGxra3Z2dw?oc=5",
       "description": "Quintus Flexform™ Press Enables Sona SPEED to Deliver Flight-Critical Aerospace Components Faster PRWeb",
       "pubDate": "Wed, 22 Apr 2026 07:28:00 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "Urgent warning as salad item recalled over potential salmonella contamination - Chronicle Live",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRnU0MkszekJlRUxieGRRX1lxVF91dlZHclUteGhwLUZYRWpUNG5JZkpwTVZaRF94OUpjbm9uYU9nLVNXMFFBZS1GeF8tbDFmUzFpXzJoVnZueHRvRHJMNFNqMVgzeXFvNEYtM285dHdFNUZrWWNva2VQV1M0cXR2UEFvQVVGWEFQcnk3d0JsckU2ZjdPa1VoSHM1NVlMa0hjbHfSAacBQVVfeXFMT3drQmR5cFh4ZWF2SVlyTGN6Y1lIQVJiNzRxUGhHWEF4WkJXZG5PaHBQSFNUX01PR1doRFJQSzVkaHNXMVZ3TjBmMjZPV1h3NlFQcUZWa1pWSmRlakRaZzJjT3AzUnlERzVRQ0ROR0pkZGxxTjVZUTBNRm9GYW1GWGdGc3ZsYUUxYmdST0pSLW45VzlPaEcwQ0ExWS16RWlPdzgtMEliWFU?oc=5",
+      "description": "Urgent warning as salad item recalled over potential salmonella contamination Chronicle Live",
+      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Soups & Meals",
@@ -135,13 +149,6 @@
       "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "Food hygiene experts issue warning following recall and salmonella outbreak - Dorset Echo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeTZEZlE2STNybWJja0xxZWZzcV9HVFl1UXlyZjkwT2YzWDZiOEt2bFAzNVJhZUxVRXlOZ0dYUFlwajNvaDhwLXVPNmJOc3lCSVEzYzIzSFoxY1FMeTNyalViSU1XYU1aVTNBd24yeTVTUWkwRW5aenNrZmMySjVxVmFJcENCczFSTHkwOHEtcEl6a2gyYnZz?oc=5",
-      "description": "Food hygiene experts issue warning following recall and salmonella outbreak Dorset Echo",
-      "pubDate": "Sat, 28 Mar 2026 07:00:00 GMT"
-    },
-    {
       "source": "Hiperbaric",
       "title": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria - Fuel Cells Works",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMWpFYUZveHVvay1yVVNMNWZxN0NDcnhEdnBvVDdueFBuZWhRVkticVM5andBeGtkc1ZBYzlBcmFGY0xHWGIzaF9UZVV5NUxsNjZ1ZkhHRV9TSk9fbzd0R1E2YXJCM2dMMWMtZmp5ZWxyb1FWRTRKWkV1WDN3WXlZeEg4TmwzUnc0ZDcxeWtWWDZuZ3NEOFJyZS1KNnJqdjFpOTZjVFlCNU8wcWpKdjNYM18yeDgzUUl4Qjl2MUVHUW8xc0Jzd2ZNZWxsNkwtYzExN04xTXktNUxaV05kcFdfMjVqTDNGZEhkaEFEMzJBaWFoam9zZjJ4LQ?oc=5",
@@ -168,13 +175,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
       "description": "Salmonella Outbreak Linked to Moringa Leaf Powder Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Seafood",
-      "title": "Oyster Processor comes to Dock+ - NanaimoNewsNOW",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OS1NNQWRKNUJqUW81ak16UmhZb3N6QzZtRlZiVk1FNlhTblN3VFpzdGNDaFBtTkI2X2U4TFEwZm1PVGFWN0ZXekl0azBZaEUzYjBBcG5xZWFyMGw4TC1GNlBaT2ZfRkNyT1huSjBqUWUyd0tlZ0NzcA?oc=5",
-      "description": "Oyster Processor comes to Dock+ NanaimoNewsNOW",
-      "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -241,24 +241,10 @@
     },
     {
       "source": "UK Food Industry",
-      "title": "Registration opens for Food, Drink & Hospitality Week 2026, with Food and Drink Innovation at its core - Restaurant Industry Magazine",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVgzMVpmRU1IeVlNZlFVdnNEZlFKVGoxT3VXZHBPY2xyNjZ4Q1AwT1ZtUXZFT3M4Q3RRblU5cHE4RHc4T0RwZHBnd2Q1Yzc1Z2wzNl9iSWFZOGREVS1HaG1oVndrZ29YTERPV1dMcDlNdGhtRW9QR3RZRUZVXzY5ODB1NmlseUtSUFJjcHNjeTJ6aXNnZnE1NTE2LUdDZUVLbzEtOVV2YlNLR3JIUXBubFZicklFVV9GVndEb3AtNDVqR0gzcXRSWnBGYmJQZUtFbFV0T0dQbXVYTUU?oc=5",
-      "description": "Registration opens for Food, Drink & Hospitality Week 2026, with Food and Drink Innovation at its core Restaurant Industry Magazine",
-      "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
       "title": "£3m fund unveiled to target diet and health innovation - British Baker",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
       "description": "£3m fund unveiled to target diet and health innovation British Baker",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Meet the food innovation centres leading the way in sustainable, tech-driven development - FoodBev Media",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVUY204LVk3LUY2MXN6QXVRcnJKb0hKbFBRbHNpeXAxSlhzN3c1WW90NGY1UzNCU1cwUDNmbFd6LTRTZWpYZ0lpTTdJRnRQT3ptQ3hneVdYSnRWNjdYRGNsTkV0S21Jb1M5Sk83T21aeE1VVWNSZWkzUEI4b0lKTWR1VTN1ZjAyYVl3eXFRX014ZzlJUnRRM2J3MEJaYVJHTzNWZzNoTVlNbVdsS2lydDBVX213Q0E?oc=5",
-      "description": "Meet the food innovation centres leading the way in sustainable, tech-driven development FoodBev Media",
-      "pubDate": "Fri, 23 Jan 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Soups & Meals",
@@ -280,6 +266,13 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWYtdVQwYl80R1Ytem9hTzNxNl9sMHFaVVlXa1h3aG9CakY5SnZEZ3NibThISEI0WmNYYXg5TG1wYzd6c0Z0MWlLbUk4UGxqQndKQW8yNlNrcGlNcGEzNnM3eEpLTW8tdy1HUnVSV1dIaTB4MDlDSEtUOWJiSkoxdnozZHJnM3BVS0huUEZ6WjNKZUczLWtUQW1xVW1KR1JPalE5RElBeWpDcFdTNXliM0REZXNxUFV0QjItWW5yYw?oc=5",
       "description": "Quintus unveils pilot-scale warm isostatic presses for all-solid-state battery production Charged EVs",
       "pubDate": "Tue, 09 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Ingredients under pressure: What HFSS means for NPD - Food Manufacture",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVZrV3oyajAyMGNRaXBYbVBhYWU0NXVqU2JQME5YWWxCUzlTN3dzZHV6ZVVWU1ZibEc3WUdiMzlXTWFaNms2Y0VDODhiT3hrRmdsdi1BYW1hcVBNNTVscFRKd1Zwc3hEOURCeTJjNUJmZzZlZURKc3JnOFd3dlBvbl9fUUlMdlM1Smg2TkFsZkZVWEJjVVRCVjFJRTVMUHNhWTNiU2VwX25WYUlxdi15YU0wbGM?oc=5",
+      "description": "Ingredients under pressure: What HFSS means for NPD Food Manufacture",
+      "pubDate": "Wed, 26 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -336,6 +329,13 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNDlqSEdueVZFbHIxU1ZUUjM5WGh5OGxBT1dvUkdPQmRPa3VsY25ISEpPSjV0WGticnh1Zk1yVjViNURINHYzS1o4WGZucE9naVJ0c1JLdGZvRi1nY0doVTFURFZTeWlYOG8ydWpFR0xyMkxmbTNMVGxnWEwtYnAwTGV4WlZWWE50WkVuQVdLWnVYQmwyMDJlR1I5TFAtb0ZOZkI5Y1pFOE15TVB2QWpQWWh4X0g4bVJPb0JPLQ?oc=5",
       "description": "New HPP tolling facility in North Carolina to feature Hiperbaric system Pet Food Processing",
       "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Soups & Meals",
+      "title": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong - HuffPost UK",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmNOYlI3cE1Ubk5BaXRtWWpnQkFsLVhvN19LTFRmYnBHLXVPSU51ZmFacnltV25ZWmk5dEt1ZkhzX2NvUlBfY0p6ZGtOVmpHblNWZzBLYVp0YTVWS0lvWXB3V1FxSnZEaV92OVJDbUh5RnRSVmFaQ1hYTU5QelBOYWV5VE5nRWR1S0JFQ19xX2Nta09XdkU0R0pBZlFxWUVFWjhKdE0tOA?oc=5",
+      "description": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong HuffPost UK",
+      "pubDate": "Fri, 10 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
