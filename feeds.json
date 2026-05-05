@@ -1,12 +1,33 @@
 {
-  "updated": "2026-05-05T02:48:02.026552+00:00",
+  "updated": "2026-05-05T06:16:47.930396+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Norovirus sickens hundreds in Sweden",
+      "link": "https://www.foodsafetynews.com/2026/05/norovirus-sickens-hundreds-in-sweden/",
+      "description": "Officials in a Swedish region have received more than 300 reports of suspected food poisoning after eating at local restaurants. Authorities in Lerum said the outbreak can be traced to two Gobi Sushi restaurants in Floda and Lerum. The outlets have been closed at the request of authorities since April",
+      "pubDate": "Tue, 05 May 2026 04:03:22 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "WHO estimates costs and benefits of foodborne disease surveillance investment",
+      "link": "https://www.foodsafetynews.com/2026/05/who-estimates-costs-and-benefits-of-foodborne-disease-surveillance-investment/",
+      "description": "Improving foodborne disease surveillance could avoid millions of illnesses while generating major economic benefits, according to the World Health Organization (WHO). A WHO analysis calculated the average return on investment for disease surveillance in 17 countries with intermediate levels of food safety system development.",
+      "pubDate": "Tue, 05 May 2026 04:01:45 GMT"
+    },
     {
       "source": "Salmonella Outbreaks",
       "title": "Salmonella Alert Expanded by FSIS—Check Your Freezer for These Products - Good Housekeeping",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdlBhT3VkSldZRXhBOXZheUpxeXI2SzluQzdRNkJFclZoYndZUEI1c1JHRzg3b29Vc1dDdDhlUFlZZlNHczZfTGNUU2tibTlxanBCaWZHMDdUZ3JqU0lURzJ5WEhfelUxLUg1ZktldnlsRXlCdVdiYVZ0eTlrZ1BFNlY1OTRrZl85Y0taMVhPN1ZVTjg?oc=5",
       "description": "Salmonella Alert Expanded by FSIS—Check Your Freezer for These Products Good Housekeeping",
       "pubDate": "Mon, 04 May 2026 19:20:36 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "Frozen pizzas sold at Aldi and Walmart under recall for possible salmonella risk - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYmpjWWdZekp3ZkRsai1xMDQzNGlfcHhWSC1kLTdZcWRWRko5WmVpOTJ2bEd3MGUxRFVCc20xMURLcnM5MlBWZktqdU56cFZLSU9JTXVkVWpPNEtTanRHcHZZTUFaNFc5cTMyRDg0ZU1YSnZjaVJiZ0FBOGtNa3c5Uk1BN2JjeFBSNy1wLWtYMTU2Y2lmaFhTZnFnUUpfckE?oc=5",
+      "description": "Frozen pizzas sold at Aldi and Walmart under recall for possible salmonella risk The Independent",
+      "pubDate": "Mon, 04 May 2026 14:53:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -38,13 +59,6 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Salmonella Causes, Symptoms, Cure: What Shoppers Must Know After Expanded Frozen Pizza Recall Across Aldi and Walmart Stores - International Business Times UK",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONDZhSHlVZGFsaWUzYjVVekhTSWVoQl9jWnJSLUZoMkxER180X2ZlQ0dMNXJLdVVSdjUwWEluT1FKV0dTTGV4TThsZ05UVXZoOGRJWW53QUVBRm95VEFHZ3Q0VjgzMGkyTVIxX0JhVDR4dVdGWWJGMHJtOWhYYkViRU5tVDFmTG1kQVhj?oc=5",
-      "description": "Salmonella Causes, Symptoms, Cure: What Shoppers Must Know After Expanded Frozen Pizza Recall Across Aldi and Walmart Stores International Business Times UK",
-      "pubDate": "Mon, 04 May 2026 03:50:30 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
       "title": "Frozen Pizzas Sold at Aldi and Walmart Recalled for Salmonella Concerns: Here’s What to Know - Yahoo News UK",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LRVp6TW9FSlF2Wm5aVjFzaHJGblpueGVHaHNwbF9FcDhlaXI0S052aG03SWpEekVvU2RJWDZYRTUzcXhjSVNyZlBuN21EQ3UwU3FFRWxOM3h4OXJnTDdMNW1RckRFWWpFVHVzV2cxVWR0TDVOMmZnbm4wQTg?oc=5",
       "description": "Frozen Pizzas Sold at Aldi and Walmart Recalled for Salmonella Concerns: Here’s What to Know Yahoo News UK",
@@ -63,20 +77,6 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYndEVkpNblZQS3dUbkRsNUdfSlI2RTlteWdFZjRIT25xdzBTS3hCNXdPOTBnSjF3MV9GQjNSdVFaeXAtSVliU29vbXU2TkRLU3AwQWtHeU95VU1UTnZ3eUpPSDhKcmQwbzl0LS1yRVFfcGphQ0h6Rmp1enV1b0s4WmFVUnlrY3BXcFNWNXc4TFRXRU1aOEpaRzY0blAzSzBEd05zZk1PTjFEcWFBSDJwaDNhTFBadw?oc=5",
       "description": "Health Alert For Mama Cozzi’s Pizza Made With Cheese Recalled For Salmonella Food Poisoning Bulletin",
       "pubDate": "Fri, 01 May 2026 04:22:33 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Ontario restaurant reopens after 86 people fall ill with Salmonella",
-      "link": "https://www.foodsafetynews.com/2026/05/ontario-restaurant-reopens-after-86-people-fall-ill-with-salmonella/",
-      "description": "Public health officials say cross contamination in a restaurant was responsible for a Salmonella outbreak that sickened a possible 86 people. The Piper Arms restaurant in Stone Creek, Ontario, Canada, has finally reopened after being closed since April 13. There are 29 confirmed patients, 57 patients who are awaiting conformation,",
-      "pubDate": "Fri, 01 May 2026 04:03:32 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "UK salad sampling reveals low contamination rate",
-      "link": "https://www.foodsafetynews.com/2026/05/uk-salad-sampling-reveals-low-contamination-rate/",
-      "description": "STEC was culture-confirmed in three samples and Salmonella was found once",
-      "pubDate": "Fri, 01 May 2026 04:02:14 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -135,7 +135,7 @@
       "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Seafood",
+      "source": "UK HPP Industry",
       "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
       "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
@@ -156,13 +156,6 @@
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Seafood",
-      "title": "Greenhead Lobster continuing to refine its premium lobster products - SeafoodSource",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXZMXzNQYVBNSGZZXzRBWGF4UnBjVjdSeVoyVE9xN2VYMUwzNGZoTTFYVUJ1S1FCVUNiTkt3WWhSX01wd3ZrMXNxbFlYMGs4aVBjeV9iMVBiX1JDQm1YU2hNbTZHemRnWGoxdzF4ZG1MWWZUN0k3aVhKVEtIWU1ZZUlrazRhY2h1VjN6ZVR0YjJXeXZPVjVuNngwUnRVemVOUUJud1dnR01wTHR0emxKc29QQjlWZw?oc=5",
-      "description": "Greenhead Lobster continuing to refine its premium lobster products SeafoodSource",
-      "pubDate": "Thu, 19 Mar 2026 17:56:16 GMT"
-    },
-    {
       "source": "EU HPP & Food Tech",
       "title": "Food Technology Market | Global Market Analysis Report - 2036 - Future Market Insights",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCWlc1cTVRcVM0WEYwakxYZVdPeEZmdk5kVzNDRzRkV2ZZTmZZTFNhNDlubTRtSDdrSXZqVTdVTHRQcjNJQzhJYjZ6V042MDh0RTRVa2c3eGQ4Znc0MHNYUzVvczZKYWsyenB6RVAyNVBrT1dwbUE?oc=5",
@@ -174,13 +167,6 @@
       "title": "Salmonella Outbreak Linked to Moringa Leaf Powder - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
       "description": "Salmonella Outbreak Linked to Moringa Leaf Powder Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
-      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
       "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
     },
     {
@@ -247,6 +233,13 @@
       "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT"
     },
     {
+      "source": "HPP Soups & Meals",
+      "title": "Bowen Yang says watching SNL after his exit is 'totally bizarre' but 'ultimately fun' - The Express Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVWF3ZU53Rk12bWZfWXBWU21lTXFYTFlDT2tmMk5hT2tYS3oxSUJ4WGFEWURHcUxmbUhpRHNQX2ZoWUpXV29PX0k5MmoyN2R5ZnJvcm1UX2VwZ2syN1U5RVhSYVpMeEtQcTB6cEE2VFNMa0t5Q3lZZHJoUmpfVjduS3VsRE1tSmZaSG8wcXROMldURF90R3BXWGdGRG5sS3h1ZEJ1LVdpdW1RbXJlc3h6UmdjRG92NHpCaVHSAcIBQVVfeXFMUHQ5OWFuZV9IUlRzY244WTduTHFUOVRTSG5GNlNldHdtc0hUeGR1cjZWYmdBUEwxckJ4U1paQ2xwWTdwc2YxQzZIWU13WDdzaFlDemR5V0d1S3FGUl9EbVNSZGhpWUxuXzdRX3pYaFBsSFE3V242WUNDYXV2cGhLVHBrcmFBTC1yX1V0TUlRQXUxbDlTUW5KUVNnT0Y2ZWtoak8tdnBtMDRYbkcxb2hvWUxEZy1DOWpzYVhXMm1CellXTFE?oc=5",
+      "description": "Bowen Yang says watching SNL after his exit is 'totally bizarre' but 'ultimately fun' The Express Tribune",
+      "pubDate": "Sat, 07 Feb 2026 08:00:00 GMT"
+    },
+    {
       "source": "UK Food Industry",
       "title": "£3m fund unveiled to target diet and health innovation - British Baker",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
@@ -273,6 +266,13 @@
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSVo1em95Tjc1b3d4Tm9HNE1vaWVrMlZZQ2FBMGUzbDM4bUNGaVJDc3luTWVWTi1GWERhcTV1cGxIRmthZU5kcWZoRnF1WVY5bkl0TS1JcGhBSVJsT2NaSW5nVHVTUXkwRUpaY29tUGdJUDFzc1ZRSDlzRHdSWElxa21nNENpeWJRZWxMRU56ZzVWbG51SFFUZGt4czBUMTZYOFI3Q0JLRDd5SDZjX0FrY21sYzFra0N1bFFsQ1BjQXJJLTgzZHdqWl9TRWJxMnFxM3RJT0xLTlJiX040eUxoU0taSUQ0UVNxX0dHU3pzdTNNQU9VQ2czaWN2bFRzVXFTMTBHLXBGNF8?oc=5",
       "description": "Quintus Technologies and Lyric Robot Form Strategic Collaboration to Accelerate Industrialization of Solid-State Battery Production PRWeb",
       "pubDate": "Tue, 23 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Soups & Meals",
+      "title": "6 Rules for Canning You Should Never, Ever Break - Better Homes & Gardens",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFZNbW0wQ05lcHdEZEpxSlBHYWZtN3k3Z3hOZjRhZ2ZfX0owR0tpenhMY3RCQVdON2xtYS0xUWlJaERUa1Z6cmtQbFo2UVN6NEVReEZQUk1EQmppTWFBX1dTQzBqaS0yb1BaSndrVnZBY3dUTUxWUG02dW1jdnA3QWRudGRKSVpwdG9GTmNtUFplMWZGRGp2d2VCYlFfU00?oc=5",
+      "description": "6 Rules for Canning You Should Never, Ever Break Better Homes & Gardens",
+      "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT"
     },
     {
       "source": "Quintus Technologies",
@@ -345,11 +345,11 @@
       "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "What to know about the listeria outbreak tied to precooked pasta - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlJnazBSd2FuVGlNeWxHVjBqWWhSWmdTT25PMHFYeDVRMHBOczBZOFp2Z0hVTW9IYmNNdXRNbjkwUDZHZGpQS0JtdTdmUnVmeGZicGY2ZVF5QjRoNWRCODh6QURRdGQ4S1VzQXlRbUliNUFDTHRuUkNCS0N6RGx4SUMzNTlYWFFZTDVRSWtTcGV4RGFaY3Y1U3B5Y3VRLUk3QkhNWlFJU3VEV1QwZmRkY1Zoc2c?oc=5",
-      "description": "What to know about the listeria outbreak tied to precooked pasta NBC News",
-      "pubDate": "Wed, 08 Oct 2025 07:00:00 GMT"
+      "source": "HPP Soups & Meals",
+      "title": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong - HuffPost UK",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmNOYlI3cE1Ubk5BaXRtWWpnQkFsLVhvN19LTFRmYnBHLXVPSU51ZmFacnltV25ZWmk5dEt1ZkhzX2NvUlBfY0p6ZGtOVmpHblNWZzBLYVp0YTVWS0lvWXB3V1FxSnZEaV92OVJDbUh5RnRSVmFaQ1hYTU5QelBOYWV5VE5nRWR1S0JFQ19xX2Nta09XdkU0R0pBZlFxWUVFWjhKdE0tOA?oc=5",
+      "description": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong HuffPost UK",
+      "pubDate": "Fri, 10 Oct 2025 07:00:00 GMT"
     }
   ]
 }
