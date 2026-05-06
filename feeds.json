@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-06T02:53:59.054181+00:00",
+  "updated": "2026-05-06T06:29:18.464614+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Australia puts focus on reducing Campylobacter infections",
+      "link": "https://www.foodsafetynews.com/2026/05/australia-puts-focus-on-reducing-campylobacter-infections/",
+      "description": "Australia is to create an action plan to tackle the top cause of bacterial foodborne illness in the country. Food Standards Australia New Zealand (FSANZ) is inviting stakeholders to register their interest in the development of a five-year Australian National Campylobacter Action Plan.",
+      "pubDate": "Wed, 06 May 2026 04:01:37 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Halva recalled in Canada because of Salmonella contamination",
@@ -37,13 +44,6 @@
       "pubDate": "Tue, 05 May 2026 04:01:45 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "Urgent recall issued for five products sold at Aldi - Daily Express",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOTM2QmVkdDFCN05rX1o1dnFWZDdqOTZSNUlFUE1XT0xFVkFkbktTUDRMcUhHRHFpc3MycUxaQmFNblhWLWF4VE5rZjBuWVZTbms5cTZ1blZqUUk3TG1VWEZmZkU1bUlmWnptZ3dYWU44a2ZHRXVLeFhzdndia1NzS0FmZ3pac1lmZEQtN9IBkgFBVV95cUxNaldDbG5odWZQRkxQM0k1dWdhVWZFYlJwZmhYOUdfaDNNZVgxWXkzWHlPWl9ONk9hLUM4SkYwMDllUFMxRXlLdWdSclVGWlhNRGNqVEI4RUIyMnFBT1E1UXZ4ZkQ2Y0R0S0FhbEMtMXdsT3VKMmRPRGxXQ2xwTGdkTThMd2RnOExiVHAyMmVZdGFfZw?oc=5",
-      "description": "Urgent recall issued for five products sold at Aldi Daily Express",
-      "pubDate": "Tue, 05 May 2026 00:23:00 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
       "title": "Salmonella Alert Expanded by FSIS—Check Your Freezer for These Products - Good Housekeeping",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdlBhT3VkSldZRXhBOXZheUpxeXI2SzluQzdRNkJFclZoYndZUEI1c1JHRzg3b29Vc1dDdDhlUFlZZlNHczZfTGNUU2tibTlxanBCaWZHMDdUZ3JqU0lURzJ5WEhfelUxLUg1ZktldnlsRXlCdVdiYVZ0eTlrZ1BFNlY1OTRrZl85Y0taMVhPN1ZVTjg?oc=5",
@@ -63,13 +63,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNi12UEhNdDZMbDVmTUtnRGEwS2FBMnN4LXpFQng3dExXbmFrQ1c2cjRraFpKZTdxVnJtOEk4RC11dFZ1RmVEeVRoUzQ0X3BhQjhRTVEydUh4dVdTTm5KYmJ3Tlg1azlnal9PUGZGQmhicnBkVzNqNm9lY01NMVVqZTN4YUo2UmF5dnFnVE9FUWN5UW5mTHFEMTdYTTg2TVdZandtUnBXaGdDZEhDTV9PYkVTTWtqUi1ubnlj?oc=5",
       "description": "Frozen pizzas sold at Walmart recalled. See the impacted flavors USA Today",
       "pubDate": "Mon, 04 May 2026 13:34:00 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Publisher’s Platform: Playing 'Romaine Roulette'",
-      "link": "https://www.foodsafetynews.com/2026/05/publishers-platform-playing-romaine-roulette/",
-      "description": "Between 2015 and 2021, E. coli O157-contaminated romaine was implicated in seven outbreaks in the United States, resulting in 4,274 laboratory-confirmed illnesses, 766 hospitalizations, and 11 deaths.",
-      "pubDate": "Mon, 04 May 2026 04:05:54 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -93,11 +86,18 @@
       "pubDate": "Fri, 01 May 2026 04:22:33 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "Food Recalls Are Good, Actually - Mother Jones",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1UHJSaGhRNENZMDF4Yk9DdmlNbHpNTFRpclJrd3hxejZfcHlRRlFoUjYxRkFBYXc4VGk3Y1QzNEVrTloyMmZfbkQ2SUJHTzh3cVl0VmZmRkZ0VUtSN0NPR2FlNU5pSXJKUHU2cUgxWHpOdV9feENQcTRCcjc?oc=5",
+      "description": "Food Recalls Are Good, Actually Mother Jones",
+      "pubDate": "Thu, 30 Apr 2026 12:01:31 GMT"
+    },
+    {
       "source": "Food Safety UK & EU",
-      "title": "The latest product recalls and safety alerts from Which? - which.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnZEdm8tLUMxdlpRajZ4bGZ1eE5nRElJdGtTVDB5R0hMcWxoV2NIV1BvSkNsY3BUaGl6TzV2cXZSdEZWV0JOenZseW5icmxadFBZcERkOGpMb3BjaGJrN241Q1VCeWw1TldCMjBscEtfTzkwM2tsTTJyQlI0VkFaVWRseVZObmoycnRFaXJkQlY?oc=5",
-      "description": "The latest product recalls and safety alerts from Which? which.co.uk",
-      "pubDate": "Thu, 30 Apr 2026 07:00:00 GMT"
+      "title": "Salmonella outbreak spreads across Europe - Food Safety News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOGVBRGpKWGhNb2NyTV9xWktzUmZ0NS1rblRDNFcxWWdOWDlpRjc1WHgtLVlpTW8xN3plSjgtdDRUZTBoU2ZLbWM1a2V1V3FwWV9xRFRyRWt0SDJncUFGcDNCSkZHQVpMLUdsS2o4UkVWc0tfUjdETDFlcFRkYjRUZGd0MkF4U2d0?oc=5",
+      "description": "Salmonella outbreak spreads across Europe Food Safety News",
+      "pubDate": "Tue, 28 Apr 2026 05:25:13 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -121,11 +121,11 @@
       "pubDate": "Wed, 22 Apr 2026 07:28:00 GMT"
     },
     {
-      "source": "HPP Soups & Meals",
-      "title": "Soup Market Outlook: Convenience Food Demand and Growth Opportunities - vocal.media",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRWdEOVpWZm03VUs1cHlDQ0hJMmtsMzlWMVBQOUdvS0tzM2xxa0M1RkE1Z0MtRHkxNkNBRWt1MDkwa0FkUGs0Q1NGZVVtSllnQzV1SnFnck9UZHppaXZiUjlCS1FzMVhqWU9CRC0weUFWeHR0RGluLXFEeHBnS09lNHo3cGxFUHFsRld6MGtLX0g2MGExNy1pZ24yZ0FJdw?oc=5",
-      "description": "Soup Market Outlook: Convenience Food Demand and Growth Opportunities vocal.media",
-      "pubDate": "Fri, 17 Apr 2026 05:30:11 GMT"
+      "source": "Food Safety UK & EU",
+      "title": "Urgent warning as salad item recalled over potential salmonella contamination - Chronicle Live",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRnU0MkszekJlRUxieGRRX1lxVF91dlZHclUteGhwLUZYRWpUNG5JZkpwTVZaRF94OUpjbm9uYU9nLVNXMFFBZS1GeF8tbDFmUzFpXzJoVnZueHRvRHJMNFNqMVgzeXFvNEYtM285dHdFNUZrWWNva2VQV1M0cXR2UEFvQVVGWEFQcnk3d0JsckU2ZjdPa1VoSHM1NVlMa0hjbHfSAacBQVVfeXFMT3drQmR5cFh4ZWF2SVlyTGN6Y1lIQVJiNzRxUGhHWEF4WkJXZG5PaHBQSFNUX01PR1doRFJQSzVkaHNXMVZ3TjBmMjZPV1h3NlFQcUZWa1pWSmRlakRaZzJjT3AzUnlERzVRQ0ROR0pkZGxxTjVZUTBNRm9GYW1GWGdGc3ZsYUUxYmdST0pSLW45VzlPaEcwQ0ExWS16RWlPdzgtMEliWFU?oc=5",
+      "description": "Urgent warning as salad item recalled over potential salmonella contamination Chronicle Live",
+      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -174,13 +174,6 @@
       "title": "Salmonella Outbreak Linked to Moringa Leaf Powder - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
       "description": "Salmonella Outbreak Linked to Moringa Leaf Powder Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
-      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
       "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
     },
     {
@@ -241,10 +234,24 @@
     },
     {
       "source": "UK Food Industry",
+      "title": "Registration opens for Food, Drink & Hospitality Week 2026, with Food and Drink Innovation at its core - Restaurant Industry Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVgzMVpmRU1IeVlNZlFVdnNEZlFKVGoxT3VXZHBPY2xyNjZ4Q1AwT1ZtUXZFT3M4Q3RRblU5cHE4RHc4T0RwZHBnd2Q1Yzc1Z2wzNl9iSWFZOGREVS1HaG1oVndrZ29YTERPV1dMcDlNdGhtRW9QR3RZRUZVXzY5ODB1NmlseUtSUFJjcHNjeTJ6aXNnZnE1NTE2LUdDZUVLbzEtOVV2YlNLR3JIUXBubFZicklFVV9GVndEb3AtNDVqR0gzcXRSWnBGYmJQZUtFbFV0T0dQbXVYTUU?oc=5",
+      "description": "Registration opens for Food, Drink & Hospitality Week 2026, with Food and Drink Innovation at its core Restaurant Industry Magazine",
+      "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
       "title": "£3m fund unveiled to target diet and health innovation - British Baker",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
       "description": "£3m fund unveiled to target diet and health innovation British Baker",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Meet the food innovation centres leading the way in sustainable, tech-driven development - FoodBev Media",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVUY204LVk3LUY2MXN6QXVRcnJKb0hKbFBRbHNpeXAxSlhzN3c1WW90NGY1UzNCU1cwUDNmbFd6LTRTZWpYZ0lpTTdJRnRQT3ptQ3hneVdYSnRWNjdYRGNsTkV0S21Jb1M5Sk83T21aeE1VVWNSZWkzUEI4b0lKTWR1VTN1ZjAyYVl3eXFRX014ZzlJUnRRM2J3MEJaYVJHTzNWZzNoTVlNbVdsS2lydDBVX213Q0E?oc=5",
+      "description": "Meet the food innovation centres leading the way in sustainable, tech-driven development FoodBev Media",
+      "pubDate": "Fri, 23 Jan 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Soups & Meals",
@@ -272,13 +279,6 @@
       "title": "Universal Pure expands HPP capacity with Hiperbaric 525i system - The National Provisioner",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUXNZSnV2bWdCeVlVakpnNFN2bzlwQklaaUEyaEJoSzNiUG9xZlhsak1ZOWNhb05reEpGa3lCQ3ZvR01Ya3c3R1NiVFk1ZWFQRm9ST3NmNko1NHhwTnc2NXZiZ3FrTDJwWDlBY3BDVkpUM3lxSFpiVkticUFJY2d3MUJ1MzdrVVFnZHU1NHd3cGk0UWlRelk4Q0pPUjdXZ0steDFMb19xTFBmeW5Ua1JzZEFOZw?oc=5",
       "description": "Universal Pure expands HPP capacity with Hiperbaric 525i system The National Provisioner",
-      "pubDate": "Wed, 26 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Ingredients under pressure: What HFSS means for NPD - Food Manufacture",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVZrV3oyajAyMGNRaXBYbVBhYWU0NXVqU2JQME5YWWxCUzlTN3dzZHV6ZVVWU1ZibEc3WUdiMzlXTWFaNms2Y0VDODhiT3hrRmdsdi1BYW1hcVBNNTVscFRKd1Zwc3hEOURCeTJjNUJmZzZlZURKc3JnOFd3dlBvbl9fUUlMdlM1Smg2TkFsZkZVWEJjVVRCVjFJRTVMUHNhWTNiU2VwX25WYUlxdi15YU0wbGM?oc=5",
-      "description": "Ingredients under pressure: What HFSS means for NPD Food Manufacture",
       "pubDate": "Wed, 26 Nov 2025 08:00:00 GMT"
     },
     {
@@ -332,13 +332,6 @@
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "Nationwide listeria outbreak tied to pasta recall results in 27 illnesses, 1 Oregon death - OregonLive.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRk4xT0RaNXpzTUEtNk15Tk43d0hqay04TkhuTUVKN2l2elNsR1dicWRfeG9HcnFKSUtCejdMMnJUY3ZvXzlpcTVjRnpzQlkxRXRKeFdFSTRYU2w1VGVBMHIxc091WTVROUhxSEc5dXpHbE1zOGp3MlY2Q2VxZTk0aVJ0Z2VOSzNpWWRSMGt6dXhUR3hhX01pb2drYmg4Y3RBWnFXWTBtV0oxbG0xRXFTZHVQYmhFeExrMHZlLWtIUXBVMmRBUHhxbnNVZmRXclQ30gHkAUFVX3lxTE0xdk0yUzlGc1lSQWlyZURkMkJKNmtRNExzV0lfYzRHQVA5QlNCUTZpQXlXNDRpNFc1cUhzOU52Rm15QkdaTDNRZUh0a25qaVlTTFZ1VlRtTm1lVkROYnBQOGVsMHB0U1QwbjJlN0pZSzNqVVJvZDZRblVhUnl3OHpWeGk0QWlXbUJyMTk3YllPbndFSG9FRTJkSWs3cXFjSDBING0zbEdWOGFyUlVlNjc4bDlXcWgxeXpvNk1BMERlRHZOQmNsd1FuTWpkMkJlZ2dudW91QmJGVXBER0NERDhwOEY4Uw?oc=5",
-      "description": "Nationwide listeria outbreak tied to pasta recall results in 27 illnesses, 1 Oregon death OregonLive.com",
-      "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
       "title": "More illnesses, deaths reported in listeria outbreak tied to recalled pasta salads, meals sold nationwide - CNN",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83bXZkTUFiX3E1cmxOVEVPNlgxemRkTzQ1Q0o3OEhnVldwcUJMVjlLamNiY3NJd2VmckZVczFnTDYzUUQ4anFudHdCUllkNU5HYXNuN2UxSUVBa0pqTnFrbVE2dmgwWXYzdkF3V3hWeTlzcWJsa3gwdjBn?oc=5",
       "description": "More illnesses, deaths reported in listeria outbreak tied to recalled pasta salads, meals sold nationwide CNN",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNDlqSEdueVZFbHIxU1ZUUjM5WGh5OGxBT1dvUkdPQmRPa3VsY25ISEpPSjV0WGticnh1Zk1yVjViNURINHYzS1o4WGZucE9naVJ0c1JLdGZvRi1nY0doVTFURFZTeWlYOG8ydWpFR0xyMkxmbTNMVGxnWEwtYnAwTGV4WlZWWE50WkVuQVdLWnVYQmwyMDJlR1I5TFAtb0ZOZkI5Y1pFOE15TVB2QWpQWWh4X0g4bVJPb0JPLQ?oc=5",
       "description": "New HPP tolling facility in North Carolina to feature Hiperbaric system Pet Food Processing",
       "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Soups & Meals",
+      "title": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong - HuffPost UK",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmNOYlI3cE1Ubk5BaXRtWWpnQkFsLVhvN19LTFRmYnBHLXVPSU51ZmFacnltV25ZWmk5dEt1ZkhzX2NvUlBfY0p6ZGtOVmpHblNWZzBLYVp0YTVWS0lvWXB3V1FxSnZEaV92OVJDbUh5RnRSVmFaQ1hYTU5QelBOYWV5VE5nRWR1S0JFQ19xX2Nta09XdkU0R0pBZlFxWUVFWjhKdE0tOA?oc=5",
+      "description": "People Are Realising Why Microwave Meals Have Such A Long Shelf Life, And I Had It All Wrong HuffPost UK",
+      "pubDate": "Fri, 10 Oct 2025 07:00:00 GMT"
     }
   ]
 }
