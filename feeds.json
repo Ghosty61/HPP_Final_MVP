@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T05:57:20.496643+00:00",
+  "updated": "2026-05-08T07:49:16.503966+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -28,13 +28,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLWNBLXl4M1JzR0xzY2JtdjVFdnhPa2FpamFybWJXbS1NVUhPdW5lRmVkR1hiczdzM0tnRl8tXy05eFBsaG1SS1hzXzdrbkpOOU1VbGJtYUIwYkozZl9ocW9nYmxIVkVYTTBseEp6Mm9kaGhRM1VILW41NE5sTnJZcVFqZ3BTRUhuS0pNdGRXamxaQ2J4M3c?oc=5",
       "description": "FDA Warns Multiple Potato Chip Varieties Recalled Nationwide Over Salmonella Concerns Prevention",
       "pubDate": "Thu, 07 May 2026 16:02:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Pork King Sour Cream & Onion Rinds Recalled For Salmonella - Food Poisoning Bulletin",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcmFVUTZ4SDl3WUQxRmFvUm5TRU53eVQ1RmZmbUxfbGpVUm5vekt3WmZjaWhKSTNicmkyY18wazczTmJsYkFDNUd1MkFoUFRVek80YmZoT0txbVdKc21oUFpjMHZSSnNfeVlEZGVsVEFzdWR5QzRDUWRMQkVQTzQxVlUzTmtnWktTNG1sLTVkS2k2STN6LTM4VGhiUGI?oc=5",
-      "description": "Pork King Sour Cream & Onion Rinds Recalled For Salmonella Food Poisoning Bulletin",
-      "pubDate": "Thu, 07 May 2026 05:20:47 GMT"
     },
     {
       "source": "Food Safety News",
@@ -149,6 +142,13 @@
       "pubDate": "Mon, 20 Apr 2026 06:38:27 GMT"
     },
     {
+      "source": "HPP Soups & Meals",
+      "title": "Soup Market Outlook: Convenience Food Demand and Growth Opportunities - vocal.media",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRWdEOVpWZm03VUs1cHlDQ0hJMmtsMzlWMVBQOUdvS0tzM2xxa0M1RkE1Z0MtRHkxNkNBRWt1MDkwa0FkUGs0Q1NGZVVtSllnQzV1SnFnck9UZHppaXZiUjlCS1FzMVhqWU9CRC0weUFWeHR0RGluLXFEeHBnS09lNHo3cGxFUHFsRld6MGtLX0g2MGExNy1pZ24yZ0FJdw?oc=5",
+      "description": "Soup Market Outlook: Convenience Food Demand and Growth Opportunities vocal.media",
+      "pubDate": "Fri, 17 Apr 2026 05:30:11 GMT"
+    },
+    {
       "source": "HPP Seafood",
       "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
@@ -248,10 +248,10 @@
     },
     {
       "source": "UK Food Industry",
-      "title": "Meet the food innovation centres leading the way in sustainable, tech-driven development - FoodBev Media",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVUY204LVk3LUY2MXN6QXVRcnJKb0hKbFBRbHNpeXAxSlhzN3c1WW90NGY1UzNCU1cwUDNmbFd6LTRTZWpYZ0lpTTdJRnRQT3ptQ3hneVdYSnRWNjdYRGNsTkV0S21Jb1M5Sk83T21aeE1VVWNSZWkzUEI4b0lKTWR1VTN1ZjAyYVl3eXFRX014ZzlJUnRRM2J3MEJaYVJHTzNWZzNoTVlNbVdsS2lydDBVX213Q0E?oc=5",
-      "description": "Meet the food innovation centres leading the way in sustainable, tech-driven development FoodBev Media",
-      "pubDate": "Fri, 23 Jan 2026 08:00:00 GMT"
+      "title": "£3m fund unveiled to target diet and health innovation - British Baker",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
+      "description": "£3m fund unveiled to target diet and health innovation British Baker",
+      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Soups & Meals",
@@ -259,6 +259,13 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3M29MLW96aDdhaV81RWJmYlhTTHYxWER6SlcybnI2S2RjZHhjSjJXNjR6TGxIUUdqcXBnMzFxQkFOa1JiaVlxR1N1b1dMbzQ1RHlieGs0dUpjaGxIMXJj?oc=5",
       "description": "Incidental food nanoparticles from freshwater clam soup stabilize Pickering emulsions Nature",
       "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Soups & Meals",
+      "title": "6 Rules for Canning You Should Never, Ever Break - Better Homes & Gardens",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFZNbW0wQ05lcHdEZEpxSlBHYWZtN3k3Z3hOZjRhZ2ZfX0owR0tpenhMY3RCQVdON2xtYS0xUWlJaERUa1Z6cmtQbFo2UVN6NEVReEZQUk1EQmppTWFBX1dTQzBqaS0yb1BaSndrVnZBY3dUTUxWUG02dW1jdnA3QWRudGRKSVpwdG9GTmNtUFplMWZGRGp2d2VCYlFfU00?oc=5",
+      "description": "6 Rules for Canning You Should Never, Ever Break Better Homes & Gardens",
+      "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT"
     },
     {
       "source": "Quintus Technologies",
@@ -331,25 +338,18 @@
       "pubDate": "Mon, 03 Nov 2025 08:00:00 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (October 2025) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZzY5clRJaDVESUM4WmQ1TUtHbFB6RmFLVkdjMDNFTGtlSHUyWDdwQXZsVk5nQ2RMb3l0cVVDa09IOGV0bDZ3RTVJMUM5MmY0MmNWUmdwdDZSZzVMLUFlUUFVNUJ5UUMzTV9GWTZ4N21sNW1YUDllOUE2SWlwOXZxU3JYc1J5bGNIaTI3SEdoLV9ZWTRaNmgtUTJxSGxVOU4yWmhINkR2ZVlsNHhrU2hWTmhZTnZ3WE9TVFI0?oc=5",
+      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (October 2025) fda.gov",
+      "pubDate": "Fri, 31 Oct 2025 23:39:36 GMT"
+    },
+    {
       "source": "Listeria Outbreaks",
       "title": "More illnesses, deaths reported in listeria outbreak tied to recalled pasta salads, meals sold nationwide - CNN",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83bXZkTUFiX3E1cmxOVEVPNlgxemRkTzQ1Q0o3OEhnVldwcUJMVjlLamNiY3NJd2VmckZVczFnTDYzUUQ4anFudHdCUllkNU5HYXNuN2UxSUVBa0pqTnFrbVE2dmgwWXYzdkF3V3hWeTlzcWJsa3gwdjBn?oc=5",
       "description": "More illnesses, deaths reported in listeria outbreak tied to recalled pasta salads, meals sold nationwide CNN",
       "pubDate": "Thu, 30 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "High-tech eyes and ears to boost speed and safety for first responder teams - projects.research-and-innovation.ec.europa.eu",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVEc3YUFqLWZKMUwzbkJYWTNYSzJKNU4wUTl3b2NyYjNrZjNsMm5CU2JCQU15dWMybXhYMlFIUEpFTDRLUVJHaEZKcXUwNTdhLVFiSndPaGFLaXcwRnItZ1QwQ0tpZW5IZnRUY1pBM01kQVFvaE83MWZsWnAyaVFadV84a0JXeml2ejFIYXRMYnZqUm1TZk44YjF2SlF2cUhRVUpiYzdQSUN2MlBVSU5GcndzUzBCUWw5V2dHendkRm5LWXpralFvUGN3ZE1IZHczREZEaWMxQmRKOXVCVHpocDhmUDM2T2lzeXc?oc=5",
-      "description": "High-tech eyes and ears to boost speed and safety for first responder teams projects.research-and-innovation.ec.europa.eu",
-      "pubDate": "Thu, 23 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric",
-      "title": "New HPP tolling facility in North Carolina to feature Hiperbaric system - Pet Food Processing",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNDlqSEdueVZFbHIxU1ZUUjM5WGh5OGxBT1dvUkdPQmRPa3VsY25ISEpPSjV0WGticnh1Zk1yVjViNURINHYzS1o4WGZucE9naVJ0c1JLdGZvRi1nY0doVTFURFZTeWlYOG8ydWpFR0xyMkxmbTNMVGxnWEwtYnAwTGV4WlZWWE50WkVuQVdLWnVYQmwyMDJlR1I5TFAtb0ZOZkI5Y1pFOE15TVB2QWpQWWh4X0g4bVJPb0JPLQ?oc=5",
-      "description": "New HPP tolling facility in North Carolina to feature Hiperbaric system Pet Food Processing",
-      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
     }
   ]
 }
