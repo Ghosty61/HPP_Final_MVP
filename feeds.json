@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-11T14:53:50.843078+00:00",
+  "updated": "2026-05-11T17:54:36.816290+00:00",
   "articles": [
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Public health alert issued for deli item sold in Illinois, Indiana due to listeria; 3 sickened - NBC 5 Chicago",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQajhWSHFIeFQ5UWMxQXctal82Y3ZLV0l4SWFEMkdtRWtkbF9XdE4tMTBsaUpjXzQ3S01pNFBQZWVZd2NpeDhlbGhqakl2MGx4YnFjVW9tSDlfTm9RR0tQdXFpVXpSbkU3bGZaQ3FGR0QtbEFEdm5Id2w2TXgzSWpvT1IwV19Zb182aFMtcXVpZ3fSAZgBQVVfeXFMTk9HSUQ0S0VPalJKZEI1cGQ3LVR5S3QwVDVsWE9vb0lmd3A1cUlOVXp5ZzBJSHdLUHl5U0EzMG1rM3JISERaX21YVFhZN2hDNjM0V0tjX3QtUmx6YjI5SzNxZmhoVkVkOVppOWZibnNUZTBMMm9OR1J2NkljMjJKZHFRV29aR3dTSG1aVWoyODNlMURkYllVRy0?oc=5",
+      "description": "Public health alert issued for deli item sold in Illinois, Indiana due to listeria; 3 sickened NBC 5 Chicago",
+      "pubDate": "Mon, 11 May 2026 17:15:34 GMT"
+    },
     {
       "source": "Salmonella Outbreaks",
       "title": "Albright’s Chicken Recipe For Dogs Recalled For Salmonella - Food Poisoning Bulletin",
@@ -14,13 +21,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUzhDdXRhQlp5QkVUNHRFeUdUQkE0Mkpmb1BYZjdjTHJ0emZUdEp3MTNwTm1LaFVzRDB6eE14S3FKdXRPMVlDaVhPbndNckZJMGFCUVMwNFc4Nmo5RnpTd1cyWGMyWk5uQkZ3TDVydlA4bDdIS1M4bURkdDdmcjZWQUxab1k2bnMtSVBXdXV1SUE0R2RyVmV4TDNMTUxuMGQ4UzQ2aA?oc=5",
       "description": "Alert For Daisy Headcheese For Listeria Contamination, Outbreak Food Poisoning Bulletin",
       "pubDate": "Mon, 11 May 2026 12:00:03 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "A single financing of 300 million yuan: Cooking robots are highly favored by capital. Can they create a \"new flavor\" in the silver economy? - 36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oWGZIZXhkcldfTWs0SDRqSXY1U2FOeEZCUk03RUhUamdwN01GU20wVWxMbjA5dlZXVEtma2FaclpTMWt0cUpRclllV19mei0xMXg4?oc=5",
-      "description": "A single financing of 300 million yuan: Cooking robots are highly favored by capital. Can they create a \"new flavor\" in the silver economy? 36Kr",
-      "pubDate": "Mon, 11 May 2026 05:00:43 GMT"
     },
     {
       "source": "Food Safety News",
@@ -93,18 +93,18 @@
       "pubDate": "Thu, 07 May 2026 14:25:00 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "Baby Formula Recall and Listeria Outbreak Add to Financial Strain on New Yorkers - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbkJ1US02WkgxV2JmZUl2UmVIb3hzSmg3aGpCLXlIMnRrSk9FZURNUWRRQUdyb01zeUJmTlZqby1md1d3dHppakVuZk1Nb1BYRGs4WDA4WVRxZmNQV3RoNlptRG1RRlIyUnZxdng5TW4tTGZvclhnbE1Db2FfX3lPeXZoTlRuTHJMRmlJOHh1amQzam9xTmp2UF9YaHhxWGZiZHF0Tl9mcGtUNDk2NFJV?oc=5",
-      "description": "Baby Formula Recall and Listeria Outbreak Add to Financial Strain on New Yorkers IndexBox",
-      "pubDate": "Thu, 07 May 2026 03:41:00 GMT"
-    },
-    {
       "source": "HPP Equipment & Machines",
       "title": "High Pressure Processing Hpp Equipment Market Analysis - openPR.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLVJJRVhvZndaZlJTU1JreDlfOWd4WlRwVVNkNVozRzQ0Z05WTlNoVm5tUUFxbkFuSVFIM0F5emxZdkd5eHNTVlphdTRMX0NKQkNxa2Z1eHVyMFZOeXBYV0NIcDlCMnFna3F3YmhyNWt2ajZkanZfdTRlUHdnRzd4R2FnWU12b0FYUExKZXVaT083RG9Y?oc=5",
       "description": "High Pressure Processing Hpp Equipment Market Analysis openPR.com",
       "pubDate": "Wed, 06 May 2026 13:33:03 GMT"
+    },
+    {
+      "source": "HPP Healthcare & Medical",
+      "title": "N90 N95 Grade Medical Protective Masks Market Analysis - openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTVVXZDRXS3Ixd1NEOG1vLXJfM1A3bTF6V0dRTl9nUjhkSE4zTVZsalNpb2ROUlV0RFdGaVh5ZjdYYm9TbTNqWVByR3Z2RkJnZHBXTG9zWldBMjdwc2hwbzdfVG9lRUxGRmY1dmVyR19DczRwenZlbnU5V2JjUGNUWmxxV3R3UjJ6SERqR2FYQk5oNjdM?oc=5",
+      "description": "N90 N95 Grade Medical Protective Masks Market Analysis openPR.com",
+      "pubDate": "Wed, 06 May 2026 13:27:25 GMT"
     },
     {
       "source": "Food Safety UK & EU",
