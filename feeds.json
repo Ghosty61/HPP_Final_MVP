@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-11T22:54:44.898255+00:00",
+  "updated": "2026-05-12T03:22:52.024014+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Recall of chocolate bars expanded after source of Salmonella identified",
+      "link": "https://www.foodsafetynews.com/2026/05/recall-of-chocolate-bars-expanded-after-source-of-salmonella-identified/",
+      "description": "Spring & Mulberry is expanding its previously announced recall of select chocolate bars because of contamination with Salmonella. The expansion follows a comprehensive root cause investigation conducted by the company&#x2019;s manufacturing partners in coordination with food safety experts and the Food and Drug Administration. The investigation has now",
+      "pubDate": "Tue, 12 May 2026 00:34:48 GMT"
+    },
     {
       "source": "Listeria Outbreaks",
       "title": "Public health alert issued for deli item sold in Illinois due to listeria; 3 sickened - NBC 5 Chicago",
@@ -51,18 +58,11 @@
       "pubDate": "Sat, 09 May 2026 01:14:02 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Cheese curds recalled because of Salmonella risk",
-      "link": "https://www.foodsafetynews.com/2026/05/cheese-curds-recalled-because-of-salmonella-risk/",
-      "description": "Stoltzfus Family Dairy of Vernon Center, NY, is recalling Sour Cream & Onion cheese curds because they have the potential to be contaminated with Salmonella. To date, Stoltzfus Family Dairy has not received any reports of illness or injury related to these products. This recall was initiated following a recall",
-      "pubDate": "Sat, 09 May 2026 00:55:43 GMT"
-    },
-    {
       "source": "HPP Innovation & Research",
-      "title": "From science to market: OSU Ag Research advances understanding of dark-cutting beef - Oklahoma Farm Report",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaUlKV3NWQlpyOE5ma1NKY2g2ajB3eURvYXNWVzhkNUVGNTAtdXNCaFpUY1hoaDRuT3hfTEhpTVd1M2tla0VoU19KNTUyZUROR1FhbzIxU3YwcU9sVkd1REtYS29aNkJyaWtkbkhaczJfNE1pblZqUWVicFpOeDI4YmZjdGRHMTkxS1YtLWc4U3JmZzU2bWZkX2stUUs0Wnprb3Q2dGNwNVd6VS01cTMyMWRzYzVQN3RpZnYxZ1JDWG9RZU5zSEgtUQ?oc=5",
-      "description": "From science to market: OSU Ag Research advances understanding of dark-cutting beef Oklahoma Farm Report",
-      "pubDate": "Fri, 08 May 2026 19:49:15 GMT"
+      "title": "From science to market: OSU Ag Research advances understanding of dark-cutting beef - news.okstate.edu",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOU9aRGVVRE9vRUdqRjJQYWYzQzNMclk1M2xVUDh1amZMaS0tZHp3dm9JNXNhaE51QVRCbzd2YVRVd19JQjZWS1RfcDh2MlBOUzgtVVM1UEw2VmVQSUwxR1otUkFUYnRhTnpwcV84THN4VjdFMUwyZzB5b29RRXV1Zm9YZU9pUldrWUcwVW84MDd2YW1OM25RbFJQSFVWNWVsSVNEWkdITTRsamV5aDd1dGNTT3lyMV80ZTEycndGXzBacGRRYk93cnZCWUlBZw?oc=5",
+      "description": "From science to market: OSU Ag Research advances understanding of dark-cutting beef news.okstate.edu",
+      "pubDate": "Fri, 08 May 2026 18:09:55 GMT"
     },
     {
       "source": "UK HPP Industry",
@@ -108,13 +108,6 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Urgent recall issued for five products sold at Aldi - Daily Express",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOTM2QmVkdDFCN05rX1o1dnFWZDdqOTZSNUlFUE1XT0xFVkFkbktTUDRMcUhHRHFpc3MycUxaQmFNblhWLWF4VE5rZjBuWVZTbms5cTZ1blZqUUk3TG1VWEZmZkU1bUlmWnptZ3dYWU44a2ZHRXVLeFhzdndia1NzS0FmZ3pac1lmZEQtN9IBkgFBVV95cUxNaldDbG5odWZQRkxQM0k1dWdhVWZFYlJwZmhYOUdfaDNNZVgxWXkzWHlPWl9ONk9hLUM4SkYwMDllUFMxRXlLdWdSclVGWlhNRGNqVEI4RUIyMnFBT1E1UXZ4ZkQ2Y0R0S0FhbEMtMXdsT3VKMmRPRGxXQ2xwTGdkTThMd2RnOExiVHAyMmVZdGFfZw?oc=5",
-      "description": "Urgent recall issued for five products sold at Aldi Daily Express",
-      "pubDate": "Tue, 05 May 2026 00:23:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
       "title": "Salmonella Alert Expanded by FSIS—Check Your Freezer for These Products - Good Housekeeping",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdlBhT3VkSldZRXhBOXZheUpxeXI2SzluQzdRNkJFclZoYndZUEI1c1JHRzg3b29Vc1dDdDhlUFlZZlNHczZfTGNUU2tibTlxanBCaWZHMDdUZ3JqU0lURzJ5WEhfelUxLUg1ZktldnlsRXlCdVdiYVZ0eTlrZ1BFNlY1OTRrZl85Y0taMVhPN1ZVTjg?oc=5",
       "description": "Salmonella Alert Expanded by FSIS—Check Your Freezer for These Products Good Housekeeping",
@@ -126,13 +119,6 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYmpjWWdZekp3ZkRsai1xMDQzNGlfcHhWSC1kLTdZcWRWRko5WmVpOTJ2bEd3MGUxRFVCc20xMURLcnM5MlBWZktqdU56cFZLSU9JTXVkVWpPNEtTanRHcHZZTUFaNFc5cTMyRDg0ZU1YSnZjaVJiZ0FBOGtNa3c5Uk1BN2JjeFBSNy1wLWtYMTU2Y2lmaFhTZnFnUUpfckE?oc=5",
       "description": "Frozen pizzas sold at Aldi and Walmart under recall for possible salmonella risk The Independent",
       "pubDate": "Mon, 04 May 2026 14:53:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Europe Food Irradiation Equipment - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVFTaGx1eGFKak80Zld4YVdlRlc2a1g4N0dTNU5NWEJYcnVkRVZyQVNIM2t2Q3V4WUJsWU1mbDY1eTlSbXh1WXBkVzJLaE5XUEtNa2NfT2N1M1lFWVBrSWVQVm9CRExxdGNvcFVXNURIYWtKeHR1ZnlEM2FHVGFEekh3azhrOUlvU2RSVXEzRTJnQVdzRkZPNXIxeVJIeUs1ZkNHYlZMTG1SdXJjNktQcDd5VVQ?oc=5",
-      "description": "Europe Food Irradiation Equipment - Market Analysis, Forecast, Size, Trends and Insights IndexBox",
-      "pubDate": "Mon, 04 May 2026 10:42:54 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -154,6 +140,13 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRFZ4d01NSXRMa0h5cVBjMEdTSG16X1Q0M3hyUzVBV3l5UDB5RlFmX3Mtdkw2ZXFHS3U4QTY1b196b1V2bVppSzJ1LWJJTUZEWGlUMGwtOWF4VmhHb2FMZ0dMeDRfQ3dvdVMtaTFvMVpRa3NWQm42eWEyVUhHSXdYY3lkLTRpbFFFbEYweERHSWU1VkFWeHZ0U21takhIQldYRDMwQVdRc3VQZjlYTERVcDdLSWRsUQ?oc=5",
       "description": "Good4U recalls Super Sprouts Super Greens over Salmonella risk New Food",
       "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "40 Sick, One Dead in German Salmonella Outbreak Involving Chocolate-Hazelnut Spread - Food Safety Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdE5iNU55UWhFNjhrdE5KY180dTlGOHJSLVVSVHRFMGZiV21KenhJVW8ySTNQeTFPYVNDc0EyalFNUWltS21ORzI3bGdNbHRGTUFtcDZrZDZjX015WmlVOGoxTXRiWmtaQTNtY1dQQWJXNzVBMWpDZFdQNkV5MWF4Q2Q4UVp2b3VPb2RHMnBEZzM4cnZMdDlGRHRVSlRwdWhJSzRUbkMxRTNzQTd4Q0NYakZWQ3NCeGl5R0RBbV9KR0RhbGc?oc=5",
+      "description": "40 Sick, One Dead in German Salmonella Outbreak Involving Chocolate-Hazelnut Spread Food Safety Magazine",
+      "pubDate": "Mon, 20 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -209,13 +202,6 @@
       "title": "Salmonella Outbreak Linked to Moringa Leaf Powder - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
       "description": "Salmonella Outbreak Linked to Moringa Leaf Powder Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
-      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
       "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
     },
     {
@@ -350,6 +336,20 @@
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdFZlWGhqdzd2Qk81Q1kyN2tXc2M1VGVMdDBrM19kNkt6S3pZbWkwLVR6WUFYcUVLVTRtdEVsR2M2TzQzN3FXOVpGOUxlejdTd2VqdUhyekZuSnVCU0xXY0NSZklEcFphM3hwSS1PY1duUkJBeFo4dzUzWHRqX2YzVzB4a2tTRmZwS05SRk5jdlduVWlPUTRzVXN0em9INjhHX3hTaUs4dVo4RjRJMlhfM2RTaHJncHNUZUpTV3FNV1QzMWxGVkdfQmcxcjI1UWl3UW42djBsa3dUNklQdE83TmxkbnNQcnQwbUstTTh2SnRPb1hBZ3ZqTV9LNURDMFV1eklubElBVzhQM0lqM1Zv?oc=5",
       "description": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership PR Newswire",
       "pubDate": "Mon, 03 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "Quintus Technologies",
+      "title": "Second Hot Isostatic Press to go live at Wallwork in time for Formnext - Aerospace Manufacturing magazine",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS2hObS14cmN1VFc4WEx3SkN6enFzOXFycVNZeDVEUTg1MTRiejd5T1lYcWdkOE9rcEhUc2tVUDRQMUc3cjVSUTRqUmN2bnVjZVpRdFc3d0p1SWZITXlxWTFqNEVfMG1ubzlVeDFCRXV0UHVwS0VBbFRNMTI3UXMwWUQwWFZ3OFBsXzhHQVA3dWRld0R2dHI5R081UQ?oc=5",
+      "description": "Second Hot Isostatic Press to go live at Wallwork in time for Formnext Aerospace Manufacturing magazine",
+      "pubDate": "Mon, 03 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (October 2025) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZzY5clRJaDVESUM4WmQ1TUtHbFB6RmFLVkdjMDNFTGtlSHUyWDdwQXZsVk5nQ2RMb3l0cVVDa09IOGV0bDZ3RTVJMUM5MmY0MmNWUmdwdDZSZzVMLUFlUUFVNUJ5UUMzTV9GWTZ4N21sNW1YUDllOUE2SWlwOXZxU3JYc1J5bGNIaTI3SEdoLV9ZWTRaNmgtUTJxSGxVOU4yWmhINkR2ZVlsNHhrU2hWTmhZTnZ3WE9TVFI0?oc=5",
+      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (October 2025) fda.gov",
+      "pubDate": "Fri, 31 Oct 2025 23:39:36 GMT"
     }
   ]
 }
