@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T10:54:29.078123+00:00",
+  "updated": "2026-05-13T12:50:13.553006+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -24,17 +24,10 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Lidl Ireland recalls chicken over salmonella concerns - BBC",
+      "title": "Salmonella: Lidl Ireland recalls chicken products over bacteria concerns - BBC",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QeHNyYUxYNldZbzUyemkxTV9GTjRidEp0S05ncjdkRWw3TGVTeElKZy01N0JiZWNQa1VpMVpPVXRzMmtrdEsyamkxak1JaktRakpGaVRHZExBX3dU?oc=5",
-      "description": "Lidl Ireland recalls chicken over salmonella concerns BBC",
+      "description": "Salmonella: Lidl Ireland recalls chicken products over bacteria concerns BBC",
       "pubDate": "Tue, 12 May 2026 14:45:47 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Check Your Chocolate: There’s a Recall Happening Now - Prevention",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSkdwbjdMUjlnaFRsMmVsbEY4Y0FzMU16SC04SUpMTXZqRzZld0MwUzRSSGRia05qT21KOHNXWjdoTzN5VndWTGM2bEdCemtrOEJvaGVielVfd3ZoYjRIUlljY3BQbEw1bFlNRGNnNE93YmNSNWx5U2pJYThUMm1xX0xmNWFRZW1NaVg3VXprVQ?oc=5",
-      "description": "Check Your Chocolate: There’s a Recall Happening Now Prevention",
-      "pubDate": "Tue, 12 May 2026 14:43:20 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -94,6 +87,13 @@
     },
     {
       "source": "Salmonella Outbreaks",
+      "title": "Dozens of popular snacks recalled due to salmonella contamination. See the growing list - NBC 5 Chicago",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMjJvMXkta2JEVDZOMXJnTkFrT1lycHlKa0JhNVlrYjZTQ184aGhYWGpCVXZkMmpYT1pjNG05R0ZGXzhJdGplLVNnSHhoVFFadkNiTk0tMVd4MFBmTkNPbW8xZk1TSWdNX1hQc0ZZZWhmdF96dXA5Sld5YWZnYUJmN2hvYVNoLU90U21UTXkwX2ozYVNCbkHSAZ4BQVVfeXFMTTh6dEhTMUV1OXJSQzJSdUllTWxzOHFCeXVvR21LMlIzLW0tWXlrN1EzNklwMzhoUHF6a01OSjFXV2s3MDZsRVo5OVNGNmN3b3YyRVUtcnZfMVZuYW54b0FRa21BbzhkRGpHaVhGM0g5X3NTSThnU0lURUlTcFloSlZaUjNoSEY4UzVnbl9ySEM5RFU5LTdmSTFjckRDaHc?oc=5",
+      "description": "Dozens of popular snacks recalled due to salmonella contamination. See the growing list NBC 5 Chicago",
+      "pubDate": "Mon, 11 May 2026 16:55:45 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
       "title": "Check your freezer and pantry: Texas food recalls expanded in April - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRk1OdWlzdEF5dUJtallzaXl6VUpHV1NNYWJtZTZMZllZQWU3TG8zQVBLOW5Oc1JFRC1wRkJSNWJ1YVl2Si1CYXFNUC1mYldQeXV2ZmFoYkx6dzF1TnN4UlY5TUhyQ2dlSmpHZGJGSVFvN2hhQ3BfU1BLSDYxUXlBaDF0Sm1waDJvSHR0Z1FnN0t5emo5V1g5eVZLelA2UEZza2NqM1NGU2VQaUVtSXl1bHd1SGctZ0l5d2NRM1dwME43Zw?oc=5",
       "description": "Check your freezer and pantry: Texas food recalls expanded in April Houston Chronicle",
@@ -147,6 +147,13 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLVJJRVhvZndaZlJTU1JreDlfOWd4WlRwVVNkNVozRzQ0Z05WTlNoVm5tUUFxbkFuSVFIM0F5emxZdkd5eHNTVlphdTRMX0NKQkNxa2Z1eHVyMFZOeXBYV0NIcDlCMnFna3F3YmhyNWt2ajZkanZfdTRlUHdnRzd4R2FnWU12b0FYUExKZXVaT083RG9Y?oc=5",
       "description": "High Pressure Processing Hpp Equipment Market Analysis openPR.com",
       "pubDate": "Wed, 06 May 2026 13:33:03 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
+      "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
+      "pubDate": "Fri, 01 May 2026 07:05:09 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -233,6 +240,13 @@
       "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "Salmonella Outbreak Linked to Moringa Leaf Powder - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
+      "description": "Salmonella Outbreak Linked to Moringa Leaf Powder Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Seafood",
       "title": "Oyster Processor comes to Dock+ - NanaimoNewsNOW",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OS1NNQWRKNUJqUW81ak16UmhZb3N6QzZtRlZiVk1FNlhTblN3VFpzdGNDaFBtTkI2X2U4TFEwZm1PVGFWN0ZXekl0azBZaEUzYjBBcG5xZWFyMGw4TC1GNlBaT2ZfRkNyT1huSjBqUWUyd0tlZ0NzcA?oc=5",
@@ -252,13 +266,6 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUVPWXN3Sk4tNHFLMUtXZmFIUDJ2WFcyRjhuSVo2c2pxVHlCOWc2c1U1NThubHJNNXdkZlJzbFNEbmNYU2RhX3FrZ3lzRDJCVGRlMGdrdjJCX05lb3V6NEY3emtNWmJKV3Jhemgza25iZzFlWFh4NG1udC1xWjY5V2VfTko1ZEFJM3JoeUp5YzBOLUJpVkVPMGF2SVRVbHlmaUZ4Q050ZUxIaWRaQWVYR213?oc=5",
       "description": "Duckweed Protein Benefits: Is This Aquatic Plant a Sustainable Superfood? News-Medical",
       "pubDate": "Wed, 25 Feb 2026 03:39:54 GMT"
-    },
-    {
-      "source": "Hiperbaric",
-      "title": "Oklahoma Strengthens Food Processing Infrastructure with $7 Million Investment at Oklahoma State University, Installs Hiperbaric 55 HPP System - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQYkRtYUJONXp5Z3JyNUxiUFpLNlBWSHdHSmNZR1ViQU4tcGFQOTZlSUNiYnhXZTdRdXJtejUzYWZ1aVJhMXU4bEF1YjNDeF9hMDRlRVBUcl9TTS02VmFIVU1zUnJ6NnkwNVUzTEhUa2Nkek40bEpCOWd4SVExZGVlaDM1NjN1aGZtejlsTjRNaUFib0otajJQQWc2Uk5PNTd2RFBuaTRQWWJUZmdEcmVzUGtFdHlzUXBJcDlWOEZVa3NmSVVJV2dlZXNWUURwOHhuQUJGaEVPd3lWcHpadV95WXY3cHdoYTVLOXRGUUxoeHZqbkJzNy12amFoWVE3MGl0R3VPYmNfRFNzbnByYnQxMzI4QXFXQ19PdDBvQ2Rva19wd1pHNkRuLQ?oc=5",
-      "description": "Oklahoma Strengthens Food Processing Infrastructure with $7 Million Investment at Oklahoma State University, Installs Hiperbaric 55 HPP System Morningstar",
-      "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Equipment & Machines",
@@ -290,10 +297,10 @@
     },
     {
       "source": "UK Food Industry",
-      "title": "Registration opens for Food, Drink & Hospitality Week 2026, with Food and Drink Innovation at its core - Restaurant Industry Magazine",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVgzMVpmRU1IeVlNZlFVdnNEZlFKVGoxT3VXZHBPY2xyNjZ4Q1AwT1ZtUXZFT3M4Q3RRblU5cHE4RHc4T0RwZHBnd2Q1Yzc1Z2wzNl9iSWFZOGREVS1HaG1oVndrZ29YTERPV1dMcDlNdGhtRW9QR3RZRUZVXzY5ODB1NmlseUtSUFJjcHNjeTJ6aXNnZnE1NTE2LUdDZUVLbzEtOVV2YlNLR3JIUXBubFZicklFVV9GVndEb3AtNDVqR0gzcXRSWnBGYmJQZUtFbFV0T0dQbXVYTUU?oc=5",
-      "description": "Registration opens for Food, Drink & Hospitality Week 2026, with Food and Drink Innovation at its core Restaurant Industry Magazine",
-      "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT"
+      "title": "Foodex Manufacturing Solutions appoints new commercial director - Sustainable Packaging News",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FZDBLNFZ6Nm1YZHlsVE1EZmpXa1J2VHg1U05sSGs1NWF5U3l2b3BUWk1XaUdWUVA1ZVJKOWNLRDIzM2V5LWFoM1dYNFBhOTh5bHN5S2dJX1JaTWh1Z0d30gFqQVVfeXFMTlZIMEFZdUVGNVhDWXZGcXk0MFdlWTRub2FkYnQzdjMwTkw2X1Z6ZzBpQ2NvTEM1ZHBVYVd5RzBaV3lxZ283dFdXZlp3MG9FM0hiUUlPblRlcDdFdWdQMnlUdUMyOFYzV25CQQ?oc=5",
+      "description": "Foodex Manufacturing Solutions appoints new commercial director Sustainable Packaging News",
+      "pubDate": "Mon, 26 Jan 2026 08:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -343,13 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzJuTUJEMjVscTBHVnRDWjdnR2hTM0dDWTk5ZkkwV2lXdzJwR0N0dmZaeHJ0OEhjNnRBbGNSUElDcHM1T3Y3emNBeGJrZDltMXJ3S0VydloyUXM1WWVxNzhKU1NSZGFEeUtKZ3ZtY2hLR3BSV2thNFNDMG13Tll2eTZSOEZ2aHZSMm51Q3doSGJtcHlpWlUwcm5OYU1sZjNkLXBhdzZoWDYzeFJDRzRvdWs2YjNGZnkzaXM5OE1DMDg0VUg3?oc=5",
       "description": "High-Pressure Processing reverses the dark color or dark-cutting beef to bright red MEAT+POULTRY",
       "pubDate": "Fri, 21 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric EU",
-      "title": "Hiperbaric brings advanced Hot Isostatic Pressing to Formnext, unlocking full potential of metal additive manufacturing - tctmagazine.com",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ3c4eWhyU0NKN0ZNTy1mXzJ3Y1Bqa2tqNGdqNXlLT0R5R3BoNVdnX1FwbWNxYzV3TGxTNHZJdWJhTElrQkgxTklNX0JyWDREN25ONVVranlsTjlCRXIzREZUQ1E0VDFaUnVhcWszbzBxVlJDc09DRHhGemd1dFNkZl9PWTlqOFJ4ZTZZNXpvOHM2RjNUNXBUMG0zVS1CNjFMb2NscWtRcFVFUGJZQUZLT0lfS2xVRFBWSkhBNHpWYW4xMnZPZmppWHM0TDY0RnVZa1ZRVl9wMmxTVnV1Sk0ybQ?oc=5",
-      "description": "Hiperbaric brings advanced Hot Isostatic Pressing to Formnext, unlocking full potential of metal additive manufacturing tctmagazine.com",
-      "pubDate": "Wed, 12 Nov 2025 08:00:00 GMT"
     }
   ]
 }
