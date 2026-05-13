@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T07:09:15.451775+00:00",
+  "updated": "2026-05-13T09:07:08.636702+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -24,9 +24,9 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Salmonella: Lidl Ireland recalls chicken products over bacteria concerns - BBC",
+      "title": "Lidl Ireland recalls chicken over salmonella concerns - BBC",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QeHNyYUxYNldZbzUyemkxTV9GTjRidEp0S05ncjdkRWw3TGVTeElKZy01N0JiZWNQa1VpMVpPVXRzMmtrdEsyamkxak1JaktRakpGaVRHZExBX3dU?oc=5",
-      "description": "Salmonella: Lidl Ireland recalls chicken products over bacteria concerns BBC",
+      "description": "Lidl Ireland recalls chicken over salmonella concerns BBC",
       "pubDate": "Tue, 12 May 2026 14:45:47 GMT"
     },
     {
@@ -63,6 +63,13 @@
       "link": "https://www.foodsafetynews.com/2026/05/recall-of-chocolate-bars-expanded-after-source-of-salmonella-identified/",
       "description": "Spring & Mulberry is expanding its previously announced recall of select chocolate bars because of contamination with Salmonella. The expansion follows a comprehensive root cause investigation conducted by the company&#x2019;s manufacturing partners in coordination with food safety experts and the Food and Drug Administration. The investigation has now",
       "pubDate": "Tue, 12 May 2026 00:34:48 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "Chocolate company recalls entire product line over salmonella contamination fears - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQTc3SWNsR29SWU4tS0NQSDRxU1B4WVExRTk3eUt3MnhSVTNqWHZ2S3JWLTJ5aGFSUm5XTG5JV19mU3VPS1pBSl9fWDgtNlRuTG9rR3R4cElLeG5GbjFNX05wem5MVkpmazI5VXo2Wm1sX3ItRG5QMUp4Vkl5OWVib0ozalc1cWt0eElpVi1YUVlLSlpmOHo2VzkyUQ?oc=5",
+      "description": "Chocolate company recalls entire product line over salmonella contamination fears The Independent",
+      "pubDate": "Mon, 11 May 2026 21:53:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -140,20 +147,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLVJJRVhvZndaZlJTU1JreDlfOWd4WlRwVVNkNVozRzQ0Z05WTlNoVm5tUUFxbkFuSVFIM0F5emxZdkd5eHNTVlphdTRMX0NKQkNxa2Z1eHVyMFZOeXBYV0NIcDlCMnFna3F3YmhyNWt2ajZkanZfdTRlUHdnRzd4R2FnWU12b0FYUExKZXVaT083RG9Y?oc=5",
       "description": "High Pressure Processing Hpp Equipment Market Analysis openPR.com",
       "pubDate": "Wed, 06 May 2026 13:33:03 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "Frozen pizzas sold at Aldi and Walmart under recall for possible salmonella risk - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYmpjWWdZekp3ZkRsai1xMDQzNGlfcHhWSC1kLTdZcWRWRko5WmVpOTJ2bEd3MGUxRFVCc20xMURLcnM5MlBWZktqdU56cFZLSU9JTXVkVWpPNEtTanRHcHZZTUFaNFc5cTMyRDg0ZU1YSnZjaVJiZ0FBOGtNa3c5Uk1BN2JjeFBSNy1wLWtYMTU2Y2lmaFhTZnFnUUpfckE?oc=5",
-      "description": "Frozen pizzas sold at Aldi and Walmart under recall for possible salmonella risk The Independent",
-      "pubDate": "Mon, 04 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
-      "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
-      "pubDate": "Fri, 01 May 2026 07:05:09 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -297,10 +290,10 @@
     },
     {
       "source": "UK Food Industry",
-      "title": "Foodex Manufacturing Solutions appoints new commercial director - Sustainable Packaging News",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FZDBLNFZ6Nm1YZHlsVE1EZmpXa1J2VHg1U05sSGs1NWF5U3l2b3BUWk1XaUdWUVA1ZVJKOWNLRDIzM2V5LWFoM1dYNFBhOTh5bHN5S2dJX1JaTWh1Z0d30gFqQVVfeXFMTlZIMEFZdUVGNVhDWXZGcXk0MFdlWTRub2FkYnQzdjMwTkw2X1Z6ZzBpQ2NvTEM1ZHBVYVd5RzBaV3lxZ283dFdXZlp3MG9FM0hiUUlPblRlcDdFdWdQMnlUdUMyOFYzV25CQQ?oc=5",
-      "description": "Foodex Manufacturing Solutions appoints new commercial director Sustainable Packaging News",
-      "pubDate": "Mon, 26 Jan 2026 08:00:00 GMT"
+      "title": "Registration opens for Food, Drink & Hospitality Week 2026, with Food and Drink Innovation at its core - Restaurant Industry Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVgzMVpmRU1IeVlNZlFVdnNEZlFKVGoxT3VXZHBPY2xyNjZ4Q1AwT1ZtUXZFT3M4Q3RRblU5cHE4RHc4T0RwZHBnd2Q1Yzc1Z2wzNl9iSWFZOGREVS1HaG1oVndrZ29YTERPV1dMcDlNdGhtRW9QR3RZRUZVXzY5ODB1NmlseUtSUFJjcHNjeTJ6aXNnZnE1NTE2LUdDZUVLbzEtOVV2YlNLR3JIUXBubFZicklFVV9GVndEb3AtNDVqR0gzcXRSWnBGYmJQZUtFbFV0T0dQbXVYTUU?oc=5",
+      "description": "Registration opens for Food, Drink & Hospitality Week 2026, with Food and Drink Innovation at its core Restaurant Industry Magazine",
+      "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -324,13 +317,6 @@
       "pubDate": "Tue, 23 Dec 2025 08:00:00 GMT"
     },
     {
-      "source": "HPP Soups & Meals",
-      "title": "6 Rules for Canning You Should Never, Ever Break - Better Homes & Gardens",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFZNbW0wQ05lcHdEZEpxSlBHYWZtN3k3Z3hOZjRhZ2ZfX0owR0tpenhMY3RCQVdON2xtYS0xUWlJaERUa1Z6cmtQbFo2UVN6NEVReEZQUk1EQmppTWFBX1dTQzBqaS0yb1BaSndrVnZBY3dUTUxWUG02dW1jdnA3QWRudGRKSVpwdG9GTmNtUFplMWZGRGp2d2VCYlFfU00?oc=5",
-      "description": "6 Rules for Canning You Should Never, Ever Break Better Homes & Gardens",
-      "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT"
-    },
-    {
       "source": "Quintus Technologies",
       "title": "Quintus unveils pilot-scale warm isostatic presses for all-solid-state battery production - Charged EVs",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWYtdVQwYl80R1Ytem9hTzNxNl9sMHFaVVlXa1h3aG9CakY5SnZEZ3NibThISEI0WmNYYXg5TG1wYzd6c0Z0MWlLbUk4UGxqQndKQW8yNlNrcGlNcGEzNnM3eEpLTW8tdy1HUnVSV1dIaTB4MDlDSEtUOWJiSkoxdnozZHJnM3BVS0huUEZ6WjNKZUczLWtUQW1xVW1KR1JPalE5RElBeWpDcFdTNXliM0REZXNxUFV0QjItWW5yYw?oc=5",
@@ -350,6 +336,20 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNW14WS12LXVKNkdJc3dsTzNScDdjb1Nscks3Y1lHRlJKa2FFTHBOUUNQbnJpd1VOR2U5dk9FOHVZb3NDcDZna3FyWlRfOUZMRkZKVW4yZXdJOElKLXdyZEdGWi1lYlRXNzVxNzJpRC1hblU0V0duZXJ2SEdLYUY3TThaUnZmNklBSm10VWFfQU1OT1lkNzhtNTk5aXZQNmlNZFFqNzJQbXAxVWxoblNPLXdic1pBLTBnc3FzNUxwa2lTSGdfekc5eEIzWGtuWVF1TW9FLUVhYVZwNlo3VVVDdURn?oc=5",
       "description": "Universal Pure Expands HPP Capacity with New Hiperbaric 525i System at Pennsylvania Facility PR Newswire",
       "pubDate": "Tue, 25 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Meat & Deli",
+      "title": "High-Pressure Processing reverses the dark color or dark-cutting beef to bright red - MEAT+POULTRY",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzJuTUJEMjVscTBHVnRDWjdnR2hTM0dDWTk5ZkkwV2lXdzJwR0N0dmZaeHJ0OEhjNnRBbGNSUElDcHM1T3Y3emNBeGJrZDltMXJ3S0VydloyUXM1WWVxNzhKU1NSZGFEeUtKZ3ZtY2hLR3BSV2thNFNDMG13Tll2eTZSOEZ2aHZSMm51Q3doSGJtcHlpWlUwcm5OYU1sZjNkLXBhdzZoWDYzeFJDRzRvdWs2YjNGZnkzaXM5OE1DMDg0VUg3?oc=5",
+      "description": "High-Pressure Processing reverses the dark color or dark-cutting beef to bright red MEAT+POULTRY",
+      "pubDate": "Fri, 21 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric EU",
+      "title": "Hiperbaric brings advanced Hot Isostatic Pressing to Formnext, unlocking full potential of metal additive manufacturing - tctmagazine.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ3c4eWhyU0NKN0ZNTy1mXzJ3Y1Bqa2tqNGdqNXlLT0R5R3BoNVdnX1FwbWNxYzV3TGxTNHZJdWJhTElrQkgxTklNX0JyWDREN25ONVVranlsTjlCRXIzREZUQ1E0VDFaUnVhcWszbzBxVlJDc09DRHhGemd1dFNkZl9PWTlqOFJ4ZTZZNXpvOHM2RjNUNXBUMG0zVS1CNjFMb2NscWtRcFVFUGJZQUZLT0lfS2xVRFBWSkhBNHpWYW4xMnZPZmppWHM0TDY0RnVZa1ZRVl9wMmxTVnV1Sk0ybQ?oc=5",
+      "description": "Hiperbaric brings advanced Hot Isostatic Pressing to Formnext, unlocking full potential of metal additive manufacturing tctmagazine.com",
+      "pubDate": "Wed, 12 Nov 2025 08:00:00 GMT"
     }
   ]
 }
