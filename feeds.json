@@ -1,6 +1,20 @@
 {
-  "updated": "2026-05-15T03:13:14.243686+00:00",
+  "updated": "2026-05-15T05:22:49.732675+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "School meal linked to Danish Salmonella outbreak",
+      "link": "https://www.foodsafetynews.com/2026/05/school-meal-linked-to-danish-salmonella-outbreak/",
+      "description": "Patients are mostly children aged 4 to 12",
+      "pubDate": "Fri, 15 May 2026 04:05:31 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Allergen risks dominate Australian recalls",
+      "link": "https://www.foodsafetynews.com/2026/05/allergen-risks-dominate-australian-recalls/",
+      "description": "Food Standards Australia New Zealand (FSANZ) published more than 90 food recalls in 2025, according to a recent report. FSANZ coordinated 92 recalls in 2025 compared to 95 alerts in 2024. Undeclared allergens were responsible for 35 recalls. Microbial contamination prompted 23 recalls and 22 were because of foreign objects.",
+      "pubDate": "Fri, 15 May 2026 04:03:12 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Test results show headcheese is contaminated with outbreak strain of Listeria",
@@ -35,20 +49,6 @@
       "link": "https://www.foodsafetynews.com/2026/05/cruise-ship-hantavirus-outbreak-highlights-persistent-food-safety-risks-from-rodents/",
       "description": "A deadly hantavirus outbreak aboard the MV Hondius in the South Atlantic is drawing renewed attention to rodent contamination as a serious food safety risk. As of May 12, the outbreak aboard the vessel had been linked to 11 illnesses, including nine laboratory-confirmed hantavirus infections, with three deaths reported, according",
       "pubDate": "Thu, 14 May 2026 04:04:01 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Study highlights major Listeria outbreaks in Italy",
-      "link": "https://www.foodsafetynews.com/2026/05/study-highlights-major-listeria-outbreaks-in-italy/",
-      "description": "Four Listeria outbreaks in Italy sickened more than 200 people and caused 12 deaths, according to information from a new study. These listeriosis outbreaks were investigated during 2022 and 2023. Three were linked to meat products and one was traced to vegetables. Implicated items were chicken and turkey frankfurters, mortadella,",
-      "pubDate": "Thu, 14 May 2026 04:03:00 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Singapore sees decline in major outbreaks",
-      "link": "https://www.foodsafetynews.com/2026/05/singapore-sees-decline-in-major-outbreaks/",
-      "description": "The number of major outbreaks and recalls appear to have fallen in Singapore in 2025 compared to the year before. Figures come from Singapore Food Statistics 2025, an annual publication from the Singapore Food Agency (SFA) that provides an overview of the country&#x2019;s food supply and food safety",
-      "pubDate": "Thu, 14 May 2026 04:01:03 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -170,11 +170,11 @@
       "pubDate": "Wed, 06 May 2026 13:33:03 GMT"
     },
     {
-      "source": "Quintus Technologies",
-      "title": "Quintus Flexform™ Press Enables Sona SPEED to Deliver Flight-Critical Aerospace Components Faster - PRWeb",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeDBsMXhWM0lkb1ZfVXgwUEhGMUFVWmpGeTVYb2NOS2FsZ1Eteno0TnNwLTdJQXBzVERaWkRnUEQ0Yi1WekxfdGpXaUE0bXNKNGRUX21OSmxfeDdmb2tCSVAyaHNCNnVrazIwSGNieC1aTm43TExhS3I0NXVNN2otYUgxQ1hmUWxNOWZrVWhSaEdibDBuR1daNnJERXBkUVVKQURfdVA5QUp6OWY5V0plWkVXNXlfVFFOV3NhTE5JWUxRSUN4aFF4czFxcFFoRnBnT3FIRGxra3Z2dw?oc=5",
-      "description": "Quintus Flexform™ Press Enables Sona SPEED to Deliver Flight-Critical Aerospace Components Faster PRWeb",
-      "pubDate": "Wed, 22 Apr 2026 07:28:00 GMT"
+      "source": "UK Food Industry",
+      "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
+      "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
+      "pubDate": "Fri, 01 May 2026 07:05:09 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -245,13 +245,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONDZSQk5wVzJjdnRnM0ZKN2dSeUw2Y2x2RVBreFh6STVjLUdIdnlQMkY1S3R0d3p2NXZxRzh4ck9kdEVFVjlURlF4Ym9HNm9LREpOQmZPX2t6TFI0VVgxRzlZbng0enJHWnRuN3dXaEVxSkM5Z0ZEUWxuOGpnbWtIZ3RXdWNWWkJHaUwwajktanJjZzdCeEZ6cmVyVTlzYVY4S3JnMTRZbEtDRGF4QlE?oc=5",
       "description": "High Pressure Homogenizers Market Fueled by Nanotechnology in Cosmetics Through 2035 - News and Statistics IndexBox",
       "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Top 10 Food Technology Trends Reshaping the USD Trillion Industry in 2026 - StartUs Insights",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xSHNGeEkyQmNFT2VDbU1Edldsam9vcDR1VUlNYmg5NGs3a2s0NTBaYmRiMzlpX2VmRktIdHBSdFNCTGVhbWFjMGkyeGEwVWxiYng0VTNhQU5aaDMyQWgtMUN6TUQwVzBRcWJFajI2dUg3X2FTcllTNUNKdlphZw?oc=5",
-      "description": "Top 10 Food Technology Trends Reshaping the USD Trillion Industry in 2026 StartUs Insights",
-      "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Dairy",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzJuTUJEMjVscTBHVnRDWjdnR2hTM0dDWTk5ZkkwV2lXdzJwR0N0dmZaeHJ0OEhjNnRBbGNSUElDcHM1T3Y3emNBeGJrZDltMXJ3S0VydloyUXM1WWVxNzhKU1NSZGFEeUtKZ3ZtY2hLR3BSV2thNFNDMG13Tll2eTZSOEZ2aHZSMm51Q3doSGJtcHlpWlUwcm5OYU1sZjNkLXBhdzZoWDYzeFJDRzRvdWs2YjNGZnkzaXM5OE1DMDg0VUg3?oc=5",
       "description": "High-Pressure Processing reverses the dark color or dark-cutting beef to bright red MEAT+POULTRY",
       "pubDate": "Fri, 21 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric",
+      "title": "Hiperbaric brings advanced Hot Isostatic Pressing to Formnext, unlocking full potential of metal additive manufacturing - tctmagazine.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ3c4eWhyU0NKN0ZNTy1mXzJ3Y1Bqa2tqNGdqNXlLT0R5R3BoNVdnX1FwbWNxYzV3TGxTNHZJdWJhTElrQkgxTklNX0JyWDREN25ONVVranlsTjlCRXIzREZUQ1E0VDFaUnVhcWszbzBxVlJDc09DRHhGemd1dFNkZl9PWTlqOFJ4ZTZZNXpvOHM2RjNUNXBUMG0zVS1CNjFMb2NscWtRcFVFUGJZQUZLT0lfS2xVRFBWSkhBNHpWYW4xMnZPZmppWHM0TDY0RnVZa1ZRVl9wMmxTVnV1Sk0ybQ?oc=5",
+      "description": "Hiperbaric brings advanced Hot Isostatic Pressing to Formnext, unlocking full potential of metal additive manufacturing tctmagazine.com",
+      "pubDate": "Wed, 12 Nov 2025 08:00:00 GMT"
     }
   ]
 }
