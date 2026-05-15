@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-15T00:49:30.471973+00:00",
+  "updated": "2026-05-15T03:13:14.243686+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Test results show headcheese is contaminated with outbreak strain of Listeria",
+      "link": "https://www.foodsafetynews.com/2026/05/test-results-show-headcheese-is-contaminated-with-outbreak-strain-of-listeria/",
+      "description": "So far the outbreak is localized in Illinois",
+      "pubDate": "Fri, 15 May 2026 00:55:19 GMT"
+    },
     {
       "source": "HPP Healthcare & Medical",
       "title": "World Seam Chemical Indicator - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
@@ -49,13 +56,6 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY2t6MHBYWHhtVmhlbUphNERtMUVHTVUtMktVbjdXbVZWTEtXVmtxNTdzNFk1TTA1UERXajItWXlYTFlkWjNCYzItN3ZtUzRUVlM4eFBrZmk4VC1rS1VNV3dkeV9KeS1BckVwQThvNFRQMmJ0aGY4T0p3bmNTd3hCOXJ4ZHE2UdIBiwFBVV95cUxOUW5BQU5DVGV4OEZrTGhJX1pKdEpOenQyX3FKR2VOMVpZRTVPbi14Tk1fb2VNVGFlY3pTeEp2TDN2QnBmZ2QwaDFFZnd2STFtNlRHbUlpalFpN0QxMUo0Y1A4dkdMWG9yb2drTjhmYlh3OWI2RFZfVlF1YVI5bDVHYTU2VEI4WjdVWjNV?oc=5",
       "description": "Salmonella alerts issued for 13 chicken products sold in Irish supermarkets Belfast Live",
       "pubDate": "Wed, 13 May 2026 08:42:00 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Dubai and Philippines invest in food testing labs",
-      "link": "https://www.foodsafetynews.com/2026/05/dubai-and-philippines-invest-in-food-testing-labs/",
-      "description": "Foodborne viruses and nitrates are in focus",
-      "pubDate": "Wed, 13 May 2026 04:01:05 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -170,17 +170,17 @@
       "pubDate": "Wed, 06 May 2026 13:33:03 GMT"
     },
     {
+      "source": "Quintus Technologies",
+      "title": "Quintus Flexform™ Press Enables Sona SPEED to Deliver Flight-Critical Aerospace Components Faster - PRWeb",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeDBsMXhWM0lkb1ZfVXgwUEhGMUFVWmpGeTVYb2NOS2FsZ1Eteno0TnNwLTdJQXBzVERaWkRnUEQ0Yi1WekxfdGpXaUE0bXNKNGRUX21OSmxfeDdmb2tCSVAyaHNCNnVrazIwSGNieC1aTm43TExhS3I0NXVNN2otYUgxQ1hmUWxNOWZrVWhSaEdibDBuR1daNnJERXBkUVVKQURfdVA5QUp6OWY5V0plWkVXNXlfVFFOV3NhTE5JWUxRSUN4aFF4czFxcFFoRnBnT3FIRGxra3Z2dw?oc=5",
+      "description": "Quintus Flexform™ Press Enables Sona SPEED to Deliver Flight-Critical Aerospace Components Faster PRWeb",
+      "pubDate": "Wed, 22 Apr 2026 07:28:00 GMT"
+    },
+    {
       "source": "HPP Healthcare & Medical",
       "title": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 - Fortune Business Insights",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEYwb0FKSE1PSTZtQ1IwTHB1ZHBIbzhSc1piZnR6VTRpODRIaDRUaUx1cGZEVldYT0FjSkdEQ0tpNWVITDZ2eXl5TC1IOFM0V0Qwd0ZLaG9RSlp0WXI5V3NEV0pCYTg5RHFIb0NjOWVmcFVxU0ZILVhHdS10cWVtTk5qTVNfcVk?oc=5",
       "description": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 Fortune Business Insights",
-      "pubDate": "Mon, 20 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Europe waterjet cutting machinery market Size, Share, 2034 - Market Data Forecast",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdjRmbllyM1Y2NHJRMk9GRFgyMWstbFNFMFRhX0xOQUFRZWJRTzh1MEZiTHFqSzhCbWJZVUlGUDZ6RTQtNDBZZ2VqSWhDSkFzSHU4YmtrU1ppZkk0WkVyOUZ3cWlMZWpuakE5TjJqUjJuQTdpczR0RGkybEowNTNYQkFXVl9RTktrN2Fqa3ZtM2d3U2No?oc=5",
-      "description": "Europe waterjet cutting machinery market Size, Share, 2034 Market Data Forecast",
       "pubDate": "Mon, 20 Apr 2026 07:00:00 GMT"
     },
     {
@@ -224,13 +224,6 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXZMXzNQYVBNSGZZXzRBWGF4UnBjVjdSeVoyVE9xN2VYMUwzNGZoTTFYVUJ1S1FCVUNiTkt3WWhSX01wd3ZrMXNxbFlYMGs4aVBjeV9iMVBiX1JDQm1YU2hNbTZHemRnWGoxdzF4ZG1MWWZUN0k3aVhKVEtIWU1ZZUlrazRhY2h1VjN6ZVR0YjJXeXZPVjVuNngwUnRVemVOUUJud1dnR01wTHR0emxKc29QQjlWZw?oc=5",
       "description": "Greenhead Lobster continuing to refine its premium lobster products SeafoodSource",
       "pubDate": "Thu, 19 Mar 2026 17:56:16 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Food Technology Market | Global Market Analysis Report - 2036 - Future Market Insights",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCWlc1cTVRcVM0WEYwakxYZVdPeEZmdk5kVzNDRzRkV2ZZTmZZTFNhNDlubTRtSDdrSXZqVTdVTHRQcjNJQzhJYjZ6V042MDh0RTRVa2c3eGQ4Znc0MHNYUzVvczZKYWsyenB6RVAyNVBrT1dwbUE?oc=5",
-      "description": "Food Technology Market | Global Market Analysis Report - 2036 Future Market Insights",
-      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNW14WS12LXVKNkdJc3dsTzNScDdjb1Nscks3Y1lHRlJKa2FFTHBOUUNQbnJpd1VOR2U5dk9FOHVZb3NDcDZna3FyWlRfOUZMRkZKVW4yZXdJOElKLXdyZEdGWi1lYlRXNzVxNzJpRC1hblU0V0duZXJ2SEdLYUY3TThaUnZmNklBSm10VWFfQU1OT1lkNzhtNTk5aXZQNmlNZFFqNzJQbXAxVWxoblNPLXdic1pBLTBnc3FzNUxwa2lTSGdfekc5eEIzWGtuWVF1TW9FLUVhYVZwNlo3VVVDdURn?oc=5",
       "description": "Universal Pure Expands HPP Capacity with New Hiperbaric 525i System at Pennsylvania Facility PR Newswire",
       "pubDate": "Tue, 25 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Meat & Deli",
+      "title": "High-Pressure Processing reverses the dark color or dark-cutting beef to bright red - MEAT+POULTRY",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzJuTUJEMjVscTBHVnRDWjdnR2hTM0dDWTk5ZkkwV2lXdzJwR0N0dmZaeHJ0OEhjNnRBbGNSUElDcHM1T3Y3emNBeGJrZDltMXJ3S0VydloyUXM1WWVxNzhKU1NSZGFEeUtKZ3ZtY2hLR3BSV2thNFNDMG13Tll2eTZSOEZ2aHZSMm51Q3doSGJtcHlpWlUwcm5OYU1sZjNkLXBhdzZoWDYzeFJDRzRvdWs2YjNGZnkzaXM5OE1DMDg0VUg3?oc=5",
+      "description": "High-Pressure Processing reverses the dark color or dark-cutting beef to bright red MEAT+POULTRY",
+      "pubDate": "Fri, 21 Nov 2025 08:00:00 GMT"
     }
   ]
 }
