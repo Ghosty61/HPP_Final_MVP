@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T06:52:31.380962+00:00",
+  "updated": "2026-05-16T08:38:43.686107+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -101,13 +101,6 @@
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "Public Health Alert Issued for Deli Meat Product in 2 States for Possible Listeria Contamination - People.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa0NkYU5Vb2k0Y2tZbllwdHV6NldYMkhzaUkxaUZDVE1MWDV2dXVOeFp5WEYwbGF2aVFibnItSS1GREhyVmZXVVhRU1F0QlMyb3JiSWRrMzZUZ2ZNRllHMWh3QkR1bzRtUHdiRy1pajJLNnk3V1QxLXRSWWc1ejN6TDgzV0xURGdIeUxvNzBYMTdkVEpaUk9aeVFDbnFZWndvdFFBQ0Q2VTc?oc=5",
-      "description": "Public Health Alert Issued for Deli Meat Product in 2 States for Possible Listeria Contamination People.com",
-      "pubDate": "Mon, 11 May 2026 18:53:21 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
       "title": "Public health alert issued for deli item sold in Illinois due to listeria; 3 sickened - NBC 5 Chicago",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQajhWSHFIeFQ5UWMxQXctal82Y3ZLV0l4SWFEMkdtRWtkbF9XdE4tMTBsaUpjXzQ3S01pNFBQZWVZd2NpeDhlbGhqakl2MGx4YnFjVW9tSDlfTm9RR0tQdXFpVXpSbkU3bGZaQ3FGR0QtbEFEdm5Id2w2TXgzSWpvT1IwV19Zb182aFMtcXVpZ3fSAZgBQVVfeXFMTk9HSUQ0S0VPalJKZEI1cGQ3LVR5S3QwVDVsWE9vb0lmd3A1cUlOVXp5ZzBJSHdLUHl5U0EzMG1rM3JISERaX21YVFhZN2hDNjM0V0tjX3QtUmx6YjI5SzNxZmhoVkVkOVppOWZibnNUZTBMMm9OR1J2NkljMjJKZHFRV29aR3dTSG1aVWoyODNlMURkYllVRy0?oc=5",
       "description": "Public health alert issued for deli item sold in Illinois due to listeria; 3 sickened NBC 5 Chicago",
@@ -189,6 +182,13 @@
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTVFPakRRZlRhZG50MVZBdmVxdVZhVzlJRC1LNlBFOS1MNVI0SUhlT2FrUloxRkN5Qi1Bcm4yS0hFLUtDdnY5RC12dUY0TWoyQWh1eUlnSU5ZNmJMNmhSQlkyeU0yeHpGVDNZZE12MlI4TjZvNzZXR2RFN0htMFZlSkxFQmxqYnBEUG1VdUNpT3VMQ1pwUG1jel95SVltMkpVOW1wZDUwWTBkb2xZYmp5dlF5V3ZnV00tTzRubW9yTlhENDVpT1VCTW1rNDFhZURtR0Z5ZlBrOWNVenAxSFlyMmhGN3FkLVAzeWNCWVZYVzBKc2VaWTllemU3NA?oc=5",
       "description": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? PetfoodIndustry",
       "pubDate": "Wed, 15 Apr 2026 20:55:08 GMT"
+    },
+    {
+      "source": "HPP Seafood",
+      "title": "Can high-pressure processing replace freezing for Anisakis control? New data from sea bream trials - misPeces",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZkN0b1pENzBMTHlIRnJoQnp3a01qVGN4VUR2TFQtR0xpa1F0SldUa1J5N1daOUk2ZHVwbHpZVGF6WDRiUzlSbEVwQzJzVWJITFVha3FQZElhOU1nem8ybzhycmRQUWUwMXdpRExEdms4UEttY0lHTU5XdHZESGwzejNvMTRkUnczVVpxNS1NZGVWamMxQjQ0OFBCRVBZX1k4WGVqWGpaSmZCOUZEUS1MOGV4cGo5OHVBOVRCM3R4TUZEVHAzZjVEaFlLWQ?oc=5",
+      "description": "Can high-pressure processing replace freezing for Anisakis control? New data from sea bream trials misPeces",
+      "pubDate": "Mon, 13 Apr 2026 07:52:53 GMT"
     },
     {
       "source": "HPP Seafood",
@@ -282,13 +282,6 @@
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "HPP Soups & Meals",
-      "title": "Bowen Yang says watching SNL after his exit is 'totally bizarre' but 'ultimately fun' - The Express Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVWF3ZU53Rk12bWZfWXBWU21lTXFYTFlDT2tmMk5hT2tYS3oxSUJ4WGFEWURHcUxmbUhpRHNQX2ZoWUpXV29PX0k5MmoyN2R5ZnJvcm1UX2VwZ2syN1U5RVhSYVpMeEtQcTB6cEE2VFNMa0t5Q3lZZHJoUmpfVjduS3VsRE1tSmZaSG8wcXROMldURF90R3BXWGdGRG5sS3h1ZEJ1LVdpdW1RbXJlc3h6UmdjRG92NHpCaVHSAcIBQVVfeXFMUHQ5OWFuZV9IUlRzY244WTduTHFUOVRTSG5GNlNldHdtc0hUeGR1cjZWYmdBUEwxckJ4U1paQ2xwWTdwc2YxQzZIWU13WDdzaFlDemR5V0d1S3FGUl9EbVNSZGhpWUxuXzdRX3pYaFBsSFE3V242WUNDYXV2cGhLVHBrcmFBTC1yX1V0TUlRQXUxbDlTUW5KUVNnT0Y2ZWtoak8tdnBtMDRYbkcxb2hvWUxEZy1DOWpzYVhXMm1CellXTFE?oc=5",
-      "description": "Bowen Yang says watching SNL after his exit is 'totally bizarre' but 'ultimately fun' The Express Tribune",
-      "pubDate": "Sat, 07 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "UK Food Industry",
       "title": "Meet the food innovation centres leading the way in sustainable, tech-driven development - FoodBev Media",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVUY204LVk3LUY2MXN6QXVRcnJKb0hKbFBRbHNpeXAxSlhzN3c1WW90NGY1UzNCU1cwUDNmbFd6LTRTZWpYZ0lpTTdJRnRQT3ptQ3hneVdYSnRWNjdYRGNsTkV0S21Jb1M5Sk83T21aeE1VVWNSZWkzUEI4b0lKTWR1VTN1ZjAyYVl3eXFRX014ZzlJUnRRM2J3MEJaYVJHTzNWZzNoTVlNbVdsS2lydDBVX213Q0E?oc=5",
@@ -343,6 +336,13 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ3c4eWhyU0NKN0ZNTy1mXzJ3Y1Bqa2tqNGdqNXlLT0R5R3BoNVdnX1FwbWNxYzV3TGxTNHZJdWJhTElrQkgxTklNX0JyWDREN25ONVVranlsTjlCRXIzREZUQ1E0VDFaUnVhcWszbzBxVlJDc09DRHhGemd1dFNkZl9PWTlqOFJ4ZTZZNXpvOHM2RjNUNXBUMG0zVS1CNjFMb2NscWtRcFVFUGJZQUZLT0lfS2xVRFBWSkhBNHpWYW4xMnZPZmppWHM0TDY0RnVZa1ZRVl9wMmxTVnV1Sk0ybQ?oc=5",
       "description": "Hiperbaric brings advanced Hot Isostatic Pressing to Formnext, unlocking full potential of metal additive manufacturing tctmagazine.com",
       "pubDate": "Wed, 12 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Soups & Meals",
+      "title": "I Make the Best Chicken Soup Ever—Here's My Secret - Allrecipes",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtdnJxTW9PYk9kWHVUVFFYUktkYm1MWWluWnUxdGVjYncyTnFVaEk2SXJEcU1RTW1hWXVBTS1rT3dyejB4SGlPeHNCaE5jbkNvS2ViVW81ZlRWSWlfTE8zV0NZbEJldmhoZWZfNnRfQ2hhNHZKSXlsUVJn?oc=5",
+      "description": "I Make the Best Chicken Soup Ever—Here's My Secret Allrecipes",
+      "pubDate": "Sun, 09 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
