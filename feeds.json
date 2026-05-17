@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T08:47:06.853752+00:00",
+  "updated": "2026-05-17T10:33:15.383732+00:00",
   "articles": [
     {
       "source": "HPP Seafood",
@@ -63,13 +63,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnZEdm8tLUMxdlpRajZ4bGZ1eE5nRElJdGtTVDB5R0hMcWxoV2NIV1BvSkNsY3BUaGl6TzV2cXZSdEZWV0JOenZseW5icmxadFBZcERkOGpMb3BjaGJrN241Q1VCeWw1TldCMjBscEtfTzkwM2tsTTJyQlI0VkFaVWRseVZObmoycnRFaXJkQlY?oc=5",
       "description": "The latest product recalls and safety alerts from Which? which.co.uk",
       "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Investigations of Foodborne Illness Outbreaks - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk9CZUFHZmRHM3p1V1VfczVQOGxOVU5VSjllbF9tSzFyZDZqVXpfOVdTMnNVZk9VZjRVTDlRN3pvbjZZTER0bG5CY2h0Q0F6SldIMDl0WXNmanBtSGthVjQxMU5NZHNibkNLMXBqRnVsOWk4andKSkdrWUM4eUYzaFVzdGI5OFFXRGE5NWJTTFJja2cxaEJaN3doZw?oc=5",
-      "description": "Investigations of Foodborne Illness Outbreaks fda.gov",
-      "pubDate": "Wed, 13 May 2026 14:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -177,6 +170,13 @@
       "pubDate": "Wed, 06 May 2026 13:33:03 GMT"
     },
     {
+      "source": "UK Food Industry",
+      "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
+      "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
+      "pubDate": "Fri, 01 May 2026 07:05:09 GMT"
+    },
+    {
       "source": "HPP Juices & Beverages",
       "title": "Pomegranate Juice vs. Beet Juice: Which Lowers Blood Pressure More Effectively? - AOL.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWHRzSHF2VHVFaGFiZTBvYTFnY1h0WW9zRHNkM2lpVEN4czVYblZhUzJUWXJPRnBodGY0SlQ5M1cyRVVDU0xaS2t1T2xLQ04yOEwwQXB4Zl81TjJnN0hZQjlIVXdlelhnNWh1ODczNlRfTGJuZWhYNjdTRVJpNmZxTA?oc=5",
@@ -184,17 +184,17 @@
       "pubDate": "Mon, 20 Apr 2026 18:50:22 GMT"
     },
     {
-      "source": "HPP Equipment & Machines",
-      "title": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 - Fortune Business Insights",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaExyNHUyeE9rM0ZPN2dtQk0yMzllUTFZQnBYMnE5SkxXZGpLVlZwTk54eWY2eFF6S3RZWFFUcUR1Yjk5WXVaUGRIQV8zN2d4Y2doUzNPM1RiVkxjdy0yNDExTV9pN1hybUpYbE1iSU5pcnlMcUN0TGZJTUZpc28yR2VEU1M0M0dGc0k2a2lUVjcwQS1OZlFB?oc=5",
-      "description": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 Fortune Business Insights",
-      "pubDate": "Mon, 20 Apr 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Healthcare & Medical",
       "title": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 - Fortune Business Insights",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEYwb0FKSE1PSTZtQ1IwTHB1ZHBIbzhSc1piZnR6VTRpODRIaDRUaUx1cGZEVldYT0FjSkdEQ0tpNWVITDZ2eXl5TC1IOFM0V0Qwd0ZLaG9RSlp0WXI5V3NEV0pCYTg5RHFIb0NjOWVmcFVxU0ZILVhHdS10cWVtTk5qTVNfcVk?oc=5",
       "description": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 Fortune Business Insights",
+      "pubDate": "Mon, 20 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Seafood",
+      "title": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 - Fortune Business Insights",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaExyNHUyeE9rM0ZPN2dtQk0yMzllUTFZQnBYMnE5SkxXZGpLVlZwTk54eWY2eFF6S3RZWFFUcUR1Yjk5WXVaUGRIQV8zN2d4Y2doUzNPM1RiVkxjdy0yNDExTV9pN1hybUpYbE1iSU5pcnlMcUN0TGZJTUZpc28yR2VEU1M0M0dGc0k2a2lUVjcwQS1OZlFB?oc=5",
+      "description": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 Fortune Business Insights",
       "pubDate": "Mon, 20 Apr 2026 07:00:00 GMT"
     },
     {
@@ -296,6 +296,13 @@
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     },
     {
+      "source": "EU HPP & Food Tech",
+      "title": "Techarena 2026 Announces TOP46 Finalists - Techarenan.news",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN2xPd3RzZTBLY05nNEJDWVRMUV9KcjFiY0JZX0VKMTVKUUlNVmRsckJfdTJzbXBSOHlQdDlhdDBVSkpCYlNyWE8xVDZRZlJ2cnJ6dGxRT1JBQVBWUXFnYmxMQkV2Y0VWdzRFZFZfcm0yTGEyMDZDS3RIOUR3S0RRRGNWQzU2NWc?oc=5",
+      "description": "Techarena 2026 Announces TOP46 Finalists Techarenan.news",
+      "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
+    },
+    {
       "source": "UK Food Industry",
       "title": "Meet the food innovation centres leading the way in sustainable, tech-driven development - FoodBev Media",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVUY204LVk3LUY2MXN6QXVRcnJKb0hKbFBRbHNpeXAxSlhzN3c1WW90NGY1UzNCU1cwUDNmbFd6LTRTZWpYZ0lpTTdJRnRQT3ptQ3hneVdYSnRWNjdYRGNsTkV0S21Jb1M5Sk83T21aeE1VVWNSZWkzUEI4b0lKTWR1VTN1ZjAyYVl3eXFRX014ZzlJUnRRM2J3MEJaYVJHTzNWZzNoTVlNbVdsS2lydDBVX213Q0E?oc=5",
@@ -343,13 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNW14WS12LXVKNkdJc3dsTzNScDdjb1Nscks3Y1lHRlJKa2FFTHBOUUNQbnJpd1VOR2U5dk9FOHVZb3NDcDZna3FyWlRfOUZMRkZKVW4yZXdJOElKLXdyZEdGWi1lYlRXNzVxNzJpRC1hblU0V0duZXJ2SEdLYUY3TThaUnZmNklBSm10VWFfQU1OT1lkNzhtNTk5aXZQNmlNZFFqNzJQbXAxVWxoblNPLXdic1pBLTBnc3FzNUxwa2lTSGdfekc5eEIzWGtuWVF1TW9FLUVhYVZwNlo3VVVDdURn?oc=5",
       "description": "Universal Pure Expands HPP Capacity with New Hiperbaric 525i System at Pennsylvania Facility PR Newswire",
       "pubDate": "Tue, 25 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Meat & Deli",
-      "title": "High-Pressure Processing reverses the dark color or dark-cutting beef to bright red - MEAT+POULTRY",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzJuTUJEMjVscTBHVnRDWjdnR2hTM0dDWTk5ZkkwV2lXdzJwR0N0dmZaeHJ0OEhjNnRBbGNSUElDcHM1T3Y3emNBeGJrZDltMXJ3S0VydloyUXM1WWVxNzhKU1NSZGFEeUtKZ3ZtY2hLR3BSV2thNFNDMG13Tll2eTZSOEZ2aHZSMm51Q3doSGJtcHlpWlUwcm5OYU1sZjNkLXBhdzZoWDYzeFJDRzRvdWs2YjNGZnkzaXM5OE1DMDg0VUg3?oc=5",
-      "description": "High-Pressure Processing reverses the dark color or dark-cutting beef to bright red MEAT+POULTRY",
-      "pubDate": "Fri, 21 Nov 2025 08:00:00 GMT"
     }
   ]
 }
