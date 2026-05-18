@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T07:31:13.941097+00:00",
+  "updated": "2026-05-18T09:18:28.415512+00:00",
   "articles": [
     {
       "source": "HPP Seafood",
@@ -44,13 +44,6 @@
       "pubDate": "Sat, 16 May 2026 00:55:25 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "Deli Meats Linked To Listeria Outbreak: Recall Roundup - Patch",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQenZ2aFZnNlY2WDIyTjJXMTNVc3RWNlM2Skc1Z2N2QjlidUhEY0IzdnhGOGQ0VmdSaUpJZks5UVdMRGZRT3MycHEwbzMwd1VlSVVNR0R3djQ5MVdqQlhybHE2MWE1MXNYUWlsX0o4aUtkTzdGLTA0R01hUUZFcV9zVF9IaXlhWG1EaHgzSnhKONIBpAFBVV95cUxQTTFNclJ2QUlBTW1vUnZOOFY3QUlKMjIyeGZCV1RpV1pkWlY3ZjVKZXcxNVh5SnhEaS1ZLVBEVmR4aUNmMldpMjNRRWNpaGl6ck45WlRoXy12V2NQS3NqV1RxRk9BVVVGYlRwbG05OExqM3puNDRJNkJuYlkxUHNBYkotYXR0MFVSTkc1NW9yWE9PRmhPR2pmSm5UWmpqdFRwRXVRXw?oc=5",
-      "description": "Deli Meats Linked To Listeria Outbreak: Recall Roundup Patch",
-      "pubDate": "Fri, 15 May 2026 15:02:07 GMT"
-    },
-    {
       "source": "HPP Healthcare & Medical",
       "title": "World Seam Chemical Indicator - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSFQtdWl6RXIyLW55T0d1X25MRkwtbDBVVVRXa0FscVFfRW9HeDVBeHdPNy1iLVBiT1U0VGUwb3l4Yl9sY2xHa0hCdjcxcUs4U3RRRl9HeEROWkVVTWM1SFZMb1NkMWlJNVVFcUpDaWFBdFNpUzRIWFhnY2x4ZzlrYy16NGNXRlVVZW5ucG1haWJaV1VwR3VRbC1NUk1YMHFlYVR2TXBCbzhzWFhRMjc3eUZQSGZ1N1BPUVFaLTNPRXZ0Yy1MeE0xR1ZnMHVzUi1zcmRLcGY1NG01RXU3MFlqMmQ4eE9KMUJ0?oc=5",
@@ -70,6 +63,13 @@
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTVFPakRRZlRhZG50MVZBdmVxdVZhVzlJRC1LNlBFOS1MNVI0SUhlT2FrUloxRkN5Qi1Bcm4yS0hFLUtDdnY5RC12dUY0TWoyQWh1eUlnSU5ZNmJMNmhSQlkyeU0yeHpGVDNZZE12MlI4TjZvNzZXR2RFN0htMFZlSkxFQmxqYnBEUG1VdUNpT3VMQ1pwUG1jel95SVltMkpVOW1wZDUwWTBkb2xZYmp5dlF5V3ZnV00tTzRubW9yTlhENDVpT1VCTW1rNDFhZURtR0Z5ZlBrOWNVenAxSFlyMmhGN3FkLVAzeWNCWVZYVzBKc2VaWTllemU3NA?oc=5",
       "description": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? PetfoodIndustry",
       "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Investigations of Foodborne Illness Outbreaks - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk9CZUFHZmRHM3p1V1VfczVQOGxOVU5VSjllbF9tSzFyZDZqVXpfOVdTMnNVZk9VZjRVTDlRN3pvbjZZTER0bG5CY2h0Q0F6SldIMDl0WXNmanBtSGthVjQxMU5NZHNibkNLMXBqRnVsOWk4andKSkdrWUM4eUYzaFVzdGI5OFFXRGE5NWJTTFJja2cxaEJaN3doZw?oc=5",
+      "description": "Investigations of Foodborne Illness Outbreaks fda.gov",
+      "pubDate": "Wed, 13 May 2026 14:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -156,18 +156,18 @@
       "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Equipment & Machines",
+      "source": "HPP Healthcare & Medical",
       "title": "High Pressure Processing Hpp Equipment Market Analysis - openPR.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLVJJRVhvZndaZlJTU1JreDlfOWd4WlRwVVNkNVozRzQ0Z05WTlNoVm5tUUFxbkFuSVFIM0F5emxZdkd5eHNTVlphdTRMX0NKQkNxa2Z1eHVyMFZOeXBYV0NIcDlCMnFna3F3YmhyNWt2ajZkanZfdTRlUHdnRzd4R2FnWU12b0FYUExKZXVaT083RG9Y?oc=5",
       "description": "High Pressure Processing Hpp Equipment Market Analysis openPR.com",
       "pubDate": "Wed, 06 May 2026 13:33:03 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Salmonella outbreak spreads across Europe - Food Safety News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOGVBRGpKWGhNb2NyTV9xWktzUmZ0NS1rblRDNFcxWWdOWDlpRjc1WHgtLVlpTW8xN3plSjgtdDRUZTBoU2ZLbWM1a2V1V3FwWV9xRFRyRWt0SDJncUFGcDNCSkZHQVpMLUdsS2o4UkVWc0tfUjdETDFlcFRkYjRUZGd0MkF4U2d0?oc=5",
-      "description": "Salmonella outbreak spreads across Europe Food Safety News",
-      "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT"
+      "source": "UK Food Industry",
+      "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
+      "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
+      "pubDate": "Fri, 01 May 2026 07:05:09 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -189,20 +189,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEYwb0FKSE1PSTZtQ1IwTHB1ZHBIbzhSc1piZnR6VTRpODRIaDRUaUx1cGZEVldYT0FjSkdEQ0tpNWVITDZ2eXl5TC1IOFM0V0Qwd0ZLaG9RSlp0WXI5V3NEV0pCYTg5RHFIb0NjOWVmcFVxU0ZILVhHdS10cWVtTk5qTVNfcVk?oc=5",
       "description": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 Fortune Business Insights",
       "pubDate": "Mon, 20 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Soups & Meals",
-      "title": "Soup Market Outlook: Convenience Food Demand and Growth Opportunities - vocal.media",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRWdEOVpWZm03VUs1cHlDQ0hJMmtsMzlWMVBQOUdvS0tzM2xxa0M1RkE1Z0MtRHkxNkNBRWt1MDkwa0FkUGs0Q1NGZVVtSllnQzV1SnFnck9UZHppaXZiUjlCS1FzMVhqWU9CRC0weUFWeHR0RGluLXFEeHBnS09lNHo3cGxFUHFsRld6MGtLX0g2MGExNy1pZ24yZ0FJdw?oc=5",
-      "description": "Soup Market Outlook: Convenience Food Demand and Growth Opportunities vocal.media",
-      "pubDate": "Fri, 17 Apr 2026 05:30:11 GMT"
-    },
-    {
-      "source": "HPP Juices & Beverages",
-      "title": "What Happens to Your Blood Pressure When You Drink Beetroot Juice Regularly - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWJ0bzFaSjZxNmxtQW5BX2swTEdoTmZsTkhxNDliMkpib0FWc2lUX3NCdzRqblN4OHBwZWxDZnprMG9XRGNRZEF0bGNtTjZfV1dRTmFCTkJMUGdVak9zdkY2NWpOV21XYjcwSUQya1BkTkxaYVhFU29VSEJGdlptNnJrTEowSzBF?oc=5",
-      "description": "What Happens to Your Blood Pressure When You Drink Beetroot Juice Regularly AOL.com",
-      "pubDate": "Thu, 16 Apr 2026 11:57:17 GMT"
     },
     {
       "source": "HPP Seafood",
@@ -237,6 +223,20 @@
       "title": "Salmonella Outbreak Linked to Moringa Leaf Powder - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
       "description": "Salmonella Outbreak Linked to Moringa Leaf Powder Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
+      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
+      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "The two new features spotlighting innovation at the UK Food & Drink Shows - The Grocer",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeUZaQU1SNUc4UzdNbnBVVk41endlM3h5RFc4R2pRSUZud3V5ZEI0THhRUDc1dmJxVUxTUHlzM3JVMGdmRF9HYXNnRUMxVGQ1eENZSUFiX0ZlUnNCQUJmVWNIQm1vS2N4MGZzb1pmanFfdkpURTEyeGoxZHpZcS1RUUR1THo3Mng0Ti1DTzRXb2FaNDg3VlllSE5BMWJ0QS1kaWQ5cVhBTDRycE5qRHcxQ1pfZmlCdjI2elpFeU1sUTBZNWxETFNPaGw5dTFoaVVXcEN1eHFfUQ?oc=5",
+      "description": "The two new features spotlighting innovation at the UK Food & Drink Shows The Grocer",
       "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
     },
     {
