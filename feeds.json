@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T15:08:21.064406+00:00",
+  "updated": "2026-05-20T17:09:19.777149+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -58,7 +58,7 @@
       "pubDate": "Mon, 18 May 2026 12:16:56 GMT"
     },
     {
-      "source": "UK HPP Industry",
+      "source": "HPP Seafood",
       "title": "British breakthrough! Native lobsters to be on menus all year thanks to new technology - Daily Express",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTHZlRGZlaFpqR2ZrV0tNM05oaHMwNk1XaGJKQTh3SlE0U2R2TmNaTTUyMGhyLURLODhPbFFJM1JuMEtUVFhveHo2SG1ncDNkZTBxX0w3VHRMZE10YUIxNDVta2VJVi1Gd1NRWFNOREtxZVBFdTNrNGVTMXRFem1oVFFhMUk1MHpRY2JDaEFEMzBsckJYa2tGYnoxcGw3NjAtVG1tX0p5Y3RQVmJnU1lYQ0lwTnRFZEpnZy00bzYtNG5qLXVvcGc0T3Rad9IB0AFBVV95cUxPaV85czhaWVRQYi14cU0tRVhUbk5DYmRTN0JSdTR4ZnQ5MUZxNzI0REZzTUNVWF9HMWNocndjdzNLaG1QRnUwcUtpWTVyVkFkVGd1M1JDM29LOWdORUszQ1ppSm9LMU1KODBjRjduTlFENkJzVl85cVVsUnJOLVhvT1E1dGlTaEJWVFpYT0dBYllYSE9ySHVjT19lV0tSbzg1Z2NvWFBmbWtBZm52ZnJsbUJnRmtSRktXR2xoQVVLWFRMbGt1VnczZFk1cFF2MjhH?oc=5",
       "description": "British breakthrough! Native lobsters to be on menus all year thanks to new technology Daily Express",
@@ -84,13 +84,6 @@
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTVFPakRRZlRhZG50MVZBdmVxdVZhVzlJRC1LNlBFOS1MNVI0SUhlT2FrUloxRkN5Qi1Bcm4yS0hFLUtDdnY5RC12dUY0TWoyQWh1eUlnSU5ZNmJMNmhSQlkyeU0yeHpGVDNZZE12MlI4TjZvNzZXR2RFN0htMFZlSkxFQmxqYnBEUG1VdUNpT3VMQ1pwUG1jel95SVltMkpVOW1wZDUwWTBkb2xZYmp5dlF5V3ZnV00tTzRubW9yTlhENDVpT1VCTW1rNDFhZURtR0Z5ZlBrOWNVenAxSFlyMmhGN3FkLVAzeWNCWVZYVzBKc2VaWTllemU3NA?oc=5",
       "description": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? PetfoodIndustry",
       "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Investigations of Foodborne Illness Outbreaks - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk9CZUFHZmRHM3p1V1VfczVQOGxOVU5VSjllbF9tSzFyZDZqVXpfOVdTMnNVZk9VZjRVTDlRN3pvbjZZTER0bG5CY2h0Q0F6SldIMDl0WXNmanBtSGthVjQxMU5NZHNibkNLMXBqRnVsOWk4andKSkdrWUM4eUYzaFVzdGI5OFFXRGE5NWJTTFJja2cxaEJaN3doZw?oc=5",
-      "description": "Investigations of Foodborne Illness Outbreaks fda.gov",
-      "pubDate": "Wed, 13 May 2026 14:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -163,6 +156,13 @@
       "pubDate": "Fri, 01 May 2026 07:05:09 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "Salmonella outbreak spreads across Europe - Food Safety News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOGVBRGpKWGhNb2NyTV9xWktzUmZ0NS1rblRDNFcxWWdOWDlpRjc1WHgtLVlpTW8xN3plSjgtdDRUZTBoU2ZLbWM1a2V1V3FwWV9xRFRyRWt0SDJncUFGcDNCSkZHQVpMLUdsS2o4UkVWc0tfUjdETDFlcFRkYjRUZGd0MkF4U2d0?oc=5",
+      "description": "Salmonella outbreak spreads across Europe Food Safety News",
+      "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT"
+    },
+    {
       "source": "Food Safety UK & EU",
       "title": "Good4U recalls Super Sprouts Super Greens over Salmonella risk - New Food",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRFZ4d01NSXRMa0h5cVBjMEdTSG16X1Q0M3hyUzVBV3l5UDB5RlFmX3Mtdkw2ZXFHS3U4QTY1b196b1V2bVppSzJ1LWJJTUZEWGlUMGwtOWF4VmhHb2FMZ0dMeDRfQ3dvdVMtaTFvMVpRa3NWQm42eWEyVUhHSXdYY3lkLTRpbFFFbEYweERHSWU1VkFWeHZ0U21takhIQldYRDMwQVdRc3VQZjlYTERVcDdLSWRsUQ?oc=5",
@@ -226,32 +226,18 @@
       "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
-      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
-      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Seafood",
-      "title": "Oyster Processor comes to Dock+ - NanaimoNewsNOW",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OS1NNQWRKNUJqUW81ak16UmhZb3N6QzZtRlZiVk1FNlhTblN3VFpzdGNDaFBtTkI2X2U4TFEwZm1PVGFWN0ZXekl0azBZaEUzYjBBcG5xZWFyMGw4TC1GNlBaT2ZfRkNyT1huSjBqUWUyd0tlZ0NzcA?oc=5",
-      "description": "Oyster Processor comes to Dock+ NanaimoNewsNOW",
-      "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Cosmetics & Beauty",
-      "title": "High Pressure Homogenizers Market Fueled by Nanotechnology in Cosmetics Through 2035 - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONDZSQk5wVzJjdnRnM0ZKN2dSeUw2Y2x2RVBreFh6STVjLUdIdnlQMkY1S3R0d3p2NXZxRzh4ck9kdEVFVjlURlF4Ym9HNm9LREpOQmZPX2t6TFI0VVgxRzlZbng0enJHWnRuN3dXaEVxSkM5Z0ZEUWxuOGpnbWtIZ3RXdWNWWkJHaUwwajktanJjZzdCeEZ6cmVyVTlzYVY4S3JnMTRZbEtDRGF4QlE?oc=5",
-      "description": "High Pressure Homogenizers Market Fueled by Nanotechnology in Cosmetics Through 2035 - News and Statistics IndexBox",
-      "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Dairy",
       "title": "Impact of processing techniques on donor human milk: a multi-omics and bioinformatics scoping review - Frontiers",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNW1tRzNnV0tmMUNMdHJuQkdTYThyV2I1RkROYTFkWXNjMTVCRDNzX1JLbG9MWGF5N204dzB1MVRweVY2MUZJM2l3TVB2R0RXYVJkYVZ1bVdDUEtVV0VxX190eEtzY1FzQ2ZCWGhNN1BCclZMMG1xZVpTWjJiT05KTmhwSFpkbnE1ZDFBZFhCYw?oc=5",
       "description": "Impact of processing techniques on donor human milk: a multi-omics and bioinformatics scoping review Frontiers",
       "pubDate": "Thu, 26 Feb 2026 12:53:13 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Outbreak Investigation of Infant Botulism: Infant Formula (November 2025) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUjFDQjlHQ2x1ZUZEdkREVlBxREh2QVAtc2xtSGZzQkVDMnlJSEx5UkppYWkzdVZYSWhQTEdwd0NsaTd0SWxpc05FS3FVWFliMnVhZG5OUm9FbmNFM3ZvN1JlS3lLZVhaTkJmRU1xS2Q4OGtpYXFYX0ZnSHZGU2xpNkdDdVN0YlFaQnZHNllHaDJKUG9nWnRVN1NpdjhMSHQ3c3pZQUJvS2ZTT2x1bGhXVTRPWFFxQUM4R3ltVA?oc=5",
+      "description": "Outbreak Investigation of Infant Botulism: Infant Formula (November 2025) fda.gov",
+      "pubDate": "Thu, 26 Feb 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -350,6 +336,20 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2hwS1d0SE1MMlE3MlE1Q1ZJUWVGN3c3UWoxdnFrSE1kd1VOVU9ZREFBS1NOeEdheUlyaFhGa3dWVlpsek05Y1ZoeFMzdXVKZWFPQldXcUFHVWZUa3BjOWdzLTE3VXFQZXBESDVvcHJtWnBZS1JRUHN6Q3BQZ2lEZDBBNmtwVXZiRXc?oc=5",
       "description": "6 Dead in Multistate Listeria Outbreak Linked to Recalled Pasta Meals. Which Products Are Affected? TODAY.com",
       "pubDate": "Wed, 05 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric",
+      "title": "Hiperbaric introduces HPP tolling service integration to Sunrise Logistics' Pennsylvania cold chain operation - The National Provisioner",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd05nOUt1OHh4UzVxeE5qYXhWaEZCd25xdmFxaXNfMW1Jbm1aYkpYVmx2OG02MFE4dkwzeHdDaklzS2NtcXpkVjBPVm5RTmdnX1Nxa2cxRGROTUIzV0ZjdWRRaDAyQndLcU5XX0tqNFF6Zk5hUk5yZHNOcU40bzRRSGoxTkthYi1HUFo3aFNCRnpBYmQ0V0lBdXo2SEx1VU5SenplTkdHTjV5ZUd6b1I5QlltZ1lhWVFhOGtzTWFlUFNueHl4akhWcmx6MENxc0huOU9Ga2NwY1hSSnR3Y1VHdDBkVUQyVmprYkZsMWJ2TQ?oc=5",
+      "description": "Hiperbaric introduces HPP tolling service integration to Sunrise Logistics' Pennsylvania cold chain operation The National Provisioner",
+      "pubDate": "Tue, 04 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Nationwide Listeria outbreak: 6 dead and 27 hospitalized, dozens of products recalled - WRAL",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1NLbnJCRjM4WHZIME1oWTJCbEw0OXEtT2U2V1dnYWxaVEN2NGtlZ0kzaEx6V0R0YlBSLWZZXzRQWjBERVZOT2NXVldvY0VFaEEyZnNUejEtdDltdnBQWlNnNjlNU1ZhWl9SbkpxUXdody1HSkMtbkk2V0hYV3oyZ1lLY1RiS01BeVo0anhnZ3Y?oc=5",
+      "description": "Nationwide Listeria outbreak: 6 dead and 27 hospitalized, dozens of products recalled WRAL",
+      "pubDate": "Tue, 04 Nov 2025 08:00:00 GMT"
     }
   ]
 }
