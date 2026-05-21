@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-21T03:13:43.955545+00:00",
+  "updated": "2026-05-21T05:29:39.505432+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "FDA investigating new Salmonella outbreak",
+      "link": "https://www.foodsafetynews.com/2026/05/fda-investigating-new-salmonella-outbreak-2/",
+      "description": "In other outbreak news, the agency has initiated a foreign inspection in relation to an outbreak traced to cantaloupe",
+      "pubDate": "Thu, 21 May 2026 04:05:26 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Microgreens being recalled in Canada because of E. coli",
@@ -51,13 +58,6 @@
       "pubDate": "Tue, 19 May 2026 02:43:11 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Ranch seasoning sold at Walmart recalled because of Salmonella",
-      "link": "https://www.foodsafetynews.com/2026/05/ranch-seasoning-sold-at-walmart-recalled-because-of-salmonella/",
-      "description": "Blackstone Products of Providence, UT, is recalling Blackstone Parmesan Ranch seasoning products because they have the potential to be contaminated with Salmonella.&#xA0; Blackstone&#x2019;s action is based on a California Dairies Inc. recall of dry milk powder because of potential Salmonella contamination. The affected milk powder ingredient was",
-      "pubDate": "Tue, 19 May 2026 02:17:59 GMT"
-    },
-    {
       "source": "HPP Juices & Beverages",
       "title": "Drinking THIS juice lowers blood pressure, even in older adults - MSN",
       "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQZy1wSGlaTEx5RkpWZENJZG5TQ29ZT1ZteFNCaFFjYU5OS3BTQnNpQWpNQ1hHWVR1S0dVSHRVZG43RXk4d3g4RmhrZTBGVGFCSzBaYUMteU4wTnJZd1BkTFZUUWV5UGpqS1lSc0E2UVJycDV1MGVEY2thUW8yaGN6Rm51NG9QczVQb01CSE9VeFVsLVBtMU1CYlhxUjdxNVFvLWhWRUxEQThaZnhJR0RKLWVCZ3ppN1ZLSVRJcVhSaVVWQkhMOU1qZmVwdTczUEVScTVlUklpeXlWQWNXc19xM1JaZEhBN1FVSFJVNkRtczNhbWpuR2YxT0wyT09Mb19TZ01JVWF2MGZpY240YTgxOWVZQWRzUk03ZEZvNVMzNlZQWmhUdHMyX2NINlB0QkVQQzYzMlJkNkd1ckVpLU5BdWJNYjd5YW9ON1E?oc=5",
@@ -65,7 +65,7 @@
       "pubDate": "Mon, 18 May 2026 12:16:56 GMT"
     },
     {
-      "source": "UK HPP Industry",
+      "source": "HPP Seafood",
       "title": "British breakthrough! Native lobsters to be on menus all year thanks to new technology - Daily Express",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTHZlRGZlaFpqR2ZrV0tNM05oaHMwNk1XaGJKQTh3SlE0U2R2TmNaTTUyMGhyLURLODhPbFFJM1JuMEtUVFhveHo2SG1ncDNkZTBxX0w3VHRMZE10YUIxNDVta2VJVi1Gd1NRWFNOREtxZVBFdTNrNGVTMXRFem1oVFFhMUk1MHpRY2JDaEFEMzBsckJYa2tGYnoxcGw3NjAtVG1tX0p5Y3RQVmJnU1lYQ0lwTnRFZEpnZy00bzYtNG5qLXVvcGc0T3Rad9IB0AFBVV95cUxPaV85czhaWVRQYi14cU0tRVhUbk5DYmRTN0JSdTR4ZnQ5MUZxNzI0REZzTUNVWF9HMWNocndjdzNLaG1QRnUwcUtpWTVyVkFkVGd1M1JDM29LOWdORUszQ1ppSm9LMU1KODBjRjduTlFENkJzVl85cVVsUnJOLVhvT1E1dGlTaEJWVFpYT0dBYllYSE9ySHVjT19lV0tSbzg1Z2NvWFBmbWtBZm52ZnJsbUJnRmtSRktXR2xoQVVLWFRMbGt1VnczZFk1cFF2MjhH?oc=5",
       "description": "British breakthrough! Native lobsters to be on menus all year thanks to new technology Daily Express",
@@ -156,13 +156,6 @@
       "pubDate": "Mon, 04 May 2026 07:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Salmonella outbreak spreads across Europe - Food Safety News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOGVBRGpKWGhNb2NyTV9xWktzUmZ0NS1rblRDNFcxWWdOWDlpRjc1WHgtLVlpTW8xN3plSjgtdDRUZTBoU2ZLbWM1a2V1V3FwWV9xRFRyRWt0SDJncUFGcDNCSkZHQVpMLUdsS2o4UkVWc0tfUjdETDFlcFRkYjRUZGd0MkF4U2d0?oc=5",
-      "description": "Salmonella outbreak spreads across Europe Food Safety News",
-      "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT"
-    },
-    {
       "source": "Food Safety UK & EU",
       "title": "Good4U recalls Super Sprouts Super Greens over Salmonella risk - New Food",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRFZ4d01NSXRMa0h5cVBjMEdTSG16X1Q0M3hyUzVBV3l5UDB5RlFmX3Mtdkw2ZXFHS3U4QTY1b196b1V2bVppSzJ1LWJJTUZEWGlUMGwtOWF4VmhHb2FMZ0dMeDRfQ3dvdVMtaTFvMVpRa3NWQm42eWEyVUhHSXdYY3lkLTRpbFFFbEYweERHSWU1VkFWeHZ0U21takhIQldYRDMwQVdRc3VQZjlYTERVcDdLSWRsUQ?oc=5",
@@ -220,6 +213,13 @@
     },
     {
       "source": "Salmonella Outbreaks",
+      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
+      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
+      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
       "title": "Salmonella Outbreak Linked to Moringa Leaf Powder - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
       "description": "Salmonella Outbreak Linked to Moringa Leaf Powder Centers for Disease Control and Prevention | CDC (.gov)",
@@ -238,13 +238,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNW1tRzNnV0tmMUNMdHJuQkdTYThyV2I1RkROYTFkWXNjMTVCRDNzX1JLbG9MWGF5N204dzB1MVRweVY2MUZJM2l3TVB2R0RXYVJkYVZ1bVdDUEtVV0VxX190eEtzY1FzQ2ZCWGhNN1BCclZMMG1xZVpTWjJiT05KTmhwSFpkbnE1ZDFBZFhCYw?oc=5",
       "description": "Impact of processing techniques on donor human milk: a multi-omics and bioinformatics scoping review Frontiers",
       "pubDate": "Thu, 26 Feb 2026 12:53:13 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Infant Botulism: Infant Formula (November 2025) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUjFDQjlHQ2x1ZUZEdkREVlBxREh2QVAtc2xtSGZzQkVDMnlJSEx5UkppYWkzdVZYSWhQTEdwd0NsaTd0SWxpc05FS3FVWFliMnVhZG5OUm9FbmNFM3ZvN1JlS3lLZVhaTkJmRU1xS2Q4OGtpYXFYX0ZnSHZGU2xpNkdDdVN0YlFaQnZHNllHaDJKUG9nWnRVN1NpdjhMSHQ3c3pZQUJvS2ZTT2x1bGhXVTRPWFFxQUM4R3ltVA?oc=5",
-      "description": "Outbreak Investigation of Infant Botulism: Infant Formula (November 2025) fda.gov",
-      "pubDate": "Thu, 26 Feb 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2hwS1d0SE1MMlE3MlE1Q1ZJUWVGN3c3UWoxdnFrSE1kd1VOVU9ZREFBS1NOeEdheUlyaFhGa3dWVlpsek05Y1ZoeFMzdXVKZWFPQldXcUFHVWZUa3BjOWdzLTE3VXFQZXBESDVvcHJtWnBZS1JRUHN6Q3BQZ2lEZDBBNmtwVXZiRXc?oc=5",
       "description": "6 Dead in Multistate Listeria Outbreak Linked to Recalled Pasta Meals. Which Products Are Affected? TODAY.com",
       "pubDate": "Wed, 05 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric",
+      "title": "Hiperbaric introduces HPP tolling service integration to Sunrise Logistics' Pennsylvania cold chain operation - The National Provisioner",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd05nOUt1OHh4UzVxeE5qYXhWaEZCd25xdmFxaXNfMW1Jbm1aYkpYVmx2OG02MFE4dkwzeHdDaklzS2NtcXpkVjBPVm5RTmdnX1Nxa2cxRGROTUIzV0ZjdWRRaDAyQndLcU5XX0tqNFF6Zk5hUk5yZHNOcU40bzRRSGoxTkthYi1HUFo3aFNCRnpBYmQ0V0lBdXo2SEx1VU5SenplTkdHTjV5ZUd6b1I5QlltZ1lhWVFhOGtzTWFlUFNueHl4akhWcmx6MENxc0huOU9Ga2NwY1hSSnR3Y1VHdDBkVUQyVmprYkZsMWJ2TQ?oc=5",
+      "description": "Hiperbaric introduces HPP tolling service integration to Sunrise Logistics' Pennsylvania cold chain operation The National Provisioner",
+      "pubDate": "Tue, 04 Nov 2025 08:00:00 GMT"
     }
   ]
 }
