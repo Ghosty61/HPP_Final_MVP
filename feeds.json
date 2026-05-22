@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T16:48:53.239618+00:00",
+  "updated": "2026-05-22T18:40:59.727812+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -79,13 +79,6 @@
       "pubDate": "Mon, 18 May 2026 14:01:00 GMT"
     },
     {
-      "source": "HPP Juices & Beverages",
-      "title": "Drinking THIS juice lowers blood pressure, even in older adults - MSN",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQZy1wSGlaTEx5RkpWZENJZG5TQ29ZT1ZteFNCaFFjYU5OS3BTQnNpQWpNQ1hHWVR1S0dVSHRVZG43RXk4d3g4RmhrZTBGVGFCSzBaYUMteU4wTnJZd1BkTFZUUWV5UGpqS1lSc0E2UVJycDV1MGVEY2thUW8yaGN6Rm51NG9QczVQb01CSE9VeFVsLVBtMU1CYlhxUjdxNVFvLWhWRUxEQThaZnhJR0RKLWVCZ3ppN1ZLSVRJcVhSaVVWQkhMOU1qZmVwdTczUEVScTVlUklpeXlWQWNXc19xM1JaZEhBN1FVSFJVNkRtczNhbWpuR2YxT0wyT09Mb19TZ01JVWF2MGZpY240YTgxOWVZQWRzUk03ZEZvNVMzNlZQWmhUdHMyX2NINlB0QkVQQzYzMlJkNkd1ckVpLU5BdWJNYjd5YW9ON1E?oc=5",
-      "description": "Drinking THIS juice lowers blood pressure, even in older adults MSN",
-      "pubDate": "Mon, 18 May 2026 12:16:56 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
       "title": "The food recalls, alerts issued over salmonella concerns this month - The Hill",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVBTbElxUUVCeW9FcEZwcU91NW9RZzdidWlIRk9yY2RiWjQyU1pwV3lJY1V2d1pWdHVFX09RYVliTE5kNlpzVE1iM3J1QmVBZmtKd0pLRGstQW03bExOQjVnMlQ2TTNQekJfMFFsM3ZEX0VvaHl3Zkk1SXJRQ25OX1dhS2FqeG5VVEwyVWM3a3g1azJUVlVFMVZ4MHZnSXZiSUdwNlZxQdIBrAFBVV95cUxQcGYxRDRTUjBxUEdoYkpqTWJMcjRGRlB1dzgtZ2hXNFlLVGMtT1N5eWJNQVNVanVCRUdhT01GeC1Oc2ZaeU9NekM5STJXclhmSFpXdVc5SUNuVnNvYnJsVS1uLVhKNURpVUc4VU1NN1VCb3pzcTZiRDI0Smo4QlRLel9yYmd4UzhjQjM5UDkwdTdnYkxjYWRuYndSMU1CcjZjMWdLdEtWU201VVZQ?oc=5",
@@ -105,6 +98,13 @@
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTVFPakRRZlRhZG50MVZBdmVxdVZhVzlJRC1LNlBFOS1MNVI0SUhlT2FrUloxRkN5Qi1Bcm4yS0hFLUtDdnY5RC12dUY0TWoyQWh1eUlnSU5ZNmJMNmhSQlkyeU0yeHpGVDNZZE12MlI4TjZvNzZXR2RFN0htMFZlSkxFQmxqYnBEUG1VdUNpT3VMQ1pwUG1jel95SVltMkpVOW1wZDUwWTBkb2xZYmp5dlF5V3ZnV00tTzRubW9yTlhENDVpT1VCTW1rNDFhZURtR0Z5ZlBrOWNVenAxSFlyMmhGN3FkLVAzeWNCWVZYVzBKc2VaWTllemU3NA?oc=5",
       "description": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? PetfoodIndustry",
       "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Innovation & Research",
+      "title": "Dark-cutting beef research explores options for processors - MEAT+POULTRY",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcmlzbEp3N25tZ19TN0RrWTVkeTNVM1NKRWNXYUFub0pOWm5hQWdhMTFGSUZFMlFoS1JKMktPM1htUzVZaXhTRmlNYi1wSWN6azdsV05vRlM2NzY2VmlmczhjRnJEeG9vNTJvYTJSZlk0akdxSE1BcFlQTHFIeUx6YkVfRlMyd08ydjRjcnROaHZCbTRhOWFrRW9GRTBsaHhVSkxJ?oc=5",
+      "description": "Dark-cutting beef research explores options for processors MEAT+POULTRY",
+      "pubDate": "Tue, 12 May 2026 15:33:06 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -164,10 +164,10 @@
     },
     {
       "source": "EU HPP & Food Tech",
-      "title": "Europe Frozen Desserts Market Size, Share & Trends, 2034 - Market Data Forecast",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDBGWGxxZC1pQmY1b2pjZlBxWFFoaFpIUE9nZENpNW9fM1VuYlNGR2VudU1jcnVrVGs3S2VZbjJOSWFVVFBhSU1GMk9YNVZsSFZfMEVnb2I0bnlUckIxT1hpMGFoQnRmRjNydG9QZnBZX2IyWHk5QUpKQjA1Tmx3TXZtLV8?oc=5",
-      "description": "Europe Frozen Desserts Market Size, Share & Trends, 2034 Market Data Forecast",
-      "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT"
+      "title": "FIBA Technologies’ long-term bet in Europe - gasworld",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb1dXLXE5VjFxemFUenBRT2tDX21iUkpUbFVSZ2JtNktoUnlwN2Q2QjF6ZGQtUUwtTTZVUjItZkhlOUEzdEF0QmdiZFVjeWZObm1nNkpEdTJvVU51RVdKMm8yS1luTDEzc2E0ZUR6WkJxQkdLUGcyNnExWkVoSGgzZU1LalBOMG5sLTVmWjhhLVVmWlIwWWc?oc=5",
+      "description": "FIBA Technologies’ long-term bet in Europe gasworld",
+      "pubDate": "Wed, 08 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
@@ -269,6 +269,13 @@
     },
     {
       "source": "UK Food Industry",
+      "title": "£3m fund unveiled to target diet and health innovation - British Baker",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
+      "description": "£3m fund unveiled to target diet and health innovation British Baker",
+      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
       "title": "Meet the food innovation centres leading the way in sustainable, tech-driven development - FoodBev Media",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVUY204LVk3LUY2MXN6QXVRcnJKb0hKbFBRbHNpeXAxSlhzN3c1WW90NGY1UzNCU1cwUDNmbFd6LTRTZWpYZ0lpTTdJRnRQT3ptQ3hneVdYSnRWNjdYRGNsTkV0S21Jb1M5Sk83T21aeE1VVWNSZWkzUEI4b0lKTWR1VTN1ZjAyYVl3eXFRX014ZzlJUnRRM2J3MEJaYVJHTzNWZzNoTVlNbVdsS2lydDBVX213Q0E?oc=5",
       "description": "Meet the food innovation centres leading the way in sustainable, tech-driven development FoodBev Media",
@@ -308,13 +315,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWYtdVQwYl80R1Ytem9hTzNxNl9sMHFaVVlXa1h3aG9CakY5SnZEZ3NibThISEI0WmNYYXg5TG1wYzd6c0Z0MWlLbUk4UGxqQndKQW8yNlNrcGlNcGEzNnM3eEpLTW8tdy1HUnVSV1dIaTB4MDlDSEtUOWJiSkoxdnozZHJnM3BVS0huUEZ6WjNKZUczLWtUQW1xVW1KR1JPalE5RElBeWpDcFdTNXliM0REZXNxUFV0QjItWW5yYw?oc=5",
       "description": "Quintus unveils pilot-scale warm isostatic presses for all-solid-state battery production Charged EVs",
       "pubDate": "Tue, 09 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Cheese Industry Outlook: Trends & Innovation Across Global Markets - Mintel",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjBqMU1WY2dVRGN0SHhhSk1NZ0dvelVPRUh3R3RhWmM5NWhabG5JbzF0amk3TVQ3anh4MEJxMGpabXFFcDluNm5kUE5wQ0hrOGRqVVlLRThiM3ZrZ3VoWEhZa1Btdi1xeWJtenJVWDVqbDBOSE9PSkVTUloxd3cxTlZrRUV0djNQcHVSY29ManM0Ri11a2hLb25Gc2RVWkpkX2Nuck1ZQlJ0ZERuLWd5SDFSRlpRQQ?oc=5",
-      "description": "Cheese Industry Outlook: Trends & Innovation Across Global Markets Mintel",
-      "pubDate": "Fri, 28 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
