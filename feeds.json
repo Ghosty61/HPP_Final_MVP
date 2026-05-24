@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T20:23:51.633552+00:00",
+  "updated": "2026-05-24T22:22:50.952032+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -51,13 +51,6 @@
       "pubDate": "Thu, 21 May 2026 07:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "A salmonella outbreak has prompted a recall of potato chips, popcorn and more. Here's what you should toss. - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObUVubGdFbF9ELXB2ZUNGVlNnOGUxYzF0QV9pUVF6T2FkYmx2Nm01dzFmbmZWR25FZHlVd2FaYW9WU0taQzAxUTNRdzJ3bWxjbERrQllRT19SV1FzOWdQeTBhX05wR1VRMG1lRHVGeU1YZ2FMcUNnSWhkZGtWd0JWR1dGM1A2Rk92YUZSdTI1VGVWYWV6NGJkUXBadHdxNjV5Y0RZY2F5VmxKeEVySW5tSi1CQmN0aTJBb2lTQVZDUm1EaWI1REdrbWhtczdnTk1zaHNmTTNIeHRXc3B4U0ZubFN0YlVubnpSMFVoaw?oc=5",
-      "description": "A salmonella outbreak has prompted a recall of potato chips, popcorn and more. Here's what you should toss. Yahoo",
-      "pubDate": "Wed, 20 May 2026 11:36:06 GMT"
-    },
-    {
       "source": "Quintus Technologies",
       "title": "MTC Powder Solutions expands HIP capacity with Quintus QIH 286 - Metal Additive Manufacturing magazine",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNEdwazZYU0RxekM4LXJ1dlcwNWVvMGJxVEg5R0tBR0ROMl9QY2FvMUpwSFZCS1VfUHZJN1o2VXlMNDZOOTlvUnlSZnp3RlA1WmN5WkpPb1hzaXFrX1dzdUtUQlFORWVHcnBIWTc3LTFRZU5CeDFheDNYVnYtUlV4RFptVGpMNW83cmFlcjNfRzVjdw?oc=5",
@@ -77,6 +70,13 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVBTbElxUUVCeW9FcEZwcU91NW9RZzdidWlIRk9yY2RiWjQyU1pwV3lJY1V2d1pWdHVFX09RYVliTE5kNlpzVE1iM3J1QmVBZmtKd0pLRGstQW03bExOQjVnMlQ2TTNQekJfMFFsM3ZEX0VvaHl3Zkk1SXJRQ25OX1dhS2FqeG5VVEwyVWM3a3g1azJUVlVFMVZ4MHZnSXZiSUdwNlZxQdIBrAFBVV95cUxQcGYxRDRTUjBxUEdoYkpqTWJMcjRGRlB1dzgtZ2hXNFlLVGMtT1N5eWJNQVNVanVCRUdhT01GeC1Oc2ZaeU9NekM5STJXclhmSFpXdVc5SUNuVnNvYnJsVS1uLVhKNURpVUc4VU1NN1VCb3pzcTZiRDI0Smo4QlRLel9yYmd4UzhjQjM5UDkwdTdnYkxjYWRuYndSMU1CcjZjMWdLdEtWU201VVZQ?oc=5",
       "description": "The food recalls, alerts issued over salmonella concerns this month The Hill",
       "pubDate": "Sun, 17 May 2026 19:54:00 GMT"
+    },
+    {
+      "source": "HPP Healthcare & Medical",
+      "title": "World Seam Chemical Indicator - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSFQtdWl6RXIyLW55T0d1X25MRkwtbDBVVVRXa0FscVFfRW9HeDVBeHdPNy1iLVBiT1U0VGUwb3l4Yl9sY2xHa0hCdjcxcUs4U3RRRl9HeEROWkVVTWM1SFZMb1NkMWlJNVVFcUpDaWFBdFNpUzRIWFhnY2x4ZzlrYy16NGNXRlVVZW5ucG1haWJaV1VwR3VRbC1NUk1YMHFlYVR2TXBCbzhzWFhRMjc3eUZQSGZ1N1BPUVFaLTNPRXZ0Yy1MeE0xR1ZnMHVzUi1zcmRLcGY1NG01RXU3MFlqMmQ4eE9KMUJ0?oc=5",
+      "description": "World Seam Chemical Indicator - Market Analysis, Forecast, Size, Trends and Insights IndexBox",
+      "pubDate": "Thu, 14 May 2026 19:31:04 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -121,6 +121,13 @@
       "pubDate": "Mon, 04 May 2026 07:00:00 GMT"
     },
     {
+      "source": "UK Food Industry",
+      "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
+      "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
+      "pubDate": "Fri, 01 May 2026 07:05:09 GMT"
+    },
+    {
       "source": "HPP Healthcare & Medical",
       "title": "Universal Pure Data Breach Exposes Sensitive Personal Information - Claim Depot",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iczUzZHNzYTlQUmF6azdNd184N3RrQi15Z0NQZUVBOGZsWEFDT0U1RkpPRURQY18yM1FrenF2STA4TjFyMzIzc0tUSVJWN1dJMHN1R3ZuMDYyZWhyRjJrSlVVSi1fVFoxamc?oc=5",
@@ -140,13 +147,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRWdEOVpWZm03VUs1cHlDQ0hJMmtsMzlWMVBQOUdvS0tzM2xxa0M1RkE1Z0MtRHkxNkNBRWt1MDkwa0FkUGs0Q1NGZVVtSllnQzV1SnFnck9UZHppaXZiUjlCS1FzMVhqWU9CRC0weUFWeHR0RGluLXFEeHBnS09lNHo3cGxFUHFsRld6MGtLX0g2MGExNy1pZ24yZ0FJdw?oc=5",
       "description": "Soup Market Outlook: Convenience Food Demand and Growth Opportunities vocal.media",
       "pubDate": "Mon, 20 Apr 2026 10:21:47 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Europe Frozen Desserts Market Size, Share & Trends, 2034 - Market Data Forecast",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDBGWGxxZC1pQmY1b2pjZlBxWFFoaFpIUE9nZENpNW9fM1VuYlNGR2VudU1jcnVrVGs3S2VZbjJOSWFVVFBhSU1GMk9YNVZsSFZfMEVnb2I0bnlUckIxT1hpMGFoQnRmRjNydG9QZnBZX2IyWHk5QUpKQjA1Tmx3TXZtLV8?oc=5",
-      "description": "Europe Frozen Desserts Market Size, Share & Trends, 2034 Market Data Forecast",
-      "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
@@ -178,6 +178,13 @@
     },
     {
       "source": "Salmonella Outbreaks",
+      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
+      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
+      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
       "title": "Salmonella Outbreak Linked to Moringa Leaf Powder - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
       "description": "Salmonella Outbreak Linked to Moringa Leaf Powder Centers for Disease Control and Prevention | CDC (.gov)",
@@ -191,18 +198,11 @@
       "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "Top 10 Food Technology Trends Reshaping the USD Trillion Industry in 2026 - StartUs Insights",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xSHNGeEkyQmNFT2VDbU1Edldsam9vcDR1VUlNYmg5NGs3a2s0NTBaYmRiMzlpX2VmRktIdHBSdFNCTGVhbWFjMGkyeGEwVWxiYng0VTNhQU5aaDMyQWgtMUN6TUQwVzBRcWJFajI2dUg3X2FTcllTNUNKdlphZw?oc=5",
-      "description": "Top 10 Food Technology Trends Reshaping the USD Trillion Industry in 2026 StartUs Insights",
-      "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT"
-    },
-    {
       "source": "HPP Dairy",
-      "title": "Comparative inactivation of Listeria monocytogenes in human and bovine milk treated with high-pressure processing and UV-C treatment and potential growth during refrigerated shelf-life - Frontiers",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS09LbUp4bVhxUUdTQjd4THc5LWVTbWFlc3pDTzh0bkxJR0dUX002UXVPbTduQ2xVY0RRQXpjOGxtcGV6QzNMeUlyZGF3OXZ4RzFwZ3BqejN4MmJ1Yl9mRS1LWTlWUDhNSzJxQWE2RWFOZy00ek9BdTJPOXUxUkNBWXowVGtuQy1ONEJzdlpsNEV3cm5o?oc=5",
-      "description": "Comparative inactivation of Listeria monocytogenes in human and bovine milk treated with high-pressure processing and UV-C treatment and potential growth during refrigerated shelf-life Frontiers",
-      "pubDate": "Mon, 02 Mar 2026 20:39:25 GMT"
+      "title": "Impact of processing techniques on donor human milk: a multi-omics and bioinformatics scoping review - Frontiers",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNW1tRzNnV0tmMUNMdHJuQkdTYThyV2I1RkROYTFkWXNjMTVCRDNzX1JLbG9MWGF5N204dzB1MVRweVY2MUZJM2l3TVB2R0RXYVJkYVZ1bVdDUEtVV0VxX190eEtzY1FzQ2ZCWGhNN1BCclZMMG1xZVpTWjJiT05KTmhwSFpkbnE1ZDFBZFhCYw?oc=5",
+      "description": "Impact of processing techniques on donor human milk: a multi-omics and bioinformatics scoping review Frontiers",
+      "pubDate": "Thu, 26 Feb 2026 12:53:13 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -289,18 +289,18 @@
       "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "Energy efficiency innovations in UK industrial sector could save 4 million tonnes of CO₂ over 10 years - Carbon Trust",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRWpIWF9sMVhOY1dZU3VWY2RKWmM3LUlsbGR4bjVqYTBlRlg2U05EUVZWVi1MSV9ZNkJVQVhVOTFOcndZM0Jua3FPaWxDNF9yZmNrUUdWZERlZFhINEhTaGxyVldTbHRrMjZESkxwNGVrMFZQMHdidEpuREF0N3B0WlVnZFdaUEswZW8tYUdEcXQzUzVfcGlVMUlhdnl0dkw3cGN0UmdaTnZULXVhRkNCajFobGlNX1I0djNBNmFCaWpUcXlBamVDZjRoYTVSWl9VRFVFSmhPeTFndnNxa2ZfRkF2dWNCV1M3?oc=5",
-      "description": "Energy efficiency innovations in UK industrial sector could save 4 million tonnes of CO₂ over 10 years Carbon Trust",
-      "pubDate": "Wed, 10 Dec 2025 08:00:00 GMT"
-    },
-    {
       "source": "Quintus Technologies",
       "title": "Quintus unveils pilot-scale warm isostatic presses for all-solid-state battery production - Charged EVs",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWYtdVQwYl80R1Ytem9hTzNxNl9sMHFaVVlXa1h3aG9CakY5SnZEZ3NibThISEI0WmNYYXg5TG1wYzd6c0Z0MWlLbUk4UGxqQndKQW8yNlNrcGlNcGEzNnM3eEpLTW8tdy1HUnVSV1dIaTB4MDlDSEtUOWJiSkoxdnozZHJnM3BVS0huUEZ6WjNKZUczLWtUQW1xVW1KR1JPalE5RElBeWpDcFdTNXliM0REZXNxUFV0QjItWW5yYw?oc=5",
       "description": "Quintus unveils pilot-scale warm isostatic presses for all-solid-state battery production Charged EVs",
       "pubDate": "Tue, 09 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Ingredients under pressure: What HFSS means for NPD - Food Manufacture",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVZrV3oyajAyMGNRaXBYbVBhYWU0NXVqU2JQME5YWWxCUzlTN3dzZHV6ZVVWU1ZibEc3WUdiMzlXTWFaNms2Y0VDODhiT3hrRmdsdi1BYW1hcVBNNTVscFRKd1Zwc3hEOURCeTJjNUJmZzZlZURKc3JnOFd3dlBvbl9fUUlMdlM1Smg2TkFsZkZVWEJjVVRCVjFJRTVMUHNhWTNiU2VwX25WYUlxdi15YU0wbGM?oc=5",
+      "description": "Ingredients under pressure: What HFSS means for NPD Food Manufacture",
+      "pubDate": "Wed, 26 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
