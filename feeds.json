@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T07:11:52.179821+00:00",
+  "updated": "2026-05-24T08:56:03.076398+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -44,13 +44,6 @@
       "pubDate": "Thu, 21 May 2026 16:54:54 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Kroger Homestyle Cheese Garlic Croutons Recalled For Salmonella - Food Poisoning Bulletin",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb2lqblJ3Q3A0bVFjalgxb1BtZDdoWG1KWmxhR2x4ZTh6dEhYYl96QTRkYjVya2tnVDYxMmlfOXlUSXFuVzRqTEdNZGFyd1RzSENKOUViOUNVZ1BCZ0UzWDdpQVF0aDFsVkd5anZpSjd5WUJIZXRjdmY0SE96QmM2bnZUbEhuZU1UeHVsWGlEOERYS3hlQl9RTzJtNVFrR0Nxdk8xVHV3?oc=5",
-      "description": "Kroger Homestyle Cheese Garlic Croutons Recalled For Salmonella Food Poisoning Bulletin",
-      "pubDate": "Wed, 20 May 2026 12:28:27 GMT"
-    },
-    {
       "source": "Quintus Technologies",
       "title": "MTC Powder Solutions expands HIP capacity with Quintus QIH 286 - Metal Additive Manufacturing magazine",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNEdwazZYU0RxekM4LXJ1dlcwNWVvMGJxVEg5R0tBR0ROMl9QY2FvMUpwSFZCS1VfUHZJN1o2VXlMNDZOOTlvUnlSZnp3RlA1WmN5WkpPb1hzaXFrX1dzdUtUQlFORWVHcnBIWTc3LTFRZU5CeDFheDNYVnYtUlV4RFptVGpMNW83cmFlcjNfRzVjdw?oc=5",
@@ -65,6 +58,13 @@
       "pubDate": "Tue, 19 May 2026 10:58:35 GMT"
     },
     {
+      "source": "HPP Juices & Beverages",
+      "title": "Drinking THIS juice lowers blood pressure, even in older adults - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQZy1wSGlaTEx5RkpWZENJZG5TQ29ZT1ZteFNCaFFjYU5OS3BTQnNpQWpNQ1hHWVR1S0dVSHRVZG43RXk4d3g4RmhrZTBGVGFCSzBaYUMteU4wTnJZd1BkTFZUUWV5UGpqS1lSc0E2UVJycDV1MGVEY2thUW8yaGN6Rm51NG9QczVQb01CSE9VeFVsLVBtMU1CYlhxUjdxNVFvLWhWRUxEQThaZnhJR0RKLWVCZ3ppN1ZLSVRJcVhSaVVWQkhMOU1qZmVwdTczUEVScTVlUklpeXlWQWNXc19xM1JaZEhBN1FVSFJVNkRtczNhbWpuR2YxT0wyT09Mb19TZ01JVWF2MGZpY240YTgxOWVZQWRzUk03ZEZvNVMzNlZQWmhUdHMyX2NINlB0QkVQQzYzMlJkNkd1ckVpLU5BdWJNYjd5YW9ON1E?oc=5",
+      "description": "Drinking THIS juice lowers blood pressure, even in older adults MSN",
+      "pubDate": "Mon, 18 May 2026 12:16:56 GMT"
+    },
+    {
       "source": "Salmonella Outbreaks",
       "title": "The food recalls, alerts issued over salmonella concerns this month - The Hill",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVBTbElxUUVCeW9FcEZwcU91NW9RZzdidWlIRk9yY2RiWjQyU1pwV3lJY1V2d1pWdHVFX09RYVliTE5kNlpzVE1iM3J1QmVBZmtKd0pLRGstQW03bExOQjVnMlQ2TTNQekJfMFFsM3ZEX0VvaHl3Zkk1SXJRQ25OX1dhS2FqeG5VVEwyVWM3a3g1azJUVlVFMVZ4MHZnSXZiSUdwNlZxQdIBrAFBVV95cUxQcGYxRDRTUjBxUEdoYkpqTWJMcjRGRlB1dzgtZ2hXNFlLVGMtT1N5eWJNQVNVanVCRUdhT01GeC1Oc2ZaeU9NekM5STJXclhmSFpXdVc5SUNuVnNvYnJsVS1uLVhKNURpVUc4VU1NN1VCb3pzcTZiRDI0Smo4QlRLel9yYmd4UzhjQjM5UDkwdTdnYkxjYWRuYndSMU1CcjZjMWdLdEtWU201VVZQ?oc=5",
@@ -77,13 +77,6 @@
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTVFPakRRZlRhZG50MVZBdmVxdVZhVzlJRC1LNlBFOS1MNVI0SUhlT2FrUloxRkN5Qi1Bcm4yS0hFLUtDdnY5RC12dUY0TWoyQWh1eUlnSU5ZNmJMNmhSQlkyeU0yeHpGVDNZZE12MlI4TjZvNzZXR2RFN0htMFZlSkxFQmxqYnBEUG1VdUNpT3VMQ1pwUG1jel95SVltMkpVOW1wZDUwWTBkb2xZYmp5dlF5V3ZnV00tTzRubW9yTlhENDVpT1VCTW1rNDFhZURtR0Z5ZlBrOWNVenAxSFlyMmhGN3FkLVAzeWNCWVZYVzBKc2VaWTllemU3NA?oc=5",
       "description": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? PetfoodIndustry",
       "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "Salmonella alerts issued for 13 chicken products sold in Irish supermarkets - Belfast Live",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY2t6MHBYWHhtVmhlbUphNERtMUVHTVUtMktVbjdXbVZWTEtXVmtxNTdzNFk1TTA1UERXajItWXlYTFlkWjNCYzItN3ZtUzRUVlM4eFBrZmk4VC1rS1VNV3dkeV9KeS1BckVwQThvNFRQMmJ0aGY4T0p3bmNTd3hCOXJ4ZHE2UdIBiwFBVV95cUxOUW5BQU5DVGV4OEZrTGhJX1pKdEpOenQyX3FKR2VOMVpZRTVPbi14Tk1fb2VNVGFlY3pTeEp2TDN2QnBmZ2QwaDFFZnd2STFtNlRHbUlpalFpN0QxMUo0Y1A4dkdMWG9yb2drTjhmYlh3OWI2RFZfVlF1YVI5bDVHYTU2VEI4WjdVWjNV?oc=5",
-      "description": "Salmonella alerts issued for 13 chicken products sold in Irish supermarkets Belfast Live",
-      "pubDate": "Wed, 13 May 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -142,13 +135,6 @@
       "pubDate": "Mon, 20 Apr 2026 10:21:47 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "Europe waterjet cutting machinery market Size, Share, 2034 - Market Data Forecast",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdjRmbllyM1Y2NHJRMk9GRFgyMWstbFNFMFRhX0xOQUFRZWJRTzh1MEZiTHFqSzhCbWJZVUlGUDZ6RTQtNDBZZ2VqSWhDSkFzSHU4YmtrU1ppZkk0WkVyOUZ3cWlMZWpuakE5TjJqUjJuQTdpczR0RGkybEowNTNYQkFXVl9RTktrN2Fqa3ZtM2d3U2No?oc=5",
-      "description": "Europe waterjet cutting machinery market Size, Share, 2034 Market Data Forecast",
-      "pubDate": "Mon, 20 Apr 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Seafood",
       "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
@@ -163,6 +149,13 @@
       "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT"
     },
     {
+      "source": "Food Safety UK & EU",
+      "title": "Food hygiene experts issue warning following recall and salmonella outbreak - Dorset Echo",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeTZEZlE2STNybWJja0xxZWZzcV9HVFl1UXlyZjkwT2YzWDZiOEt2bFAzNVJhZUxVRXlOZ0dYUFlwajNvaDhwLXVPNmJOc3lCSVEzYzIzSFoxY1FMeTNyalViSU1XYU1aVTNBd24yeTVTUWkwRW5aenNrZmMySjVxVmFJcENCczFSTHkwOHEtcEl6a2gyYnZz?oc=5",
+      "description": "Food hygiene experts issue warning following recall and salmonella outbreak Dorset Echo",
+      "pubDate": "Sat, 28 Mar 2026 07:00:00 GMT"
+    },
+    {
       "source": "Hiperbaric",
       "title": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria - Fuel Cells Works",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMWpFYUZveHVvay1yVVNMNWZxN0NDcnhEdnBvVDdueFBuZWhRVkticVM5andBeGtkc1ZBYzlBcmFGY0xHWGIzaF9UZVV5NUxsNjZ1ZkhHRV9TSk9fbzd0R1E2YXJCM2dMMWMtZmp5ZWxyb1FWRTRKWkV1WDN3WXlZeEg4TmwzUnc0ZDcxeWtWWDZuZ3NEOFJyZS1KNnJqdjFpOTZjVFlCNU8wcWpKdjNYM18yeDgzUUl4Qjl2MUVHUW8xc0Jzd2ZNZWxsNkwtYzExN04xTXktNUxaV05kcFdfMjVqTDNGZEhkaEFEMzJBaWFoam9zZjJ4LQ?oc=5",
@@ -175,6 +168,13 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXZMXzNQYVBNSGZZXzRBWGF4UnBjVjdSeVoyVE9xN2VYMUwzNGZoTTFYVUJ1S1FCVUNiTkt3WWhSX01wd3ZrMXNxbFlYMGs4aVBjeV9iMVBiX1JDQm1YU2hNbTZHemRnWGoxdzF4ZG1MWWZUN0k3aVhKVEtIWU1ZZUlrazRhY2h1VjN6ZVR0YjJXeXZPVjVuNngwUnRVemVOUUJud1dnR01wTHR0emxKc29QQjlWZw?oc=5",
       "description": "Greenhead Lobster continuing to refine its premium lobster products SeafoodSource",
       "pubDate": "Thu, 19 Mar 2026 17:56:16 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
+      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
+      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -203,13 +203,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS09LbUp4bVhxUUdTQjd4THc5LWVTbWFlc3pDTzh0bkxJR0dUX002UXVPbTduQ2xVY0RRQXpjOGxtcGV6QzNMeUlyZGF3OXZ4RzFwZ3BqejN4MmJ1Yl9mRS1LWTlWUDhNSzJxQWE2RWFOZy00ek9BdTJPOXUxUkNBWXowVGtuQy1ONEJzdlpsNEV3cm5o?oc=5",
       "description": "Comparative inactivation of Listeria monocytogenes in human and bovine milk treated with high-pressure processing and UV-C treatment and potential growth during refrigerated shelf-life Frontiers",
       "pubDate": "Mon, 02 Mar 2026 20:39:25 GMT"
-    },
-    {
-      "source": "HPP Dairy",
-      "title": "Impact of processing techniques on donor human milk: a multi-omics and bioinformatics scoping review - Frontiers",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNW1tRzNnV0tmMUNMdHJuQkdTYThyV2I1RkROYTFkWXNjMTVCRDNzX1JLbG9MWGF5N204dzB1MVRweVY2MUZJM2l3TVB2R0RXYVJkYVZ1bVdDUEtVV0VxX190eEtzY1FzQ2ZCWGhNN1BCclZMMG1xZVpTWjJiT05KTmhwSFpkbnE1ZDFBZFhCYw?oc=5",
-      "description": "Impact of processing techniques on donor human milk: a multi-omics and bioinformatics scoping review Frontiers",
-      "pubDate": "Thu, 26 Feb 2026 12:53:13 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -289,6 +282,13 @@
       "pubDate": "Tue, 23 Dec 2025 08:00:00 GMT"
     },
     {
+      "source": "HPP Soups & Meals",
+      "title": "6 Rules for Canning You Should Never, Ever Break - Better Homes & Gardens",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFZNbW0wQ05lcHdEZEpxSlBHYWZtN3k3Z3hOZjRhZ2ZfX0owR0tpenhMY3RCQVdON2xtYS0xUWlJaERUa1Z6cmtQbFo2UVN6NEVReEZQUk1EQmppTWFBX1dTQzBqaS0yb1BaSndrVnZBY3dUTUxWUG02dW1jdnA3QWRudGRKSVpwdG9GTmNtUFplMWZGRGp2d2VCYlFfU00?oc=5",
+      "description": "6 Rules for Canning You Should Never, Ever Break Better Homes & Gardens",
+      "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT"
+    },
+    {
       "source": "UK Food Industry",
       "title": "Energy efficiency innovations in UK industrial sector could save 4 million tonnes of CO₂ over 10 years - Carbon Trust",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRWpIWF9sMVhOY1dZU3VWY2RKWmM3LUlsbGR4bjVqYTBlRlg2U05EUVZWVi1MSV9ZNkJVQVhVOTFOcndZM0Jua3FPaWxDNF9yZmNrUUdWZERlZFhINEhTaGxyVldTbHRrMjZESkxwNGVrMFZQMHdidEpuREF0N3B0WlVnZFdaUEswZW8tYUdEcXQzUzVfcGlVMUlhdnl0dkw3cGN0UmdaTnZULXVhRkNCajFobGlNX1I0djNBNmFCaWpUcXlBamVDZjRoYTVSWl9VRFVFSmhPeTFndnNxa2ZfRkF2dWNCV1M3?oc=5",
@@ -331,13 +331,6 @@
       "pubDate": "Wed, 12 Nov 2025 08:00:00 GMT"
     },
     {
-      "source": "HPP Soups & Meals",
-      "title": "I Make the Best Chicken Soup Ever—Here's My Secret - Allrecipes",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtdnJxTW9PYk9kWHVUVFFYUktkYm1MWWluWnUxdGVjYncyTnFVaEk2SXJEcU1RTW1hWXVBTS1rT3dyejB4SGlPeHNCaE5jbkNvS2ViVW81ZlRWSWlfTE8zV0NZbEJldmhoZWZfNnRfQ2hhNHZKSXlsUVJn?oc=5",
-      "description": "I Make the Best Chicken Soup Ever—Here's My Secret Allrecipes",
-      "pubDate": "Sun, 09 Nov 2025 08:00:00 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "6 Dead in Multistate Listeria Outbreak Linked to Recalled Pasta Meals. Which Products Are Affected? - TODAY.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2hwS1d0SE1MMlE3MlE1Q1ZJUWVGN3c3UWoxdnFrSE1kd1VOVU9ZREFBS1NOeEdheUlyaFhGa3dWVlpsek05Y1ZoeFMzdXVKZWFPQldXcUFHVWZUa3BjOWdzLTE3VXFQZXBESDVvcHJtWnBZS1JRUHN6Q3BQZ2lEZDBBNmtwVXZiRXc?oc=5",
@@ -349,6 +342,13 @@
       "title": "Hiperbaric introduces HPP tolling service integration to Sunrise Logistics' Pennsylvania cold chain operation - The National Provisioner",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd05nOUt1OHh4UzVxeE5qYXhWaEZCd25xdmFxaXNfMW1Jbm1aYkpYVmx2OG02MFE4dkwzeHdDaklzS2NtcXpkVjBPVm5RTmdnX1Nxa2cxRGROTUIzV0ZjdWRRaDAyQndLcU5XX0tqNFF6Zk5hUk5yZHNOcU40bzRRSGoxTkthYi1HUFo3aFNCRnpBYmQ0V0lBdXo2SEx1VU5SenplTkdHTjV5ZUd6b1I5QlltZ1lhWVFhOGtzTWFlUFNueHl4akhWcmx6MENxc0huOU9Ga2NwY1hSSnR3Y1VHdDBkVUQyVmprYkZsMWJ2TQ?oc=5",
       "description": "Hiperbaric introduces HPP tolling service integration to Sunrise Logistics' Pennsylvania cold chain operation The National Provisioner",
+      "pubDate": "Tue, 04 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Nationwide Listeria outbreak: 6 dead and 27 hospitalized, dozens of products recalled - WRAL",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1NLbnJCRjM4WHZIME1oWTJCbEw0OXEtT2U2V1dnYWxaVEN2NGtlZ0kzaEx6V0R0YlBSLWZZXzRQWjBERVZOT2NXVldvY0VFaEEyZnNUejEtdDltdnBQWlNnNjlNU1ZhWl9SbkpxUXdody1HSkMtbkk2V0hYV3oyZ1lLY1RiS01BeVo0anhnZ3Y?oc=5",
+      "description": "Nationwide Listeria outbreak: 6 dead and 27 hospitalized, dozens of products recalled WRAL",
       "pubDate": "Tue, 04 Nov 2025 08:00:00 GMT"
     }
   ]
