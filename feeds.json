@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T16:25:05.360359+00:00",
+  "updated": "2026-05-24T18:26:38.199549+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -121,13 +121,6 @@
       "pubDate": "Mon, 04 May 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
-      "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
-      "pubDate": "Fri, 01 May 2026 07:05:09 GMT"
-    },
-    {
       "source": "HPP Healthcare & Medical",
       "title": "Universal Pure Data Breach Exposes Sensitive Personal Information - Claim Depot",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iczUzZHNzYTlQUmF6azdNd184N3RrQi15Z0NQZUVBOGZsWEFDT0U1RkpPRURQY18yM1FrenF2STA4TjFyMzIzc0tUSVJWN1dJMHN1R3ZuMDYyZWhyRjJrSlVVSi1fVFoxamc?oc=5",
@@ -147,6 +140,13 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRWdEOVpWZm03VUs1cHlDQ0hJMmtsMzlWMVBQOUdvS0tzM2xxa0M1RkE1Z0MtRHkxNkNBRWt1MDkwa0FkUGs0Q1NGZVVtSllnQzV1SnFnck9UZHppaXZiUjlCS1FzMVhqWU9CRC0weUFWeHR0RGluLXFEeHBnS09lNHo3cGxFUHFsRld6MGtLX0g2MGExNy1pZ24yZ0FJdw?oc=5",
       "description": "Soup Market Outlook: Convenience Food Demand and Growth Opportunities vocal.media",
       "pubDate": "Mon, 20 Apr 2026 10:21:47 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Europe Frozen Desserts Market Size, Share & Trends, 2034 - Market Data Forecast",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDBGWGxxZC1pQmY1b2pjZlBxWFFoaFpIUE9nZENpNW9fM1VuYlNGR2VudU1jcnVrVGs3S2VZbjJOSWFVVFBhSU1GMk9YNVZsSFZfMEVnb2I0bnlUckIxT1hpMGFoQnRmRjNydG9QZnBZX2IyWHk5QUpKQjA1Tmx3TXZtLV8?oc=5",
+      "description": "Europe Frozen Desserts Market Size, Share & Trends, 2034 Market Data Forecast",
+      "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
@@ -261,13 +261,6 @@
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "Techarena 2026 Announces TOP46 Finalists - Techarenan News",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN2xPd3RzZTBLY05nNEJDWVRMUV9KcjFiY0JZX0VKMTVKUUlNVmRsckJfdTJzbXBSOHlQdDlhdDBVSkpCYlNyWE8xVDZRZlJ2cnJ6dGxRT1JBQVBWUXFnYmxMQkV2Y0VWdzRFZFZfcm0yTGEyMDZDS3RIOUR3S0RRRGNWQzU2NWc?oc=5",
-      "description": "Techarena 2026 Announces TOP46 Finalists Techarenan News",
-      "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
-    },
-    {
       "source": "UK Food Industry",
       "title": "Meet the food innovation centres leading the way in sustainable, tech-driven development - FoodBev Media",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVUY204LVk3LUY2MXN6QXVRcnJKb0hKbFBRbHNpeXAxSlhzN3c1WW90NGY1UzNCU1cwUDNmbFd6LTRTZWpYZ0lpTTdJRnRQT3ptQ3hneVdYSnRWNjdYRGNsTkV0S21Jb1M5Sk83T21aeE1VVWNSZWkzUEI4b0lKTWR1VTN1ZjAyYVl3eXFRX014ZzlJUnRRM2J3MEJaYVJHTzNWZzNoTVlNbVdsS2lydDBVX213Q0E?oc=5",
@@ -322,6 +315,13 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzJuTUJEMjVscTBHVnRDWjdnR2hTM0dDWTk5ZkkwV2lXdzJwR0N0dmZaeHJ0OEhjNnRBbGNSUElDcHM1T3Y3emNBeGJrZDltMXJ3S0VydloyUXM1WWVxNzhKU1NSZGFEeUtKZ3ZtY2hLR3BSV2thNFNDMG13Tll2eTZSOEZ2aHZSMm51Q3doSGJtcHlpWlUwcm5OYU1sZjNkLXBhdzZoWDYzeFJDRzRvdWs2YjNGZnkzaXM5OE1DMDg0VUg3?oc=5",
       "description": "High-Pressure Processing reverses the dark color or dark-cutting beef to bright red MEAT+POULTRY",
       "pubDate": "Fri, 21 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Multi-million pound backing for cutting edge projects by UK scientists and innovators - GOV.UK",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOHBkdFNzZkNVSVhGa1NaQk1paF9qV0M4Q1J4dEpqUnFRWnJ0NmhKcUVpeFlyUElRNkEtYWFxekNBWjZoYnE1c2lUb0VtSjBieklqVldoMmVjYWNfRk1VQ0ZOaGZSTUEzcjlrVWNSTTkyYzVENHZFVHFXbnFJelZXdkx1TW9hMEVZd3owQ1pYaEtrVlliQUVZbjQzWm12d0M2cEszVkNRMVUxV2xDb1dXcFdQSkttYzVPdEltOA?oc=5",
+      "description": "Multi-million pound backing for cutting edge projects by UK scientists and innovators GOV.UK",
+      "pubDate": "Tue, 18 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "Hiperbaric EU",
