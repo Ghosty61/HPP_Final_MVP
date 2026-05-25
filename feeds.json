@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T09:26:27.769037+00:00",
+  "updated": "2026-05-25T11:26:19.888094+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -114,13 +114,6 @@
       "pubDate": "Mon, 04 May 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
-      "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
-      "pubDate": "Fri, 01 May 2026 07:05:09 GMT"
-    },
-    {
       "source": "HPP Healthcare & Medical",
       "title": "Universal Pure Data Breach Exposes Sensitive Personal Information - Claim Depot",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iczUzZHNzYTlQUmF6azdNd184N3RrQi15Z0NQZUVBOGZsWEFDT0U1RkpPRURQY18yM1FrenF2STA4TjFyMzIzc0tUSVJWN1dJMHN1R3ZuMDYyZWhyRjJrSlVVSi1fVFoxamc?oc=5",
@@ -170,6 +163,13 @@
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT"
     },
     {
+      "source": "HPP Seafood",
+      "title": "Greenhead Lobster continuing to refine its premium lobster products - SeafoodSource",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXZMXzNQYVBNSGZZXzRBWGF4UnBjVjdSeVoyVE9xN2VYMUwzNGZoTTFYVUJ1S1FCVUNiTkt3WWhSX01wd3ZrMXNxbFlYMGs4aVBjeV9iMVBiX1JDQm1YU2hNbTZHemRnWGoxdzF4ZG1MWWZUN0k3aVhKVEtIWU1ZZUlrazRhY2h1VjN6ZVR0YjJXeXZPVjVuNngwUnRVemVOUUJud1dnR01wTHR0emxKc29QQjlWZw?oc=5",
+      "description": "Greenhead Lobster continuing to refine its premium lobster products SeafoodSource",
+      "pubDate": "Thu, 19 Mar 2026 17:56:16 GMT"
+    },
+    {
       "source": "Salmonella Outbreaks",
       "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
@@ -182,6 +182,20 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
       "description": "Salmonella Outbreak Linked to Moringa Leaf Powder Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Seafood",
+      "title": "Oyster Processor comes to Dock+ - NanaimoNewsNOW",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OS1NNQWRKNUJqUW81ak16UmhZb3N6QzZtRlZiVk1FNlhTblN3VFpzdGNDaFBtTkI2X2U4TFEwZm1PVGFWN0ZXekl0azBZaEUzYjBBcG5xZWFyMGw4TC1GNlBaT2ZfRkNyT1huSjBqUWUyd0tlZ0NzcA?oc=5",
+      "description": "Oyster Processor comes to Dock+ NanaimoNewsNOW",
+      "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Top 10 Food Technology Trends Reshaping the USD Trillion Industry in 2026 - StartUs Insights",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xSHNGeEkyQmNFT2VDbU1Edldsam9vcDR1VUlNYmg5NGs3a2s0NTBaYmRiMzlpX2VmRktIdHBSdFNCTGVhbWFjMGkyeGEwVWxiYng0VTNhQU5aaDMyQWgtMUN6TUQwVzBRcWJFajI2dUg3X2FTcllTNUNKdlphZw?oc=5",
+      "description": "Top 10 Food Technology Trends Reshaping the USD Trillion Industry in 2026 StartUs Insights",
+      "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Dairy",
@@ -198,17 +212,17 @@
       "pubDate": "Wed, 25 Feb 2026 03:39:54 GMT"
     },
     {
-      "source": "Hiperbaric",
-      "title": "Oklahoma strengthens food processing infrastructure with $7M university investment - The National Provisioner",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR1dSVXFKNTFkUDdvMnlrbXlDTng5aHdYZ1owcmpUWFdLMk90dDRuX3hhejlYWjZjMDdHZUxLWFpWNklEUE9nZlUtNU12U2lPSjJsamVNdmpHekFMV1VFNU11cm9BWTJHb1NzTUJ5LVpNWXN6U3ZfUzJ2M3Bsamg3ZVpkY0Nya3c5X28wclhhUlZFV0NJNVVOTU1TZlRFX2tRcGFxV0xBNVpxQk1DaG5VdHF0RFFialYyd0MwOFJiQ01qSmVOSEhHTl9Eaw?oc=5",
-      "description": "Oklahoma strengthens food processing infrastructure with $7M university investment The National Provisioner",
-      "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "HPP Equipment & Machines",
       "title": "The pros of processing automation - Beverage Industry",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT0wwejZtUlBTU3NMOTZ4RUpTSWVUUzJId0N0MmJPVloxZmYycWlyN1czUW1QblNaWlA5UlJrd2ZuenAyVHpDOUxUVmQ0eGRSYmlkSmpqXzdKWkxIZ0RtNS12WkstZFdWTVFUN3VYNkF2U2g2dXRudWVTVGJRMGlOYU93?oc=5",
       "description": "The pros of processing automation Beverage Industry",
+      "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Innovation & Research",
+      "title": "Oklahoma strengthens food processing infrastructure with $7M university investment - The National Provisioner",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR1dSVXFKNTFkUDdvMnlrbXlDTng5aHdYZ1owcmpUWFdLMk90dDRuX3hhejlYWjZjMDdHZUxLWFpWNklEUE9nZlUtNU12U2lPSjJsamVNdmpHekFMV1VFNU11cm9BWTJHb1NzTUJ5LVpNWXN6U3ZfUzJ2M3Bsamg3ZVpkY0Nya3c5X28wclhhUlZFV0NJNVVOTU1TZlRFX2tRcGFxV0xBNVpxQk1DaG5VdHF0RFFialYyd0MwOFJiQ01qSmVOSEhHTl9Eaw?oc=5",
+      "description": "Oklahoma strengthens food processing infrastructure with $7M university investment The National Provisioner",
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     },
     {
@@ -331,25 +345,11 @@
       "pubDate": "Wed, 05 Nov 2025 08:00:00 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "Nationwide Listeria outbreak: 6 dead and 27 hospitalized, dozens of products recalled - WRAL",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1NLbnJCRjM4WHZIME1oWTJCbEw0OXEtT2U2V1dnYWxaVEN2NGtlZ0kzaEx6V0R0YlBSLWZZXzRQWjBERVZOT2NXVldvY0VFaEEyZnNUejEtdDltdnBQWlNnNjlNU1ZhWl9SbkpxUXdody1HSkMtbkk2V0hYV3oyZ1lLY1RiS01BeVo0anhnZ3Y?oc=5",
-      "description": "Nationwide Listeria outbreak: 6 dead and 27 hospitalized, dozens of products recalled WRAL",
+      "source": "Hiperbaric",
+      "title": "Hiperbaric introduces HPP tolling service integration to Sunrise Logistics' Pennsylvania cold chain operation - The National Provisioner",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd05nOUt1OHh4UzVxeE5qYXhWaEZCd25xdmFxaXNfMW1Jbm1aYkpYVmx2OG02MFE4dkwzeHdDaklzS2NtcXpkVjBPVm5RTmdnX1Nxa2cxRGROTUIzV0ZjdWRRaDAyQndLcU5XX0tqNFF6Zk5hUk5yZHNOcU40bzRRSGoxTkthYi1HUFo3aFNCRnpBYmQ0V0lBdXo2SEx1VU5SenplTkdHTjV5ZUd6b1I5QlltZ1lhWVFhOGtzTWFlUFNueHl4akhWcmx6MENxc0huOU9Ga2NwY1hSSnR3Y1VHdDBkVUQyVmprYkZsMWJ2TQ?oc=5",
+      "description": "Hiperbaric introduces HPP tolling service integration to Sunrise Logistics' Pennsylvania cold chain operation The National Provisioner",
       "pubDate": "Tue, 04 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Cosmetics & Beauty",
-      "title": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdFZlWGhqdzd2Qk81Q1kyN2tXc2M1VGVMdDBrM19kNkt6S3pZbWkwLVR6WUFYcUVLVTRtdEVsR2M2TzQzN3FXOVpGOUxlejdTd2VqdUhyekZuSnVCU0xXY0NSZklEcFphM3hwSS1PY1duUkJBeFo4dzUzWHRqX2YzVzB4a2tTRmZwS05SRk5jdlduVWlPUTRzVXN0em9INjhHX3hTaUs4dVo4RjRJMlhfM2RTaHJncHNUZUpTV3FNV1QzMWxGVkdfQmcxcjI1UWl3UW42djBsa3dUNklQdE83TmxkbnNQcnQwbUstTTh2SnRPb1hBZ3ZqTV9LNURDMFV1eklubElBVzhQM0lqM1Zv?oc=5",
-      "description": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership PR Newswire",
-      "pubDate": "Mon, 03 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Dairy",
-      "title": "Farm to factory: These are the technologies transforming modern dairy manufacturing - FoodBev Media",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUXY1V2ZWc3l5MlVWRFZFdnozSHpNUXJPVG1rdVp1ME9jdGJtTnJTSktTMEhEdnA0YzB5VzdDTUpTQzFKM3c4bnp1aDUwcGpTeDJPMGpOZWMwdnIxU3RxWTRnaU5mOXhYelA1R0V1X1ljY1NjWllwVkZyUTZMX29FeU8zR2ZXc0Rxempna0JGYm01VHplWDJuZ0cyYV9Tb3pVeG9EcGlzY2l1cFFQbnJBdg?oc=5",
-      "description": "Farm to factory: These are the technologies transforming modern dairy manufacturing FoodBev Media",
-      "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT"
     }
   ]
 }
