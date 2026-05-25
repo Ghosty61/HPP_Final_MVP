@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T18:38:38.882385+00:00",
+  "updated": "2026-05-25T20:33:47.649323+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -49,13 +49,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnZEdm8tLUMxdlpRajZ4bGZ1eE5nRElJdGtTVDB5R0hMcWxoV2NIV1BvSkNsY3BUaGl6TzV2cXZSdEZWV0JOenZseW5icmxadFBZcERkOGpMb3BjaGJrN241Q1VCeWw1TldCMjBscEtfTzkwM2tsTTJyQlI0VkFaVWRseVZObmoycnRFaXJkQlY?oc=5",
       "description": "The latest product recalls and safety alerts from Which? which.co.uk",
       "pubDate": "Thu, 21 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Kroger Homestyle Cheese Garlic Croutons Recalled For Salmonella - Food Poisoning Bulletin",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb2lqblJ3Q3A0bVFjalgxb1BtZDdoWG1KWmxhR2x4ZTh6dEhYYl96QTRkYjVya2tnVDYxMmlfOXlUSXFuVzRqTEdNZGFyd1RzSENKOUViOUNVZ1BCZ0UzWDdpQVF0aDFsVkd5anZpSjd5WUJIZXRjdmY0SE96QmM2bnZUbEhuZU1UeHVsWGlEOERYS3hlQl9RTzJtNVFrR0Nxdk8xVHV3?oc=5",
-      "description": "Kroger Homestyle Cheese Garlic Croutons Recalled For Salmonella Food Poisoning Bulletin",
-      "pubDate": "Wed, 20 May 2026 12:28:27 GMT"
     },
     {
       "source": "Quintus Technologies",
@@ -331,13 +324,6 @@
       "pubDate": "Wed, 12 Nov 2025 08:00:00 GMT"
     },
     {
-      "source": "HPP Soups & Meals",
-      "title": "I Make the Best Chicken Soup Ever—Here's My Secret - Allrecipes",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtdnJxTW9PYk9kWHVUVFFYUktkYm1MWWluWnUxdGVjYncyTnFVaEk2SXJEcU1RTW1hWXVBTS1rT3dyejB4SGlPeHNCaE5jbkNvS2ViVW81ZlRWSWlfTE8zV0NZbEJldmhoZWZfNnRfQ2hhNHZKSXlsUVJn?oc=5",
-      "description": "I Make the Best Chicken Soup Ever—Here's My Secret Allrecipes",
-      "pubDate": "Sun, 09 Nov 2025 08:00:00 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "6 Dead in Multistate Listeria Outbreak Linked to Recalled Pasta Meals. Which Products Are Affected? - TODAY.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2hwS1d0SE1MMlE3MlE1Q1ZJUWVGN3c3UWoxdnFrSE1kd1VOVU9ZREFBS1NOeEdheUlyaFhGa3dWVlpsek05Y1ZoeFMzdXVKZWFPQldXcUFHVWZUa3BjOWdzLTE3VXFQZXBESDVvcHJtWnBZS1JRUHN6Q3BQZ2lEZDBBNmtwVXZiRXc?oc=5",
@@ -350,6 +336,20 @@
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd05nOUt1OHh4UzVxeE5qYXhWaEZCd25xdmFxaXNfMW1Jbm1aYkpYVmx2OG02MFE4dkwzeHdDaklzS2NtcXpkVjBPVm5RTmdnX1Nxa2cxRGROTUIzV0ZjdWRRaDAyQndLcU5XX0tqNFF6Zk5hUk5yZHNOcU40bzRRSGoxTkthYi1HUFo3aFNCRnpBYmQ0V0lBdXo2SEx1VU5SenplTkdHTjV5ZUd6b1I5QlltZ1lhWVFhOGtzTWFlUFNueHl4akhWcmx6MENxc0huOU9Ga2NwY1hSSnR3Y1VHdDBkVUQyVmprYkZsMWJ2TQ?oc=5",
       "description": "Hiperbaric introduces HPP tolling service integration to Sunrise Logistics' Pennsylvania cold chain operation The National Provisioner",
       "pubDate": "Tue, 04 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Nationwide Listeria outbreak: 6 dead and 27 hospitalized, dozens of products recalled - WRAL",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1NLbnJCRjM4WHZIME1oWTJCbEw0OXEtT2U2V1dnYWxaVEN2NGtlZ0kzaEx6V0R0YlBSLWZZXzRQWjBERVZOT2NXVldvY0VFaEEyZnNUejEtdDltdnBQWlNnNjlNU1ZhWl9SbkpxUXdody1HSkMtbkk2V0hYV3oyZ1lLY1RiS01BeVo0anhnZ3Y?oc=5",
+      "description": "Nationwide Listeria outbreak: 6 dead and 27 hospitalized, dozens of products recalled WRAL",
+      "pubDate": "Tue, 04 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Cosmetics & Beauty",
+      "title": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdFZlWGhqdzd2Qk81Q1kyN2tXc2M1VGVMdDBrM19kNkt6S3pZbWkwLVR6WUFYcUVLVTRtdEVsR2M2TzQzN3FXOVpGOUxlejdTd2VqdUhyekZuSnVCU0xXY0NSZklEcFphM3hwSS1PY1duUkJBeFo4dzUzWHRqX2YzVzB4a2tTRmZwS05SRk5jdlduVWlPUTRzVXN0em9INjhHX3hTaUs4dVo4RjRJMlhfM2RTaHJncHNUZUpTV3FNV1QzMWxGVkdfQmcxcjI1UWl3UW42djBsa3dUNklQdE83TmxkbnNQcnQwbUstTTh2SnRPb1hBZ3ZqTV9LNURDMFV1eklubElBVzhQM0lqM1Zv?oc=5",
+      "description": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership PR Newswire",
+      "pubDate": "Mon, 03 Nov 2025 08:00:00 GMT"
     }
   ]
 }
