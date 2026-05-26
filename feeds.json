@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-25T22:26:19.396087+00:00",
+  "updated": "2026-05-26T00:52:33.067624+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "USDA posts warning about beef kofta linked to E. coli outbreak",
+      "link": "https://www.foodsafetynews.com/2026/05/usda-posts-warning-about-beef-kofta-linked-to-e-coli-outbreak/",
+      "description": "The USDA&#x2019;s Food Safety and Inspection Service (FSIS) has issued a public health alert regarding beef kofta products served at The Kebab Shop restaurant locations because they have been implicated in and outbreak of E. coli infections. The beef kofta was produced as a raw ground beef product",
+      "pubDate": "Mon, 25 May 2026 23:22:14 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Salmonella egg outbreak sickens 230 in Belgium",
@@ -30,13 +37,6 @@
       "pubDate": "Fri, 22 May 2026 22:24:53 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Not enough progress on foodborne disease, says WHO",
-      "link": "https://www.foodsafetynews.com/2026/05/not-enough-progress-on-foodborne-disease-says-who/",
-      "description": "Country capacity for surveillance of foodborne diseases has improved slightly but remains off target, according to WHO. The World Health Organization (WHO) provided an update on progress made relating to the Global Strategy for Food Safety at the 79th World Health Assembly. Data shows that despite a gradual improvement in",
-      "pubDate": "Fri, 22 May 2026 04:03:16 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
       "title": "Why are there so many Salmonella outbreaks in 2026? 4 reasons - Fast Company",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb2djeE14NTNYbUh0OTJ3VkgwTWV1UUhqTkgzMF9uaGVFUHlmYkQxalc0d0cyb09mUmlSUW9sRHAyWUtfZEZEUTFSZEUwVU8tWlJ6TmQ0NXZIdjFENlZNSXhSRks4RWE2WlhTdXZONlktNHJVWnB2VUg0OGNUWnFxTXo3SUN4eXZMTlhWanl0VTR1cjRELUdpQTJPcWtVdw?oc=5",
@@ -49,6 +49,20 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnZEdm8tLUMxdlpRajZ4bGZ1eE5nRElJdGtTVDB5R0hMcWxoV2NIV1BvSkNsY3BUaGl6TzV2cXZSdEZWV0JOenZseW5icmxadFBZcERkOGpMb3BjaGJrN241Q1VCeWw1TldCMjBscEtfTzkwM2tsTTJyQlI0VkFaVWRseVZObmoycnRFaXJkQlY?oc=5",
       "description": "The latest product recalls and safety alerts from Which? which.co.uk",
       "pubDate": "Thu, 21 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "A salmonella outbreak has prompted a recall of potato chips, popcorn and more. Here's what you should toss. - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObUVubGdFbF9ELXB2ZUNGVlNnOGUxYzF0QV9pUVF6T2FkYmx2Nm01dzFmbmZWR25FZHlVd2FaYW9WU0taQzAxUTNRdzJ3bWxjbERrQllRT19SV1FzOWdQeTBhX05wR1VRMG1lRHVGeU1YZ2FMcUNnSWhkZGtWd0JWR1dGM1A2Rk92YUZSdTI1VGVWYWV6NGJkUXBadHdxNjV5Y0RZY2F5VmxKeEVySW5tSi1CQmN0aTJBb2lTQVZDUm1EaWI1REdrbWhtczdnTk1zaHNmTTNIeHRXc3B4U0ZubFN0YlVubnpSMFVoaw?oc=5",
+      "description": "A salmonella outbreak has prompted a recall of potato chips, popcorn and more. Here's what you should toss. Yahoo",
+      "pubDate": "Wed, 20 May 2026 11:36:06 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Ready to Recall: These Meats Are Behind 40% of USDA Food Warnings - sentientmedia.org",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOU9JZzBHUmpvNWd1LXNMRDNPV1ROYVMtd2xnTEE4bG1oWXFIbFIzNDRBbGdEUmJJX3Y3WmtnSnNJTWM5MUNPUm5WMUJvLVhhSjZyc3VIdGpJUDZac0tWUGhoU2pSX0dER1lGcWNBaUx3dkxONkVnUmhWbFhremp0aldkend0dlRs?oc=5",
+      "description": "Ready to Recall: These Meats Are Behind 40% of USDA Food Warnings sentientmedia.org",
+      "pubDate": "Tue, 19 May 2026 16:50:39 GMT"
     },
     {
       "source": "Quintus Technologies",
@@ -72,13 +86,6 @@
       "pubDate": "Sun, 17 May 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Healthcare & Medical",
-      "title": "World Seam Chemical Indicator - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSFQtdWl6RXIyLW55T0d1X25MRkwtbDBVVVRXa0FscVFfRW9HeDVBeHdPNy1iLVBiT1U0VGUwb3l4Yl9sY2xHa0hCdjcxcUs4U3RRRl9HeEROWkVVTWM1SFZMb1NkMWlJNVVFcUpDaWFBdFNpUzRIWFhnY2x4ZzlrYy16NGNXRlVVZW5ucG1haWJaV1VwR3VRbC1NUk1YMHFlYVR2TXBCbzhzWFhRMjc3eUZQSGZ1N1BPUVFaLTNPRXZ0Yy1MeE0xR1ZnMHVzUi1zcmRLcGY1NG01RXU3MFlqMmQ4eE9KMUJ0?oc=5",
-      "description": "World Seam Chemical Indicator - Market Analysis, Forecast, Size, Trends and Insights IndexBox",
-      "pubDate": "Thu, 14 May 2026 19:31:04 GMT"
-    },
-    {
       "source": "Hiperbaric",
       "title": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? - PetfoodIndustry",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTVFPakRRZlRhZG50MVZBdmVxdVZhVzlJRC1LNlBFOS1MNVI0SUhlT2FrUloxRkN5Qi1Bcm4yS0hFLUtDdnY5RC12dUY0TWoyQWh1eUlnSU5ZNmJMNmhSQlkyeU0yeHpGVDNZZE12MlI4TjZvNzZXR2RFN0htMFZlSkxFQmxqYnBEUG1VdUNpT3VMQ1pwUG1jel95SVltMkpVOW1wZDUwWTBkb2xZYmp5dlF5V3ZnV00tTzRubW9yTlhENDVpT1VCTW1rNDFhZURtR0Z5ZlBrOWNVenAxSFlyMmhGN3FkLVAzeWNCWVZYVzBKc2VaWTllemU3NA?oc=5",
@@ -91,6 +98,13 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CWjFEcVNqTGJGakV4YUVfWWNyWlF1d2MwWTB0bXNqZEV4MUZDMWpDbktqYkV2SjZMWmstbGx5YjQ4Y0xPN2wtQUkwbVVXUmp2bUpfYTk5XzlTZw?oc=5",
       "description": "Lidl Ireland recalls chicken over salmonella concerns BBC",
       "pubDate": "Tue, 12 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "9 Ongoing Food Recalls You Should Know About This Week - Allrecipes",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84SXU5UnBpVzlkMDBtVWROUnNZdWFzbzlGTFI4anBZTmZUdXBtQ0NubGp3VDRCa0x0bzFQUWxnMkFneFg1ajRYS1BSODQ3VHdqOGVBcVRvUV9xODV3T05kTC1qamlVTXdib0FvVUdJQTJYbFk?oc=5",
+      "description": "9 Ongoing Food Recalls You Should Know About This Week Allrecipes",
+      "pubDate": "Mon, 11 May 2026 07:00:00 GMT"
     },
     {
       "source": "UK HPP Industry",
@@ -112,13 +126,6 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYmpjWWdZekp3ZkRsai1xMDQzNGlfcHhWSC1kLTdZcWRWRko5WmVpOTJ2bEd3MGUxRFVCc20xMURLcnM5MlBWZktqdU56cFZLSU9JTXVkVWpPNEtTanRHcHZZTUFaNFc5cTMyRDg0ZU1YSnZjaVJiZ0FBOGtNa3c5Uk1BN2JjeFBSNy1wLWtYMTU2Y2lmaFhTZnFnUUpfckE?oc=5",
       "description": "Frozen pizzas sold at Aldi and Walmart under recall for possible salmonella risk The Independent",
       "pubDate": "Mon, 04 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
-      "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
-      "pubDate": "Fri, 01 May 2026 07:05:09 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -171,13 +178,6 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
-      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
-      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
       "title": "Salmonella Outbreak Linked to Moringa Leaf Powder - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
       "description": "Salmonella Outbreak Linked to Moringa Leaf Powder Centers for Disease Control and Prevention | CDC (.gov)",
@@ -189,6 +189,13 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OS1NNQWRKNUJqUW81ak16UmhZb3N6QzZtRlZiVk1FNlhTblN3VFpzdGNDaFBtTkI2X2U4TFEwZm1PVGFWN0ZXekl0azBZaEUzYjBBcG5xZWFyMGw4TC1GNlBaT2ZfRkNyT1huSjBqUWUyd0tlZ0NzcA?oc=5",
       "description": "Oyster Processor comes to Dock+ NanaimoNewsNOW",
       "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Top 10 Food Technology Trends Reshaping the USD Trillion Industry in 2026 - StartUs Insights",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xSHNGeEkyQmNFT2VDbU1Edldsam9vcDR1VUlNYmg5NGs3a2s0NTBaYmRiMzlpX2VmRktIdHBSdFNCTGVhbWFjMGkyeGEwVWxiYng0VTNhQU5aaDMyQWgtMUN6TUQwVzBRcWJFajI2dUg3X2FTcllTNUNKdlphZw?oc=5",
+      "description": "Top 10 Food Technology Trends Reshaping the USD Trillion Industry in 2026 StartUs Insights",
+      "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Dairy",
@@ -226,25 +233,11 @@
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "‘Not all ultra-processed foods are the same’ — what next for the food industry? - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwd1pGeC0yRGtOU09tQ2laM2k0cTVzS1VSQVRBNGhhbkpTWW9GZzhyOEhORl9sbkR6NElrWkFRLWpzQXdyOE9iUzkwM1ZGS0RYSlM3LXRDSHZBTUJfLU9ZV3VaZm9WX2JPbXFGVnZVdnM?oc=5",
-      "description": "‘Not all ultra-processed foods are the same’ — what next for the food industry? Financial Times",
-      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "Listeria Outbreak Linked to Prepared Pasta Meals - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVljR2g1SWZ1cDJkZE5xMkgxMVR6emh2WXplNFBSaUs3Ni1LaF9ySk54QmtwWDd2SWU5YUdfQnhfLWhJX1lQZmhJQ2xMZkU0MDlHeHQzR2xZQlNiWHhYUmQxcUZuZF93WjU3TnBTbDVyaVBVWXVGMlZyamFjLVc5elB4WTdGdjV2VGc?oc=5",
       "description": "Listeria Outbreak Linked to Prepared Pasta Meals Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Thu, 12 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "New deaths, hospitalizations reported in connection with listeria outbreak tied to ready-to-eat pasta - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVHA4VUZ2TFlHeGNyaUU1SlpWbDZydmd2SjFEbFBpbG15QUJnMVpvZUwxc00ycFh6ZlFFZjVwZlZ6d1NnendSMENRV3N0MVphLTdLTElSRVI5U25ZdUlCNXJya2R1bGt3Zk1VTFBtRk8xZ01zWVVhWENtaVktb1pnR3M3UVJON0NCN2VVd2ZXYjRIdEVoZlJCbjV6ZU9nVkd5R0ZJaURTcDJDN1hHMC0yQjViaUpvM1gwcFHSAb8BQVVfeXFMTUpJSjc1VzRYWlprX3BiR2ptMm9JLUozYk1KNU9IS3FWYmZ5U1lWUW1UWTV0RG1NRDFERThnWm40MVVEUU9SWUhHbFF5S2hJVk55ZHBNRWNLQnlGMzN2NHRxQmpwampxY0N5aXFnYk9ZY0pPU1dSbFRKdjhEVFVybmIzYmlISGJ5NnNLMEhhZ2Viel81MFdMMC1BZ2NxQllJMWpBUTFiOXE0alZtUGI3UHBDbTBYWUk5MzNTQ0toWG8?oc=5",
-      "description": "New deaths, hospitalizations reported in connection with listeria outbreak tied to ready-to-eat pasta ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Wed, 11 Feb 2026 18:56:39 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -294,6 +287,13 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFZNbW0wQ05lcHdEZEpxSlBHYWZtN3k3Z3hOZjRhZ2ZfX0owR0tpenhMY3RCQVdON2xtYS0xUWlJaERUa1Z6cmtQbFo2UVN6NEVReEZQUk1EQmppTWFBX1dTQzBqaS0yb1BaSndrVnZBY3dUTUxWUG02dW1jdnA3QWRudGRKSVpwdG9GTmNtUFplMWZGRGp2d2VCYlFfU00?oc=5",
       "description": "6 Rules for Canning You Should Never, Ever Break Better Homes & Gardens",
       "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Energy efficiency innovations in UK industrial sector could save 4 million tonnes of CO₂ over 10 years - Carbon Trust",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRWpIWF9sMVhOY1dZU3VWY2RKWmM3LUlsbGR4bjVqYTBlRlg2U05EUVZWVi1MSV9ZNkJVQVhVOTFOcndZM0Jua3FPaWxDNF9yZmNrUUdWZERlZFhINEhTaGxyVldTbHRrMjZESkxwNGVrMFZQMHdidEpuREF0N3B0WlVnZFdaUEswZW8tYUdEcXQzUzVfcGlVMUlhdnl0dkw3cGN0UmdaTnZULXVhRkNCajFobGlNX1I0djNBNmFCaWpUcXlBamVDZjRoYTVSWl9VRFVFSmhPeTFndnNxa2ZfRkF2dWNCV1M3?oc=5",
+      "description": "Energy efficiency innovations in UK industrial sector could save 4 million tonnes of CO₂ over 10 years Carbon Trust",
+      "pubDate": "Wed, 10 Dec 2025 08:00:00 GMT"
     },
     {
       "source": "Quintus Technologies",
