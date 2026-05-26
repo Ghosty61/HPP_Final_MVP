@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T17:10:20.975410+00:00",
+  "updated": "2026-05-26T18:52:55.045540+00:00",
   "articles": [
     {
       "source": "Salmonella Outbreaks",
@@ -107,6 +107,13 @@
       "pubDate": "Tue, 12 May 2026 07:00:00 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "Public health alert issued for deli item sold in Illinois due to listeria; 3 sickened - NBC 5 Chicago",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQajhWSHFIeFQ5UWMxQXctal82Y3ZLV0l4SWFEMkdtRWtkbF9XdE4tMTBsaUpjXzQ3S01pNFBQZWVZd2NpeDhlbGhqakl2MGx4YnFjVW9tSDlfTm9RR0tQdXFpVXpSbkU3bGZaQ3FGR0QtbEFEdm5Id2w2TXgzSWpvT1IwV19Zb182aFMtcXVpZ3fSAZgBQVVfeXFMTk9HSUQ0S0VPalJKZEI1cGQ3LVR5S3QwVDVsWE9vb0lmd3A1cUlOVXp5ZzBJSHdLUHl5U0EzMG1rM3JISERaX21YVFhZN2hDNjM0V0tjX3QtUmx6YjI5SzNxZmhoVkVkOVppOWZibnNUZTBMMm9OR1J2NkljMjJKZHFRV29aR3dTSG1aVWoyODNlMURkYllVRy0?oc=5",
+      "description": "Public health alert issued for deli item sold in Illinois due to listeria; 3 sickened NBC 5 Chicago",
+      "pubDate": "Mon, 11 May 2026 07:00:00 GMT"
+    },
+    {
       "source": "UK HPP Industry",
       "title": "UK Airport Drop-Off Charges Hit £10 in 2026: Full 2026 Guides Cover Heathrow, Gatwick, Stansted and Luton - openPR.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTWNJUnotaTBESXMtVkxGRkZxWW40VEtsWVN2blo5dVRKUzZyckFIMmJzbHdlc1dCYVdHaVpVY2VldFYyclA5TEYwVUpkSWs2aVBEUk1IcHZheHpNdWxYNjJpcVZ2Q2s4cnNQYUcxM2N2aGtHV3F5Xzh4emU0bGJvbEd4MzhLNDJFbUgwN2R5RUl1dVp0am1qQjVsTQ?oc=5",
@@ -184,11 +191,11 @@
       "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Seafood",
-      "title": "Oyster Processor comes to Dock+ - NanaimoNewsNOW",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OS1NNQWRKNUJqUW81ak16UmhZb3N6QzZtRlZiVk1FNlhTblN3VFpzdGNDaFBtTkI2X2U4TFEwZm1PVGFWN0ZXekl0azBZaEUzYjBBcG5xZWFyMGw4TC1GNlBaT2ZfRkNyT1huSjBqUWUyd0tlZ0NzcA?oc=5",
-      "description": "Oyster Processor comes to Dock+ NanaimoNewsNOW",
-      "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT"
+      "source": "UK Food Industry",
+      "title": "Top 10 Food Technology Trends Reshaping the USD Trillion Industry in 2026 - StartUs Insights",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xSHNGeEkyQmNFT2VDbU1Edldsam9vcDR1VUlNYmg5NGs3a2s0NTBaYmRiMzlpX2VmRktIdHBSdFNCTGVhbWFjMGkyeGEwVWxiYng0VTNhQU5aaDMyQWgtMUN6TUQwVzBRcWJFajI2dUg3X2FTcllTNUNKdlphZw?oc=5",
+      "description": "Top 10 Food Technology Trends Reshaping the USD Trillion Industry in 2026 StartUs Insights",
+      "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Dairy",
@@ -212,7 +219,7 @@
       "pubDate": "Wed, 25 Feb 2026 03:39:54 GMT"
     },
     {
-      "source": "HPP Equipment & Machines",
+      "source": "HPP Juices & Beverages",
       "title": "The pros of processing automation - Beverage Industry",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT0wwejZtUlBTU3NMOTZ4RUpTSWVUUzJId0N0MmJPVloxZmYycWlyN1czUW1QblNaWlA5UlJrd2ZuenAyVHpDOUxUVmQ0eGRSYmlkSmpqXzdKWkxIZ0RtNS12WkstZFdWTVFUN3VYNkF2U2g2dXRudWVTVGJRMGlOYU93?oc=5",
       "description": "The pros of processing automation Beverage Industry",
@@ -254,7 +261,7 @@
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "HPP Equipment & Machines",
+      "source": "HPP Innovation & Research",
       "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXhUbEgxOUMycF9EN0RUdmxwWWt1WUVyYU1iUnQ0R2FCTlZZcTlFUEMwaG45Z0lGZHpQNGpXTFJEcW9HNm1RN1lSNzZFX2M4QnllM3NmMXc2UVRMTWFvNHM2dXkyc01pNHJ5MlpvWTNMQWJDdUxvc1I5NWR2NFIzOS1vWGFNMUtiZ2d2NVRUVHVTTk9BdENMUmZkcjZZc2VwUXowOGhXWWRvcGQ5T2wtYjRhbTNzSlFrUHZXWmNLWFYzUVlNUE1uTG1xYk5EUDFHQkVsSlJFcHhDN3BTM0dWcnp6MVNOc1VUbFB1ZUJMYzhMenJRNkRkeS1maTlYNGozbEthVW1B?oc=5",
       "description": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility PR Newswire",
@@ -296,18 +303,18 @@
       "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT"
     },
     {
+      "source": "UK Food Industry",
+      "title": "Energy efficiency innovations in UK industrial sector could save 4 million tonnes of CO₂ over 10 years - Carbon Trust",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRWpIWF9sMVhOY1dZU3VWY2RKWmM3LUlsbGR4bjVqYTBlRlg2U05EUVZWVi1MSV9ZNkJVQVhVOTFOcndZM0Jua3FPaWxDNF9yZmNrUUdWZERlZFhINEhTaGxyVldTbHRrMjZESkxwNGVrMFZQMHdidEpuREF0N3B0WlVnZFdaUEswZW8tYUdEcXQzUzVfcGlVMUlhdnl0dkw3cGN0UmdaTnZULXVhRkNCajFobGlNX1I0djNBNmFCaWpUcXlBamVDZjRoYTVSWl9VRFVFSmhPeTFndnNxa2ZfRkF2dWNCV1M3?oc=5",
+      "description": "Energy efficiency innovations in UK industrial sector could save 4 million tonnes of CO₂ over 10 years Carbon Trust",
+      "pubDate": "Wed, 10 Dec 2025 08:00:00 GMT"
+    },
+    {
       "source": "Quintus Technologies",
       "title": "Quintus unveils pilot-scale warm isostatic presses for all-solid-state battery production - Charged EVs",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWYtdVQwYl80R1Ytem9hTzNxNl9sMHFaVVlXa1h3aG9CakY5SnZEZ3NibThISEI0WmNYYXg5TG1wYzd6c0Z0MWlLbUk4UGxqQndKQW8yNlNrcGlNcGEzNnM3eEpLTW8tdy1HUnVSV1dIaTB4MDlDSEtUOWJiSkoxdnozZHJnM3BVS0huUEZ6WjNKZUczLWtUQW1xVW1KR1JPalE5RElBeWpDcFdTNXliM0REZXNxUFV0QjItWW5yYw?oc=5",
       "description": "Quintus unveils pilot-scale warm isostatic presses for all-solid-state battery production Charged EVs",
       "pubDate": "Tue, 09 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Ingredients under pressure: What HFSS means for NPD - Food Manufacture",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVZrV3oyajAyMGNRaXBYbVBhYWU0NXVqU2JQME5YWWxCUzlTN3dzZHV6ZVVWU1ZibEc3WUdiMzlXTWFaNms2Y0VDODhiT3hrRmdsdi1BYW1hcVBNNTVscFRKd1Zwc3hEOURCeTJjNUJmZzZlZURKc3JnOFd3dlBvbl9fUUlMdlM1Smg2TkFsZkZVWEJjVVRCVjFJRTVMUHNhWTNiU2VwX25WYUlxdi15YU0wbGM?oc=5",
-      "description": "Ingredients under pressure: What HFSS means for NPD Food Manufacture",
-      "pubDate": "Wed, 26 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -329,13 +336,6 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ3c4eWhyU0NKN0ZNTy1mXzJ3Y1Bqa2tqNGdqNXlLT0R5R3BoNVdnX1FwbWNxYzV3TGxTNHZJdWJhTElrQkgxTklNX0JyWDREN25ONVVranlsTjlCRXIzREZUQ1E0VDFaUnVhcWszbzBxVlJDc09DRHhGemd1dFNkZl9PWTlqOFJ4ZTZZNXpvOHM2RjNUNXBUMG0zVS1CNjFMb2NscWtRcFVFUGJZQUZLT0lfS2xVRFBWSkhBNHpWYW4xMnZPZmppWHM0TDY0RnVZa1ZRVl9wMmxTVnV1Sk0ybQ?oc=5",
       "description": "Hiperbaric brings advanced Hot Isostatic Pressing to Formnext, unlocking full potential of metal additive manufacturing tctmagazine.com",
       "pubDate": "Wed, 12 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "6 Dead in Multistate Listeria Outbreak Linked to Recalled Pasta Meals. Which Products Are Affected? - TODAY.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2hwS1d0SE1MMlE3MlE1Q1ZJUWVGN3c3UWoxdnFrSE1kd1VOVU9ZREFBS1NOeEdheUlyaFhGa3dWVlpsek05Y1ZoeFMzdXVKZWFPQldXcUFHVWZUa3BjOWdzLTE3VXFQZXBESDVvcHJtWnBZS1JRUHN6Q3BQZ2lEZDBBNmtwVXZiRXc?oc=5",
-      "description": "6 Dead in Multistate Listeria Outbreak Linked to Recalled Pasta Meals. Which Products Are Affected? TODAY.com",
-      "pubDate": "Wed, 05 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
