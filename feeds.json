@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-27T05:33:29.458170+00:00",
+  "updated": "2026-05-27T07:33:10.006213+00:00",
   "articles": [
     {
       "source": "Food Safety News",
       "title": "FDA reports another Salmonella outbreak traced to moringa leaf powder",
       "link": "https://www.foodsafetynews.com/2026/05/fda-reports-another-salmonella-outbreak-traced-to-moringa-leaf-powder/",
-      "description": "The FDA is investigating a new outbreak of Salmonella illnesses traced to moringa leaf powder. This time MOGO brand capsules are implicated. The new outbreak of Salmonella Typhimurium has sickened 18 people across 14 states. Seven people have required hospitalization, but no deaths have been reported, according to the Food",
+      "description": "The outbreak of Salmonella Typhimurium has sickened 18 people",
       "pubDate": "Wed, 27 May 2026 04:06:22 GMT"
     },
     {
@@ -49,13 +49,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb2djeE14NTNYbUh0OTJ3VkgwTWV1UUhqTkgzMF9uaGVFUHlmYkQxalc0d0cyb09mUmlSUW9sRHAyWUtfZEZEUTFSZEUwVU8tWlJ6TmQ0NXZIdjFENlZNSXhSRks4RWE2WlhTdXZONlktNHJVWnB2VUg0OGNUWnFxTXo3SUN4eXZMTlhWanl0VTR1cjRELUdpQTJPcWtVdw?oc=5",
       "description": "Why are there so many Salmonella outbreaks in 2026? 4 reasons Fast Company",
       "pubDate": "Thu, 21 May 2026 16:54:54 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "A salmonella outbreak has prompted a recall of potato chips, popcorn and more. Here's what you should toss. - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObUVubGdFbF9ELXB2ZUNGVlNnOGUxYzF0QV9pUVF6T2FkYmx2Nm01dzFmbmZWR25FZHlVd2FaYW9WU0taQzAxUTNRdzJ3bWxjbERrQllRT19SV1FzOWdQeTBhX05wR1VRMG1lRHVGeU1YZ2FMcUNnSWhkZGtWd0JWR1dGM1A2Rk92YUZSdTI1VGVWYWV6NGJkUXBadHdxNjV5Y0RZY2F5VmxKeEVySW5tSi1CQmN0aTJBb2lTQVZDUm1EaWI1REdrbWhtczdnTk1zaHNmTTNIeHRXc3B4U0ZubFN0YlVubnpSMFVoaw?oc=5",
-      "description": "A salmonella outbreak has prompted a recall of potato chips, popcorn and more. Here's what you should toss. Yahoo",
-      "pubDate": "Wed, 20 May 2026 11:36:06 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -115,9 +108,9 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Salmonella Alert Expanded by FSIS—Check Your Freezer for These Products - Good Housekeeping",
+      "title": "FSIS Expands Salmonella Alert—Check Your Freezer for These Products - Good Housekeeping",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdlBhT3VkSldZRXhBOXZheUpxeXI2SzluQzdRNkJFclZoYndZUEI1c1JHRzg3b29Vc1dDdDhlUFlZZlNHczZfTGNUU2tibTlxanBCaWZHMDdUZ3JqU0lURzJ5WEhfelUxLUg1ZktldnlsRXlCdVdiYVZ0eTlrZ1BFNlY1OTRrZl85Y0taMVhPN1ZVTjg?oc=5",
-      "description": "Salmonella Alert Expanded by FSIS—Check Your Freezer for These Products Good Housekeeping",
+      "description": "FSIS Expands Salmonella Alert—Check Your Freezer for These Products Good Housekeeping",
       "pubDate": "Mon, 04 May 2026 07:00:00 GMT"
     },
     {
@@ -126,6 +119,13 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYmpjWWdZekp3ZkRsai1xMDQzNGlfcHhWSC1kLTdZcWRWRko5WmVpOTJ2bEd3MGUxRFVCc20xMURLcnM5MlBWZktqdU56cFZLSU9JTXVkVWpPNEtTanRHcHZZTUFaNFc5cTMyRDg0ZU1YSnZjaVJiZ0FBOGtNa3c5Uk1BN2JjeFBSNy1wLWtYMTU2Y2lmaFhTZnFnUUpfckE?oc=5",
       "description": "Frozen pizzas sold at Aldi and Walmart under recall for possible salmonella risk The Independent",
       "pubDate": "Mon, 04 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Healthcare & Medical",
+      "title": "Universal Pure Data Breach Exposes Sensitive Personal Information - Claim Depot",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iczUzZHNzYTlQUmF6azdNd184N3RrQi15Z0NQZUVBOGZsWEFDT0U1RkpPRURQY18yM1FrenF2STA4TjFyMzIzc0tUSVJWN1dJMHN1R3ZuMDYyZWhyRjJrSlVVSi1fVFoxamc?oc=5",
+      "description": "Universal Pure Data Breach Exposes Sensitive Personal Information Claim Depot",
+      "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -178,6 +178,13 @@
     },
     {
       "source": "Salmonella Outbreaks",
+      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
+      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
+      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
       "title": "Salmonella Outbreak Linked to Moringa Leaf Powder - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
       "description": "Salmonella Outbreak Linked to Moringa Leaf Powder Centers for Disease Control and Prevention | CDC (.gov)",
@@ -189,13 +196,6 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OS1NNQWRKNUJqUW81ak16UmhZb3N6QzZtRlZiVk1FNlhTblN3VFpzdGNDaFBtTkI2X2U4TFEwZm1PVGFWN0ZXekl0azBZaEUzYjBBcG5xZWFyMGw4TC1GNlBaT2ZfRkNyT1huSjBqUWUyd0tlZ0NzcA?oc=5",
       "description": "Oyster Processor comes to Dock+ NanaimoNewsNOW",
       "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Top 10 Food Technology Trends Reshaping the USD Trillion Industry in 2026 - StartUs Insights",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xSHNGeEkyQmNFT2VDbU1Edldsam9vcDR1VUlNYmg5NGs3a2s0NTBaYmRiMzlpX2VmRktIdHBSdFNCTGVhbWFjMGkyeGEwVWxiYng0VTNhQU5aaDMyQWgtMUN6TUQwVzBRcWJFajI2dUg3X2FTcllTNUNKdlphZw?oc=5",
-      "description": "Top 10 Food Technology Trends Reshaping the USD Trillion Industry in 2026 StartUs Insights",
-      "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Dairy",
@@ -282,18 +282,18 @@
       "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "Energy efficiency innovations in UK industrial sector could save 4 million tonnes of CO₂ over 10 years - Carbon Trust",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRWpIWF9sMVhOY1dZU3VWY2RKWmM3LUlsbGR4bjVqYTBlRlg2U05EUVZWVi1MSV9ZNkJVQVhVOTFOcndZM0Jua3FPaWxDNF9yZmNrUUdWZERlZFhINEhTaGxyVldTbHRrMjZESkxwNGVrMFZQMHdidEpuREF0N3B0WlVnZFdaUEswZW8tYUdEcXQzUzVfcGlVMUlhdnl0dkw3cGN0UmdaTnZULXVhRkNCajFobGlNX1I0djNBNmFCaWpUcXlBamVDZjRoYTVSWl9VRFVFSmhPeTFndnNxa2ZfRkF2dWNCV1M3?oc=5",
-      "description": "Energy efficiency innovations in UK industrial sector could save 4 million tonnes of CO₂ over 10 years Carbon Trust",
-      "pubDate": "Wed, 10 Dec 2025 08:00:00 GMT"
-    },
-    {
       "source": "Quintus Technologies",
       "title": "Quintus unveils pilot-scale warm isostatic presses for all-solid-state battery production - Charged EVs",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWYtdVQwYl80R1Ytem9hTzNxNl9sMHFaVVlXa1h3aG9CakY5SnZEZ3NibThISEI0WmNYYXg5TG1wYzd6c0Z0MWlLbUk4UGxqQndKQW8yNlNrcGlNcGEzNnM3eEpLTW8tdy1HUnVSV1dIaTB4MDlDSEtUOWJiSkoxdnozZHJnM3BVS0huUEZ6WjNKZUczLWtUQW1xVW1KR1JPalE5RElBeWpDcFdTNXliM0REZXNxUFV0QjItWW5yYw?oc=5",
       "description": "Quintus unveils pilot-scale warm isostatic presses for all-solid-state battery production Charged EVs",
       "pubDate": "Tue, 09 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Ingredients under pressure: What HFSS means for NPD - Food Manufacture",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVZrV3oyajAyMGNRaXBYbVBhYWU0NXVqU2JQME5YWWxCUzlTN3dzZHV6ZVVWU1ZibEc3WUdiMzlXTWFaNms2Y0VDODhiT3hrRmdsdi1BYW1hcVBNNTVscFRKd1Zwc3hEOURCeTJjNUJmZzZlZURKc3JnOFd3dlBvbl9fUUlMdlM1Smg2TkFsZkZVWEJjVVRCVjFJRTVMUHNhWTNiU2VwX25WYUlxdi15YU0wbGM?oc=5",
+      "description": "Ingredients under pressure: What HFSS means for NPD Food Manufacture",
+      "pubDate": "Wed, 26 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
