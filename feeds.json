@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T18:29:15.239338+00:00",
+  "updated": "2026-05-31T20:28:07.653352+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -51,6 +51,13 @@
       "pubDate": "Fri, 29 May 2026 04:03:47 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "Growing salmonella recall includes croutons, pizza, more food. See list - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUC1Ed1QydkJsUXd2aVloZ2c0OFpVV0EtQ01PaElRaUVRX253S0dkeGxGTUpEWVRodzQ0ZXVfWThrNkl2THZVcXY1bUdOT2tFRHVKNDgzV0ZIVm1Ob1RpeFdLY0FHSjVCQVVTN1dUUVg1alNCVWpaYlZlVFdKUkFRVWlRbE5iMXJnS2plOUoydDZpM2xJX2pLS1p4Nk9HNWc2Vl9TSGo3cWZHSFVwSWJJeQ?oc=5",
+      "description": "Growing salmonella recall includes croutons, pizza, more food. See list USA Today",
+      "pubDate": "Thu, 28 May 2026 13:14:00 GMT"
+    },
+    {
       "source": "Food Safety UK & EU",
       "title": "The latest product recalls and safety alerts from Which? - which.co.uk",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnZEdm8tLUMxdlpRajZ4bGZ1eE5nRElJdGtTVDB5R0hMcWxoV2NIV1BvSkNsY3BUaGl6TzV2cXZSdEZWV0JOenZseW5icmxadFBZcERkOGpMb3BjaGJrN241Q1VCeWw1TldCMjBscEtfTzkwM2tsTTJyQlI0VkFaVWRseVZObmoycnRFaXJkQlY?oc=5",
@@ -77,13 +84,6 @@
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObUVubGdFbF9ELXB2ZUNGVlNnOGUxYzF0QV9pUVF6T2FkYmx2Nm01dzFmbmZWR25FZHlVd2FaYW9WU0taQzAxUTNRdzJ3bWxjbERrQllRT19SV1FzOWdQeTBhX05wR1VRMG1lRHVGeU1YZ2FMcUNnSWhkZGtWd0JWR1dGM1A2Rk92YUZSdTI1VGVWYWV6NGJkUXBadHdxNjV5Y0RZY2F5VmxKeEVySW5tSi1CQmN0aTJBb2lTQVZDUm1EaWI1REdrbWhtczdnTk1zaHNmTTNIeHRXc3B4U0ZubFN0YlVubnpSMFVoaw?oc=5",
       "description": "Seasoning sold at Walmart recalled due to salmonella risk as over a dozen products are impacted by the outbreak. Here's what you should toss Yahoo",
       "pubDate": "Wed, 27 May 2026 19:33:44 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Salmonella Outbreak Linked to Moringa Capsules - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMLWVJWTM5UlhkYTlfeE85STdUOGJBWGpnMHh2WnVLZnVyeHB4TjhkV3RseGFCRC1tZld0b0o5SVJFOVJKZFFZYUVOTXo1RmpQUVNad3VCd09JZWRKUW1qV1NiV2lOeEhqNnlzNmxRZjh5T1k?oc=5",
-      "description": "Salmonella Outbreak Linked to Moringa Capsules Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Wed, 27 May 2026 19:00:13 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -247,17 +247,17 @@
       "pubDate": "Wed, 11 Feb 2026 18:56:39 GMT"
     },
     {
-      "source": "Hiperbaric",
-      "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb0JEamkwMjhURUVDb2Q2cm1RX1docGhWbldaZERZT3JZcWhTYUJBOUxsQjZCWGY2N2VyemtUT1VKVE9iNGYxOXY3R2xCMHZvaGEybzNpSG5CTy1xVFlfRXRSLVd6akRnNFU3aWdfVW44ZDJobjB6NmgwcFA0MDg2b0JhenowWkhZdlF4OVlNV3dPVERm?oc=5",
-      "description": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility Yahoo Finance",
-      "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "HPP Equipment & Machines",
       "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXhUbEgxOUMycF9EN0RUdmxwWWt1WUVyYU1iUnQ0R2FCTlZZcTlFUEMwaG45Z0lGZHpQNGpXTFJEcW9HNm1RN1lSNzZFX2M4QnllM3NmMXc2UVRMTWFvNHM2dXkyc01pNHJ5MlpvWTNMQWJDdUxvc1I5NWR2NFIzOS1vWGFNMUtiZ2d2NVRUVHVTTk9BdENMUmZkcjZZc2VwUXowOGhXWWRvcGQ5T2wtYjRhbTNzSlFrUHZXWmNLWFYzUVlNUE1uTG1xYk5EUDFHQkVsSlJFcHhDN3BTM0dWcnp6MVNOc1VUbFB1ZUJMYzhMenJRNkRkeS1maTlYNGozbEthVW1B?oc=5",
       "description": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility PR Newswire",
+      "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Healthcare & Medical",
+      "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb0JEamkwMjhURUVDb2Q2cm1RX1docGhWbldaZERZT3JZcWhTYUJBOUxsQjZCWGY2N2VyemtUT1VKVE9iNGYxOXY3R2xCMHZvaGEybzNpSG5CTy1xVFlfRXRSLVd6akRnNFU3aWdfVW44ZDJobjB6NmgwcFA0MDg2b0JhenowWkhZdlF4OVlNV3dPVERm?oc=5",
+      "description": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility Yahoo Finance",
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     },
     {
