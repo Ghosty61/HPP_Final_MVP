@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T01:00:16.415027+00:00",
+  "updated": "2026-06-01T03:15:57.241848+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -73,17 +73,17 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Seasoning sold at Walmart recalled due to salmonella risk as over a dozen products are impacted by the outbreak. Here's what you should toss - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObUVubGdFbF9ELXB2ZUNGVlNnOGUxYzF0QV9pUVF6T2FkYmx2Nm01dzFmbmZWR25FZHlVd2FaYW9WU0taQzAxUTNRdzJ3bWxjbERrQllRT19SV1FzOWdQeTBhX05wR1VRMG1lRHVGeU1YZ2FMcUNnSWhkZGtWd0JWR1dGM1A2Rk92YUZSdTI1VGVWYWV6NGJkUXBadHdxNjV5Y0RZY2F5VmxKeEVySW5tSi1CQmN0aTJBb2lTQVZDUm1EaWI1REdrbWhtczdnTk1zaHNmTTNIeHRXc3B4U0ZubFN0YlVubnpSMFVoaw?oc=5",
-      "description": "Seasoning sold at Walmart recalled due to salmonella risk as over a dozen products are impacted by the outbreak. Here's what you should toss Yahoo",
-      "pubDate": "Wed, 27 May 2026 19:33:44 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
       "title": "Salmonella Outbreak Linked to Moringa Capsules - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMLWVJWTM5UlhkYTlfeE85STdUOGJBWGpnMHh2WnVLZnVyeHB4TjhkV3RseGFCRC1tZld0b0o5SVJFOVJKZFFZYUVOTXo1RmpQUVNad3VCd09JZWRKUW1qV1NiV2lOeEhqNnlzNmxRZjh5T1k?oc=5",
       "description": "Salmonella Outbreak Linked to Moringa Capsules Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Wed, 27 May 2026 19:00:13 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "FDA Announces Recall on Supplement Due to Multistate Salmonella Outbreak—Here’s What to Know - EatingWell",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVlVOeU1GZ2pZTGJkaWRzMjZ6NUZVUE9IS2U2ZEJvVlMybGlVZGJpbDl2OE1Jb21mbW5yaWR6UzNTV1ZFUG5PM0dhQUp4cWFTekFqTEdfNW1hak0tVzlwU0JfZElFcm5ZVFpzX18yWVkzQWRwTERrWGNVTTdpZU1oVGpUZjFTV19UODI4?oc=5",
+      "description": "FDA Announces Recall on Supplement Due to Multistate Salmonella Outbreak—Here’s What to Know EatingWell",
+      "pubDate": "Wed, 27 May 2026 18:09:40 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -142,13 +142,6 @@
       "pubDate": "Mon, 11 May 2026 07:00:00 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "Public health alert issued for deli item sold in Illinois due to listeria; 3 sickened - NBC 5 Chicago",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQajhWSHFIeFQ5UWMxQXctal82Y3ZLV0l4SWFEMkdtRWtkbF9XdE4tMTBsaUpjXzQ3S01pNFBQZWVZd2NpeDhlbGhqakl2MGx4YnFjVW9tSDlfTm9RR0tQdXFpVXpSbkU3bGZaQ3FGR0QtbEFEdm5Id2w2TXgzSWpvT1IwV19Zb182aFMtcXVpZ3fSAZgBQVVfeXFMTk9HSUQ0S0VPalJKZEI1cGQ3LVR5S3QwVDVsWE9vb0lmd3A1cUlOVXp5ZzBJSHdLUHl5U0EzMG1rM3JISERaX21YVFhZN2hDNjM0V0tjX3QtUmx6YjI5SzNxZmhoVkVkOVppOWZibnNUZTBMMm9OR1J2NkljMjJKZHFRV29aR3dTSG1aVWoyODNlMURkYllVRy0?oc=5",
-      "description": "Public health alert issued for deli item sold in Illinois due to listeria; 3 sickened NBC 5 Chicago",
-      "pubDate": "Mon, 11 May 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Innovation & Research",
       "title": "From science to market: OSU Ag Research advances understanding of dark-cutting beef - news.okstate.edu",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOU9aRGVVRE9vRUdqRjJQYWYzQzNMclk1M2xVUDh1amZMaS0tZHp3dm9JNXNhaE51QVRCbzd2YVRVd19JQjZWS1RfcDh2MlBOUzgtVVM1UEw2VmVQSUwxR1otUkFUYnRhTnpwcV84THN4VjdFMUwyZzB5b29RRXV1Zm9YZU9pUldrWUcwVW84MDd2YW1OM25RbFJQSFVWNWVsSVNEWkdITTRsamV5aDd1dGNTT3lyMV80ZTEycndGXzBacGRRYk93cnZCWUlBZw?oc=5",
@@ -177,13 +170,6 @@
       "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "Good4U recalls Super Sprouts Super Greens due to possible presence of Salmonella - Patient.info",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OLVJXeUg3WWFmMVhSLUlndDZQUUhlUXJVcXZpa3pIdkpQTnJfN3ZaLWJEdnZ3bFcwT1ZZXzRDODhRVDNtVmhRdHJVYWlGMjJqTUMzYjlkWFpQMHdqZENZNzdKVGE1ZnhGUDVQTE4zRjQ?oc=5",
-      "description": "Good4U recalls Super Sprouts Super Greens due to possible presence of Salmonella Patient.info",
-      "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Seafood",
       "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
@@ -196,6 +182,13 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXJvUXo3TWdoczNubWhpVjNDZ3dudUgySUxzWlJ4cjBFcEhKWnhNY0FjRTI5aUwtZjVXV25RdDkwQXhLVWFRWmo1ZlpKcW8zV3A2ZExicW9XcFhSalJrU0hHcmNQcFB1OVh4ME4wZEhaVDlTUmVUMzl6RnV6czduT192c012TDkxN29NakI3TTJYMnYtRWpiZHFtLUZ5Y0ktNHVrMlhWSWJaQXRQNV9VSnhkZUZWYkdsbF85OVY5NUs3Qm9maFgyellrR1A?oc=5",
       "description": "Fortress Technology to display touchscreen solution for food safety at interpack 2026 Packaging Europe",
       "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "Food hygiene experts issue warning following recall and salmonella outbreak - Dorset Echo",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeTZEZlE2STNybWJja0xxZWZzcV9HVFl1UXlyZjkwT2YzWDZiOEt2bFAzNVJhZUxVRXlOZ0dYUFlwajNvaDhwLXVPNmJOc3lCSVEzYzIzSFoxY1FMeTNyalViSU1XYU1aVTNBd24yeTVTUWkwRW5aenNrZmMySjVxVmFJcENCczFSTHkwOHEtcEl6a2gyYnZz?oc=5",
+      "description": "Food hygiene experts issue warning following recall and salmonella outbreak Dorset Echo",
+      "pubDate": "Sat, 28 Mar 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -349,6 +342,13 @@
       "title": "Second Hot Isostatic Press to go live at Wallwork in time for Formnext - Aerospace Manufacturing magazine",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS2hObS14cmN1VFc4WEx3SkN6enFzOXFycVNZeDVEUTg1MTRiejd5T1lYcWdkOE9rcEhUc2tVUDRQMUc3cjVSUTRqUmN2bnVjZVpRdFc3d0p1SWZITXlxWTFqNEVfMG1ubzlVeDFCRXV0UHVwS0VBbFRNMTI3UXMwWUQwWFZ3OFBsXzhHQVA3dWRld0R2dHI5R081UQ?oc=5",
       "description": "Second Hot Isostatic Press to go live at Wallwork in time for Formnext Aerospace Manufacturing magazine",
+      "pubDate": "Mon, 03 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Cosmetics & Beauty",
+      "title": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdFZlWGhqdzd2Qk81Q1kyN2tXc2M1VGVMdDBrM19kNkt6S3pZbWkwLVR6WUFYcUVLVTRtdEVsR2M2TzQzN3FXOVpGOUxlejdTd2VqdUhyekZuSnVCU0xXY0NSZklEcFphM3hwSS1PY1duUkJBeFo4dzUzWHRqX2YzVzB4a2tTRmZwS05SRk5jdlduVWlPUTRzVXN0em9INjhHX3hTaUs4dVo4RjRJMlhfM2RTaHJncHNUZUpTV3FNV1QzMWxGVkdfQmcxcjI1UWl3UW42djBsa3dUNklQdE83TmxkbnNQcnQwbUstTTh2SnRPb1hBZ3ZqTV9LNURDMFV1eklubElBVzhQM0lqM1Zv?oc=5",
+      "description": "New High Pressure Processing (HPP) Tolling Facility Coming to Pennsylvania with Hiperbaric and Sunrise Logistics, Inc. Partnership PR Newswire",
       "pubDate": "Mon, 03 Nov 2025 08:00:00 GMT"
     }
   ]
