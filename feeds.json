@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-04T03:15:03.673634+00:00",
+  "updated": "2026-06-04T05:41:12.516893+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Publisher's Platform: What the FDA did not want you to read about the November 2024 romaine E. coli outbreak",
+      "link": "https://www.foodsafetynews.com/2026/06/publishers-platform-what-the-fda-did-not-want-you-to-read-about-the-november-2024-romaine-e-coli-outbreak/",
+      "description": "The fully unredacted version now identifies, in plain text, what the redacted boxes were hiding",
+      "pubDate": "Thu, 04 Jun 2026 04:06:06 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "FDA investigating two new outbreaks",
+      "link": "https://www.foodsafetynews.com/2026/06/fda-investigating-two-new-outbreaks-2/",
+      "description": "Sources of the pathogens have not yet been identified",
+      "pubDate": "Thu, 04 Jun 2026 04:05:59 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Dozens sick in Idaho outbreak tied to raw milk",
@@ -30,13 +44,6 @@
       "pubDate": "Wed, 03 Jun 2026 04:05:06 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Listeria levels steady in England with 28 related deaths",
-      "link": "https://www.foodsafetynews.com/2026/06/listeria-levels-steady-in-england-with-28-related-deaths/",
-      "description": "The number of Cryptosporidium reports in England declined",
-      "pubDate": "Wed, 03 Jun 2026 04:02:55 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
       "title": "New illnesses reported in salmonella outbreak linked to 'super greens' - USA Today",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWmQtNFFjUE40bEdfdnpPR09MdFpnckJ3NVJrSFBsVXZPZG9kU2xSQl9DeTNpNVl2UTZlVmZ6Sk1GRDN6VnA5SFlLaDhGcWpBS2x1NWtjVVE2Vng1bkMwemM2U3d3bG5rQ3ZMVnNPTjBGMUVTVzZyeDU0MVBWTGNpWHlqQ1g0ZWVOcVVaV1dHbTVNbms1RUl1T3JEdFp2U3JYS1FFXzd2eGhpdWNxenN0Vk5oaFBkck93dmpqT0hqMkJQa0lUU3RJTUdMM25iT3FBXzBTbWxEZDd6bm03RzJOWnFR?oc=5",
@@ -56,13 +63,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOUxhM3VkQW51RHVnTDdiX0l0RDI5UjIyakJYSmFPWkFrcEZlaUpqamd0S1NqNUZIYjl2aFFzWjdBNUNZa1dmMkYzbGhQRVR0d0MtRGFqSDE1QmhHSWFFcjN0VHdrQmNPZkd3clpJS28tZTc1MnpFbzRpZUJBRktOVDVQN3ZuZlk?oc=5",
       "description": "USDA Food Recalls Rise in May 2026 Powder & Bulk Solids",
       "pubDate": "Tue, 02 Jun 2026 07:55:41 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Beef kofta samples from The Kebab Shop match outbreak strain of E. coli",
-      "link": "https://www.foodsafetynews.com/2026/06/beef-kofta-samples-from-the-kebab-shop-match-outbreak-strain-of-e-coli/",
-      "description": "Majority of patients are children",
-      "pubDate": "Tue, 02 Jun 2026 04:06:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -107,13 +107,6 @@
       "pubDate": "Fri, 29 May 2026 21:47:07 GMT"
     },
     {
-      "source": "HPP Seafood",
-      "title": "Port Alberni’s The Dock+ expands, adding more space and equipment - Port Alberni Valley News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNnFTUlQ4T1NNWG5fRkdndERVTnBBZ0RwdDlvcURQMllKWGtnTzRiWjhJS3p5MFBHaFFKY0djUW9jRzJrLXJaV2w2aUk1YVNmSDBQWm5rbnhGeGlYRldBTGNhcWtkZ2FaUklsZVFfRndnd2NPZXhwWjNTcjBOeV9xRlNja0xlMFBoaGVKTk1xaGh3X3RWRHlsM0RodnV2TzFxZkk0b19NMA?oc=5",
-      "description": "Port Alberni’s The Dock+ expands, adding more space and equipment Port Alberni Valley News",
-      "pubDate": "Thu, 28 May 2026 12:32:11 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
       "title": "Salmonella Outbreak Linked to Moringa Leaf Powder - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
@@ -121,25 +114,18 @@
       "pubDate": "Wed, 27 May 2026 07:00:00 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "Functional Food Market Size, Share, Trends & Analysis, 2034 - Market Data Forecast",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qUHZkanlJRElEbXozVm0zZTRLN0wtck56djYtQ0dNQ3FHYmVka19yMkI0Mmd6VTFlejdqaEVQSmVQTUx1TWRzT3g4a05HN2VuQll5SEswbmkwS3Z1WGc4a1k4ZTlMOURUd3Zoa21IMTdhMXZDUmZnR0VSazM?oc=5",
-      "description": "Functional Food Market Size, Share, Trends & Analysis, 2034 Market Data Forecast",
-      "pubDate": "Tue, 26 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Valmet's hard nip sizing technology boosts strength properties in customer's board machine in Europe - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVUNzUXExN1ViSzdlUmIydGZIdUxrVHFHX3Fsc3cxdE91amU2c25VbHozQUJFSS1YSi1zY1dJSEdKWjZuZk5UYXhMNm9sMzExWEFVM2RsUlBKQldhcXYwLTEwcC1FMTZWRnoyeVJ6N0ZrTGVMVXVhdlFOa3E4RnRNNzliNWdyb0N3OEVJ?oc=5",
-      "description": "Valmet's hard nip sizing technology boosts strength properties in customer's board machine in Europe Yahoo Finance Singapore",
-      "pubDate": "Mon, 25 May 2026 07:21:00 GMT"
-    },
-    {
       "source": "Hiperbaric",
       "title": "A New Kind of Pressure: OSU invests in technology to transform food research - news.okstate.edu",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQzEyTmthQTRvd0dzbkE1Zi1GMF9KREhseUtZdHhLTkNlS2RsWHRsRjJDTDg3M2lVMU5NM2FGTDhQQi1WX1NmSFk0VmxNTFNuMGFRVG9mRmx1OGZ2Q3JDMThsaEMzOERPSHU5YU1fZkR2NDBGR2kwaWdoRVZSbU4xNUYybXdmTXlyZHVWMzI1NjZRSG12YkYwY244TjhaZkxFYjBiME9HRQ?oc=5",
       "description": "A New Kind of Pressure: OSU invests in technology to transform food research news.okstate.edu",
       "pubDate": "Fri, 22 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK HPP Industry",
+      "title": "Dairy Processing Equipment Market to reach US$ 19.1 billion by 2033, Accelerates as Automation Transforms Dairy Production - Persistence Market Research - PR Newswire UK",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPRzQzWS11VV9sZExfdV90Zk9FeVBMZW9qck41c0tJZzZXRDVLMU5rYXJHSDNhM3MxVVE0TWZuQ2Zjb0NBU19tVW9EeXoyNWhSSEstX0hfSnR1SWUyWk4weERndXNkbmFtSWw1TTgwaDZKdWo3MjdTRnNtRXVlVWI3NG5SOThCZXdqX2tiSDBDRld1RURBRE12aTdEVG5oSVlBb1d6eV9ZZmRKRUdzdWpDQXFEa3ZENjMyVnBTZ1h5dnpZejdYNEs2SjVOLWQ3WXM2d0tSMTBxVEx5ZzN6WThHXy1nbGxZRU81ZnEtcS1MUmJSVUFBX1paTzAwQzVzT3VsNlBQc3Blemx3Ukh5UlFlQXJPZzBMbHo0eVBObXdDaUluWVIwUU15Z0QwcERpWHRUWVFz?oc=5",
+      "description": "Dairy Processing Equipment Market to reach US$ 19.1 billion by 2033, Accelerates as Automation Transforms Dairy Production - Persistence Market Research PR Newswire UK",
+      "pubDate": "Mon, 18 May 2026 14:01:00 GMT"
     },
     {
       "source": "HPP Juices & Beverages",
@@ -191,17 +177,10 @@
       "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage - funcas.es",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BTaXhwYnBzVTdZSldMcFJKR2FSQl9JMFoxQ0VEdEg4NmFObGY0ZldMWHE5U3hVQk9RZm5icmJXWlhKRHVsQzZWNllzT0tNUlVRc25pTzZDclk4eGlsZ3k0cmlScktfRlNBRUt3eWJQdUhHemtOSXJjelk1WjFBTWVoSjBQV0oycHdXZS1BYy1hNmhRVEY1T0tXZUZRa2doa3NyMlZpR1dtYmx3dTlId2duX1M4UVlZbVlOY0FnMlNMbzFRMXk5dTFZdUV6SEhVc2hSdmVjWjFlRndSNzdVMllIcDY?oc=5",
-      "description": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage funcas.es",
-      "pubDate": "Wed, 29 Apr 2026 08:10:47 GMT"
-    },
-    {
       "source": "HPP Healthcare & Medical",
-      "title": "Universal Pure Data Breach Investigation - Claim Depot",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13VVNMeWdmelE4RVMweHdGb3pGeDJWZUpZc0hDejV3V2ZBX3BEWGZTejc0YjE1aHhPaGhCajdZb0szM0JEWW9nbV93a2phQVI3bWUyeXpCcEstdXlYZzZKcjM0dFN4RDJFQWJxZjN5UE85clN3dENnYTdWTmxmUQ?oc=5",
-      "description": "Universal Pure Data Breach Investigation Claim Depot",
+      "title": "Universal Pure Data Breach Exposes Sensitive Personal Information - Claim Depot",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iczUzZHNzYTlQUmF6azdNd184N3RrQi15Z0NQZUVBOGZsWEFDT0U1RkpPRURQY18yM1FrenF2STA4TjFyMzIzc0tUSVJWN1dJMHN1R3ZuMDYyZWhyRjJrSlVVSi1fVFoxamc?oc=5",
+      "description": "Universal Pure Data Breach Exposes Sensitive Personal Information Claim Depot",
       "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
     },
     {
@@ -210,13 +189,6 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRFZ4d01NSXRMa0h5cVBjMEdTSG16X1Q0M3hyUzVBV3l5UDB5RlFmX3Mtdkw2ZXFHS3U4QTY1b196b1V2bVppSzJ1LWJJTUZEWGlUMGwtOWF4VmhHb2FMZ0dMeDRfQ3dvdVMtaTFvMVpRa3NWQm42eWEyVUhHSXdYY3lkLTRpbFFFbEYweERHSWU1VkFWeHZ0U21takhIQldYRDMwQVdRc3VQZjlYTERVcDdLSWRsUQ?oc=5",
       "description": "Good4U recalls Super Sprouts Super Greens over Salmonella risk New Food",
       "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Food Processing Market Share, Size Forecast Till 2035 - Market Research Future",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05Mm03Zi14M3lJcjdVZTVKTV9qYUtTbnBYRjVHY2RNaVhmSFhld3JhcFN1R2NNcnZCNXBfWTBndTBWaVd3ZnA4LVdNRlRLTThld0ZQS2VsOWsxZ1I2cDE1SFFwSlozSnBBdTUyN0p6R2hBdGx2TERnek1najU?oc=5",
-      "description": "Food Processing Market Share, Size Forecast Till 2035 Market Research Future",
-      "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "Quintus Technologies",
@@ -231,6 +203,13 @@
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
       "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
       "pubDate": "Tue, 31 Mar 2026 09:53:10 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Fortress Technology to display touchscreen solution for food safety at interpack 2026 - Packaging Europe",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXJvUXo3TWdoczNubWhpVjNDZ3dudUgySUxzWlJ4cjBFcEhKWnhNY0FjRTI5aUwtZjVXV25RdDkwQXhLVWFRWmo1ZlpKcW8zV3A2ZExicW9XcFhSalJrU0hHcmNQcFB1OVh4ME4wZEhaVDlTUmVUMzl6RnV6czduT192c012TDkxN29NakI3TTJYMnYtRWpiZHFtLUZ5Y0ktNHVrMlhWSWJaQXRQNV9VSnhkZUZWYkdsbF85OVY5NUs3Qm9maFgyellrR1A?oc=5",
+      "description": "Fortress Technology to display touchscreen solution for food safety at interpack 2026 Packaging Europe",
+      "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -252,6 +231,13 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXZMXzNQYVBNSGZZXzRBWGF4UnBjVjdSeVoyVE9xN2VYMUwzNGZoTTFYVUJ1S1FCVUNiTkt3WWhSX01wd3ZrMXNxbFlYMGs4aVBjeV9iMVBiX1JDQm1YU2hNbTZHemRnWGoxdzF4ZG1MWWZUN0k3aVhKVEtIWU1ZZUlrazRhY2h1VjN6ZVR0YjJXeXZPVjVuNngwUnRVemVOUUJud1dnR01wTHR0emxKc29QQjlWZw?oc=5",
       "description": "Greenhead Lobster continuing to refine its premium lobster products SeafoodSource",
       "pubDate": "Thu, 19 Mar 2026 17:56:16 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Europe Poultry Processing Equipment Market Report - Market Data Forecast",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd0dLbXRmaWdYN2JOdS1MYnJIamw1NEFfZ3VaZGhhVXMyejItcjk2RDhvcG80YTNkVm1uajZUbHFHaThPSG5Mc2hrbGlDMmg3T0R3aWNsT0lBcmR4MkhRd25XRW1DalJ6U3pIQ1N5WEY2SGZqVURHcUdtQUFpZUxnbW1HVG9adW0yN0p6VnFwcVpOb3hUWWRj?oc=5",
+      "description": "Europe Poultry Processing Equipment Market Report Market Data Forecast",
+      "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -304,16 +290,16 @@
     },
     {
       "source": "UK Food Industry",
-      "title": "£3m fund unveiled to target diet and health innovation - British Baker",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
-      "description": "£3m fund unveiled to target diet and health innovation British Baker",
+      "title": "£3 million investment to drive diet and health innovation - Wired-GOV",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjRvbDFCeDJRZXMzcWFJMUFXV1FEdTFaY1ZCX1lnYzZxNjVEcFdNODhHWjRqc1ZLNk5HYTQ0UEhpX1Zwc2ZTRHlQMW9za1JaWi1LLVFEX1VQUnZVSzF4UEYtOWZnZ0dPVnlVUjhodmppT1NlU1pWcG5JOXFKd2k1VUlDck1sU2Y2bmliTXYxTzdSNW5PZkFySzNQMXBfXzZ0Ui03ZFBHdGxRUXY3MXlzd3FVSjhhak5rR2lBOXpNSjY?oc=5",
+      "description": "£3 million investment to drive diet and health innovation Wired-GOV",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
-      "title": "£3 million investment to drive diet and health innovation - Wired-GOV",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjRvbDFCeDJRZXMzcWFJMUFXV1FEdTFaY1ZCX1lnYzZxNjVEcFdNODhHWjRqc1ZLNk5HYTQ0UEhpX1Zwc2ZTRHlQMW9za1JaWi1LLVFEX1VQUnZVSzF4UEYtOWZnZ0dPVnlVUjhodmppT1NlU1pWcG5JOXFKd2k1VUlDck1sU2Y2bmliTXYxTzdSNW5PZkFySzNQMXBfXzZ0Ui03ZFBHdGxRUXY3MXlzd3FVSjhhak5rR2lBOXpNSjY?oc=5",
-      "description": "£3 million investment to drive diet and health innovation Wired-GOV",
+      "title": "£3m fund unveiled to target diet and health innovation - British Baker",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
+      "description": "£3m fund unveiled to target diet and health innovation British Baker",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
     {
@@ -325,9 +311,9 @@
     },
     {
       "source": "HPP Juices & Beverages",
-      "title": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio - The News Journal",
+      "title": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio - Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUTcycmlFc1ROWGhqNVl6ZHdOVGFhVnNtY2hZdnZuc1FFdUlWVnVRRnJTdV9QdGlrdWJnTFAzYnNEUXozcUMyY1BsMHM3My1FZmJMZTdFU2xWOGdjem9pandJZ1Z1djBmR3dfbDRxUFc1ZmRiSnk2cjBuc1BQb2VyLXZpTHZ6MG5GUURqMzJNeS1KRDVPZkt3cWFRTmxlS1JHTVRGY0RWMWZOUUt6TTVHcFY1OU12OE5nQWZ0dmZ4LTJRaVViS1duX0wxTGFHV2pjdkNLOUJJZHJyZHJqSzAwRWUxRjNUNlRsVkdKQnlEaHRXTTd2OFRrQkJSc0xVdw?oc=5",
-      "description": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio The News Journal",
+      "description": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio Delawareonline.com",
       "pubDate": "Wed, 21 Jan 2026 15:34:13 GMT"
     },
     {
@@ -350,6 +336,20 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFZNbW0wQ05lcHdEZEpxSlBHYWZtN3k3Z3hOZjRhZ2ZfX0owR0tpenhMY3RCQVdON2xtYS0xUWlJaERUa1Z6cmtQbFo2UVN6NEVReEZQUk1EQmppTWFBX1dTQzBqaS0yb1BaSndrVnZBY3dUTUxWUG02dW1jdnA3QWRudGRKSVpwdG9GTmNtUFplMWZGRGp2d2VCYlFfU00?oc=5",
       "description": "6 Rules for Canning You Should Never, Ever Break Better Homes & Gardens",
       "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "source": "Quintus Technologies",
+      "title": "Quintus unveils pilot-scale warm isostatic presses for all-solid-state battery production - Charged EVs",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWYtdVQwYl80R1Ytem9hTzNxNl9sMHFaVVlXa1h3aG9CakY5SnZEZ3NibThISEI0WmNYYXg5TG1wYzd6c0Z0MWlLbUk4UGxqQndKQW8yNlNrcGlNcGEzNnM3eEpLTW8tdy1HUnVSV1dIaTB4MDlDSEtUOWJiSkoxdnozZHJnM3BVS0huUEZ6WjNKZUczLWtUQW1xVW1KR1JPalE5RElBeWpDcFdTNXliM0REZXNxUFV0QjItWW5yYw?oc=5",
+      "description": "Quintus unveils pilot-scale warm isostatic presses for all-solid-state battery production Charged EVs",
+      "pubDate": "Tue, 09 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric",
+      "title": "Universal Pure Expands HPP Capacity with New Hiperbaric 525i System at Pennsylvania Facility - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNW14WS12LXVKNkdJc3dsTzNScDdjb1Nscks3Y1lHRlJKa2FFTHBOUUNQbnJpd1VOR2U5dk9FOHVZb3NDcDZna3FyWlRfOUZMRkZKVW4yZXdJOElKLXdyZEdGWi1lYlRXNzVxNzJpRC1hblU0V0duZXJ2SEdLYUY3TThaUnZmNklBSm10VWFfQU1OT1lkNzhtNTk5aXZQNmlNZFFqNzJQbXAxVWxoblNPLXdic1pBLTBnc3FzNUxwa2lTSGdfekc5eEIzWGtuWVF1TW9FLUVhYVZwNlo3VVVDdURn?oc=5",
+      "description": "Universal Pure Expands HPP Capacity with New Hiperbaric 525i System at Pennsylvania Facility PR Newswire",
+      "pubDate": "Tue, 25 Nov 2025 08:00:00 GMT"
     }
   ]
 }
