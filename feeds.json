@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T07:44:35.455198+00:00",
+  "updated": "2026-06-04T09:24:53.754044+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -107,6 +107,13 @@
       "pubDate": "Fri, 29 May 2026 21:47:07 GMT"
     },
     {
+      "source": "HPP Seafood",
+      "title": "Port Alberni’s The Dock+ expands, adding more space and equipment - Port Alberni Valley News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNnFTUlQ4T1NNWG5fRkdndERVTnBBZ0RwdDlvcURQMllKWGtnTzRiWjhJS3p5MFBHaFFKY0djUW9jRzJrLXJaV2w2aUk1YVNmSDBQWm5rbnhGeGlYRldBTGNhcWtkZ2FaUklsZVFfRndnd2NPZXhwWjNTcjBOeV9xRlNja0xlMFBoaGVKTk1xaGh3X3RWRHlsM0RodnV2TzFxZkk0b19NMA?oc=5",
+      "description": "Port Alberni’s The Dock+ expands, adding more space and equipment Port Alberni Valley News",
+      "pubDate": "Thu, 28 May 2026 12:32:11 GMT"
+    },
+    {
       "source": "Salmonella Outbreaks",
       "title": "Salmonella Outbreak Linked to Moringa Leaf Powder - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
@@ -119,13 +126,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQzEyTmthQTRvd0dzbkE1Zi1GMF9KREhseUtZdHhLTkNlS2RsWHRsRjJDTDg3M2lVMU5NM2FGTDhQQi1WX1NmSFk0VmxNTFNuMGFRVG9mRmx1OGZ2Q3JDMThsaEMzOERPSHU5YU1fZkR2NDBGR2kwaWdoRVZSbU4xNUYybXdmTXlyZHVWMzI1NjZRSG12YkYwY244TjhaZkxFYjBiME9HRQ?oc=5",
       "description": "A New Kind of Pressure: OSU invests in technology to transform food research news.okstate.edu",
       "pubDate": "Fri, 22 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Ready to Recall: These Meats Are Behind 40% of USDA Food Warnings - sentientmedia.org",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOU9JZzBHUmpvNWd1LXNMRDNPV1ROYVMtd2xnTEE4bG1oWXFIbFIzNDRBbGdEUmJJX3Y3WmtnSnNJTWM5MUNPUm5WMUJvLVhhSjZyc3VIdGpJUDZac0tWUGhoU2pSX0dER1lGcWNBaUx3dkxONkVnUmhWbFhremp0aldkend0dlRs?oc=5",
-      "description": "Ready to Recall: These Meats Are Behind 40% of USDA Food Warnings sentientmedia.org",
-      "pubDate": "Tue, 19 May 2026 07:00:00 GMT"
     },
     {
       "source": "UK HPP Industry",
@@ -170,18 +170,11 @@
       "pubDate": "Mon, 11 May 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Innovation & Research",
-      "title": "From science to market: OSU Ag Research advances understanding of dark-cutting beef - news.okstate.edu",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOU9aRGVVRE9vRUdqRjJQYWYzQzNMclk1M2xVUDh1amZMaS0tZHp3dm9JNXNhaE51QVRCbzd2YVRVd19JQjZWS1RfcDh2MlBOUzgtVVM1UEw2VmVQSUwxR1otUkFUYnRhTnpwcV84THN4VjdFMUwyZzB5b29RRXV1Zm9YZU9pUldrWUcwVW84MDd2YW1OM25RbFJQSFVWNWVsSVNEWkdITTRsamV5aDd1dGNTT3lyMV80ZTEycndGXzBacGRRYk93cnZCWUlBZw?oc=5",
-      "description": "From science to market: OSU Ag Research advances understanding of dark-cutting beef news.okstate.edu",
-      "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
-      "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
-      "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
+      "source": "EU HPP & Food Tech",
+      "title": "Homogenizers Market Size, Share, Growth, Analysis, 2034 - Fortune Business Insights",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92ZEhjb01RS1hkNDIwWVoycVBYYTBKRllwdXpkXzVHU0xFTHk5MkZTUlIzcVNsbUdEZWlqU3RiYWhCcWY5WTlDRzBXTjNpRmFpUHgwUGhKUnE1enFqX2lYelNjNTRjWG50OW9UMG9iemdidlJh?oc=5",
+      "description": "Homogenizers Market Size, Share, Growth, Analysis, 2034 Fortune Business Insights",
+      "pubDate": "Mon, 04 May 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -198,6 +191,13 @@
       "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT"
     },
     {
+      "source": "EU HPP & Food Tech",
+      "title": "Europe Frozen Desserts Market Size, Share & Trends, 2034 - Market Data Forecast",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDBGWGxxZC1pQmY1b2pjZlBxWFFoaFpIUE9nZENpNW9fM1VuYlNGR2VudU1jcnVrVGs3S2VZbjJOSWFVVFBhSU1GMk9YNVZsSFZfMEVnb2I0bnlUckIxT1hpMGFoQnRmRjNydG9QZnBZX2IyWHk5QUpKQjA1Tmx3TXZtLV8?oc=5",
+      "description": "Europe Frozen Desserts Market Size, Share & Trends, 2034 Market Data Forecast",
+      "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT"
+    },
+    {
       "source": "Quintus Technologies",
       "title": "Sydney Manufacturing Hub to install new hot isostatic press in January - AuManufacturing",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX1ZFZ2NxWHlRay1aeVZxS3p6WVVjc1Y2LWhrNi1rZlQyNm52Q3JrUGtMQVZPVHo1VkJ4Qk1RY0IyMXY2YXcwaWtRQUVaSWs5VGRHYW1Bdkd5Yl9XSUZVZFdhYnI5alBnSHdWRFpHRlU2YTdOd19kMXVnc1BOY0psaTdHeTVNVTAzQlVoeVJ3dmxyalBHWTU1bC1OOG52NFRSSE9SanVKQjNrdw?oc=5",
@@ -205,7 +205,7 @@
       "pubDate": "Wed, 01 Apr 2026 01:54:16 GMT"
     },
     {
-      "source": "HPP Seafood",
+      "source": "UK HPP Industry",
       "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
       "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
