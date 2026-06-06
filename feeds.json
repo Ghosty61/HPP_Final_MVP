@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T00:54:22.775786+00:00",
+  "updated": "2026-06-06T03:11:36.790429+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -107,6 +107,13 @@
       "pubDate": "Mon, 01 Jun 2026 11:28:14 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "Federally Reported Multistate Listeria Outbreaks since January 2024 — CDC, FDA & USDA-FSIS - Food Poison Journal",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX2NsVy16Uk1XRW9uSVpXclM4c0lCNWp3LW5SdkRpY0JzM2kzYU43M1hxdThwTFhpaE5jSU9FcHVST0FDTlAxWDg1WEFBQWM4QV9laDlFZDh2WUJCRGVlNDVfemlyNU9MLUJ4Q0pCZ1NmM095emhCLUhNYUpWRy1Nc1ZMTjJLbUdYTTB6bkVoeEhLNUtPVkhROXlMWW1JOHpZU0owU3FGVC1NamdDcEQza2hlSU5yNWxnSHpGeGx0bm5hRWY0SXRaOGhTSHVZaHNJTnVJcTZtMjRibDhWdFFQSA?oc=5",
+      "description": "Federally Reported Multistate Listeria Outbreaks since January 2024 — CDC, FDA & USDA-FSIS Food Poison Journal",
+      "pubDate": "Sat, 30 May 2026 16:58:46 GMT"
+    },
+    {
       "source": "HPP Equipment & Machines",
       "title": "Expansion at the Dock + boosts seafood processing in Alberni Valley - Ha-Shilth-Sa Newspaper",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXFGTmZ4ZW9NamJNeVhqV29yeFQ0SzlTYzBXcnl1RHltM0NIODNMVTFhT2VPaUhCbDFwanJEazNfZEoweXJkWGhtSGRwZWlycjJwWFgwdmZBU2RlSlRlTjhfQ3J4UDlrcUg0N1ZzX2puWVo4amFUczJFcGZCZWphenBFN0dUSlMwWVdIZ2ZmT1daOG90b0Z6X0RB?oc=5",
@@ -184,13 +191,6 @@
       "pubDate": "Tue, 12 May 2026 07:00:00 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "Public health alert issued for deli item sold in Illinois due to listeria; 3 sickened - NBC 5 Chicago",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQajhWSHFIeFQ5UWMxQXctal82Y3ZLV0l4SWFEMkdtRWtkbF9XdE4tMTBsaUpjXzQ3S01pNFBQZWVZd2NpeDhlbGhqakl2MGx4YnFjVW9tSDlfTm9RR0tQdXFpVXpSbkU3bGZaQ3FGR0QtbEFEdm5Id2w2TXgzSWpvT1IwV19Zb182aFMtcXVpZ3fSAZgBQVVfeXFMTk9HSUQ0S0VPalJKZEI1cGQ3LVR5S3QwVDVsWE9vb0lmd3A1cUlOVXp5ZzBJSHdLUHl5U0EzMG1rM3JISERaX21YVFhZN2hDNjM0V0tjX3QtUmx6YjI5SzNxZmhoVkVkOVppOWZibnNUZTBMMm9OR1J2NkljMjJKZHFRV29aR3dTSG1aVWoyODNlMURkYllVRy0?oc=5",
-      "description": "Public health alert issued for deli item sold in Illinois due to listeria; 3 sickened NBC 5 Chicago",
-      "pubDate": "Mon, 11 May 2026 07:00:00 GMT"
-    },
-    {
       "source": "Food Safety UK & EU",
       "title": "Chocolate company recalls entire product line over salmonella contamination fears - The Independent",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQTc3SWNsR29SWU4tS0NQSDRxU1B4WVExRTk3eUt3MnhSVTNqWHZ2S3JWLTJ5aGFSUm5XTG5JV19mU3VPS1pBSl9fWDgtNlRuTG9rR3R4cElLeG5GbjFNX05wem5MVkpmazI5VXo2Wm1sX3ItRG5QMUp4Vkl5OWVib0ozalc1cWt0eElpVi1YUVlLSlpmOHo2VzkyUQ?oc=5",
@@ -213,9 +213,9 @@
     },
     {
       "source": "HPP Healthcare & Medical",
-      "title": "Universal Pure Data Breach Exposes Sensitive Personal Information - Claim Depot",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iczUzZHNzYTlQUmF6azdNd184N3RrQi15Z0NQZUVBOGZsWEFDT0U1RkpPRURQY18yM1FrenF2STA4TjFyMzIzc0tUSVJWN1dJMHN1R3ZuMDYyZWhyRjJrSlVVSi1fVFoxamc?oc=5",
-      "description": "Universal Pure Data Breach Exposes Sensitive Personal Information Claim Depot",
+      "title": "Universal Pure Data Breach Investigation - Claim Depot",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13VVNMeWdmelE4RVMweHdGb3pGeDJWZUpZc0hDejV3V2ZBX3BEWGZTejc0YjE1aHhPaGhCajdZb0szM0JEWW9nbV93a2phQVI3bWUyeXpCcEstdXlYZzZKcjM0dFN4RDJFQWJxZjN5UE85clN3dENnYTdWTmxmUQ?oc=5",
+      "description": "Universal Pure Data Breach Investigation Claim Depot",
       "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
     },
     {
@@ -275,13 +275,6 @@
       "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Healthcare & Medical",
-      "title": "Gelatin production from red tilapia skin fish using high-pressure processing and its characterisations - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtdE9HUzlMckh4djM0dlpzU3NuNzBjVTlIUmpaZHhTMGxGSFZRdnlkbkhBQkhnRmJKUFVzMXBrdGNDbDF1QTlScERjcE1Ca24wZ1Nmajk2Q3BTbU5wNkJR?oc=5",
-      "description": "Gelatin production from red tilapia skin fish using high-pressure processing and its characterisations Nature",
-      "pubDate": "Mon, 02 Mar 2026 08:00:00 GMT"
-    },
-    {
       "source": "HPP Dairy",
       "title": "Impact of processing techniques on donor human milk: a multi-omics and bioinformatics scoping review - Frontiers",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNW1tRzNnV0tmMUNMdHJuQkdTYThyV2I1RkROYTFkWXNjMTVCRDNzX1JLbG9MWGF5N204dzB1MVRweVY2MUZJM2l3TVB2R0RXYVJkYVZ1bVdDUEtVV0VxX190eEtzY1FzQ2ZCWGhNN1BCclZMMG1xZVpTWjJiT05KTmhwSFpkbnE1ZDFBZFhCYw?oc=5",
@@ -324,13 +317,6 @@
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "Meet the food innovation centres leading the way in sustainable, tech-driven development - FoodBev Media",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVUY204LVk3LUY2MXN6QXVRcnJKb0hKbFBRbHNpeXAxSlhzN3c1WW90NGY1UzNCU1cwUDNmbFd6LTRTZWpYZ0lpTTdJRnRQT3ptQ3hneVdYSnRWNjdYRGNsTkV0S21Jb1M5Sk83T21aeE1VVWNSZWkzUEI4b0lKTWR1VTN1ZjAyYVl3eXFRX014ZzlJUnRRM2J3MEJaYVJHTzNWZzNoTVlNbVdsS2lydDBVX213Q0E?oc=5",
-      "description": "Meet the food innovation centres leading the way in sustainable, tech-driven development FoodBev Media",
-      "pubDate": "Fri, 23 Jan 2026 08:00:00 GMT"
-    },
-    {
       "source": "HPP Juices & Beverages",
       "title": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio - The News Journal",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUTcycmlFc1ROWGhqNVl6ZHdOVGFhVnNtY2hZdnZuc1FFdUlWVnVRRnJTdV9QdGlrdWJnTFAzYnNEUXozcUMyY1BsMHM3My1FZmJMZTdFU2xWOGdjem9pandJZ1Z1djBmR3dfbDRxUFc1ZmRiSnk2cjBuc1BQb2VyLXZpTHZ6MG5GUURqMzJNeS1KRDVPZkt3cWFRTmxlS1JHTVRGY0RWMWZOUUt6TTVHcFY1OU12OE5nQWZ0dmZ4LTJRaVViS1duX0wxTGFHV2pjdkNLOUJJZHJyZHJqSzAwRWUxRjNUNlRsVkdKQnlEaHRXTTd2OFRrQkJSc0xVdw?oc=5",
@@ -350,6 +336,20 @@
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSVo1em95Tjc1b3d4Tm9HNE1vaWVrMlZZQ2FBMGUzbDM4bUNGaVJDc3luTWVWTi1GWERhcTV1cGxIRmthZU5kcWZoRnF1WVY5bkl0TS1JcGhBSVJsT2NaSW5nVHVTUXkwRUpaY29tUGdJUDFzc1ZRSDlzRHdSWElxa21nNENpeWJRZWxMRU56ZzVWbG51SFFUZGt4czBUMTZYOFI3Q0JLRDd5SDZjX0FrY21sYzFra0N1bFFsQ1BjQXJJLTgzZHdqWl9TRWJxMnFxM3RJT0xLTlJiX040eUxoU0taSUQ0UVNxX0dHU3pzdTNNQU9VQ2czaWN2bFRzVXFTMTBHLXBGNF8?oc=5",
       "description": "Quintus Technologies and Lyric Robot Form Strategic Collaboration to Accelerate Industrialization of Solid-State Battery Production PRWeb",
       "pubDate": "Tue, 23 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Soups & Meals",
+      "title": "6 Rules for Canning You Should Never, Ever Break - Better Homes & Gardens",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFZNbW0wQ05lcHdEZEpxSlBHYWZtN3k3Z3hOZjRhZ2ZfX0owR0tpenhMY3RCQVdON2xtYS0xUWlJaERUa1Z6cmtQbFo2UVN6NEVReEZQUk1EQmppTWFBX1dTQzBqaS0yb1BaSndrVnZBY3dUTUxWUG02dW1jdnA3QWRudGRKSVpwdG9GTmNtUFplMWZGRGp2d2VCYlFfU00?oc=5",
+      "description": "6 Rules for Canning You Should Never, Ever Break Better Homes & Gardens",
+      "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "source": "Quintus Technologies",
+      "title": "Quintus unveils pilot-scale warm isostatic presses for all-solid-state battery production - Charged EVs",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWYtdVQwYl80R1Ytem9hTzNxNl9sMHFaVVlXa1h3aG9CakY5SnZEZ3NibThISEI0WmNYYXg5TG1wYzd6c0Z0MWlLbUk4UGxqQndKQW8yNlNrcGlNcGEzNnM3eEpLTW8tdy1HUnVSV1dIaTB4MDlDSEtUOWJiSkoxdnozZHJnM3BVS0huUEZ6WjNKZUczLWtUQW1xVW1KR1JPalE5RElBeWpDcFdTNXliM0REZXNxUFV0QjItWW5yYw?oc=5",
+      "description": "Quintus unveils pilot-scale warm isostatic presses for all-solid-state battery production Charged EVs",
+      "pubDate": "Tue, 09 Dec 2025 08:00:00 GMT"
     }
   ]
 }
