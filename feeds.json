@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-09T03:13:05.990327+00:00",
+  "updated": "2026-06-09T05:26:59.460963+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Boar's Head inspection documents show years of safety problems preceded outbreak",
+      "link": "https://www.foodsafetynews.com/2026/06/boars-head-inspection-documents-show-years-of-safety-problems-preceded-outbreak/",
+      "description": "More inspection documents showing food safety violations at the Boar&#x2019;s Head production facility in Jarrett, VA, have come to light. A deadly outbreak of Listeria infections in 2024 was traced to products from the plant. The outbreak, which ran from January to July in 2024, sickened 61 people",
+      "pubDate": "Tue, 09 Jun 2026 04:04:14 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "UK updates number of infections linked to travel to Cape Verde",
+      "link": "https://www.foodsafetynews.com/2026/06/uk-updates-number-of-infections-linked-to-travel-to-cape-verde/",
+      "description": "The number of people in the United Kingdom infected by Shigella after going to Cape Verde has increased but no cases have been recorded in recent months. The UK Health Security Agency (UKHSA) is also monitoring three clusters of Salmonella infections associated with travel to Cape Verde. UKHSA said the",
+      "pubDate": "Tue, 09 Jun 2026 04:03:55 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Requeson cheese recalled because of Listeria risk",
@@ -44,13 +58,6 @@
       "pubDate": "Fri, 05 Jun 2026 04:05:41 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "FDA steps up enforcement on imports related to colors, pesticides, Salmonella",
-      "link": "https://www.foodsafetynews.com/2026/06/fda-steps-up-enforcement-on-imports-related-to-colors-pesticides-salmonella/",
-      "description": "The Food and Drug Administration uses import alerts to enforce U.S. food safety regulations for food from foreign countries. The agency updates and modifies the alerts as needed.",
-      "pubDate": "Fri, 05 Jun 2026 04:00:11 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "Deadly Listeria outbreak traced to Clover Hill cheese - Food Safety News",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWlIwekZQcGJWbUoxeUdTSTI4N1k5cGF1Q3BsdmNRQ2RrejBXQTJMVEh1ZVhmUDlwX3ZtZ3JIZVZ0c09waWtGUDBPakJnajBpWnNPZGg3czJROUFOUllBelJCNkItZ0RWSGJYd3JkT2pLbDJTNUc1RkZ4Z1JYcWQ3STBmaHpzVUwzQjM0YzZaVUo4cmQxdktCeg?oc=5",
@@ -63,13 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnWjhCNHNhYVc0akVYTjJROUx6VGFjOG1qNEp1Y242M3o4TWZiaHBidHlfeU1EVzE4N0ZjMGJnT0JpM3M3Q1JMRWtZNEpfYUkzRHVmTjh2MkdwdmhPdzVlTXVaQmd1UVE2TTB0QllEYS0tME93VUE?oc=5",
       "description": "Listeria Outbreak Linked to Requesón/Soft Ricotta Cheese Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Thu, 04 Jun 2026 23:21:40 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Deadly Listeria outbreak traced to Clover Hill cheese",
-      "link": "https://www.foodsafetynews.com/2026/06/deadly-listeria-outbreak-traced-to-clover-hill-cheese/",
-      "description": "A sample collected from an unopened 18-pound sealed bucket of requeson manufactured by Clover Hill Dairy LLC tested positive for Listeria.",
-      "pubDate": "Thu, 04 Jun 2026 22:27:18 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -129,9 +129,9 @@
     },
     {
       "source": "HPP Seafood",
-      "title": "Expansion at the Dock + boosts seafood processing in Alberni Valley - Ha-Shilth-Sa Newspaper",
+      "title": "Expansion at the Dock + boosts seafood processing in Alberni Valley - Ha-Shilth-Sa",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXFGTmZ4ZW9NamJNeVhqV29yeFQ0SzlTYzBXcnl1RHltM0NIODNMVTFhT2VPaUhCbDFwanJEazNfZEoweXJkWGhtSGRwZWlycjJwWFgwdmZBU2RlSlRlTjhfQ3J4UDlrcUg0N1ZzX2puWVo4amFUczJFcGZCZWphenBFN0dUSlMwWVdIZ2ZmT1daOG90b0Z6X0RB?oc=5",
-      "description": "Expansion at the Dock + boosts seafood processing in Alberni Valley Ha-Shilth-Sa Newspaper",
+      "description": "Expansion at the Dock + boosts seafood processing in Alberni Valley Ha-Shilth-Sa",
       "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
     },
     {
@@ -168,6 +168,13 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVUNzUXExN1ViSzdlUmIydGZIdUxrVHFHX3Fsc3cxdE91amU2c25VbHozQUJFSS1YSi1zY1dJSEdKWjZuZk5UYXhMNm9sMzExWEFVM2RsUlBKQldhcXYwLTEwcC1FMTZWRnoyeVJ6N0ZrTGVMVXVhdlFOa3E4RnRNNzliNWdyb0N3OEVJ?oc=5",
       "description": "Valmet's hard nip sizing technology boosts strength properties in customer's board machine in Europe Yahoo Finance Singapore",
       "pubDate": "Mon, 25 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric",
+      "title": "A New Kind of Pressure: OSU invests in technology to transform food research - news.okstate.edu",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQzEyTmthQTRvd0dzbkE1Zi1GMF9KREhseUtZdHhLTkNlS2RsWHRsRjJDTDg3M2lVMU5NM2FGTDhQQi1WX1NmSFk0VmxNTFNuMGFRVG9mRmx1OGZ2Q3JDMThsaEMzOERPSHU5YU1fZkR2NDBGR2kwaWdoRVZSbU4xNUYybXdmTXlyZHVWMzI1NjZRSG12YkYwY244TjhaZkxFYjBiME9HRQ?oc=5",
+      "description": "A New Kind of Pressure: OSU invests in technology to transform food research news.okstate.edu",
+      "pubDate": "Fri, 22 May 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
@@ -226,13 +233,6 @@
       "pubDate": "Mon, 04 May 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
-      "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
-      "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
-    },
-    {
       "source": "EU HPP & Food Tech",
       "title": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage - funcas.es",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BTaXhwYnBzVTdZSldMcFJKR2FSQl9JMFoxQ0VEdEg4NmFObGY0ZldMWHE5U3hVQk9RZm5icmJXWlhKRHVsQzZWNllzT0tNUlVRc25pTzZDclk4eGlsZ3k0cmlScktfRlNBRUt3eWJQdUhHemtOSXJjelk1WjFBTWVoSjBQV0oycHdXZS1BYy1hNmhRVEY1T0tXZUZRa2doa3NyMlZpR1dtYmx3dTlId2duX1M4UVlZbVlOY0FnMlNMbzFRMXk5dTFZdUV6SEhVc2hSdmVjWjFlRndSNzdVMllIcDY?oc=5",
@@ -268,7 +268,7 @@
       "pubDate": "Wed, 01 Apr 2026 01:54:16 GMT"
     },
     {
-      "source": "UK HPP Industry",
+      "source": "HPP Seafood",
       "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
       "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
@@ -338,17 +338,17 @@
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "HPP Soups & Meals",
-      "title": "Bowen Yang says watching SNL after his exit is 'totally bizarre' but 'ultimately fun' - The Express Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVWF3ZU53Rk12bWZfWXBWU21lTXFYTFlDT2tmMk5hT2tYS3oxSUJ4WGFEWURHcUxmbUhpRHNQX2ZoWUpXV29PX0k5MmoyN2R5ZnJvcm1UX2VwZ2syN1U5RVhSYVpMeEtQcTB6cEE2VFNMa0t5Q3lZZHJoUmpfVjduS3VsRE1tSmZaSG8wcXROMldURF90R3BXWGdGRG5sS3h1ZEJ1LVdpdW1RbXJlc3h6UmdjRG92NHpCaVHSAcIBQVVfeXFMUHQ5OWFuZV9IUlRzY244WTduTHFUOVRTSG5GNlNldHdtc0hUeGR1cjZWYmdBUEwxckJ4U1paQ2xwWTdwc2YxQzZIWU13WDdzaFlDemR5V0d1S3FGUl9EbVNSZGhpWUxuXzdRX3pYaFBsSFE3V242WUNDYXV2cGhLVHBrcmFBTC1yX1V0TUlRQXUxbDlTUW5KUVNnT0Y2ZWtoak8tdnBtMDRYbkcxb2hvWUxEZy1DOWpzYVhXMm1CellXTFE?oc=5",
-      "description": "Bowen Yang says watching SNL after his exit is 'totally bizarre' but 'ultimately fun' The Express Tribune",
-      "pubDate": "Sat, 07 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "UK Food Industry",
       "title": "£3 million investment to drive diet and health innovation - Wired-Gov",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjRvbDFCeDJRZXMzcWFJMUFXV1FEdTFaY1ZCX1lnYzZxNjVEcFdNODhHWjRqc1ZLNk5HYTQ0UEhpX1Zwc2ZTRHlQMW9za1JaWi1LLVFEX1VQUnZVSzF4UEYtOWZnZ0dPVnlVUjhodmppT1NlU1pWcG5JOXFKd2k1VUlDck1sU2Y2bmliTXYxTzdSNW5PZkFySzNQMXBfXzZ0Ui03ZFBHdGxRUXY3MXlzd3FVSjhhak5rR2lBOXpNSjY?oc=5",
       "description": "£3 million investment to drive diet and health innovation Wired-Gov",
+      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "£3m fund unveiled to target diet and health innovation - British Baker",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
+      "description": "£3m fund unveiled to target diet and health innovation British Baker",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     }
   ]
