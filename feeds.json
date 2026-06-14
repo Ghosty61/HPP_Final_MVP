@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T09:10:20.811775+00:00",
+  "updated": "2026-06-14T11:01:17.111613+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -51,6 +51,13 @@
       "pubDate": "Sat, 13 Jun 2026 02:11:36 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "CDC Investigating Deadly Listeria Outbreak Linked to Ricotta Cheese—Here’s What You Need To Know - Simply Recipes",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTzdDUUVCZWtUX2xxcndseUF6M04tWE12ZXR0YmpvMDdoS0hUNGNHQ0ROM3hXdnZQTHV4UllDS255ZlVEMkI5dmZHMUkwNUtZVDI4UjZoRktQUVFfZ2ltY2xyaDQ3VWsyS2oyeHBrSGRlZDhiR3NCMmRtdEQyQW4wdWpR?oc=5",
+      "description": "CDC Investigating Deadly Listeria Outbreak Linked to Ricotta Cheese—Here’s What You Need To Know Simply Recipes",
+      "pubDate": "Fri, 12 Jun 2026 21:10:08 GMT"
+    },
+    {
       "source": "HPP Dairy",
       "title": "GEA Unveils New KOB High Pressure Homogenizers for Efficient Production - Dairynews.today",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOanlGbGhEbDV5Mm1ZSUxBQXppMnNEME5RSUx5QU9oYzdPVUg5blZxcWZ6YTZxZnl1V1ZQMlk0MnRsZjQxeTdSZkZYMUpJb0poa1NZbUZDVURIUnJ1cXJMMkV2SVNxaG1yeXV1RjVsWFJvNnFvQWFfdWxZNVJHNk96NFJDcFpyeGNwMjBHWFNEa0JqRUZfOHpORzlBZi0tNmlzZF9pb1c0aVZJVjNmY1gwYVJnSQ?oc=5",
@@ -66,9 +73,9 @@
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "FDA Announces Recall on Cheese Due to Listeria Outbreak—Here’s What to Know - EatingWell",
+      "title": "FDA Recalls Ricotta Cheese Over Listeria Outbreak: What to Know - EatingWell",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT01UTDRWd3Q0bmFQcFlaWUxRWEREb3ctZU9sOEh2bDhKbEhpZHUyTEVhSHJxbm9wZUctbHV3R0Z3R1F6aWRJRWp6THF1QkcxX0VOTEZ6VDBCaDhraXFMT0YyWWZKVWk4OXhOVzNGMnJCNVJHam8yc2dVN1NPMWVkOEFNTW1ISUM0YnNPSg?oc=5",
-      "description": "FDA Announces Recall on Cheese Due to Listeria Outbreak—Here’s What to Know EatingWell",
+      "description": "FDA Recalls Ricotta Cheese Over Listeria Outbreak: What to Know EatingWell",
       "pubDate": "Fri, 12 Jun 2026 13:58:43 GMT"
     },
     {
@@ -93,39 +100,32 @@
       "pubDate": "Fri, 12 Jun 2026 04:03:26 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "The latest product recalls and safety alerts from Which? - which.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnZEdm8tLUMxdlpRajZ4bGZ1eE5nRElJdGtTVDB5R0hMcWxoV2NIV1BvSkNsY3BUaGl6TzV2cXZSdEZWV0JOenZseW5icmxadFBZcERkOGpMb3BjaGJrN241Q1VCeWw1TldCMjBscEtfTzkwM2tsTTJyQlI0VkFaVWRseVZObmoycnRFaXJkQlY?oc=5",
-      "description": "The latest product recalls and safety alerts from Which? which.co.uk",
-      "pubDate": "Thu, 11 Jun 2026 07:00:00 GMT"
+      "source": "Listeria Outbreaks",
+      "title": "Multistate Listeria Outbreak Linked to Cheese Leaves 1 Dead, 8 Hospitalized - TODAY.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2ozVjdUNjFyOHFYZUxId1JoY2l4YUQweUpONTNraFJPQmREOTE3U1RONjduZTVfZkFCRmFuUlJnQ2dsdmFIcTI1eXlWN1VEMmFCRXdCaFJVc1N5QjBLTTd3cFNnQUZOTXB2X201NGVqbHB4eXUzOExRVU02VDlkak1OdHowY1NMeWYtS3NOaG90Zl9IcTdzZTFlQThPWlZvLTJ6cHNncHJ1TlU?oc=5",
+      "description": "Multistate Listeria Outbreak Linked to Cheese Leaves 1 Dead, 8 Hospitalized TODAY.com",
+      "pubDate": "Thu, 11 Jun 2026 18:11:20 GMT"
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "Clover Hill Dairy Ricotta and Requeson Cheese Linked to a Listeria Outbreak - Consumer Reports",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1lveTdpVlRzSnhmeG5nY08yTW1uQU5mWl91dXlRZ19NTFFDNDh5UllqQ2xIMFZhYWRjbXo4Zzd2Wk9KU0c4c1M3WllVSjdCLU5Od2hHUmN3WDVHUnRRdTYxUi0xUTFpM29qU1ZVOHdxS2tvYkFQT044Y3RWWVBtd201QVpoLVVaWktGUUM3QzloN2pMQUk4ZkRWOXRWcm1SajJ4cnEtM1Zock9qY215VFFFODhsdWVP?oc=5",
-      "description": "Clover Hill Dairy Ricotta and Requeson Cheese Linked to a Listeria Outbreak Consumer Reports",
-      "pubDate": "Wed, 10 Jun 2026 19:00:13 GMT"
+      "title": "Listeria outbreak tied to soft cheese kills 1, sickens others across several states, FDA says - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObk5GM2dyYVBzX3N2VV82Q2NrU2NWNEhzUG9YWUE2V1VUem9LaElXdWozT2xJeUsySHgtMUVLN3pxTm9WSnQzaTQ1ZGxBSzBqeUJUOW1VVjZvM0p1bkFMUWt3LWRJUi1BalpIdTV2T3A2eUs0VWo4WVhpbkJkT0hMQkhqM1TSAYoBQVVfeXFMTzZIdEJtZGdpWkVreHU0WFFNV3o4UG44NFZlbmFiaXdVcWtNUFBfUlN6OTUzNU5QRDNMZzNsalNWck0xMTJBUm1pcXJEQUhfelhEajVHYWVJOW1SOC04NGZ4TmtDS1k0NXdNMXI0UkNWZlpXQ1gxZUhtSVgybnBGRF9WNGNIUEtPeGlB?oc=5",
+      "description": "Listeria outbreak tied to soft cheese kills 1, sickens others across several states, FDA says The Hill",
+      "pubDate": "Thu, 11 Jun 2026 17:42:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "Deadly Listeria outbreak linked to soft cheese sparks recalls in multiple states: Avoid this list of products - Fast Company",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT1V1d1g1X2o2UE1TaWZRYXloYXZNR2FDeHJrenYwTHZocGJoVURWLXNfZW4tX2VHMXF3NVhMZFhadUdnX1hiVWViUnJ2NzRIMS1DcXVCZzlVNzFtUGd0T3VCYzBFdloyLVFWV0VDakNhR2pOeWFnb1BhUFRwWjY1TnM3WDV2WEZfYW9TdVB0WlUyNW93XzRQR3VncS16OVVx?oc=5",
-      "description": "Deadly Listeria outbreak linked to soft cheese sparks recalls in multiple states: Avoid this list of products Fast Company",
-      "pubDate": "Wed, 10 Jun 2026 14:21:57 GMT"
+      "title": "These Recalled Soft Cheeses Could Contain Deadly Listeria, Health Officials Warn - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdHBTTUFpSnNTdE9Td1dnb0VnSHZCeF9OQUl4bGxpZm5oWXVXQU9oWUdFMW9fX0xMeC1DTTdBSFFHdkp5OXBoelJoZGliUmRBaEw1VTBZR1doajQySUtNZ0k1MUc5VENham43eFQxTi11WGhEcjQ3enhJYVlQa3hEWkNqUnhZb3UtS3kyVF94eUFhZmd6a09mc1Z2RFNQMkpENGRDY0g3ZW8tVG9zazI4?oc=5",
+      "description": "These Recalled Soft Cheeses Could Contain Deadly Listeria, Health Officials Warn Gizmodo",
+      "pubDate": "Thu, 11 Jun 2026 15:05:28 GMT"
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "Officials warn about deadly listeria outbreak linked to this cheese - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaEZKNTNqZUtRUmtPYk1MWFdjUWRENFM3S08xZV9VYTgyeGN3YnJfSHN4SjY0UWRpT2hJeXUycG1jREt0NnZMR29iR3luMUNOQW54VkE2VVVOYTFhR3lHLUlJejhFYnMwQTZPM2YzZ3JtU0MtMUI3SFkwbWFUYTRwbHBTaGhSNXIxR1otSXd3T1pETWRYUnFGV0U3Wld3TG4tYTVOS3U1LTNfdXJhanRSSXB4OElrUkJkd1Bseg?oc=5",
-      "description": "Officials warn about deadly listeria outbreak linked to this cheese USA Today",
-      "pubDate": "Tue, 09 Jun 2026 17:59:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Investigation Update: Listeria Outbreak, June 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeURCSzJmTjhpWEttM0RXTC1fcmtWZHkxeGk5Q2lheTdneWhwMW1KaHYyamVLeWNnYVhROW1lcm1QMWFzZzZhdmtIcHhVTDFjekVkakhwcVpaMTgtOWFERE1QYUNFOUwwQUc2OW5ITldOVXRLRW5MbWluZ2Y0WXRtNA?oc=5",
-      "description": "Investigation Update: Listeria Outbreak, June 2026 Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT"
+      "title": "New Salmonella Outbreak on FDA CORE Investigation Table - Food Poisoning Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaURPSFpDSWJUX3VyN0gxOW9fNVkyOGN2OUl1NnJsNUhUSTZEc3lWckFEVUNjUWVfR2JhdlFCaXJncWh4LWM2dUdWZzZmd0dqSGs0ZzhqazhJcndaTU9LV2JEMEhaOXNJNllNaTVMSnJqMXNRbV9kc2ItZVcxU0xXTm9tZ2tiT2FVYnRudzBrWUlXclIyeDlzdVc4MA?oc=5",
+      "description": "New Salmonella Outbreak on FDA CORE Investigation Table Food Poisoning Bulletin",
+      "pubDate": "Thu, 11 Jun 2026 12:52:41 GMT"
     },
     {
       "source": "HPP Innovation & Research",
@@ -133,13 +133,6 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWNONmEzaEdyVzkzNFlZUnI2SlpIR01YQ0lTdzJ3TFN6N0lzSEs0OTBseHhLSXRaVGhkSERSVDlnWHY3bDBZRjhTWjlZVW1CNmJmcjFaRkgweUdVdC16TGFLcUZVU3NXOTM4MWZ6bENIUE9TWmFEMlJfTTZuMXFiRXRaOTM?oc=5",
       "description": "High pressure food processing access expanded for local businesses University of Hawaii System",
       "pubDate": "Mon, 08 Jun 2026 18:30:43 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Outbreak Investigation of Listeria monocytogenes: Soft Cheese (June 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbDUwU3k3c0FIa0duaHZaSjJNSGNLN0lJd0M3T05TNHZsb1NDSHdNMVVnWkhvUldHRGFRQkdoSFItc2c0SVJyUTdqQzlhNXRWdUpIQmRUWmVtTTdidzlKMl9KZEtQOTFCODdzY3ZkeS1WYW50MzVTcUItSnlVbi02azhQLU1uaTE0M0hpU3NDc1ZzQkFOOFM5dzdFemdtdklKS0NKTHVzNWNiVXl6dEdLS0tCTVhBSDRXWHBNOQ?oc=5",
-      "description": "Outbreak Investigation of Listeria monocytogenes: Soft Cheese (June 2026) fda.gov",
-      "pubDate": "Fri, 05 Jun 2026 07:19:26 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -156,6 +149,13 @@
       "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
     },
     {
+      "source": "HPP Seafood",
+      "title": "Port Alberni’s The Dock+ expands, adding more space and equipment - Port Alberni Valley News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNnFTUlQ4T1NNWG5fRkdndERVTnBBZ0RwdDlvcURQMllKWGtnTzRiWjhJS3p5MFBHaFFKY0djUW9jRzJrLXJaV2w2aUk1YVNmSDBQWm5rbnhGeGlYRldBTGNhcWtkZ2FaUklsZVFfRndnd2NPZXhwWjNTcjBOeV9xRlNja0xlMFBoaGVKTk1xaGh3X3RWRHlsM0RodnV2TzFxZkk0b19NMA?oc=5",
+      "description": "Port Alberni’s The Dock+ expands, adding more space and equipment Port Alberni Valley News",
+      "pubDate": "Thu, 28 May 2026 12:32:11 GMT"
+    },
+    {
       "source": "Salmonella Outbreaks",
       "title": "Salmonella Outbreak Linked to Moringa Capsules - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMLWVJWTM5UlhkYTlfeE85STdUOGJBWGpnMHh2WnVLZnVyeHB4TjhkV3RseGFCRC1tZld0b0o5SVJFOVJKZFFZYUVOTXo1RmpQUVNad3VCd09JZWRKUW1qV1NiV2lOeEhqNnlzNmxRZjh5T1k?oc=5",
@@ -167,6 +167,13 @@
       "title": "Over 230 people fall ill in salmonella outbreak - Food Manufacture",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0MxVkdySFVOa01hRTlsQjdxYVRZYUo2MWhhV2UyVV9aS2JjOHRTcnVfSUUtVGtDMHZDU1UyWmFzVGZUSjdjSXdrclpJZWtnMTBiS1Q2di1DODVQekdOcmZuTUpDSXhUZ0lNUjI5c2xta3Jxcy1fRDRUSHVkaDNxRnFiX0FKZ0V2V2QzVXNfemNSNzBjZnNzT1VXMG1BZTcxY25jUW1aMU1jOW9zTU5UZnVwb09XbUxSbEtJY0Vn?oc=5",
       "description": "Over 230 people fall ill in salmonella outbreak Food Manufacture",
+      "pubDate": "Tue, 26 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Functional Food Market Size, Share, Trends & Analysis, 2034 - Market Data Forecast",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qUHZkanlJRElEbXozVm0zZTRLN0wtck56djYtQ0dNQ3FHYmVka19yMkI0Mmd6VTFlejdqaEVQSmVQTUx1TWRzT3g4a05HN2VuQll5SEswbmkwS3Z1WGc4a1k4ZTlMOURUd3Zoa21IMTdhMXZDUmZnR0VSazM?oc=5",
+      "description": "Functional Food Market Size, Share, Trends & Analysis, 2034 Market Data Forecast",
       "pubDate": "Tue, 26 May 2026 07:00:00 GMT"
     },
     {
@@ -212,11 +219,32 @@
       "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
     },
     {
+      "source": "Food Safety UK & EU",
+      "title": "Frozen pizzas sold at Aldi and Walmart under recall for possible salmonella risk - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYmpjWWdZekp3ZkRsai1xMDQzNGlfcHhWSC1kLTdZcWRWRko5WmVpOTJ2bEd3MGUxRFVCc20xMURLcnM5MlBWZktqdU56cFZLSU9JTXVkVWpPNEtTanRHcHZZTUFaNFc5cTMyRDg0ZU1YSnZjaVJiZ0FBOGtNa3c5Uk1BN2JjeFBSNy1wLWtYMTU2Y2lmaFhTZnFnUUpfckE?oc=5",
+      "description": "Frozen pizzas sold at Aldi and Walmart under recall for possible salmonella risk The Independent",
+      "pubDate": "Mon, 04 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
+      "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
+      "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
+    },
+    {
       "source": "EU HPP & Food Tech",
-      "title": "Food Tech Market Size, Share, Industry Trends, Analysis 2035 - Market Research Future",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwOGlERG4xYjVDcVBveVZhbkVfY0gyQ0hXVnN1YjJ5Ni1kSTVhaFVMRllncmc2ZUFiWDhoVHRxRW82S0tMeHEtZEF5TVVlQ2NYZjI5TTZJMnByNmI4ZUkyQnZUcU1mT1lwd3RYU3B0LVh5WFFvR3c?oc=5",
-      "description": "Food Tech Market Size, Share, Industry Trends, Analysis 2035 Market Research Future",
-      "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
+      "title": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage - funcas.es",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BTaXhwYnBzVTdZSldMcFJKR2FSQl9JMFoxQ0VEdEg4NmFObGY0ZldMWHE5U3hVQk9RZm5icmJXWlhKRHVsQzZWNllzT0tNUlVRc25pTzZDclk4eGlsZ3k0cmlScktfRlNBRUt3eWJQdUhHemtOSXJjelk1WjFBTWVoSjBQV0oycHdXZS1BYy1hNmhRVEY1T0tXZUZRa2doa3NyMlZpR1dtYmx3dTlId2duX1M4UVlZbVlOY0FnMlNMbzFRMXk5dTFZdUV6SEhVc2hSdmVjWjFlRndSNzdVMllIcDY?oc=5",
+      "description": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage funcas.es",
+      "pubDate": "Wed, 29 Apr 2026 08:10:47 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Food Processing Market Share, Size Forecast Till 2035 - Market Research Future",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05Mm03Zi14M3lJcjdVZTVKTV9qYUtTbnBYRjVHY2RNaVhmSFhld3JhcFN1R2NNcnZCNXBfWTBndTBWaVd3ZnA4LVdNRlRLTThld0ZQS2VsOWsxZ1I2cDE1SFFwSlozSnBBdTUyN0p6R2hBdGx2TERnek1najU?oc=5",
+      "description": "Food Processing Market Share, Size Forecast Till 2035 Market Research Future",
+      "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
@@ -224,13 +252,6 @@
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
       "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
       "pubDate": "Tue, 31 Mar 2026 09:53:10 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Fortress Technology to display touchscreen solution for food safety at interpack 2026 - Packaging Europe",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXJvUXo3TWdoczNubWhpVjNDZ3dudUgySUxzWlJ4cjBFcEhKWnhNY0FjRTI5aUwtZjVXV25RdDkwQXhLVWFRWmo1ZlpKcW8zV3A2ZExicW9XcFhSalJrU0hHcmNQcFB1OVh4ME4wZEhaVDlTUmVUMzl6RnV6czduT192c012TDkxN29NakI3TTJYMnYtRWpiZHFtLUZ5Y0ktNHVrMlhWSWJaQXRQNV9VSnhkZUZWYkdsbF85OVY5NUs3Qm9maFgyellrR1A?oc=5",
-      "description": "Fortress Technology to display touchscreen solution for food safety at interpack 2026 Packaging Europe",
-      "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -296,6 +317,20 @@
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     },
     {
+      "source": "UK Food Industry",
+      "title": "£3m fund unveiled to target diet and health innovation - British Baker",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
+      "description": "£3m fund unveiled to target diet and health innovation British Baker",
+      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Meet the food innovation centres leading the way in sustainable, tech-driven development - FoodBev Media",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVUY204LVk3LUY2MXN6QXVRcnJKb0hKbFBRbHNpeXAxSlhzN3c1WW90NGY1UzNCU1cwUDNmbFd6LTRTZWpYZ0lpTTdJRnRQT3ptQ3hneVdYSnRWNjdYRGNsTkV0S21Jb1M5Sk83T21aeE1VVWNSZWkzUEI4b0lKTWR1VTN1ZjAyYVl3eXFRX014ZzlJUnRRM2J3MEJaYVJHTzNWZzNoTVlNbVdsS2lydDBVX213Q0E?oc=5",
+      "description": "Meet the food innovation centres leading the way in sustainable, tech-driven development FoodBev Media",
+      "pubDate": "Fri, 23 Jan 2026 08:00:00 GMT"
+    },
+    {
       "source": "HPP Juices & Beverages",
       "title": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio - Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUTcycmlFc1ROWGhqNVl6ZHdOVGFhVnNtY2hZdnZuc1FFdUlWVnVRRnJTdV9QdGlrdWJnTFAzYnNEUXozcUMyY1BsMHM3My1FZmJMZTdFU2xWOGdjem9pandJZ1Z1djBmR3dfbDRxUFc1ZmRiSnk2cjBuc1BQb2VyLXZpTHZ6MG5GUURqMzJNeS1KRDVPZkt3cWFRTmxlS1JHTVRGY0RWMWZOUUt6TTVHcFY1OU12OE5nQWZ0dmZ4LTJRaVViS1duX0wxTGFHV2pjdkNLOUJJZHJyZHJqSzAwRWUxRjNUNlRsVkdKQnlEaHRXTTd2OFRrQkJSc0xVdw?oc=5",
@@ -315,41 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnZWU5eVlHWTlHOXUxSGt2bTl0aktmZ1lGcTBDUm13dGt1UXhSdFVic3hsOHBkejNXVzEzRDM2MWc4SlZpS2pXbjRUaFV4TXRDa3VETUtLaUYtbE5zaUhlZy1LQWNyQQ?oc=5",
       "description": "Non-Thermal Processing Market Size | CAGR of 8.7% Market.us",
       "pubDate": "Fri, 09 Jan 2026 10:51:14 GMT"
-    },
-    {
-      "source": "Quintus Technologies",
-      "title": "Quintus Technologies and Lyric Robot Form Strategic Collaboration to Accelerate Industrialization of Solid-State Battery Production - PRWeb",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSVo1em95Tjc1b3d4Tm9HNE1vaWVrMlZZQ2FBMGUzbDM4bUNGaVJDc3luTWVWTi1GWERhcTV1cGxIRmthZU5kcWZoRnF1WVY5bkl0TS1JcGhBSVJsT2NaSW5nVHVTUXkwRUpaY29tUGdJUDFzc1ZRSDlzRHdSWElxa21nNENpeWJRZWxMRU56ZzVWbG51SFFUZGt4czBUMTZYOFI3Q0JLRDd5SDZjX0FrY21sYzFra0N1bFFsQ1BjQXJJLTgzZHdqWl9TRWJxMnFxM3RJT0xLTlJiX040eUxoU0taSUQ0UVNxX0dHU3pzdTNNQU9VQ2czaWN2bFRzVXFTMTBHLXBGNF8?oc=5",
-      "description": "Quintus Technologies and Lyric Robot Form Strategic Collaboration to Accelerate Industrialization of Solid-State Battery Production PRWeb",
-      "pubDate": "Tue, 23 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Soups & Meals",
-      "title": "6 Rules for Canning You Should Never, Ever Break - Better Homes & Gardens",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFZNbW0wQ05lcHdEZEpxSlBHYWZtN3k3Z3hOZjRhZ2ZfX0owR0tpenhMY3RCQVdON2xtYS0xUWlJaERUa1Z6cmtQbFo2UVN6NEVReEZQUk1EQmppTWFBX1dTQzBqaS0yb1BaSndrVnZBY3dUTUxWUG02dW1jdnA3QWRudGRKSVpwdG9GTmNtUFplMWZGRGp2d2VCYlFfU00?oc=5",
-      "description": "6 Rules for Canning You Should Never, Ever Break Better Homes & Gardens",
-      "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "source": "Quintus Technologies",
-      "title": "Quintus unveils pilot-scale warm isostatic presses for all-solid-state battery production - Charged EVs",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWYtdVQwYl80R1Ytem9hTzNxNl9sMHFaVVlXa1h3aG9CakY5SnZEZ3NibThISEI0WmNYYXg5TG1wYzd6c0Z0MWlLbUk4UGxqQndKQW8yNlNrcGlNcGEzNnM3eEpLTW8tdy1HUnVSV1dIaTB4MDlDSEtUOWJiSkoxdnozZHJnM3BVS0huUEZ6WjNKZUczLWtUQW1xVW1KR1JPalE5RElBeWpDcFdTNXliM0REZXNxUFV0QjItWW5yYw?oc=5",
-      "description": "Quintus unveils pilot-scale warm isostatic presses for all-solid-state battery production Charged EVs",
-      "pubDate": "Tue, 09 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric",
-      "title": "Universal Pure expands HPP capacity with Hiperbaric 525i system - The National Provisioner",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUXNZSnV2bWdCeVlVakpnNFN2bzlwQklaaUEyaEJoSzNiUG9xZlhsak1ZOWNhb05reEpGa3lCQ3ZvR01Ya3c3R1NiVFk1ZWFQRm9ST3NmNko1NHhwTnc2NXZiZ3FrTDJwWDlBY3BDVkpUM3lxSFpiVkticUFJY2d3MUJ1MzdrVVFnZHU1NHd3cGk0UWlRelk4Q0pPUjdXZ0steDFMb19xTFBmeW5Ua1JzZEFOZw?oc=5",
-      "description": "Universal Pure expands HPP capacity with Hiperbaric 525i system The National Provisioner",
-      "pubDate": "Wed, 26 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Meat & Deli",
-      "title": "High-Pressure Processing reverses the dark color or dark-cutting beef to bright red - MEAT+POULTRY",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzJuTUJEMjVscTBHVnRDWjdnR2hTM0dDWTk5ZkkwV2lXdzJwR0N0dmZaeHJ0OEhjNnRBbGNSUElDcHM1T3Y3emNBeGJrZDltMXJ3S0VydloyUXM1WWVxNzhKU1NSZGFEeUtKZ3ZtY2hLR3BSV2thNFNDMG13Tll2eTZSOEZ2aHZSMm51Q3doSGJtcHlpWlUwcm5OYU1sZjNkLXBhdzZoWDYzeFJDRzRvdWs2YjNGZnkzaXM5OE1DMDg0VUg3?oc=5",
-      "description": "High-Pressure Processing reverses the dark color or dark-cutting beef to bright red MEAT+POULTRY",
-      "pubDate": "Fri, 21 Nov 2025 08:00:00 GMT"
     }
   ]
 }
