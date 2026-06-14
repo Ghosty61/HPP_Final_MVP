@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-13T22:26:33.638617+00:00",
+  "updated": "2026-06-14T01:01:31.587951+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "New infant botulism outbreak linked to imported organic powdered formula",
+      "link": "https://www.foodsafetynews.com/2026/06/new-infant-botulism-outbreak-linked-to-imported-organic-powdered-formula/",
+      "description": "The formula was sold at Target stores and online",
+      "pubDate": "Sun, 14 Jun 2026 00:49:20 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "More recalls of moringa supplements linked to multi-state salmonella outbreaks - Miami Herald",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xdklySnNfT3dkRENIWkJiS1ZVZWRCaGtLaU50YmwwTUNvTmJJMHBDajdYTUdkNXp3QVc5aHBwcllwdlNxdjVaQUxJeWVja0RhdEhIbzN6SGJ2RXhRREI4cGx5cGtTeWhCNm1lcFl6QdIBb0FVX3lxTE9XdG12WnQwMms2MTA5MU9OdU44ZVhFTGZSS01mTU5VVk8wVFhQQmJMSkNXbE1WMnN0U0FCMUNaWmFaWU5iUnVwWERrdXF1NTlib0g1QzZ1NlZvcVBCazZtQ0dnRVAycnduZG92Zi0tSQ?oc=5",
+      "description": "More recalls of moringa supplements linked to multi-state salmonella outbreaks Miami Herald",
+      "pubDate": "Sat, 13 Jun 2026 22:42:27 GMT"
+    },
     {
       "source": "Salmonella Outbreaks",
       "title": "Recall of moringa capsules implicated in Salmonella outbreak expanded - Food Safety News",
@@ -30,13 +44,6 @@
       "pubDate": "Fri, 12 Jun 2026 13:58:43 GMT"
     },
     {
-      "source": "HPP Healthcare & Medical",
-      "title": "Saturated Steam Autoclave Systems Market Growth Forecast to 2035 Amid Rising Healthcare and Industrial Automation Needs - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSGU0YUNTT3g2d25VZVU5SVRod2VJX1k5dU96MjJUaFJyUXVsMWs4M29pYm1haEVxbG5STWpuZTZBdW1Md3UydDFJWEduZmRHVjRyMDU0TzhUTzZNVE1tR1g5aXNONGI1SG9GZmpZd3FvMDBNUUMxUUcxc3hCZnRQVnBkZmNzY1YtajMxR0Z4NkVnbWlaaGJVTmw3cmtoYnpmdTFGWGNnRkxMSDQwSVBuTTY2OVk4Z2E0SHJuU1c5emZuQ0s4V1VieEVKbndvNG85LTllM2lKWE5IZ1ExNzFzdzlPbTRvZm5Hemtua2Z2OFI4bTBwa0YzTDU2TWUyTGRPcjZyT0l0WQ?oc=5",
-      "description": "Saturated Steam Autoclave Systems Market Growth Forecast to 2035 Amid Rising Healthcare and Industrial Automation Needs - News and Statistics IndexBox",
-      "pubDate": "Fri, 12 Jun 2026 06:01:19 GMT"
-    },
-    {
       "source": "Food Safety News",
       "title": "Consumer Reports wants USDA to release information about Salmonella testing for chicken products",
       "link": "https://www.foodsafetynews.com/2026/06/consumer-reports-wants-usda-to-release-information-about-salmonella-testing-for-chicken-products/",
@@ -51,18 +58,18 @@
       "pubDate": "Fri, 12 Jun 2026 04:03:26 GMT"
     },
     {
+      "source": "Food Safety UK & EU",
+      "title": "The latest product recalls and safety alerts from Which? - which.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnZEdm8tLUMxdlpRajZ4bGZ1eE5nRElJdGtTVDB5R0hMcWxoV2NIV1BvSkNsY3BUaGl6TzV2cXZSdEZWV0JOenZseW5icmxadFBZcERkOGpMb3BjaGJrN241Q1VCeWw1TldCMjBscEtfTzkwM2tsTTJyQlI0VkFaVWRseVZObmoycnRFaXJkQlY?oc=5",
+      "description": "The latest product recalls and safety alerts from Which? which.co.uk",
+      "pubDate": "Thu, 11 Jun 2026 07:00:00 GMT"
+    },
+    {
       "source": "Food Safety News",
       "title": "Publisher's Platform: We’re turning off the smoke detectors on America’s food supply",
       "link": "https://www.foodsafetynews.com/2026/06/publishers-platform-were-turning-off-the-smoke-detectors-on-americas-food-supply/",
       "description": "The people who find foodborne outbreaks are being fired, defunded, and disbanded — and the bugs do not care.",
       "pubDate": "Thu, 11 Jun 2026 04:06:53 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "FDA investigating new Salmonella outbreak",
-      "link": "https://www.foodsafetynews.com/2026/06/fda-investigating-new-salmonella-outbreak-3/",
-      "description": "Federal officials are investigating a new outbreak of Salmonella Enteritidis infections. The Food and Drug Administration is reporting that a source of the pathogen has not yet been identified.&#xA0; There are 62 confirmed patients, but the FDA is not reporting whether any have required hospitalization. The agency also has",
-      "pubDate": "Thu, 11 Jun 2026 04:05:45 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -177,6 +184,13 @@
       "pubDate": "Thu, 21 May 2026 07:00:00 GMT"
     },
     {
+      "source": "HPP Healthcare & Medical",
+      "title": "ORNL Combines 3D Printing and High-Pressure Processing to Reshape Large-Scale Metal Part Production - 3D Printing Industry",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSF8xUHBJTWhEY0xodlkzd1NseW9Lc0VrWkFoazhkZTFJWkx3b05wcHhISF9DM0E1Wk5fa2w5aHhhcnp3RXNidFBMQmlVQ09GdF9qVmItU21BSUduSUM0T1hjSjNyeXY4TjFaRDM2RWxVbEdPS0ZaRnE0Q2czNDd3Z09kdVNFaW1RYmJQWDA1T1ZXVkZ3d01zQ0t5Nk1BT1NhaWgtSGg2SVptSTExcmE5UVE3dlRzdVo4cDB2YVRSSnk0QmcwbkhOb0RZbFZNQ2VxNWI2ZVZ3T0xwdGc?oc=5",
+      "description": "ORNL Combines 3D Printing and High-Pressure Processing to Reshape Large-Scale Metal Part Production 3D Printing Industry",
+      "pubDate": "Tue, 19 May 2026 10:58:35 GMT"
+    },
+    {
       "source": "HPP Juices & Beverages",
       "title": "Why Trader Joe's Was Once Sued Over Juice - Tasting Table",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGNnaExYaDZIa3BFcnRyZGJxODFSSHFWTTFSTk5fNUNqbHJsbFVEbVloWVZYdUhMakFTZmloTnpacGI4N3c3c2lUcS1HcjhRTG1aTU81UmZIQVRRMWZqSk9QYUhfUjJ5RENGaVQ0clRfd0NoenlLNk1IdXdzRlBpZlNR?oc=5",
@@ -189,13 +203,6 @@
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTVFPakRRZlRhZG50MVZBdmVxdVZhVzlJRC1LNlBFOS1MNVI0SUhlT2FrUloxRkN5Qi1Bcm4yS0hFLUtDdnY5RC12dUY0TWoyQWh1eUlnSU5ZNmJMNmhSQlkyeU0yeHpGVDNZZE12MlI4TjZvNzZXR2RFN0htMFZlSkxFQmxqYnBEUG1VdUNpT3VMQ1pwUG1jel95SVltMkpVOW1wZDUwWTBkb2xZYmp5dlF5V3ZnV00tTzRubW9yTlhENDVpT1VCTW1rNDFhZURtR0Z5ZlBrOWNVenAxSFlyMmhGN3FkLVAzeWNCWVZYVzBKc2VaWTllemU3NA?oc=5",
       "description": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? PetfoodIndustry",
       "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Snack mixes, pizzas, chips and more potentially contaminated with salmonella | Here's a list - KCRA",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uaWxvYU53am9FSC1UOHhJQ2FjN0ZhR3lMMlNFLTZ3THZ0YURWZ1p1bnZYX3d6czRtSDNSVmZmMFVFazNvLWpvb2x6a2Q5aFZUODNOY1pkMU5GNmd4SXJUT2RCbDFPVUJzanl4aWJ4ZHo2Zmo3R1hnRGN3NHFxZ2c?oc=5",
-      "description": "Snack mixes, pizzas, chips and more potentially contaminated with salmonella | Here's a list KCRA",
-      "pubDate": "Tue, 12 May 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -224,13 +231,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
       "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
       "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "Good4U recalls Super Sprouts Super Greens over Salmonella risk - New Food",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRFZ4d01NSXRMa0h5cVBjMEdTSG16X1Q0M3hyUzVBV3l5UDB5RlFmX3Mtdkw2ZXFHS3U4QTY1b196b1V2bVppSzJ1LWJJTUZEWGlUMGwtOWF4VmhHb2FMZ0dMeDRfQ3dvdVMtaTFvMVpRa3NWQm42eWEyVUhHSXdYY3lkLTRpbFFFbEYweERHSWU1VkFWeHZ0U21takhIQldYRDMwQVdRc3VQZjlYTERVcDdLSWRsUQ?oc=5",
-      "description": "Good4U recalls Super Sprouts Super Greens over Salmonella risk New Food",
-      "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "EU HPP & Food Tech",
@@ -268,13 +268,6 @@
       "pubDate": "Thu, 19 Mar 2026 17:56:16 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "Top 10 Food Technology Trends Reshaping the USD Trillion Industry in 2026 - StartUs Insights",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xSHNGeEkyQmNFT2VDbU1Edldsam9vcDR1VUlNYmg5NGs3a2s0NTBaYmRiMzlpX2VmRktIdHBSdFNCTGVhbWFjMGkyeGEwVWxiYng0VTNhQU5aaDMyQWgtMUN6TUQwVzBRcWJFajI2dUg3X2FTcllTNUNKdlphZw?oc=5",
-      "description": "Top 10 Food Technology Trends Reshaping the USD Trillion Industry in 2026 StartUs Insights",
-      "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT"
-    },
-    {
       "source": "HPP Healthcare & Medical",
       "title": "Gelatin production from red tilapia skin fish using high-pressure processing and its characterisations - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtdE9HUzlMckh4djM0dlpzU3NuNzBjVTlIUmpaZHhTMGxGSFZRdnlkbkhBQkhnRmJKUFVzMXBrdGNDbDF1QTlScERjcE1Ca24wZ1Nmajk2Q3BTbU5wNkJR?oc=5",
@@ -287,6 +280,13 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNW1tRzNnV0tmMUNMdHJuQkdTYThyV2I1RkROYTFkWXNjMTVCRDNzX1JLbG9MWGF5N204dzB1MVRweVY2MUZJM2l3TVB2R0RXYVJkYVZ1bVdDUEtVV0VxX190eEtzY1FzQ2ZCWGhNN1BCclZMMG1xZVpTWjJiT05KTmhwSFpkbnE1ZDFBZFhCYw?oc=5",
       "description": "Impact of processing techniques on donor human milk: a multi-omics and bioinformatics scoping review Frontiers",
       "pubDate": "Thu, 26 Feb 2026 12:53:13 GMT"
+    },
+    {
+      "source": "HPP Healthcare & Medical",
+      "title": "Duckweed Protein Benefits: Is This Aquatic Plant a Sustainable Superfood? - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUVPWXN3Sk4tNHFLMUtXZmFIUDJ2WFcyRjhuSVo2c2pxVHlCOWc2c1U1NThubHJNNXdkZlJzbFNEbmNYU2RhX3FrZ3lzRDJCVGRlMGdrdjJCX05lb3V6NEY3emtNWmJKV3Jhemgza25iZzFlWFh4NG1udC1xWjY5V2VfTko1ZEFJM3JoeUp5YzBOLUJpVkVPMGF2SVRVbHlmaUZ4Q050ZUxIaWRaQWVYR213?oc=5",
+      "description": "Duckweed Protein Benefits: Is This Aquatic Plant a Sustainable Superfood? News-Medical",
+      "pubDate": "Wed, 25 Feb 2026 03:39:54 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -338,18 +338,18 @@
       "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT"
     },
     {
-      "source": "HPP Equipment & Machines",
-      "title": "Non-Thermal Processing Market Size | CAGR of 8.7% - Market.us",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnZWU5eVlHWTlHOXUxSGt2bTl0aktmZ1lGcTBDUm13dGt1UXhSdFVic3hsOHBkejNXVzEzRDM2MWc4SlZpS2pXbjRUaFV4TXRDa3VETUtLaUYtbE5zaUhlZy1LQWNyQQ?oc=5",
-      "description": "Non-Thermal Processing Market Size | CAGR of 8.7% Market.us",
-      "pubDate": "Fri, 09 Jan 2026 10:51:14 GMT"
-    },
-    {
       "source": "Quintus Technologies",
       "title": "Quintus Technologies and Lyric Robot Form Strategic Collaboration to Accelerate Industrialization of Solid-State Battery Production - PRWeb",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSVo1em95Tjc1b3d4Tm9HNE1vaWVrMlZZQ2FBMGUzbDM4bUNGaVJDc3luTWVWTi1GWERhcTV1cGxIRmthZU5kcWZoRnF1WVY5bkl0TS1JcGhBSVJsT2NaSW5nVHVTUXkwRUpaY29tUGdJUDFzc1ZRSDlzRHdSWElxa21nNENpeWJRZWxMRU56ZzVWbG51SFFUZGt4czBUMTZYOFI3Q0JLRDd5SDZjX0FrY21sYzFra0N1bFFsQ1BjQXJJLTgzZHdqWl9TRWJxMnFxM3RJT0xLTlJiX040eUxoU0taSUQ0UVNxX0dHU3pzdTNNQU9VQ2czaWN2bFRzVXFTMTBHLXBGNF8?oc=5",
       "description": "Quintus Technologies and Lyric Robot Form Strategic Collaboration to Accelerate Industrialization of Solid-State Battery Production PRWeb",
       "pubDate": "Tue, 23 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Soups & Meals",
+      "title": "6 Rules for Canning You Should Never, Ever Break - Better Homes & Gardens",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFZNbW0wQ05lcHdEZEpxSlBHYWZtN3k3Z3hOZjRhZ2ZfX0owR0tpenhMY3RCQVdON2xtYS0xUWlJaERUa1Z6cmtQbFo2UVN6NEVReEZQUk1EQmppTWFBX1dTQzBqaS0yb1BaSndrVnZBY3dUTUxWUG02dW1jdnA3QWRudGRKSVpwdG9GTmNtUFplMWZGRGp2d2VCYlFfU00?oc=5",
+      "description": "6 Rules for Canning You Should Never, Ever Break Better Homes & Gardens",
+      "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT"
     }
   ]
 }
