@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T16:01:17.118173+00:00",
+  "updated": "2026-06-15T19:23:11.729660+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -91,13 +91,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc28zbGNKazk1RW02MXhLc3EzX3VsSDQtOU1BVlMtV1FkOC1vWktucG1xbVJlSkU4LTRYSFR0dzBIMXRaWkxGRFYxS2VrV0JtV0JQWWdvT2hZNkN2Y1FZUGw4NzBPeXNhdld4NmhlT1dNSU81ZVVaZkVDV1FRLU13YnhYN3dVNUU3bFhQd3BqaGdDRWp6YjczWXdXanY0M1RIcV83MHExV3RpUG1TalIwYU8wVUZGclZLN1Vn?oc=5",
       "description": "Frontmatec’s Spanish factory expands robotic automation capacity Food and Drink Technology",
       "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Healthcare & Medical",
-      "title": "Saturated Steam Autoclave Systems Market Growth Forecast to 2035 Amid Rising Healthcare and Industrial Automation Needs - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSGU0YUNTT3g2d25VZVU5SVRod2VJX1k5dU96MjJUaFJyUXVsMWs4M29pYm1haEVxbG5STWpuZTZBdW1Md3UydDFJWEduZmRHVjRyMDU0TzhUTzZNVE1tR1g5aXNONGI1SG9GZmpZd3FvMDBNUUMxUUcxc3hCZnRQVnBkZmNzY1YtajMxR0Z4NkVnbWlaaGJVTmw3cmtoYnpmdTFGWGNnRkxMSDQwSVBuTTY2OVk4Z2E0SHJuU1c5emZuQ0s4V1VieEVKbndvNG85LTllM2lKWE5IZ1ExNzFzdzlPbTRvZm5Hemtua2Z2OFI4bTBwa0YzTDU2TWUyTGRPcjZyT0l0WQ?oc=5",
-      "description": "Saturated Steam Autoclave Systems Market Growth Forecast to 2035 Amid Rising Healthcare and Industrial Automation Needs - News and Statistics IndexBox",
-      "pubDate": "Fri, 12 Jun 2026 06:01:19 GMT"
     },
     {
       "source": "Food Safety News",
@@ -247,6 +240,13 @@
       "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
     },
     {
+      "source": "HPP Healthcare & Medical",
+      "title": "Universal Pure Data Breach Investigation - Claim Depot",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13VVNMeWdmelE4RVMweHdGb3pGeDJWZUpZc0hDejV3V2ZBX3BEWGZTejc0YjE1aHhPaGhCajdZb0szM0JEWW9nbV93a2phQVI3bWUyeXpCcEstdXlYZzZKcjM0dFN4RDJFQWJxZjN5UE85clN3dENnYTdWTmxmUQ?oc=5",
+      "description": "Universal Pure Data Breach Investigation Claim Depot",
+      "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
+    },
+    {
       "source": "EU HPP & Food Tech",
       "title": "Europe Healthy Food Market Size, Share, Growth | Report 2035 - Market Research Future",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc2swRjZ3SHE2NDk4djRnUUdEOXhvb2hQYjlwTC11bUFJcjdEUXVBbFB5eW5Tb00yUmZYQVNFdmduWndOZnZrX1pNcjYwNmdRSXQwQlFzYzBoRzk0UlFjYl9GZHlYcU9iZElTSWxEQWE1cjI1TktzNDY2cHdYd0dDbXVERQ?oc=5",
@@ -303,13 +303,6 @@
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "HPP Soups & Meals",
-      "title": "I've Yet To Find Something My Instant Pot Can't Cook — These Recipes Will Convince You Too - Delish",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd0I3UTNCQUpDRmNXNkhOYjRLRHJMYXpKc05kV09xd0JDV2tlZzF3YjNhWUh2bktHMTNfTTQ4TUE2Z0dXRkRCT2FDMHV6eU9IcmpaOUo3d3ZEYk1nRXg2UXlIR3FNTWNDUVhxS1JEcE14c1RNWV81MWJvU25KbjdrVTRfQzdhQQ?oc=5",
-      "description": "I've Yet To Find Something My Instant Pot Can't Cook — These Recipes Will Convince You Too Delish",
-      "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "UK Food Industry",
       "title": "‘Not all ultra-processed foods are the same’ — what next for the food industry? - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwd1pGeC0yRGtOU09tQ2laM2k0cTVzS1VSQVRBNGhhbkpTWW9GZzhyOEhORl9sbkR6NElrWkFRLWpzQXdyOE9iUzkwM1ZGS0RYSlM3LXRDSHZBTUJfLU9ZV3VaZm9WX2JPbXFGVnZVdnM?oc=5",
@@ -346,10 +339,17 @@
     },
     {
       "source": "HPP Juices & Beverages",
-      "title": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio - The News Journal",
+      "title": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio - Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUTcycmlFc1ROWGhqNVl6ZHdOVGFhVnNtY2hZdnZuc1FFdUlWVnVRRnJTdV9QdGlrdWJnTFAzYnNEUXozcUMyY1BsMHM3My1FZmJMZTdFU2xWOGdjem9pandJZ1Z1djBmR3dfbDRxUFc1ZmRiSnk2cjBuc1BQb2VyLXZpTHZ6MG5GUURqMzJNeS1KRDVPZkt3cWFRTmxlS1JHTVRGY0RWMWZOUUt6TTVHcFY1OU12OE5nQWZ0dmZ4LTJRaVViS1duX0wxTGFHV2pjdkNLOUJJZHJyZHJqSzAwRWUxRjNUNlRsVkdKQnlEaHRXTTd2OFRrQkJSc0xVdw?oc=5",
-      "description": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio The News Journal",
+      "description": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio Delawareonline.com",
       "pubDate": "Wed, 21 Jan 2026 15:34:13 GMT"
+    },
+    {
+      "source": "HPP Soups & Meals",
+      "title": "Incidental food nanoparticles from freshwater clam soup stabilize Pickering emulsions - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3M29MLW96aDdhaV81RWJmYlhTTHYxWER6SlcybnI2S2RjZHhjSjJXNjR6TGxIUUdqcXBnMzFxQkFOa1JiaVlxR1N1b1dMbzQ1RHlieGs0dUpjaGxIMXJj?oc=5",
+      "description": "Incidental food nanoparticles from freshwater clam soup stabilize Pickering emulsions Nature",
+      "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT"
     }
   ]
 }
