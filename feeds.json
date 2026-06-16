@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-16T11:49:32.845509+00:00",
+  "updated": "2026-06-16T13:54:29.412723+00:00",
   "articles": [
     {
       "source": "Listeria Outbreaks",
-      "title": "Investigation Update: Listeria Outbreak, June 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeURCSzJmTjhpWEttM0RXTC1fcmtWZHkxeGk5Q2lheTdneWhwMW1KaHYyamVLeWNnYVhROW1lcm1QMWFzZzZhdmtIcHhVTDFjekVkakhwcVpaMTgtOWFERE1QYUNFOUwwQUc2OW5ITldOVXRLRW5MbWluZ2Y0WXRtNA?oc=5",
-      "description": "Investigation Update: Listeria Outbreak, June 2026 Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Tue, 16 Jun 2026 07:55:53 GMT"
+      "title": "Clover Hill Dairy Cheese Matches Listeria Outbreak Strain - Food Poisoning Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDRRZF8waDBnVU1BZmo2eFZZYVlVbF9sTER6ZlREMjREZWJlOERfZmhlY0k5eHRlXzZlOHF3SDRoY2wxOXpTV1ZBX19zN25qZUxaVVpNTDBDODlRU3BKeXc0SXo1amU0ekZhdkZib0NaYnNNbWplS05ySk9CcUxwVXBZbVRWUFBHVEIwcS0tNzdCYkZDbnJqU0hGbjNuZw?oc=5",
+      "description": "Clover Hill Dairy Cheese Matches Listeria Outbreak Strain Food Poisoning Bulletin",
+      "pubDate": "Tue, 16 Jun 2026 12:34:59 GMT"
     },
     {
       "source": "HPP Dairy",
@@ -44,11 +44,25 @@
       "pubDate": "Tue, 16 Jun 2026 00:35:21 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "Alfredo sauce distributed to dozens of states recalled due to potential salmonella contamination - PBS",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaGtCRTQtWmxCc1dHNElXOGRWUWhRX2Rrb3Z1dkM1UldPNmdFb0RIcVl1WW1DWHBzTGZHNTd2ZEdwT0tyWWU1VWJ6a1pyaDZrYmtzT0hlZ2FPZmQxRFFkSWhjTVNrSFhaWXA5enY2d3J5MWg1Vy1CdGwxa29GcUNtc2IwZTNYbE9PLVJXaW1sM1BRTzI4RURWSERtS2tCbnZtUmVqZUg1dzAyRVRDUENXNVd4dFJGaVU1elB2UklPQmJ4VTlfSlN2bVlwbjQ?oc=5",
+      "description": "Alfredo sauce distributed to dozens of states recalled due to potential salmonella contamination PBS FDA upgrades Alfredo sauce recall to highest risk level over potential salmonella contamination ABC News - Breaking News, Latest News and Videos Check your kitchen: Alfredo sauce, dairy cheese recalls impact DC area WTOP FDA elevates recall of sauce sold in SC stores to highest risk over potential ",
+      "pubDate": "Mon, 15 Jun 2026 22:40:35 GMT"
+    },
+    {
       "source": "Listeria Outbreaks",
       "title": "Clover Hill Dairy Expands Recall to All Cheese Products as Listeria Outbreak Investigation Continues - Quality Assurance & Food Safety",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV0Y1cXFwRmQzb1I4UkZWaUc2bDc0eUV0cEdsbHhEdUh2dFhhQlJVX2M2UVUyd3J5dExOc3NPd2JVQ2pxSlFORUx6d2w3MGlGVkhjaXhFeDVaMWlHTHJ4NkpCOU9vdm1sU00xY0NCX2VMQzRaN0FVUFl3TTN6a2EzTEJYT0M0Wm5xRzZveW1OZHVRQmJQV0ZHR2g5WnpDV2JzaFZfS1hBU29WM0xSenpzQzhnbVJ1OW5SV2c3U1JfTnRjWkpucDlLV3l3ZV9kYkNIUWUycmtn?oc=5",
       "description": "Clover Hill Dairy Expands Recall to All Cheese Products as Listeria Outbreak Investigation Continues Quality Assurance & Food Safety",
       "pubDate": "Mon, 15 Jun 2026 21:28:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Investigation Update: Listeria Outbreak, June 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeURCSzJmTjhpWEttM0RXTC1fcmtWZHkxeGk5Q2lheTdneWhwMW1KaHYyamVLeWNnYVhROW1lcm1QMWFzZzZhdmtIcHhVTDFjekVkakhwcVpaMTgtOWFERE1QYUNFOUwwQUc2OW5ITldOVXRLRW5MbWluZ2Y0WXRtNA?oc=5",
+      "description": "Investigation Update: Listeria Outbreak, June 2026 Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Mon, 15 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety News",
@@ -63,6 +77,13 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTWxaOXV5akM5OE8yTzJCWjR5emJSVWIyZC02STFRWERLV293NEdENDlhN2ZzQnI3amd5dU1MX1Q2aVNNd285elRRX3BtX0h4M3dOX1BZQ3BvSzVlaG5hQm0yaUtzM1QyS1hOSEpzZzBudEZiUFpCelV1ODkxc250SDU3eXFYUTFVMkIxOEIwVm9IOVNMSEVGcHA3Vmxhb3RIMnk4MFZ6Y19QTGwtN21wQ0l6R2RpQdIBuwFBVV95cUxNcVNVQ1JrRkJlQ1pOdnIzVjBLV3JNVjNuY1lmZlFWWTlLVGJQVzlENGNNQURxRTJhb0c4NDJycFZDMXp3dVIzZ3MzQjIwc3BTdldLYmw4THNKYi1hdHo5TzJoZVlScDZKb1hNLWJpMnZOa0Y2bVIxbkVhUnBscFV5N2hTY0MtdFU3c2taSFRRRWpsaDVQVUtvY3NTLWRJZkVOZWNyQmtzR0ZOcmZHMGhQQVVJWWNBZzJKZU1N?oc=5",
       "description": "Deadly listeria outbreak sparks expanded cheese recall across multiple states Fox Business",
       "pubDate": "Mon, 15 Jun 2026 00:27:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Macaroni and Cheese Recalled Across U.S. Due to Potential Undeclared Allergen in More Than 500,000 Packages - People.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUW5zYjd3Nm1qOUJtNlZsTm44SWZscjBnNkdHRzBrY3RjV1YxNEVpSko0NlBTRktQdHU5NkN5OEhjcFhJQ3lUdGpvY0xNNXZSNVpkM0hvVHV0OFhuYUhPVHdKQ0JFcWtVRmZTVXhQa1RtYWdzRDVOaTgwMm1pN3dJbHdBSklPSzNnXy1na0tHNlprZVhvb0ZfWUtqblp4X05HbVB3ajN0NFdtUQ?oc=5",
+      "description": "Macaroni and Cheese Recalled Across U.S. Due to Potential Undeclared Allergen in More Than 500,000 Packages People.com",
+      "pubDate": "Sun, 14 Jun 2026 22:28:01 GMT"
     },
     {
       "source": "Food Safety News",
@@ -128,13 +149,6 @@
       "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "Clover Hill Dairy Ricotta and Requeson Cheese Linked to a Listeria Outbreak - Consumer Reports",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1lveTdpVlRzSnhmeG5nY08yTW1uQU5mWl91dXlRZ19NTFFDNDh5UllqQ2xIMFZhYWRjbXo4Zzd2Wk9KU0c4c1M3WllVSjdCLU5Od2hHUmN3WDVHUnRRdTYxUi0xUTFpM29qU1ZVOHdxS2tvYkFQT044Y3RWWVBtd201QVpoLVVaWktGUUM3QzloN2pMQUk4ZkRWOXRWcm1SajJ4cnEtM1Zock9qY215VFFFODhsdWVP?oc=5",
-      "description": "Clover Hill Dairy Ricotta and Requeson Cheese Linked to a Listeria Outbreak Consumer Reports",
-      "pubDate": "Wed, 10 Jun 2026 19:00:13 GMT"
-    },
-    {
       "source": "HPP Innovation & Research",
       "title": "High pressure food processing access expanded for local businesses - University of Hawaii System",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWNONmEzaEdyVzkzNFlZUnI2SlpIR01YQ0lTdzJ3TFN6N0lzSEs0OTBseHhLSXRaVGhkSERSVDlnWHY3bDBZRjhTWjlZVW1CNmJmcjFaRkgweUdVdC16TGFLcUZVU3NXOTM4MWZ6bENIUE9TWmFEMlJfTTZuMXFiRXRaOTM?oc=5",
@@ -154,13 +168,6 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbDUwU3k3c0FIa0duaHZaSjJNSGNLN0lJd0M3T05TNHZsb1NDSHdNMVVnWkhvUldHRGFRQkdoSFItc2c0SVJyUTdqQzlhNXRWdUpIQmRUWmVtTTdidzlKMl9KZEtQOTFCODdzY3ZkeS1WYW50MzVTcUItSnlVbi02azhQLU1uaTE0M0hpU3NDc1ZzQkFOOFM5dzdFemdtdklKS0NKTHVzNWNiVXl6dEdLS0tCTVhBSDRXWHBNOQ?oc=5",
       "description": "Outbreak Investigation of Listeria monocytogenes: Soft Cheese (June 2026) fda.gov",
       "pubDate": "Fri, 05 Jun 2026 07:19:26 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "New illnesses reported in salmonella outbreak linked to 'super greens' - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWmQtNFFjUE40bEdfdnpPR09MdFpnckJ3NVJrSFBsVXZPZG9kU2xSQl9DeTNpNVl2UTZlVmZ6Sk1GRDN6VnA5SFlLaDhGcWpBS2x1NWtjVVE2Vng1bkMwemM2U3d3bG5rQ3ZMVnNPTjBGMUVTVzZyeDU0MVBWTGNpWHlqQ1g0ZWVOcVVaV1dHbTVNbms1RUl1T3JEdFp2U3JYS1FFXzd2eGhpdWNxenN0Vk5oaFBkck93dmpqT0hqMkJQa0lUU3RJTUdMM25iT3FBXzBTbWxEZDd6bm03RzJOWnFR?oc=5",
-      "description": "New illnesses reported in salmonella outbreak linked to 'super greens' USA Today",
-      "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -196,13 +203,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEYwb0FKSE1PSTZtQ1IwTHB1ZHBIbzhSc1piZnR6VTRpODRIaDRUaUx1cGZEVldYT0FjSkdEQ0tpNWVITDZ2eXl5TC1IOFM0V0Qwd0ZLaG9RSlp0WXI5V3NEV0pCYTg5RHFIb0NjOWVmcFVxU0ZILVhHdS10cWVtTk5qTVNfcVk?oc=5",
       "description": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 Fortune Business Insights",
       "pubDate": "Mon, 25 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Why are there so many Salmonella outbreaks in 2026? 4 reasons - Fast Company",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb2djeE14NTNYbUh0OTJ3VkgwTWV1UUhqTkgzMF9uaGVFUHlmYkQxalc0d0cyb09mUmlSUW9sRHAyWUtfZEZEUTFSZEUwVU8tWlJ6TmQ0NXZIdjFENlZNSXhSRks4RWE2WlhTdXZONlktNHJVWnB2VUg0OGNUWnFxTXo3SUN4eXZMTlhWanl0VTR1cjRELUdpQTJPcWtVdw?oc=5",
-      "description": "Why are there so many Salmonella outbreaks in 2026? 4 reasons Fast Company",
-      "pubDate": "Thu, 21 May 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
@@ -331,13 +331,6 @@
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "‘Not all ultra-processed foods are the same’ — what next for the food industry? - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwd1pGeC0yRGtOU09tQ2laM2k0cTVzS1VSQVRBNGhhbkpTWW9GZzhyOEhORl9sbkR6NElrWkFRLWpzQXdyOE9iUzkwM1ZGS0RYSlM3LXRDSHZBTUJfLU9ZV3VaZm9WX2JPbXFGVnZVdnM?oc=5",
-      "description": "‘Not all ultra-processed foods are the same’ — what next for the food industry? Financial Times",
-      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "Hiperbaric",
       "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb0JEamkwMjhURUVDb2Q2cm1RX1docGhWbldaZERZT3JZcWhTYUJBOUxsQjZCWGY2N2VyemtUT1VKVE9iNGYxOXY3R2xCMHZvaGEybzNpSG5CTy1xVFlfRXRSLVd6akRnNFU3aWdfVW44ZDJobjB6NmgwcFA0MDg2b0JhenowWkhZdlF4OVlNV3dPVERm?oc=5",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXhUbEgxOUMycF9EN0RUdmxwWWt1WUVyYU1iUnQ0R2FCTlZZcTlFUEMwaG45Z0lGZHpQNGpXTFJEcW9HNm1RN1lSNzZFX2M4QnllM3NmMXc2UVRMTWFvNHM2dXkyc01pNHJ5MlpvWTNMQWJDdUxvc1I5NWR2NFIzOS1vWGFNMUtiZ2d2NVRUVHVTTk9BdENMUmZkcjZZc2VwUXowOGhXWWRvcGQ5T2wtYjRhbTNzSlFrUHZXWmNLWFYzUVlNUE1uTG1xYk5EUDFHQkVsSlJFcHhDN3BTM0dWcnp6MVNOc1VUbFB1ZUJMYzhMenJRNkRkeS1maTlYNGozbEthVW1B?oc=5",
       "description": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility PR Newswire",
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "£3m fund unveiled to target diet and health innovation - British Baker",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
+      "description": "£3m fund unveiled to target diet and health innovation British Baker",
+      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     }
   ]
 }
