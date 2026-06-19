@@ -1,19 +1,19 @@
 {
-  "updated": "2026-06-19T01:06:57.210889+00:00",
+  "updated": "2026-06-19T03:14:58.419353+00:00",
   "articles": [
+    {
+      "source": "Listeria Outbreaks",
+      "title": "FDA Announces Recall on Cheese Due to Listeria Outbreak—Here’s What to Know - EatingWell",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT01UTDRWd3Q0bmFQcFlaWUxRWEREb3ctZU9sOEh2bDhKbEhpZHUyTEVhSHJxbm9wZUctbHV3R0Z3R1F6aWRJRWp6THF1QkcxX0VOTEZ6VDBCaDhraXFMT0YyWWZKVWk4OXhOVzNGMnJCNVJHam8yc2dVN1NPMWVkOEFNTW1ISUM0YnNPSg?oc=5",
+      "description": "FDA Announces Recall on Cheese Due to Listeria Outbreak—Here’s What to Know EatingWell",
+      "pubDate": "Fri, 19 Jun 2026 02:10:38 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Pepperoni rolls recalled because of undeclared milk",
       "link": "https://www.foodsafetynews.com/2026/06/pepperoni-rolls-recalled-because-of-undeclared-milk/",
       "description": "Fry Pie Factory has issued a recall of its 5-ounce pepperoni rolls because of misbranding involving undeclared milk, a known allergen, and a process deviation related to refrigeration. The company said the Pepperoni Rolls were not stored, distributed or sold at appropriate temperatures, which may allow pathogenic growth and",
       "pubDate": "Fri, 19 Jun 2026 00:41:55 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "FDA Announces Recall on Cheese Due to Listeria Outbreak—Here’s What to Know - EatingWell",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT01UTDRWd3Q0bmFQcFlaWUxRWEREb3ctZU9sOEh2bDhKbEhpZHUyTEVhSHJxbm9wZUctbHV3R0Z3R1F6aWRJRWp6THF1QkcxX0VOTEZ6VDBCaDhraXFMT0YyWWZKVWk4OXhOVzNGMnJCNVJHam8yc2dVN1NPMWVkOEFNTW1ISUM0YnNPSg?oc=5",
-      "description": "FDA Announces Recall on Cheese Due to Listeria Outbreak—Here’s What to Know EatingWell",
-      "pubDate": "Thu, 18 Jun 2026 22:11:33 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -79,13 +79,6 @@
       "pubDate": "Sun, 14 Jun 2026 17:43:50 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "The latest product recalls and safety alerts from Which? - which.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnZEdm8tLUMxdlpRajZ4bGZ1eE5nRElJdGtTVDB5R0hMcWxoV2NIV1BvSkNsY3BUaGl6TzV2cXZSdEZWV0JOenZseW5icmxadFBZcERkOGpMb3BjaGJrN241Q1VCeWw1TldCMjBscEtfTzkwM2tsTTJyQlI0VkFaVWRseVZObmoycnRFaXJkQlY?oc=5",
-      "description": "The latest product recalls and safety alerts from Which? which.co.uk",
-      "pubDate": "Sun, 14 Jun 2026 07:00:00 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
       "title": "More recalls of moringa supplements linked to multi-state salmonella outbreaks - Miami Herald",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xdklySnNfT3dkRENIWkJiS1ZVZWRCaGtLaU50YmwwTUNvTmJJMHBDajdYTUdkNXp3QVc5aHBwcllwdlNxdjVaQUxJeWVja0RhdEhIbzN6SGJ2RXhRREI4cGx5cGtTeWhCNm1lcFl6QdIBb0FVX3lxTE9XdG12WnQwMms2MTA5MU9OdU44ZVhFTGZSS01mTU5VVk8wVFhQQmJMSkNXbE1WMnN0U0FCMUNaWmFaWU5iUnVwWERrdXF1NTlib0g1QzZ1NlZvcVBCazZtQ0dnRVAycnduZG92Zi0tSQ?oc=5",
@@ -122,6 +115,13 @@
     },
     {
       "source": "Salmonella Outbreaks",
+      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
+      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
+      "pubDate": "Fri, 12 Jun 2026 14:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
       "title": "Salmonella Outbreak Linked to Moringa Leaf Powder - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
       "description": "Salmonella Outbreak Linked to Moringa Leaf Powder Centers for Disease Control and Prevention | CDC (.gov)",
@@ -133,13 +133,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc28zbGNKazk1RW02MXhLc3EzX3VsSDQtOU1BVlMtV1FkOC1vWktucG1xbVJlSkU4LTRYSFR0dzBIMXRaWkxGRFYxS2VrV0JtV0JQWWdvT2hZNkN2Y1FZUGw4NzBPeXNhdld4NmhlT1dNSU81ZVVaZkVDV1FRLU13YnhYN3dVNUU3bFhQd3BqaGdDRWp6YjczWXdXanY0M1RIcV83MHExV3RpUG1TalIwYU8wVUZGclZLN1Vn?oc=5",
       "description": "Frontmatec’s Spanish factory expands robotic automation capacity Food and Drink Technology",
       "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Innovation & Research",
-      "title": "High pressure food processing access expanded for local businesses - University of Hawaii System",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWNONmEzaEdyVzkzNFlZUnI2SlpIR01YQ0lTdzJ3TFN6N0lzSEs0OTBseHhLSXRaVGhkSERSVDlnWHY3bDBZRjhTWjlZVW1CNmJmcjFaRkgweUdVdC16TGFLcUZVU3NXOTM4MWZ6bENIUE9TWmFEMlJfTTZuMXFiRXRaOTM?oc=5",
-      "description": "High pressure food processing access expanded for local businesses University of Hawaii System",
-      "pubDate": "Mon, 08 Jun 2026 18:30:43 GMT"
     },
     {
       "source": "HPP Cosmetics & Beauty",
@@ -156,24 +149,10 @@
       "pubDate": "Fri, 05 Jun 2026 07:19:26 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
-      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
-      "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Equipment & Machines",
       "title": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 - Fortune Business Insights",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaExyNHUyeE9rM0ZPN2dtQk0yMzllUTFZQnBYMnE5SkxXZGpLVlZwTk54eWY2eFF6S3RZWFFUcUR1Yjk5WXVaUGRIQV8zN2d4Y2doUzNPM1RiVkxjdy0yNDExTV9pN1hybUpYbE1iSU5pcnlMcUN0TGZJTUZpc28yR2VEU1M0M0dGc0k2a2lUVjcwQS1OZlFB?oc=5",
       "description": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 Fortune Business Insights",
-      "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Salmonella risks prompt recalls for chips, pizza and cheese breads sold at Walmart, Costco and other national chains. Here's what you should toss. - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObUVubGdFbF9ELXB2ZUNGVlNnOGUxYzF0QV9pUVF6T2FkYmx2Nm01dzFmbmZWR25FZHlVd2FaYW9WU0taQzAxUTNRdzJ3bWxjbERrQllRT19SV1FzOWdQeTBhX05wR1VRMG1lRHVGeU1YZ2FMcUNnSWhkZGtWd0JWR1dGM1A2Rk92YUZSdTI1VGVWYWV6NGJkUXBadHdxNjV5Y0RZY2F5VmxKeEVySW5tSi1CQmN0aTJBb2lTQVZDUm1EaWI1REdrbWhtczdnTk1zaHNmTTNIeHRXc3B4U0ZubFN0YlVubnpSMFVoaw?oc=5",
-      "description": "Salmonella risks prompt recalls for chips, pizza and cheese breads sold at Walmart, Costco and other national chains. Here's what you should toss. Yahoo",
       "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
     },
     {
@@ -219,6 +198,13 @@
       "pubDate": "Tue, 19 May 2026 07:00:00 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "The food recalls, alerts issued over salmonella concerns this month - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVBTbElxUUVCeW9FcEZwcU91NW9RZzdidWlIRk9yY2RiWjQyU1pwV3lJY1V2d1pWdHVFX09RYVliTE5kNlpzVE1iM3J1QmVBZmtKd0pLRGstQW03bExOQjVnMlQ2TTNQekJfMFFsM3ZEX0VvaHl3Zkk1SXJRQ25OX1dhS2FqeG5VVEwyVWM3a3g1azJUVlVFMVZ4MHZnSXZiSUdwNlZxQdIBrAFBVV95cUxQcGYxRDRTUjBxUEdoYkpqTWJMcjRGRlB1dzgtZ2hXNFlLVGMtT1N5eWJNQVNVanVCRUdhT01GeC1Oc2ZaeU9NekM5STJXclhmSFpXdVc5SUNuVnNvYnJsVS1uLVhKNURpVUc4VU1NN1VCb3pzcTZiRDI0Smo4QlRLel9yYmd4UzhjQjM5UDkwdTdnYkxjYWRuYndSMU1CcjZjMWdLdEtWU201VVZQ?oc=5",
+      "description": "The food recalls, alerts issued over salmonella concerns this month The Hill",
+      "pubDate": "Sun, 17 May 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Juices & Beverages",
       "title": "Why Trader Joe's Was Once Sued Over Juice - Tasting Table",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGNnaExYaDZIa3BFcnRyZGJxODFSSHFWTTFSTk5fNUNqbHJsbFVEbVloWVZYdUhMakFTZmloTnpacGI4N3c3c2lUcS1HcjhRTG1aTU81UmZIQVRRMWZqSk9QYUhfUjJ5RENGaVQ0clRfd0NoenlLNk1IdXdzRlBpZlNR?oc=5",
@@ -248,10 +234,24 @@
     },
     {
       "source": "EU HPP & Food Tech",
-      "title": "Food Tech Market Size, Share, Industry Trends, Analysis 2035 - Market Research Future",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwOGlERG4xYjVDcVBveVZhbkVfY0gyQ0hXVnN1YjJ5Ni1kSTVhaFVMRllncmc2ZUFiWDhoVHRxRW82S0tMeHEtZEF5TVVlQ2NYZjI5TTZJMnByNmI4ZUkyQnZUcU1mT1lwd3RYU3B0LVh5WFFvR3c?oc=5",
-      "description": "Food Tech Market Size, Share, Industry Trends, Analysis 2035 Market Research Future",
-      "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
+      "title": "Europe Steam Boiler Market Size, Share & Growth, 2034 - Market Data Forecast",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU01VVTdody1WVWk1YVpKQXp3U000LWgtZHBTeXYzdDBKMGFOTDhGZ3RNd3o3WTE0ZkFVTEt0eHYwVFZnVmhMcVZqZHYyd0huYmU3Z2xjRWdqbmdLSTc1QnpLY1JLQm1faFNOSDNWVjFYakFiZXBNOEYtd0VWQ0pZbjh3?oc=5",
+      "description": "Europe Steam Boiler Market Size, Share & Growth, 2034 Market Data Forecast",
+      "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "Good4U recalls Super Sprouts Super Greens over Salmonella risk - New Food",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRFZ4d01NSXRMa0h5cVBjMEdTSG16X1Q0M3hyUzVBV3l5UDB5RlFmX3Mtdkw2ZXFHS3U4QTY1b196b1V2bVppSzJ1LWJJTUZEWGlUMGwtOWF4VmhHb2FMZ0dMeDRfQ3dvdVMtaTFvMVpRa3NWQm42eWEyVUhHSXdYY3lkLTRpbFFFbEYweERHSWU1VkFWeHZ0U21takhIQldYRDMwQVdRc3VQZjlYTERVcDdLSWRsUQ?oc=5",
+      "description": "Good4U recalls Super Sprouts Super Greens over Salmonella risk New Food",
+      "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Europe Healthy Food Market Size, Share, Growth | Report 2035 - Market Research Future",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc2swRjZ3SHE2NDk4djRnUUdEOXhvb2hQYjlwTC11bUFJcjdEUXVBbFB5eW5Tb00yUmZYQVNFdmduWndOZnZrX1pNcjYwNmdRSXQwQlFzYzBoRzk0UlFjYl9GZHlYcU9iZElTSWxEQWE1cjI1TktzNDY2cHdYd0dDbXVERQ?oc=5",
+      "description": "Europe Healthy Food Market Size, Share, Growth | Report 2035 Market Research Future",
+      "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "UK HPP Industry",
@@ -259,13 +259,6 @@
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
       "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
       "pubDate": "Tue, 31 Mar 2026 09:53:10 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Fortress Technology to display touchscreen solution for food safety at interpack 2026 - Packaging Europe",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXJvUXo3TWdoczNubWhpVjNDZ3dudUgySUxzWlJ4cjBFcEhKWnhNY0FjRTI5aUwtZjVXV25RdDkwQXhLVWFRWmo1ZlpKcW8zV3A2ZExicW9XcFhSalJrU0hHcmNQcFB1OVh4ME4wZEhaVDlTUmVUMzl6RnV6czduT192c012TDkxN29NakI3TTJYMnYtRWpiZHFtLUZ5Y0ktNHVrMlhWSWJaQXRQNV9VSnhkZUZWYkdsbF85OVY5NUs3Qm9maFgyellrR1A?oc=5",
-      "description": "Fortress Technology to display touchscreen solution for food safety at interpack 2026 Packaging Europe",
-      "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -303,25 +296,11 @@
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "‘Not all ultra-processed foods are the same’ — what next for the food industry? - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwd1pGeC0yRGtOU09tQ2laM2k0cTVzS1VSQVRBNGhhbkpTWW9GZzhyOEhORl9sbkR6NElrWkFRLWpzQXdyOE9iUzkwM1ZGS0RYSlM3LXRDSHZBTUJfLU9ZV3VaZm9WX2JPbXFGVnZVdnM?oc=5",
-      "description": "‘Not all ultra-processed foods are the same’ — what next for the food industry? Financial Times",
-      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "Hiperbaric EU",
       "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXhUbEgxOUMycF9EN0RUdmxwWWt1WUVyYU1iUnQ0R2FCTlZZcTlFUEMwaG45Z0lGZHpQNGpXTFJEcW9HNm1RN1lSNzZFX2M4QnllM3NmMXc2UVRMTWFvNHM2dXkyc01pNHJ5MlpvWTNMQWJDdUxvc1I5NWR2NFIzOS1vWGFNMUtiZ2d2NVRUVHVTTk9BdENMUmZkcjZZc2VwUXowOGhXWWRvcGQ5T2wtYjRhbTNzSlFrUHZXWmNLWFYzUVlNUE1uTG1xYk5EUDFHQkVsSlJFcHhDN3BTM0dWcnp6MVNOc1VUbFB1ZUJMYzhMenJRNkRkeS1maTlYNGozbEthVW1B?oc=5",
       "description": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility PR Newswire",
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "£3m fund unveiled to target diet and health innovation - British Baker",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
-      "description": "£3m fund unveiled to target diet and health innovation British Baker",
-      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Soups & Meals",
@@ -350,6 +329,27 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWYtdVQwYl80R1Ytem9hTzNxNl9sMHFaVVlXa1h3aG9CakY5SnZEZ3NibThISEI0WmNYYXg5TG1wYzd6c0Z0MWlLbUk4UGxqQndKQW8yNlNrcGlNcGEzNnM3eEpLTW8tdy1HUnVSV1dIaTB4MDlDSEtUOWJiSkoxdnozZHJnM3BVS0huUEZ6WjNKZUczLWtUQW1xVW1KR1JPalE5RElBeWpDcFdTNXliM0REZXNxUFV0QjItWW5yYw?oc=5",
       "description": "Quintus unveils pilot-scale warm isostatic presses for all-solid-state battery production Charged EVs",
       "pubDate": "Tue, 09 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric",
+      "title": "Universal Pure expands HPP capacity with Hiperbaric 525i system - The National Provisioner",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUXNZSnV2bWdCeVlVakpnNFN2bzlwQklaaUEyaEJoSzNiUG9xZlhsak1ZOWNhb05reEpGa3lCQ3ZvR01Ya3c3R1NiVFk1ZWFQRm9ST3NmNko1NHhwTnc2NXZiZ3FrTDJwWDlBY3BDVkpUM3lxSFpiVkticUFJY2d3MUJ1MzdrVVFnZHU1NHd3cGk0UWlRelk4Q0pPUjdXZ0steDFMb19xTFBmeW5Ua1JzZEFOZw?oc=5",
+      "description": "Universal Pure expands HPP capacity with Hiperbaric 525i system The National Provisioner",
+      "pubDate": "Wed, 26 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Meat & Deli",
+      "title": "High-Pressure Processing reverses the dark color or dark-cutting beef to bright red - MEAT+POULTRY",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzJuTUJEMjVscTBHVnRDWjdnR2hTM0dDWTk5ZkkwV2lXdzJwR0N0dmZaeHJ0OEhjNnRBbGNSUElDcHM1T3Y3emNBeGJrZDltMXJ3S0VydloyUXM1WWVxNzhKU1NSZGFEeUtKZ3ZtY2hLR3BSV2thNFNDMG13Tll2eTZSOEZ2aHZSMm51Q3doSGJtcHlpWlUwcm5OYU1sZjNkLXBhdzZoWDYzeFJDRzRvdWs2YjNGZnkzaXM5OE1DMDg0VUg3?oc=5",
+      "description": "High-Pressure Processing reverses the dark color or dark-cutting beef to bright red MEAT+POULTRY",
+      "pubDate": "Fri, 21 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Meat & Deli",
+      "title": "Meat analogues: Role of plant protein functionality and processing strategies for quality enhancement - ScienceDirect.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93T09EVkI4TnhyNWFJOENwYVFnSFBqQ2RfbXVnUmsySzAxYVYtLV84M1pvMkpmX3U0YUZDOVlEQ3FqU2FxQXFiYkd0NTNVWE1seDU4amVGNGpROWFyNUJDelBienc2YmpkSTdKdTVER3p5ZndWUVJuNWMxYw?oc=5",
+      "description": "Meat analogues: Role of plant protein functionality and processing strategies for quality enhancement ScienceDirect.com",
+      "pubDate": "Tue, 18 Nov 2025 13:56:12 GMT"
     }
   ]
 }
