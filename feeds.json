@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T14:50:03.448426+00:00",
+  "updated": "2026-06-21T16:37:07.003713+00:00",
   "articles": [
     {
       "source": "Food Safety UK & EU",
@@ -86,6 +86,13 @@
       "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT"
     },
     {
+      "source": "HPP Dairy",
+      "title": "Unhomogenised milk boom prompts Waitrose farm investment - FarmingUK",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOWNLMHZMUkZqQ24wLXNHbkVtbGNzWkZ6eXcwa25TQ0xMTnp3cUlhYzhpSWhUNXRVMWFFM3ptSjk1UXA1U0Y1c3hJalpXOUJDNjFndTVQVzdvNWs5cmgxN0xIUG1YWXhHQWV6aUpCVEdPcG5CeDVncTdodHphZlRxM2RNUWxqSGJ5RXU1ZU1MZ05TZnJYZWJXWlVudXY2Ujg?oc=5",
+      "description": "Unhomogenised milk boom prompts Waitrose farm investment FarmingUK",
+      "pubDate": "Tue, 16 Jun 2026 05:41:54 GMT"
+    },
+    {
       "source": "Salmonella Outbreaks",
       "title": "FDA probes mystery salmonella outbreak as recall widens - MSN",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOazlxeHZMVWVrczk5THc4Q3Q5UzBCWWlxNER1clpmR29ZcG90NHhENms2ZHdRRVdVVU5Wd0VsRWJ5TDlfZ3RYS1JiTU4tbDZNNzZhczl4TFhqYWN1MWlhUFpHcVNITUMyTGZ5cHJseHlTMDFGd0ZROEdtbUNuV0lKNE1kTjVwSzRKUEFnaExubG41bnotRGFBeTdVMUFFc1MyUktwalBFaGRLZExVNTNwT0ZVWDdjb0xRTHRxeHB5OTQ0OThEcGxBLWJBQWVaWHhzWTBQd2tubmlZenBfWTNrdGtFRVdTSDd2d1JBRmRn?oc=5",
@@ -107,13 +114,6 @@
       "pubDate": "Sat, 13 Jun 2026 02:29:07 GMT"
     },
     {
-      "source": "HPP Dairy",
-      "title": "GEA Unveils New KOB High Pressure Homogenizers for Efficient Production - Dairy News Today",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNkpiUEh1UlhXTENnd29jNWYtS1FodDgwWDBSQUYyQzkwN3RjTDJUd05pVE80blp3LWxBY3NNNTlGdnJyMFIwUGJIN1l4RjZ6dDhESHpzRnN5OTY4dVhwc0ktbjlWVDZTeTF4ekxLaXRRc0NUazRtZ3lkQl8xRFJ4cnFPRlg3eDA2d1lrOEtGZHMxN0lkVTlUTGVETXNFVVVfMEdid3RTV1dzalViYWNaVXVXM0c0R1BBUXl4dA?oc=5",
-      "description": "GEA Unveils New KOB High Pressure Homogenizers for Efficient Production Dairy News Today",
-      "pubDate": "Fri, 12 Jun 2026 19:15:56 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
       "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
@@ -126,20 +126,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
       "description": "Salmonella Outbreak Linked to Moringa Leaf Powder Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Frontmatec’s Spanish factory expands robotic automation capacity - Food and Drink Technology",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc28zbGNKazk1RW02MXhLc3EzX3VsSDQtOU1BVlMtV1FkOC1vWktucG1xbVJlSkU4LTRYSFR0dzBIMXRaWkxGRFYxS2VrV0JtV0JQWWdvT2hZNkN2Y1FZUGw4NzBPeXNhdld4NmhlT1dNSU81ZVVaZkVDV1FRLU13YnhYN3dVNUU3bFhQd3BqaGdDRWp6YjczWXdXanY0M1RIcV83MHExV3RpUG1TalIwYU8wVUZGclZLN1Vn?oc=5",
-      "description": "Frontmatec’s Spanish factory expands robotic automation capacity Food and Drink Technology",
-      "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage - funcas.es",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BTaXhwYnBzVTdZSldMcFJKR2FSQl9JMFoxQ0VEdEg4NmFObGY0ZldMWHE5U3hVQk9RZm5icmJXWlhKRHVsQzZWNllzT0tNUlVRc25pTzZDclk4eGlsZ3k0cmlScktfRlNBRUt3eWJQdUhHemtOSXJjelk1WjFBTWVoSjBQV0oycHdXZS1BYy1hNmhRVEY1T0tXZUZRa2doa3NyMlZpR1dtYmx3dTlId2duX1M4UVlZbVlOY0FnMlNMbzFRMXk5dTFZdUV6SEhVc2hSdmVjWjFlRndSNzdVMllIcDY?oc=5",
-      "description": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage funcas.es",
-      "pubDate": "Tue, 09 Jun 2026 16:29:39 GMT"
     },
     {
       "source": "HPP Cosmetics & Beauty",
@@ -184,11 +170,11 @@
       "pubDate": "Tue, 26 May 2026 07:00:00 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 - Fortune Business Insights",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEYwb0FKSE1PSTZtQ1IwTHB1ZHBIbzhSc1piZnR6VTRpODRIaDRUaUx1cGZEVldYT0FjSkdEQ0tpNWVITDZ2eXl5TC1IOFM0V0Qwd0ZLaG9RSlp0WXI5V3NEV0pCYTg5RHFIb0NjOWVmcFVxU0ZILVhHdS10cWVtTk5qTVNfcVk?oc=5",
-      "description": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 Fortune Business Insights",
-      "pubDate": "Mon, 25 May 2026 07:00:00 GMT"
+      "source": "Quintus Technologies",
+      "title": "MTC Powder Solutions expands HIP capacity with Quintus QIH 286 - Metal Additive Manufacturing magazine",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNEdwazZYU0RxekM4LXJ1dlcwNWVvMGJxVEg5R0tBR0ROMl9QY2FvMUpwSFZCS1VfUHZJN1o2VXlMNDZOOTlvUnlSZnp3RlA1WmN5WkpPb1hzaXFrX1dzdUtUQlFORWVHcnBIWTc3LTFRZU5CeDFheDNYVnYtUlV4RFptVGpMNW83cmFlcjNfRzVjdw?oc=5",
+      "description": "MTC Powder Solutions expands HIP capacity with Quintus QIH 286 Metal Additive Manufacturing magazine",
+      "pubDate": "Tue, 19 May 2026 07:00:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -240,11 +226,32 @@
       "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
     },
     {
+      "source": "EU HPP & Food Tech",
+      "title": "Europe Steam Boiler Market Size, Share & Growth, 2034 - Market Data Forecast",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU01VVTdody1WVWk1YVpKQXp3U000LWgtZHBTeXYzdDBKMGFOTDhGZ3RNd3o3WTE0ZkFVTEt0eHYwVFZnVmhMcVZqZHYyd0huYmU3Z2xjRWdqbmdLSTc1QnpLY1JLQm1faFNOSDNWVjFYakFiZXBNOEYtd0VWQ0pZbjh3?oc=5",
+      "description": "Europe Steam Boiler Market Size, Share & Growth, 2034 Market Data Forecast",
+      "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
+    },
+    {
       "source": "Food Safety UK & EU",
       "title": "Frozen pizzas sold at Aldi and Walmart under recall for possible salmonella risk - The Independent",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYmpjWWdZekp3ZkRsai1xMDQzNGlfcHhWSC1kLTdZcWRWRko5WmVpOTJ2bEd3MGUxRFVCc20xMURLcnM5MlBWZktqdU56cFZLSU9JTXVkVWpPNEtTanRHcHZZTUFaNFc5cTMyRDg0ZU1YSnZjaVJiZ0FBOGtNa3c5Uk1BN2JjeFBSNy1wLWtYMTU2Y2lmaFhTZnFnUUpfckE?oc=5",
       "description": "Frozen pizzas sold at Aldi and Walmart under recall for possible salmonella risk The Independent",
       "pubDate": "Mon, 04 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
+      "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
+      "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage - funcas.es",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BTaXhwYnBzVTdZSldMcFJKR2FSQl9JMFoxQ0VEdEg4NmFObGY0ZldMWHE5U3hVQk9RZm5icmJXWlhKRHVsQzZWNllzT0tNUlVRc25pTzZDclk4eGlsZ3k0cmlScktfRlNBRUt3eWJQdUhHemtOSXJjelk1WjFBTWVoSjBQV0oycHdXZS1BYy1hNmhRVEY1T0tXZUZRa2doa3NyMlZpR1dtYmx3dTlId2duX1M4UVlZbVlOY0FnMlNMbzFRMXk5dTFZdUV6SEhVc2hSdmVjWjFlRndSNzdVMllIcDY?oc=5",
+      "description": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage funcas.es",
+      "pubDate": "Wed, 29 Apr 2026 08:10:47 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -268,11 +275,18 @@
       "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
     },
     {
+      "source": "UK Food Industry",
+      "title": "Food Processing Market Share, Size Forecast Till 2035 - Market Research Future",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05Mm03Zi14M3lJcjdVZTVKTV9qYUtTbnBYRjVHY2RNaVhmSFhld3JhcFN1R2NNcnZCNXBfWTBndTBWaVd3ZnA4LVdNRlRLTThld0ZQS2VsOWsxZ1I2cDE1SFFwSlozSnBBdTUyN0p6R2hBdGx2TERnek1najU?oc=5",
+      "description": "Food Processing Market Share, Size Forecast Till 2035 Market Research Future",
+      "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Seafood",
       "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
       "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
-      "pubDate": "Mon, 30 Mar 2026 20:20:32 GMT"
+      "pubDate": "Tue, 31 Mar 2026 09:53:10 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -324,32 +338,18 @@
       "pubDate": "Mon, 09 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "HPP Juices & Beverages",
-      "title": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUTcycmlFc1ROWGhqNVl6ZHdOVGFhVnNtY2hZdnZuc1FFdUlWVnVRRnJTdV9QdGlrdWJnTFAzYnNEUXozcUMyY1BsMHM3My1FZmJMZTdFU2xWOGdjem9pandJZ1Z1djBmR3dfbDRxUFc1ZmRiSnk2cjBuc1BQb2VyLXZpTHZ6MG5GUURqMzJNeS1KRDVPZkt3cWFRTmxlS1JHTVRGY0RWMWZOUUt6TTVHcFY1OU12OE5nQWZ0dmZ4LTJRaVViS1duX0wxTGFHV2pjdkNLOUJJZHJyZHJqSzAwRWUxRjNUNlRsVkdKQnlEaHRXTTd2OFRrQkJSc0xVdw?oc=5",
-      "description": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio The News Journal",
-      "pubDate": "Wed, 21 Jan 2026 15:34:13 GMT"
+      "source": "UK Food Industry",
+      "title": "£3m fund unveiled to target diet and health innovation - British Baker",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
+      "description": "£3m fund unveiled to target diet and health innovation British Baker",
+      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "HPP Soups & Meals",
-      "title": "Incidental food nanoparticles from freshwater clam soup stabilize Pickering emulsions - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3M29MLW96aDdhaV81RWJmYlhTTHYxWER6SlcybnI2S2RjZHhjSjJXNjR6TGxIUUdqcXBnMzFxQkFOa1JiaVlxR1N1b1dMbzQ1RHlieGs0dUpjaGxIMXJj?oc=5",
-      "description": "Incidental food nanoparticles from freshwater clam soup stabilize Pickering emulsions Nature",
-      "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Soups & Meals",
-      "title": "6 Rules for Canning You Should Never, Ever Break - Better Homes & Gardens",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFZNbW0wQ05lcHdEZEpxSlBHYWZtN3k3Z3hOZjRhZ2ZfX0owR0tpenhMY3RCQVdON2xtYS0xUWlJaERUa1Z6cmtQbFo2UVN6NEVReEZQUk1EQmppTWFBX1dTQzBqaS0yb1BaSndrVnZBY3dUTUxWUG02dW1jdnA3QWRudGRKSVpwdG9GTmNtUFplMWZGRGp2d2VCYlFfU00?oc=5",
-      "description": "6 Rules for Canning You Should Never, Ever Break Better Homes & Gardens",
-      "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric",
-      "title": "Universal Pure expands HPP capacity with Hiperbaric 525i system - The National Provisioner",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUXNZSnV2bWdCeVlVakpnNFN2bzlwQklaaUEyaEJoSzNiUG9xZlhsak1ZOWNhb05reEpGa3lCQ3ZvR01Ya3c3R1NiVFk1ZWFQRm9ST3NmNko1NHhwTnc2NXZiZ3FrTDJwWDlBY3BDVkpUM3lxSFpiVkticUFJY2d3MUJ1MzdrVVFnZHU1NHd3cGk0UWlRelk4Q0pPUjdXZ0steDFMb19xTFBmeW5Ua1JzZEFOZw?oc=5",
-      "description": "Universal Pure expands HPP capacity with Hiperbaric 525i system The National Provisioner",
-      "pubDate": "Wed, 26 Nov 2025 08:00:00 GMT"
+      "source": "UK Food Industry",
+      "title": "Meet the food innovation centres leading the way in sustainable, tech-driven development - FoodBev Media",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVUY204LVk3LUY2MXN6QXVRcnJKb0hKbFBRbHNpeXAxSlhzN3c1WW90NGY1UzNCU1cwUDNmbFd6LTRTZWpYZ0lpTTdJRnRQT3ptQ3hneVdYSnRWNjdYRGNsTkV0S21Jb1M5Sk83T21aeE1VVWNSZWkzUEI4b0lKTWR1VTN1ZjAyYVl3eXFRX014ZzlJUnRRM2J3MEJaYVJHTzNWZzNoTVlNbVdsS2lydDBVX213Q0E?oc=5",
+      "description": "Meet the food innovation centres leading the way in sustainable, tech-driven development FoodBev Media",
+      "pubDate": "Fri, 23 Jan 2026 08:00:00 GMT"
     }
   ]
 }
