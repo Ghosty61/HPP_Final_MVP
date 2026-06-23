@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T11:06:27.950959+00:00",
+  "updated": "2026-06-23T13:04:17.886825+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -37,13 +37,6 @@
       "pubDate": "Mon, 22 Jun 2026 14:50:19 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "Clover Hill Dairy expands cheese recall amid deadly listeria outbreak - ConsumerAffairs",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcWNXMUhYbHVfamJUbVNDWWhJb2JpUjNLbnltNHpxSnRHcEFqSThWT2ttYWZ5YzlmYjltQUZPd05GdWhxUWZ4ZE9BRG1maUZDbWw3dTkyN1BmLXNzT0NtMzBnV2ZtZkF6dnZEeUxzd2lCeV9Gd2pla1EzRXN2N0FZR2VDUjlLN0JZRkltdFVzVUYtb3RYWGVpUUN1cWxacmpodWVQWkJLWTVfc05TdnpURnZtaG81NlVnQ1E?oc=5",
-      "description": "Clover Hill Dairy expands cheese recall amid deadly listeria outbreak ConsumerAffairs",
-      "pubDate": "Mon, 22 Jun 2026 12:27:28 GMT"
-    },
-    {
       "source": "Food Safety News",
       "title": "Publisher's Platform: A company’s name is not a trade secret",
       "link": "https://www.foodsafetynews.com/2026/06/publishers-platform-25/",
@@ -69,6 +62,13 @@
       "title": "Investigation Update: Listeria Outbreak, June 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeURCSzJmTjhpWEttM0RXTC1fcmtWZHkxeGk5Q2lheTdneWhwMW1KaHYyamVLeWNnYVhROW1lcm1QMWFzZzZhdmtIcHhVTDFjekVkakhwcVpaMTgtOWFERE1QYUNFOUwwQUc2OW5ITldOVXRLRW5MbWluZ2Y0WXRtNA?oc=5",
       "description": "Investigation Update: Listeria Outbreak, June 2026 Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Thu, 18 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "FDA Announces Recall on Cheese Due to Listeria Outbreak—Here’s What to Know - EatingWell",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT01UTDRWd3Q0bmFQcFlaWUxRWEREb3ctZU9sOEh2bDhKbEhpZHUyTEVhSHJxbm9wZUctbHV3R0Z3R1F6aWRJRWp6THF1QkcxX0VOTEZ6VDBCaDhraXFMT0YyWWZKVWk4OXhOVzNGMnJCNVJHam8yc2dVN1NPMWVkOEFNTW1ISUM0YnNPSg?oc=5",
+      "description": "FDA Announces Recall on Cheese Due to Listeria Outbreak—Here’s What to Know EatingWell",
       "pubDate": "Thu, 18 Jun 2026 07:00:00 GMT"
     },
     {
@@ -248,6 +248,13 @@
     },
     {
       "source": "Food Safety UK & EU",
+      "title": "Salmonella outbreak spreads across Europe - Food Safety News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOGVBRGpKWGhNb2NyTV9xWktzUmZ0NS1rblRDNFcxWWdOWDlpRjc1WHgtLVlpTW8xN3plSjgtdDRUZTBoU2ZLbWM1a2V1V3FwWV9xRFRyRWt0SDJncUFGcDNCSkZHQVpMLUdsS2o4UkVWc0tfUjdETDFlcFRkYjRUZGd0MkF4U2d0?oc=5",
+      "description": "Salmonella outbreak spreads across Europe Food Safety News",
+      "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
       "title": "Good4U recalls Super Sprouts Super Greens over Salmonella risk - New Food",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRFZ4d01NSXRMa0h5cVBjMEdTSG16X1Q0M3hyUzVBV3l5UDB5RlFmX3Mtdkw2ZXFHS3U4QTY1b196b1V2bVppSzJ1LWJJTUZEWGlUMGwtOWF4VmhHb2FMZ0dMeDRfQ3dvdVMtaTFvMVpRa3NWQm42eWEyVUhHSXdYY3lkLTRpbFFFbEYweERHSWU1VkFWeHZ0U21takhIQldYRDMwQVdRc3VQZjlYTERVcDdLSWRsUQ?oc=5",
       "description": "Good4U recalls Super Sprouts Super Greens over Salmonella risk New Food",
@@ -265,13 +272,6 @@
       "title": "Europe Healthy Food Market Size, Share, Growth | Report 2035 - Market Research Future",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc2swRjZ3SHE2NDk4djRnUUdEOXhvb2hQYjlwTC11bUFJcjdEUXVBbFB5eW5Tb00yUmZYQVNFdmduWndOZnZrX1pNcjYwNmdRSXQwQlFzYzBoRzk0UlFjYl9GZHlYcU9iZElTSWxEQWE1cjI1TktzNDY2cHdYd0dDbXVERQ?oc=5",
       "description": "Europe Healthy Food Market Size, Share, Growth | Report 2035 Market Research Future",
-      "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Food Processing Market Share, Size Forecast Till 2035 - Market Research Future",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05Mm03Zi14M3lJcjdVZTVKTV9qYUtTbnBYRjVHY2RNaVhmSFhld3JhcFN1R2NNcnZCNXBfWTBndTBWaVd3ZnA4LVdNRlRLTThld0ZQS2VsOWsxZ1I2cDE1SFFwSlozSnBBdTUyN0p6R2hBdGx2TERnek1najU?oc=5",
-      "description": "Food Processing Market Share, Size Forecast Till 2035 Market Research Future",
       "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
     },
     {
@@ -311,6 +311,13 @@
     },
     {
       "source": "UK Food Industry",
+      "title": "Rewriting the recipe: the next 25 years of innovation - Food and Drink Technology",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMUstc3dfZjFaTW9YNFRhelRhQmRsSEFVVjFGc0tZZE1jMjZXWXhqaXc2VEd6M2pPOWxrSmU1SGNNNXBLTE9wLUcxZ2lTeFVqM19NZUNJeXJycVQxWGQ3UDV5MklIbEw2NHREa3h6Y1BtajhOTXlWZGhJY2JoU21BM0NGY0pxLWJiSTk1TWhSTGJSUEtE?oc=5",
+      "description": "Rewriting the recipe: the next 25 years of innovation Food and Drink Technology",
+      "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
       "title": "‘Not all ultra-processed foods are the same’ — what next for the food industry? - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwd1pGeC0yRGtOU09tQ2laM2k0cTVzS1VSQVRBNGhhbkpTWW9GZzhyOEhORl9sbkR6NElrWkFRLWpzQXdyOE9iUzkwM1ZGS0RYSlM3LXRDSHZBTUJfLU9ZV3VaZm9WX2JPbXFGVnZVdnM?oc=5",
       "description": "‘Not all ultra-processed foods are the same’ — what next for the food industry? Financial Times",
@@ -343,13 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVUY204LVk3LUY2MXN6QXVRcnJKb0hKbFBRbHNpeXAxSlhzN3c1WW90NGY1UzNCU1cwUDNmbFd6LTRTZWpYZ0lpTTdJRnRQT3ptQ3hneVdYSnRWNjdYRGNsTkV0S21Jb1M5Sk83T21aeE1VVWNSZWkzUEI4b0lKTWR1VTN1ZjAyYVl3eXFRX014ZzlJUnRRM2J3MEJaYVJHTzNWZzNoTVlNbVdsS2lydDBVX213Q0E?oc=5",
       "description": "Meet the food innovation centres leading the way in sustainable, tech-driven development FoodBev Media",
       "pubDate": "Fri, 23 Jan 2026 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Juices & Beverages",
-      "title": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio - The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUTcycmlFc1ROWGhqNVl6ZHdOVGFhVnNtY2hZdnZuc1FFdUlWVnVRRnJTdV9QdGlrdWJnTFAzYnNEUXozcUMyY1BsMHM3My1FZmJMZTdFU2xWOGdjem9pandJZ1Z1djBmR3dfbDRxUFc1ZmRiSnk2cjBuc1BQb2VyLXZpTHZ6MG5GUURqMzJNeS1KRDVPZkt3cWFRTmxlS1JHTVRGY0RWMWZOUUt6TTVHcFY1OU12OE5nQWZ0dmZ4LTJRaVViS1duX0wxTGFHV2pjdkNLOUJJZHJyZHJqSzAwRWUxRjNUNlRsVkdKQnlEaHRXTTd2OFRrQkJSc0xVdw?oc=5",
-      "description": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio The News Journal",
-      "pubDate": "Wed, 21 Jan 2026 15:34:13 GMT"
     }
   ]
 }
