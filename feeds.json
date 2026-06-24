@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T15:00:18.430096+00:00",
+  "updated": "2026-06-24T16:48:13.694915+00:00",
   "articles": [
     {
       "source": "Food Safety UK & EU",
@@ -14,6 +14,13 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYm5fYlZlaE9fTW1RS3JnbDlwaDFKajllVHp6Vm9rUnpnX0U5UGdQSndnM0dmOHpDSFd5SWtDNXU0SWk1Qk9SdFdnUTRJR0JOSE1INWt4bXVlSk5MZzBTLTNiTzAzSjUxVm5rZXI1MkVYSElaSV9FY1lZOGN3eGtZa1hHcTV4WkVhc1NHMmV5M2lvMVFR?oc=5",
       "description": "Fruit sold at Tesco, Asda, Sainsbury's, M&S and more recalled due to salmonella News & Star",
       "pubDate": "Wed, 24 Jun 2026 08:33:51 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "Urgent recall issued for two items sold at Morrisons, Asda, Sainsbury's and Tesco - Manchester Evening News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX2RGclNsYWpvZjZpU0F0SENmTFQtU3Z6dWVTMVpVQ2VHemZjN2FNSEdpWHhwOExVVXhPai1VcWxWcUtvWWR0RHQtMEhjRUh3N19ZY2dSSTZ3TjJ1ZHdaaUFxY0tTN1hLMF9FaEhfYWY5U2NqZW1zUkJRVmJoTEdZMDctTElpbXdGS3ZGa1BvTDFHRFE5MndJ0gGcAUFVX3lxTFBDZVR3NkZ3Y04yZ0tha1diMDBNM250QnRsM2RKUjV4R0VqcVVBTXNBUzdJNnh1TXduRU04ZFlsZWFpOC0xTU11OVE5VVktUlgwT0tQak01SXh5YTF2aVk2MEhOaWVJSTlwVTAwWFBkLTJPTGZlODg4VnJ3NjBZVko5QUVoSFdCV0R3TmdkcnRac2lNaUd3NVNZMDAtcA?oc=5",
+      "description": "Urgent recall issued for two items sold at Morrisons, Asda, Sainsbury's and Tesco Manchester Evening News",
+      "pubDate": "Wed, 24 Jun 2026 04:30:00 GMT"
     },
     {
       "source": "Food Safety News",
@@ -45,13 +52,6 @@
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "Check Your Fridge: 18 Cheese Varieties Recalled After Deadly Listeria Outbreak - Real Simple",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ROTB1OW1wMFJZWWdtckJ0NWhITkFhV2ZOT3RNUGM0WnRtWWx5WmJ2bUZTeXc5allwdW0xc0NqeHN3bUQ3NVZ0ZjRsRkdFN0FVQzNreVFSQzVCU255YmhEZHpLYU1mdU9yZTJv?oc=5",
-      "description": "Check Your Fridge: 18 Cheese Varieties Recalled After Deadly Listeria Outbreak Real Simple",
-      "pubDate": "Tue, 23 Jun 2026 17:08:27 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
       "title": "A deadly listeria outbreak has been traced to a Maryland cheese company - PennLive.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYmt4MFp4eDJpQk9xTXB2aWh5blN3dEtRdFlpenZMb2hhTF9ManVTR2Y2a2pUUGliN0ZwZE51VGgzc1ZDSlgzM3N5WGZraGQwVmtFNnRrUkd3SUItSjBDcll1eURiRkllemg4VjI4ckNTZ3hSU2lpLUNKbkpPcFhsbXNhenFFeHJkY012M0RrLWtvbV9wdWxXaDVSQkREOUctaVBub1NCU1ZGYUNrU3Q1dGF6SFnSAcgBQVVfeXFMT2M4WjFpa3hHZ2kzY0ZyZ1ItNTNJRUhSYWZJM3ZDczRqaHhQRTRaTldyNUhXS2F5ZndQOENoVFRHXzJSTGNSSTJ2QlVQLW80Mmw0WWZiQjZQYk9yUjk4QjVwMzFIbHFnVFlGNk9Wb1F6al8yQW1uLWRGNjhoSnJvTlVla2pYSjN6ZzlUcUhkNzEwTUJJUnFnU2xzYkZHeHEzdzlzNmMyVlo4X1o2Nmg3Nkswc3lFQTFyWDFFQzQyOG9ZZS1NTWFseVo?oc=5",
       "description": "A deadly listeria outbreak has been traced to a Maryland cheese company PennLive.com",
@@ -79,17 +79,17 @@
       "pubDate": "Mon, 22 Jun 2026 14:50:19 GMT"
     },
     {
-      "source": "HPP Seafood",
-      "title": "Study finds potential links between virus found in aquaculture and human eye disease - SeafoodSource",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOLWF3WXE3Yy1tZi0tSjF3WlVYWlNsalJnOU11Rlk2dm90V3AwamdXNU9jVV9yTkxzeE5pcm1lTlNzVjZ3c3AwWkdPM1VMSnVXRFdLbEZqZG55c0xhUE1kLUZsZlYzTV9vY2dXdDZoNnBTNHgwTzc1QXpyeEUwNTBZWUVud1Y2NXhwMnBjSzdoSHV5ckNxVG5fLXdpYS1vbGF2WHZwbkZPS3h4ZExxTlA4OWZsNmwySkxZSTRoVFozcVZJNGpJYWhFYkZkcmd2cmhxVWkwZW9KNmNoQndwQ3dPbEpBVXNxT0VqLW56ZzgwYXlKM2ZuMXFZ?oc=5",
-      "description": "Study finds potential links between virus found in aquaculture and human eye disease SeafoodSource",
-      "pubDate": "Thu, 18 Jun 2026 18:22:26 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "Investigation Update: Listeria Outbreak, June 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeURCSzJmTjhpWEttM0RXTC1fcmtWZHkxeGk5Q2lheTdneWhwMW1KaHYyamVLeWNnYVhROW1lcm1QMWFzZzZhdmtIcHhVTDFjekVkakhwcVpaMTgtOWFERE1QYUNFOUwwQUc2OW5ITldOVXRLRW5MbWluZ2Y0WXRtNA?oc=5",
       "description": "Investigation Update: Listeria Outbreak, June 2026 Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Thu, 18 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "FDA Announces Recall on Cheese Due to Listeria Outbreak—Here’s What to Know - EatingWell",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT01UTDRWd3Q0bmFQcFlaWUxRWEREb3ctZU9sOEh2bDhKbEhpZHUyTEVhSHJxbm9wZUctbHV3R0Z3R1F6aWRJRWp6THF1QkcxX0VOTEZ6VDBCaDhraXFMT0YyWWZKVWk4OXhOVzNGMnJCNVJHam8yc2dVN1NPMWVkOEFNTW1ISUM0YnNPSg?oc=5",
+      "description": "FDA Announces Recall on Cheese Due to Listeria Outbreak—Here’s What to Know EatingWell",
       "pubDate": "Thu, 18 Jun 2026 07:00:00 GMT"
     },
     {
@@ -170,17 +170,17 @@
       "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT"
     },
     {
+      "source": "HPP Equipment & Machines",
+      "title": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 - Fortune Business Insights",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaExyNHUyeE9rM0ZPN2dtQk0yMzllUTFZQnBYMnE5SkxXZGpLVlZwTk54eWY2eFF6S3RZWFFUcUR1Yjk5WXVaUGRIQV8zN2d4Y2doUzNPM1RiVkxjdy0yNDExTV9pN1hybUpYbE1iSU5pcnlMcUN0TGZJTUZpc28yR2VEU1M0M0dGc0k2a2lUVjcwQS1OZlFB?oc=5",
+      "description": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 Fortune Business Insights",
+      "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Healthcare & Medical",
       "title": "Growing Industrial Applications Expand Scope of Isostatic Pressing Technologies - MarketsandMarkets",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbjhfQXRKR2YwV0xTc0l2MjRnUU1rVUZHZU9JYWcwWExUOFNXM0JPT3hhQjVFTUZLa24xM3F5dU9mYU1YeHFjYXVPRnk3N1Z5ekFjcm01TWVvbTJnTHZVaTFYUE5Id3JEWlVoMUxKc2dUTTh5M1htTjdhWEE2U3QyYm9LNVNxbGhLSU9LQTFMdw?oc=5",
       "description": "Growing Industrial Applications Expand Scope of Isostatic Pressing Technologies MarketsandMarkets",
-      "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Dairy",
-      "title": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 - Fortune Business Insights",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaExyNHUyeE9rM0ZPN2dtQk0yMzllUTFZQnBYMnE5SkxXZGpLVlZwTk54eWY2eFF6S3RZWFFUcUR1Yjk5WXVaUGRIQV8zN2d4Y2doUzNPM1RiVkxjdy0yNDExTV9pN1hybUpYbE1iSU5pcnlMcUN0TGZJTUZpc28yR2VEU1M0M0dGc0k2a2lUVjcwQS1OZlFB?oc=5",
-      "description": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 Fortune Business Insights",
       "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
     },
     {
@@ -198,7 +198,7 @@
       "pubDate": "Thu, 28 May 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Equipment & Machines",
+      "source": "EU HPP & Food Tech",
       "title": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 - Fortune Business Insights",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEYwb0FKSE1PSTZtQ1IwTHB1ZHBIbzhSc1piZnR6VTRpODRIaDRUaUx1cGZEVldYT0FjSkdEQ0tpNWVITDZ2eXl5TC1IOFM0V0Qwd0ZLaG9RSlp0WXI5V3NEV0pCYTg5RHFIb0NjOWVmcFVxU0ZILVhHdS10cWVtTk5qTVNfcVk?oc=5",
       "description": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 Fortune Business Insights",
@@ -247,13 +247,6 @@
       "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "Europe Steam Boiler Market Size, Share & Growth, 2034 - Market Data Forecast",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU01VVTdody1WVWk1YVpKQXp3U000LWgtZHBTeXYzdDBKMGFOTDhGZ3RNd3o3WTE0ZkFVTEt0eHYwVFZnVmhMcVZqZHYyd0huYmU3Z2xjRWdqbmdLSTc1QnpLY1JLQm1faFNOSDNWVjFYakFiZXBNOEYtd0VWQ0pZbjh3?oc=5",
-      "description": "Europe Steam Boiler Market Size, Share & Growth, 2034 Market Data Forecast",
-      "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Cosmetics & Beauty",
       "title": "FIU researchers reveal new findings on utilizing sargassum as a potential food source - WSVN",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmx1R1IteWZodWRGNk85ajZrVVM5dUQtWkNWTnYxZV9sOVcyd2ZMRkxLYVJhNVhEY2t1MnlHbmx3a3N0YVJuVnV1em80Z0Z3UXA4NFhBZXQza1c3cnV5QTVIWWtBWGNfUTlLbjJXS2cwV3NwaVd0bnpxbmg5aVY1YWFRSHFOMExtT1VERVdPXzdhQTZGMFoweFZXc2VKaFhNQzF2NXc5eW1JVHlJaVh2dnBUX29qVEJOVHY4YkNB?oc=5",
@@ -266,13 +259,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
       "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
       "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "Good4U recalls Super Sprouts Super Greens over Salmonella risk - New Food",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRFZ4d01NSXRMa0h5cVBjMEdTSG16X1Q0M3hyUzVBV3l5UDB5RlFmX3Mtdkw2ZXFHS3U4QTY1b196b1V2bVppSzJ1LWJJTUZEWGlUMGwtOWF4VmhHb2FMZ0dMeDRfQ3dvdVMtaTFvMVpRa3NWQm42eWEyVUhHSXdYY3lkLTRpbFFFbEYweERHSWU1VkFWeHZ0U21takhIQldYRDMwQVdRc3VQZjlYTERVcDdLSWRsUQ?oc=5",
-      "description": "Good4U recalls Super Sprouts Super Greens over Salmonella risk New Food",
-      "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Meat & Deli",
@@ -296,7 +282,7 @@
       "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
     },
     {
-      "source": "UK HPP Industry",
+      "source": "HPP Seafood",
       "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
       "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
@@ -350,6 +336,20 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LV2lRYXdqZDNQdElXMy1DOTlGcDlkX2VtVUd4TnNzWUt3alZxSzdsOTNOS2tTSDlMRzN0VVhycEJkXzVsNG9MazBlUFJ1LXVNLVFiWDVjRHlHY2I5dENtREtCX081RW1NWnc?oc=5",
       "description": "Recent advances of emergent extraction technologies to enhance bioactive compounds extraction of microalgae—An overview towards application in cosmetics Wiley Online Library",
       "pubDate": "Mon, 09 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "£3m fund unveiled to target diet and health innovation - British Baker",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
+      "description": "£3m fund unveiled to target diet and health innovation British Baker",
+      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Meet the food innovation centres leading the way in sustainable, tech-driven development - FoodBev Media",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVUY204LVk3LUY2MXN6QXVRcnJKb0hKbFBRbHNpeXAxSlhzN3c1WW90NGY1UzNCU1cwUDNmbFd6LTRTZWpYZ0lpTTdJRnRQT3ptQ3hneVdYSnRWNjdYRGNsTkV0S21Jb1M5Sk83T21aeE1VVWNSZWkzUEI4b0lKTWR1VTN1ZjAyYVl3eXFRX014ZzlJUnRRM2J3MEJaYVJHTzNWZzNoTVlNbVdsS2lydDBVX213Q0E?oc=5",
+      "description": "Meet the food innovation centres leading the way in sustainable, tech-driven development FoodBev Media",
+      "pubDate": "Fri, 23 Jan 2026 08:00:00 GMT"
     }
   ]
 }
