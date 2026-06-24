@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-24T11:04:50.293535+00:00",
+  "updated": "2026-06-24T12:51:01.933252+00:00",
   "articles": [
+    {
+      "source": "Food Safety UK & EU",
+      "title": "Fruit sold at Tesco, Asda, Sainsbury's, M&S and more recalled due to salmonella - News & Star",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYm5fYlZlaE9fTW1RS3JnbDlwaDFKajllVHp6Vm9rUnpnX0U5UGdQSndnM0dmOHpDSFd5SWtDNXU0SWk1Qk9SdFdnUTRJR0JOSE1INWt4bXVlSk5MZzBTLTNiTzAzSjUxVm5rZXI1MkVYSElaSV9FY1lZOGN3eGtZa1hHcTV4WkVhc1NHMmV5M2lvMVFR?oc=5",
+      "description": "Fruit sold at Tesco, Asda, Sainsbury's, M&S and more recalled due to salmonella News & Star",
+      "pubDate": "Wed, 24 Jun 2026 08:33:51 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Raw milk outbreak reported in Louisiana",
@@ -65,13 +72,6 @@
       "pubDate": "Mon, 22 Jun 2026 14:50:19 GMT"
     },
     {
-      "source": "HPP Seafood",
-      "title": "Study finds potential links between virus found in aquaculture and human eye disease - SeafoodSource",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOLWF3WXE3Yy1tZi0tSjF3WlVYWlNsalJnOU11Rlk2dm90V3AwamdXNU9jVV9yTkxzeE5pcm1lTlNzVjZ3c3AwWkdPM1VMSnVXRFdLbEZqZG55c0xhUE1kLUZsZlYzTV9vY2dXdDZoNnBTNHgwTzc1QXpyeEUwNTBZWUVud1Y2NXhwMnBjSzdoSHV5ckNxVG5fLXdpYS1vbGF2WHZwbkZPS3h4ZExxTlA4OWZsNmwySkxZSTRoVFozcVZJNGpJYWhFYkZkcmd2cmhxVWkwZW9KNmNoQndwQ3dPbEpBVXNxT0VqLW56ZzgwYXlKM2ZuMXFZ?oc=5",
-      "description": "Study finds potential links between virus found in aquaculture and human eye disease SeafoodSource",
-      "pubDate": "Thu, 18 Jun 2026 18:22:26 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "Investigation Update: Listeria Outbreak, June 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeURCSzJmTjhpWEttM0RXTC1fcmtWZHkxeGk5Q2lheTdneWhwMW1KaHYyamVLeWNnYVhROW1lcm1QMWFzZzZhdmtIcHhVTDFjekVkakhwcVpaMTgtOWFERE1QYUNFOUwwQUc2OW5ITldOVXRLRW5MbWluZ2Y0WXRtNA?oc=5",
@@ -91,13 +91,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJY25LTGljSk1aUk1LN3RBVVZKZ2hyNTVTdGtReldOa1VxRjZNUmZLdFZGdDdzank1YlkybmdRNmNIMklmNjFHMmVzUGZxNlRCenlxSlpWcEdnVFBDOFNRV3JaSGYzOWxWS2t1ZFFxMUFxaHBFb29sM1M1MHhpUmc?oc=5",
       "description": "NEXT GENERATION TOUCHSCREEN BOOSTS FOOD SAFETY Process and Control Today",
       "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Dairy",
-      "title": "Unhomogenised milk boom prompts Waitrose farm investment - FarmingUK",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOWNLMHZMUkZqQ24wLXNHbkVtbGNzWkZ6eXcwa25TQ0xMTnp3cUlhYzhpSWhUNXRVMWFFM3ptSjk1UXA1U0Y1c3hJalpXOUJDNjFndTVQVzdvNWs5cmgxN0xIUG1YWXhHQWV6aUpCVEdPcG5CeDVncTdodHphZlRxM2RNUWxqSGJ5RXU1ZU1MZ05TZnJYZWJXWlVudXY2Ujg?oc=5",
-      "description": "Unhomogenised milk boom prompts Waitrose farm investment FarmingUK",
-      "pubDate": "Tue, 16 Jun 2026 05:41:54 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -156,7 +149,7 @@
       "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Equipment & Machines",
+      "source": "HPP Healthcare & Medical",
       "title": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 - Fortune Business Insights",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaExyNHUyeE9rM0ZPN2dtQk0yMzllUTFZQnBYMnE5SkxXZGpLVlZwTk54eWY2eFF6S3RZWFFUcUR1Yjk5WXVaUGRIQV8zN2d4Y2doUzNPM1RiVkxjdy0yNDExTV9pN1hybUpYbE1iSU5pcnlMcUN0TGZJTUZpc28yR2VEU1M0M0dGc0k2a2lUVjcwQS1OZlFB?oc=5",
       "description": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 Fortune Business Insights",
@@ -184,18 +177,18 @@
       "pubDate": "Thu, 28 May 2026 07:00:00 GMT"
     },
     {
+      "source": "HPP Equipment & Machines",
+      "title": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 - Fortune Business Insights",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEYwb0FKSE1PSTZtQ1IwTHB1ZHBIbzhSc1piZnR6VTRpODRIaDRUaUx1cGZEVldYT0FjSkdEQ0tpNWVITDZ2eXl5TC1IOFM0V0Qwd0ZLaG9RSlp0WXI5V3NEV0pCYTg5RHFIb0NjOWVmcFVxU0ZILVhHdS10cWVtTk5qTVNfcVk?oc=5",
+      "description": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 Fortune Business Insights",
+      "pubDate": "Mon, 25 May 2026 07:00:00 GMT"
+    },
+    {
       "source": "Quintus Technologies",
       "title": "MTC Powder Solutions expands HIP capacity with Quintus QIH 286 - Metal Additive Manufacturing magazine",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNEdwazZYU0RxekM4LXJ1dlcwNWVvMGJxVEg5R0tBR0ROMl9QY2FvMUpwSFZCS1VfUHZJN1o2VXlMNDZOOTlvUnlSZnp3RlA1WmN5WkpPb1hzaXFrX1dzdUtUQlFORWVHcnBIWTc3LTFRZU5CeDFheDNYVnYtUlV4RFptVGpMNW83cmFlcjNfRzVjdw?oc=5",
       "description": "MTC Powder Solutions expands HIP capacity with Quintus QIH 286 Metal Additive Manufacturing magazine",
       "pubDate": "Tue, 19 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Dairy",
-      "title": "Dairy Processing Equipment Market to reach US$ 19.1 billion by 2033, Accelerates as Automation Transforms Dairy Production - Persistence Market Research - PR Newswire UK",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPRzQzWS11VV9sZExfdV90Zk9FeVBMZW9qck41c0tJZzZXRDVLMU5rYXJHSDNhM3MxVVE0TWZuQ2Zjb0NBU19tVW9EeXoyNWhSSEstX0hfSnR1SWUyWk4weERndXNkbmFtSWw1TTgwaDZKdWo3MjdTRnNtRXVlVWI3NG5SOThCZXdqX2tiSDBDRld1RURBRE12aTdEVG5oSVlBb1d6eV9ZZmRKRUdzdWpDQXFEa3ZENjMyVnBTZ1h5dnpZejdYNEs2SjVOLWQ3WXM2d0tSMTBxVEx5ZzN6WThHXy1nbGxZRU81ZnEtcS1MUmJSVUFBX1paTzAwQzVzT3VsNlBQc3Blemx3Ukh5UlFlQXJPZzBMbHo0eVBObXdDaUluWVIwUU15Z0QwcERpWHRUWVFz?oc=5",
-      "description": "Dairy Processing Equipment Market to reach US$ 19.1 billion by 2033, Accelerates as Automation Transforms Dairy Production - Persistence Market Research PR Newswire UK",
-      "pubDate": "Mon, 18 May 2026 14:01:00 GMT"
     },
     {
       "source": "HPP Juices & Beverages",
@@ -247,6 +240,13 @@
       "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
     },
     {
+      "source": "EU HPP & Food Tech",
+      "title": "Europe Steam Boiler Market Size, Share & Growth, 2034 - Market Data Forecast",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU01VVTdody1WVWk1YVpKQXp3U000LWgtZHBTeXYzdDBKMGFOTDhGZ3RNd3o3WTE0ZkFVTEt0eHYwVFZnVmhMcVZqZHYyd0huYmU3Z2xjRWdqbmdLSTc1QnpLY1JLQm1faFNOSDNWVjFYakFiZXBNOEYtd0VWQ0pZbjh3?oc=5",
+      "description": "Europe Steam Boiler Market Size, Share & Growth, 2034 Market Data Forecast",
+      "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Cosmetics & Beauty",
       "title": "FIU researchers reveal new findings on utilizing sargassum as a potential food source - WSVN",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmx1R1IteWZodWRGNk85ajZrVVM5dUQtWkNWTnYxZV9sOVcyd2ZMRkxLYVJhNVhEY2t1MnlHbmx3a3N0YVJuVnV1em80Z0Z3UXA4NFhBZXQza1c3cnV5QTVIWWtBWGNfUTlLbjJXS2cwV3NwaVd0bnpxbmg5aVY1YWFRSHFOMExtT1VERVdPXzdhQTZGMFoweFZXc2VKaFhNQzF2NXc5eW1JVHlJaVh2dnBUX29qVEJOVHY4YkNB?oc=5",
@@ -259,20 +259,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
       "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
       "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage - funcas.es",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BTaXhwYnBzVTdZSldMcFJKR2FSQl9JMFoxQ0VEdEg4NmFObGY0ZldMWHE5U3hVQk9RZm5icmJXWlhKRHVsQzZWNllzT0tNUlVRc25pTzZDclk4eGlsZ3k0cmlScktfRlNBRUt3eWJQdUhHemtOSXJjelk1WjFBTWVoSjBQV0oycHdXZS1BYy1hNmhRVEY1T0tXZUZRa2doa3NyMlZpR1dtYmx3dTlId2duX1M4UVlZbVlOY0FnMlNMbzFRMXk5dTFZdUV6SEhVc2hSdmVjWjFlRndSNzdVMllIcDY?oc=5",
-      "description": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage funcas.es",
-      "pubDate": "Wed, 29 Apr 2026 08:10:47 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "Salmonella outbreak spreads across Europe - Food Safety News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOGVBRGpKWGhNb2NyTV9xWktzUmZ0NS1rblRDNFcxWWdOWDlpRjc1WHgtLVlpTW8xN3plSjgtdDRUZTBoU2ZLbWM1a2V1V3FwWV9xRFRyRWt0SDJncUFGcDNCSkZHQVpMLUdsS2o4UkVWc0tfUjdETDFlcFRkYjRUZGd0MkF4U2d0?oc=5",
-      "description": "Salmonella outbreak spreads across Europe Food Safety News",
-      "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -317,6 +303,13 @@
       "pubDate": "Thu, 19 Mar 2026 17:56:16 GMT"
     },
     {
+      "source": "HPP Dairy",
+      "title": "Impact of processing techniques on donor human milk: a multi-omics and bioinformatics scoping review - Frontiers",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNW1tRzNnV0tmMUNMdHJuQkdTYThyV2I1RkROYTFkWXNjMTVCRDNzX1JLbG9MWGF5N204dzB1MVRweVY2MUZJM2l3TVB2R0RXYVJkYVZ1bVdDUEtVV0VxX190eEtzY1FzQ2ZCWGhNN1BCclZMMG1xZVpTWjJiT05KTmhwSFpkbnE1ZDFBZFhCYw?oc=5",
+      "description": "Impact of processing techniques on donor human milk: a multi-omics and bioinformatics scoping review Frontiers",
+      "pubDate": "Thu, 26 Feb 2026 12:53:13 GMT"
+    },
+    {
       "source": "HPP Healthcare & Medical",
       "title": "Duckweed Protein Benefits: Is This Aquatic Plant a Sustainable Superfood? - News-Medical",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUVPWXN3Sk4tNHFLMUtXZmFIUDJ2WFcyRjhuSVo2c2pxVHlCOWc2c1U1NThubHJNNXdkZlJzbFNEbmNYU2RhX3FrZ3lzRDJCVGRlMGdrdjJCX05lb3V6NEY3emtNWmJKV3Jhemgza25iZzFlWFh4NG1udC1xWjY5V2VfTko1ZEFJM3JoeUp5YzBOLUJpVkVPMGF2SVRVbHlmaUZ4Q050ZUxIaWRaQWVYR213?oc=5",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LV2lRYXdqZDNQdElXMy1DOTlGcDlkX2VtVUd4TnNzWUt3alZxSzdsOTNOS2tTSDlMRzN0VVhycEJkXzVsNG9MazBlUFJ1LXVNLVFiWDVjRHlHY2I5dENtREtCX081RW1NWnc?oc=5",
       "description": "Recent advances of emergent extraction technologies to enhance bioactive compounds extraction of microalgae—An overview towards application in cosmetics Wiley Online Library",
       "pubDate": "Mon, 09 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "£3m fund unveiled to target diet and health innovation - British Baker",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
+      "description": "£3m fund unveiled to target diet and health innovation British Baker",
+      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     }
   ]
 }
