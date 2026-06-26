@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T11:04:14.287915+00:00",
+  "updated": "2026-06-26T12:49:32.667268+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -30,18 +30,18 @@
       "pubDate": "Fri, 26 Jun 2026 04:00:11 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "Multistate Listeria Outbreak Linked to Cheese Leaves 1 Dead, 8 Hospitalized - TODAY.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2ozVjdUNjFyOHFYZUxId1JoY2l4YUQweUpONTNraFJPQmREOTE3U1RONjduZTVfZkFCRmFuUlJnQ2dsdmFIcTI1eXlWN1VEMmFCRXdCaFJVc1N5QjBLTTd3cFNnQUZOTXB2X201NGVqbHB4eXUzOExRVU02VDlkak1OdHowY1NMeWYtS3NOaG90Zl9IcTdzZTFlQThPWlZvLTJ6cHNncHJ1TlU?oc=5",
+      "description": "Multistate Listeria Outbreak Linked to Cheese Leaves 1 Dead, 8 Hospitalized TODAY.com",
+      "pubDate": "Fri, 26 Jun 2026 01:06:40 GMT"
+    },
+    {
       "source": "Food Safety News",
       "title": "USDA issues warning about chicken wraps contaminated with Listeria",
       "link": "https://www.foodsafetynews.com/2026/06/usda-issues-warning-about-chicken-wraps-contaminated-with-listeria/",
       "description": "The USDA&#x2019;s Food Safety and Inspection Service (FSIS) is issuing a public health alert for&#xA0;ready-to-eat chicken Caesar wraps because tests of the product showed contamination with Listeria monocytogenes.&#xA0; A recall was not requested because the products are no longer available for purchase. The&",
       "pubDate": "Fri, 26 Jun 2026 00:46:31 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Multistate Listeria Outbreak Linked to Cheese Leaves 1 Dead, 8 Hospitalized - TODAY.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2ozVjdUNjFyOHFYZUxId1JoY2l4YUQweUpONTNraFJPQmREOTE3U1RONjduZTVfZkFCRmFuUlJnQ2dsdmFIcTI1eXlWN1VEMmFCRXdCaFJVc1N5QjBLTTd3cFNnQUZOTXB2X201NGVqbHB4eXUzOExRVU02VDlkak1OdHowY1NMeWYtS3NOaG90Zl9IcTdzZTFlQThPWlZvLTJ6cHNncHJ1TlU?oc=5",
-      "description": "Multistate Listeria Outbreak Linked to Cheese Leaves 1 Dead, 8 Hospitalized TODAY.com",
-      "pubDate": "Thu, 25 Jun 2026 19:06:39 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -56,13 +56,6 @@
       "link": "https://www.foodsafetynews.com/2026/06/patient-count-in-listeria-outbreak-traced-to-cheese-has-increased/",
       "description": "In other outbreak news, there are now 70 people infected with Salmonella from an unknown source.",
       "pubDate": "Thu, 25 Jun 2026 04:05:25 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "UK supermarkets recall apple and kiwi products over salmonella risk - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYXJpRkI1ZnFYc3JwQzVsQ2NidFZBMHVoemR2Q3ZXMVZId0gzc0xMdHRFRktaQ3o2czdxSC1vcHVZRXZzWVkwX0xQVXp0VktpWjZBSEVHZjdDY0I2OFhtQlJRQkVDeTZKelNVeXNYdFl5RXVSTWc3cFBRUXpSdUN2MHNyLWpXdWxRZkEzNGhpOUtBNndwbWthNHp4MkJzMTlhQ1VkbzRBbDRnLWU4MnBHTmx5Y1d2Z0g5SmkzWG5QaUhGX3hhaTlxejItbXRFQ2hfRHVJeWxjdTJsN1FnTVBCSENWR2NQSnV6WVlKczZWYVR6a1Axb25vOG5YR3dnQQ?oc=5",
-      "description": "UK supermarkets recall apple and kiwi products over salmonella risk MSN",
-      "pubDate": "Wed, 24 Jun 2026 23:43:11 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -135,10 +128,24 @@
       "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT"
     },
     {
+      "source": "HPP Dairy",
+      "title": "Unhomogenised milk boom prompts Waitrose farm investment - FarmingUK",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOWNLMHZMUkZqQ24wLXNHbkVtbGNzWkZ6eXcwa25TQ0xMTnp3cUlhYzhpSWhUNXRVMWFFM3ptSjk1UXA1U0Y1c3hJalpXOUJDNjFndTVQVzdvNWs5cmgxN0xIUG1YWXhHQWV6aUpCVEdPcG5CeDVncTdodHphZlRxM2RNUWxqSGJ5RXU1ZU1MZ05TZnJYZWJXWlVudXY2Ujg?oc=5",
+      "description": "Unhomogenised milk boom prompts Waitrose farm investment FarmingUK",
+      "pubDate": "Tue, 16 Jun 2026 05:41:54 GMT"
+    },
+    {
       "source": "Salmonella Outbreaks",
       "title": "Recall of popular supplements expanded amid multi-state salmonella outbreak - KUSA.com",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSF9pejYzaTlMNnZWNGpMRVRzWDE0SEVVbVFLTnBZbkNUYjRfM0xQQ1VGZmFrQTNid1BSOWxtR1hKOVRlODBqQnFZdW5pdm1YcTBvdkFKY2FrdjJLY1F3RzI0NUJXazYzbXZWVWoyTFJKeDRzc3RRTUxqMGZmTGRFdjBkc3JFZS0yQUlPOTVsbV9WMTNhMDk4VHhLUFRWVWpJZFY3a0I0a1pLcFRUcXdFZjMtSi1pZTVXaVJqc1BocFlLRkRUeTBCTDFNdUZZUFpFbHpPamIybFlfaVQ0?oc=5",
       "description": "Recall of popular supplements expanded amid multi-state salmonella outbreak KUSA.com",
+      "pubDate": "Sat, 13 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "🚨 A round up of some of the latest food and product recalls - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMklTa1B2RV9qU0ZkNTdOQzY0SWExRHVuSXZJZzctM3MxRTFkcmdKeVdYeEgyNTFDU3ZMSlAwQ1MzeWJXOFJoTnprZFRST3FhX2xoS2RTVHBVaGhpU3lhbkZXcWRjbEg0TGpkZkU2M3pnSGZSY3psdGVrMkJ5OEJaR1RaVHdLcklObnBMNTFuaVdYVDY2LUpoWmpwMHBNOGlyOURiTWYteWczQi1pSEk5TEhQNXRRZEZMOVE4QVFkNzNOaHZkb3RsVw?oc=5",
+      "description": "🚨 A round up of some of the latest food and product recalls facebook.com",
       "pubDate": "Sat, 13 Jun 2026 07:00:00 GMT"
     },
     {
@@ -343,13 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUTcycmlFc1ROWGhqNVl6ZHdOVGFhVnNtY2hZdnZuc1FFdUlWVnVRRnJTdV9QdGlrdWJnTFAzYnNEUXozcUMyY1BsMHM3My1FZmJMZTdFU2xWOGdjem9pandJZ1Z1djBmR3dfbDRxUFc1ZmRiSnk2cjBuc1BQb2VyLXZpTHZ6MG5GUURqMzJNeS1KRDVPZkt3cWFRTmxlS1JHTVRGY0RWMWZOUUt6TTVHcFY1OU12OE5nQWZ0dmZ4LTJRaVViS1duX0wxTGFHV2pjdkNLOUJJZHJyZHJqSzAwRWUxRjNUNlRsVkdKQnlEaHRXTTd2OFRrQkJSc0xVdw?oc=5",
       "description": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio The News Journal",
       "pubDate": "Wed, 21 Jan 2026 15:34:13 GMT"
-    },
-    {
-      "source": "HPP Soups & Meals",
-      "title": "Incidental food nanoparticles from freshwater clam soup stabilize Pickering emulsions - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3M29MLW96aDdhaV81RWJmYlhTTHYxWER6SlcybnI2S2RjZHhjSjJXNjR6TGxIUUdqcXBnMzFxQkFOa1JiaVlxR1N1b1dMbzQ1RHlieGs0dUpjaGxIMXJj?oc=5",
-      "description": "Incidental food nanoparticles from freshwater clam soup stabilize Pickering emulsions Nature",
-      "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT"
     }
   ]
 }
