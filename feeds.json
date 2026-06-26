@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T07:24:18.662798+00:00",
+  "updated": "2026-06-26T09:11:26.162979+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -65,11 +65,11 @@
       "pubDate": "Wed, 24 Jun 2026 10:17:50 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "Fruit sold at Tesco, Asda, Sainsbury's, M&S and more recalled due to salmonella - News & Star",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYm5fYlZlaE9fTW1RS3JnbDlwaDFKajllVHp6Vm9rUnpnX0U5UGdQSndnM0dmOHpDSFd5SWtDNXU0SWk1Qk9SdFdnUTRJR0JOSE1INWt4bXVlSk5MZzBTLTNiTzAzSjUxVm5rZXI1MkVYSElaSV9FY1lZOGN3eGtZa1hHcTV4WkVhc1NHMmV5M2lvMVFR?oc=5",
-      "description": "Fruit sold at Tesco, Asda, Sainsbury's, M&S and more recalled due to salmonella News & Star",
-      "pubDate": "Wed, 24 Jun 2026 08:33:51 GMT"
+      "source": "Listeria Outbreaks",
+      "title": "Investigation Update: Listeria Outbreak, June 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeURCSzJmTjhpWEttM0RXTC1fcmtWZHkxeGk5Q2lheTdneWhwMW1KaHYyamVLeWNnYVhROW1lcm1QMWFzZzZhdmtIcHhVTDFjekVkakhwcVpaMTgtOWFERE1QYUNFOUwwQUc2OW5ITldOVXRLRW5MbWluZ2Y0WXRtNA?oc=5",
+      "description": "Investigation Update: Listeria Outbreak, June 2026 Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -87,6 +87,13 @@
     },
     {
       "source": "Listeria Outbreaks",
+      "title": "Outbreak Investigation of Listeria monocytogenes: Soft Cheese (June 2026) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbDUwU3k3c0FIa0duaHZaSjJNSGNLN0lJd0M3T05TNHZsb1NDSHdNMVVnWkhvUldHRGFRQkdoSFItc2c0SVJyUTdqQzlhNXRWdUpIQmRUWmVtTTdidzlKMl9KZEtQOTFCODdzY3ZkeS1WYW50MzVTcUItSnlVbi02azhQLU1uaTE0M0hpU3NDc1ZzQkFOOFM5dzdFemdtdklKS0NKTHVzNWNiVXl6dEdLS0tCTVhBSDRXWHBNOQ?oc=5",
+      "description": "Outbreak Investigation of Listeria monocytogenes: Soft Cheese (June 2026) fda.gov",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
       "title": "Cheese Recall Expanded Due to Deadly Listeria Outbreak Across Multiple States - Good Housekeeping",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdmZoRUUtek5ia0Nta3g1M05Bcm5aQ1BVRl8xUUUwdkltME9QWVp0bFBHR1JkdVJMTEh4TkNsN0xmal84OFVyaHQ1SFgxaU5YVGc0YVFpNHh5X1BjR2taeXBmNnQwOEI0ZXVuUDNhZXdhSEhjN2JRb0pmOW54RkFZci1VTUxEcWRtSXdWTmJJNmdySzg?oc=5",
       "description": "Cheese Recall Expanded Due to Deadly Listeria Outbreak Across Multiple States Good Housekeeping",
@@ -98,13 +105,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR2ZMOHprLWZQVmFxREJfRGRicGlVRDQ5SnBaakpJQjRGS0ZMYWVQaGpQYlp2M2Q5MU5pZk1qV0pxSG5HR2djWDVrUkVMcWx3U3NYc2llMWNmMk05QU14UXBWU2NZSHBSb0VYV0Z3S2dqTTVlbENLQXNGM2k3bERQem0yM0ZtMnNjOTBEVDJUcjI5WGFNX3p0YS1rYWRVYXhSSVQxWV8tTXgwR1Q5eUQ2Y0dPV0FiZTMtMUJNMjlLd0pxZw?oc=5",
       "description": "Clover Hill Dairy Recalls All Cheese in Deadly Listeria Outbreak U.S. News & World Report",
       "pubDate": "Mon, 22 Jun 2026 16:20:05 GMT"
-    },
-    {
-      "source": "HPP Healthcare & Medical",
-      "title": "Graphite Yarn Packing Material Market Forecast Points Higher Toward 2035, Driven by Industrial Sealing Demands - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObW16MXRpa09Ca0NnejJ0OFl0enJ2S1prSmRUTG42WHZyOTFlZWdhLUsyNGxRTk9LX0pLdi05bDNVblVyZjdxdWtYT3ppWXpvY0Z3dE9VTk5TYzRmNHlRYWNrSmN1ck5rN24tVTg5aWU0Nm5fWGxGS21HcDdYVzV6ZnRfYmVreW1YNVRMdy1RMjMxY05oU2NpNDYxRnNucFNPbVFyaVUydHVwU0JLVTBTdjhxOVN2WUtZN1phendpZ2wxS0RXOHd2VG8yOVR1elhEajZwY0xn?oc=5",
-      "description": "Graphite Yarn Packing Material Market Forecast Points Higher Toward 2035, Driven by Industrial Sealing Demands IndexBox",
-      "pubDate": "Mon, 22 Jun 2026 10:06:19 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -121,10 +121,24 @@
       "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT"
     },
     {
+      "source": "HPP Healthcare & Medical",
+      "title": "Isostatic Presses Market Growth to Accelerate by 2035 Amid Advanced Materials Boom - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbkRVWkd6bnlxWUlveDEta3BSalZzc3Vrci1TTjZSLTUtRkVrb1pkdHlQUVFJUXFLY3NqVjlTaklpcmxKMkJCMHhqd0xmRC1sOE9zeDg0ZUZzaVBIbFVCeDdnTDljWU1TblRPMDdzZFZ2NVpCVzloV1FPQnZkdmprTTRaTk1NZVYyU2RuSHdDTktvN24xTTRqM0FkWElWVzhhekJTNkxNNERDRDNOT3JiSXkwdzY5cDdNNDVSQUdNZjdVSmVsNTl4Rg?oc=5",
+      "description": "Isostatic Presses Market Growth to Accelerate by 2035 Amid Advanced Materials Boom - News and Statistics IndexBox",
+      "pubDate": "Sat, 13 Jun 2026 10:21:18 GMT"
+    },
+    {
       "source": "Salmonella Outbreaks",
       "title": "Recall of popular supplements expanded amid multi-state salmonella outbreak - KUSA.com",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSF9pejYzaTlMNnZWNGpMRVRzWDE0SEVVbVFLTnBZbkNUYjRfM0xQQ1VGZmFrQTNid1BSOWxtR1hKOVRlODBqQnFZdW5pdm1YcTBvdkFKY2FrdjJLY1F3RzI0NUJXazYzbXZWVWoyTFJKeDRzc3RRTUxqMGZmTGRFdjBkc3JFZS0yQUlPOTVsbV9WMTNhMDk4VHhLUFRWVWpJZFY3a0I0a1pLcFRUcXdFZjMtSi1pZTVXaVJqc1BocFlLRkRUeTBCTDFNdUZZUFpFbHpPamIybFlfaVQ0?oc=5",
       "description": "Recall of popular supplements expanded amid multi-state salmonella outbreak KUSA.com",
+      "pubDate": "Sat, 13 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "🚨 A round up of some of the latest food and product recalls - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMklTa1B2RV9qU0ZkNTdOQzY0SWExRHVuSXZJZzctM3MxRTFkcmdKeVdYeEgyNTFDU3ZMSlAwQ1MzeWJXOFJoTnprZFRST3FhX2xoS2RTVHBVaGhpU3lhbkZXcWRjbEg0TGpkZkU2M3pnSGZSY3psdGVrMkJ5OEJaR1RaVHdLcklObnBMNTFuaVdYVDY2LUpoWmpwMHBNOGlyOURiTWYteWczQi1pSEk5TEhQNXRRZEZMOVE4QVFkNzNOaHZkb3RsVw?oc=5",
+      "description": "🚨 A round up of some of the latest food and product recalls facebook.com",
       "pubDate": "Sat, 13 Jun 2026 07:00:00 GMT"
     },
     {
@@ -163,17 +177,10 @@
       "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "Outbreak Investigation of Listeria monocytogenes: Soft Cheese (June 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbDUwU3k3c0FIa0duaHZaSjJNSGNLN0lJd0M3T05TNHZsb1NDSHdNMVVnWkhvUldHRGFRQkdoSFItc2c0SVJyUTdqQzlhNXRWdUpIQmRUWmVtTTdidzlKMl9KZEtQOTFCODdzY3ZkeS1WYW50MzVTcUItSnlVbi02azhQLU1uaTE0M0hpU3NDc1ZzQkFOOFM5dzdFemdtdklKS0NKTHVzNWNiVXl6dEdLS0tCTVhBSDRXWHBNOQ?oc=5",
-      "description": "Outbreak Investigation of Listeria monocytogenes: Soft Cheese (June 2026) fda.gov",
-      "pubDate": "Fri, 05 Jun 2026 07:19:26 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
-      "title": "New illnesses reported in salmonella outbreak linked to 'super greens' - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWmQtNFFjUE40bEdfdnpPR09MdFpnckJ3NVJrSFBsVXZPZG9kU2xSQl9DeTNpNVl2UTZlVmZ6Sk1GRDN6VnA5SFlLaDhGcWpBS2x1NWtjVVE2Vng1bkMwemM2U3d3bG5rQ3ZMVnNPTjBGMUVTVzZyeDU0MVBWTGNpWHlqQ1g0ZWVOcVVaV1dHbTVNbms1RUl1T3JEdFp2U3JYS1FFXzd2eGhpdWNxenN0Vk5oaFBkck93dmpqT0hqMkJQa0lUU3RJTUdMM25iT3FBXzBTbWxEZDd6bm03RzJOWnFR?oc=5",
-      "description": "New illnesses reported in salmonella outbreak linked to 'super greens' USA Today",
+      "title": "Texas' major food recalls: Salmonella risks plague popular grocery chains - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQnJwYmxSQzhIc2JpSWIzTHN5MktaUTlGV2JnZXNDWGpWa24tcHo5RzJIRG9meDZJTG42VkFKUkhpNFcxcGRpbC1Wd0gtd2tGTmJNeUlZVXV5RGlGUE5XSFFPZ1dnelRrU3JBczRYNkVGZ1JGamsyNHVSX3V4UWgzQmRjalJJZDdOMDVaYTlPZ2hKbUowX2FjMXNhQUYzRVE?oc=5",
+      "description": "Texas' major food recalls: Salmonella risks plague popular grocery chains Houston Chronicle",
       "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT"
     },
     {
@@ -247,25 +254,11 @@
       "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
-      "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
-      "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Meat & Deli",
       "title": "Effects of curing sources and high-pressure processing on quality attributes of smoked hams - Springer Nature Link",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VRzJYeV9mRUZGVEpQWnNtWFYybmxfbnhMdGs5Vk5CaWxIZ3RGX0dETi1abnA4cUhieTJLZjZDenFmRWlTdEYzSWZmaDFjMzcxMmg1SFM5Zkh6a0p6TmN5NXBMREtSYVEyS0dieQ?oc=5",
       "description": "Effects of curing sources and high-pressure processing on quality attributes of smoked hams Springer Nature Link",
       "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Europe Healthy Food Market Size, Share, Growth | Report 2035 - Market Research Future",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc2swRjZ3SHE2NDk4djRnUUdEOXhvb2hQYjlwTC11bUFJcjdEUXVBbFB5eW5Tb00yUmZYQVNFdmduWndOZnZrX1pNcjYwNmdRSXQwQlFzYzBoRzk0UlFjYl9GZHlYcU9iZElTSWxEQWE1cjI1TktzNDY2cHdYd0dDbXVERQ?oc=5",
-      "description": "Europe Healthy Food Market Size, Share, Growth | Report 2035 Market Research Future",
-      "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
@@ -275,6 +268,13 @@
       "pubDate": "Tue, 31 Mar 2026 09:53:10 GMT"
     },
     {
+      "source": "EU HPP & Food Tech",
+      "title": "Fortress Technology to display touchscreen solution for food safety at interpack 2026 - Packaging Europe",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXJvUXo3TWdoczNubWhpVjNDZ3dudUgySUxzWlJ4cjBFcEhKWnhNY0FjRTI5aUwtZjVXV25RdDkwQXhLVWFRWmo1ZlpKcW8zV3A2ZExicW9XcFhSalJrU0hHcmNQcFB1OVh4ME4wZEhaVDlTUmVUMzl6RnV6czduT192c012TDkxN29NakI3TTJYMnYtRWpiZHFtLUZ5Y0ktNHVrMlhWSWJaQXRQNV9VSnhkZUZWYkdsbF85OVY5NUs3Qm9maFgyellrR1A?oc=5",
+      "description": "Fortress Technology to display touchscreen solution for food safety at interpack 2026 Packaging Europe",
+      "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT"
+    },
+    {
       "source": "Hiperbaric",
       "title": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria - Fuel Cells Works",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMWpFYUZveHVvay1yVVNMNWZxN0NDcnhEdnBvVDdueFBuZWhRVkticVM5andBeGtkc1ZBYzlBcmFGY0xHWGIzaF9UZVV5NUxsNjZ1ZkhHRV9TSk9fbzd0R1E2YXJCM2dMMWMtZmp5ZWxyb1FWRTRKWkV1WDN3WXlZeEg4TmwzUnc0ZDcxeWtWWDZuZ3NEOFJyZS1KNnJqdjFpOTZjVFlCNU8wcWpKdjNYM18yeDgzUUl4Qjl2MUVHUW8xc0Jzd2ZNZWxsNkwtYzExN04xTXktNUxaV05kcFdfMjVqTDNGZEhkaEFEMzJBaWFoam9zZjJ4LQ?oc=5",
@@ -282,18 +282,18 @@
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "Europe Food and Beverages Market Size and Analysis, 2034 - Market Data Forecast",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFRiSl9GOVdlZHlfalNxOHk1V25kTkhPV20wU3JpbjNrLXV1VmljMjZfR0dNbEV2b3V2NjZpaDZaM3ZKYTZvazBiV3dDSkY2eWl5eWRrVUE0Z09BV2Y0bzdxLXdaeUgzN2lyTFlFLXNoVXRHQ0xsamN4S0pZeFRUSVV6c1otRzZWYlE?oc=5",
-      "description": "Europe Food and Beverages Market Size and Analysis, 2034 Market Data Forecast",
-      "pubDate": "Tue, 24 Mar 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Seafood",
       "title": "Greenhead Lobster continuing to refine its premium lobster products - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXZMXzNQYVBNSGZZXzRBWGF4UnBjVjdSeVoyVE9xN2VYMUwzNGZoTTFYVUJ1S1FCVUNiTkt3WWhSX01wd3ZrMXNxbFlYMGs4aVBjeV9iMVBiX1JDQm1YU2hNbTZHemRnWGoxdzF4ZG1MWWZUN0k3aVhKVEtIWU1ZZUlrazRhY2h1VjN6ZVR0YjJXeXZPVjVuNngwUnRVemVOUUJud1dnR01wTHR0emxKc29QQjlWZw?oc=5",
       "description": "Greenhead Lobster continuing to refine its premium lobster products SeafoodSource",
       "pubDate": "Thu, 19 Mar 2026 17:56:16 GMT"
+    },
+    {
+      "source": "HPP Healthcare & Medical",
+      "title": "Gelatin production from red tilapia skin fish using high-pressure processing and its characterisations - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtdE9HUzlMckh4djM0dlpzU3NuNzBjVTlIUmpaZHhTMGxGSFZRdnlkbkhBQkhnRmJKUFVzMXBrdGNDbDF1QTlScERjcE1Ca24wZ1Nmajk2Q3BTbU5wNkJR?oc=5",
+      "description": "Gelatin production from red tilapia skin fish using high-pressure processing and its characterisations Nature",
+      "pubDate": "Mon, 02 Mar 2026 08:00:00 GMT"
     },
     {
       "source": "HPP Dairy",
@@ -315,13 +315,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMUstc3dfZjFaTW9YNFRhelRhQmRsSEFVVjFGc0tZZE1jMjZXWXhqaXc2VEd6M2pPOWxrSmU1SGNNNXBLTE9wLUcxZ2lTeFVqM19NZUNJeXJycVQxWGQ3UDV5MklIbEw2NHREa3h6Y1BtajhOTXlWZGhJY2JoU21BM0NGY0pxLWJiSTk1TWhSTGJSUEtE?oc=5",
       "description": "Rewriting the recipe: the next 25 years of innovation Food and Drink Technology",
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Listeria Outbreak Linked to Prepared Pasta Meals - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVljR2g1SWZ1cDJkZE5xMkgxMVR6emh2WXplNFBSaUs3Ni1LaF9ySk54QmtwWDd2SWU5YUdfQnhfLWhJX1lQZmhJQ2xMZkU0MDlHeHQzR2xZQlNiWHhYUmQxcUZuZF93WjU3TnBTbDVyaVBVWXVGMlZyamFjLVc5elB4WTdGdjV2VGc?oc=5",
-      "description": "Listeria Outbreak Linked to Prepared Pasta Meals Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Thu, 12 Feb 2026 08:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVUY204LVk3LUY2MXN6QXVRcnJKb0hKbFBRbHNpeXAxSlhzN3c1WW90NGY1UzNCU1cwUDNmbFd6LTRTZWpYZ0lpTTdJRnRQT3ptQ3hneVdYSnRWNjdYRGNsTkV0S21Jb1M5Sk83T21aeE1VVWNSZWkzUEI4b0lKTWR1VTN1ZjAyYVl3eXFRX014ZzlJUnRRM2J3MEJaYVJHTzNWZzNoTVlNbVdsS2lydDBVX213Q0E?oc=5",
       "description": "Meet the food innovation centres leading the way in sustainable, tech-driven development FoodBev Media",
       "pubDate": "Fri, 23 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Juices & Beverages",
+      "title": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUTcycmlFc1ROWGhqNVl6ZHdOVGFhVnNtY2hZdnZuc1FFdUlWVnVRRnJTdV9QdGlrdWJnTFAzYnNEUXozcUMyY1BsMHM3My1FZmJMZTdFU2xWOGdjem9pandJZ1Z1djBmR3dfbDRxUFc1ZmRiSnk2cjBuc1BQb2VyLXZpTHZ6MG5GUURqMzJNeS1KRDVPZkt3cWFRTmxlS1JHTVRGY0RWMWZOUUt6TTVHcFY1OU12OE5nQWZ0dmZ4LTJRaVViS1duX0wxTGFHV2pjdkNLOUJJZHJyZHJqSzAwRWUxRjNUNlRsVkdKQnlEaHRXTTd2OFRrQkJSc0xVdw?oc=5",
+      "description": "Food Safety Expert Kevin Forrest of Bevara High-Processing Tolling Services Recently Featured on Close Up Radio The News Journal",
+      "pubDate": "Wed, 21 Jan 2026 15:34:13 GMT"
     }
   ]
 }
