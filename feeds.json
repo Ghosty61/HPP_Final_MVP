@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-26T22:29:21.702625+00:00",
+  "updated": "2026-06-27T00:53:42.418742+00:00",
   "articles": [
     {
       "source": "Food Safety News",
-      "title": "Publisher’s Platform: I’ve Written the Letters. Now I’m Asking 55,000 of You — What’s the Next Move — Ideas?",
+      "title": "Publisher’s Platform: I’ve written the letters. Now I’m asking 55,000 of You — What’s the next move — Ideas?",
       "link": "https://www.foodsafetynews.com/2026/06/publishers-platform-ive-written-the-letters-now-im-asking-55-000-of-you-whats-the-next-move-ideas/",
       "description": "In the last seven months this country has had two outbreaks of infant botulism, both traced to powdered whole-milk infant formula.",
       "pubDate": "Fri, 26 Jun 2026 14:25:24 GMT"
@@ -28,13 +28,6 @@
       "link": "https://www.foodsafetynews.com/2026/06/more-than-100-sick-in-european-salmonella-outbreak/",
       "description": "Alfalfa sprouts, and possibly other sprouted seeds, are the primary food vehicle in the multi-country outbreak.",
       "pubDate": "Fri, 26 Jun 2026 04:05:59 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "Concerns voiced after Listeria found in chicken supplied to hospitals; withdrawal initiated - Food Safety News",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZThnRzk2a3kzWGhCb0owbHo2Q2dleEpFSVhTTWJxU2RQYzE4bEQ2M2J0Qkp2OHhIb1g4b21OLUpzVV9Hcl9WVVZQRnFfaEpUT1lqcUxtT2xTRmxwd00zc3pWV1RnU1loUV9McmhFbDB3VEhFQmlPWWExUU43M1kxZk5lWU40RFg4N0pmUkhGSVVySnJibDA2VzE3NW9xQUtibUUyZlpBOEhJaEI0U0drMldMSG5wQlBXZ3VRNWROSDhMM0FX?oc=5",
-      "description": "Concerns voiced after Listeria found in chicken supplied to hospitals; withdrawal initiated Food Safety News",
-      "pubDate": "Fri, 26 Jun 2026 04:03:21 GMT"
     },
     {
       "source": "Food Safety News",
@@ -63,6 +56,13 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2EtaFE3bTZxaDFELXNSMVItbV82NEZhblBHM3FCNHZBRThYS0xzTTEwdDNNcFM2emtDZHdycTRwWFlxeC1SWmg0VEx3cDVEWUhINFh5cFNtLVpQdUZQS1Q2NzdoWkN5dENabUlBclFJWm5ibVhhbFlrUXF4OXFiTkVKaE5wZ3dZUkhvUGYyMEhzdEEzVFNFQmpsQUEya3RCSkhLVWlEbEM5MzlCeWdlQXZ0VEd6Nkk?oc=5",
       "description": "Supermarket meal deal fruit recalled due to possible salmonella risk The Grocer",
       "pubDate": "Thu, 25 Jun 2026 11:10:36 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "UK supermarkets recall apple and kiwi products over salmonella risk - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYXJpRkI1ZnFYc3JwQzVsQ2NidFZBMHVoemR2Q3ZXMVZId0gzc0xMdHRFRktaQ3o2czdxSC1vcHVZRXZzWVkwX0xQVXp0VktpWjZBSEVHZjdDY0I2OFhtQlJRQkVDeTZKelNVeXNYdFl5RXVSTWc3cFBRUXpSdUN2MHNyLWpXdWxRZkEzNGhpOUtBNndwbWthNHp4MkJzMTlhQ1VkbzRBbDRnLWU4MnBHTmx5Y1d2Z0g5SmkzWG5QaUhGX3hhaTlxejItbXRFQ2hfRHVJeWxjdTJsN1FnTVBCSENWR2NQSnV6WVlKczZWYVR6a1Axb25vOG5YR3dnQQ?oc=5",
+      "description": "UK supermarkets recall apple and kiwi products over salmonella risk MSN",
+      "pubDate": "Wed, 24 Jun 2026 23:43:11 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -142,17 +142,24 @@
       "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT"
     },
     {
+      "source": "HPP Dairy",
+      "title": "Unhomogenised milk boom prompts Waitrose farm investment - FarmingUK",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOWNLMHZMUkZqQ24wLXNHbkVtbGNzWkZ6eXcwa25TQ0xMTnp3cUlhYzhpSWhUNXRVMWFFM3ptSjk1UXA1U0Y1c3hJalpXOUJDNjFndTVQVzdvNWs5cmgxN0xIUG1YWXhHQWV6aUpCVEdPcG5CeDVncTdodHphZlRxM2RNUWxqSGJ5RXU1ZU1MZ05TZnJYZWJXWlVudXY2Ujg?oc=5",
+      "description": "Unhomogenised milk boom prompts Waitrose farm investment FarmingUK",
+      "pubDate": "Tue, 16 Jun 2026 05:41:54 GMT"
+    },
+    {
       "source": "Salmonella Outbreaks",
-      "title": "Recall of popular supplements expanded amid multi-state salmonella outbreak - 9News.com",
+      "title": "Recall of popular supplements expanded amid multi-state salmonella outbreak - KUSA.com",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSF9pejYzaTlMNnZWNGpMRVRzWDE0SEVVbVFLTnBZbkNUYjRfM0xQQ1VGZmFrQTNid1BSOWxtR1hKOVRlODBqQnFZdW5pdm1YcTBvdkFKY2FrdjJLY1F3RzI0NUJXazYzbXZWVWoyTFJKeDRzc3RRTUxqMGZmTGRFdjBkc3JFZS0yQUlPOTVsbV9WMTNhMDk4VHhLUFRWVWpJZFY3a0I0a1pLcFRUcXdFZjMtSi1pZTVXaVJqc1BocFlLRkRUeTBCTDFNdUZZUFpFbHpPamIybFlfaVQ0?oc=5",
-      "description": "Recall of popular supplements expanded amid multi-state salmonella outbreak 9News.com",
+      "description": "Recall of popular supplements expanded amid multi-state salmonella outbreak KUSA.com",
       "pubDate": "Sat, 13 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "🚨 A round up of some of the latest food and product recalls - facebook.com",
+      "title": "🚨 A round up of some of the latest food and product recalls - Facebook",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMklTa1B2RV9qU0ZkNTdOQzY0SWExRHVuSXZJZzctM3MxRTFkcmdKeVdYeEgyNTFDU3ZMSlAwQ1MzeWJXOFJoTnprZFRST3FhX2xoS2RTVHBVaGhpU3lhbkZXcWRjbEg0TGpkZkU2M3pnSGZSY3psdGVrMkJ5OEJaR1RaVHdLcklObnBMNTFuaVdYVDY2LUpoWmpwMHBNOGlyOURiTWYteWczQi1pSEk5TEhQNXRRZEZMOVE4QVFkNzNOaHZkb3RsVw?oc=5",
-      "description": "🚨 A round up of some of the latest food and product recalls facebook.com",
+      "description": "🚨 A round up of some of the latest food and product recalls Facebook",
       "pubDate": "Sat, 13 Jun 2026 07:00:00 GMT"
     },
     {
@@ -343,13 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LV2lRYXdqZDNQdElXMy1DOTlGcDlkX2VtVUd4TnNzWUt3alZxSzdsOTNOS2tTSDlMRzN0VVhycEJkXzVsNG9MazBlUFJ1LXVNLVFiWDVjRHlHY2I5dENtREtCX081RW1NWnc?oc=5",
       "description": "Recent advances of emergent extraction technologies to enhance bioactive compounds extraction of microalgae—An overview towards application in cosmetics Wiley Online Library",
       "pubDate": "Mon, 09 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "£3m fund unveiled to target diet and health innovation - British Baker",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
-      "description": "£3m fund unveiled to target diet and health innovation British Baker",
-      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
     }
   ]
 }
