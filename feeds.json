@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T20:27:32.357365+00:00",
+  "updated": "2026-06-27T22:25:47.070856+00:00",
   "articles": [
     {
       "source": "Food Safety UK & EU",
@@ -7,13 +7,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM3VtR0gycGZzOVdOV09oUURQajNQV0tkeEtOQV9vZDd6VGdWWUVodVk1THptTDlyQmJ6b2lDS0kwRFc3S29sTVV1TWhZZ09RVnJEX3J5eXlOZjBQSlMtb0UtbzEtRDZMOE9iajhMN3c4dXZXNDMxeDlGUENkQndNV19UR2RiZ3VpcDBJc0xPcmZnQTjSAZgBQVVfeXFMT3k1b1Roem5DdzBORmFLVVB2NlJqeVNYYkRnbG4xRkJzWVR3VEQ5bHJSbHZlTy1kRFA1SlpMV2ctWTk3VVp1UmE1d19oUnBRSkh3T3pPOEYtOXFjLVhxaVRIV1lFLWt3UEFEdHEySXlEOHlEM1QtT0l0NWJhYWJwNG9UeW5sU1BRVm0teWdWT240VHdfTTMxcnQ?oc=5",
       "description": "Urgent food recalls from Tesco, Sainsbury's, Asda and Morrisons for possible salmonella Manchester Evening News",
       "pubDate": "Sat, 27 Jun 2026 06:44:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Multistate Listeria Outbreak Linked to Cheese Leaves 1 Dead, 8 Hospitalized - TODAY.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2ozVjdUNjFyOHFYZUxId1JoY2l4YUQweUpONTNraFJPQmREOTE3U1RONjduZTVfZkFCRmFuUlJnQ2dsdmFIcTI1eXlWN1VEMmFCRXdCaFJVc1N5QjBLTTd3cFNnQUZOTXB2X201NGVqbHB4eXUzOExRVU02VDlkak1OdHowY1NMeWYtS3NOaG90Zl9IcTdzZTFlQThPWlZvLTJ6cHNncHJ1TlU?oc=5",
-      "description": "Multistate Listeria Outbreak Linked to Cheese Leaves 1 Dead, 8 Hospitalized TODAY.com",
-      "pubDate": "Sat, 27 Jun 2026 05:55:27 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -42,6 +35,13 @@
       "link": "https://www.foodsafetynews.com/2026/06/publishers-platform-ive-written-the-letters-now-im-asking-55-000-of-you-whats-the-next-move-ideas/",
       "description": "In the last seven months this country has had two outbreaks of infant botulism, both traced to powdered whole-milk infant formula.",
       "pubDate": "Fri, 26 Jun 2026 14:25:24 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "FDA Expands Cheese Recall Amid Deadly Listeria Outbreak - Prevention",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzeGh2NEs2RlhJcThmajU3Q2lfLUFNTDZWMERYTWVUaUlpVmZvSHV5dExFVTdLMzZRYkFObS1xdFp0Nmpya1gwY0JJRUkxemxGNHk4UTdiZEpVX3J0Wmk5ZktUWmVKUUtDR2h5Y3BmTkRjSThPOHB1T1RBem5keFk?oc=5",
+      "description": "FDA Expands Cheese Recall Amid Deadly Listeria Outbreak Prevention",
+      "pubDate": "Fri, 26 Jun 2026 10:19:00 GMT"
     },
     {
       "source": "HPP Soups & Meals",
@@ -142,13 +142,6 @@
       "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Dairy",
-      "title": "Unhomogenised milk boom prompts Waitrose farm investment - FarmingUK",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOWNLMHZMUkZqQ24wLXNHbkVtbGNzWkZ6eXcwa25TQ0xMTnp3cUlhYzhpSWhUNXRVMWFFM3ptSjk1UXA1U0Y1c3hJalpXOUJDNjFndTVQVzdvNWs5cmgxN0xIUG1YWXhHQWV6aUpCVEdPcG5CeDVncTdodHphZlRxM2RNUWxqSGJ5RXU1ZU1MZ05TZnJYZWJXWlVudXY2Ujg?oc=5",
-      "description": "Unhomogenised milk boom prompts Waitrose farm investment FarmingUK",
-      "pubDate": "Tue, 16 Jun 2026 05:41:54 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
       "title": "Recall of popular supplements expanded amid multi-state salmonella outbreak - KUSA.com",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSF9pejYzaTlMNnZWNGpMRVRzWDE0SEVVbVFLTnBZbkNUYjRfM0xQQ1VGZmFrQTNid1BSOWxtR1hKOVRlODBqQnFZdW5pdm1YcTBvdkFKY2FrdjJLY1F3RzI0NUJXazYzbXZWVWoyTFJKeDRzc3RRTUxqMGZmTGRFdjBkc3JFZS0yQUlPOTVsbV9WMTNhMDk4VHhLUFRWVWpJZFY3a0I0a1pLcFRUcXdFZjMtSi1pZTVXaVJqc1BocFlLRkRUeTBCTDFNdUZZUFpFbHpPamIybFlfaVQ0?oc=5",
@@ -233,13 +226,6 @@
       "pubDate": "Mon, 25 May 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "CAFRE students shine in Food Innovation Challenge with Avondale Foods - Department of Agriculture, Environment and Rural Affairs",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMlZzQTBiTUtkRGZ4aXB2Rm9SWGNpcjF4S1ExV2dGb3lHM3U1Si1EeVhTTHNDbGRqc3VaNUlyLXBJYTJNSE44bVh0MmJ4N1dRNFhXT0V2XzJId0xabEhwWjhDbm02MWJXYThXeDlYeXpOWlQzS3Q4dUN4dGxjRVNKaWVrQXkybHVqNzRoMTltbFg1MElkems3bnVB?oc=5",
-      "description": "CAFRE students shine in Food Innovation Challenge with Avondale Foods Department of Agriculture, Environment and Rural Affairs",
-      "pubDate": "Wed, 20 May 2026 07:00:00 GMT"
-    },
-    {
       "source": "Quintus Technologies",
       "title": "MTC Powder Solutions expands HIP capacity with Quintus QIH 286 - Metal Additive Manufacturing magazine",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNEdwazZYU0RxekM4LXJ1dlcwNWVvMGJxVEg5R0tBR0ROMl9QY2FvMUpwSFZCS1VfUHZJN1o2VXlMNDZOOTlvUnlSZnp3RlA1WmN5WkpPb1hzaXFrX1dzdUtUQlFORWVHcnBIWTc3LTFRZU5CeDFheDNYVnYtUlV4RFptVGpMNW83cmFlcjNfRzVjdw?oc=5",
@@ -289,6 +275,13 @@
       "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
     },
     {
+      "source": "UK Food Industry",
+      "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
+      "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
+      "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Meat & Deli",
       "title": "Effects of curing sources and high-pressure processing on quality attributes of smoked hams - Springer Nature Link",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VRzJYeV9mRUZGVEpQWnNtWFYybmxfbnhMdGs5Vk5CaWxIZ3RGX0dETi1abnA4cUhieTJLZjZDenFmRWlTdEYzSWZmaDFjMzcxMmg1SFM5Zkh6a0p6TmN5NXBMREtSYVEyS0dieQ?oc=5",
@@ -317,6 +310,13 @@
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT"
     },
     {
+      "source": "UK Food Industry",
+      "title": "Europe Food and Beverages Market Size and Analysis, 2034 - Market Data Forecast",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFRiSl9GOVdlZHlfalNxOHk1V25kTkhPV20wU3JpbjNrLXV1VmljMjZfR0dNbEV2b3V2NjZpaDZaM3ZKYTZvazBiV3dDSkY2eWl5eWRrVUE0Z09BV2Y0bzdxLXdaeUgzN2lyTFlFLXNoVXRHQ0xsamN4S0pZeFRUSVV6c1otRzZWYlE?oc=5",
+      "description": "Europe Food and Beverages Market Size and Analysis, 2034 Market Data Forecast",
+      "pubDate": "Tue, 24 Mar 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Seafood",
       "title": "Greenhead Lobster continuing to refine its premium lobster products - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXZMXzNQYVBNSGZZXzRBWGF4UnBjVjdSeVoyVE9xN2VYMUwzNGZoTTFYVUJ1S1FCVUNiTkt3WWhSX01wd3ZrMXNxbFlYMGs4aVBjeV9iMVBiX1JDQm1YU2hNbTZHemRnWGoxdzF4ZG1MWWZUN0k3aVhKVEtIWU1ZZUlrazRhY2h1VjN6ZVR0YjJXeXZPVjVuNngwUnRVemVOUUJud1dnR01wTHR0emxKc29QQjlWZw?oc=5",
@@ -331,13 +331,6 @@
       "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "Top 10 Food Technology Trends Reshaping the USD Trillion Industry in 2026 - StartUs Insights",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xSHNGeEkyQmNFT2VDbU1Edldsam9vcDR1VUlNYmg5NGs3a2s0NTBaYmRiMzlpX2VmRktIdHBSdFNCTGVhbWFjMGkyeGEwVWxiYng0VTNhQU5aaDMyQWgtMUN6TUQwVzBRcWJFajI2dUg3X2FTcllTNUNKdlphZw?oc=5",
-      "description": "Top 10 Food Technology Trends Reshaping the USD Trillion Industry in 2026 StartUs Insights",
-      "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT"
-    },
-    {
       "source": "HPP Dairy",
       "title": "Impact of processing techniques on donor human milk: a multi-omics and bioinformatics scoping review - Frontiers",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNW1tRzNnV0tmMUNMdHJuQkdTYThyV2I1RkROYTFkWXNjMTVCRDNzX1JLbG9MWGF5N204dzB1MVRweVY2MUZJM2l3TVB2R0RXYVJkYVZ1bVdDUEtVV0VxX190eEtzY1FzQ2ZCWGhNN1BCclZMMG1xZVpTWjJiT05KTmhwSFpkbnE1ZDFBZFhCYw?oc=5",
@@ -349,6 +342,13 @@
       "title": "Duckweed Protein Benefits: Is This Aquatic Plant a Sustainable Superfood? - News-Medical",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUVPWXN3Sk4tNHFLMUtXZmFIUDJ2WFcyRjhuSVo2c2pxVHlCOWc2c1U1NThubHJNNXdkZlJzbFNEbmNYU2RhX3FrZ3lzRDJCVGRlMGdrdjJCX05lb3V6NEY3emtNWmJKV3Jhemgza25iZzFlWFh4NG1udC1xWjY5V2VfTko1ZEFJM3JoeUp5YzBOLUJpVkVPMGF2SVRVbHlmaUZ4Q050ZUxIaWRaQWVYR213?oc=5",
       "description": "Duckweed Protein Benefits: Is This Aquatic Plant a Sustainable Superfood? News-Medical",
+      "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Rewriting the recipe: the next 25 years of innovation - Food and Drink Technology",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMUstc3dfZjFaTW9YNFRhelRhQmRsSEFVVjFGc0tZZE1jMjZXWXhqaXc2VEd6M2pPOWxrSmU1SGNNNXBLTE9wLUcxZ2lTeFVqM19NZUNJeXJycVQxWGQ3UDV5MklIbEw2NHREa3h6Y1BtajhOTXlWZGhJY2JoU21BM0NGY0pxLWJiSTk1TWhSTGJSUEtE?oc=5",
+      "description": "Rewriting the recipe: the next 25 years of innovation Food and Drink Technology",
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     }
   ]
