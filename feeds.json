@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T22:25:47.070856+00:00",
+  "updated": "2026-06-28T00:56:58.848949+00:00",
   "articles": [
     {
       "source": "Food Safety UK & EU",
@@ -7,6 +7,13 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM3VtR0gycGZzOVdOV09oUURQajNQV0tkeEtOQV9vZDd6VGdWWUVodVk1THptTDlyQmJ6b2lDS0kwRFc3S29sTVV1TWhZZ09RVnJEX3J5eXlOZjBQSlMtb0UtbzEtRDZMOE9iajhMN3c4dXZXNDMxeDlGUENkQndNV19UR2RiZ3VpcDBJc0xPcmZnQTjSAZgBQVVfeXFMT3k1b1Roem5DdzBORmFLVVB2NlJqeVNYYkRnbG4xRkJzWVR3VEQ5bHJSbHZlTy1kRFA1SlpMV2ctWTk3VVp1UmE1d19oUnBRSkh3T3pPOEYtOXFjLVhxaVRIV1lFLWt3UEFEdHEySXlEOHlEM1QtT0l0NWJhYWJwNG9UeW5sU1BRVm0teWdWT240VHdfTTMxcnQ?oc=5",
       "description": "Urgent food recalls from Tesco, Sainsbury's, Asda and Morrisons for possible salmonella Manchester Evening News",
       "pubDate": "Sat, 27 Jun 2026 06:44:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Multistate Listeria Outbreak Linked to Cheese Leaves 1 Dead, 8 Hospitalized - TODAY.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2ozVjdUNjFyOHFYZUxId1JoY2l4YUQweUpONTNraFJPQmREOTE3U1RONjduZTVfZkFCRmFuUlJnQ2dsdmFIcTI1eXlWN1VEMmFCRXdCaFJVc1N5QjBLTTd3cFNnQUZOTXB2X201NGVqbHB4eXUzOExRVU02VDlkak1OdHowY1NMeWYtS3NOaG90Zl9IcTdzZTFlQThPWlZvLTJ6cHNncHJ1TlU?oc=5",
+      "description": "Multistate Listeria Outbreak Linked to Cheese Leaves 1 Dead, 8 Hospitalized TODAY.com",
+      "pubDate": "Sat, 27 Jun 2026 05:55:27 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -35,13 +42,6 @@
       "link": "https://www.foodsafetynews.com/2026/06/publishers-platform-ive-written-the-letters-now-im-asking-55-000-of-you-whats-the-next-move-ideas/",
       "description": "In the last seven months this country has had two outbreaks of infant botulism, both traced to powdered whole-milk infant formula.",
       "pubDate": "Fri, 26 Jun 2026 14:25:24 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "FDA Expands Cheese Recall Amid Deadly Listeria Outbreak - Prevention",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzeGh2NEs2RlhJcThmajU3Q2lfLUFNTDZWMERYTWVUaUlpVmZvSHV5dExFVTdLMzZRYkFObS1xdFp0Nmpya1gwY0JJRUkxemxGNHk4UTdiZEpVX3J0Wmk5ZktUWmVKUUtDR2h5Y3BmTkRjSThPOHB1T1RBem5keFk?oc=5",
-      "description": "FDA Expands Cheese Recall Amid Deadly Listeria Outbreak Prevention",
-      "pubDate": "Fri, 26 Jun 2026 10:19:00 GMT"
     },
     {
       "source": "HPP Soups & Meals",
@@ -73,9 +73,9 @@
     },
     {
       "source": "EU HPP & Food Tech",
-      "title": "Europe Heat Wave Strains Power Supply, Sends Prices Soaring - Bloomberg.com",
+      "title": "Europe Heat Wave Strains Power Supply, Sends Prices Soaring - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZE4xVUQzUHlqWmJHTG94MWM0VDJWSnd3N3FUeEctYVJxR3VTN1M2RU1DM2o3ZXVCQ09Oamg4QjduYUx2cUpsTU9yc2JLbkVwZU51NlVYdlJkOHZCMUEyZXcwSklGNzNlcG1VcVQxLWtGSHo2ekhRUjFkR1RaYVhRbldPT1hEX0VUVXdJRk0zU3RsLXFOU3JmVW9lUWlvOVNYNEFubG9LRmZKTXNRNFE?oc=5",
-      "description": "Europe Heat Wave Strains Power Supply, Sends Prices Soaring Bloomberg.com",
+      "description": "Europe Heat Wave Strains Power Supply, Sends Prices Soaring Bloomberg",
       "pubDate": "Wed, 24 Jun 2026 14:39:21 GMT"
     },
     {
@@ -121,13 +121,6 @@
       "pubDate": "Mon, 22 Jun 2026 10:06:19 GMT"
     },
     {
-      "source": "HPP Seafood",
-      "title": "Study finds potential links between virus found in aquaculture and human eye disease - SeafoodSource",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOLWF3WXE3Yy1tZi0tSjF3WlVYWlNsalJnOU11Rlk2dm90V3AwamdXNU9jVV9yTkxzeE5pcm1lTlNzVjZ3c3AwWkdPM1VMSnVXRFdLbEZqZG55c0xhUE1kLUZsZlYzTV9vY2dXdDZoNnBTNHgwTzc1QXpyeEUwNTBZWUVud1Y2NXhwMnBjSzdoSHV5ckNxVG5fLXdpYS1vbGF2WHZwbkZPS3h4ZExxTlA4OWZsNmwySkxZSTRoVFozcVZJNGpJYWhFYkZkcmd2cmhxVWkwZW9KNmNoQndwQ3dPbEpBVXNxT0VqLW56ZzgwYXlKM2ZuMXFZ?oc=5",
-      "description": "Study finds potential links between virus found in aquaculture and human eye disease SeafoodSource",
-      "pubDate": "Thu, 18 Jun 2026 18:22:26 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "Clover Hill Dairy Ricotta and Requeson Cheese Linked to a Listeria Outbreak - Consumer Reports",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1lveTdpVlRzSnhmeG5nY08yTW1uQU5mWl91dXlRZ19NTFFDNDh5UllqQ2xIMFZhYWRjbXo4Zzd2Wk9KU0c4c1M3WllVSjdCLU5Od2hHUmN3WDVHUnRRdTYxUi0xUTFpM29qU1ZVOHdxS2tvYkFQT044Y3RWWVBtd201QVpoLVVaWktGUUM3QzloN2pMQUk4ZkRWOXRWcm1SajJ4cnEtM1Zock9qY215VFFFODhsdWVP?oc=5",
@@ -140,6 +133,13 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJY25LTGljSk1aUk1LN3RBVVZKZ2hyNTVTdGtReldOa1VxRjZNUmZLdFZGdDdzank1YlkybmdRNmNIMklmNjFHMmVzUGZxNlRCenlxSlpWcEdnVFBDOFNRV3JaSGYzOWxWS2t1ZFFxMUFxaHBFb29sM1M1MHhpUmc?oc=5",
       "description": "NEXT GENERATION TOUCHSCREEN BOOSTS FOOD SAFETY Process and Control Today",
       "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Dairy",
+      "title": "Unhomogenised milk boom prompts Waitrose farm investment - FarmingUK",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOWNLMHZMUkZqQ24wLXNHbkVtbGNzWkZ6eXcwa25TQ0xMTnp3cUlhYzhpSWhUNXRVMWFFM3ptSjk1UXA1U0Y1c3hJalpXOUJDNjFndTVQVzdvNWs5cmgxN0xIUG1YWXhHQWV6aUpCVEdPcG5CeDVncTdodHphZlRxM2RNUWxqSGJ5RXU1ZU1MZ05TZnJYZWJXWlVudXY2Ujg?oc=5",
+      "description": "Unhomogenised milk boom prompts Waitrose farm investment FarmingUK",
+      "pubDate": "Tue, 16 Jun 2026 05:41:54 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -212,13 +212,6 @@
       "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Seafood",
-      "title": "Port Alberni’s The Dock+ expands, adding more space and equipment - Port Alberni Valley News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNnFTUlQ4T1NNWG5fRkdndERVTnBBZ0RwdDlvcURQMllKWGtnTzRiWjhJS3p5MFBHaFFKY0djUW9jRzJrLXJaV2w2aUk1YVNmSDBQWm5rbnhGeGlYRldBTGNhcWtkZ2FaUklsZVFfRndnd2NPZXhwWjNTcjBOeV9xRlNja0xlMFBoaGVKTk1xaGh3X3RWRHlsM0RodnV2TzFxZkk0b19NMA?oc=5",
-      "description": "Port Alberni’s The Dock+ expands, adding more space and equipment Port Alberni Valley News",
-      "pubDate": "Thu, 28 May 2026 12:32:11 GMT"
-    },
-    {
       "source": "HPP Equipment & Machines",
       "title": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 - Fortune Business Insights",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEYwb0FKSE1PSTZtQ1IwTHB1ZHBIbzhSc1piZnR6VTRpODRIaDRUaUx1cGZEVldYT0FjSkdEQ0tpNWVITDZ2eXl5TC1IOFM0V0Qwd0ZLaG9RSlp0WXI5V3NEV0pCYTg5RHFIb0NjOWVmcFVxU0ZILVhHdS10cWVtTk5qTVNfcVk?oc=5",
@@ -275,13 +268,6 @@
       "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
-      "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
-      "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Meat & Deli",
       "title": "Effects of curing sources and high-pressure processing on quality attributes of smoked hams - Springer Nature Link",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VRzJYeV9mRUZGVEpQWnNtWFYybmxfbnhMdGs5Vk5CaWxIZ3RGX0dETi1abnA4cUhieTJLZjZDenFmRWlTdEYzSWZmaDFjMzcxMmg1SFM5Zkh6a0p6TmN5NXBMREtSYVEyS0dieQ?oc=5",
@@ -296,7 +282,7 @@
       "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
     },
     {
-      "source": "UK HPP Industry",
+      "source": "HPP Seafood",
       "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
       "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
@@ -310,25 +296,11 @@
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "Europe Food and Beverages Market Size and Analysis, 2034 - Market Data Forecast",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFRiSl9GOVdlZHlfalNxOHk1V25kTkhPV20wU3JpbjNrLXV1VmljMjZfR0dNbEV2b3V2NjZpaDZaM3ZKYTZvazBiV3dDSkY2eWl5eWRrVUE0Z09BV2Y0bzdxLXdaeUgzN2lyTFlFLXNoVXRHQ0xsamN4S0pZeFRUSVV6c1otRzZWYlE?oc=5",
-      "description": "Europe Food and Beverages Market Size and Analysis, 2034 Market Data Forecast",
-      "pubDate": "Tue, 24 Mar 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Seafood",
       "title": "Greenhead Lobster continuing to refine its premium lobster products - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXZMXzNQYVBNSGZZXzRBWGF4UnBjVjdSeVoyVE9xN2VYMUwzNGZoTTFYVUJ1S1FCVUNiTkt3WWhSX01wd3ZrMXNxbFlYMGs4aVBjeV9iMVBiX1JDQm1YU2hNbTZHemRnWGoxdzF4ZG1MWWZUN0k3aVhKVEtIWU1ZZUlrazRhY2h1VjN6ZVR0YjJXeXZPVjVuNngwUnRVemVOUUJud1dnR01wTHR0emxKc29QQjlWZw?oc=5",
       "description": "Greenhead Lobster continuing to refine its premium lobster products SeafoodSource",
       "pubDate": "Thu, 19 Mar 2026 17:56:16 GMT"
-    },
-    {
-      "source": "HPP Seafood",
-      "title": "Oyster Processor comes to Dock+ - NanaimoNewsNOW",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OS1NNQWRKNUJqUW81ak16UmhZb3N6QzZtRlZiVk1FNlhTblN3VFpzdGNDaFBtTkI2X2U4TFEwZm1PVGFWN0ZXekl0azBZaEUzYjBBcG5xZWFyMGw4TC1GNlBaT2ZfRkNyT1huSjBqUWUyd0tlZ0NzcA?oc=5",
-      "description": "Oyster Processor comes to Dock+ NanaimoNewsNOW",
-      "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Dairy",
@@ -350,6 +322,34 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMUstc3dfZjFaTW9YNFRhelRhQmRsSEFVVjFGc0tZZE1jMjZXWXhqaXc2VEd6M2pPOWxrSmU1SGNNNXBLTE9wLUcxZ2lTeFVqM19NZUNJeXJycVQxWGQ3UDV5MklIbEw2NHREa3h6Y1BtajhOTXlWZGhJY2JoU21BM0NGY0pxLWJiSTk1TWhSTGJSUEtE?oc=5",
       "description": "Rewriting the recipe: the next 25 years of innovation Food and Drink Technology",
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric",
+      "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXhUbEgxOUMycF9EN0RUdmxwWWt1WUVyYU1iUnQ0R2FCTlZZcTlFUEMwaG45Z0lGZHpQNGpXTFJEcW9HNm1RN1lSNzZFX2M4QnllM3NmMXc2UVRMTWFvNHM2dXkyc01pNHJ5MlpvWTNMQWJDdUxvc1I5NWR2NFIzOS1vWGFNMUtiZ2d2NVRUVHVTTk9BdENMUmZkcjZZc2VwUXowOGhXWWRvcGQ5T2wtYjRhbTNzSlFrUHZXWmNLWFYzUVlNUE1uTG1xYk5EUDFHQkVsSlJFcHhDN3BTM0dWcnp6MVNOc1VUbFB1ZUJMYzhMenJRNkRkeS1maTlYNGozbEthVW1B?oc=5",
+      "description": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility PR Newswire",
+      "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Cosmetics & Beauty",
+      "title": "Recent advances of emergent extraction technologies to enhance bioactive compounds extraction of microalgae—An overview towards application in cosmetics - Wiley Online Library",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LV2lRYXdqZDNQdElXMy1DOTlGcDlkX2VtVUd4TnNzWUt3alZxSzdsOTNOS2tTSDlMRzN0VVhycEJkXzVsNG9MazBlUFJ1LXVNLVFiWDVjRHlHY2I5dENtREtCX081RW1NWnc?oc=5",
+      "description": "Recent advances of emergent extraction technologies to enhance bioactive compounds extraction of microalgae—An overview towards application in cosmetics Wiley Online Library",
+      "pubDate": "Mon, 09 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "£3m fund unveiled to target diet and health innovation - British Baker",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
+      "description": "£3m fund unveiled to target diet and health innovation British Baker",
+      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Meet the food innovation centres leading the way in sustainable, tech-driven development - FoodBev Media",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVUY204LVk3LUY2MXN6QXVRcnJKb0hKbFBRbHNpeXAxSlhzN3c1WW90NGY1UzNCU1cwUDNmbFd6LTRTZWpYZ0lpTTdJRnRQT3ptQ3hneVdYSnRWNjdYRGNsTkV0S21Jb1M5Sk83T21aeE1VVWNSZWkzUEI4b0lKTWR1VTN1ZjAyYVl3eXFRX014ZzlJUnRRM2J3MEJaYVJHTzNWZzNoTVlNbVdsS2lydDBVX213Q0E?oc=5",
+      "description": "Meet the food innovation centres leading the way in sustainable, tech-driven development FoodBev Media",
+      "pubDate": "Fri, 23 Jan 2026 08:00:00 GMT"
     }
   ]
 }
