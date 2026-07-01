@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-01T03:13:49.297717+00:00",
+  "updated": "2026-07-01T05:37:21.005992+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "EU tightens tahini and halva Salmonella checks, adjusts rates for other foods",
+      "link": "https://www.foodsafetynews.com/2026/07/eu-tightens-tahini-and-halva-salmonella-checks-adjusts-rates-for-other-foods/",
+      "description": "Stricter controls on tahini and halva from Syria for Salmonella have been put in place by the European Commission. The legislation sets the rate of official controls and special conditions for food and feed of non-animal origin imported into Europe.&#xA0;Action guards against the risk of contamination by",
+      "pubDate": "Wed, 01 Jul 2026 04:04:19 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Allergens dominate as recalls drop in New Zealand",
+      "link": "https://www.foodsafetynews.com/2026/07/allergens-dominate-as-recalls-drop-in-new-zealand/",
+      "description": "The number of food recalls declined in New Zealand in 2025 and undeclared allergens were responsible for almost half of the alerts. New Zealand Food Safety supported businesses in conducting 57 consumer-level food recalls this past year, down from 88 in 2024.",
+      "pubDate": "Wed, 01 Jul 2026 04:01:02 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Five Star brand oysters recalled in Canada because of Salmonella",
@@ -30,20 +44,6 @@
       "pubDate": "Tue, 30 Jun 2026 04:03:58 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Five questions to ask your grocery store about food recalls",
-      "link": "https://www.foodsafetynews.com/2026/06/five-questions-to-ask-your-grocery-store-about-food-recalls/",
-      "description": "-- OPINION --",
-      "pubDate": "Tue, 30 Jun 2026 04:01:59 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "TNVitamins expands recall of moringa powder products",
-      "link": "https://www.foodsafetynews.com/2026/06/tnvitamins-expands-recall-of-moringa-powder-products/",
-      "description": "Total Nutrition Inc. of Deer Park, NY, has expanded a recall to now include TNVitamins 100% Organic Moringa 1,200 mg Capsules and 100% Organic Moringa Powder following a supplier-initiated recall of the raw organic moringa ingredient because of possible Salmonella exposure.&#xA0; No illnesses have been reported to",
-      "pubDate": "Tue, 30 Jun 2026 00:59:44 GMT"
-    },
-    {
       "source": "UK Food Industry",
       "title": "UK Food Valley highlights innovation and ambition at Lincolnshire Show Brunch - Lincolnshire County Council",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZElmZFZsNzZXMlNWQlZQTm96OHZEYW1kdkJWWTlQQS14dUd2OFhHVURRMkpBcFZ0SU5hOG5oSWxpVVdTZFdYcFF5R0VSNjZ5UEx5QzctaWFZdlRaM2xlWW5QX2tRUnlMeVE1bXAyUFRNVzlEWlgxOEd5NHNfSEdidngzWjNGclRfU21IUWNMRGtlcU5jNEFNUDRoNExmc1VKemVEaFF6M3YtYzUzeDFDNVFLTVJnaDh4ZXdSaU1iYjdqLVFPZHc?oc=5",
@@ -63,6 +63,13 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkNvc2dEejNjNHd6TFhBQ3AtaWZQanc1bTlnaHBHZ2xwLUFSZ19La1RaVGctSTZhMGZWMXV0Z1hIT3k4Q1F2WU9XRFg0dnFMWGJLd05nWHRobE5Pa1NnWk0ycWltWmtPeFQzWDRkY2xtcWFpOTk5a3NKOWVOZWd4WkEtNTRPbjE2dWFuMy1Xd1ZiaUVNc2E0anR2a0FaNUZDOEV3MHdNNXdyTWc?oc=5",
       "description": "Cottage cheese recalled in connection with deadly Listeria outbreak foodsafetynews.com",
       "pubDate": "Mon, 29 Jun 2026 02:32:13 GMT"
+    },
+    {
+      "source": "HPP Equipment & Machines",
+      "title": "World High Pressure Processing Equipment - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaWJqWDFCN3V1VFM1d3NrSnVPQWtSTGsxaWF0RHVNMHNVRzVwWnV5Zm5LMktmV2tDdm16R0s4Njhod3ZHTV9UVVc3UUxlTzJiWXBVTm1NSUZ0dlAzam8yUTNhclBNZVk5V0NfamFEa3R2d2ZNNGZoUDhHS0NnOEtfajFKTlB5cWdFX2d5S3VsS3NtVTZQMTRMM2FPekt4TURJNko3aHpzZUpEZllzYVlKdEtlUkJHODdwbWlwY2ZR?oc=5",
+      "description": "World High Pressure Processing Equipment - Market Analysis, Forecast, Size, Trends and Insights IndexBox",
+      "pubDate": "Mon, 29 Jun 2026 01:56:34 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -184,6 +191,13 @@
       "pubDate": "Fri, 05 Jun 2026 07:19:26 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "Outbreak Investigation of Infant Botulism: Infant Formula (November 2025) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUjFDQjlHQ2x1ZUZEdkREVlBxREh2QVAtc2xtSGZzQkVDMnlJSEx5UkppYWkzdVZYSWhQTEdwd0NsaTd0SWxpc05FS3FVWFliMnVhZG5OUm9FbmNFM3ZvN1JlS3lLZVhaTkJmRU1xS2Q4OGtpYXFYX0ZnSHZGU2xpNkdDdVN0YlFaQnZHNllHaDJKUG9nWnRVN1NpdjhMSHQ3c3pZQUJvS2ZTT2x1bGhXVTRPWFFxQUM4R3ltVA?oc=5",
+      "description": "Outbreak Investigation of Infant Botulism: Infant Formula (November 2025) fda.gov",
+      "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Healthcare & Medical",
       "title": "Growing Industrial Applications Expand Scope of Isostatic Pressing Technologies - MarketsandMarkets",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbjhfQXRKR2YwV0xTc0l2MjRnUU1rVUZHZU9JYWcwWExUOFNXM0JPT3hhQjVFTUZLa24xM3F5dU9mYU1YeHFjYXVPRnk3N1Z5ekFjcm01TWVvbTJnTHZVaTFYUE5Id3JEWlVoMUxKc2dUTTh5M1htTjdhWEE2U3QyYm9LNVNxbGhLSU9LQTFMdw?oc=5",
@@ -275,13 +289,6 @@
       "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Equipment & Machines",
-      "title": "Wenger and Extru-Tech Unite Under JBT Marel at Petfood Forum 2026 - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQk1jc3Q0OS0ycTUwOFhaTmlydHFIc2xJeTJXdDl4cEZqR2djNDV0ZHJIV0JpMTNlSnVtVTUtb0ZLQW9xVHdDSmlkdzFPVnA1cjZhMXREVzFoNzZpMkpBRlF3TW5hWXVoSW9nbkk3WDFzRmluakFjRk1iaWlRa05nN3lsTDZXQnNvWFBmN21RdTRHZmpxOHBycHhiLUVObDd1dldkaFFIcWVBcm1CSTFQeEl5OHhoR3ZSYW82SWl5WQ?oc=5",
-      "description": "Wenger and Extru-Tech Unite Under JBT Marel at Petfood Forum 2026 Business Wire",
-      "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Meat & Deli",
       "title": "Effects of curing sources and high-pressure processing on quality attributes of smoked hams - Springer Nature Link",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VRzJYeV9mRUZGVEpQWnNtWFYybmxfbnhMdGs5Vk5CaWxIZ3RGX0dETi1abnA4cUhieTJLZjZDenFmRWlTdEYzSWZmaDFjMzcxMmg1SFM5Zkh6a0p6TmN5NXBMREtSYVEyS0dieQ?oc=5",
@@ -343,13 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMUstc3dfZjFaTW9YNFRhelRhQmRsSEFVVjFGc0tZZE1jMjZXWXhqaXc2VEd6M2pPOWxrSmU1SGNNNXBLTE9wLUcxZ2lTeFVqM19NZUNJeXJycVQxWGQ3UDV5MklIbEw2NHREa3h6Y1BtajhOTXlWZGhJY2JoU21BM0NGY0pxLWJiSTk1TWhSTGJSUEtE?oc=5",
       "description": "Rewriting the recipe: the next 25 years of innovation Food and Drink Technology",
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Listeria Outbreak Linked to Prepared Pasta Meals - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVljR2g1SWZ1cDJkZE5xMkgxMVR6emh2WXplNFBSaUs3Ni1LaF9ySk54QmtwWDd2SWU5YUdfQnhfLWhJX1lQZmhJQ2xMZkU0MDlHeHQzR2xZQlNiWHhYUmQxcUZuZF93WjU3TnBTbDVyaVBVWXVGMlZyamFjLVc5elB4WTdGdjV2VGc?oc=5",
-      "description": "Listeria Outbreak Linked to Prepared Pasta Meals Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Thu, 12 Feb 2026 08:00:00 GMT"
     }
   ]
 }
