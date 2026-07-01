@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-01T13:02:16.310003+00:00",
+  "updated": "2026-07-01T15:03:24.436819+00:00",
   "articles": [
+    {
+      "source": "Food Safety UK & EU",
+      "title": "Salmonella-Contaminated Instant Noodles Sicken Dozens of Children Across Europe - Food Safety Magazine",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPck9TV0kzZENWS1VzNVdTdkNPckhlWlMyV0FQYjFhT3pBUENWTlR1NExNaWxWMndyUDlFLUFJc0ZlNVh2bm5pV1F3VDA3TGF2WG1oQ3FHWHVHcThHdlo1cVpqOEFUWTJyWE9kQVRfdXpFWjNqNE16cFRBVVZiOTl6QkhLazZGMFhWd09YVEp6WlF2UUN2Y2JfbWlxOHZFVTJQd1ZNTExKYjFST0ROYVBYX2tPbDFMR1M5cVZHR2cwcw?oc=5",
+      "description": "Salmonella-Contaminated Instant Noodles Sicken Dozens of Children Across Europe Food Safety Magazine",
+      "pubDate": "Wed, 01 Jul 2026 14:36:46 GMT"
+    },
     {
       "source": "EU HPP & Food Tech",
       "title": "World Three Anti Paint Coatings - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
@@ -63,13 +70,6 @@
       "link": "https://www.foodsafetynews.com/2026/06/england-sees-salmonella-spike-in-early-2026/",
       "description": "There were more than 2,000 Salmonella infections in January to March this year in England, but Campylobacter cases declined. Figures from the UK Health Security Agency (UKHSA) show non-typhoidal Salmonella laboratory reports in&#xA0;the first quarter of&#xA0;2024 slightly increased from 1,541 to 1,588",
       "pubDate": "Tue, 30 Jun 2026 04:03:58 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "UK Food Valley highlights innovation and ambition at Lincolnshire Show Brunch - Lincolnshire County Council",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZElmZFZsNzZXMlNWQlZQTm96OHZEYW1kdkJWWTlQQS14dUd2OFhHVURRMkpBcFZ0SU5hOG5oSWxpVVdTZFdYcFF5R0VSNjZ5UEx5QzctaWFZdlRaM2xlWW5QX2tRUnlMeVE1bXAyUFRNVzlEWlgxOEd5NHNfSEdidngzWjNGclRfU21IUWNMRGtlcU5jNEFNUDRoNExmc1VKemVEaFF6M3YtYzUzeDFDNVFLTVJnaDh4ZXdSaU1iYjdqLVFPZHc?oc=5",
-      "description": "UK Food Valley highlights innovation and ambition at Lincolnshire Show Brunch Lincolnshire County Council",
-      "pubDate": "Mon, 29 Jun 2026 13:27:31 GMT"
     },
     {
       "source": "HPP Dairy",
@@ -143,24 +143,10 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Supermarkets issue urgent fruit recall following Salmonella fears - lbc.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS0dJX3JSZVkyQWhZdERQNUM3MFBZekxOVk80UWlLNGRlQ3lpYXRPdHVqdVBlXzdNbVRNUzl6NEVhUkFYREhfM3MtWHItdjRVSmJWY0c2aG5KOUxKRzBSbmd0Ni1XNF9LajlBZWxHdXlNOUJfU2swMlV0aVlGVjZzZjY5UlFteWRtNmxvUE1zYXhJYnc?oc=5",
-      "description": "Supermarkets issue urgent fruit recall following Salmonella fears lbc.co.uk",
-      "pubDate": "Wed, 24 Jun 2026 10:17:50 GMT"
-    },
-    {
-      "source": "HPP Healthcare & Medical",
-      "title": "Graphite Yarn Packing Material Market Forecast Points Higher Toward 2035, Driven by Industrial Sealing Demands - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObW16MXRpa09Ca0NnejJ0OFl0enJ2S1prSmRUTG42WHZyOTFlZWdhLUsyNGxRTk9LX0pLdi05bDNVblVyZjdxdWtYT3ppWXpvY0Z3dE9VTk5TYzRmNHlRYWNrSmN1ck5rN24tVTg5aWU0Nm5fWGxGS21HcDdYVzV6ZnRfYmVreW1YNVRMdy1RMjMxY05oU2NpNDYxRnNucFNPbVFyaVUydHVwU0JLVTBTdjhxOVN2WUtZN1phendpZ2wxS0RXOHd2VG8yOVR1elhEajZwY0xn?oc=5",
-      "description": "Graphite Yarn Packing Material Market Forecast Points Higher Toward 2035, Driven by Industrial Sealing Demands IndexBox",
-      "pubDate": "Mon, 22 Jun 2026 10:06:19 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Record Heat Wave Sears France With Farms and Power Grids Tested - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3FVdFFtWEZ3WUZ0YVpWemtzSDEzVF92bXk5Um85MTBKM0lXSmhISXRqNGd6SlZYbkd1eEYxRWJkamJOc1RzdFVSWlJ2cWZGZnhKTmN1LVdjdmR5Uzc5UktXblZsaElPUkItOW5lQ1pqY19XdFZ5TGh5bGRBd1JQQ2xxSmhTajd1UlBnRHdaV3lnOGFubVF3X25Mc2lNMHpmMWthaTBFTkdZcVdzLUJIZ25tS0Q?oc=5",
-      "description": "Record Heat Wave Sears France With Farms and Power Grids Tested Bloomberg.com",
-      "pubDate": "Fri, 19 Jun 2026 07:00:00 GMT"
+      "title": "Fruit sold at Tesco, Asda, Sainsbury's, M&S and more recalled due to salmonella - News & Star",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYm5fYlZlaE9fTW1RS3JnbDlwaDFKajllVHp6Vm9rUnpnX0U5UGdQSndnM0dmOHpDSFd5SWtDNXU0SWk1Qk9SdFdnUTRJR0JOSE1INWt4bXVlSk5MZzBTLTNiTzAzSjUxVm5rZXI1MkVYSElaSV9FY1lZOGN3eGtZa1hHcTV4WkVhc1NHMmV5M2lvMVFR?oc=5",
+      "description": "Fruit sold at Tesco, Asda, Sainsbury's, M&S and more recalled due to salmonella News & Star",
+      "pubDate": "Wed, 24 Jun 2026 08:33:51 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -175,13 +161,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJY25LTGljSk1aUk1LN3RBVVZKZ2hyNTVTdGtReldOa1VxRjZNUmZLdFZGdDdzank1YlkybmdRNmNIMklmNjFHMmVzUGZxNlRCenlxSlpWcEdnVFBDOFNRV3JaSGYzOWxWS2t1ZFFxMUFxaHBFb29sM1M1MHhpUmc?oc=5",
       "description": "NEXT GENERATION TOUCHSCREEN BOOSTS FOOD SAFETY Process and Control Today",
       "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "🚨 A round up of some of the latest food and product recalls - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMklTa1B2RV9qU0ZkNTdOQzY0SWExRHVuSXZJZzctM3MxRTFkcmdKeVdYeEgyNTFDU3ZMSlAwQ1MzeWJXOFJoTnprZFRST3FhX2xoS2RTVHBVaGhpU3lhbkZXcWRjbEg0TGpkZkU2M3pnSGZSY3psdGVrMkJ5OEJaR1RaVHdLcklObnBMNTFuaVdYVDY2LUpoWmpwMHBNOGlyOURiTWYteWczQi1pSEk5TEhQNXRRZEZMOVE4QVFkNzNOaHZkb3RsVw?oc=5",
-      "description": "🚨 A round up of some of the latest food and product recalls facebook.com",
-      "pubDate": "Sat, 13 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -205,6 +184,13 @@
       "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "Salmonella risks prompt recalls for chips, pizza and cheese breads sold at Walmart, Costco and other national chains. Here's what you should toss. - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObUVubGdFbF9ELXB2ZUNGVlNnOGUxYzF0QV9pUVF6T2FkYmx2Nm01dzFmbmZWR25FZHlVd2FaYW9WU0taQzAxUTNRdzJ3bWxjbERrQllRT19SV1FzOWdQeTBhX05wR1VRMG1lRHVGeU1YZ2FMcUNnSWhkZGtWd0JWR1dGM1A2Rk92YUZSdTI1VGVWYWV6NGJkUXBadHdxNjV5Y0RZY2F5VmxKeEVySW5tSi1CQmN0aTJBb2lTQVZDUm1EaWI1REdrbWhtczdnTk1zaHNmTTNIeHRXc3B4U0ZubFN0YlVubnpSMFVoaw?oc=5",
+      "description": "Salmonella risks prompt recalls for chips, pizza and cheese breads sold at Walmart, Costco and other national chains. Here's what you should toss. Yahoo",
+      "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Healthcare & Medical",
       "title": "Growing Industrial Applications Expand Scope of Isostatic Pressing Technologies - MarketsandMarkets",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbjhfQXRKR2YwV0xTc0l2MjRnUU1rVUZHZU9JYWcwWExUOFNXM0JPT3hhQjVFTUZLa24xM3F5dU9mYU1YeHFjYXVPRnk3N1Z5ekFjcm01TWVvbTJnTHZVaTFYUE5Id3JEWlVoMUxKc2dUTTh5M1htTjdhWEE2U3QyYm9LNVNxbGhLSU9LQTFMdw?oc=5",
@@ -217,20 +203,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXFGTmZ4ZW9NamJNeVhqV29yeFQ0SzlTYzBXcnl1RHltM0NIODNMVTFhT2VPaUhCbDFwanJEazNfZEoweXJkWGhtSGRwZWlycjJwWFgwdmZBU2RlSlRlTjhfQ3J4UDlrcUg0N1ZzX2puWVo4amFUczJFcGZCZWphenBFN0dUSlMwWVdIZ2ZmT1daOG90b0Z6X0RB?oc=5",
       "description": "Expansion at the Dock + boosts seafood processing in Alberni Valley Ha-Shilth-Sa",
       "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "New Alert: Growing number of Salmonella illnesses and outbreaks linked to moringa leaf products - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYTJCOGY2bnpxdHNrWjJoYUdYcHp5QlMzdEFGQ0JHWEV5R28xdlNmNGNYaTNiWG9RMWlhVmtKdkhDbVhSWFZtUmJWakQzVTBxY01BMDVJRjRDMlRnOWxhX0ZaRnVsN29MWm9HZV82OUpSaDF6eWdyQVRRXzRZYW9uNWtBMGJ1NzdidGJtR283T0VXaEdWdFBGMGZuOXhiaGhsYVhGb01ldHFqdUZNalNNWUt5ek56dVVud3UzSldfdTBDTlVuWVZ1NEwtVXVRVXpZbVZGZGo4M2MyYjY1?oc=5",
-      "description": "New Alert: Growing number of Salmonella illnesses and outbreaks linked to moringa leaf products Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Wed, 27 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "The food recalls, alerts issued over salmonella concerns this month - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVBTbElxUUVCeW9FcEZwcU91NW9RZzdidWlIRk9yY2RiWjQyU1pwV3lJY1V2d1pWdHVFX09RYVliTE5kNlpzVE1iM3J1QmVBZmtKd0pLRGstQW03bExOQjVnMlQ2TTNQekJfMFFsM3ZEX0VvaHl3Zkk1SXJRQ25OX1dhS2FqeG5VVEwyVWM3a3g1azJUVlVFMVZ4MHZnSXZiSUdwNlZxQdIBrAFBVV95cUxQcGYxRDRTUjBxUEdoYkpqTWJMcjRGRlB1dzgtZ2hXNFlLVGMtT1N5eWJNQVNVanVCRUdhT01GeC1Oc2ZaeU9NekM5STJXclhmSFpXdVc5SUNuVnNvYnJsVS1uLVhKNURpVUc4VU1NN1VCb3pzcTZiRDI0Smo4QlRLel9yYmd4UzhjQjM5UDkwdTdnYkxjYWRuYndSMU1CcjZjMWdLdEtWU201VVZQ?oc=5",
-      "description": "The food recalls, alerts issued over salmonella concerns this month The Hill",
-      "pubDate": "Sun, 17 May 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Juices & Beverages",
@@ -303,6 +275,13 @@
       "pubDate": "Tue, 31 Mar 2026 09:53:10 GMT"
     },
     {
+      "source": "EU HPP & Food Tech",
+      "title": "Fortress Technology to display touchscreen solution for food safety at interpack 2026 - Packaging Europe",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXJvUXo3TWdoczNubWhpVjNDZ3dudUgySUxzWlJ4cjBFcEhKWnhNY0FjRTI5aUwtZjVXV25RdDkwQXhLVWFRWmo1ZlpKcW8zV3A2ZExicW9XcFhSalJrU0hHcmNQcFB1OVh4ME4wZEhaVDlTUmVUMzl6RnV6czduT192c012TDkxN29NakI3TTJYMnYtRWpiZHFtLUZ5Y0ktNHVrMlhWSWJaQXRQNV9VSnhkZUZWYkdsbF85OVY5NUs3Qm9maFgyellrR1A?oc=5",
+      "description": "Fortress Technology to display touchscreen solution for food safety at interpack 2026 Packaging Europe",
+      "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT"
+    },
+    {
       "source": "Hiperbaric",
       "title": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria - Fuel Cells Works",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMWpFYUZveHVvay1yVVNMNWZxN0NDcnhEdnBvVDdueFBuZWhRVkticVM5andBeGtkc1ZBYzlBcmFGY0xHWGIzaF9UZVV5NUxsNjZ1ZkhHRV9TSk9fbzd0R1E2YXJCM2dMMWMtZmp5ZWxyb1FWRTRKWkV1WDN3WXlZeEg4TmwzUnc0ZDcxeWtWWDZuZ3NEOFJyZS1KNnJqdjFpOTZjVFlCNU8wcWpKdjNYM18yeDgzUUl4Qjl2MUVHUW8xc0Jzd2ZNZWxsNkwtYzExN04xTXktNUxaV05kcFdfMjVqTDNGZEhkaEFEMzJBaWFoam9zZjJ4LQ?oc=5",
@@ -350,6 +329,27 @@
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXhUbEgxOUMycF9EN0RUdmxwWWt1WUVyYU1iUnQ0R2FCTlZZcTlFUEMwaG45Z0lGZHpQNGpXTFJEcW9HNm1RN1lSNzZFX2M4QnllM3NmMXc2UVRMTWFvNHM2dXkyc01pNHJ5MlpvWTNMQWJDdUxvc1I5NWR2NFIzOS1vWGFNMUtiZ2d2NVRUVHVTTk9BdENMUmZkcjZZc2VwUXowOGhXWWRvcGQ5T2wtYjRhbTNzSlFrUHZXWmNLWFYzUVlNUE1uTG1xYk5EUDFHQkVsSlJFcHhDN3BTM0dWcnp6MVNOc1VUbFB1ZUJMYzhMenJRNkRkeS1maTlYNGozbEthVW1B?oc=5",
       "description": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility PR Newswire",
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Soups & Meals",
+      "title": "Bowen Yang says watching SNL after his exit is 'totally bizarre' but 'ultimately fun' - The Express Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVWF3ZU53Rk12bWZfWXBWU21lTXFYTFlDT2tmMk5hT2tYS3oxSUJ4WGFEWURHcUxmbUhpRHNQX2ZoWUpXV29PX0k5MmoyN2R5ZnJvcm1UX2VwZ2syN1U5RVhSYVpMeEtQcTB6cEE2VFNMa0t5Q3lZZHJoUmpfVjduS3VsRE1tSmZaSG8wcXROMldURF90R3BXWGdGRG5sS3h1ZEJ1LVdpdW1RbXJlc3h6UmdjRG92NHpCaVHSAcIBQVVfeXFMUHQ5OWFuZV9IUlRzY244WTduTHFUOVRTSG5GNlNldHdtc0hUeGR1cjZWYmdBUEwxckJ4U1paQ2xwWTdwc2YxQzZIWU13WDdzaFlDemR5V0d1S3FGUl9EbVNSZGhpWUxuXzdRX3pYaFBsSFE3V242WUNDYXV2cGhLVHBrcmFBTC1yX1V0TUlRQXUxbDlTUW5KUVNnT0Y2ZWtoak8tdnBtMDRYbkcxb2hvWUxEZy1DOWpzYVhXMm1CellXTFE?oc=5",
+      "description": "Bowen Yang says watching SNL after his exit is 'totally bizarre' but 'ultimately fun' The Express Tribune",
+      "pubDate": "Sat, 07 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "£3m fund unveiled to target diet and health innovation - British Baker",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
+      "description": "£3m fund unveiled to target diet and health innovation British Baker",
+      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
+      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
+      "pubDate": "Thu, 29 Jan 2026 20:04:37 GMT"
     }
   ]
 }
