@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T22:57:48.698573+00:00",
+  "updated": "2026-07-05T03:27:43.923301+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -14,13 +14,6 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZEdFTWlSdG1SZ0htS1lvTHBWUi12b2NQUGhhQWd0UmQ3MDVOWUNFRGVOanF5ZGcySWZVTzhheTV6dGJBc09kdS16aUNJMEtkSVd2N2JobkJNVnZIbXpxOWNWOG91ZDI3TWRsUGtvbnB6RlRwOTNhMUZwYnA0eFBvcWhPajAtLXpaOXR0bHhjbjhXV2FNdFNhb2tuZ001R2lGa1E0OTV1VldiQ2hDa2NuU0JCamF4NFY2YmJ0d0d3?oc=5",
       "description": "Spain High Pressure Processing Equipment - Market Analysis, Forecast, Size, Trends and Insights IndexBox",
       "pubDate": "Fri, 03 Jul 2026 11:44:14 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Researchers Propose New Labeling System for Foods at Risk From Listeria - Technology Networks",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaUdWb1dLSW1oQlg4VlhaeU9nbzVCQVlGd05MM05nbTlUb2JQMkthZVFudk16Z0Z4OEgzbEJGRC16bjdyUndZVDRkR1h5YmFVamMyQVdPX2dqV0Q3a1MwUzVhRy0yQ2NEZHhQYVplQzBaNE4wSi0yOWxVSXQtNXJMVGozclk5TFJNQ0NxR3NjY0t0NWFDWTV1SXZ2azZqM2VVYU1la0hMM2laNEl4OTdDNzZNenlQSGEtTVdZNVF3?oc=5",
-      "description": "Researchers Propose New Labeling System for Foods at Risk From Listeria Technology Networks",
-      "pubDate": "Fri, 03 Jul 2026 08:20:33 GMT"
     },
     {
       "source": "Food Safety News",
@@ -93,6 +86,13 @@
       "pubDate": "Wed, 01 Jul 2026 21:44:00 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "Multi-state cheese recall issued after 12 illnesses, 2 deaths reported - MassLive",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHdLel9odFdpdnFhY043LVA2ay1IUm12MDRSMWR0WVYwQi1iMFM0Ry0wZlF0NVR4d3M4b1QwSUkydVllNnJ4WTlZM3Q3S1VQRW14SjhEUVB0ZGZqMkVrVnF6dkRYVVd6Mm1Nd1FRUjBKdS1rMFBZMkxwUGFOYkFodFNVaWRlRXVfMURjaS1XVzVPZW1XUDlZOGZJd29GTDRHTlVUS29KWUxadjJscjZFUUhB0gHGAUFVX3lxTE5kaGl5RVB5MlhjUlF2TUFZV0VqUlVsMndxZDBxVS1iWGh0aUFtNE5lSDQ1MTVkQ1NwRTJoalc2V0dsWDVkeDB3Z0pHRXI0SUc4TDI2ekRsSGt1eWxvdkkycjZwR00tazhRQkQyaEFneXFvZ0NVWC1VOW5HT1huZ1JVdmlkOHkwaXU4VmN6V05fd0xQN3FyM3FocFZOaGNWQzc5SGVycm5jQWUzQ3JjTDBYNm8wMjlETnBad2NlQy02aURCV3kxdw?oc=5",
+      "description": "Multi-state cheese recall issued after 12 illnesses, 2 deaths reported MassLive",
+      "pubDate": "Wed, 01 Jul 2026 17:11:00 GMT"
+    },
+    {
       "source": "Salmonella Outbreaks",
       "title": "Salmonella-Contaminated Instant Noodles Sicken Dozens of Children Across Europe - Food Safety Magazine",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPck9TV0kzZENWS1VzNVdTdkNPckhlWlMyV0FQYjFhT3pBUENWTlR1NExNaWxWMndyUDlFLUFJc0ZlNVh2bm5pV1F3VDA3TGF2WG1oQ3FHWHVHcThHdlo1cVpqOEFUWTJyWE9kQVRfdXpFWjNqNE16cFRBVVZiOTl6QkhLazZGMFhWd09YVEp6WlF2UUN2Y2JfbWlxOHZFVTJQd1ZNTExKYjFST0ROYVBYX2tPbDFMR1M5cVZHR2cwcw?oc=5",
@@ -115,17 +115,10 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
+      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 202 - fda.gov",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
-      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
+      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 202 fda.gov",
       "pubDate": "Tue, 30 Jun 2026 14:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "FDA expands cheese recall over possible listeria contamination - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcjNqSExycC1iam1FNHRRNUxVbWNxWkNOdmhiRjg4Q0N6ODhiNFNmSkpvcEJNQ3lQR21icE56bTRmZWFTbVhhTFRZY09CVkZtTVlOYkFOd2ppMHktSkFyS3hSd01kZDdvSlp2c3o1cS1JaEFrZU5qbW04R1FVWGdxWWhiakZSVVBBc183dmY0SGlDZDVQN1F4cTlVY9IBoAFBVV95cUxQek52R3JCOVAyUjNneUk4Z1FtQkhzMkQwS3JzUVJjLV80NHhUUW0td1JqaGNacnY5WDV1YVpLbTRpTENnZUMyYTlmaU5SV2hBOGh1ZUp3NHczTGUtMTBLVUlFQ3g4bHNWR2ZtNzVYemltNjVZWEpmN2UxZDVrVEZMdnVxWWNtS25wOHIyRld1bExoVWJoX3lGZUpmYWFkRkFy?oc=5",
-      "description": "FDA expands cheese recall over possible listeria contamination The Hill",
-      "pubDate": "Tue, 30 Jun 2026 13:37:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -189,20 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTVdhVGxLN2lkbEpsVF95MmhZSHQ5SzNDb0lMTmpMdkZ4bk5IRXYtbjVfTFJyVWdaR1NwWnJ4aHVTektwT0FlSDlMRHRqVENCMWlocjdvMEwySlJHMk53T25wZVAxbVZaYTZOckRMSFB2cnZCOWR1Z3JjdUNYM0JOUFdhcUl2NVpsNS1ORjE2RDRRVkw1ZF84ckFHejBvTkNwTHc?oc=5",
       "description": "What Will the Future of UK Food and Beverage Industry Look Like by 2034? Vocal",
       "pubDate": "Wed, 24 Jun 2026 12:21:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Record Heat Wave Sears France With Farms and Power Grids Tested - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3FVdFFtWEZ3WUZ0YVpWemtzSDEzVF92bXk5Um85MTBKM0lXSmhISXRqNGd6SlZYbkd1eEYxRWJkamJOc1RzdFVSWlJ2cWZGZnhKTmN1LVdjdmR5Uzc5UktXblZsaElPUkItOW5lQ1pqY19XdFZ5TGh5bGRBd1JQQ2xxSmhTajd1UlBnRHdaV3lnOGFubVF3X25Mc2lNMHpmMWthaTBFTkdZcVdzLUJIZ25tS0Q?oc=5",
-      "description": "Record Heat Wave Sears France With Farms and Power Grids Tested Bloomberg.com",
-      "pubDate": "Fri, 19 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "NEXT GENERATION TOUCHSCREEN BOOSTS FOOD SAFETY - Process and Control Today",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJY25LTGljSk1aUk1LN3RBVVZKZ2hyNTVTdGtReldOa1VxRjZNUmZLdFZGdDdzank1YlkybmdRNmNIMklmNjFHMmVzUGZxNlRCenlxSlpWcEdnVFBDOFNRV3JaSGYzOWxWS2t1ZFFxMUFxaHBFb29sM1M1MHhpUmc?oc=5",
-      "description": "NEXT GENERATION TOUCHSCREEN BOOSTS FOOD SAFETY Process and Control Today",
-      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -290,6 +269,13 @@
     },
     {
       "source": "EU HPP & Food Tech",
+      "title": "FIBA Technologies’ long-term bet in Europe - gasworld",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb1dXLXE5VjFxemFUenBRT2tDX21iUkpUbFVSZ2JtNktoUnlwN2Q2QjF6ZGQtUUwtTTZVUjItZkhlOUEzdEF0QmdiZFVjeWZObm1nNkpEdTJvVU51RVdKMm8yS1luTDEzc2E0ZUR6WkJxQkdLUGcyNnExWkVoSGgzZU1LalBOMG5sLTVmWjhhLVVmWlIwWWc?oc=5",
+      "description": "FIBA Technologies’ long-term bet in Europe gasworld",
+      "pubDate": "Wed, 08 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
       "title": "Europe Healthy Food Market Size, Share, Growth | Report 2035 - Market Research Future",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc2swRjZ3SHE2NDk4djRnUUdEOXhvb2hQYjlwTC11bUFJcjdEUXVBbFB5eW5Tb00yUmZYQVNFdmduWndOZnZrX1pNcjYwNmdRSXQwQlFzYzBoRzk0UlFjYl9GZHlYcU9iZElTSWxEQWE1cjI1TktzNDY2cHdYd0dDbXVERQ?oc=5",
       "description": "Europe Healthy Food Market Size, Share, Growth | Report 2035 Market Research Future",
@@ -303,11 +289,25 @@
       "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
     },
     {
+      "source": "EU HPP & Food Tech",
+      "title": "Fortress Technology to display touchscreen solution for food safety at interpack 2026 - Packaging Europe",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXJvUXo3TWdoczNubWhpVjNDZ3dudUgySUxzWlJ4cjBFcEhKWnhNY0FjRTI5aUwtZjVXV25RdDkwQXhLVWFRWmo1ZlpKcW8zV3A2ZExicW9XcFhSalJrU0hHcmNQcFB1OVh4ME4wZEhaVDlTUmVUMzl6RnV6czduT192c012TDkxN29NakI3TTJYMnYtRWpiZHFtLUZ5Y0ktNHVrMlhWSWJaQXRQNV9VSnhkZUZWYkdsbF85OVY5NUs3Qm9maFgyellrR1A?oc=5",
+      "description": "Fortress Technology to display touchscreen solution for food safety at interpack 2026 Packaging Europe",
+      "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT"
+    },
+    {
       "source": "Hiperbaric",
       "title": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria - Fuel Cells Works",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMWpFYUZveHVvay1yVVNMNWZxN0NDcnhEdnBvVDdueFBuZWhRVkticVM5andBeGtkc1ZBYzlBcmFGY0xHWGIzaF9UZVV5NUxsNjZ1ZkhHRV9TSk9fbzd0R1E2YXJCM2dMMWMtZmp5ZWxyb1FWRTRKWkV1WDN3WXlZeEg4TmwzUnc0ZDcxeWtWWDZuZ3NEOFJyZS1KNnJqdjFpOTZjVFlCNU8wcWpKdjNYM18yeDgzUUl4Qjl2MUVHUW8xc0Jzd2ZNZWxsNkwtYzExN04xTXktNUxaV05kcFdfMjVqTDNGZEhkaEFEMzJBaWFoam9zZjJ4LQ?oc=5",
       "description": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria Fuel Cells Works",
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric",
+      "title": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation - Food and Drink Technology",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZEJqUEI0WkJVVHhkX3M5ek9hYUp6Tnh1R1hWLWhLY2c2bWEzOEFNcXJhY016UDdMS0EtZFRnRWtxTElEcGdxX0RETWwzV3FsemRrdVFXQ1JWLW5oLXhVNW95a3JsNjRCWldTVEtIcnpSc05ZSDY3a3VhX092QXhKRldyNFJWemRjbU5Md0Z0eFRXQzk1eU5mbVgwbDFBazg0ekNuek9OYkowY2pvX1NBSGtoekZURTRBZUN6N1dtZk5nSEE?oc=5",
+      "description": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation Food and Drink Technology",
+      "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Dairy",
