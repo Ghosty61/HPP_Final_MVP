@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T14:53:40.789682+00:00",
+  "updated": "2026-07-11T16:58:27.189287+00:00",
   "articles": [
     {
       "source": "Food Safety UK & EU",
@@ -49,6 +49,13 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZV2daSnNJSlI1NGlhTUZ6ejBCLXlpZk1US3ZxcXhkdDVaa2E0V1o3ZDduN3RIbWRHc3dvNDZya25uTGZUeTMwMmdHU1o2T0lpLUJvWHRoemxmVEFVWjYyVVZQRHFLY2xfMWJ3?oc=5",
       "description": "FDA Expands Cheese Recall as Listeria Outbreak Leaves 1 Dead and 10 Hospitalized parade.com",
       "pubDate": "Thu, 09 Jul 2026 07:25:00 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "The latest product recalls and safety alerts from Which? - which.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnZEdm8tLUMxdlpRajZ4bGZ1eE5nRElJdGtTVDB5R0hMcWxoV2NIV1BvSkNsY3BUaGl6TzV2cXZSdEZWV0JOenZseW5icmxadFBZcERkOGpMb3BjaGJrN241Q1VCeWw1TldCMjBscEtfTzkwM2tsTTJyQlI0VkFaVWRseVZObmoycnRFaXJkQlY?oc=5",
+      "description": "The latest product recalls and safety alerts from Which? which.co.uk",
+      "pubDate": "Thu, 09 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -135,25 +142,11 @@
       "pubDate": "Fri, 03 Jul 2026 09:31:08 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "FDA issues most serious recall alert for potato chip brands over salmonella risk - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzItLUp2cHFzc0M0WjJpVi0wUnBJdnVveEtNZzhVYWpvY0ZhUDlQblBGOTM2RlpQVGhtX2NCWnV0aDBxZ25pQVRNcmc1RktqNWl0Y01mUG1UaE1GMlNCa1FlMV9ZUG1PMlhsZWU0YUh1Sml5NjV0MTVXX2V6d2s3SUllYWtMcUFhMm9LUWNoMHhQQmQ4TnM2Mg?oc=5",
-      "description": "FDA issues most serious recall alert for potato chip brands over salmonella risk The Guardian",
-      "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Healthcare & Medical",
       "title": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QMXhzcHRVa1RrN0s0NUZtdHJrQndFWjRUTElLVml5RWwyNDh3RUcxWkg0S2RqQXI0QVcwOWp4QUJobzdNVGRUTHJid0JVX09sUDhvMW1WMXFjaTZVeHo0STJFMElDTmlwSWY1aEQtWE92TTRxR092NFdKOA?oc=5",
       "description": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods Medical Xpress",
       "pubDate": "Thu, 02 Jul 2026 00:40:04 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI - PR Newswire UK",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdVRCUkhzUHR0NTFtd1dTOUUxODE2MkJURGNIVGpkUkdSaE8yeTZvTHJSZENfUEFPUmx5Y01hNUZELW85SklCb0Z5UHRYd196d2IzR1RXWHdxVnE4aFAzZ0RvT3VNWFNiRG9CYXdfWmRDdF9WWkFwYXM4ZGNBQ1VVU3dYSUhmY2NlMTFSU1A2Tkh5ZHpGb2VrQThCZUJrem9mRnhkRGc4M002LWJNcjhOZVpjRW1ocGN0TUw4dFppd3p2OEs3ZnZMUTlUMVBGbXQ3ajRHdnhJOGpxWjZvRzVoUUJUU21lcEMxaXRWZU5RajQtYWp5MzVndVBmdzRyRDdSNTBpNEFxWU1EVVVsa3lSWk45OEQ1QmVtRWJOWVhYSFU5SHlnZzlURjkxT1BsQ1B0NTF3Vg?oc=5",
-      "description": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI PR Newswire UK",
-      "pubDate": "Wed, 01 Jul 2026 10:38:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -205,11 +198,11 @@
       "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "🚨 A round up of some of the latest food and product recalls - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMklTa1B2RV9qU0ZkNTdOQzY0SWExRHVuSXZJZzctM3MxRTFkcmdKeVdYeEgyNTFDU3ZMSlAwQ1MzeWJXOFJoTnprZFRST3FhX2xoS2RTVHBVaGhpU3lhbkZXcWRjbEg0TGpkZkU2M3pnSGZSY3psdGVrMkJ5OEJaR1RaVHdLcklObnBMNTFuaVdYVDY2LUpoWmpwMHBNOGlyOURiTWYteWczQi1pSEk5TEhQNXRRZEZMOVE4QVFkNzNOaHZkb3RsVw?oc=5",
-      "description": "🚨 A round up of some of the latest food and product recalls facebook.com",
-      "pubDate": "Sat, 13 Jun 2026 07:00:00 GMT"
+      "source": "Salmonella Outbreaks",
+      "title": "Recall of moringa capsules implicated in Salmonella outbreak expanded - foodsafetynews.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTVlPamk5elpDUTAyRkhaaEgzUzZTWXczR0Jad1d0ZlBybS1uMWpHcEk4RmVxTm04VUNhT05ScHhPcFdFUzlKS2t3RTllZmhocWdYeEpRZ2JJeWN4MDdsR3hXMVlKZGRuODlXVTVXR2I1QkxqZWFMWHpMdDlmdWhXQlhzME9GZXRTN3NEV3UyeXlOQzlkMlI0VUhIRUNubmFWcXRObUk3UDNyUUhUVFE?oc=5",
+      "description": "Recall of moringa capsules implicated in Salmonella outbreak expanded foodsafetynews.com",
+      "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
       "description": "£3m fund unveiled to target diet and health innovation British Baker",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Meet the food innovation centres leading the way in sustainable, tech-driven development - FoodBev Media",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVUY204LVk3LUY2MXN6QXVRcnJKb0hKbFBRbHNpeXAxSlhzN3c1WW90NGY1UzNCU1cwUDNmbFd6LTRTZWpYZ0lpTTdJRnRQT3ptQ3hneVdYSnRWNjdYRGNsTkV0S21Jb1M5Sk83T21aeE1VVWNSZWkzUEI4b0lKTWR1VTN1ZjAyYVl3eXFRX014ZzlJUnRRM2J3MEJaYVJHTzNWZzNoTVlNbVdsS2lydDBVX213Q0E?oc=5",
+      "description": "Meet the food innovation centres leading the way in sustainable, tech-driven development FoodBev Media",
+      "pubDate": "Fri, 23 Jan 2026 08:00:00 GMT"
     }
   ]
 }
