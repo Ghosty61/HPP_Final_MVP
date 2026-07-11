@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T16:58:27.189287+00:00",
+  "updated": "2026-07-11T19:03:31.731767+00:00",
   "articles": [
     {
       "source": "Food Safety UK & EU",
@@ -23,13 +23,6 @@
       "pubDate": "Fri, 10 Jul 2026 23:06:19 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "VAROPreem acquires the world’s largest Raw Tall Oil bio-refinery - chemeurope.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTjNrYkpnZlhhTTU3cW1PRFFhd0pqb0xzcGtmb3B0MDM1OFJpUThvYjlqd2dzeUJVS2RPV1pYUTViazNmaVVaSUJfbHVPWW9sVnVucVplRWxmTDBjRHRac1BBcnl0UF9tSUtwTTQ0Y3Rvb1pibmdkUmIxMGppd2lSSTdZWXNnRm5EM1JhOXc1ZzJBNTJvaGNXSXd6YlhsNXpza1duT2gxaXVkVUJlR1JObw?oc=5",
-      "description": "VAROPreem acquires the world’s largest Raw Tall Oil bio-refinery chemeurope.com",
-      "pubDate": "Fri, 10 Jul 2026 04:05:29 GMT"
-    },
-    {
       "source": "Food Safety News",
       "title": "Large Salmonella and Listeria outbreaks hit Sweden in 2025",
       "link": "https://www.foodsafetynews.com/2026/07/large-salmonella-and-listeria-outbreaks-hit-sweden-in-2025/",
@@ -49,13 +42,6 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZV2daSnNJSlI1NGlhTUZ6ejBCLXlpZk1US3ZxcXhkdDVaa2E0V1o3ZDduN3RIbWRHc3dvNDZya25uTGZUeTMwMmdHU1o2T0lpLUJvWHRoemxmVEFVWjYyVVZQRHFLY2xfMWJ3?oc=5",
       "description": "FDA Expands Cheese Recall as Listeria Outbreak Leaves 1 Dead and 10 Hospitalized parade.com",
       "pubDate": "Thu, 09 Jul 2026 07:25:00 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "The latest product recalls and safety alerts from Which? - which.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnZEdm8tLUMxdlpRajZ4bGZ1eE5nRElJdGtTVDB5R0hMcWxoV2NIV1BvSkNsY3BUaGl6TzV2cXZSdEZWV0JOenZseW5icmxadFBZcERkOGpMb3BjaGJrN241Q1VCeWw1TldCMjBscEtfTzkwM2tsTTJyQlI0VkFaVWRseVZObmoycnRFaXJkQlY?oc=5",
-      "description": "The latest product recalls and safety alerts from Which? which.co.uk",
-      "pubDate": "Thu, 09 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -142,11 +128,32 @@
       "pubDate": "Fri, 03 Jul 2026 09:31:08 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "More than 100 sick in severe multi-country Salmonella outbreak - foodsafetynews.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS3B5NXlwczRIMFB0enBBY3llV2hYWWRyc0otdG5VakpvLWZPcWhpV3RKMEVaN1BlNUVobkVTWjBZM0JpRWxxYkZBVUpiZ0xGQUpuQVhJcGR4aWdFanlEODZueGh2LTVxSjMzQXFkLWk5aGpsQnYwNktsTVpBZzJtRi0xUV83R3J0dFFzYUpsSVJGcGs1SFJkY000dG9rMnhzRTdRaw?oc=5",
+      "description": "More than 100 sick in severe multi-country Salmonella outbreak foodsafetynews.com",
+      "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "What is an Omega Block: The science behind Europe’s 2026 persistent 40°C summer heat and rising climate e - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONXBUVWJDU2hFbEowdlNqcHRZb01QcWxocm44RER0MGFTM2RKX3hUeGptZ1hFaWFWWkl1WC1xSDNjdnZsb2FOdXBGRmM3R3ZQZHV5UlRlS3JsUkJSM3VaTHp6V2NfOTdjUGZDeTJNTTNGa2NOVUdvZXppNEJkbkdWM0VxZTk5WFdta0NFRmNxUWJ3RFRzOHZEdWI5ck9nUEdVeGYxd3RJT3FUY2RRTmstNUdWa2lJVDJLTnUwX3dRelBRVGdLLWRfYXUtSW44UjBzd2N3V0UxM0ZKbTNMMHdKNnlybmFRWnY2SS1OQmgwWDhmZzNKTU1UcGpRWjdZam1jZjBFYmhWSEw4TknSAZACQVVfeXFMTWtUTUJHY25na2VuS2xmZDNtczlmMnYtdXdSN1lJUmpqZnhFVGwzMzU3ZG9pTVBrNHltU0hkTWFQbmZaN0NMNmxLeFdCd05BdDlvc0ZJd3pMVVJOVkN0U1p6Z2dOd0lxVG96X3JRRmh1SmUxS0J4YXRnRUFKRHB5Qnp3OGZ2dW9UR2dSc2lWRVh1ak5RUDQwVklvX21SZ01VeDVlR2x3bE5UUUpncS1zYWhNaTZiSXhIQnUzVmdvWHdfclBIWUVIeEZoTUpxdzRCaEgxZHhPdXJQbnBWMlRna2UwZk9pdThXS2EtNnhQSGNNclVDSlpwSXJxV2FKZ2ZadG43YlVvT0xaUG0xWVNWQVY?oc=5",
+      "description": "What is an Omega Block: The science behind Europe’s 2026 persistent 40°C summer heat and rising climate e The Times of India",
+      "pubDate": "Thu, 02 Jul 2026 03:19:00 GMT"
+    },
+    {
       "source": "HPP Healthcare & Medical",
       "title": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QMXhzcHRVa1RrN0s0NUZtdHJrQndFWjRUTElLVml5RWwyNDh3RUcxWkg0S2RqQXI0QVcwOWp4QUJobzdNVGRUTHJid0JVX09sUDhvMW1WMXFjaTZVeHo0STJFMElDTmlwSWY1aEQtWE92TTRxR092NFdKOA?oc=5",
       "description": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods Medical Xpress",
       "pubDate": "Thu, 02 Jul 2026 00:40:04 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI - PR Newswire UK",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdVRCUkhzUHR0NTFtd1dTOUUxODE2MkJURGNIVGpkUkdSaE8yeTZvTHJSZENfUEFPUmx5Y01hNUZELW85SklCb0Z5UHRYd196d2IzR1RXWHdxVnE4aFAzZ0RvT3VNWFNiRG9CYXdfWmRDdF9WWkFwYXM4ZGNBQ1VVU3dYSUhmY2NlMTFSU1A2Tkh5ZHpGb2VrQThCZUJrem9mRnhkRGc4M002LWJNcjhOZVpjRW1ocGN0TUw4dFppd3p2OEs3ZnZMUTlUMVBGbXQ3ajRHdnhJOGpxWjZvRzVoUUJUU21lcEMxaXRWZU5RajQtYWp5MzVndVBmdzRyRDdSNTBpNEFxWU1EVVVsa3lSWk45OEQ1QmVtRWJOWVhYSFU5SHlnZzlURjkxT1BsQ1B0NTF3Vg?oc=5",
+      "description": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI PR Newswire UK",
+      "pubDate": "Wed, 01 Jul 2026 10:38:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -198,11 +205,11 @@
       "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Recall of moringa capsules implicated in Salmonella outbreak expanded - foodsafetynews.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTVlPamk5elpDUTAyRkhaaEgzUzZTWXczR0Jad1d0ZlBybS1uMWpHcEk4RmVxTm04VUNhT05ScHhPcFdFUzlKS2t3RTllZmhocWdYeEpRZ2JJeWN4MDdsR3hXMVlKZGRuODlXVTVXR2I1QkxqZWFMWHpMdDlmdWhXQlhzME9GZXRTN3NEV3UyeXlOQzlkMlI0VUhIRUNubmFWcXRObUk3UDNyUUhUVFE?oc=5",
-      "description": "Recall of moringa capsules implicated in Salmonella outbreak expanded foodsafetynews.com",
-      "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT"
+      "source": "Food Safety UK & EU",
+      "title": "🚨 A round up of some of the latest food and product recalls - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMklTa1B2RV9qU0ZkNTdOQzY0SWExRHVuSXZJZzctM3MxRTFkcmdKeVdYeEgyNTFDU3ZMSlAwQ1MzeWJXOFJoTnprZFRST3FhX2xoS2RTVHBVaGhpU3lhbkZXcWRjbEg0TGpkZkU2M3pnSGZSY3psdGVrMkJ5OEJaR1RaVHdLcklObnBMNTFuaVdYVDY2LUpoWmpwMHBNOGlyOURiTWYteWczQi1pSEk5TEhQNXRRZEZMOVE4QVFkNzNOaHZkb3RsVw?oc=5",
+      "description": "🚨 A round up of some of the latest food and product recalls facebook.com",
+      "pubDate": "Sat, 13 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -289,6 +296,13 @@
       "pubDate": "Tue, 31 Mar 2026 09:53:10 GMT"
     },
     {
+      "source": "EU HPP & Food Tech",
+      "title": "Fortress Technology to display touchscreen solution for food safety at interpack 2026 - Packaging Europe",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXJvUXo3TWdoczNubWhpVjNDZ3dudUgySUxzWlJ4cjBFcEhKWnhNY0FjRTI5aUwtZjVXV25RdDkwQXhLVWFRWmo1ZlpKcW8zV3A2ZExicW9XcFhSalJrU0hHcmNQcFB1OVh4ME4wZEhaVDlTUmVUMzl6RnV6czduT192c012TDkxN29NakI3TTJYMnYtRWpiZHFtLUZ5Y0ktNHVrMlhWSWJaQXRQNV9VSnhkZUZWYkdsbF85OVY5NUs3Qm9maFgyellrR1A?oc=5",
+      "description": "Fortress Technology to display touchscreen solution for food safety at interpack 2026 Packaging Europe",
+      "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT"
+    },
+    {
       "source": "Hiperbaric",
       "title": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria - Fuel Cells Works",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMWpFYUZveHVvay1yVVNMNWZxN0NDcnhEdnBvVDdueFBuZWhRVkticVM5andBeGtkc1ZBYzlBcmFGY0xHWGIzaF9UZVV5NUxsNjZ1ZkhHRV9TSk9fbzd0R1E2YXJCM2dMMWMtZmp5ZWxyb1FWRTRKWkV1WDN3WXlZeEg4TmwzUnc0ZDcxeWtWWDZuZ3NEOFJyZS1KNnJqdjFpOTZjVFlCNU8wcWpKdjNYM18yeDgzUUl4Qjl2MUVHUW8xc0Jzd2ZNZWxsNkwtYzExN04xTXktNUxaV05kcFdfMjVqTDNGZEhkaEFEMzJBaWFoam9zZjJ4LQ?oc=5",
@@ -317,13 +331,6 @@
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "Europe Pressure Vessel Market Size & Share, 2034 - Market Data Forecast",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUThCSHBjT29LemxoZ3dSbGY5WkxMQkRmZW9QZV8xM1F0bXozNGl1WmdpU1h5b3dMOGpRTUdSSUVLblRZNGw1eWp6VmRaZ1Q2Q2VIOFpRWmJVNVNMakxFakJ5TlcyTHhkdHlxd0tmQlJfZXNvQmE4eDJ4cHJoNWdMUkVEc21Fdw?oc=5",
-      "description": "Europe Pressure Vessel Market Size & Share, 2034 Market Data Forecast",
-      "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
-    },
-    {
       "source": "HPP Equipment & Machines",
       "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXhUbEgxOUMycF9EN0RUdmxwWWt1WUVyYU1iUnQ0R2FCTlZZcTlFUEMwaG45Z0lGZHpQNGpXTFJEcW9HNm1RN1lSNzZFX2M4QnllM3NmMXc2UVRMTWFvNHM2dXkyc01pNHJ5MlpvWTNMQWJDdUxvc1I5NWR2NFIzOS1vWGFNMUtiZ2d2NVRUVHVTTk9BdENMUmZkcjZZc2VwUXowOGhXWWRvcGQ5T2wtYjRhbTNzSlFrUHZXWmNLWFYzUVlNUE1uTG1xYk5EUDFHQkVsSlJFcHhDN3BTM0dWcnp6MVNOc1VUbFB1ZUJMYzhMenJRNkRkeS1maTlYNGozbEthVW1B?oc=5",
@@ -343,13 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2hENG9PV0dvR2E1Y2ZXZmZDWmJ1UUIyTVJ3MmEyd2RpSTVONkFaSjBhVWR0Z012ZGpaNnhsWnVwejBYR19rbnprNUpxc0VwTWhJcnc0NVdBN3pGRFRxVmNVamtaanhKOVE1Rk1udnEtaHZROHlDMHFKZ0xTcFo2b09xXzJ1YUkwS0pSRTRiUnltVVdoRk1SQ3JVVFRIOEpFdS0w?oc=5",
       "description": "£3m fund unveiled to target diet and health innovation British Baker",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Meet the food innovation centres leading the way in sustainable, tech-driven development - FoodBev Media",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVUY204LVk3LUY2MXN6QXVRcnJKb0hKbFBRbHNpeXAxSlhzN3c1WW90NGY1UzNCU1cwUDNmbFd6LTRTZWpYZ0lpTTdJRnRQT3ptQ3hneVdYSnRWNjdYRGNsTkV0S21Jb1M5Sk83T21aeE1VVWNSZWkzUEI4b0lKTWR1VTN1ZjAyYVl3eXFRX014ZzlJUnRRM2J3MEJaYVJHTzNWZzNoTVlNbVdsS2lydDBVX213Q0E?oc=5",
-      "description": "Meet the food innovation centres leading the way in sustainable, tech-driven development FoodBev Media",
-      "pubDate": "Fri, 23 Jan 2026 08:00:00 GMT"
     }
   ]
 }
