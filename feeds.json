@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T11:09:27.275369+00:00",
+  "updated": "2026-07-12T13:19:53.021297+00:00",
   "articles": [
     {
       "source": "Listeria Outbreaks",
@@ -79,13 +79,6 @@
       "pubDate": "Thu, 09 Jul 2026 04:01:20 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "M&S and Horgans recall truffle gouda over listeria risk - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSGRlZkZ2VGhZalJURWJQTXNPTkxtUHJ0T2RaMmo1NzZNLVR4ZHhTeEFkbEdFTDluQXkxbHFLZmx0QjQwa2o4dWFVU3RLQmpVSXdyTWZ2TUs0bFUybExDdlBma2pfdElrb2U2VzVlNDU0SDR5SUVZNDg0TEdkM1JqcU1DR0k2ZncwT3h3VWZlaUZhUXZYVVJvYmFtUmFVMGttLUFDUTEwTkpWby1hcXdUS3NxZGtyUXhUcDVrWmg5UnFNOE1DVlpLdXNOLWJaVlRhQ0RtN0V2R01PVjdVZkVmWjN3UUhXalRRN3EwVXdR?oc=5",
-      "description": "M&S and Horgans recall truffle gouda over listeria risk MSN",
-      "pubDate": "Thu, 09 Jul 2026 00:00:00 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "15 recent food, product recalls that may impact you - The Hill",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTUpmWHBEaEdMem5tR0R6ZkhUdTZxUXBiNVppU1dSZ1MyVHBjWTRaenlFdmE1SFhlWVVkc0ZlU0ZTZktET3JNcVZjVTNPVkoyN3lRR1N3T29jQlR4SU80RE5waEg5bDdJNi03RGdwT0ZhNjRzRU1uT0VqUW1Nck8wdEJiSXdKMlhJaWpFc00zY0R0d9IBlwFBVV95cUxOT1lqVHB4dFBqY0habDlzdmlNSG5uUVJWVURkOVdNTzlrNDMwMTRjLU5raTBYTXNnMUUweDRYclM2UE9lZlpjLVBONWlCMFdxam5xQlY2QmdGc21LOVN1U18tSjNGNHRTenVYQW5YV0tpREpuS3NpUEphWEpwYXdJcW51M2dqVmJnbXlqVExrZDFtUTBxRUg0?oc=5",
@@ -98,6 +91,13 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT2c2aXN5bDk1MmttcTJ2bGJpM1pVMm5LdEJFeDNMd3JZeEc1U3JmNkN1aEl5cGlGcFppWERMYS1obHlkSGN2YlhGV0ZmZExqcXk2MXRQVWdIdng4QUZfTG8ydS05bnlJTWh5S2hMQklteHlEWmcwZ3JGTXozczkzb3JvdDRjR1N1cW56WVpGajJuOVF2UXpoS0dETFc1dzJ2R0J3SWJSZWhyNWVZcXU0?oc=5",
       "description": "Listeria Outbreak Linked to Soft Cheese Sickens 12 People, Kills 1 Infectious Disease Special Edition",
       "pubDate": "Wed, 08 Jul 2026 15:07:59 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "M&S and Horgans recall truffle gouda over listeria risk - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSGRlZkZ2VGhZalJURWJQTXNPTkxtUHJ0T2RaMmo1NzZNLVR4ZHhTeEFkbEdFTDluQXkxbHFLZmx0QjQwa2o4dWFVU3RLQmpVSXdyTWZ2TUs0bFUybExDdlBma2pfdElrb2U2VzVlNDU0SDR5SUVZNDg0TEdkM1JqcU1DR0k2ZncwT3h3VWZlaUZhUXZYVVJvYmFtUmFVMGttLUFDUTEwTkpWby1hcXdUS3NxZGtyUXhUcDVrWmg5UnFNOE1DVlpLdXNOLWJaVlRhQ0RtN0V2R01PVjdVZkVmWjN3UUhXalRRN3EwVXdR?oc=5",
+      "description": "M&S and Horgans recall truffle gouda over listeria risk MSN",
+      "pubDate": "Wed, 08 Jul 2026 14:18:34 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -268,6 +268,13 @@
       "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
     },
     {
+      "source": "HPP Cosmetics & Beauty",
+      "title": "FIU researchers reveal new findings on utilizing sargassum as a potential food source - WSVN",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmx1R1IteWZodWRGNk85ajZrVVM5dUQtWkNWTnYxZV9sOVcyd2ZMRkxLYVJhNVhEY2t1MnlHbmx3a3N0YVJuVnV1em80Z0Z3UXA4NFhBZXQza1c3cnV5QTVIWWtBWGNfUTlLbjJXS2cwV3NwaVd0bnpxbmg5aVY1YWFRSHFOMExtT1VERVdPXzdhQTZGMFoweFZXc2VKaFhNQzF2NXc5eW1JVHlJaVh2dnBUX29qVEJOVHY4YkNB?oc=5",
+      "description": "FIU researchers reveal new findings on utilizing sargassum as a potential food source WSVN",
+      "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
+    },
+    {
       "source": "UK Food Industry",
       "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
@@ -293,6 +300,13 @@
       "title": "Europe Healthy Food Market Size, Share, Growth | Report 2035 - Market Research Future",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc2swRjZ3SHE2NDk4djRnUUdEOXhvb2hQYjlwTC11bUFJcjdEUXVBbFB5eW5Tb00yUmZYQVNFdmduWndOZnZrX1pNcjYwNmdRSXQwQlFzYzBoRzk0UlFjYl9GZHlYcU9iZElTSWxEQWE1cjI1TktzNDY2cHdYd0dDbXVERQ?oc=5",
       "description": "Europe Healthy Food Market Size, Share, Growth | Report 2035 Market Research Future",
+      "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Food Processing Market Share, Size Forecast Till 2035 - Market Research Future",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05Mm03Zi14M3lJcjdVZTVKTV9qYUtTbnBYRjVHY2RNaVhmSFhld3JhcFN1R2NNcnZCNXBfWTBndTBWaVd3ZnA4LVdNRlRLTThld0ZQS2VsOWsxZ1I2cDE1SFFwSlozSnBBdTUyN0p6R2hBdGx2TERnek1najU?oc=5",
+      "description": "Food Processing Market Share, Size Forecast Till 2035 Market Research Future",
       "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
     },
     {
@@ -336,20 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUVPWXN3Sk4tNHFLMUtXZmFIUDJ2WFcyRjhuSVo2c2pxVHlCOWc2c1U1NThubHJNNXdkZlJzbFNEbmNYU2RhX3FrZ3lzRDJCVGRlMGdrdjJCX05lb3V6NEY3emtNWmJKV3Jhemgza25iZzFlWFh4NG1udC1xWjY5V2VfTko1ZEFJM3JoeUp5YzBOLUJpVkVPMGF2SVRVbHlmaUZ4Q050ZUxIaWRaQWVYR213?oc=5",
       "description": "Duckweed Protein Benefits: Is This Aquatic Plant a Sustainable Superfood? News-Medical",
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Europe Pressure Vessel Market Size & Share, 2034 - Market Data Forecast",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUThCSHBjT29LemxoZ3dSbGY5WkxMQkRmZW9QZV8xM1F0bXozNGl1WmdpU1h5b3dMOGpRTUdSSUVLblRZNGw1eWp6VmRaZ1Q2Q2VIOFpRWmJVNVNMakxFakJ5TlcyTHhkdHlxd0tmQlJfZXNvQmE4eDJ4cHJoNWdMUkVEc21Fdw?oc=5",
-      "description": "Europe Pressure Vessel Market Size & Share, 2034 Market Data Forecast",
-      "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Equipment & Machines",
-      "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXhUbEgxOUMycF9EN0RUdmxwWWt1WUVyYU1iUnQ0R2FCTlZZcTlFUEMwaG45Z0lGZHpQNGpXTFJEcW9HNm1RN1lSNzZFX2M4QnllM3NmMXc2UVRMTWFvNHM2dXkyc01pNHJ5MlpvWTNMQWJDdUxvc1I5NWR2NFIzOS1vWGFNMUtiZ2d2NVRUVHVTTk9BdENMUmZkcjZZc2VwUXowOGhXWWRvcGQ5T2wtYjRhbTNzSlFrUHZXWmNLWFYzUVlNUE1uTG1xYk5EUDFHQkVsSlJFcHhDN3BTM0dWcnp6MVNOc1VUbFB1ZUJMYzhMenJRNkRkeS1maTlYNGozbEthVW1B?oc=5",
-      "description": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility PR Newswire",
-      "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     }
   ]
 }
