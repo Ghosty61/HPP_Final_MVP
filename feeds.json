@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T14:56:23.165402+00:00",
+  "updated": "2026-07-12T16:58:35.343617+00:00",
   "articles": [
     {
       "source": "Listeria Outbreaks",
@@ -100,7 +100,7 @@
       "pubDate": "Wed, 08 Jul 2026 14:18:34 GMT"
     },
     {
-      "source": "HPP Healthcare & Medical",
+      "source": "HPP Cosmetics & Beauty",
       "title": "Hygienic Design Enclosures Market Forecast Points Higher Toward 2035 on Food Safety Mandates - IndexBox",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZGw2LWhFaENIWDlrNE92am9QVUl2Z05pT3BSTUVSQlBOTHRZTWp0N3F5ajRKVUIyeGRqVnVRT21JdlNGV0xiY3p4X0x4QXJxVWpBTERRdWFxWmhzbVJqQXFDZHRMd2kyNUoxdmFCSEZFUmRpTEZRMzVURWdBVTJVM1BBckZKdDVRVXVuSXJMLVQ2MzB2dUZQOGIxTkxNSF9ldjBjYjBYanVBN2xhRjdvZmIweWhOMnJTRUd3SkNoVQ?oc=5",
       "description": "Hygienic Design Enclosures Market Forecast Points Higher Toward 2035 on Food Safety Mandates IndexBox",
@@ -135,13 +135,6 @@
       "pubDate": "Fri, 03 Jul 2026 09:31:08 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "More than 100 sick in severe multi-country Salmonella outbreak - foodsafetynews.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS3B5NXlwczRIMFB0enBBY3llV2hYWWRyc0otdG5VakpvLWZPcWhpV3RKMEVaN1BlNUVobkVTWjBZM0JpRWxxYkZBVUpiZ0xGQUpuQVhJcGR4aWdFanlEODZueGh2LTVxSjMzQXFkLWk5aGpsQnYwNktsTVpBZzJtRi0xUV83R3J0dFFzYUpsSVJGcGs1SFJkY000dG9rMnhzRTdRaw?oc=5",
-      "description": "More than 100 sick in severe multi-country Salmonella outbreak foodsafetynews.com",
-      "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Healthcare & Medical",
       "title": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QMXhzcHRVa1RrN0s0NUZtdHJrQndFWjRUTElLVml5RWwyNDh3RUcxWkg0S2RqQXI0QVcwOWp4QUJobzdNVGRUTHJid0JVX09sUDhvMW1WMXFjaTZVeHo0STJFMElDTmlwSWY1aEQtWE92TTRxR092NFdKOA?oc=5",
@@ -168,6 +161,13 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
       "description": "Salmonella Outbreak Linked to Moringa Leaf Powder Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage - funcas.es",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BTaXhwYnBzVTdZSldMcFJKR2FSQl9JMFoxQ0VEdEg4NmFObGY0ZldMWHE5U3hVQk9RZm5icmJXWlhKRHVsQzZWNllzT0tNUlVRc25pTzZDclk4eGlsZ3k0cmlScktfRlNBRUt3eWJQdUhHemtOSXJjelk1WjFBTWVoSjBQV0oycHdXZS1BYy1hNmhRVEY1T0tXZUZRa2doa3NyMlZpR1dtYmx3dTlId2duX1M4UVlZbVlOY0FnMlNMbzFRMXk5dTFZdUV6SEhVc2hSdmVjWjFlRndSNzdVMllIcDY?oc=5",
+      "description": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage funcas.es",
+      "pubDate": "Tue, 30 Jun 2026 02:38:40 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -203,6 +203,13 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMklTa1B2RV9qU0ZkNTdOQzY0SWExRHVuSXZJZzctM3MxRTFkcmdKeVdYeEgyNTFDU3ZMSlAwQ1MzeWJXOFJoTnprZFRST3FhX2xoS2RTVHBVaGhpU3lhbkZXcWRjbEg0TGpkZkU2M3pnSGZSY3psdGVrMkJ5OEJaR1RaVHdLcklObnBMNTFuaVdYVDY2LUpoWmpwMHBNOGlyOURiTWYteWczQi1pSEk5TEhQNXRRZEZMOVE4QVFkNzNOaHZkb3RsVw?oc=5",
       "description": "🚨 A round up of some of the latest food and product recalls facebook.com",
       "pubDate": "Sat, 13 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Recall of moringa capsules implicated in Salmonella outbreak expanded - foodsafetynews.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTVlPamk5elpDUTAyRkhaaEgzUzZTWXczR0Jad1d0ZlBybS1uMWpHcEk4RmVxTm04VUNhT05ScHhPcFdFUzlKS2t3RTllZmhocWdYeEpRZ2JJeWN4MDdsR3hXMVlKZGRuODlXVTVXR2I1QkxqZWFMWHpMdDlmdWhXQlhzME9GZXRTN3NEV3UyeXlOQzlkMlI0VUhIRUNubmFWcXRObUk3UDNyUUhUVFE?oc=5",
+      "description": "Recall of moringa capsules implicated in Salmonella outbreak expanded foodsafetynews.com",
+      "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -280,13 +287,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
       "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
       "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage - funcas.es",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BTaXhwYnBzVTdZSldMcFJKR2FSQl9JMFoxQ0VEdEg4NmFObGY0ZldMWHE5U3hVQk9RZm5icmJXWlhKRHVsQzZWNllzT0tNUlVRc25pTzZDclk4eGlsZ3k0cmlScktfRlNBRUt3eWJQdUhHemtOSXJjelk1WjFBTWVoSjBQV0oycHdXZS1BYy1hNmhRVEY1T0tXZUZRa2doa3NyMlZpR1dtYmx3dTlId2duX1M4UVlZbVlOY0FnMlNMbzFRMXk5dTFZdUV6SEhVc2hSdmVjWjFlRndSNzdVMllIcDY?oc=5",
-      "description": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage funcas.es",
-      "pubDate": "Wed, 29 Apr 2026 08:10:47 GMT"
     },
     {
       "source": "EU HPP & Food Tech",
