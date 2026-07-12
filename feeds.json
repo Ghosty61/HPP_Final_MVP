@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T22:48:49.143280+00:00",
+  "updated": "2026-07-12T02:48:13.139289+00:00",
   "articles": [
     {
       "source": "Food Safety UK & EU",
@@ -14,6 +14,13 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT2ttSXdHM0NzTE5yZnBjdHZMazMtR3N4T0FhUzc3QjJ6bjBOeFYtemwyM3VhRTdFcGVVOHhoMFdoOGFrdGZxSXloUmlueWtleFBZelFwbVRDZi1WX3R0X0VLWjlWUHRGY0pDRGZwd1ZyRFhZak42M25aWnlFbFlEWXNfQdIBiAFBVV95cUxQemh6MVdJU0d2Z3AwTHlIVk5WQ0xVdkoxVE1ibnNZMk5Gd0s5WUxqNVd6a3ZqTjBCdWZzYXQxcmNZYlRkVlgxaHpQU1hkUnhVeFpTS3ZkbUtRX1FyVUNuZTNVRTZoQW11OHgyYXJEam5CUlVGX2xDMzh4X2RFZ3p2eVhHcXdzcFYx?oc=5",
       "description": "M&S, Tesco and Lidl issue 'do not eat' food poisoning warnings — full list Wales Online",
       "pubDate": "Sat, 11 Jul 2026 03:55:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Listeria outbreak reported at Tampa restaurant - FOX 13 Tampa Bay",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcWJoT1pQMWc0eHk5NERUTUFORzhfV0J1YnpZRzlPNGkxc2E2ckdjWnVzWEwyaUI3VE9BVnBNX2RCTi1QWFpsdEdfb25aM1ZuYW1US0pJd0Fyb0ZtZjNKUDBHRTdnTEJyY3dYaExlTUNmbjl4NnJsMjJXM0NSMjRnNkRCZWdJN09pQ29vamVleHdUYm82X0NBVNIBngFBVV95cUxNS2xzOFQ0bGcwLWlyeldTSHRIdnVjQTRGWEdOanpsODE4bmlOU3pKR2VNMXBCMHU3bzc1ZnhNUnVENFZSRjh4UkVNRk5TQzMxaV9NbkZyRFBndFk0ZEN2cHJETlhZdUVKWjU0ZmVxZVd5UDBCSUJONVdndUhnaTJjRDgyRkdjdW1XNDR2TkJWQkNTNGR1LUhxdUwyT0ozZw?oc=5",
+      "description": "Listeria outbreak reported at Tampa restaurant FOX 13 Tampa Bay",
+      "pubDate": "Sat, 11 Jul 2026 02:40:50 GMT"
     },
     {
       "source": "Food Safety News",
@@ -42,13 +49,6 @@
       "link": "https://www.foodsafetynews.com/2026/07/contamination-with-hepatitis-a-and-salmonella-among-import-concerns/",
       "description": "The Food and Drug Administration uses import alerts to enforce U.S. food safety regulations for food from foreign countries. The agency updates and modifies the alerts as needed. Recent modifications to FDA&#x2019;s import alerts, as posted by the agency, are listed below.",
       "pubDate": "Fri, 10 Jul 2026 04:01:40 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "FDA Expands Cheese Recall as Listeria Outbreak Leaves 1 Dead and 10 Hospitalized - parade.com",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZV2daSnNJSlI1NGlhTUZ6ejBCLXlpZk1US3ZxcXhkdDVaa2E0V1o3ZDduN3RIbWRHc3dvNDZya25uTGZUeTMwMmdHU1o2T0lpLUJvWHRoemxmVEFVWjYyVVZQRHFLY2xfMWJ3?oc=5",
-      "description": "FDA Expands Cheese Recall as Listeria Outbreak Leaves 1 Dead and 10 Hospitalized parade.com",
-      "pubDate": "Thu, 09 Jul 2026 07:25:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -105,13 +105,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZGw2LWhFaENIWDlrNE92am9QVUl2Z05pT3BSTUVSQlBOTHRZTWp0N3F5ajRKVUIyeGRqVnVRT21JdlNGV0xiY3p4X0x4QXJxVWpBTERRdWFxWmhzbVJqQXFDZHRMd2kyNUoxdmFCSEZFUmRpTEZRMzVURWdBVTJVM1BBckZKdDVRVXVuSXJMLVQ2MzB2dUZQOGIxTkxNSF9ldjBjYjBYanVBN2xhRjdvZmIweWhOMnJTRUd3SkNoVQ?oc=5",
       "description": "Hygienic Design Enclosures Market Forecast Points Higher Toward 2035 on Food Safety Mandates IndexBox",
       "pubDate": "Wed, 08 Jul 2026 09:11:11 GMT"
-    },
-    {
-      "source": "HPP Innovation & Research",
-      "title": "Pressure, Purpose, & Possibility - IFT.org",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUo3RVhlX3dfRTlmMC1XbXJ5X2IzdW5rRlBBN0NXcWIxS1RPLU91RllrN0hMckNCVXJYaVRLME4wSU9xTnJCdHRfVUY5ZWdOdGM4MTdOLWtxQ3FTanBmWnVRRTFGMHBSdlgwSHNLUWhMdHNYZlNzQzF1TV9XZm9KNTl4QQ?oc=5",
-      "description": "Pressure, Purpose, & Possibility IFT.org",
-      "pubDate": "Tue, 07 Jul 2026 05:19:59 GMT"
     },
     {
       "source": "HPP Dairy",
@@ -273,6 +266,13 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
       "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
       "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage - funcas.es",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BTaXhwYnBzVTdZSldMcFJKR2FSQl9JMFoxQ0VEdEg4NmFObGY0ZldMWHE5U3hVQk9RZm5icmJXWlhKRHVsQzZWNllzT0tNUlVRc25pTzZDclk4eGlsZ3k0cmlScktfRlNBRUt3eWJQdUhHemtOSXJjelk1WjFBTWVoSjBQV0oycHdXZS1BYy1hNmhRVEY1T0tXZUZRa2doa3NyMlZpR1dtYmx3dTlId2duX1M4UVlZbVlOY0FnMlNMbzFRMXk5dTFZdUV6SEhVc2hSdmVjWjFlRndSNzdVMllIcDY?oc=5",
+      "description": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage funcas.es",
+      "pubDate": "Wed, 29 Apr 2026 08:10:47 GMT"
     },
     {
       "source": "EU HPP & Food Tech",
