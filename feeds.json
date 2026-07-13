@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T06:52:51.811728+00:00",
+  "updated": "2026-07-13T11:11:05.498477+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -21,13 +21,6 @@
       "link": "https://www.foodsafetynews.com/2026/07/cheese-linked-to-salmonella-outbreak-in-portugal/",
       "description": "An investigation into a Salmonella outbreak in two regions of Portugal traced to cheese has revealed problems at the production site. A case&#x2013;case study suggested fresh cheese as the likely vehicle of the&#xA0;Salmonella Typhimurium&#xA0;outbreak.&#xA0;The case&#x2013;case approach compares outbreak and historical",
       "pubDate": "Mon, 13 Jul 2026 04:00:56 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Requeson recall widens after 12 illnesses, 1 death, and a dairy license suspension - The Cool Down",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0tGcnA3c1NNc2dPd3hjM0hMTGRXdnY4ZndwS01VWFhqVVU0cTlESDY5Qng4QzFseGdPNjQxa1VSZENVYVM0emFXN0ZWUE5EWVF5dGJqMnM4bll0OUFpN3pXUExVWmlnZHZaZS1IMkNJOThZYTFmTmRBbUsxRkpmOEcwZnl4TzBhTVRSOUZ0MWVfeDdkdU5lZ1lyYTgwRktiSVE?oc=5",
-      "description": "Requeson recall widens after 12 illnesses, 1 death, and a dairy license suspension The Cool Down",
-      "pubDate": "Sat, 11 Jul 2026 18:37:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -87,6 +80,13 @@
     },
     {
       "source": "Listeria Outbreaks",
+      "title": "Cheese Recall Grows Amid Ongoing Listeria Outbreak Linked To MD Dairy - Patch",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZE55cm1yRzlJNFZiTS1ZbTBYdWtNZFpmdmRqckpjaEZISmt1WHNoQ3UwYnpidldqZ3BPanJhS2ZTNkhYOXB5VEY2R2U5bEJiWHM3XzNOTHZqQkswNkFaN3FCemdyV08xa1dMQzAxWTJJWk04emhmZmxQc2tObDdYOUl4NUtkTzFTUXlLcERWZVpjclRYaFVWLWRiTWpOTEFrekt6bTJ30gG7AUFVX3lxTFBZb21xTTROWHQ2bFg2VVljZUJNdTRGSkVnQkJHWTNQMEN5aDNUaXpST3VONnhOMy01Wnk2VFktajhncDlpZ0N1OWpIcjUwcUFydVRfbFlkdWFjV183VXZrNXRsVDhrNXV1djZzSGRrX0JudmFSWWoySTBqMEE2RWg1bFlCelZFck5SSlRyamZOT2czTHV2eXdORTJRNVZXZnlyc0hQVHl6b0tETEZjaHBfczZhQ0w3TDNaYkU?oc=5",
+      "description": "Cheese Recall Grows Amid Ongoing Listeria Outbreak Linked To MD Dairy Patch",
+      "pubDate": "Wed, 08 Jul 2026 17:22:33 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
       "title": "Listeria Outbreak Linked to Soft Cheese Sickens 12 People, Kills 1 - Infectious Disease Special Edition",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT2c2aXN5bDk1MmttcTJ2bGJpM1pVMm5LdEJFeDNMd3JZeEc1U3JmNkN1aEl5cGlGcFppWERMYS1obHlkSGN2YlhGV0ZmZExqcXk2MXRQVWdIdng4QUZfTG8ydS05bnlJTWh5S2hMQklteHlEWmcwZ3JGTXozczkzb3JvdDRjR1N1cW56WVpGajJuOVF2UXpoS0dETFc1dzJ2R0J3SWJSZWhyNWVZcXU0?oc=5",
       "description": "Listeria Outbreak Linked to Soft Cheese Sickens 12 People, Kills 1 Infectious Disease Special Edition",
@@ -125,7 +125,7 @@
       "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
       "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
-      "pubDate": "Sun, 05 Jul 2026 04:15:19 GMT"
+      "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Equipment & Machines",
@@ -163,11 +163,11 @@
       "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "UK Food Valley highlights innovation and ambition at Lincolnshire Show Brunch - Lincolnshire County Council",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZElmZFZsNzZXMlNWQlZQTm96OHZEYW1kdkJWWTlQQS14dUd2OFhHVURRMkpBcFZ0SU5hOG5oSWxpVVdTZFdYcFF5R0VSNjZ5UEx5QzctaWFZdlRaM2xlWW5QX2tRUnlMeVE1bXAyUFRNVzlEWlgxOEd5NHNfSEdidngzWjNGclRfU21IUWNMRGtlcU5jNEFNUDRoNExmc1VKemVEaFF6M3YtYzUzeDFDNVFLTVJnaDh4ZXdSaU1iYjdqLVFPZHc?oc=5",
-      "description": "UK Food Valley highlights innovation and ambition at Lincolnshire Show Brunch Lincolnshire County Council",
-      "pubDate": "Mon, 29 Jun 2026 13:27:31 GMT"
+      "source": "EU HPP & Food Tech",
+      "title": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage - funcas.es",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BTaXhwYnBzVTdZSldMcFJKR2FSQl9JMFoxQ0VEdEg4NmFObGY0ZldMWHE5U3hVQk9RZm5icmJXWlhKRHVsQzZWNllzT0tNUlVRc25pTzZDclk4eGlsZ3k0cmlScktfRlNBRUt3eWJQdUhHemtOSXJjelk1WjFBTWVoSjBQV0oycHdXZS1BYy1hNmhRVEY1T0tXZUZRa2doa3NyMlZpR1dtYmx3dTlId2duX1M4UVlZbVlOY0FnMlNMbzFRMXk5dTFZdUV6SEhVc2hSdmVjWjFlRndSNzdVMllIcDY?oc=5",
+      "description": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage funcas.es",
+      "pubDate": "Tue, 30 Jun 2026 02:38:40 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -303,14 +303,7 @@
       "pubDate": "Tue, 31 Mar 2026 09:53:10 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "Fortress Technology to display touchscreen solution for food safety at interpack 2026 - Packaging Europe",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXJvUXo3TWdoczNubWhpVjNDZ3dudUgySUxzWlJ4cjBFcEhKWnhNY0FjRTI5aUwtZjVXV25RdDkwQXhLVWFRWmo1ZlpKcW8zV3A2ZExicW9XcFhSalJrU0hHcmNQcFB1OVh4ME4wZEhaVDlTUmVUMzl6RnV6czduT192c012TDkxN29NakI3TTJYMnYtRWpiZHFtLUZ5Y0ktNHVrMlhWSWJaQXRQNV9VSnhkZUZWYkdsbF85OVY5NUs3Qm9maFgyellrR1A?oc=5",
-      "description": "Fortress Technology to display touchscreen solution for food safety at interpack 2026 Packaging Europe",
-      "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric",
+      "source": "Hiperbaric EU",
       "title": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria - Fuel Cells Works",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMWpFYUZveHVvay1yVVNMNWZxN0NDcnhEdnBvVDdueFBuZWhRVkticVM5andBeGtkc1ZBYzlBcmFGY0xHWGIzaF9UZVV5NUxsNjZ1ZkhHRV9TSk9fbzd0R1E2YXJCM2dMMWMtZmp5ZWxyb1FWRTRKWkV1WDN3WXlZeEg4TmwzUnc0ZDcxeWtWWDZuZ3NEOFJyZS1KNnJqdjFpOTZjVFlCNU8wcWpKdjNYM18yeDgzUUl4Qjl2MUVHUW8xc0Jzd2ZNZWxsNkwtYzExN04xTXktNUxaV05kcFdfMjVqTDNGZEhkaEFEMzJBaWFoam9zZjJ4LQ?oc=5",
       "description": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria Fuel Cells Works",
@@ -331,13 +324,6 @@
       "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Healthcare & Medical",
-      "title": "Gelatin production from red tilapia skin fish using high-pressure processing and its characterisations - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtdE9HUzlMckh4djM0dlpzU3NuNzBjVTlIUmpaZHhTMGxGSFZRdnlkbkhBQkhnRmJKUFVzMXBrdGNDbDF1QTlScERjcE1Ca24wZ1Nmajk2Q3BTbU5wNkJR?oc=5",
-      "description": "Gelatin production from red tilapia skin fish using high-pressure processing and its characterisations Nature",
-      "pubDate": "Mon, 02 Mar 2026 08:00:00 GMT"
-    },
-    {
       "source": "HPP Dairy",
       "title": "Impact of processing techniques on donor human milk: a multi-omics and bioinformatics scoping review - Frontiers",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNW1tRzNnV0tmMUNMdHJuQkdTYThyV2I1RkROYTFkWXNjMTVCRDNzX1JLbG9MWGF5N204dzB1MVRweVY2MUZJM2l3TVB2R0RXYVJkYVZ1bVdDUEtVV0VxX190eEtzY1FzQ2ZCWGhNN1BCclZMMG1xZVpTWjJiT05KTmhwSFpkbnE1ZDFBZFhCYw?oc=5",
@@ -350,6 +336,20 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUVPWXN3Sk4tNHFLMUtXZmFIUDJ2WFcyRjhuSVo2c2pxVHlCOWc2c1U1NThubHJNNXdkZlJzbFNEbmNYU2RhX3FrZ3lzRDJCVGRlMGdrdjJCX05lb3V6NEY3emtNWmJKV3Jhemgza25iZzFlWFh4NG1udC1xWjY5V2VfTko1ZEFJM3JoeUp5YzBOLUJpVkVPMGF2SVRVbHlmaUZ4Q050ZUxIaWRaQWVYR213?oc=5",
       "description": "Duckweed Protein Benefits: Is This Aquatic Plant a Sustainable Superfood? News-Medical",
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Europe Pressure Vessel Market Size & Share, 2034 - Market Data Forecast",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUThCSHBjT29LemxoZ3dSbGY5WkxMQkRmZW9QZV8xM1F0bXozNGl1WmdpU1h5b3dMOGpRTUdSSUVLblRZNGw1eWp6VmRaZ1Q2Q2VIOFpRWmJVNVNMakxFakJ5TlcyTHhkdHlxd0tmQlJfZXNvQmE4eDJ4cHJoNWdMUkVEc21Fdw?oc=5",
+      "description": "Europe Pressure Vessel Market Size & Share, 2034 Market Data Forecast",
+      "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Equipment & Machines",
+      "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXhUbEgxOUMycF9EN0RUdmxwWWt1WUVyYU1iUnQ0R2FCTlZZcTlFUEMwaG45Z0lGZHpQNGpXTFJEcW9HNm1RN1lSNzZFX2M4QnllM3NmMXc2UVRMTWFvNHM2dXkyc01pNHJ5MlpvWTNMQWJDdUxvc1I5NWR2NFIzOS1vWGFNMUtiZ2d2NVRUVHVTTk9BdENMUmZkcjZZc2VwUXowOGhXWWRvcGQ5T2wtYjRhbTNzSlFrUHZXWmNLWFYzUVlNUE1uTG1xYk5EUDFHQkVsSlJFcHhDN3BTM0dWcnp6MVNOc1VUbFB1ZUJMYzhMenJRNkRkeS1maTlYNGozbEthVW1B?oc=5",
+      "description": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility PR Newswire",
+      "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     }
   ]
 }
