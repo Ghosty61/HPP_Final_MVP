@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-15T02:29:26.151046+00:00",
+  "updated": "2026-07-15T06:14:10.150408+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Finland signals end of Salmonella outbreak",
+      "link": "https://www.foodsafetynews.com/2026/07/finland-signals-end-of-salmonella-outbreak/",
+      "description": "Health officials in Finland have declared that a major Salmonella outbreak has ended. More than 100 people fell sick in 11 countries as part of the multi-country outbreak linked to alfalfa sprouted seeds from India. In spring this year, Salmonella Bovismorbificans illnesses were detected in Finland. The cluster included",
+      "pubDate": "Wed, 15 Jul 2026 04:03:04 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "FDA letter reinforces responsibilities of infant formula supply chain",
@@ -37,13 +44,6 @@
       "pubDate": "Mon, 13 Jul 2026 15:28:49 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Salmonella outbreak in New York linked to funeral meal",
-      "link": "https://www.foodsafetynews.com/2026/07/salmonella-outbreak-in-new-york-linked-to-funeral-meal/",
-      "description": "A salmonella outbreak that has sickened dozens of Suffolk County residents in New York is under investigation by the county&apos;s Department of Health Services. A total of 58 patients have been seen by Stony Brook Southampton Hospital doctors while exhibiting symptoms consistent with salmonella infection since the beginning",
-      "pubDate": "Mon, 13 Jul 2026 04:02:31 GMT"
-    },
-    {
       "source": "Food Safety UK & EU",
       "title": "Tesco, Lidl and M&S deadly bacteria fears plus Co-op and Ocado urgent recalls - Manchester Evening News",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzFEelYtYTB4S1RpSUdBSjNJYjVQZDdmREszZEo4MnZOTEtWUEp1YjR0ZkVBcGNEekViQVBZNEFDbEdCLTNldW96VXhTdUhwUkpKZkdPcDc5cU5fSi1FcVZ3d0duQzA2bDZMVVZlTHhIQUJoWkVwNU40WGJmNU5yY3NucGxKczBrek4yZXpiSnBUVknSAZgBQVVfeXFMTkRIWGt5bS1zcHhaSWVrVFp0cnBRMllGVVFoX2dFZ3JQOTQyZFp1Q09MV2pKSGVLckdDQlUxUW94bjl5bnlISUdrRHRxR1NUTEVZbVAxYXJIQ3R0RV9YUzFHVkZ5c3MyS1pMNHBkcThyQ2lWZTgyZkxzbmstclBjR1pjZnE5eXZhQjFxWnVkelhGdEZTdklJbUM?oc=5",
@@ -66,10 +66,10 @@
     },
     {
       "source": "HPP Innovation & Research",
-      "title": "Pressure, Purpose, & Possibility - IFT.org",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUo3RVhlX3dfRTlmMC1XbXJ5X2IzdW5rRlBBN0NXcWIxS1RPLU91RllrN0hMckNCVXJYaVRLME4wSU9xTnJCdHRfVUY5ZWdOdGM4MTdOLWtxQ3FTanBmWnVRRTFGMHBSdlgwSHNLUWhMdHNYZlNzQzF1TV9XZm9KNTl4QQ?oc=5",
-      "description": "Pressure, Purpose, & Possibility IFT.org",
-      "pubDate": "Thu, 09 Jul 2026 07:00:00 GMT"
+      "title": "From Science to Market: OSU Ag Research Advances Understanding of Dark-Cutting Beef - Morning Ag Clips",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWUNIUERsWWFfQWZvUVdUT2hYdVRleU9GQXRVcGZRR3d1eEtuUHJxTUdkVjdmZUR6Wk5WR2tJR3B0all2WGVxVjczQS1kN2IwdzRmTUsxNzI5SFd1d29SOEtEanViX3JnR0dGd1pURndienhSRVpmZUdLbzFNaXFIczBMNHRRWVFMdEYxRmdhNERZNTVQNVRyV0VkOXh0NVpmbk5BbWJjYXNfVTR1cEwyOFFKV2U?oc=5",
+      "description": "From Science to Market: OSU Ag Research Advances Understanding of Dark-Cutting Beef Morning Ag Clips",
+      "pubDate": "Fri, 10 Jul 2026 15:06:27 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -100,6 +100,13 @@
       "pubDate": "Wed, 08 Jul 2026 09:11:11 GMT"
     },
     {
+      "source": "HPP Innovation & Research",
+      "title": "Pressure, Purpose, & Possibility - IFT.org",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUo3RVhlX3dfRTlmMC1XbXJ5X2IzdW5rRlBBN0NXcWIxS1RPLU91RllrN0hMckNCVXJYaVRLME4wSU9xTnJCdHRfVUY5ZWdOdGM4MTdOLWtxQ3FTanBmWnVRRTFGMHBSdlgwSHNLUWhMdHNYZlNzQzF1TV9XZm9KNTl4QQ?oc=5",
+      "description": "Pressure, Purpose, & Possibility IFT.org",
+      "pubDate": "Tue, 07 Jul 2026 05:19:59 GMT"
+    },
+    {
       "source": "HPP Dairy",
       "title": "GEA unveils new KOB high-pressure homogenisers for production plants - Dairy Business Middle East & Africa",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc3ZPMDhsOFBadmdfRmtXa3ZlVmtKMXJwMEs4OTh6NFVrLW00c2NDY2pweHVOMW9VTVYwYnQ0MnN6ODBfSGVuRlhSTnQtMEtVMEtaOGhtWXVGVzRLV2RNNWhaQks3cF8yaWl5dFJLbXU2TTJOTnUzdHRaZWRHSUZsTGNoMlZnR190YW9NcVJtLXY3SmczbUtHSDRsbUpxYTUxN3NuZHFVZzVfRE5wbUE?oc=5",
@@ -126,6 +133,13 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS3B5NXlwczRIMFB0enBBY3llV2hYWWRyc0otdG5VakpvLWZPcWhpV3RKMEVaN1BlNUVobkVTWjBZM0JpRWxxYkZBVUpiZ0xGQUpuQVhJcGR4aWdFanlEODZueGh2LTVxSjMzQXFkLWk5aGpsQnYwNktsTVpBZzJtRi0xUV83R3J0dFFzYUpsSVJGcGs1SFJkY000dG9rMnhzRTdRaw?oc=5",
       "description": "More than 100 sick in severe multi-country Salmonella outbreak foodsafetynews.com",
       "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Healthcare & Medical",
+      "title": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods - Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QMXhzcHRVa1RrN0s0NUZtdHJrQndFWjRUTElLVml5RWwyNDh3RUcxWkg0S2RqQXI0QVcwOWp4QUJobzdNVGRUTHJid0JVX09sUDhvMW1WMXFjaTZVeHo0STJFMElDTmlwSWY1aEQtWE92TTRxR092NFdKOA?oc=5",
+      "description": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods Medical Xpress",
+      "pubDate": "Thu, 02 Jul 2026 00:40:04 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -212,13 +226,6 @@
       "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Healthcare & Medical",
-      "title": "Growing Industrial Applications Expand Scope of Isostatic Pressing Technologies - MarketsandMarkets",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbjhfQXRKR2YwV0xTc0l2MjRnUU1rVUZHZU9JYWcwWExUOFNXM0JPT3hhQjVFTUZLa24xM3F5dU9mYU1YeHFjYXVPRnk3N1Z5ekFjcm01TWVvbTJnTHZVaTFYUE5Id3JEWlVoMUxKc2dUTTh5M1htTjdhWEE2U3QyYm9LNVNxbGhLSU9LQTFMdw?oc=5",
-      "description": "Growing Industrial Applications Expand Scope of Isostatic Pressing Technologies MarketsandMarkets",
-      "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
-    },
-    {
       "source": "UK Food Industry",
       "title": "2026 North East Scotland Food and Drink Award winners announced - Aberdeen & Grampian Chamber of Commerce",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVExmMTJNV3B0X3J1bzhOenhKVVdfTFVHVU1PdEZoZE5fcGc0ejNObHJ1Vnc5eTRDR1BHRjktOFdxSnFjOWFOeml2UDZDMTlvOGJaQk55VnhmXzZiRVlfa0Vabm9ldldjVzFOMGFoZ3FlUDM4aFJSeFB3eTh2dVdjZkdFbmliM1E4bjZiaDEyeXZ2cno1MzhPN1hSYnZVLXMz?oc=5",
@@ -231,6 +238,13 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXFGTmZ4ZW9NamJNeVhqV29yeFQ0SzlTYzBXcnl1RHltM0NIODNMVTFhT2VPaUhCbDFwanJEazNfZEoweXJkWGhtSGRwZWlycjJwWFgwdmZBU2RlSlRlTjhfQ3J4UDlrcUg0N1ZzX2puWVo4amFUczJFcGZCZWphenBFN0dUSlMwWVdIZ2ZmT1daOG90b0Z6X0RB?oc=5",
       "description": "Expansion at the Dock + boosts seafood processing in Alberni Valley Ha-Shilth-Sa Newspaper",
       "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Europe Heat Wave Boosts Solar, Sends Power Prices Negative - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVU9vS00wYUUyUnhVODhjYXktRUdOSWhmZXRfVkNoRHB1QmV0ZnljbGp1NG5jWEpLMDRTeGw5TUo1VHMxRmdXRVp1QUI3NGcwZWNsRXU0NXBENmNZOXk5SHVncUJIN25FVGRvbWsybUhyV1JsRzBhTVFsMFhvYUdRMElZX1V1dXlIUHBKcGlGSTBYYklfUU15c3pLeFhkbnRrZU15OUtCc2owQ29lVWZF?oc=5",
+      "description": "Europe Heat Wave Boosts Solar, Sends Power Prices Negative Bloomberg.com",
+      "pubDate": "Tue, 26 May 2026 07:00:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -265,13 +279,6 @@
       "title": "Suja Life, Better-For-You Beverage Platform, Files for NASDAQ IPO - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORTBUVDZBcy04eF9GMDItaGdjR0kwR0ctNHdhSnVLLUs5clhsdjRGNWZxVzlsN2QwbXRvY1Bod09NWmI0UEVMU3dUTnVNVnRKTjdYNlJMWWNQN1NvTDExZXJPMGpoUzhCSUdvWTBCR082T1NYZmREajdEc3puNzhMeU5SeVpkaGZ4UFVQVHhIOVNOcnRPUzhaOHV2REkzTktXZGM3aGloSDdQVHAzYWpXdk1NblhlanVpM01CX29FXzNMSlU?oc=5",
       "description": "Suja Life, Better-For-You Beverage Platform, Files for NASDAQ IPO TradingView",
-      "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Innovation & Research",
-      "title": "From science to market: OSU Ag Research advances understanding of dark-cutting beef - news.okstate.edu",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOU9aRGVVRE9vRUdqRjJQYWYzQzNMclk1M2xVUDh1amZMaS0tZHp3dm9JNXNhaE51QVRCbzd2YVRVd19JQjZWS1RfcDh2MlBOUzgtVVM1UEw2VmVQSUwxR1otUkFUYnRhTnpwcV84THN4VjdFMUwyZzB5b29RRXV1Zm9YZU9pUldrWUcwVW84MDd2YW1OM25RbFJQSFVWNWVsSVNEWkdITTRsamV5aDd1dGNTT3lyMV80ZTEycndGXzBacGRRYk93cnZCWUlBZw?oc=5",
-      "description": "From science to market: OSU Ag Research advances understanding of dark-cutting beef news.okstate.edu",
       "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
     },
     {
@@ -329,13 +336,6 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94dFJES3E1ZkZKVnV6aEFVbmd5M0dxQTNqVkFZQWxzT081X1NDdFhJMW1Wend5SGM1RUtidHF6WUFidGpDdTBHenJrcVNJYjh1RlpSZ2ZkekdqTDhUc05vMHUwNG95aFJZUGVtSHoxRFdmelRKa1dJ?oc=5",
       "description": "Europe Urea Market Size, Share, & Growth, 2034 Market Data Forecast",
       "pubDate": "Fri, 10 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Europe Healthy Food Market Size, Share, Growth | Report 2035 - Market Research Future",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc2swRjZ3SHE2NDk4djRnUUdEOXhvb2hQYjlwTC11bUFJcjdEUXVBbFB5eW5Tb00yUmZYQVNFdmduWndOZnZrX1pNcjYwNmdRSXQwQlFzYzBoRzk0UlFjYl9GZHlYcU9iZElTSWxEQWE1cjI1TktzNDY2cHdYd0dDbXVERQ?oc=5",
-      "description": "Europe Healthy Food Market Size, Share, Growth | Report 2035 Market Research Future",
-      "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
