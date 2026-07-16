@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-16T02:37:29.039417+00:00",
+  "updated": "2026-07-16T06:18:19.989964+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Raw Farm LLC cheese found to be cause of E. coli outbreak",
+      "link": "https://www.foodsafetynews.com/2026/07/raw-farm-llc-cheese-found-to-be-cause-of-e-coli-outbreak/",
+      "description": "Federal officials are reporting that inspectors found unsanitary handling and other food safety issues at Raw Farm LLC, the dairy connected to an E. Coli O157 outbreak. The outbreak sickened nine people across California, Texas and Florida. According to an Executive Summary from the Food and Drug Administration, inspectors found",
+      "pubDate": "Thu, 16 Jul 2026 04:04:31 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Concerns raised over food poisoning rise in Vietnam",
+      "link": "https://www.foodsafetynews.com/2026/07/concerns-raised-over-food-poisoning-rise-in-vietnam/",
+      "description": "In the first six months of 2026, Vietnam recorded 58 foodborne outbreaks an increase of 23 outbreaks compared to the same period in 2025.",
+      "pubDate": "Thu, 16 Jul 2026 04:03:12 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Salmonella outbreak reported in relation to July 4th event in Yakima",
@@ -35,20 +49,6 @@
       "link": "https://www.foodsafetynews.com/2026/07/fda-letter-reinforces-responsibilities-of-infant-formula-supply-chain/",
       "description": "The FDA has put the entire infant formula supply chain on notice to improve monitoring and production practices. The decree comes amid a second outbreak since November 2025 of infant botulism tied to powdered infant formula. The Food and Drug Administration put the lion&#x2019;s share of the responsibility",
       "pubDate": "Tue, 14 Jul 2026 04:05:26 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Major German E. coli outbreak sickened almost 500",
-      "link": "https://www.foodsafetynews.com/2026/07/major-german-e-coli-outbreak-sickened-almost-500/",
-      "description": "Almost 500 people were sick in a major E. coli outbreak in Germany in 2025, according to recently released figures from a regional State Office for Health and Social Affairs. The Landesamt f&#xFC;r Gesundheit und Soziales (LAGuS)&#xA0;in Mecklenburg-Vorpommern reported there were 476 possible cases and",
-      "pubDate": "Tue, 14 Jul 2026 04:03:35 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Codex adopts standards on chicken meat and allergen labeling",
-      "link": "https://www.foodsafetynews.com/2026/07/codex-adopts-standards-on-chicken-meat-and-allergen-labeling/",
-      "description": "Guidelines related to Campylobacter and Salmonella in chicken meat and Listeria monocytogenes in certain foods have been approved at the latest meeting of a global food standards setting body. The Codex Alimentarius Commission was established by FAO and the World Health Organization (WHO). It is responsible for setting food standards",
-      "pubDate": "Tue, 14 Jul 2026 04:01:55 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -98,13 +98,6 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUo3RVhlX3dfRTlmMC1XbXJ5X2IzdW5rRlBBN0NXcWIxS1RPLU91RllrN0hMckNCVXJYaVRLME4wSU9xTnJCdHRfVUY5ZWdOdGM4MTdOLWtxQ3FTanBmWnVRRTFGMHBSdlgwSHNLUWhMdHNYZlNzQzF1TV9XZm9KNTl4QQ?oc=5",
       "description": "Pressure, Purpose, & Possibility IFT.org",
       "pubDate": "Thu, 09 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Listeria Outbreak Linked to Soft Cheese Sickens 12 People, Kills 1 - Infectious Disease Special Edition",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT2c2aXN5bDk1MmttcTJ2bGJpM1pVMm5LdEJFeDNMd3JZeEc1U3JmNkN1aEl5cGlGcFppWERMYS1obHlkSGN2YlhGV0ZmZExqcXk2MXRQVWdIdng4QUZfTG8ydS05bnlJTWh5S2hMQklteHlEWmcwZ3JGTXozczkzb3JvdDRjR1N1cW56WVpGajJuOVF2UXpoS0dETFc1dzJ2R0J3SWJSZWhyNWVZcXU0?oc=5",
-      "description": "Listeria Outbreak Linked to Soft Cheese Sickens 12 People, Kills 1 Infectious Disease Special Edition",
-      "pubDate": "Thu, 09 Jul 2026 03:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -189,6 +182,13 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeURCSzJmTjhpWEttM0RXTC1fcmtWZHkxeGk5Q2lheTdneWhwMW1KaHYyamVLeWNnYVhROW1lcm1QMWFzZzZhdmtIcHhVTDFjekVkakhwcVpaMTgtOWFERE1QYUNFOUwwQUc2OW5ITldOVXRLRW5MbWluZ2Y0WXRtNA?oc=5",
       "description": "Investigation Update: Listeria Outbreak, June 2026 Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Cottage cheese recalled in connection with deadly Listeria outbreak - foodsafetynews.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkNvc2dEejNjNHd6TFhBQ3AtaWZQanc1bTlnaHBHZ2xwLUFSZ19La1RaVGctSTZhMGZWMXV0Z1hIT3k4Q1F2WU9XRFg0dnFMWGJLd05nWHRobE5Pa1NnWk0ycWltWmtPeFQzWDRkY2xtcWFpOTk5a3NKOWVOZWd4WkEtNTRPbjE2dWFuMy1Xd1ZiaUVNc2E0anR2a0FaNUZDOEV3MHdNNXdyTWc?oc=5",
+      "description": "Cottage cheese recalled in connection with deadly Listeria outbreak foodsafetynews.com",
+      "pubDate": "Sun, 28 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Soups & Meals",
@@ -296,13 +296,6 @@
       "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Cosmetics & Beauty",
-      "title": "Freshly Made Skincare - Trend Hunter",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DcDlYZXlJNUNwQlVidEY0eEpOQ0JLVl8zVEVqWkk3SjVQcXFFVnVjcW1uRW92ak1LTEo5MlU1NjkyTHdDUEFBdHVwR25HLTJla1JSa9IBWkFVX3lxTE5Rc3JMSkxmVURTRnExN3J3SWNTMDNuMEVWNksza1hFSXI1TmRHNEJDOFBlT0QyLXhra3lCVkdmRC0teHBBVmtJX3FQTWtiR0g3bDJja1B2TVI4QQ?oc=5",
-      "description": "Freshly Made Skincare Trend Hunter",
-      "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT"
-    },
-    {
       "source": "EU HPP & Food Tech",
       "title": "Food Tech Market Size, Share, Industry Trends, Analysis 2035 - Market Research Future",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwOGlERG4xYjVDcVBveVZhbkVfY0gyQ0hXVnN1YjJ5Ni1kSTVhaFVMRllncmc2ZUFiWDhoVHRxRW82S0tMeHEtZEF5TVVlQ2NYZjI5TTZJMnByNmI4ZUkyQnZUcU1mT1lwd3RYU3B0LVh5WFFvR3c?oc=5",
@@ -345,10 +338,17 @@
       "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT"
     },
     {
-      "source": "Hiperbaric",
-      "title": "Oklahoma Strengthens Food Processing Infrastructure with $7 Million Investment at Oklahoma State University, Installs Hiperbaric 55 HPP System - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPRGFSN1VPVG1objhFSUFGYm5IcnVscE5jME4wcmZ3VVZtTVdDN3laUHloWGg0dGxLcUplRjdWR3RybXFRWkJ6b18yTTRxOVdBeWQ1aGJyMVVpSVFVTzhFSzhVZkF4b3Rma2stdk5KcTVDX1hoYWVZYi1Ob000Yk1ZTXRnMFA5bUpMUkFPNGdEdHIzbVRvcFBxNWlZUFQ0N29GMHlyYm1KSW9kWXpMX2t2WHRpN2ctdU55LTMtbGJ4LWh1cXMzTnppQ1l3QW9nSFV5NXFVZHduUXhzLVVVNi1ONWxCODhBak40NDg3QUVoaU9qRDRtMzV5VURQaDQ0ZFI3a1BfbElGZnpURWVkbVZUUmp5SXpKdzFyM2QyeFdJWGVYUQ?oc=5",
-      "description": "Oklahoma Strengthens Food Processing Infrastructure with $7 Million Investment at Oklahoma State University, Installs Hiperbaric 55 HPP System PR Newswire",
+      "source": "HPP Healthcare & Medical",
+      "title": "Duckweed Protein Benefits: Is This Aquatic Plant a Sustainable Superfood? - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUVPWXN3Sk4tNHFLMUtXZmFIUDJ2WFcyRjhuSVo2c2pxVHlCOWc2c1U1NThubHJNNXdkZlJzbFNEbmNYU2RhX3FrZ3lzRDJCVGRlMGdrdjJCX05lb3V6NEY3emtNWmJKV3Jhemgza25iZzFlWFh4NG1udC1xWjY5V2VfTko1ZEFJM3JoeUp5YzBOLUJpVkVPMGF2SVRVbHlmaUZ4Q050ZUxIaWRaQWVYR213?oc=5",
+      "description": "Duckweed Protein Benefits: Is This Aquatic Plant a Sustainable Superfood? News-Medical",
+      "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Rewriting the recipe: the next 25 years of innovation - Food and Drink Technology",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMUstc3dfZjFaTW9YNFRhelRhQmRsSEFVVjFGc0tZZE1jMjZXWXhqaXc2VEd6M2pPOWxrSmU1SGNNNXBLTE9wLUcxZ2lTeFVqM19NZUNJeXJycVQxWGQ3UDV5MklIbEw2NHREa3h6Y1BtajhOTXlWZGhJY2JoU21BM0NGY0pxLWJiSTk1TWhSTGJSUEtE?oc=5",
+      "description": "Rewriting the recipe: the next 25 years of innovation Food and Drink Technology",
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     }
   ]
