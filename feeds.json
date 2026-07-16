@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-15T22:57:59.233054+00:00",
+  "updated": "2026-07-16T02:37:29.039417+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Salmonella outbreak reported in relation to July 4th event in Yakima",
+      "link": "https://www.foodsafetynews.com/2026/07/salmonella-outbreak-reported-in-relation-to-july-4th-event-in-yakima/",
+      "description": "The Yakima Health District in Washington is investigating 10 confirmed and suspected cases of Salmonella infection among individuals who reported eating food at the Fourth of July event hosted by Imperial&#x2019;s Garden located at 4817 Lateral A Road, Wapato, WA 98951.&#xA0; This event was not related to",
+      "pubDate": "Thu, 16 Jul 2026 01:57:31 GMT"
+    },
     {
       "source": "UK Food Industry",
       "title": "CAFRE student scoops success with Dale Farm placement - Department of Agriculture, Environment and Rural Affairs",
@@ -42,13 +49,6 @@
       "link": "https://www.foodsafetynews.com/2026/07/codex-adopts-standards-on-chicken-meat-and-allergen-labeling/",
       "description": "Guidelines related to Campylobacter and Salmonella in chicken meat and Listeria monocytogenes in certain foods have been approved at the latest meeting of a global food standards setting body. The Codex Alimentarius Commission was established by FAO and the World Health Organization (WHO). It is responsible for setting food standards",
       "pubDate": "Tue, 14 Jul 2026 04:01:55 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Michigan officials say salad likely cause of Cyclospora outbreak",
-      "link": "https://www.foodsafetynews.com/2026/07/michigan-officials-say-salad-likely-cause-of-cyclospora-outbreak/",
-      "description": "The outbreak has sickened people in 31 states.",
-      "pubDate": "Tue, 14 Jul 2026 00:50:48 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -98,13 +98,6 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUo3RVhlX3dfRTlmMC1XbXJ5X2IzdW5rRlBBN0NXcWIxS1RPLU91RllrN0hMckNCVXJYaVRLME4wSU9xTnJCdHRfVUY5ZWdOdGM4MTdOLWtxQ3FTanBmWnVRRTFGMHBSdlgwSHNLUWhMdHNYZlNzQzF1TV9XZm9KNTl4QQ?oc=5",
       "description": "Pressure, Purpose, & Possibility IFT.org",
       "pubDate": "Thu, 09 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "M&S recall warning over disease-causing bacteria that can lead to meningitis - Oxford Mail",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaks4RjRDNU9SRUlkeThHQnlvRGp1MEJBNGRUUFFVS3p0WWRXNmw1ZUtDUGRwLWE1YXZfRW02NDB1SzBseHpnQ210TmVsQ0dYUUVMSnpIUHlvY29TUGYybV93WW85XzVFT1BrdEFLcTdHT242b3Flc2VGOFNhSEpYWC1DZjZzVE9YeTd5cmZqeDYzMU81YWhJVzJsOTMxZWRkVkl0VmlldVViYXZu?oc=5",
-      "description": "M&S recall warning over disease-causing bacteria that can lead to meningitis Oxford Mail",
-      "pubDate": "Thu, 09 Jul 2026 05:52:53 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -205,11 +198,11 @@
       "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "What the science says: What is driving Europe's heatwave? - RTL Today",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWFpIUE5aaHpWckNEclE2TG1YSnRpZk1SZ1FfaUQ5RGtQbVVKWGNENWdWRmkzWDQwMDFWbkNOLVpYUW1GcU1MYjlVN3NaYTE3cVU2QXRJWks2SE42WFlxc2lubVc2Z1BSblRKV2ZqWHdwWThuakZ1V21WbVRmNTdmSw?oc=5",
-      "description": "What the science says: What is driving Europe's heatwave? RTL Today",
-      "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT"
+      "source": "Food Safety UK & EU",
+      "title": "Cheese products recalled because of listeria contamination - Food Manufacture",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGlYR0dNZV8yOG9wOUtMdVVNRXU1XzdrSmFud09fWnF1S0EwWnhMdWpYNTc2aXV2LTdBbW03YmlIcGpNdV9zdy1ZZ28yakw4djRYUC1oTW9uWWZpRFdkOEN4SnlwaFBTb1Z3bzBJREpfblNZelJWN0N4RmdMRDA0X2F6QUJZUTA5M2RSYWRodHdlX2JMMWxsT1F2aWVWa1I1Rmc?oc=5",
+      "description": "Cheese products recalled because of listeria contamination Food Manufacture",
+      "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZEJqUEI0WkJVVHhkX3M5ek9hYUp6Tnh1R1hWLWhLY2c2bWEzOEFNcXJhY016UDdMS0EtZFRnRWtxTElEcGdxX0RETWwzV3FsemRrdVFXQ1JWLW5oLXhVNW95a3JsNjRCWldTVEtIcnpSc05ZSDY3a3VhX092QXhKRldyNFJWemRjbU5Md0Z0eFRXQzk1eU5mbVgwbDFBazg0ekNuek9OYkowY2pvX1NBSGtoekZURTRBZUN6N1dtZk5nSEE?oc=5",
       "description": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation Food and Drink Technology",
       "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric",
+      "title": "Oklahoma Strengthens Food Processing Infrastructure with $7 Million Investment at Oklahoma State University, Installs Hiperbaric 55 HPP System - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPRGFSN1VPVG1objhFSUFGYm5IcnVscE5jME4wcmZ3VVZtTVdDN3laUHloWGg0dGxLcUplRjdWR3RybXFRWkJ6b18yTTRxOVdBeWQ1aGJyMVVpSVFVTzhFSzhVZkF4b3Rma2stdk5KcTVDX1hoYWVZYi1Ob000Yk1ZTXRnMFA5bUpMUkFPNGdEdHIzbVRvcFBxNWlZUFQ0N29GMHlyYm1KSW9kWXpMX2t2WHRpN2ctdU55LTMtbGJ4LWh1cXMzTnppQ1l3QW9nSFV5NXFVZHduUXhzLVVVNi1ONWxCODhBak40NDg3QUVoaU9qRDRtMzV5VURQaDQ0ZFI3a1BfbElGZnpURWVkbVZUUmp5SXpKdzFyM2QyeFdJWGVYUQ?oc=5",
+      "description": "Oklahoma Strengthens Food Processing Infrastructure with $7 Million Investment at Oklahoma State University, Installs Hiperbaric 55 HPP System PR Newswire",
+      "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     }
   ]
 }
