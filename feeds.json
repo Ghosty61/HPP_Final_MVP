@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T13:50:47.481785+00:00",
+  "updated": "2026-07-16T15:38:18.324643+00:00",
   "articles": [
     {
       "source": "Salmonella Outbreaks",
@@ -42,13 +42,6 @@
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbFYzSUNCVHQxSHhmR0RBWDNtZFNkMDZTU1FTYXlVSDI3OUtleGZBNy1wNVU4U1ViazJqcW9odzQyOGpqMUM5S2o5aHo3S2R1ZlVVZV9OMTJOaU51eGM2TUtEaEttQ3hUZHRsdWZ5d2Joc01mWmxKY01WSWo1TjYzcmNPWGdlVzU2djJBQ2JDdXVpRHRWV1ZvN2tKZ2UyVXZtU2ZDVS0wQm9NSjVGaFJ1b0lRUHlZOUcwbTZhcDZkS0txSTMxenNvR0RxYnhpUDF1Vl9kS0pZejktaVBPc1ZRMVVBaHVQTzZsY1VMVnZlVG1QeTNwWlpaT3Jn?oc=5",
       "description": "Deli 24 boosts reliability with oil-free compressors The Engineer",
       "pubDate": "Wed, 15 Jul 2026 10:07:22 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Charcuterie Charlevoisienne, Joe Smoked Meat Recall For Possible Listeria - Food Poisoning Bulletin",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWtQdHF1dFY5MUZaeDBTbFptakZydzdoUmZrYUN5cW1kdXVsQUUtNnJlel82S0Q1ME1MREVEWlk1c0U2V3lRVjFkaTAxUXR5RHNuQ2hEbmJwU0JUWkNObWdMOWRrd1k2aFZsY2h3cVUwamtTYmdhdU5NdVpsa3MyenVmOVg2Sk5BMmxIMTVGdVZMdWtKeFNsT1RhQlVkOS1ieUdjZ3NCc1BjY0R1NlNvWk5R?oc=5",
-      "description": "Charcuterie Charlevoisienne, Joe Smoked Meat Recall For Possible Listeria Food Poisoning Bulletin",
-      "pubDate": "Wed, 15 Jul 2026 07:29:48 GMT"
     },
     {
       "source": "Food Safety News",
@@ -107,13 +100,6 @@
       "pubDate": "Fri, 10 Jul 2026 15:06:27 GMT"
     },
     {
-      "source": "HPP Innovation & Research",
-      "title": "Pressure, Purpose, & Possibility - IFT.org",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUo3RVhlX3dfRTlmMC1XbXJ5X2IzdW5rRlBBN0NXcWIxS1RPLU91RllrN0hMckNCVXJYaVRLME4wSU9xTnJCdHRfVUY5ZWdOdGM4MTdOLWtxQ3FTanBmWnVRRTFGMHBSdlgwSHNLUWhMdHNYZlNzQzF1TV9XZm9KNTl4QQ?oc=5",
-      "description": "Pressure, Purpose, & Possibility IFT.org",
-      "pubDate": "Thu, 09 Jul 2026 07:00:00 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "15 recent food, product recalls that may impact you - The Hill",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTUpmWHBEaEdMem5tR0R6ZkhUdTZxUXBiNVppU1dSZ1MyVHBjWTRaenlFdmE1SFhlWVVkc0ZlU0ZTZktET3JNcVZjVTNPVkoyN3lRR1N3T29jQlR4SU80RE5waEg5bDdJNi03RGdwT0ZhNjRzRU1uT0VqUW1Nck8wdEJiSXdKMlhJaWpFc00zY0R0d9IBlwFBVV95cUxOT1lqVHB4dFBqY0habDlzdmlNSG5uUVJWVURkOVdNTzlrNDMwMTRjLU5raTBYTXNnMUUweDRYclM2UE9lZlpjLVBONWlCMFdxam5xQlY2QmdGc21LOVN1U18tSjNGNHRTenVYQW5YV0tpREpuS3NpUEphWEpwYXdJcW51M2dqVmJnbXlqVExrZDFtUTBxRUg0?oc=5",
@@ -140,6 +126,13 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
       "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
       "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "More than 100 sick in severe multi-country Salmonella outbreak - foodsafetynews.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS3B5NXlwczRIMFB0enBBY3llV2hYWWRyc0otdG5VakpvLWZPcWhpV3RKMEVaN1BlNUVobkVTWjBZM0JpRWxxYkZBVUpiZ0xGQUpuQVhJcGR4aWdFanlEODZueGh2LTVxSjMzQXFkLWk5aGpsQnYwNktsTVpBZzJtRi0xUV83R3J0dFFzYUpsSVJGcGs1SFJkY000dG9rMnhzRTdRaw?oc=5",
+      "description": "More than 100 sick in severe multi-country Salmonella outbreak foodsafetynews.com",
+      "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -177,6 +170,13 @@
       "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "Cottage cheese recalled in connection with deadly Listeria outbreak - foodsafetynews.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkNvc2dEejNjNHd6TFhBQ3AtaWZQanc1bTlnaHBHZ2xwLUFSZ19La1RaVGctSTZhMGZWMXV0Z1hIT3k4Q1F2WU9XRFg0dnFMWGJLd05nWHRobE5Pa1NnWk0ycWltWmtPeFQzWDRkY2xtcWFpOTk5a3NKOWVOZWd4WkEtNTRPbjE2dWFuMy1Xd1ZiaUVNc2E0anR2a0FaNUZDOEV3MHdNNXdyTWc?oc=5",
+      "description": "Cottage cheese recalled in connection with deadly Listeria outbreak foodsafetynews.com",
+      "pubDate": "Sun, 28 Jun 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Soups & Meals",
       "title": "Heard the loud noise in Dixon? Officials say here's what caused it - ABC10",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGtOcWpIM1hIV1JSUjd6VVFmelI5ZlE4SzZKdkVHdGlmdm5SUjU1NXkwWWZNeXgyb280RjJpaE1CNEFOeGw2Y1ZPaW5JdkFsdzh2ZGZFSHl5a0VMRVF4UThqOVB3WFJTOFByWFFtZ3NQSi1Lb1RidU1WTmxSY0tKQzVHUF9KQk52OVk4eTJraWJLNjN5SXV4N2FEb3ZERUN4NkRPQ1RGcS1XUmJScFFFTFlMUXlKaHltdkF5SmIxSGxGaThfdUdRZC1nQXc?oc=5",
@@ -188,13 +188,6 @@
       "title": "Cheese products recalled because of listeria contamination - Food Manufacture",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGlYR0dNZV8yOG9wOUtMdVVNRXU1XzdrSmFud09fWnF1S0EwWnhMdWpYNTc2aXV2LTdBbW03YmlIcGpNdV9zdy1ZZ28yakw4djRYUC1oTW9uWWZpRFdkOEN4SnlwaFBTb1Z3bzBJREpfblNZelJWN0N4RmdMRDA0X2F6QUJZUTA5M2RSYWRodHdlX2JMMWxsT1F2aWVWa1I1Rmc?oc=5",
       "description": "Cheese products recalled because of listeria contamination Food Manufacture",
-      "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Food Ingredients Market Size, Share | Growth Forecast [2034 - Fortune Business Insights",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rSkdQWE93bDdDc2ZENzA0a1Vud1BFbTctT0U3NjJZcWFRTThVN1J3U3ZrVzRQbTRwNVhfS2FveUc1TG56NlJSbFluaWt6bXNBdU5FRmxEejVpYlFLejBfZEhxUHZlcEM3emlNMXN4NVR0S3cycFkxY19B?oc=5",
-      "description": "Food Ingredients Market Size, Share | Growth Forecast [2034 Fortune Business Insights",
       "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT"
     },
     {
@@ -219,25 +212,11 @@
       "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "2026 North East Scotland Food and Drink Award winners announced - Aberdeen & Grampian Chamber of Commerce",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVExmMTJNV3B0X3J1bzhOenhKVVdfTFVHVU1PdEZoZE5fcGc0ejNObHJ1Vnc5eTRDR1BHRjktOFdxSnFjOWFOeml2UDZDMTlvOGJaQk55VnhmXzZiRVlfa0Vabm9ldldjVzFOMGFoZ3FlUDM4aFJSeFB3eTh2dVdjZkdFbmliM1E4bjZiaDEyeXZ2cno1MzhPN1hSYnZVLXMz?oc=5",
-      "description": "2026 North East Scotland Food and Drink Award winners announced Aberdeen & Grampian Chamber of Commerce",
-      "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Seafood",
       "title": "Expansion at the Dock + boosts seafood processing in Alberni Valley - Ha-Shilth-Sa Newspaper",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXFGTmZ4ZW9NamJNeVhqV29yeFQ0SzlTYzBXcnl1RHltM0NIODNMVTFhT2VPaUhCbDFwanJEazNfZEoweXJkWGhtSGRwZWlycjJwWFgwdmZBU2RlSlRlTjhfQ3J4UDlrcUg0N1ZzX2puWVo4amFUczJFcGZCZWphenBFN0dUSlMwWVdIZ2ZmT1daOG90b0Z6X0RB?oc=5",
       "description": "Expansion at the Dock + boosts seafood processing in Alberni Valley Ha-Shilth-Sa Newspaper",
       "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "The food recalls, alerts issued over salmonella concerns this month - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVBTbElxUUVCeW9FcEZwcU91NW9RZzdidWlIRk9yY2RiWjQyU1pwV3lJY1V2d1pWdHVFX09RYVliTE5kNlpzVE1iM3J1QmVBZmtKd0pLRGstQW03bExOQjVnMlQ2TTNQekJfMFFsM3ZEX0VvaHl3Zkk1SXJRQ25OX1dhS2FqeG5VVEwyVWM3a3g1azJUVlVFMVZ4MHZnSXZiSUdwNlZxQdIBrAFBVV95cUxQcGYxRDRTUjBxUEdoYkpqTWJMcjRGRlB1dzgtZ2hXNFlLVGMtT1N5eWJNQVNVanVCRUdhT01GeC1Oc2ZaeU9NekM5STJXclhmSFpXdVc5SUNuVnNvYnJsVS1uLVhKNURpVUc4VU1NN1VCb3pzcTZiRDI0Smo4QlRLel9yYmd4UzhjQjM5UDkwdTdnYkxjYWRuYndSMU1CcjZjMWdLdEtWU201VVZQ?oc=5",
-      "description": "The food recalls, alerts issued over salmonella concerns this month The Hill",
-      "pubDate": "Sun, 17 May 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Juices & Beverages",
@@ -350,6 +329,27 @@
       "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPRGFSN1VPVG1objhFSUFGYm5IcnVscE5jME4wcmZ3VVZtTVdDN3laUHloWGg0dGxLcUplRjdWR3RybXFRWkJ6b18yTTRxOVdBeWQ1aGJyMVVpSVFVTzhFSzhVZkF4b3Rma2stdk5KcTVDX1hoYWVZYi1Ob000Yk1ZTXRnMFA5bUpMUkFPNGdEdHIzbVRvcFBxNWlZUFQ0N29GMHlyYm1KSW9kWXpMX2t2WHRpN2ctdU55LTMtbGJ4LWh1cXMzTnppQ1l3QW9nSFV5NXFVZHduUXhzLVVVNi1ONWxCODhBak40NDg3QUVoaU9qRDRtMzV5VURQaDQ0ZFI3a1BfbElGZnpURWVkbVZUUmp5SXpKdzFyM2QyeFdJWGVYUQ?oc=5",
       "description": "Oklahoma Strengthens Food Processing Infrastructure with $7 Million Investment at Oklahoma State University, Installs Hiperbaric 55 HPP System PR Newswire",
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Healthcare & Medical",
+      "title": "Duckweed Protein Benefits: Is This Aquatic Plant a Sustainable Superfood? - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUVPWXN3Sk4tNHFLMUtXZmFIUDJ2WFcyRjhuSVo2c2pxVHlCOWc2c1U1NThubHJNNXdkZlJzbFNEbmNYU2RhX3FrZ3lzRDJCVGRlMGdrdjJCX05lb3V6NEY3emtNWmJKV3Jhemgza25iZzFlWFh4NG1udC1xWjY5V2VfTko1ZEFJM3JoeUp5YzBOLUJpVkVPMGF2SVRVbHlmaUZ4Q050ZUxIaWRaQWVYR213?oc=5",
+      "description": "Duckweed Protein Benefits: Is This Aquatic Plant a Sustainable Superfood? News-Medical",
+      "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Rewriting the recipe: the next 25 years of innovation - Food and Drink Technology",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMUstc3dfZjFaTW9YNFRhelRhQmRsSEFVVjFGc0tZZE1jMjZXWXhqaXc2VEd6M2pPOWxrSmU1SGNNNXBLTE9wLUcxZ2lTeFVqM19NZUNJeXJycVQxWGQ3UDV5MklIbEw2NHREa3h6Y1BtajhOTXlWZGhJY2JoU21BM0NGY0pxLWJiSTk1TWhSTGJSUEtE?oc=5",
+      "description": "Rewriting the recipe: the next 25 years of innovation Food and Drink Technology",
+      "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric EU",
+      "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXhUbEgxOUMycF9EN0RUdmxwWWt1WUVyYU1iUnQ0R2FCTlZZcTlFUEMwaG45Z0lGZHpQNGpXTFJEcW9HNm1RN1lSNzZFX2M4QnllM3NmMXc2UVRMTWFvNHM2dXkyc01pNHJ5MlpvWTNMQWJDdUxvc1I5NWR2NFIzOS1vWGFNMUtiZ2d2NVRUVHVTTk9BdENMUmZkcjZZc2VwUXowOGhXWWRvcGQ5T2wtYjRhbTNzSlFrUHZXWmNLWFYzUVlNUE1uTG1xYk5EUDFHQkVsSlJFcHhDN3BTM0dWcnp6MVNOc1VUbFB1ZUJMYzhMenJRNkRkeS1maTlYNGozbEthVW1B?oc=5",
+      "description": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility PR Newswire",
+      "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     }
   ]
 }
