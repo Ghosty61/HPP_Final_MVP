@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T20:48:55.357871+00:00",
+  "updated": "2026-07-18T22:50:06.390915+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -35,6 +35,13 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUpKZWZ0ZHRkQW44cVp6bGxMYlNHcGR4QW5CekYwN1hvZXRlQk9lRmlTQk9FN3FSdGN2Q3Vvbm9oa0Y0QVB0S1UyUHYtc0d4VUt2WklsU1kwejg0X01NZGFBTjEwaG4wZUNzNGhGZWlqUkdtU0ZtT0doa0R5OVdKYTVaRW9pYnRZMXRkam0xQ0FrMlRzdFJTcE9yNUZfLVBF?oc=5",
       "description": "The Lettuce Brand Tied To The Cyclosporiasis Outbreak Is No Stranger To Controversy And Recalls Tasting Table",
       "pubDate": "Fri, 17 Jul 2026 22:55:32 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "US restaurant chains hit by foodborne illness outbreaks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYUdvcWozQmFvZk96QUMyazVaNjBzRE5BZUhsdFNxNW1HYld1NHZNc1NTSnZERXlVaE1kNlV5R3BidEJjcGZOcHNRVGxzY0h2VWp1dVRlclJvcWFURFZYN2poRHNjRFFMVWJFdllWRjhvRUN5eUktd05wT04xRXVEMGpySUpvS2lNNXNzd1BkenlCR3NvSlQ2V2E5S2x6XzBpelFxS0dhQmtCVDBf?oc=5",
+      "description": "US restaurant chains hit by foodborne illness outbreaks Reuters",
+      "pubDate": "Fri, 17 Jul 2026 18:11:43 GMT"
     },
     {
       "source": "EU HPP & Food Tech",
@@ -107,13 +114,6 @@
       "pubDate": "Sat, 11 Jul 2026 03:55:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Cucumber recall linked to salmonella outbreak: What to know - Motherly",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kTXhyb3BNWFJKLW5abGtBNEJtTF9lWmo1Tm5lN19DbWZpUWFzd3JPVUcxUUtzejBFSmJhWTZEc1BuMzR2NWplTHc0c2U5cW1lYlFFNjJCT2pTZGgzdEdMcnotOEtMcVZrTTZFX0xWdHpQUGZhWUdmdFd2SVc?oc=5",
-      "description": "Cucumber recall linked to salmonella outbreak: What to know Motherly",
-      "pubDate": "Fri, 10 Jul 2026 04:34:01 GMT"
-    },
-    {
       "source": "Food Safety UK & EU",
       "title": "M&S recall warning over disease-causing bacteria that can lead to meningitis - Oxford Mail",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaks4RjRDNU9SRUlkeThHQnlvRGp1MEJBNGRUUFFVS3p0WWRXNmw1ZUtDUGRwLWE1YXZfRW02NDB1SzBseHpnQ210TmVsQ0dYUUVMSnpIUHlvY29TUGYybV93WW85XzVFT1BrdEFLcTdHT242b3Flc2VGOFNhSEpYWC1DZjZzVE9YeTd5cmZqeDYzMU81YWhJVzJsOTMxZWRkVkl0VmlldVViYXZu?oc=5",
@@ -177,13 +177,6 @@
       "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "Cottage cheese recalled in connection with deadly Listeria outbreak - foodsafetynews.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkNvc2dEejNjNHd6TFhBQ3AtaWZQanc1bTlnaHBHZ2xwLUFSZ19La1RaVGctSTZhMGZWMXV0Z1hIT3k4Q1F2WU9XRFg0dnFMWGJLd05nWHRobE5Pa1NnWk0ycWltWmtPeFQzWDRkY2xtcWFpOTk5a3NKOWVOZWd4WkEtNTRPbjE2dWFuMy1Xd1ZiaUVNc2E0anR2a0FaNUZDOEV3MHdNNXdyTWc?oc=5",
-      "description": "Cottage cheese recalled in connection with deadly Listeria outbreak foodsafetynews.com",
-      "pubDate": "Sun, 28 Jun 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Seafood",
       "title": "Study finds potential links between virus found in aquaculture and human eye disease - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOLWF3WXE3Yy1tZi0tSjF3WlVYWlNsalJnOU11Rlk2dm90V3AwamdXNU9jVV9yTkxzeE5pcm1lTlNzVjZ3c3AwWkdPM1VMSnVXRFdLbEZqZG55c0xhUE1kLUZsZlYzTV9vY2dXdDZoNnBTNHgwTzc1QXpyeEUwNTBZWUVud1Y2NXhwMnBjSzdoSHV5ckNxVG5fLXdpYS1vbGF2WHZwbkZPS3h4ZExxTlA4OWZsNmwySkxZSTRoVFozcVZJNGpJYWhFYkZkcmd2cmhxVWkwZW9KNmNoQndwQ3dPbEpBVXNxT0VqLW56ZzgwYXlKM2ZuMXFZ?oc=5",
@@ -224,6 +217,13 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGNnaExYaDZIa3BFcnRyZGJxODFSSHFWTTFSTk5fNUNqbHJsbFVEbVloWVZYdUhMakFTZmloTnpacGI4N3c3c2lUcS1HcjhRTG1aTU81UmZIQVRRMWZqSk9QYUhfUjJ5RENGaVQ0clRfd0NoenlLNk1IdXdzRlBpZlNR?oc=5",
       "description": "Why Trader Joe's Was Once Sued Over Juice Tasting Table",
       "pubDate": "Sun, 17 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Snack mixes, pizzas, chips and more potentially contaminated with salmonella | Here's a list - KCRA",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uaWxvYU53am9FSC1UOHhJQ2FjN0ZhR3lMMlNFLTZ3THZ0YURWZ1p1bnZYX3d6czRtSDNSVmZmMFVFazNvLWpvb2x6a2Q5aFZUODNOY1pkMU5GNmd4SXJUT2RCbDFPVUJzanl4aWJ4ZHo2Zmo3R1hnRGN3NHFxZ2c?oc=5",
+      "description": "Snack mixes, pizzas, chips and more potentially contaminated with salmonella | Here's a list KCRA",
+      "pubDate": "Tue, 12 May 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
