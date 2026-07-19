@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-18T22:50:06.390915+00:00",
+  "updated": "2026-07-19T02:45:01.052635+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "FDA confirms that Taylor Farms lettuce is contaminated with parasite behind massive outbreak",
+      "link": "https://www.foodsafetynews.com/2026/07/fda-confirms-that-taylor-farms-lettuce-is-contaminated-with-parasite-behind-massive-outbreak/",
+      "description": "The recalled lettuce was distributed to Walmart stores in at least 15 states, as well as food service operations in 27 states.",
+      "pubDate": "Sun, 19 Jul 2026 01:40:01 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Publisher’s Platform: The Largest Foodborne Outbreaks of the Last Fifty Years. Now Count the Sick with Cyclospora in Michigan.",
@@ -65,13 +72,6 @@
       "pubDate": "Thu, 16 Jul 2026 04:03:12 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Salmonella outbreak reported in relation to July 4th event in Yakima",
-      "link": "https://www.foodsafetynews.com/2026/07/salmonella-outbreak-reported-in-relation-to-july-4th-event-in-yakima/",
-      "description": "The Yakima Health District in Washington is investigating 10 confirmed and suspected cases of Salmonella infection among individuals who reported eating food at the Fourth of July event hosted by Imperial&#x2019;s Garden located at 4817 Lateral A Road, Wapato, WA 98951.&#xA0; This event was not related to",
-      "pubDate": "Thu, 16 Jul 2026 01:57:31 GMT"
-    },
-    {
       "source": "UK Food Industry",
       "title": "CAFRE student scoops success with Dale Farm placement - Department of Agriculture, Environment and Rural Affairs",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY3VtQjF6bjdGNWluREU0S1dBbEJ4cGlkb3VJZHRvWmFFRkd4cmVDZWlCbkVCVEdJZWRzSThEbkwydXBBNHo1TXN2amUtdEhYU1RLUWY0aldKdU8zVDdidnFIWXV6b3owTVdUVnJwU1pYUDhZbmp1YWEtOU9ELUVqZWVvSjVHNVZI?oc=5",
@@ -112,6 +112,13 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT2ttSXdHM0NzTE5yZnBjdHZMazMtR3N4T0FhUzc3QjJ6bjBOeFYtemwyM3VhRTdFcGVVOHhoMFdoOGFrdGZxSXloUmlueWtleFBZelFwbVRDZi1WX3R0X0VLWjlWUHRGY0pDRGZwd1ZyRFhZak42M25aWnlFbFlEWXNfQdIBiAFBVV95cUxQemh6MVdJU0d2Z3AwTHlIVk5WQ0xVdkoxVE1ibnNZMk5Gd0s5WUxqNVd6a3ZqTjBCdWZzYXQxcmNZYlRkVlgxaHpQU1hkUnhVeFpTS3ZkbUtRX1FyVUNuZTNVRTZoQW11OHgyYXJEam5CUlVGX2xDMzh4X2RFZ3p2eVhHcXdzcFYx?oc=5",
       "description": "M&S, Tesco and Lidl issue 'do not eat' food poisoning warnings — full list Wales Online",
       "pubDate": "Sat, 11 Jul 2026 03:55:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Cucumber recall linked to salmonella outbreak: What to know - Motherly",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kTXhyb3BNWFJKLW5abGtBNEJtTF9lWmo1Tm5lN19DbWZpUWFzd3JPVUcxUUtzejBFSmJhWTZEc1BuMzR2NWplTHc0c2U5cW1lYlFFNjJCT2pTZGgzdEdMcnotOEtMcVZrTTZFX0xWdHpQUGZhWUdmdFd2SVc?oc=5",
+      "description": "Cucumber recall linked to salmonella outbreak: What to know Motherly",
+      "pubDate": "Fri, 10 Jul 2026 04:34:01 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -217,13 +224,6 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGNnaExYaDZIa3BFcnRyZGJxODFSSHFWTTFSTk5fNUNqbHJsbFVEbVloWVZYdUhMakFTZmloTnpacGI4N3c3c2lUcS1HcjhRTG1aTU81UmZIQVRRMWZqSk9QYUhfUjJ5RENGaVQ0clRfd0NoenlLNk1IdXdzRlBpZlNR?oc=5",
       "description": "Why Trader Joe's Was Once Sued Over Juice Tasting Table",
       "pubDate": "Sun, 17 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Snack mixes, pizzas, chips and more potentially contaminated with salmonella | Here's a list - KCRA",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uaWxvYU53am9FSC1UOHhJQ2FjN0ZhR3lMMlNFLTZ3THZ0YURWZ1p1bnZYX3d6czRtSDNSVmZmMFVFazNvLWpvb2x6a2Q5aFZUODNOY1pkMU5GNmd4SXJUT2RCbDFPVUJzanl4aWJ4ZHo2Zmo3R1hnRGN3NHFxZ2c?oc=5",
-      "description": "Snack mixes, pizzas, chips and more potentially contaminated with salmonella | Here's a list KCRA",
-      "pubDate": "Tue, 12 May 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
