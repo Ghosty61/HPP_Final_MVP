@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T18:02:52.841923+00:00",
+  "updated": "2026-07-20T21:11:58.889387+00:00",
   "articles": [
     {
       "source": "Hiperbaric",
@@ -7,13 +7,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOMHNRVC1weFotdHdRUFZOQVhSbXotSHNxZWEwQmxpWV9vbEFxYzh0cnBQT2NzV0t0eUtUSXZHVG9Jdjg4SnYwWmZ2RVJvNTVjSjJRNFlKSU1SX2ZLVWw4VGpWWkhidmQ5X05XX1FqVXZ3elFDaTBYSVcyNXg5c0hSblNDcS11aHR0Rk14MkFOME0xU0RSelJlNDBaeDEwOW5tcldsd1FoYWhLOWVKZTRNZUdBdWc3SnpYcDBCclJtS241Tm9uNHotVG9CTC14ZXRnWXRTSGc1ZG5lN0Q5YUpCakpzSDdPMzdwWVhDZDVtV2hjY1g3X2ZyNnJKTVlQWnRuRnFBYzUtNzg0RkR0Wkp1LXJQdWlQdw?oc=5",
       "description": "Universal Pure Expands Northeast High Pressure Processing (HPP) Capacity with the Acquisition of a Hiperbaric 525i from a Regional HPP Provider PRWeb",
       "pubDate": "Mon, 20 Jul 2026 12:35:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Taylor Foods Recalls All Iceberg Lettuce from Mexico For Cyclospora - Food Poisoning Bulletin",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN0tNa3A5WXRrZUtIdko1Y3ZBUi0zZEljeC01UWNQOFVpS2MyRHVfclAzV3hkYnZYdlgxQ2NRbXRFeHBaajQ4OUlodkhiV3FUdXJHbjZ0WlVBVm1Ic2xwUWFxRmpxQkpWUEdqX0NHNWZ0dHhZNUphdFlPNmJkT21CY0EzczhpWll5RFBFYTVjTy1IdklnY1NqV0xIeUQwTmFuVDB1QTVSS3RWVmM?oc=5",
-      "description": "Taylor Foods Recalls All Iceberg Lettuce from Mexico For Cyclospora Food Poisoning Bulletin",
-      "pubDate": "Mon, 20 Jul 2026 08:55:55 GMT"
     },
     {
       "source": "HPP Meat & Deli",
@@ -49,6 +42,13 @@
       "link": "https://www.foodsafetynews.com/2026/07/publishers-platform-the-largest-foodborne-outbreaks-of-the-last-fifty-years-now-count-the-sick-with-cyclospora-in-michigan/",
       "description": "Fifty years of outbreaks and the pattern does not move. We find out how big it was afterward, from a journal article, years later, when it is too late for the rule to matter and too late for the family.",
       "pubDate": "Sat, 18 Jul 2026 15:41:37 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Mogo Moringa Salmonella Outbreak Ends With 34 Sick - Food Poisoning Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb29aLWlWZDVDR2p6WUpSZWFzT2VvUmpVb1pRd2JuT09FWDhyZVNCOEp0Q3JrbEtsRFo3MGRMQjdOQ0tDU2l0akZucE9mR0E4WElrNjhpblFkZzMtTGc0U3Y1VlJmUTZVT1lfNkwybFdCWlFCOVUyTnBYa1hwRVh1RldMMTZYUFExUnVQSFN0RXE3Vjk3?oc=5",
+      "description": "Mogo Moringa Salmonella Outbreak Ends With 34 Sick Food Poisoning Bulletin",
+      "pubDate": "Sat, 18 Jul 2026 13:42:11 GMT"
     },
     {
       "source": "Food Safety News",
@@ -163,17 +163,17 @@
       "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
     },
     {
+      "source": "HPP Equipment & Machines",
+      "title": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 - Fortune Business Insights",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaExyNHUyeE9rM0ZPN2dtQk0yMzllUTFZQnBYMnE5SkxXZGpLVlZwTk54eWY2eFF6S3RZWFFUcUR1Yjk5WXVaUGRIQV8zN2d4Y2doUzNPM1RiVkxjdy0yNDExTV9pN1hybUpYbE1iSU5pcnlMcUN0TGZJTUZpc28yR2VEU1M0M0dGc0k2a2lUVjcwQS1OZlFB?oc=5",
+      "description": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 Fortune Business Insights",
+      "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
+    },
+    {
       "source": "Listeria Outbreaks",
       "title": "Investigation Update: Listeria Outbreak, June 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeURCSzJmTjhpWEttM0RXTC1fcmtWZHkxeGk5Q2lheTdneWhwMW1KaHYyamVLeWNnYVhROW1lcm1QMWFzZzZhdmtIcHhVTDFjekVkakhwcVpaMTgtOWFERE1QYUNFOUwwQUc2OW5ITldOVXRLRW5MbWluZ2Y0WXRtNA?oc=5",
       "description": "Investigation Update: Listeria Outbreak, June 2026 Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Dairy",
-      "title": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 - Fortune Business Insights",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaExyNHUyeE9rM0ZPN2dtQk0yMzllUTFZQnBYMnE5SkxXZGpLVlZwTk54eWY2eFF6S3RZWFFUcUR1Yjk5WXVaUGRIQV8zN2d4Y2doUzNPM1RiVkxjdy0yNDExTV9pN1hybUpYbE1iSU5pcnlMcUN0TGZJTUZpc28yR2VEU1M0M0dGc0k2a2lUVjcwQS1OZlFB?oc=5",
-      "description": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 Fortune Business Insights",
       "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
     },
     {
@@ -231,13 +231,6 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWNONmEzaEdyVzkzNFlZUnI2SlpIR01YQ0lTdzJ3TFN6N0lzSEs0OTBseHhLSXRaVGhkSERSVDlnWHY3bDBZRjhTWjlZVW1CNmJmcjFaRkgweUdVdC16TGFLcUZVU3NXOTM4MWZ6bENIUE9TWmFEMlJfTTZuMXFiRXRaOTM?oc=5",
       "description": "High pressure food processing access expanded for local businesses University of Hawaii System",
       "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Healthcare & Medical",
-      "title": "Growing Industrial Applications Expand Scope of Isostatic Pressing Technologies - MarketsandMarkets",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbjhfQXRKR2YwV0xTc0l2MjRnUU1rVUZHZU9JYWcwWExUOFNXM0JPT3hhQjVFTUZLa24xM3F5dU9mYU1YeHFjYXVPRnk3N1Z5ekFjcm01TWVvbTJnTHZVaTFYUE5Id3JEWlVoMUxKc2dUTTh5M1htTjdhWEE2U3QyYm9LNVNxbGhLSU9LQTFMdw?oc=5",
-      "description": "Growing Industrial Applications Expand Scope of Isostatic Pressing Technologies MarketsandMarkets",
-      "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -338,18 +331,25 @@
       "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "Europe Healthy Food Market Size, Share, Growth | Report 2035 - Market Research Future",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc2swRjZ3SHE2NDk4djRnUUdEOXhvb2hQYjlwTC11bUFJcjdEUXVBbFB5eW5Tb00yUmZYQVNFdmduWndOZnZrX1pNcjYwNmdRSXQwQlFzYzBoRzk0UlFjYl9GZHlYcU9iZElTSWxEQWE1cjI1TktzNDY2cHdYd0dDbXVERQ?oc=5",
-      "description": "Europe Healthy Food Market Size, Share, Growth | Report 2035 Market Research Future",
-      "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Seafood",
       "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
       "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
       "pubDate": "Tue, 31 Mar 2026 09:53:10 GMT"
+    },
+    {
+      "source": "Hiperbaric",
+      "title": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation - Food and Drink Technology",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZEJqUEI0WkJVVHhkX3M5ek9hYUp6Tnh1R1hWLWhLY2c2bWEzOEFNcXJhY016UDdMS0EtZFRnRWtxTElEcGdxX0RETWwzV3FsemRrdVFXQ1JWLW5oLXhVNW95a3JsNjRCWldTVEtIcnpSc05ZSDY3a3VhX092QXhKRldyNFJWemRjbU5Md0Z0eFRXQzk1eU5mbVgwbDFBazg0ekNuek9OYkowY2pvX1NBSGtoekZURTRBZUN6N1dtZk5nSEE?oc=5",
+      "description": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation Food and Drink Technology",
+      "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Dairy",
+      "title": "Impact of processing techniques on donor human milk: a multi-omics and bioinformatics scoping review - Frontiers",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNW1tRzNnV0tmMUNMdHJuQkdTYThyV2I1RkROYTFkWXNjMTVCRDNzX1JLbG9MWGF5N204dzB1MVRweVY2MUZJM2l3TVB2R0RXYVJkYVZ1bVdDUEtVV0VxX190eEtzY1FzQ2ZCWGhNN1BCclZMMG1xZVpTWjJiT05KTmhwSFpkbnE1ZDFBZFhCYw?oc=5",
+      "description": "Impact of processing techniques on donor human milk: a multi-omics and bioinformatics scoping review Frontiers",
+      "pubDate": "Thu, 26 Feb 2026 12:53:13 GMT"
     }
   ]
 }
