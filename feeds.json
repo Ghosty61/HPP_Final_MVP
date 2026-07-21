@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-21T02:42:50.066712+00:00",
+  "updated": "2026-07-21T06:27:53.183933+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Patient count in Cyclospora outbreak grows by more than 1,000",
+      "link": "https://www.foodsafetynews.com/2026/07/patient-count-in-cyclospora-outbreak-grows-by-more-than-1-000/",
+      "description": "Taylor Farms has recalled all of its iceberg lettuce products sourced from central Mexico.",
+      "pubDate": "Tue, 21 Jul 2026 04:04:37 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Dried meat behind Australian Salmonella outbreak",
+      "link": "https://www.foodsafetynews.com/2026/07/dried-meat-behind-australian-salmonella-outbreak/",
+      "description": "This is part 1 of a 3-part series. An unlicensed meat producer and poor hygiene at a restaurant played a role in a Salmonella outbreak in an Australian state, according to researchers. Salmonella&#xA0;Reading is uncommon in Australia with a range of 102 to 137 notifications per year",
+      "pubDate": "Tue, 21 Jul 2026 04:02:57 GMT"
+    },
     {
       "source": "Hiperbaric",
       "title": "Universal Pure Expands HPP Capacity in Northeast - Food & Beverage Magazine",
@@ -18,7 +32,7 @@
     {
       "source": "HPP Meat & Deli",
       "title": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors - Process and Control Today",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSVdrU1BDVzU3UW1JZ215S2YtcHhRdE11dnNjUjNKeGVyVTk5a2gzSzNSQm9lNHFodGpKekFiTDBpRTlqLVM1aHRPaWFNNTM2XzRHbWgtbTBDeHBVRk43bDRTcjN0U2psNmhFYzY3MzlzVFdJRHkxajZkcHI2VUx4MUh5NDdRWHlpeUtCYkR2eWZQTVdrN1pfb0wtcXhhMGtLSy1KZzA5Q3BiMjJONkNvbWZzVldLS2lqRng0d1o0NDE0Rk42bzRkY1lpcXk3d3dzSUlaY01CdFJrWTdXQ3hNSVFn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTjdJazFfaWNnRVd4aWktdk8wQk9Jd3I3OVVOUDEyU3oxblFnSXo2ZTQxYWVlSmV1Ym1sMmVLbXZSUjFuN1EzalpwOW50dGxFMTZFNS16cTlDNzB2bEhGSkk5cUpoc2x3R2N2eXZsTWN0cGhERGpmWTJKdmRSUG9VQ2V5NFk0U0Rta0lKYXRnSUNDaFZIUldYOG5wa2dReG4zUmhGbzhKeEMyWkNXakgwTnlaenFKMTVPcFVDamE5Wmx2VXM1MDFpNnJJNlMya1IyVXI3Q01ZZE5Ha3dPSy1sMVlDSQ?oc=5",
       "description": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors Process and Control Today",
       "pubDate": "Mon, 20 Jul 2026 05:43:24 GMT"
     },
@@ -44,25 +58,11 @@
       "pubDate": "Sun, 19 Jul 2026 01:40:01 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Publisher’s Platform: The Largest Foodborne Outbreaks of the Last Fifty Years. Now Count the Sick with Cyclospora in Michigan.",
-      "link": "https://www.foodsafetynews.com/2026/07/publishers-platform-the-largest-foodborne-outbreaks-of-the-last-fifty-years-now-count-the-sick-with-cyclospora-in-michigan/",
-      "description": "Fifty years of outbreaks and the pattern does not move. We find out how big it was afterward, from a journal article, years later, when it is too late for the rule to matter and too late for the family.",
-      "pubDate": "Sat, 18 Jul 2026 15:41:37 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
       "title": "Mogo Moringa Salmonella Outbreak Ends With 34 Sick - Food Poisoning Bulletin",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb29aLWlWZDVDR2p6WUpSZWFzT2VvUmpVb1pRd2JuT09FWDhyZVNCOEp0Q3JrbEtsRFo3MGRMQjdOQ0tDU2l0akZucE9mR0E4WElrNjhpblFkZzMtTGc0U3Y1VlJmUTZVT1lfNkwybFdCWlFCOVUyTnBYa1hwRVh1RldMMTZYUFExUnVQSFN0RXE3Vjk3?oc=5",
       "description": "Mogo Moringa Salmonella Outbreak Ends With 34 Sick Food Poisoning Bulletin",
       "pubDate": "Sat, 18 Jul 2026 13:42:11 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Company admits its lettuce is cause of Cyclospora outbreak",
-      "link": "https://www.foodsafetynews.com/2026/07/company-admits-its-lettuce-is-cause-of-cyclospora-outbreak/",
-      "description": "The FDA and CDC say the illnesses in the outbreak — reported from Indiana, Kentucky, Michigan, Ohio, and West Virginia — represent only a portion of Cyclospora infections currently under investigation and involve only one of several outbreaks.",
-      "pubDate": "Fri, 17 Jul 2026 23:46:21 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -212,13 +212,6 @@
       "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "Food Ingredients Market Size, Share | Growth Forecast [2034 - Fortune Business Insights",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rSkdQWE93bDdDc2ZENzA0a1Vud1BFbTctT0U3NjJZcWFRTThVN1J3U3ZrVzRQbTRwNVhfS2FveUc1TG56NlJSbFluaWt6bXNBdU5FRmxEejVpYlFLejBfZEhxUHZlcEM3emlNMXN4NVR0S3cycFkxY19B?oc=5",
-      "description": "Food Ingredients Market Size, Share | Growth Forecast [2034 Fortune Business Insights",
-      "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Seafood",
       "title": "Study finds potential links between virus found in aquaculture and human eye disease - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOLWF3WXE3Yy1tZi0tSjF3WlVYWlNsalJnOU11Rlk2dm90V3AwamdXNU9jVV9yTkxzeE5pcm1lTlNzVjZ3c3AwWkdPM1VMSnVXRFdLbEZqZG55c0xhUE1kLUZsZlYzTV9vY2dXdDZoNnBTNHgwTzc1QXpyeEUwNTBZWUVud1Y2NXhwMnBjSzdoSHV5ckNxVG5fLXdpYS1vbGF2WHZwbkZPS3h4ZExxTlA4OWZsNmwySkxZSTRoVFozcVZJNGpJYWhFYkZkcmd2cmhxVWkwZW9KNmNoQndwQ3dPbEpBVXNxT0VqLW56ZzgwYXlKM2ZuMXFZ?oc=5",
@@ -238,20 +231,6 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWNONmEzaEdyVzkzNFlZUnI2SlpIR01YQ0lTdzJ3TFN6N0lzSEs0OTBseHhLSXRaVGhkSERSVDlnWHY3bDBZRjhTWjlZVW1CNmJmcjFaRkgweUdVdC16TGFLcUZVU3NXOTM4MWZ6bENIUE9TWmFEMlJfTTZuMXFiRXRaOTM?oc=5",
       "description": "High pressure food processing access expanded for local businesses University of Hawaii System",
       "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Healthcare & Medical",
-      "title": "Growing Industrial Applications Expand Scope of Isostatic Pressing Technologies - MarketsandMarkets",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbjhfQXRKR2YwV0xTc0l2MjRnUU1rVUZHZU9JYWcwWExUOFNXM0JPT3hhQjVFTUZLa24xM3F5dU9mYU1YeHFjYXVPRnk3N1Z5ekFjcm01TWVvbTJnTHZVaTFYUE5Id3JEWlVoMUxKc2dUTTh5M1htTjdhWEE2U3QyYm9LNVNxbGhLSU9LQTFMdw?oc=5",
-      "description": "Growing Industrial Applications Expand Scope of Isostatic Pressing Technologies MarketsandMarkets",
-      "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "2026 North East Scotland Food and Drink Award winners announced - Aberdeen & Grampian Chamber of Commerce",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVExmMTJNV3B0X3J1bzhOenhKVVdfTFVHVU1PdEZoZE5fcGc0ejNObHJ1Vnc5eTRDR1BHRjktOFdxSnFjOWFOeml2UDZDMTlvOGJaQk55VnhmXzZiRVlfa0Vabm9ldldjVzFOMGFoZ3FlUDM4aFJSeFB3eTh2dVdjZkdFbmliM1E4bjZiaDEyeXZ2cno1MzhPN1hSYnZVLXMz?oc=5",
-      "description": "2026 North East Scotland Food and Drink Award winners announced Aberdeen & Grampian Chamber of Commerce",
-      "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
@@ -303,13 +282,6 @@
       "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
-      "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
-      "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
-    },
-    {
       "source": "EU HPP & Food Tech",
       "title": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage - funcas.es",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BTaXhwYnBzVTdZSldMcFJKR2FSQl9JMFoxQ0VEdEg4NmFObGY0ZldMWHE5U3hVQk9RZm5icmJXWlhKRHVsQzZWNllzT0tNUlVRc25pTzZDclk4eGlsZ3k0cmlScktfRlNBRUt3eWJQdUhHemtOSXJjelk1WjFBTWVoSjBQV0oycHdXZS1BYy1hNmhRVEY1T0tXZUZRa2doa3NyMlZpR1dtYmx3dTlId2duX1M4UVlZbVlOY0FnMlNMbzFRMXk5dTFZdUV6SEhVc2hSdmVjWjFlRndSNzdVMllIcDY?oc=5",
@@ -350,6 +322,34 @@
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
       "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
       "pubDate": "Tue, 31 Mar 2026 09:53:10 GMT"
+    },
+    {
+      "source": "Hiperbaric",
+      "title": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria - Fuel Cells Works",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMWpFYUZveHVvay1yVVNMNWZxN0NDcnhEdnBvVDdueFBuZWhRVkticVM5andBeGtkc1ZBYzlBcmFGY0xHWGIzaF9UZVV5NUxsNjZ1ZkhHRV9TSk9fbzd0R1E2YXJCM2dMMWMtZmp5ZWxyb1FWRTRKWkV1WDN3WXlZeEg4TmwzUnc0ZDcxeWtWWDZuZ3NEOFJyZS1KNnJqdjFpOTZjVFlCNU8wcWpKdjNYM18yeDgzUUl4Qjl2MUVHUW8xc0Jzd2ZNZWxsNkwtYzExN04xTXktNUxaV05kcFdfMjVqTDNGZEhkaEFEMzJBaWFoam9zZjJ4LQ?oc=5",
+      "description": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria Fuel Cells Works",
+      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric EU",
+      "title": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation - Food and Drink Technology",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZEJqUEI0WkJVVHhkX3M5ek9hYUp6Tnh1R1hWLWhLY2c2bWEzOEFNcXJhY016UDdMS0EtZFRnRWtxTElEcGdxX0RETWwzV3FsemRrdVFXQ1JWLW5oLXhVNW95a3JsNjRCWldTVEtIcnpSc05ZSDY3a3VhX092QXhKRldyNFJWemRjbU5Md0Z0eFRXQzk1eU5mbVgwbDFBazg0ekNuek9OYkowY2pvX1NBSGtoekZURTRBZUN6N1dtZk5nSEE?oc=5",
+      "description": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation Food and Drink Technology",
+      "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Dairy",
+      "title": "Impact of processing techniques on donor human milk: a multi-omics and bioinformatics scoping review - Frontiers",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNW1tRzNnV0tmMUNMdHJuQkdTYThyV2I1RkROYTFkWXNjMTVCRDNzX1JLbG9MWGF5N204dzB1MVRweVY2MUZJM2l3TVB2R0RXYVJkYVZ1bVdDUEtVV0VxX190eEtzY1FzQ2ZCWGhNN1BCclZMMG1xZVpTWjJiT05KTmhwSFpkbnE1ZDFBZFhCYw?oc=5",
+      "description": "Impact of processing techniques on donor human milk: a multi-omics and bioinformatics scoping review Frontiers",
+      "pubDate": "Thu, 26 Feb 2026 12:53:13 GMT"
+    },
+    {
+      "source": "HPP Healthcare & Medical",
+      "title": "Duckweed Protein Benefits: Is This Aquatic Plant a Sustainable Superfood? - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUVPWXN3Sk4tNHFLMUtXZmFIUDJ2WFcyRjhuSVo2c2pxVHlCOWc2c1U1NThubHJNNXdkZlJzbFNEbmNYU2RhX3FrZ3lzRDJCVGRlMGdrdjJCX05lb3V6NEY3emtNWmJKV3Jhemgza25iZzFlWFh4NG1udC1xWjY5V2VfTko1ZEFJM3JoeUp5YzBOLUJpVkVPMGF2SVRVbHlmaUZ4Q050ZUxIaWRaQWVYR213?oc=5",
+      "description": "Duckweed Protein Benefits: Is This Aquatic Plant a Sustainable Superfood? News-Medical",
+      "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     }
   ]
 }
