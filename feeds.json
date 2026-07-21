@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T21:09:28.345434+00:00",
+  "updated": "2026-07-21T22:56:56.753348+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -70,6 +70,13 @@
       "link": "https://www.foodsafetynews.com/2026/07/fda-says-cyclospora-test-on-lettuce-from-taylor-farms-was-a-false-positive-outbreak-investigation-ongoing/",
       "description": "Thousands have been sickened in the outbreak and Taylor Farms continues to recall its shredded iceberg lettuce and salad kits containing iceberg lettuce.",
       "pubDate": "Mon, 20 Jul 2026 00:51:21 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "FDA Expands Cheese Recall Amid Deadly Listeria Outbreak - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBadFc5Y09xX2d2Zkg2LW84dE84SjJiM21nQkV4Y3JnZ0ZtMnZHcGFicHc2bGY4RlM5RThRVkdlYmZyOF9LNW5FRXMxOUdKYS1HUDVrWWktank5V1JIaXd0THRueWhibzBvN2xZVWxNaVdvZ01UZjdJZklaZEJuRWM?oc=5",
+      "description": "FDA Expands Cheese Recall Amid Deadly Listeria Outbreak AOL.com",
+      "pubDate": "Sat, 18 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -149,13 +156,6 @@
       "pubDate": "Wed, 08 Jul 2026 09:11:11 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "15 recent food, product recalls that may impact you - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTUpmWHBEaEdMem5tR0R6ZkhUdTZxUXBiNVppU1dSZ1MyVHBjWTRaenlFdmE1SFhlWVVkc0ZlU0ZTZktET3JNcVZjVTNPVkoyN3lRR1N3T29jQlR4SU80RE5waEg5bDdJNi03RGdwT0ZhNjRzRU1uT0VqUW1Nck8wdEJiSXdKMlhJaWpFc00zY0R0d9IBlwFBVV95cUxOT1lqVHB4dFBqY0habDlzdmlNSG5uUVJWVURkOVdNTzlrNDMwMTRjLU5raTBYTXNnMUUweDRYclM2UE9lZlpjLVBONWlCMFdxam5xQlY2QmdGc21LOVN1U18tSjNGNHRTenVYQW5YV0tpREpuS3NpUEphWEpwYXdJcW51M2dqVmJnbXlqVExrZDFtUTBxRUg0?oc=5",
-      "description": "15 recent food, product recalls that may impact you The Hill",
-      "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Dairy",
       "title": "GEA unveils new KOB high-pressure homogenisers for production plants - Dairy Business Middle East & Africa",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc3ZPMDhsOFBadmdfRmtXa3ZlVmtKMXJwMEs4OTh6NFVrLW00c2NDY2pweHVOMW9VTVYwYnQ0MnN6ODBfSGVuRlhSTnQtMEtVMEtaOGhtWXVGVzRLV2RNNWhaQks3cF8yaWl5dFJLbXU2TTJOTnUzdHRaZWRHSUZsTGNoMlZnR190YW9NcVJtLXY3SmczbUtHSDRsbUpxYTUxN3NuZHFVZzVfRE5wbUE?oc=5",
@@ -178,9 +178,9 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 202 - fda.gov",
+      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
-      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 202 fda.gov",
+      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
       "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
     },
     {
@@ -195,13 +195,6 @@
       "title": "Investigation Update: Listeria Outbreak, June 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeURCSzJmTjhpWEttM0RXTC1fcmtWZHkxeGk5Q2lheTdneWhwMW1KaHYyamVLeWNnYVhROW1lcm1QMWFzZzZhdmtIcHhVTDFjekVkakhwcVpaMTgtOWFERE1QYUNFOUwwQUc2OW5ITldOVXRLRW5MbWluZ2Y0WXRtNA?oc=5",
       "description": "Investigation Update: Listeria Outbreak, June 2026 Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Dehydrated Food Market Size, Share, Industry Trends, 2034 - Fortune Business Insights",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83bFh0UFduc3doT2FMOUt0VVZNcG8tOVdGX19NSWdKcmlQZHZpbUtDQ0loaXVlS2xfeWE1Vm1sUlhqR0ZPWF9MM0xORW1vWTQwZVNWbkhkZGlab1NGNHJiRGxWMTNsUmlQTmk1YW5HQnBiRjBzUVhaUg?oc=5",
-      "description": "Dehydrated Food Market Size, Share, Industry Trends, 2034 Fortune Business Insights",
       "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
     },
     {
@@ -245,20 +238,6 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWNONmEzaEdyVzkzNFlZUnI2SlpIR01YQ0lTdzJ3TFN6N0lzSEs0OTBseHhLSXRaVGhkSERSVDlnWHY3bDBZRjhTWjlZVW1CNmJmcjFaRkgweUdVdC16TGFLcUZVU3NXOTM4MWZ6bENIUE9TWmFEMlJfTTZuMXFiRXRaOTM?oc=5",
       "description": "High pressure food processing access expanded for local businesses University of Hawaii System",
       "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Healthcare & Medical",
-      "title": "Growing Industrial Applications Expand Scope of Isostatic Pressing Technologies - MarketsandMarkets",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbjhfQXRKR2YwV0xTc0l2MjRnUU1rVUZHZU9JYWcwWExUOFNXM0JPT3hhQjVFTUZLa24xM3F5dU9mYU1YeHFjYXVPRnk3N1Z5ekFjcm01TWVvbTJnTHZVaTFYUE5Id3JEWlVoMUxKc2dUTTh5M1htTjdhWEE2U3QyYm9LNVNxbGhLSU9LQTFMdw?oc=5",
-      "description": "Growing Industrial Applications Expand Scope of Isostatic Pressing Technologies MarketsandMarkets",
-      "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "2026 North East Scotland Food and Drink Award winners announced - Aberdeen & Grampian Chamber of Commerce",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVExmMTJNV3B0X3J1bzhOenhKVVdfTFVHVU1PdEZoZE5fcGc0ejNObHJ1Vnc5eTRDR1BHRjktOFdxSnFjOWFOeml2UDZDMTlvOGJaQk55VnhmXzZiRVlfa0Vabm9ldldjVzFOMGFoZ3FlUDM4aFJSeFB3eTh2dVdjZkdFbmliM1E4bjZiaDEyeXZ2cno1MzhPN1hSYnZVLXMz?oc=5",
-      "description": "2026 North East Scotland Food and Drink Award winners announced Aberdeen & Grampian Chamber of Commerce",
-      "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
@@ -317,18 +296,18 @@
       "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
-      "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
-      "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
-    },
-    {
       "source": "EU HPP & Food Tech",
       "title": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage - funcas.es",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BTaXhwYnBzVTdZSldMcFJKR2FSQl9JMFoxQ0VEdEg4NmFObGY0ZldMWHE5U3hVQk9RZm5icmJXWlhKRHVsQzZWNllzT0tNUlVRc25pTzZDclk4eGlsZ3k0cmlScktfRlNBRUt3eWJQdUhHemtOSXJjelk1WjFBTWVoSjBQV0oycHdXZS1BYy1hNmhRVEY1T0tXZUZRa2doa3NyMlZpR1dtYmx3dTlId2duX1M4UVlZbVlOY0FnMlNMbzFRMXk5dTFZdUV6SEhVc2hSdmVjWjFlRndSNzdVMllIcDY?oc=5",
       "description": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage funcas.es",
       "pubDate": "Wed, 29 Apr 2026 08:10:47 GMT"
+    },
+    {
+      "source": "HPP Healthcare & Medical",
+      "title": "Universal Pure Data Breach Investigation - Claim Depot",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13VVNMeWdmelE4RVMweHdGb3pGeDJWZUpZc0hDejV3V2ZBX3BEWGZTejc0YjE1aHhPaGhCajdZb0szM0JEWW9nbV93a2phQVI3bWUyeXpCcEstdXlYZzZKcjM0dFN4RDJFQWJxZjN5UE85clN3dENnYTdWTmxmUQ?oc=5",
+      "description": "Universal Pure Data Breach Investigation Claim Depot",
+      "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Equipment & Machines",
@@ -350,6 +329,27 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwOGlERG4xYjVDcVBveVZhbkVfY0gyQ0hXVnN1YjJ5Ni1kSTVhaFVMRllncmc2ZUFiWDhoVHRxRW82S0tMeHEtZEF5TVVlQ2NYZjI5TTZJMnByNmI4ZUkyQnZUcU1mT1lwd3RYU3B0LVh5WFFvR3c?oc=5",
       "description": "Food Tech Market Size, Share, Industry Trends, Analysis 2035 Market Research Future",
       "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Seafood",
+      "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
+      "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
+      "pubDate": "Tue, 31 Mar 2026 09:53:10 GMT"
+    },
+    {
+      "source": "Hiperbaric",
+      "title": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria - Fuel Cells Works",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMWpFYUZveHVvay1yVVNMNWZxN0NDcnhEdnBvVDdueFBuZWhRVkticVM5andBeGtkc1ZBYzlBcmFGY0xHWGIzaF9UZVV5NUxsNjZ1ZkhHRV9TSk9fbzd0R1E2YXJCM2dMMWMtZmp5ZWxyb1FWRTRKWkV1WDN3WXlZeEg4TmwzUnc0ZDcxeWtWWDZuZ3NEOFJyZS1KNnJqdjFpOTZjVFlCNU8wcWpKdjNYM18yeDgzUUl4Qjl2MUVHUW8xc0Jzd2ZNZWxsNkwtYzExN04xTXktNUxaV05kcFdfMjVqTDNGZEhkaEFEMzJBaWFoam9zZjJ4LQ?oc=5",
+      "description": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria Fuel Cells Works",
+      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric EU",
+      "title": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation - Food and Drink Technology",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZEJqUEI0WkJVVHhkX3M5ek9hYUp6Tnh1R1hWLWhLY2c2bWEzOEFNcXJhY016UDdMS0EtZFRnRWtxTElEcGdxX0RETWwzV3FsemRrdVFXQ1JWLW5oLXhVNW95a3JsNjRCWldTVEtIcnpSc05ZSDY3a3VhX092QXhKRldyNFJWemRjbU5Md0Z0eFRXQzk1eU5mbVgwbDFBazg0ekNuek9OYkowY2pvX1NBSGtoekZURTRBZUN6N1dtZk5nSEE?oc=5",
+      "description": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation Food and Drink Technology",
+      "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT"
     }
   ]
 }
