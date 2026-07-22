@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-22T17:19:19.831281+00:00",
+  "updated": "2026-07-22T19:19:41.894359+00:00",
   "articles": [
+    {
+      "source": "UK Food Industry",
+      "title": "Handtmann marks 40 years of UK innovation - Food Manufacture",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkZPZExqWkhlWTBHaTVhckFISWlDaTNLVDhGZ0pNSGxBUDJ0SngySFF3YmtZUk1UaGltVm81MHU5TEpuZlNZdnVmRGw5NWcwcjJ1NzF3OGdLUTl5VEVzUTdqYTRpbEJyd1N5NnhkdmIxQ1U1bTExaElzX01FSnNNVDZR?oc=5",
+      "description": "Handtmann marks 40 years of UK innovation Food Manufacture",
+      "pubDate": "Wed, 22 Jul 2026 11:26:12 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Health departments post more infections in Cyclospora outbreak linked to Taylor Farms lettuce",
@@ -66,10 +73,10 @@
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "The Lettuce Brand Tied To The Cyclosporiasis Outbreak Is No Stranger To Controversy And Recalls - Tasting Table",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUpKZWZ0ZHRkQW44cVp6bGxMYlNHcGR4QW5CekYwN1hvZXRlQk9lRmlTQk9FN3FSdGN2Q3Vvbm9oa0Y0QVB0S1UyUHYtc0d4VUt2WklsU1kwejg0X01NZGFBTjEwaG4wZUNzNGhGZWlqUkdtU0ZtT0doa0R5OVdKYTVaRW9pYnRZMXRkam0xQ0FrMlRzdFJTcE9yNUZfLVBF?oc=5",
-      "description": "The Lettuce Brand Tied To The Cyclosporiasis Outbreak Is No Stranger To Controversy And Recalls Tasting Table",
-      "pubDate": "Fri, 17 Jul 2026 22:55:32 GMT"
+      "title": "FDA Expands Cheese Recall Amid Deadly Listeria Outbreak - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBadFc5Y09xX2d2Zkg2LW84dE84SjJiM21nQkV4Y3JnZ0ZtMnZHcGFicHc2bGY4RlM5RThRVkdlYmZyOF9LNW5FRXMxOUdKYS1HUDVrWWktank5V1JIaXd0THRueWhibzBvN2xZVWxNaVdvZ01UZjdJZklaZEJuRWM?oc=5",
+      "description": "FDA Expands Cheese Recall Amid Deadly Listeria Outbreak AOL.com",
+      "pubDate": "Sat, 18 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -233,6 +240,13 @@
       "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT"
     },
     {
+      "source": "HPP Seafood",
+      "title": "Study finds potential links between virus found in aquaculture and human eye disease - SeafoodSource",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOLWF3WXE3Yy1tZi0tSjF3WlVYWlNsalJnOU11Rlk2dm90V3AwamdXNU9jVV9yTkxzeE5pcm1lTlNzVjZ3c3AwWkdPM1VMSnVXRFdLbEZqZG55c0xhUE1kLUZsZlYzTV9vY2dXdDZoNnBTNHgwTzc1QXpyeEUwNTBZWUVud1Y2NXhwMnBjSzdoSHV5ckNxVG5fLXdpYS1vbGF2WHZwbkZPS3h4ZExxTlA4OWZsNmwySkxZSTRoVFozcVZJNGpJYWhFYkZkcmd2cmhxVWkwZW9KNmNoQndwQ3dPbEpBVXNxT0VqLW56ZzgwYXlKM2ZuMXFZ?oc=5",
+      "description": "Study finds potential links between virus found in aquaculture and human eye disease SeafoodSource",
+      "pubDate": "Thu, 18 Jun 2026 18:23:30 GMT"
+    },
+    {
       "source": "Food Safety UK & EU",
       "title": "🚨 A round up of some of the latest food and product recalls - facebook.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMklTa1B2RV9qU0ZkNTdOQzY0SWExRHVuSXZJZzctM3MxRTFkcmdKeVdYeEgyNTFDU3ZMSlAwQ1MzeWJXOFJoTnprZFRST3FhX2xoS2RTVHBVaGhpU3lhbkZXcWRjbEg0TGpkZkU2M3pnSGZSY3psdGVrMkJ5OEJaR1RaVHdLcklObnBMNTFuaVdYVDY2LUpoWmpwMHBNOGlyOURiTWYteWczQi1pSEk5TEhQNXRRZEZMOVE4QVFkNzNOaHZkb3RsVw?oc=5",
@@ -336,20 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQk1jc3Q0OS0ycTUwOFhaTmlydHFIc2xJeTJXdDl4cEZqR2djNDV0ZHJIV0JpMTNlSnVtVTUtb0ZLQW9xVHdDSmlkdzFPVnA1cjZhMXREVzFoNzZpMkpBRlF3TW5hWXVoSW9nbkk3WDFzRmluakFjRk1iaWlRa05nN3lsTDZXQnNvWFBmN21RdTRHZmpxOHBycHhiLUVObDd1dldkaFFIcWVBcm1CSTFQeEl5OHhoR3ZSYW82SWl5WQ?oc=5",
       "description": "Wenger and Extru-Tech Unite Under JBT Marel at Petfood Forum 2026 Business Wire",
       "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Food Tech Market Size, Share, Industry Trends, Analysis 2035 - Market Research Future",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwOGlERG4xYjVDcVBveVZhbkVfY0gyQ0hXVnN1YjJ5Ni1kSTVhaFVMRllncmc2ZUFiWDhoVHRxRW82S0tMeHEtZEF5TVVlQ2NYZjI5TTZJMnByNmI4ZUkyQnZUcU1mT1lwd3RYU3B0LVh5WFFvR3c?oc=5",
-      "description": "Food Tech Market Size, Share, Industry Trends, Analysis 2035 Market Research Future",
-      "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Food Processing Market Share, Size Forecast Till 2035 - Market Research Future",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05Mm03Zi14M3lJcjdVZTVKTV9qYUtTbnBYRjVHY2RNaVhmSFhld3JhcFN1R2NNcnZCNXBfWTBndTBWaVd3ZnA4LVdNRlRLTThld0ZQS2VsOWsxZ1I2cDE1SFFwSlozSnBBdTUyN0p6R2hBdGx2TERnek1najU?oc=5",
-      "description": "Food Processing Market Share, Size Forecast Till 2035 Market Research Future",
-      "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
     }
   ]
 }
