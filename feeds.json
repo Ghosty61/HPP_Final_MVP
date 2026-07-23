@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-23T15:59:18.249960+00:00",
+  "updated": "2026-07-23T17:40:32.438905+00:00",
   "articles": [
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Shell Eggs Recalled For Possible Salmonella Contamination - Food Poisoning Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeFlwbk43RXFtb2trbEhiZklobEFqc1lKLV9ZM251ZWRELVVlN1c0UHN6TVJDVkdLUzUzdWw0emlEUTU2TmFuU0NrWlpXb09IN1VNVmFYV0t6eUxrUW02MEZ4ZDlkYktmRmpwUmMwYU8tcjkwZGhJdXp6SGpsNGdQVG9COWh2OHdfQl9IY0t0NlZuTVhZT2lqcTdmdnRmdw?oc=5",
+      "description": "Shell Eggs Recalled For Possible Salmonella Contamination Food Poisoning Bulletin",
+      "pubDate": "Thu, 23 Jul 2026 14:48:41 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Netherlands records more than 1,000 outbreaks in 2025",
@@ -30,6 +37,13 @@
       "pubDate": "Thu, 23 Jul 2026 00:24:37 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "Is It Safe to Eat Lettuce? Here's What to Know About the Latest Recall - Good Housekeeping",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV2ZBRk94ZlozaUJYU2pXX2VGbWZCRzZ4RGpxZnRJZy1Hak9yOXJYZkU3VkV5Wm8yMDFWLVlFZWcwR3hTd2JIMTEyVVpLOEZ3RllYSmtfMzZjRlY2c3BJdEpTdHhlMDFvZ2ZNaFBjNEJFQ0VHbld4Njd5OXFfUGlRZHFB?oc=5",
+      "description": "Is It Safe to Eat Lettuce? Here's What to Know About the Latest Recall Good Housekeeping",
+      "pubDate": "Wed, 22 Jul 2026 18:56:00 GMT"
+    },
+    {
       "source": "UK Food Industry",
       "title": "Handtmann marks 40 years of UK innovation - Food Manufacture",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkZPZExqWkhlWTBHaTVhckFISWlDaTNLVDhGZ0pNSGxBUDJ0SngySFF3YmtZUk1UaGltVm81MHU5TEpuZlNZdnVmRGw5NWcwcjJ1NzF3OGdLUTl5VEVzUTdqYTRpbEJyd1N5NnhkdmIxQ1U1bTExaElzX01FSnNNVDZR?oc=5",
@@ -49,13 +63,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEpNajduOEpKZHpXM3lTSXBpenBudENhVWhRZVNFX1lOOTluUFBoV0VYbDdfakNlWDlod2hxYkY5ZE9heWw5T2VESXBQelpyOTB1V3lma2lUakhvcWxUOEM1UTYtcGRwREFxSHRGeXE2b1A4cDFzdlJvQVZQcjM1cGF6Vk14UXJvVmFRX3JYVUxRakkxRVAtUXFXNVBfbExuaFFVUA?oc=5",
       "description": "Investing in Food Safety is Investing in the Future of Food Food Safety Magazine",
       "pubDate": "Tue, 21 Jul 2026 14:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Zen Principle Moringa Capsules Recalled For Possible Salmonella - Food Poisoning Bulletin",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRk92aFMtQ0trR1lTbVZjcVFpTTBNeGNuSlFzdGpQSU41RmQ2dm5iX3pablVCck5uU0dKcnRoQUQ2OXVzeXMwa19TcERHQ0otZTctQWtnbEF5a2VxaEQ2cUJISlo2NE1tU21kS21hZmIzXy1nZ2xTbnpqeENtYW9rZGZvcmhjUEZxSzdCb0RxdVZKNGRZWVlYZzBTWl9RWWZhdFpsQzdB?oc=5",
-      "description": "Zen Principle Moringa Capsules Recalled For Possible Salmonella Food Poisoning Bulletin",
-      "pubDate": "Tue, 21 Jul 2026 13:44:04 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -101,17 +108,10 @@
     },
     {
       "source": "UK HPP Industry",
-      "title": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors - The Engineer",
+      "title": "Deli 24 boosts reliability with oil-free compressors - The Engineer",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbFYzSUNCVHQxSHhmR0RBWDNtZFNkMDZTU1FTYXlVSDI3OUtleGZBNy1wNVU4U1ViazJqcW9odzQyOGpqMUM5S2o5aHo3S2R1ZlVVZV9OMTJOaU51eGM2TUtEaEttQ3hUZHRsdWZ5d2Joc01mWmxKY01WSWo1TjYzcmNPWGdlVzU2djJBQ2JDdXVpRHRWV1ZvN2tKZ2UyVXZtU2ZDVS0wQm9NSjVGaFJ1b0lRUHlZOUcwbTZhcDZkS0txSTMxenNvR0RxYnhpUDF1Vl9kS0pZejktaVBPc1ZRMVVBaHVQTzZsY1VMVnZlVG1QeTNwWlpaT3Jn?oc=5",
-      "description": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors The Engineer",
+      "description": "Deli 24 boosts reliability with oil-free compressors The Engineer",
       "pubDate": "Wed, 15 Jul 2026 10:07:22 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "Tesco, Lidl and M&S deadly bacteria fears plus Co-op and Ocado urgent recalls - Manchester Evening News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzFEelYtYTB4S1RpSUdBSjNJYjVQZDdmREszZEo4MnZOTEtWUEp1YjR0ZkVBcGNEekViQVBZNEFDbEdCLTNldW96VXhTdUhwUkpKZkdPcDc5cU5fSi1FcVZ3d0duQzA2bDZMVVZlTHhIQUJoWkVwNU40WGJmNU5yY3NucGxKczBrek4yZXpiSnBUVknSAZgBQVVfeXFMTkRIWGt5bS1zcHhaSWVrVFp0cnBRMllGVVFoX2dFZ3JQOTQyZFp1Q09MV2pKSGVLckdDQlUxUW94bjl5bnlISUdrRHRxR1NUTEVZbVAxYXJIQ3R0RV9YUzFHVkZ5c3MyS1pMNHBkcThyQ2lWZTgyZkxzbmstclBjR1pjZnE5eXZhQjFxWnVkelhGdEZTdklJbUM?oc=5",
-      "description": "Tesco, Lidl and M&S deadly bacteria fears plus Co-op and Ocado urgent recalls Manchester Evening News",
-      "pubDate": "Sat, 11 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -192,17 +192,17 @@
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "FDA expands cheese recall over possible listeria contamination - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRXpiOEUwUXhDcnYtd0l1bC1XNU5fS1FzWmdtRi1QNGkxT1RnYzVuSHBjOFR1dFhoWFdkXzFlMjFMdlBjVWYxSVEwcXQwOEJlWjhLenBHS0Q0RTR3SmhCS0VNTmRUMEppVDBFUE5wckFpbl9IOWhwX2llenIybG5IeldUeWFaWVR40gGOAUFVX3lxTE8tY2RwYU93N1JRczIzcVVFMlRoUERUelBaaDlZeE0zZjlEZ3Axdmh4RlNBRFdvNnJNUmFQcC1jeEcwU0huN3hfMGRfWHVONDFvdDBXN3BkZjhsVGpVZVFnaU9tSTg4UXk5UmZqTkZzMDVBM21YU004NmNSMk5BNWd4SzlWS2M1R3ZFNmI5QkE?oc=5",
-      "description": "FDA expands cheese recall over possible listeria contamination NewsNation",
-      "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
       "title": "Cottage cheese recalled in connection with deadly Listeria outbreak - foodsafetynews.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkNvc2dEejNjNHd6TFhBQ3AtaWZQanc1bTlnaHBHZ2xwLUFSZ19La1RaVGctSTZhMGZWMXV0Z1hIT3k4Q1F2WU9XRFg0dnFMWGJLd05nWHRobE5Pa1NnWk0ycWltWmtPeFQzWDRkY2xtcWFpOTk5a3NKOWVOZWd4WkEtNTRPbjE2dWFuMy1Xd1ZiaUVNc2E0anR2a0FaNUZDOEV3MHdNNXdyTWc?oc=5",
       "description": "Cottage cheese recalled in connection with deadly Listeria outbreak foodsafetynews.com",
       "pubDate": "Sun, 28 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "Urgent food recalls from Tesco, Sainsbury's, Asda and Morrisons for possible salmonella - Manchester Evening News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM3VtR0gycGZzOVdOV09oUURQajNQV0tkeEtOQV9vZDd6VGdWWUVodVk1THptTDlyQmJ6b2lDS0kwRFc3S29sTVV1TWhZZ09RVnJEX3J5eXlOZjBQSlMtb0UtbzEtRDZMOE9iajhMN3c4dXZXNDMxeDlGUENkQndNV19UR2RiZ3VpcDBJc0xPcmZnQTjSAZgBQVVfeXFMT3k1b1Roem5DdzBORmFLVVB2NlJqeVNYYkRnbG4xRkJzWVR3VEQ5bHJSbHZlTy1kRFA1SlpMV2ctWTk3VVp1UmE1d19oUnBRSkh3T3pPOEYtOXFjLVhxaVRIV1lFLWt3UEFEdHEySXlEOHlEM1QtT0l0NWJhYWJwNG9UeW5sU1BRVm0teWdWT240VHdfTTMxcnQ?oc=5",
+      "description": "Urgent food recalls from Tesco, Sainsbury's, Asda and Morrisons for possible salmonella Manchester Evening News",
+      "pubDate": "Sat, 27 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Soups & Meals",
@@ -212,11 +212,11 @@
       "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Seafood",
-      "title": "Study finds potential links between virus found in aquaculture and human eye disease - SeafoodSource",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOLWF3WXE3Yy1tZi0tSjF3WlVYWlNsalJnOU11Rlk2dm90V3AwamdXNU9jVV9yTkxzeE5pcm1lTlNzVjZ3c3AwWkdPM1VMSnVXRFdLbEZqZG55c0xhUE1kLUZsZlYzTV9vY2dXdDZoNnBTNHgwTzc1QXpyeEUwNTBZWUVud1Y2NXhwMnBjSzdoSHV5ckNxVG5fLXdpYS1vbGF2WHZwbkZPS3h4ZExxTlA4OWZsNmwySkxZSTRoVFozcVZJNGpJYWhFYkZkcmd2cmhxVWkwZW9KNmNoQndwQ3dPbEpBVXNxT0VqLW56ZzgwYXlKM2ZuMXFZ?oc=5",
-      "description": "Study finds potential links between virus found in aquaculture and human eye disease SeafoodSource",
-      "pubDate": "Thu, 18 Jun 2026 18:23:30 GMT"
+      "source": "UK Food Industry",
+      "title": "Food Ingredients Market Size, Share | Growth Forecast [2034 - Fortune Business Insights",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rSkdQWE93bDdDc2ZENzA0a1Vud1BFbTctT0U3NjJZcWFRTThVN1J3U3ZrVzRQbTRwNVhfS2FveUc1TG56NlJSbFluaWt6bXNBdU5FRmxEejVpYlFLejBfZEhxUHZlcEM3emlNMXN4NVR0S3cycFkxY19B?oc=5",
+      "description": "Food Ingredients Market Size, Share | Growth Forecast [2034 Fortune Business Insights",
+      "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -324,7 +324,7 @@
       "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
     },
     {
-      "source": "UK HPP Industry",
+      "source": "HPP Seafood",
       "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
       "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
@@ -345,11 +345,11 @@
       "pubDate": "Thu, 19 Mar 2026 17:56:16 GMT"
     },
     {
-      "source": "Hiperbaric EU",
-      "title": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation - Food and Drink Technology",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZEJqUEI0WkJVVHhkX3M5ek9hYUp6Tnh1R1hWLWhLY2c2bWEzOEFNcXJhY016UDdMS0EtZFRnRWtxTElEcGdxX0RETWwzV3FsemRrdVFXQ1JWLW5oLXhVNW95a3JsNjRCWldTVEtIcnpSc05ZSDY3a3VhX092QXhKRldyNFJWemRjbU5Md0Z0eFRXQzk1eU5mbVgwbDFBazg0ekNuek9OYkowY2pvX1NBSGtoekZURTRBZUN6N1dtZk5nSEE?oc=5",
-      "description": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation Food and Drink Technology",
-      "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT"
+      "source": "UK Food Industry",
+      "title": "Food Technology Market : Global Industry Analysis and Opportunity Assessment, 2036 - Future Market Insights",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCWlc1cTVRcVM0WEYwakxYZVdPeEZmdk5kVzNDRzRkV2ZZTmZZTFNhNDlubTRtSDdrSXZqVTdVTHRQcjNJQzhJYjZ6V042MDh0RTRVa2c3eGQ4Znc0MHNYUzVvczZKYWsyenB6RVAyNVBrT1dwbUE?oc=5",
+      "description": "Food Technology Market : Global Industry Analysis and Opportunity Assessment, 2036 Future Market Insights",
+      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT"
     }
   ]
 }
