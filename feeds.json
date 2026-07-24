@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T13:45:24.390829+00:00",
+  "updated": "2026-07-24T15:25:16.456010+00:00",
   "articles": [
     {
       "source": "UK Food Industry",
@@ -52,10 +52,10 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "More Than 19 Million Eggs Sold at Kroger, Brookshire’s and More Recalled for Salmonella Risk - TODAY.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWgwaVRmOGpKa0NRWE9Bcmk0d29KNnM0OHVjbkJrdDU4SlV3ZzUwVEFIUTBzbVpNT0NUMHoxUmFmOHQtVklmZ2xVV3FDYjBoVHZKX01PSFdQRjZnc2hYVUNJZzFGdnNNWTR4RHdraFN0RzJGVFpBSGFCbU5DczFyVVlyeVU0WUExbm11dHVUY0pFQQ?oc=5",
-      "description": "More Than 19 Million Eggs Sold at Kroger, Brookshire’s and More Recalled for Salmonella Risk TODAY.com",
-      "pubDate": "Thu, 23 Jul 2026 17:29:15 GMT"
+      "title": "Kroger hit by 19 million egg recall over serious health risk - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONEExR2t0blZRQ3pZVWROdUVDOEUtMHprYk8yc2d6TWxsajlBVDlQekxjbmxWUHplazgtNXBOOGFuRjVqWXMtVmlKbFFpQlBEYnBxU18wOXhja3MzTTNNV2NhVzNoTHFZeFdJYVZ2Y2VOdXBHMjFkYkhucnRNalBXVzJzTUlZWTRYZnJ1ajJ0UmFfUQ?oc=5",
+      "description": "Kroger hit by 19 million egg recall over serious health risk thestreet.com",
+      "pubDate": "Thu, 23 Jul 2026 18:40:10 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -84,6 +84,13 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV2ZBRk94ZlozaUJYU2pXX2VGbWZCRzZ4RGpxZnRJZy1Hak9yOXJYZkU3VkV5Wm8yMDFWLVlFZWcwR3hTd2JIMTEyVVpLOEZ3RllYSmtfMzZjRlY2c3BJdEpTdHhlMDFvZ2ZNaFBjNEJFQ0VHbld4Njd5OXFfUGlRZHFB?oc=5",
       "description": "Is It Safe to Eat Lettuce? Here's What to Know About the Latest Recall Good Housekeeping",
       "pubDate": "Wed, 22 Jul 2026 18:56:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
+      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
+      "pubDate": "Wed, 22 Jul 2026 14:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -174,7 +181,7 @@
       "title": "GEA unveils new KOB high-pressure homogenisers for production plants - Dairy Business Middle East & Africa",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc3ZPMDhsOFBadmdfRmtXa3ZlVmtKMXJwMEs4OTh6NFVrLW00c2NDY2pweHVOMW9VTVYwYnQ0MnN6ODBfSGVuRlhSTnQtMEtVMEtaOGhtWXVGVzRLV2RNNWhaQks3cF8yaWl5dFJLbXU2TTJOTnUzdHRaZWRHSUZsTGNoMlZnR190YW9NcVJtLXY3SmczbUtHSDRsbUpxYTUxN3NuZHFVZzVfRE5wbUE?oc=5",
       "description": "GEA unveils new KOB high-pressure homogenisers for production plants Dairy Business Middle East & Africa",
-      "pubDate": "Mon, 06 Jul 2026 10:43:16 GMT"
+      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -189,6 +196,13 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
       "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
       "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Europe Frozen Desserts Market Size, Share & Trends, 2034 - Market Data Forecast",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDBGWGxxZC1pQmY1b2pjZlBxWFFoaFpIUE9nZENpNW9fM1VuYlNGR2VudU1jcnVrVGs3S2VZbjJOSWFVVFBhSU1GMk9YNVZsSFZfMEVnb2I0bnlUckIxT1hpMGFoQnRmRjNydG9QZnBZX2IyWHk5QUpKQjA1Tmx3TXZtLV8?oc=5",
+      "description": "Europe Frozen Desserts Market Size, Share & Trends, 2034 Market Data Forecast",
+      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -209,13 +223,6 @@
       "title": "Outbreak Investigation of Listeria monocytogenes: Soft Cheese (June 2026) - fda.gov",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbDUwU3k3c0FIa0duaHZaSjJNSGNLN0lJd0M3T05TNHZsb1NDSHdNMVVnWkhvUldHRGFRQkdoSFItc2c0SVJyUTdqQzlhNXRWdUpIQmRUWmVtTTdidzlKMl9KZEtQOTFCODdzY3ZkeS1WYW50MzVTcUItSnlVbi02azhQLU1uaTE0M0hpU3NDc1ZzQkFOOFM5dzdFemdtdklKS0NKTHVzNWNiVXl6dEdLS0tCTVhBSDRXWHBNOQ?oc=5",
       "description": "Outbreak Investigation of Listeria monocytogenes: Soft Cheese (June 2026) fda.gov",
-      "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Investigation Update: Listeria Outbreak, June 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeURCSzJmTjhpWEttM0RXTC1fcmtWZHkxeGk5Q2lheTdneWhwMW1KaHYyamVLeWNnYVhROW1lcm1QMWFzZzZhdmtIcHhVTDFjekVkakhwcVpaMTgtOWFERE1QYUNFOUwwQUc2OW5ITldOVXRLRW5MbWluZ2Y0WXRtNA?oc=5",
-      "description": "Investigation Update: Listeria Outbreak, June 2026 Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
     },
     {
@@ -252,13 +259,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXFGTmZ4ZW9NamJNeVhqV29yeFQ0SzlTYzBXcnl1RHltM0NIODNMVTFhT2VPaUhCbDFwanJEazNfZEoweXJkWGhtSGRwZWlycjJwWFgwdmZBU2RlSlRlTjhfQ3J4UDlrcUg0N1ZzX2puWVo4amFUczJFcGZCZWphenBFN0dUSlMwWVdIZ2ZmT1daOG90b0Z6X0RB?oc=5",
       "description": "Expansion at the Dock + boosts seafood processing in Alberni Valley Ha-Shilth-Sa Newspaper",
       "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Bilbao warms up for Food4Future - EFA News - European Food Agency",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hbXhObkJNemhSOXd0Y2kxZXJhaUVOSHhvREFBVGZPbVhDYUlBTlBYUS1ISG5iZ2VCNU1JSlVBTko3VFV5eHpxOGVyRVVDS2NBejJ6RExkd2VnYjYzcHdLXzlQOFVkbUVXTG5UcWRabUcwY0RUbHZMNzB3?oc=5",
-      "description": "Bilbao warms up for Food4Future EFA News - European Food Agency",
-      "pubDate": "Tue, 19 May 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Juices & Beverages",
@@ -318,10 +318,10 @@
     },
     {
       "source": "EU HPP & Food Tech",
-      "title": "Europe Healthy Food Market Size, Share, Growth | Report 2035 - Market Research Future",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc2swRjZ3SHE2NDk4djRnUUdEOXhvb2hQYjlwTC11bUFJcjdEUXVBbFB5eW5Tb00yUmZYQVNFdmduWndOZnZrX1pNcjYwNmdRSXQwQlFzYzBoRzk0UlFjYl9GZHlYcU9iZElTSWxEQWE1cjI1TktzNDY2cHdYd0dDbXVERQ?oc=5",
-      "description": "Europe Healthy Food Market Size, Share, Growth | Report 2035 Market Research Future",
-      "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
+      "title": "Food Tech Market Size, Share, Industry Trends, Analysis 2035 - Market Research Future",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwOGlERG4xYjVDcVBveVZhbkVfY0gyQ0hXVnN1YjJ5Ni1kSTVhaFVMRllncmc2ZUFiWDhoVHRxRW82S0tMeHEtZEF5TVVlQ2NYZjI5TTZJMnByNmI4ZUkyQnZUcU1mT1lwd3RYU3B0LVh5WFFvR3c?oc=5",
+      "description": "Food Tech Market Size, Share, Industry Trends, Analysis 2035 Market Research Future",
+      "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
