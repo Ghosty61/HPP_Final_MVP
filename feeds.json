@@ -1,6 +1,41 @@
 {
-  "updated": "2026-07-24T23:02:06.459471+00:00",
+  "updated": "2026-07-25T02:39:47.424837+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "CDC, FDA say Cyclospora outbreak more widespread that originally thought",
+      "link": "https://www.foodsafetynews.com/2026/07/cdc-fda-say-cyclospora-outbreak-more-widespread-that-originally-thought/",
+      "description": "The CDC and FDA are tracking at least two major outbreaks of infections from the Cyclospora parasite with a combined number of confirmed patients approaching 7,000. The first outbreak, according to the Centers for Disease Control and Prevention, is linked to Taylor Farms iceberg lettuce products and associated with",
+      "pubDate": "Sat, 25 Jul 2026 02:08:23 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Recalled eggs linked to Salmonella outbreak spanning 17 states - foodsafetynews.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUEZpeE9xM3ctUS1FODcyR05aR0ZzTy1Vc3BfSXRINDNuVTYteUVpenNiUkZJUm1MczRDUkJCY3NiYVZoU182QkFoNkRhMHVaU29hOW1JQlJlLW4zRDFaMExVS3JQaFkyX0k1RjBrOVNNNXlLQ1FsamE5cFRFdUExeXlCS3pWMDJPQ1Rta1pTbmgtMmgwRlJHUG8wV01KaFpmUDZMRg?oc=5",
+      "description": "Recalled eggs linked to Salmonella outbreak spanning 17 states foodsafetynews.com",
+      "pubDate": "Sat, 25 Jul 2026 00:55:13 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Recalled eggs linked to Salmonella outbreak spanning 17 states",
+      "link": "https://www.foodsafetynews.com/2026/07/recalled-eggs-linked-to-salmonella-outbreak-spanning-17-states/",
+      "description": "Midwest Poultry Services L.P. has been identified as the producer of the implicated eggs. On July 21 the company initiated a recall (see link below).",
+      "pubDate": "Sat, 25 Jul 2026 00:53:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Salmonella outbreak tied to eggs has sickened 98 people in 17 states since November, FDA says - PBS",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTkxLUFhCUFhIcDhtQnZ6SDNOdThZVHdtSEE2WWRwaU5QdlpQdVJtSXVoUzJ6alFiUC1lRFF5SFNrQTVnU2YwTG1KdzhDMW1UYVpZNGQxVjhXYS1BRDVfTmVfZGhXZEhuM0NBSmJ1VTJCY2VzV0FOUEQ2ZEJuQ1hwUnl3dWdBSEIxcVNsU2lobjdYUy1sR0ZrbGdaOFhDVktQTkRzUDRrcFRBemQyaFNSZm1MVVFQMXM5MFhaZFUxNEJmSzNWdkhB?oc=5",
+      "description": "Salmonella outbreak tied to eggs has sickened 98 people in 17 states since November, FDA says PBS",
+      "pubDate": "Fri, 24 Jul 2026 23:25:12 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Salmonella Outbreak Linked to Shell Eggs - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mMlhwNDhqS0NpRnFmMW1uQmpObXhwaDJXcFhvVEgyVU10WTNoVE5zTmZsM05SaV9aVFhPRTZyWjFiZTdaMDlWcm9qN2VpdnFHVkt0eU5EeU1CQTNZMi1OWlRya0VubmZweUFGV09sV2RCTHBNTXFr?oc=5",
+      "description": "Salmonella Outbreak Linked to Shell Eggs Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Fri, 24 Jul 2026 23:14:57 GMT"
+    },
     {
       "source": "Salmonella Outbreaks",
       "title": "FDA links recalled eggs to 98 salmonella cases across 17 states - USA Today",
@@ -10,10 +45,10 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Midwest Poultry Services Shell Eggs Salmonella Outbreak, 98 Sick - Food Poisoning Bulletin",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNXzBsalY3S2tEbmFoMk1fWEtQbG9pU1dxTUUzTU1VVENYaHhzVnBLVXBCbTJJWWJCYmpKaFNlR1FOMDhaVUsxNGJqQUVUaXpQTU9FYzZmdUVzRDVBZ3FELTlFOC1KNHl2blU0MkYyWWNSb1ExYUdkdzN3Mi1VS0dMMmp1M0FOSUdEajRtSi1jZTBkRjZJSk1uSXZ3ZlRITENHZnk1QUdn?oc=5",
-      "description": "Midwest Poultry Services Shell Eggs Salmonella Outbreak, 98 Sick Food Poisoning Bulletin",
-      "pubDate": "Fri, 24 Jul 2026 20:35:01 GMT"
+      "title": "Nearly 100 people sickened in salmonella outbreak linked in part to recalled eggs: FDA - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVzJhYk82T1JxNDF4TS1NX2pqWXdZNWlaMno3WE5sVldZZUJzM1lXcE1PekxJU1pEV1g2aTR5XzZGVEtmV0JpaTI5eTJvemhPVXl5ekR3VnBnRnFzNUlkUFpSQ2pjZE5qdExaTVVOQVhFcjR0Q01wRWk2QVA2cU1nRkpicHEtUmJXajlLUGRjLXRhX3cxZm9PU3lWclBGNFRpV2YzbjRQOVdhNFFfVzgtcWFHRFYwZ21DSVJB0gHAAUFVX3lxTE5rYzN4SGR5NUdXSG1FSUNWN05uYVQxWkIxUTQ0UFozSGFvUUpnVVlkeDJxVHRzUTRpWlZ4MWU0a0NpdURRY2NrRVpHZWgyc0hUY2lSY09RRk8xRDNBV2hMWnVwX1hjS0xtUzVfYU1ERWQxY0pmdlZRbXhMRUM2S1BWaVRmTngyQUJlRlV4ZWswSWl0V2tBRmdlUnE2Y3FUM0ViYnZkSE9PQy1zdzBGdmZ1WEswSDNQQm5MQjktSjJwbA?oc=5",
+      "description": "Nearly 100 people sickened in salmonella outbreak linked in part to recalled eggs: FDA ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Fri, 24 Jul 2026 19:14:10 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -44,39 +79,11 @@
       "pubDate": "Fri, 24 Jul 2026 00:47:14 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "More than 19 million eggs voluntarily recalled over potential salmonella contamination - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVzJhYk82T1JxNDF4TS1NX2pqWXdZNWlaMno3WE5sVldZZUJzM1lXcE1PekxJU1pEV1g2aTR5XzZGVEtmV0JpaTI5eTJvemhPVXl5ekR3VnBnRnFzNUlkUFpSQ2pjZE5qdExaTVVOQVhFcjR0Q01wRWk2QVA2cU1nRkpicHEtUmJXajlLUGRjLXRhX3cxZm9PU3lWclBGNFRpV2YzbjRQOVdhNFFfVzgtcWFHRFYwZ21DSVJB0gHAAUFVX3lxTE5rYzN4SGR5NUdXSG1FSUNWN05uYVQxWkIxUTQ0UFozSGFvUUpnVVlkeDJxVHRzUTRpWlZ4MWU0a0NpdURRY2NrRVpHZWgyc0hUY2lSY09RRk8xRDNBV2hMWnVwX1hjS0xtUzVfYU1ERWQxY0pmdlZRbXhMRUM2S1BWaVRmTngyQUJlRlV4ZWswSWl0V2tBRmdlUnE2Y3FUM0ViYnZkSE9PQy1zdzBGdmZ1WEswSDNQQm5MQjktSjJwbA?oc=5",
-      "description": "More than 19 million eggs voluntarily recalled over potential salmonella contamination ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Thu, 23 Jul 2026 22:25:43 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "1.6 million eggs recalled at Kroger and other stores over salmonella risk, FDA says - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iM1Vzei1OaVFWRU5RT0REcnFVY1dHbUFOUHpsN1dKcWNBeTFVSnVrM0x1ZmZMYWx1NG1mWjE0WnFRSHowV01DZVFkN1FLVGszZkxJcXJmUTRLWmpNZG9ySnVWc1pyLUFIMmltTE8zOWhkeHk4ZUp4ZkZEWGVLMEk?oc=5",
-      "description": "1.6 million eggs recalled at Kroger and other stores over salmonella risk, FDA says CBS News",
-      "pubDate": "Thu, 23 Jul 2026 14:39:00 GMT"
-    },
-    {
       "source": "Food Safety UK & EU",
       "title": "Milk product sold at Morrisons, Asda and Tesco urgently recalled - 'do not consume' - AOL.co.uk",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLTRqN0VOU2JSamoxWDZoX0xpS1RpM3ZBNWI2THo1bTVnSENiS0VDMUdjemsxWTI4cnNpSkZoQ1N6ZUtuRE5iQlBreVlNOUhUSnk1WWFaMDZNS3pWQzEyWW9XWktHMTB2ZF82U2JFckhxOWRMY1JGV0Q2UFZkOWlpMko4TXY?oc=5",
       "description": "Milk product sold at Morrisons, Asda and Tesco urgently recalled - 'do not consume' AOL.co.uk",
       "pubDate": "Thu, 23 Jul 2026 08:51:12 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Netherlands records more than 1,000 outbreaks in 2025",
-      "link": "https://www.foodsafetynews.com/2026/07/netherlands-records-more-than-1-000-outbreaks-in-2025/",
-      "description": "The Netherlands has released figures on the number of people sickened by various pathogens and in outbreaks in 2025. There were 4,279 people sick in 1,142 outbreaks and 12 large epidemics involved at least 25 people. A pathogen was identified in 31 incidents. Ten were caused by Salmonella,",
-      "pubDate": "Thu, 23 Jul 2026 04:03:58 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "FDA investigating 3 new outbreaks",
-      "link": "https://www.foodsafetynews.com/2026/07/fda-investigating-3-new-outbreaks/",
-      "description": "The Food and Drug Administration is investigating three new outbreaks of foodborne illnesses. The outbreaks involve the Cyclospora parasite, Salmonella and Listeria. For the Cyclospora outbreak, the FDA reports there are 72 patients. The outbreak apparently is not part of a larger 34-state Cyclospora outbreak being investigated by the",
-      "pubDate": "Thu, 23 Jul 2026 04:01:27 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -98,13 +105,6 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkZPZExqWkhlWTBHaTVhckFISWlDaTNLVDhGZ0pNSGxBUDJ0SngySFF3YmtZUk1UaGltVm81MHU5TEpuZlNZdnVmRGw5NWcwcjJ1NzF3OGdLUTl5VEVzUTdqYTRpbEJyd1N5NnhkdmIxQ1U1bTExaElzX01FSnNNVDZR?oc=5",
       "description": "Handtmann marks 40 years of UK innovation Food Manufacture",
       "pubDate": "Wed, 22 Jul 2026 11:26:12 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Salmonella Outbreak Linked to Moringa Leaf Powder - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFhXZXRUeDdyODFackZjS0V4ZlVQdGhsbGlGUXczQWNLcHhxc1hJb1ZPQWRDbE1KcGNhYkpSTU9GNzdfTWVqalFxc1NnaHNTdHNEZ3VudnpLZjJoU2Z0emlMRzU1N01wdXNZQ2VmNVpJTXN4UDJzZk5kY0c5SlBSS1dWWU42MDJGdE1ILXZ3?oc=5",
-      "description": "Salmonella Outbreak Linked to Moringa Leaf Powder Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Innovation & Research",
@@ -191,25 +191,11 @@
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "Food Ingredients Market Size, Share | Growth Forecast [2034 - Fortune Business Insights",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rSkdQWE93bDdDc2ZENzA0a1Vud1BFbTctT0U3NjJZcWFRTThVN1J3U3ZrVzRQbTRwNVhfS2FveUc1TG56NlJSbFluaWt6bXNBdU5FRmxEejVpYlFLejBfZEhxUHZlcEM3emlNMXN4NVR0S3cycFkxY19B?oc=5",
-      "description": "Food Ingredients Market Size, Share | Growth Forecast [2034 Fortune Business Insights",
-      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Seafood",
       "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
       "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
       "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Europe Frozen Desserts Market Size, Share & Trends, 2034 - Market Data Forecast",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDBGWGxxZC1pQmY1b2pjZlBxWFFoaFpIUE9nZENpNW9fM1VuYlNGR2VudU1jcnVrVGs3S2VZbjJOSWFVVFBhSU1GMk9YNVZsSFZfMEVnb2I0bnlUckIxT1hpMGFoQnRmRjNydG9QZnBZX2IyWHk5QUpKQjA1Tmx3TXZtLV8?oc=5",
-      "description": "Europe Frozen Desserts Market Size, Share & Trends, 2034 Market Data Forecast",
-      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -254,6 +240,13 @@
       "pubDate": "Thu, 18 Jun 2026 18:23:30 GMT"
     },
     {
+      "source": "Food Safety UK & EU",
+      "title": "🚨 A round up of some of the latest food and product recalls - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMklTa1B2RV9qU0ZkNTdOQzY0SWExRHVuSXZJZzctM3MxRTFkcmdKeVdYeEgyNTFDU3ZMSlAwQ1MzeWJXOFJoTnprZFRST3FhX2xoS2RTVHBVaGhpU3lhbkZXcWRjbEg0TGpkZkU2M3pnSGZSY3psdGVrMkJ5OEJaR1RaVHdLcklObnBMNTFuaVdYVDY2LUpoWmpwMHBNOGlyOURiTWYteWczQi1pSEk5TEhQNXRRZEZMOVE4QVFkNzNOaHZkb3RsVw?oc=5",
+      "description": "🚨 A round up of some of the latest food and product recalls facebook.com",
+      "pubDate": "Sat, 13 Jun 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Innovation & Research",
       "title": "High pressure food processing access expanded for local businesses - University of Hawaii System",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWNONmEzaEdyVzkzNFlZUnI2SlpIR01YQ0lTdzJ3TFN6N0lzSEs0OTBseHhLSXRaVGhkSERSVDlnWHY3bDBZRjhTWjlZVW1CNmJmcjFaRkgweUdVdC16TGFLcUZVU3NXOTM4MWZ6bENIUE9TWmFEMlJfTTZuMXFiRXRaOTM?oc=5",
@@ -266,6 +259,13 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXFGTmZ4ZW9NamJNeVhqV29yeFQ0SzlTYzBXcnl1RHltM0NIODNMVTFhT2VPaUhCbDFwanJEazNfZEoweXJkWGhtSGRwZWlycjJwWFgwdmZBU2RlSlRlTjhfQ3J4UDlrcUg0N1ZzX2puWVo4amFUczJFcGZCZWphenBFN0dUSlMwWVdIZ2ZmT1daOG90b0Z6X0RB?oc=5",
       "description": "Expansion at the Dock + boosts seafood processing in Alberni Valley Ha-Shilth-Sa Newspaper",
       "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Bilbao warms up for Food4Future - EFA News - European Food Agency",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hbXhObkJNemhSOXd0Y2kxZXJhaUVOSHhvREFBVGZPbVhDYUlBTlBYUS1ISG5iZ2VCNU1JSlVBTko3VFV5eHpxOGVyRVVDS2NBejJ6RExkd2VnYjYzcHdLXzlQOFVkbUVXTG5UcWRabUcwY0RUbHZMNzB3?oc=5",
+      "description": "Bilbao warms up for Food4Future EFA News - European Food Agency",
+      "pubDate": "Tue, 19 May 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Juices & Beverages",
@@ -282,13 +282,6 @@
       "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "Salmonella: Lidl Ireland recalls chicken products over bacteria concerns - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QeHNyYUxYNldZbzUyemkxTV9GTjRidEp0S05ncjdkRWw3TGVTeElKZy01N0JiZWNQa1VpMVpPVXRzMmtrdEsyamkxak1JaktRakpGaVRHZExBX3dU?oc=5",
-      "description": "Salmonella: Lidl Ireland recalls chicken products over bacteria concerns BBC",
-      "pubDate": "Tue, 12 May 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Juices & Beverages",
       "title": "Suja Life, Better-For-You Beverage Platform, Files for NASDAQ IPO - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORTBUVDZBcy04eF9GMDItaGdjR0kwR0ctNHdhSnVLLUs5clhsdjRGNWZxVzlsN2QwbXRvY1Bod09NWmI0UEVMU3dUTnVNVnRKTjdYNlJMWWNQN1NvTDExZXJPMGpoUzhCSUdvWTBCR082T1NYZmREajdEc3puNzhMeU5SeVpkaGZ4UFVQVHhIOVNOcnRPUzhaOHV2REkzTktXZGM3aGloSDdQVHAzYWpXdk1NblhlanVpM01CX29FXzNMSlU?oc=5",
@@ -301,13 +294,6 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOU9aRGVVRE9vRUdqRjJQYWYzQzNMclk1M2xVUDh1amZMaS0tZHp3dm9JNXNhaE51QVRCbzd2YVRVd19JQjZWS1RfcDh2MlBOUzgtVVM1UEw2VmVQSUwxR1otUkFUYnRhTnpwcV84THN4VjdFMUwyZzB5b29RRXV1Zm9YZU9pUldrWUcwVW84MDd2YW1OM25RbFJQSFVWNWVsSVNEWkdITTRsamV5aDd1dGNTT3lyMV80ZTEycndGXzBacGRRYk93cnZCWUlBZw?oc=5",
       "description": "From science to market: OSU Ag Research advances understanding of dark-cutting beef news.okstate.edu",
       "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
-      "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
-      "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -350,6 +336,20 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXZMXzNQYVBNSGZZXzRBWGF4UnBjVjdSeVoyVE9xN2VYMUwzNGZoTTFYVUJ1S1FCVUNiTkt3WWhSX01wd3ZrMXNxbFlYMGs4aVBjeV9iMVBiX1JDQm1YU2hNbTZHemRnWGoxdzF4ZG1MWWZUN0k3aVhKVEtIWU1ZZUlrazRhY2h1VjN6ZVR0YjJXeXZPVjVuNngwUnRVemVOUUJud1dnR01wTHR0emxKc29QQjlWZw?oc=5",
       "description": "Greenhead Lobster continuing to refine its premium lobster products SeafoodSource",
       "pubDate": "Thu, 19 Mar 2026 17:56:16 GMT"
+    },
+    {
+      "source": "Hiperbaric",
+      "title": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation - Food and Drink Technology",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZEJqUEI0WkJVVHhkX3M5ek9hYUp6Tnh1R1hWLWhLY2c2bWEzOEFNcXJhY016UDdMS0EtZFRnRWtxTElEcGdxX0RETWwzV3FsemRrdVFXQ1JWLW5oLXhVNW95a3JsNjRCWldTVEtIcnpSc05ZSDY3a3VhX092QXhKRldyNFJWemRjbU5Md0Z0eFRXQzk1eU5mbVgwbDFBazg0ekNuek9OYkowY2pvX1NBSGtoekZURTRBZUN6N1dtZk5nSEE?oc=5",
+      "description": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation Food and Drink Technology",
+      "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Dairy",
+      "title": "Impact of processing techniques on donor human milk: a multi-omics and bioinformatics scoping review - Frontiers",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNW1tRzNnV0tmMUNMdHJuQkdTYThyV2I1RkROYTFkWXNjMTVCRDNzX1JLbG9MWGF5N204dzB1MVRweVY2MUZJM2l3TVB2R0RXYVJkYVZ1bVdDUEtVV0VxX190eEtzY1FzQ2ZCWGhNN1BCclZMMG1xZVpTWjJiT05KTmhwSFpkbnE1ZDFBZFhCYw?oc=5",
+      "description": "Impact of processing techniques on donor human milk: a multi-omics and bioinformatics scoping review Frontiers",
+      "pubDate": "Thu, 26 Feb 2026 12:53:13 GMT"
     }
   ]
 }
