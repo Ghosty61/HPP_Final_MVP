@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T11:10:07.242315+00:00",
+  "updated": "2026-07-25T13:26:37.083713+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -72,6 +72,13 @@
       "pubDate": "Fri, 24 Jul 2026 00:47:14 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "Is It Safe to Eat Lettuce? Here's What to Know About the Latest Recall - Good Housekeeping",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV2ZBRk94ZlozaUJYU2pXX2VGbWZCRzZ4RGpxZnRJZy1Hak9yOXJYZkU3VkV5Wm8yMDFWLVlFZWcwR3hTd2JIMTEyVVpLOEZ3RllYSmtfMzZjRlY2c3BJdEpTdHhlMDFvZ2ZNaFBjNEJFQ0VHbld4Njd5OXFfUGlRZHFB?oc=5",
+      "description": "Is It Safe to Eat Lettuce? Here's What to Know About the Latest Recall Good Housekeeping",
+      "pubDate": "Wed, 22 Jul 2026 18:56:00 GMT"
+    },
+    {
       "source": "Salmonella Outbreaks",
       "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
@@ -114,18 +121,18 @@
       "pubDate": "Mon, 20 Jul 2026 05:43:24 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "US restaurant chains hit by foodborne illness outbreaks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYUdvcWozQmFvZk96QUMyazVaNjBzRE5BZUhsdFNxNW1HYld1NHZNc1NTSnZERXlVaE1kNlV5R3BidEJjcGZOcHNRVGxzY0h2VWp1dVRlclJvcWFURFZYN2poRHNjRFFMVWJFdllWRjhvRUN5eUktd05wT04xRXVEMGpySUpvS2lNNXNzd1BkenlCR3NvSlQ2V2E5S2x6XzBpelFxS0dhQmtCVDBf?oc=5",
-      "description": "US restaurant chains hit by foodborne illness outbreaks Reuters",
-      "pubDate": "Fri, 17 Jul 2026 18:11:43 GMT"
-    },
-    {
       "source": "EU HPP & Food Tech",
       "title": "The EU tightens controls on Listeria, presents the food industry with new challenges - FoodBev Media",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFBHSGtUQzUwd29fU2Mxa2xzWVNwYTJMeEVldnVlS3Y5dU5nT3MxSEtCRDE3QS1EWXBHcXFfZXRFMkdmeHNRaXg3OUJFWjA5cTh4Y0VncDRJUDI2ZzE1RDFHWU5qVHFSd3l0aV9Sc1VWMnp2bC1veDJ5Ylp6dUtXQ0lqWWZmR1hCX1ZMSE9sNi1maFdTdHFvSmVmc1BUWmxGVTNiOHg0WnpuRi04SnhqRlBxZVh3QQ?oc=5",
       "description": "The EU tightens controls on Listeria, presents the food industry with new challenges FoodBev Media",
       "pubDate": "Fri, 17 Jul 2026 08:03:10 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "US restaurant chains hit by foodborne illness outbreaks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYUdvcWozQmFvZk96QUMyazVaNjBzRE5BZUhsdFNxNW1HYld1NHZNc1NTSnZERXlVaE1kNlV5R3BidEJjcGZOcHNRVGxzY0h2VWp1dVRlclJvcWFURFZYN2poRHNjRFFMVWJFdllWRjhvRUN5eUktd05wT04xRXVEMGpySUpvS2lNNXNzd1BkenlCR3NvSlQ2V2E5S2x6XzBpelFxS0dhQmtCVDBf?oc=5",
+      "description": "US restaurant chains hit by foodborne illness outbreaks Reuters",
+      "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "EU HPP & Food Tech",
@@ -178,13 +185,6 @@
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "What to Know About the Diarrhea Outbreak Tied to Fresh Produce - Time Magazine",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX2xVZGptUktENDIwdFlRMlNxbHlZbXhRZnBYWG1BWW0wYTc0eEZmTmlFX3ZBU2VreUZ6TmJQOE5EQW5ob0pBakluaDJrZk0tVjRGNnY2SWxJVnNUaGVHdUZMUnZjZDVVSHI2OHlFN1VMN28zQ3IwUUlZMkVIOUdEY1A5RQ?oc=5",
-      "description": "What to Know About the Diarrhea Outbreak Tied to Fresh Produce Time Magazine",
-      "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
       "title": "Outbreak Investigation of E. coli: Frozen Blueberries (July 2026) - fda.gov",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaHd1OXRXak52Ql9JVER6T2ViaDB3b2Z2Q2NRQlNmajhWam9lVE0zb2RTWkM3TXptNnZ2T0NBVzVJbEZtVWtzaVNUcU4zLUw0eHRSOV9YemRqMVdsbjRoMXp3RUd6a3ZsVDJ1NVhBWGxndUN0c1JiMHpMRWppOGczY0luN1BGOE91Q1RLMDBPWnQ3OFRremFWMU84YWhVQmNFMmxOVG1IZ2JvSTNRa2o0Xw?oc=5",
       "description": "Outbreak Investigation of E. coli: Frozen Blueberries (July 2026) fda.gov",
@@ -198,11 +198,25 @@
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
     {
+      "source": "UK Food Industry",
+      "title": "Food Ingredients Market Size, Share | Growth Forecast [2034 - Fortune Business Insights",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rSkdQWE93bDdDc2ZENzA0a1Vud1BFbTctT0U3NjJZcWFRTThVN1J3U3ZrVzRQbTRwNVhfS2FveUc1TG56NlJSbFluaWt6bXNBdU5FRmxEejVpYlFLejBfZEhxUHZlcEM3emlNMXN4NVR0S3cycFkxY19B?oc=5",
+      "description": "Food Ingredients Market Size, Share | Growth Forecast [2034 Fortune Business Insights",
+      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Seafood",
       "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
       "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
       "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Healthcare & Medical",
+      "title": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods - Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QMXhzcHRVa1RrN0s0NUZtdHJrQndFWjRUTElLVml5RWwyNDh3RUcxWkg0S2RqQXI0QVcwOWp4QUJobzdNVGRUTHJid0JVX09sUDhvMW1WMXFjaTZVeHo0STJFMElDTmlwSWY1aEQtWE92TTRxR092NFdKOA?oc=5",
+      "description": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods Medical Xpress",
+      "pubDate": "Thu, 02 Jul 2026 00:40:04 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -238,13 +252,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGtOcWpIM1hIV1JSUjd6VVFmelI5ZlE4SzZKdkVHdGlmdm5SUjU1NXkwWWZNeXgyb280RjJpaE1CNEFOeGw2Y1ZPaW5JdkFsdzh2ZGZFSHl5a0VMRVF4UThqOVB3WFJTOFByWFFtZ3NQSi1Lb1RidU1WTmxSY0tKQzVHUF9KQk52OVk4eTJraWJLNjN5SXV4N2FEb3ZERUN4NkRPQ1RGcS1XUmJScFFFTFlMUXlKaHltdkF5SmIxSGxGaThfdUdRZC1nQXc?oc=5",
       "description": "Heard the loud noise in Dixon? Officials say here's what caused it ABC10",
       "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Dairy",
-      "title": "Unhomogenised milk boom prompts Waitrose farm investment - FarmingUK",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOWNLMHZMUkZqQ24wLXNHbkVtbGNzWkZ6eXcwa25TQ0xMTnp3cUlhYzhpSWhUNXRVMWFFM3ptSjk1UXA1U0Y1c3hJalpXOUJDNjFndTVQVzdvNWs5cmgxN0xIUG1YWXhHQWV6aUpCVEdPcG5CeDVncTdodHphZlRxM2RNUWxqSGJ5RXU1ZU1MZ05TZnJYZWJXWlVudXY2Ujg?oc=5",
-      "description": "Unhomogenised milk boom prompts Waitrose farm investment FarmingUK",
-      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -301,13 +308,6 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOU9aRGVVRE9vRUdqRjJQYWYzQzNMclk1M2xVUDh1amZMaS0tZHp3dm9JNXNhaE51QVRCbzd2YVRVd19JQjZWS1RfcDh2MlBOUzgtVVM1UEw2VmVQSUwxR1otUkFUYnRhTnpwcV84THN4VjdFMUwyZzB5b29RRXV1Zm9YZU9pUldrWUcwVW84MDd2YW1OM25RbFJQSFVWNWVsSVNEWkdITTRsamV5aDd1dGNTT3lyMV80ZTEycndGXzBacGRRYk93cnZCWUlBZw?oc=5",
       "description": "From science to market: OSU Ag Research advances understanding of dark-cutting beef news.okstate.edu",
       "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Healthcare & Medical",
-      "title": "Universal Pure Data Breach Investigation - Claim Depot",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13VVNMeWdmelE4RVMweHdGb3pGeDJWZUpZc0hDejV3V2ZBX3BEWGZTejc0YjE1aHhPaGhCajdZb0szM0JEWW9nbV93a2phQVI3bWUyeXpCcEstdXlYZzZKcjM0dFN4RDJFQWJxZjN5UE85clN3dENnYTdWTmxmUQ?oc=5",
-      "description": "Universal Pure Data Breach Investigation Claim Depot",
-      "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Equipment & Machines",
