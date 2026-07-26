@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T22:55:37.550220+00:00",
+  "updated": "2026-07-26T02:48:37.412502+00:00",
   "articles": [
     {
       "source": "Salmonella Outbreaks",
@@ -21,13 +21,6 @@
       "link": "https://www.foodsafetynews.com/2026/07/cdc-fda-say-cyclospora-outbreak-more-widespread-that-originally-thought/",
       "description": "The CDC and FDA are tracking at least two major outbreaks of infections from the Cyclospora parasite with a combined number of confirmed patients approaching 7,000. The first outbreak, according to the Centers for Disease Control and Prevention, is linked to Taylor Farms iceberg lettuce products and associated with",
       "pubDate": "Sat, 25 Jul 2026 02:08:23 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Recalled eggs linked to Salmonella outbreak spanning 17 states - foodsafetynews.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUEZpeE9xM3ctUS1FODcyR05aR0ZzTy1Vc3BfSXRINDNuVTYteUVpenNiUkZJUm1MczRDUkJCY3NiYVZoU182QkFoNkRhMHVaU29hOW1JQlJlLW4zRDFaMExVS3JQaFkyX0k1RjBrOVNNNXlLQ1FsamE5cFRFdUExeXlCS3pWMDJPQ1Rta1pTbmgtMmgwRlJHUG8wV01KaFpmUDZMRg?oc=5",
-      "description": "Recalled eggs linked to Salmonella outbreak spanning 17 states foodsafetynews.com",
-      "pubDate": "Sat, 25 Jul 2026 00:55:13 GMT"
     },
     {
       "source": "Food Safety News",
@@ -70,6 +63,13 @@
       "link": "https://www.foodsafetynews.com/2026/07/outbreak-of-infections-from-cyclospora-parasite-reaches-41-states/",
       "description": "Another 500 patients added to the Michigan count overnight",
       "pubDate": "Fri, 24 Jul 2026 00:47:14 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "1.6 million cartons of eggs recalled at Kroger and other stores over salmonella risk, FDA says - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iM1Vzei1OaVFWRU5RT0REcnFVY1dHbUFOUHpsN1dKcWNBeTFVSnVrM0x1ZmZMYWx1NG1mWjE0WnFRSHowV01DZVFkN1FLVGszZkxJcXJmUTRLWmpNZG9ySnVWc1pyLUFIMmltTE8zOWhkeHk4ZUp4ZkZEWGVLMEk?oc=5",
+      "description": "1.6 million cartons of eggs recalled at Kroger and other stores over salmonella risk, FDA says CBS News",
+      "pubDate": "Thu, 23 Jul 2026 14:39:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -128,18 +128,11 @@
       "pubDate": "Fri, 17 Jul 2026 08:03:10 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "US restaurant chains hit by foodborne illness outbreaks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYUdvcWozQmFvZk96QUMyazVaNjBzRE5BZUhsdFNxNW1HYld1NHZNc1NTSnZERXlVaE1kNlV5R3BidEJjcGZOcHNRVGxzY0h2VWp1dVRlclJvcWFURFZYN2poRHNjRFFMVWJFdllWRjhvRUN5eUktd05wT04xRXVEMGpySUpvS2lNNXNzd1BkenlCR3NvSlQ2V2E5S2x6XzBpelFxS0dhQmtCVDBf?oc=5",
-      "description": "US restaurant chains hit by foodborne illness outbreaks Reuters",
-      "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Europe Urea Market Size, Share, & Growth, 2034 - Market Data Forecast",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94dFJES3E1ZkZKVnV6aEFVbmd5M0dxQTNqVkFZQWxzT081X1NDdFhJMW1Wend5SGM1RUtidHF6WUFidGpDdTBHenJrcVNJYjh1RlpSZ2ZkekdqTDhUc05vMHUwNG95aFJZUGVtSHoxRFdmelRKa1dJ?oc=5",
-      "description": "Europe Urea Market Size, Share, & Growth, 2034 Market Data Forecast",
-      "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT"
+      "source": "UK Food Industry",
+      "title": "CAFRE student scoops success with Dale Farm placement - Department of Agriculture, Environment and Rural Affairs",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY3VtQjF6bjdGNWluREU0S1dBbEJ4cGlkb3VJZHRvWmFFRkd4cmVDZWlCbkVCVEdJZWRzSThEbkwydXBBNHo1TXN2amUtdEhYU1RLUWY0aldKdU8zVDdidnFIWXV6b3owTVdUVnJwU1pYUDhZbmp1YWEtOU9ELUVqZWVvSjVHNVZI?oc=5",
+      "description": "CAFRE student scoops success with Dale Farm placement Department of Agriculture, Environment and Rural Affairs",
+      "pubDate": "Wed, 15 Jul 2026 10:28:33 GMT"
     },
     {
       "source": "UK HPP Industry",
@@ -198,10 +191,17 @@
       "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "Europe Food and Beverages Market Size and Analysis, 2034 - Market Data Forecast",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFRiSl9GOVdlZHlfalNxOHk1V25kTkhPV20wU3JpbjNrLXV1VmljMjZfR0dNbEV2b3V2NjZpaDZaM3ZKYTZvazBiV3dDSkY2eWl5eWRrVUE0Z09BV2Y0bzdxLXdaeUgzN2lyTFlFLXNoVXRHQ0xsamN4S0pZeFRUSVV6c1otRzZWYlE?oc=5",
-      "description": "Europe Food and Beverages Market Size and Analysis, 2034 Market Data Forecast",
+      "source": "HPP Healthcare & Medical",
+      "title": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods - Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QMXhzcHRVa1RrN0s0NUZtdHJrQndFWjRUTElLVml5RWwyNDh3RUcxWkg0S2RqQXI0QVcwOWp4QUJobzdNVGRUTHJid0JVX09sUDhvMW1WMXFjaTZVeHo0STJFMElDTmlwSWY1aEQtWE92TTRxR092NFdKOA?oc=5",
+      "description": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods Medical Xpress",
+      "pubDate": "Thu, 02 Jul 2026 00:40:04 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Europe Frozen Desserts Market Size, Share & Trends, 2034 - Market Data Forecast",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDBGWGxxZC1pQmY1b2pjZlBxWFFoaFpIUE9nZENpNW9fM1VuYlNGR2VudU1jcnVrVGs3S2VZbjJOSWFVVFBhSU1GMk9YNVZsSFZfMEVnb2I0bnlUckIxT1hpMGFoQnRmRjNydG9QZnBZX2IyWHk5QUpKQjA1Tmx3TXZtLV8?oc=5",
+      "description": "Europe Frozen Desserts Market Size, Share & Trends, 2034 Market Data Forecast",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
@@ -224,6 +224,13 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGtOcWpIM1hIV1JSUjd6VVFmelI5ZlE4SzZKdkVHdGlmdm5SUjU1NXkwWWZNeXgyb280RjJpaE1CNEFOeGw2Y1ZPaW5JdkFsdzh2ZGZFSHl5a0VMRVF4UThqOVB3WFJTOFByWFFtZ3NQSi1Lb1RidU1WTmxSY0tKQzVHUF9KQk52OVk4eTJraWJLNjN5SXV4N2FEb3ZERUN4NkRPQ1RGcS1XUmJScFFFTFlMUXlKaHltdkF5SmIxSGxGaThfdUdRZC1nQXc?oc=5",
       "description": "Heard the loud noise in Dixon? Officials say here's what caused it ABC10",
       "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Clover Hill Dairy Ricotta and Requeson Cheese Linked to a Listeria Outbreak - Consumer Reports",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1lveTdpVlRzSnhmeG5nY08yTW1uQU5mWl91dXlRZ19NTFFDNDh5UllqQ2xIMFZhYWRjbXo4Zzd2Wk9KU0c4c1M3WllVSjdCLU5Od2hHUmN3WDVHUnRRdTYxUi0xUTFpM29qU1ZVOHdxS2tvYkFQT044Y3RWWVBtd201QVpoLVVaWktGUUM3QzloN2pMQUk4ZkRWOXRWcm1SajJ4cnEtM1Zock9qY215VFFFODhsdWVP?oc=5",
+      "description": "Clover Hill Dairy Ricotta and Requeson Cheese Linked to a Listeria Outbreak Consumer Reports",
+      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -287,13 +294,6 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOU9aRGVVRE9vRUdqRjJQYWYzQzNMclk1M2xVUDh1amZMaS0tZHp3dm9JNXNhaE51QVRCbzd2YVRVd19JQjZWS1RfcDh2MlBOUzgtVVM1UEw2VmVQSUwxR1otUkFUYnRhTnpwcV84THN4VjdFMUwyZzB5b29RRXV1Zm9YZU9pUldrWUcwVW84MDd2YW1OM25RbFJQSFVWNWVsSVNEWkdITTRsamV5aDd1dGNTT3lyMV80ZTEycndGXzBacGRRYk93cnZCWUlBZw?oc=5",
       "description": "From science to market: OSU Ag Research advances understanding of dark-cutting beef news.okstate.edu",
       "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Healthcare & Medical",
-      "title": "Universal Pure Data Breach Investigation - Claim Depot",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13VVNMeWdmelE4RVMweHdGb3pGeDJWZUpZc0hDejV3V2ZBX3BEWGZTejc0YjE1aHhPaGhCajdZb0szM0JEWW9nbV93a2phQVI3bWUyeXpCcEstdXlYZzZKcjM0dFN4RDJFQWJxZjN5UE85clN3dENnYTdWTmxmUQ?oc=5",
-      "description": "Universal Pure Data Breach Investigation Claim Depot",
-      "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Equipment & Machines",
