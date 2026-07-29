@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-28T22:58:53.541603+00:00",
+  "updated": "2026-07-29T02:38:50.707453+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "CDC reports more than 2,000 more patients in Cyclospora outbreak",
+      "link": "https://www.foodsafetynews.com/2026/07/cdc-reports-more-than-2-000-more-patients-in-cyclospora-outbreak/",
+      "description": "Consumer, industry groups ask Senate committee to restore CDC tracking efforts",
+      "pubDate": "Wed, 29 Jul 2026 02:02:59 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Bacon, eggs and lettuce safe to eat? See latest on these food recalls - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZHBQZ0JabnYtX083Z0FnMnpLQkZYN0xVQVJ5OHJkQ3ZFck9DLXRQT0FiSTR1eGpYX2NDWlRXbHYwSElxdU91LVVyVG1UWmRpbURva1pBZU51WmJvTDBBdXBDNGkzcDROdlBMMGNHSDNYX1BzTUltZ2k4aFB5azF3S0ZjWkVacE13LVpVZnduUUhuVlFBc1NFaW5sUWxMa1ludFJ5bmIzTGxOVUVldjFRRk9HdmE?oc=5",
+      "description": "Bacon, eggs and lettuce safe to eat? See latest on these food recalls USA Today",
+      "pubDate": "Tue, 28 Jul 2026 21:12:00 GMT"
+    },
     {
       "source": "Salmonella Outbreaks",
       "title": "US recalls over 19 million eggs due to salmonella outbreak that has caused illness in nearly 100 people - EL PAÍS English",
@@ -21,13 +35,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYmRwUks3NTQ3blVzNGlFT3NQZjFkRzFXU0toWEc0ODd2VzMwbW9hNHRfT1dSSFlkejdCa3VtUWtOVWVZWVJ1TjNfdXZ5eG5oaE9OVl9CNzJjYWh4YlNqemVHZGd6UjVvWDlqaFNHdkRpaGJTRzBHa1dwbXZOWlZzYk9mR2JUbmY0?oc=5",
       "description": "5 Dangerous Foods To Avoid During the ‘Explosive Diarrhea’ Cyclosporiasis Outbreak Allrecipes",
       "pubDate": "Mon, 27 Jul 2026 21:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Egg-related Salmonella outbreak sickens nearly 100 in 17 US states - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2NYZjd5dC00RUxPaGV1OF9HSTAySlBZZy1ScXBfOG1xQnlGRU9QYXFINVNWbUVocm5VR2RKaGQ5TDBnT1JJdnZoeVJrZk5zbUVYbVRVaXpGT1pRWUNLcS1CSE43RlRMV1puOHFjb1BBVzVGSE96My1saC15SjBYVDVaTVNsNG1RQlVKRHNtMjNfdVJuSk9LRE9pMTgwcDFsREdBbldILVNqc0kx?oc=5",
-      "description": "Egg-related Salmonella outbreak sickens nearly 100 in 17 US states CIDRAP",
-      "pubDate": "Mon, 27 Jul 2026 20:19:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -58,13 +65,6 @@
       "pubDate": "Sat, 25 Jul 2026 02:08:23 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Recalled eggs linked to Salmonella outbreak spanning 17 states",
-      "link": "https://www.foodsafetynews.com/2026/07/recalled-eggs-linked-to-salmonella-outbreak-spanning-17-states/",
-      "description": "Midwest Poultry Services L.P. has been identified as the producer of the implicated eggs. On July 21 the company initiated a recall (see link below).",
-      "pubDate": "Sat, 25 Jul 2026 00:53:00 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
       "title": "Salmonella outbreak tied to eggs has sickened 98 people in 17 states since November, FDA says - PBS",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTkxLUFhCUFhIcDhtQnZ6SDNOdThZVHdtSEE2WWRwaU5QdlpQdVJtSXVoUzJ6alFiUC1lRFF5SFNrQTVnU2YwTG1KdzhDMW1UYVpZNGQxVjhXYS1BRDVfTmVfZGhXZEhuM0NBSmJ1VTJCY2VzV0FOUEQ2ZEJuQ1hwUnl3dWdBSEIxcVNsU2lobjdYUy1sR0ZrbGdaOFhDVktQTkRzUDRrcFRBemQyaFNSZm1MVVFQMXM5MFhaZFUxNEJmSzNWdkhB?oc=5",
@@ -84,13 +84,6 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZXF3VzVNVDI1UDNRcVJiZDdDcDJkVDBkZENGazRQYmlINUtHcVgzdEV6a2tDVW1tQXQxSmxrRlVsM1RIVGlXYkhyWlQ0WG55dkdkb2ZJV0ZzbVByY0ZwTUZ1V2JjYTgxZlowbXJ3WTJ5ZUVBVEJIdGJhRUdWRzRIcktCTVZSMVV5SUwydEVLZ2E0NXNUVHZCbTB1UGhWMDFwbHNvVmVEcDRBN01KV3ZCMDRTOTk3WG5kell0eWFoeXc3X2owc0Y2RA?oc=5",
       "description": "Forty years of Handtmann UK Food and Drink Technology",
       "pubDate": "Fri, 24 Jul 2026 09:34:46 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Is It Safe to Eat Lettuce? Here's What to Know About the Latest Recall - Good Housekeeping",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV2ZBRk94ZlozaUJYU2pXX2VGbWZCRzZ4RGpxZnRJZy1Hak9yOXJYZkU3VkV5Wm8yMDFWLVlFZWcwR3hTd2JIMTEyVVpLOEZ3RllYSmtfMzZjRlY2c3BJdEpTdHhlMDFvZ2ZNaFBjNEJFQ0VHbld4Njd5OXFfUGlRZHFB?oc=5",
-      "description": "Is It Safe to Eat Lettuce? Here's What to Know About the Latest Recall Good Housekeeping",
-      "pubDate": "Wed, 22 Jul 2026 18:56:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -212,6 +205,13 @@
       "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "Clover Hill Dairy Ricotta and Requeson Cheese Linked to a Listeria Outbreak - Consumer Reports",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1lveTdpVlRzSnhmeG5nY08yTW1uQU5mWl91dXlRZ19NTFFDNDh5UllqQ2xIMFZhYWRjbXo4Zzd2Wk9KU0c4c1M3WllVSjdCLU5Od2hHUmN3WDVHUnRRdTYxUi0xUTFpM29qU1ZVOHdxS2tvYkFQT044Y3RWWVBtd201QVpoLVVaWktGUUM3QzloN2pMQUk4ZkRWOXRWcm1SajJ4cnEtM1Zock9qY215VFFFODhsdWVP?oc=5",
+      "description": "Clover Hill Dairy Ricotta and Requeson Cheese Linked to a Listeria Outbreak Consumer Reports",
+      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT"
+    },
+    {
       "source": "Food Safety UK & EU",
       "title": "🚨 A round up of some of the latest food and product recalls - facebook.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMklTa1B2RV9qU0ZkNTdOQzY0SWExRHVuSXZJZzctM3MxRTFkcmdKeVdYeEgyNTFDU3ZMSlAwQ1MzeWJXOFJoTnprZFRST3FhX2xoS2RTVHBVaGhpU3lhbkZXcWRjbEg0TGpkZkU2M3pnSGZSY3psdGVrMkJ5OEJaR1RaVHdLcklObnBMNTFuaVdYVDY2LUpoWmpwMHBNOGlyOURiTWYteWczQi1pSEk5TEhQNXRRZEZMOVE4QVFkNzNOaHZkb3RsVw?oc=5",
@@ -331,6 +331,13 @@
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     },
     {
+      "source": "HPP Equipment & Machines",
+      "title": "The pros of processing automation - Beverage Industry",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT0wwejZtUlBTU3NMOTZ4RUpTSWVUUzJId0N0MmJPVloxZmYycWlyN1czUW1QblNaWlA5UlJrd2ZuenAyVHpDOUxUVmQ0eGRSYmlkSmpqXzdKWkxIZ0RtNS12WkstZFdWTVFUN3VYNkF2U2g2dXRudWVTVGJRMGlOYU93?oc=5",
+      "description": "The pros of processing automation Beverage Industry",
+      "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
+    },
+    {
       "source": "HPP Healthcare & Medical",
       "title": "Duckweed Protein Benefits: Is This Aquatic Plant a Sustainable Superfood? - News-Medical",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUVPWXN3Sk4tNHFLMUtXZmFIUDJ2WFcyRjhuSVo2c2pxVHlCOWc2c1U1NThubHJNNXdkZlJzbFNEbmNYU2RhX3FrZ3lzRDJCVGRlMGdrdjJCX05lb3V6NEY3emtNWmJKV3Jhemgza25iZzFlWFh4NG1udC1xWjY5V2VfTko1ZEFJM3JoeUp5YzBOLUJpVkVPMGF2SVRVbHlmaUZ4Q050ZUxIaWRaQWVYR213?oc=5",
@@ -343,13 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVljR2g1SWZ1cDJkZE5xMkgxMVR6emh2WXplNFBSaUs3Ni1LaF9ySk54QmtwWDd2SWU5YUdfQnhfLWhJX1lQZmhJQ2xMZkU0MDlHeHQzR2xZQlNiWHhYUmQxcUZuZF93WjU3TnBTbDVyaVBVWXVGMlZyamFjLVc5elB4WTdGdjV2VGc?oc=5",
       "description": "Listeria Outbreak Linked to Prepared Pasta Meals Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Thu, 12 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Equipment & Machines",
-      "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXhUbEgxOUMycF9EN0RUdmxwWWt1WUVyYU1iUnQ0R2FCTlZZcTlFUEMwaG45Z0lGZHpQNGpXTFJEcW9HNm1RN1lSNzZFX2M4QnllM3NmMXc2UVRMTWFvNHM2dXkyc01pNHJ5MlpvWTNMQWJDdUxvc1I5NWR2NFIzOS1vWGFNMUtiZ2d2NVRUVHVTTk9BdENMUmZkcjZZc2VwUXowOGhXWWRvcGQ5T2wtYjRhbTNzSlFrUHZXWmNLWFYzUVlNUE1uTG1xYk5EUDFHQkVsSlJFcHhDN3BTM0dWcnp6MVNOc1VUbFB1ZUJMYzhMenJRNkRkeS1maTlYNGozbEthVW1B?oc=5",
-      "description": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility PR Newswire",
-      "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     }
   ]
 }
