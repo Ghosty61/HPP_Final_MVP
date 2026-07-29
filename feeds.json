@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T10:39:02.568866+00:00",
+  "updated": "2026-07-29T14:10:00.821121+00:00",
   "articles": [
     {
       "source": "Hiperbaric",
@@ -59,9 +59,9 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Over 19 Million Eggs Recalled for Salmonella Risk at Kroger, Brookshire’s and More - TODAY.com",
+      "title": "Over 19 Million Eggs Recalled for Salmonella Risk at Kroger, Brookshire’s and More - today.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWgwaVRmOGpKa0NRWE9Bcmk0d29KNnM0OHVjbkJrdDU4SlV3ZzUwVEFIUTBzbVpNT0NUMHoxUmFmOHQtVklmZ2xVV3FDYjBoVHZKX01PSFdQRjZnc2hYVUNJZzFGdnNNWTR4RHdraFN0RzJGVFpBSGFCbU5DczFyVVlyeVU0WUExbm11dHVUY0pFQQ?oc=5",
-      "description": "Over 19 Million Eggs Recalled for Salmonella Risk at Kroger, Brookshire’s and More TODAY.com",
+      "description": "Over 19 Million Eggs Recalled for Salmonella Risk at Kroger, Brookshire’s and More today.com",
       "pubDate": "Mon, 27 Jul 2026 15:40:18 GMT"
     },
     {
@@ -98,6 +98,20 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTG1UUkdXa1FVM2FJZzkybzItM01fMFBkRmF4c2xNUnFJR1N3YzBGeWJUVU5XNDVhbDJhVnRoTmJLdUI5TTRMVUotQmU0NmFQMW5CemFXc3dqal9IMjR3YjZFaXJNOG9aWktFNDhKaEJUc0I5dWNmUjNhYkJPN2pNZlpn?oc=5",
       "description": "Investigation Update: Salmonella Outbreak, July 2026 Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Fri, 24 Jul 2026 23:14:57 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Forty years of Handtmann UK - Food and Drink Technology",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZXF3VzVNVDI1UDNRcVJiZDdDcDJkVDBkZENGazRQYmlINUtHcVgzdEV6a2tDVW1tQXQxSmxrRlVsM1RIVGlXYkhyWlQ0WG55dkdkb2ZJV0ZzbVByY0ZwTUZ1V2JjYTgxZlowbXJ3WTJ5ZUVBVEJIdGJhRUdWRzRIcktCTVZSMVV5SUwydEVLZ2E0NXNUVHZCbTB1UGhWMDFwbHNvVmVEcDRBN01KV3ZCMDRTOTk3WG5kell0eWFoeXc3X2owc0Y2RA?oc=5",
+      "description": "Forty years of Handtmann UK Food and Drink Technology",
+      "pubDate": "Fri, 24 Jul 2026 09:34:46 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Handtmann marks 40 years of UK innovation - Food Manufacture",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkZPZExqWkhlWTBHaTVhckFISWlDaTNLVDhGZ0pNSGxBUDJ0SngySFF3YmtZUk1UaGltVm81MHU5TEpuZlNZdnVmRGw5NWcwcjJ1NzF3OGdLUTl5VEVzUTdqYTRpbEJyd1N5NnhkdmIxQ1U1bTExaElzX01FSnNNVDZR?oc=5",
+      "description": "Handtmann marks 40 years of UK innovation Food Manufacture",
+      "pubDate": "Wed, 22 Jul 2026 11:26:12 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -195,6 +209,13 @@
       "title": "Clover Hill Dairy Ricotta and Requeson Cheese Linked to a Listeria Outbreak - Consumer Reports",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1lveTdpVlRzSnhmeG5nY08yTW1uQU5mWl91dXlRZ19NTFFDNDh5UllqQ2xIMFZhYWRjbXo4Zzd2Wk9KU0c4c1M3WllVSjdCLU5Od2hHUmN3WDVHUnRRdTYxUi0xUTFpM29qU1ZVOHdxS2tvYkFQT044Y3RWWVBtd201QVpoLVVaWktGUUM3QzloN2pMQUk4ZkRWOXRWcm1SajJ4cnEtM1Zock9qY215VFFFODhsdWVP?oc=5",
       "description": "Clover Hill Dairy Ricotta and Requeson Cheese Linked to a Listeria Outbreak Consumer Reports",
+      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Dairy",
+      "title": "Unhomogenised milk boom prompts Waitrose farm investment - FarmingUK",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOWNLMHZMUkZqQ24wLXNHbkVtbGNzWkZ6eXcwa25TQ0xMTnp3cUlhYzhpSWhUNXRVMWFFM3ptSjk1UXA1U0Y1c3hJalpXOUJDNjFndTVQVzdvNWs5cmgxN0xIUG1YWXhHQWV6aUpCVEdPcG5CeDVncTdodHphZlRxM2RNUWxqSGJ5RXU1ZU1MZ05TZnJYZWJXWlVudXY2Ujg?oc=5",
+      "description": "Unhomogenised milk boom prompts Waitrose farm investment FarmingUK",
       "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT"
     },
     {
@@ -329,27 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUVPWXN3Sk4tNHFLMUtXZmFIUDJ2WFcyRjhuSVo2c2pxVHlCOWc2c1U1NThubHJNNXdkZlJzbFNEbmNYU2RhX3FrZ3lzRDJCVGRlMGdrdjJCX05lb3V6NEY3emtNWmJKV3Jhemgza25iZzFlWFh4NG1udC1xWjY5V2VfTko1ZEFJM3JoeUp5YzBOLUJpVkVPMGF2SVRVbHlmaUZ4Q050ZUxIaWRaQWVYR213?oc=5",
       "description": "Duckweed Protein Benefits: Is This Aquatic Plant a Sustainable Superfood? News-Medical",
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Rewriting the recipe: the next 25 years of innovation - Food and Drink Technology",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMUstc3dfZjFaTW9YNFRhelRhQmRsSEFVVjFGc0tZZE1jMjZXWXhqaXc2VEd6M2pPOWxrSmU1SGNNNXBLTE9wLUcxZ2lTeFVqM19NZUNJeXJycVQxWGQ3UDV5MklIbEw2NHREa3h6Y1BtajhOTXlWZGhJY2JoU21BM0NGY0pxLWJiSTk1TWhSTGJSUEtE?oc=5",
-      "description": "Rewriting the recipe: the next 25 years of innovation Food and Drink Technology",
-      "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Listeria Outbreak Linked to Prepared Pasta Meals - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVljR2g1SWZ1cDJkZE5xMkgxMVR6emh2WXplNFBSaUs3Ni1LaF9ySk54QmtwWDd2SWU5YUdfQnhfLWhJX1lQZmhJQ2xMZkU0MDlHeHQzR2xZQlNiWHhYUmQxcUZuZF93WjU3TnBTbDVyaVBVWXVGMlZyamFjLVc5elB4WTdGdjV2VGc?oc=5",
-      "description": "Listeria Outbreak Linked to Prepared Pasta Meals Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Thu, 12 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Equipment & Machines",
-      "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXhUbEgxOUMycF9EN0RUdmxwWWt1WUVyYU1iUnQ0R2FCTlZZcTlFUEMwaG45Z0lGZHpQNGpXTFJEcW9HNm1RN1lSNzZFX2M4QnllM3NmMXc2UVRMTWFvNHM2dXkyc01pNHJ5MlpvWTNMQWJDdUxvc1I5NWR2NFIzOS1vWGFNMUtiZ2d2NVRUVHVTTk9BdENMUmZkcjZZc2VwUXowOGhXWWRvcGQ5T2wtYjRhbTNzSlFrUHZXWmNLWFYzUVlNUE1uTG1xYk5EUDFHQkVsSlJFcHhDN3BTM0dWcnp6MVNOc1VUbFB1ZUJMYzhMenJRNkRkeS1maTlYNGozbEthVW1B?oc=5",
-      "description": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility PR Newswire",
-      "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     }
   ]
 }
