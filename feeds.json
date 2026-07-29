@@ -1,19 +1,19 @@
 {
-  "updated": "2026-07-29T02:38:50.707453+00:00",
+  "updated": "2026-07-29T06:30:46.372287+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Poultry firm reveals Salmonella contamination cost",
+      "link": "https://www.foodsafetynews.com/2026/07/poultry-firm-reveals-salmonella-contamination-cost/",
+      "description": "A poultry company in England has disclosed how a Salmonella contamination incident will likely cost it &#xA3;2.1 million ($2.8 million). &#xA0; Between March 23 and April 10 this year, there was Salmonella contamination in Joice and Hill Poultry&#x2019;s hatchery and the site was closed from",
+      "pubDate": "Wed, 29 Jul 2026 04:01:59 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "CDC reports more than 2,000 more patients in Cyclospora outbreak",
       "link": "https://www.foodsafetynews.com/2026/07/cdc-reports-more-than-2-000-more-patients-in-cyclospora-outbreak/",
       "description": "Consumer, industry groups ask Senate committee to restore CDC tracking efforts",
       "pubDate": "Wed, 29 Jul 2026 02:02:59 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Bacon, eggs and lettuce safe to eat? See latest on these food recalls - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZHBQZ0JabnYtX083Z0FnMnpLQkZYN0xVQVJ5OHJkQ3ZFck9DLXRQT0FiSTR1eGpYX2NDWlRXbHYwSElxdU91LVVyVG1UWmRpbURva1pBZU51WmJvTDBBdXBDNGkzcDROdlBMMGNHSDNYX1BzTUltZ2k4aFB5azF3S0ZjWkVacE13LVpVZnduUUhuVlFBc1NFaW5sUWxMa1ludFJ5bmIzTGxOVUVldjFRRk9HdmE?oc=5",
-      "description": "Bacon, eggs and lettuce safe to eat? See latest on these food recalls USA Today",
-      "pubDate": "Tue, 28 Jul 2026 21:12:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -38,6 +38,13 @@
     },
     {
       "source": "Salmonella Outbreaks",
+      "title": "Egg-related Salmonella outbreak sickens nearly 100 in 17 US states - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2NYZjd5dC00RUxPaGV1OF9HSTAySlBZZy1ScXBfOG1xQnlGRU9QYXFINVNWbUVocm5VR2RKaGQ5TDBnT1JJdnZoeVJrZk5zbUVYbVRVaXpGT1pRWUNLcS1CSE43RlRMV1puOHFjb1BBVzVGSE96My1saC15SjBYVDVaTVNsNG1RQlVKRHNtMjNfdVJuSk9LRE9pMTgwcDFsREdBbldILVNqc0kx?oc=5",
+      "description": "Egg-related Salmonella outbreak sickens nearly 100 in 17 US states CIDRAP",
+      "pubDate": "Mon, 27 Jul 2026 20:19:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
       "title": "Nearly 100 Sick in Multistate Salmonella Outbreak, Millions of Eggs Recalled - Food Safety Magazine",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOWp4MS1vOW11ZVpvXzZoSjlManJ3YWRSak03N3lTTnA3OS1fNVBGc1FvYkFCR3RCSkRqandqREZzSi1nN0xRTG55OE81elhHN1poM0ZCMmtmWnEteGZfa3Y1MVVZek55bjh5NXp6VXMxOVBtUkhkdndYS2toT3VLaDlLbzQ5elNUM0hDQWZqQmVhajNxQ19PMXhMTGVUTHloX2N5SWE2SjZMMWNMc25vaXBCV2M0RU1OZ0E?oc=5",
       "description": "Nearly 100 Sick in Multistate Salmonella Outbreak, Millions of Eggs Recalled Food Safety Magazine",
@@ -49,20 +56,6 @@
       "link": "https://www.foodsafetynews.com/2026/07/italian-data-shows-hus-decline-in-2025/",
       "description": "More than 40 cases of a serious condition that can develop after an E. coli infection were reported in 2025 in Italy. Hemolytic uremic syndrome (HUS) is a severe complication associated with Shiga toxin-producing E. coli (STEC) infections that can cause kidney failure, brain damage and death.",
       "pubDate": "Mon, 27 Jul 2026 04:00:16 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Sunday Edition: A Directory of Foodborne Diseases",
-      "link": "https://www.foodsafetynews.com/2026/07/todays-topic-a-directory-of-foodborne-diseases/",
-      "description": "There are 48 million cases of foodborne illness annually in the United States, according to the Centers for Disease Control and Prevention.",
-      "pubDate": "Sun, 26 Jul 2026 12:00:12 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "CDC, FDA say Cyclospora outbreak more widespread that originally thought",
-      "link": "https://www.foodsafetynews.com/2026/07/cdc-fda-say-cyclospora-outbreak-more-widespread-that-originally-thought/",
-      "description": "The CDC and FDA are tracking at least two major outbreaks of infections from the Cyclospora parasite with a combined number of confirmed patients approaching 7,000. The first outbreak, according to the Centers for Disease Control and Prevention, is linked to Taylor Farms iceberg lettuce products and associated with",
-      "pubDate": "Sat, 25 Jul 2026 02:08:23 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -226,7 +219,7 @@
       "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Equipment & Machines",
+      "source": "HPP Meat & Deli",
       "title": "High Pressure Processing Hpp Foods Market Size, Share, Growth | Report 2035 - Market Research Future",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNODAxNkJRV3hqMk5XbklwU3dCNDlwYW1JQ0hJc3pQN3FkSFRjZUlfblFIckFGMUt6M2M5a1R4eGZpdk9ia1NyeVJfazFDSUlrN1dRTEZYVEZSMS1mQ01yRHkxNGZwVHR1bno4NTlPdDFqUUFOUERyRDA1eDRqWEpaZDJ0akRKZWdfNklYYVhKS0o2Zw?oc=5",
       "description": "High Pressure Processing Hpp Foods Market Size, Share, Growth | Report 2035 Market Research Future",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVljR2g1SWZ1cDJkZE5xMkgxMVR6emh2WXplNFBSaUs3Ni1LaF9ySk54QmtwWDd2SWU5YUdfQnhfLWhJX1lQZmhJQ2xMZkU0MDlHeHQzR2xZQlNiWHhYUmQxcUZuZF93WjU3TnBTbDVyaVBVWXVGMlZyamFjLVc5elB4WTdGdjV2VGc?oc=5",
       "description": "Listeria Outbreak Linked to Prepared Pasta Meals Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Thu, 12 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Equipment & Machines",
+      "title": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXhUbEgxOUMycF9EN0RUdmxwWWt1WUVyYU1iUnQ0R2FCTlZZcTlFUEMwaG45Z0lGZHpQNGpXTFJEcW9HNm1RN1lSNzZFX2M4QnllM3NmMXc2UVRMTWFvNHM2dXkyc01pNHJ5MlpvWTNMQWJDdUxvc1I5NWR2NFIzOS1vWGFNMUtiZ2d2NVRUVHVTTk9BdENMUmZkcjZZc2VwUXowOGhXWWRvcGQ5T2wtYjRhbTNzSlFrUHZXWmNLWFYzUVlNUE1uTG1xYk5EUDFHQkVsSlJFcHhDN3BTM0dWcnp6MVNOc1VUbFB1ZUJMYzhMenJRNkRkeS1maTlYNGozbEthVW1B?oc=5",
+      "description": "American Pasteurization Company Expands High Pressure Processing Capacity with New Hiperbaric 525 at Milwaukee Facility PR Newswire",
+      "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
     }
   ]
 }
