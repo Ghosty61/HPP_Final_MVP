@@ -1,13 +1,6 @@
 {
-  "updated": "2026-07-30T10:24:27.272064+00:00",
+  "updated": "2026-07-30T14:01:48.407931+00:00",
   "articles": [
-    {
-      "source": "Listeria Outbreaks",
-      "title": "5 Dangerous Foods To Avoid During the ‘Explosive Diarrhea’ Cyclosporiasis Outbreak - Allrecipes",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYmRwUks3NTQ3blVzNGlFT3NQZjFkRzFXU0toWEc0ODd2VzMwbW9hNHRfT1dSSFlkejdCa3VtUWtOVWVZWVJ1TjNfdXZ5eG5oaE9OVl9CNzJjYWh4YlNqemVHZGd6UjVvWDlqaFNHdkRpaGJTRzBHa1dwbXZOWlZzYk9mR2JUbmY0?oc=5",
-      "description": "5 Dangerous Foods To Avoid During the ‘Explosive Diarrhea’ Cyclosporiasis Outbreak Allrecipes",
-      "pubDate": "Thu, 30 Jul 2026 07:25:08 GMT"
-    },
     {
       "source": "Food Safety News",
       "title": "Cyclospora outbreak patient count tops 20,000",
@@ -56,6 +49,13 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM29NRXg0WXVha25KbzRLcm9zV0dRUG81ZVhpaGllbzdRR0FyVm1uVDBtVTZkR01tR1VKck56c2xxSC0yRDB1bUsyajAyd19Eb1I4UWRtY0VMVU9VNFlrWGJDSzdDQms0T0VwbE04WWl1V2k5b3cxZmVCSXZPUlg3OTI5Uzh1b2ZPRUhhZ0t6ckhqdHhhQVhfdzVJaVI1dEUtRy1OZERuMGwzY3RUdTc0UUZadFRKVU1JRmFWQVFwZHg3UWc0U3drMUVvZmY?oc=5",
       "description": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts TCT Magazine",
       "pubDate": "Wed, 29 Jul 2026 07:47:44 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "5 Dangerous Foods To Avoid During the ‘Explosive Diarrhea’ Cyclosporiasis Outbreak - Allrecipes",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYmRwUks3NTQ3blVzNGlFT3NQZjFkRzFXU0toWEc0ODd2VzMwbW9hNHRfT1dSSFlkejdCa3VtUWtOVWVZWVJ1TjNfdXZ5eG5oaE9OVl9CNzJjYWh4YlNqemVHZGd6UjVvWDlqaFNHdkRpaGJTRzBHa1dwbXZOWlZzYk9mR2JUbmY0?oc=5",
+      "description": "5 Dangerous Foods To Avoid During the ‘Explosive Diarrhea’ Cyclosporiasis Outbreak Allrecipes",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Innovation & Research",
@@ -114,6 +114,13 @@
       "pubDate": "Wed, 22 Jul 2026 14:00:00 GMT"
     },
     {
+      "source": "UK Food Industry",
+      "title": "Handtmann marks 40 years of UK innovation - Food Manufacture",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkZPZExqWkhlWTBHaTVhckFISWlDaTNLVDhGZ0pNSGxBUDJ0SngySFF3YmtZUk1UaGltVm81MHU5TEpuZlNZdnVmRGw5NWcwcjJ1NzF3OGdLUTl5VEVzUTdqYTRpbEJyd1N5NnhkdmIxQ1U1bTExaElzX01FSnNNVDZR?oc=5",
+      "description": "Handtmann marks 40 years of UK innovation Food Manufacture",
+      "pubDate": "Wed, 22 Jul 2026 11:26:12 GMT"
+    },
+    {
       "source": "Food Safety UK & EU",
       "title": "M&S, Tesco and Lidl issue 'do not eat' food poisoning warnings — full list - Wales Online",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT2ttSXdHM0NzTE5yZnBjdHZMazMtR3N4T0FhUzc3QjJ6bjBOeFYtemwyM3VhRTdFcGVVOHhoMFdoOGFrdGZxSXloUmlueWtleFBZelFwbVRDZi1WX3R0X0VLWjlWUHRGY0pDRGZwd1ZyRFhZak42M25aWnlFbFlEWXNfQdIBiAFBVV95cUxQemh6MVdJU0d2Z3AwTHlIVk5WQ0xVdkoxVE1ibnNZMk5Gd0s5WUxqNVd6a3ZqTjBCdWZzYXQxcmNZYlRkVlgxaHpQU1hkUnhVeFpTS3ZkbUtRX1FyVUNuZTNVRTZoQW11OHgyYXJEam5CUlVGX2xDMzh4X2RFZ3p2eVhHcXdzcFYx?oc=5",
@@ -143,9 +150,9 @@
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "What to know about cyclosporiasis, the intestinal illness hitting the U.S. - NPR",
+      "title": "What to know about cyclosporiasis, the intestinal illness hitting the U.S. - npr.org",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSjFFRkx0MTU2UktlTk5mamhEZVR5S0dPZnVPU3RpZkRSbUszMDdIeUtNMXo0OWs1Q3N3V3Z4dG9UT1BITWlmbVVFendIZTNucVhYUExrQ3I4Sjl5VW9nQlRUWWoxMzQ5UUs2NkRVVGJaZE1IdG1mQmJFdkIxNjlNbkgzWlEwanUwLVhGMF9VOHI1TmgzdUF6RGh3UTF4RjQ?oc=5",
-      "description": "What to know about cyclosporiasis, the intestinal illness hitting the U.S. NPR",
+      "description": "What to know about cyclosporiasis, the intestinal illness hitting the U.S. npr.org",
       "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
@@ -164,9 +171,9 @@
     },
     {
       "source": "HPP Seafood",
-      "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - The New Indian Express",
+      "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - newindianexpress.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
-      "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
+      "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur newindianexpress.com",
       "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
@@ -213,9 +220,9 @@
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "Clover Hill Dairy Expands Recall to All Cheese Products as Listeria Outbreak Investigation Continues - qualityassurancemag.com",
+      "title": "Clover Hill Dairy Expands Recall to All Cheese Products as Listeria Outbreak Investigation Continues - Quality Assurance & Food Safety",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV0Y1cXFwRmQzb1I4UkZWaUc2bDc0eUV0cEdsbHhEdUh2dFhhQlJVX2M2UVUyd3J5dExOc3NPd2JVQ2pxSlFORUx6d2w3MGlGVkhjaXhFeDVaMWlHTHJ4NkpCOU9vdm1sU00xY0NCX2VMQzRaN0FVUFl3TTN6a2EzTEJYT0M0Wm5xRzZveW1OZHVRQmJQV0ZHR2g5WnpDV2JzaFZfS1hBU29WM0xSenpzQzhnbVJ1OW5SV2c3U1JfTnRjWkpucDlLV3l3ZV9kYkNIUWUycmtn?oc=5",
-      "description": "Clover Hill Dairy Expands Recall to All Cheese Products as Listeria Outbreak Investigation Continues qualityassurancemag.com",
+      "description": "Clover Hill Dairy Expands Recall to All Cheese Products as Listeria Outbreak Investigation Continues Quality Assurance & Food Safety",
       "pubDate": "Mon, 15 Jun 2026 07:00:00 GMT"
     },
     {
@@ -255,9 +262,9 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Salmonella: Lidl Ireland recalls chicken products over bacteria concerns - bbc.co.uk",
+      "title": "Salmonella: Lidl Ireland recalls chicken products over bacteria concerns - BBC",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QeHNyYUxYNldZbzUyemkxTV9GTjRidEp0S05ncjdkRWw3TGVTeElKZy01N0JiZWNQa1VpMVpPVXRzMmtrdEsyamkxak1JaktRakpGaVRHZExBX3dU?oc=5",
-      "description": "Salmonella: Lidl Ireland recalls chicken products over bacteria concerns bbc.co.uk",
+      "description": "Salmonella: Lidl Ireland recalls chicken products over bacteria concerns BBC",
       "pubDate": "Tue, 12 May 2026 07:00:00 GMT"
     },
     {
@@ -342,13 +349,6 @@
       "title": "The pros of processing automation - Beverage Industry",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT0wwejZtUlBTU3NMOTZ4RUpTSWVUUzJId0N0MmJPVloxZmYycWlyN1czUW1QblNaWlA5UlJrd2ZuenAyVHpDOUxUVmQ0eGRSYmlkSmpqXzdKWkxIZ0RtNS12WkstZFdWTVFUN3VYNkF2U2g2dXRudWVTVGJRMGlOYU93?oc=5",
       "description": "The pros of processing automation Beverage Industry",
-      "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Healthcare & Medical",
-      "title": "Duckweed Protein Benefits: Is This Aquatic Plant a Sustainable Superfood? - News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUVPWXN3Sk4tNHFLMUtXZmFIUDJ2WFcyRjhuSVo2c2pxVHlCOWc2c1U1NThubHJNNXdkZlJzbFNEbmNYU2RhX3FrZ3lzRDJCVGRlMGdrdjJCX05lb3V6NEY3emtNWmJKV3Jhemgza25iZzFlWFh4NG1udC1xWjY5V2VfTko1ZEFJM3JoeUp5YzBOLUJpVkVPMGF2SVRVbHlmaUZ4Q050ZUxIaWRaQWVYR213?oc=5",
-      "description": "Duckweed Protein Benefits: Is This Aquatic Plant a Sustainable Superfood? News-Medical",
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     }
   ]
