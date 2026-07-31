@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-31T02:50:08.543020+00:00",
+  "updated": "2026-07-31T06:43:21.852693+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Patient counts in Cyclospora outbreak continue to increase",
+      "link": "https://www.foodsafetynews.com/2026/07/patient-counts-in-cyclospora-outbreak-continue-to-increase/",
+      "description": "“We may well be on a downslope,” said Craig Hedberg, PhD, professor of environmental health sciences at the University of Minnesota’s School of Public Health,.",
+      "pubDate": "Fri, 31 Jul 2026 04:06:03 GMT"
+    },
     {
       "source": "Salmonella Outbreaks",
       "title": "Salmonella Outbreak Linked To Recall Of 19 Million Eggs Expands To These 17 States - DailyVoice.com",
@@ -17,7 +24,7 @@
     },
     {
       "source": "Food Safety News",
-      "title": "Chicken salad recalled because of contamination with Listeria",
+      "title": "Warning issued for chicken salad because of contamination with Listeria",
       "link": "https://www.foodsafetynews.com/2026/07/chicken-salad-recalled-because-of-contamination-with-listeria/",
       "description": "The USDA&apos;s Food Safety and Inspection Service (FSIS) is issuing a public health alert for Curry Chicken Salad because of concerns that the product may be contaminated with Listeria monocytogenes. A recall was not requested because the products are no longer available for purchase. The Curry Chicken Salad",
       "pubDate": "Fri, 31 Jul 2026 01:26:50 GMT"
@@ -44,13 +51,6 @@
       "pubDate": "Thu, 30 Jul 2026 04:05:36 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "FDA continues investigations of several outbreaks",
-      "link": "https://www.foodsafetynews.com/2026/07/fda-continues-investigations-of-several-outbreaks/",
-      "description": "An outbreak of Salmonella infections has doubled in size during the past week. The Food and Drug Administration reports that the outbreak of Salmonella Javiana infections now has 212 patients, up from 106 a week ago. The agency is not reporting the patients&#x2019; ages or where they live. A",
-      "pubDate": "Thu, 30 Jul 2026 04:04:12 GMT"
-    },
-    {
       "source": "Hiperbaric",
       "title": "Hiperbaric to supply first Spanish-built HIP system to TTT Group - Metal Additive Manufacturing magazine",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2pMRnhXaDV5blFZbGRMRUxQb1dxRFJFQXl2Z29WOEc1Ry1RNWdNSFVCUHhGb3cxMHhVOWJIRUt6QnF1MW5tdWRiaDdvNExubUN0WVB1RW41dEVhcVFuUTdFLVdXaFRIU1FOempJZk90MVFjRXdnTGtUTzdxc2lYWTRWaWRjSU1iUDdvWVpCN3NTcGVL?oc=5",
@@ -59,16 +59,16 @@
     },
     {
       "source": "Hiperbaric",
-      "title": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts - tctmagazine.com",
+      "title": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts - TCT Magazine",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM29NRXg0WXVha25KbzRLcm9zV0dRUG81ZVhpaGllbzdRR0FyVm1uVDBtVTZkR01tR1VKck56c2xxSC0yRDB1bUsyajAyd19Eb1I4UWRtY0VMVU9VNFlrWGJDSzdDQms0T0VwbE04WWl1V2k5b3cxZmVCSXZPUlg3OTI5Uzh1b2ZPRUhhZ0t6ckhqdHhhQVhfdzVJaVI1dEUtRy1OZERuMGwzY3RUdTc0UUZadFRKVU1JRmFWQVFwZHg3UWc0U3drMUVvZmY?oc=5",
-      "description": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts tctmagazine.com",
+      "description": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts TCT Magazine",
       "pubDate": "Wed, 29 Jul 2026 07:47:44 GMT"
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "5 Dangerous Foods To Avoid During the ‘Explosive Diarrhea’ Cyclosporiasis Outbreak - Allrecipes",
+      "title": "5 Dangerous Foods To Avoid During the ‘Explosive Diarrhea’ Cyclosporiasis Outbreak - allrecipes.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYmRwUks3NTQ3blVzNGlFT3NQZjFkRzFXU0toWEc0ODd2VzMwbW9hNHRfT1dSSFlkejdCa3VtUWtOVWVZWVJ1TjNfdXZ5eG5oaE9OVl9CNzJjYWh4YlNqemVHZGd6UjVvWDlqaFNHdkRpaGJTRzBHa1dwbXZOWlZzYk9mR2JUbmY0?oc=5",
-      "description": "5 Dangerous Foods To Avoid During the ‘Explosive Diarrhea’ Cyclosporiasis Outbreak Allrecipes",
+      "description": "5 Dangerous Foods To Avoid During the ‘Explosive Diarrhea’ Cyclosporiasis Outbreak allrecipes.com",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
@@ -80,9 +80,9 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Egg-related Salmonella outbreak sickens nearly 100 in 17 US states - CIDRAP",
+      "title": "Egg-related Salmonella outbreak sickens nearly 100 in 17 US states - cidrap.umn.edu",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2NYZjd5dC00RUxPaGV1OF9HSTAySlBZZy1ScXBfOG1xQnlGRU9QYXFINVNWbUVocm5VR2RKaGQ5TDBnT1JJdnZoeVJrZk5zbUVYbVRVaXpGT1pRWUNLcS1CSE43RlRMV1puOHFjb1BBVzVGSE96My1saC15SjBYVDVaTVNsNG1RQlVKRHNtMjNfdVJuSk9LRE9pMTgwcDFsREdBbldILVNqc0kx?oc=5",
-      "description": "Egg-related Salmonella outbreak sickens nearly 100 in 17 US states CIDRAP",
+      "description": "Egg-related Salmonella outbreak sickens nearly 100 in 17 US states cidrap.umn.edu",
       "pubDate": "Mon, 27 Jul 2026 20:19:00 GMT"
     },
     {
@@ -114,13 +114,6 @@
       "pubDate": "Fri, 24 Jul 2026 09:34:46 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "Handtmann marks 40 years of UK innovation - Food Manufacture",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkZPZExqWkhlWTBHaTVhckFISWlDaTNLVDhGZ0pNSGxBUDJ0SngySFF3YmtZUk1UaGltVm81MHU5TEpuZlNZdnVmRGw5NWcwcjJ1NzF3OGdLUTl5VEVzUTdqYTRpbEJyd1N5NnhkdmIxQ1U1bTExaElzX01FSnNNVDZR?oc=5",
-      "description": "Handtmann marks 40 years of UK innovation Food Manufacture",
-      "pubDate": "Wed, 22 Jul 2026 11:26:12 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
       "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
@@ -129,9 +122,9 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "M&S, Tesco and Lidl issue 'do not eat' food poisoning warnings — full list - Wales Online",
+      "title": "M&S, Tesco and Lidl issue 'do not eat' food poisoning warnings — full list - walesonline.co.uk",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT2ttSXdHM0NzTE5yZnBjdHZMazMtR3N4T0FhUzc3QjJ6bjBOeFYtemwyM3VhRTdFcGVVOHhoMFdoOGFrdGZxSXloUmlueWtleFBZelFwbVRDZi1WX3R0X0VLWjlWUHRGY0pDRGZwd1ZyRFhZak42M25aWnlFbFlEWXNfQdIBiAFBVV95cUxQemh6MVdJU0d2Z3AwTHlIVk5WQ0xVdkoxVE1ibnNZMk5Gd0s5WUxqNVd6a3ZqTjBCdWZzYXQxcmNZYlRkVlgxaHpQU1hkUnhVeFpTS3ZkbUtRX1FyVUNuZTNVRTZoQW11OHgyYXJEam5CUlVGX2xDMzh4X2RFZ3p2eVhHcXdzcFYx?oc=5",
-      "description": "M&S, Tesco and Lidl issue 'do not eat' food poisoning warnings — full list Wales Online",
+      "description": "M&S, Tesco and Lidl issue 'do not eat' food poisoning warnings — full list walesonline.co.uk",
       "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT"
     },
     {
@@ -149,11 +142,18 @@
       "pubDate": "Fri, 17 Jul 2026 08:03:10 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "Europe Urea Market Size, Share, & Growth, 2034 - Market Data Forecast",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94dFJES3E1ZkZKVnV6aEFVbmd5M0dxQTNqVkFZQWxzT081X1NDdFhJMW1Wend5SGM1RUtidHF6WUFidGpDdTBHenJrcVNJYjh1RlpSZ2ZkekdqTDhUc05vMHUwNG95aFJZUGVtSHoxRFdmelRKa1dJ?oc=5",
-      "description": "Europe Urea Market Size, Share, & Growth, 2034 Market Data Forecast",
-      "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT"
+      "source": "Listeria Outbreaks",
+      "title": "US restaurant chains hit by foodborne illness outbreaks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYUdvcWozQmFvZk96QUMyazVaNjBzRE5BZUhsdFNxNW1HYld1NHZNc1NTSnZERXlVaE1kNlV5R3BidEJjcGZOcHNRVGxzY0h2VWp1dVRlclJvcWFURFZYN2poRHNjRFFMVWJFdllWRjhvRUN5eUktd05wT04xRXVEMGpySUpvS2lNNXNzd1BkenlCR3NvSlQ2V2E5S2x6XzBpelFxS0dhQmtCVDBf?oc=5",
+      "description": "US restaurant chains hit by foodborne illness outbreaks Reuters",
+      "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "CAFRE student scoops success with Dale Farm placement - Department of Agriculture, Environment and Rural Affairs",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY3VtQjF6bjdGNWluREU0S1dBbEJ4cGlkb3VJZHRvWmFFRkd4cmVDZWlCbkVCVEdJZWRzSThEbkwydXBBNHo1TXN2amUtdEhYU1RLUWY0aldKdU8zVDdidnFIWXV6b3owTVdUVnJwU1pYUDhZbmp1YWEtOU9ELUVqZWVvSjVHNVZI?oc=5",
+      "description": "CAFRE student scoops success with Dale Farm placement Department of Agriculture, Environment and Rural Affairs",
+      "pubDate": "Wed, 15 Jul 2026 10:28:33 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -164,9 +164,9 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Tesco, Lidl and M&S deadly bacteria fears plus Co-op and Ocado urgent recalls - Manchester Evening News",
+      "title": "Tesco, Lidl and M&S deadly bacteria fears plus Co-op and Ocado urgent recalls - manchestereveningnews.co.uk",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzFEelYtYTB4S1RpSUdBSjNJYjVQZDdmREszZEo4MnZOTEtWUEp1YjR0ZkVBcGNEekViQVBZNEFDbEdCLTNldW96VXhTdUhwUkpKZkdPcDc5cU5fSi1FcVZ3d0duQzA2bDZMVVZlTHhIQUJoWkVwNU40WGJmNU5yY3NucGxKczBrek4yZXpiSnBUVknSAZgBQVVfeXFMTkRIWGt5bS1zcHhaSWVrVFp0cnBRMllGVVFoX2dFZ3JQOTQyZFp1Q09MV2pKSGVLckdDQlUxUW94bjl5bnlISUdrRHRxR1NUTEVZbVAxYXJIQ3R0RV9YUzFHVkZ5c3MyS1pMNHBkcThyQ2lWZTgyZkxzbmstclBjR1pjZnE5eXZhQjFxWnVkelhGdEZTdklJbUM?oc=5",
-      "description": "Tesco, Lidl and M&S deadly bacteria fears plus Co-op and Ocado urgent recalls Manchester Evening News",
+      "description": "Tesco, Lidl and M&S deadly bacteria fears plus Co-op and Ocado urgent recalls manchestereveningnews.co.uk",
       "pubDate": "Sat, 11 Jul 2026 07:00:00 GMT"
     },
     {
@@ -191,6 +191,13 @@
       "pubDate": "Thu, 02 Jul 2026 00:40:04 GMT"
     },
     {
+      "source": "EU HPP & Food Tech",
+      "title": "Europe Pressure Vessel Market Size & Share, 2034 - Market Data Forecast",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUThCSHBjT29LemxoZ3dSbGY5WkxMQkRmZW9QZV8xM1F0bXozNGl1WmdpU1h5b3dMOGpRTUdSSUVLblRZNGw1eWp6VmRaZ1Q2Q2VIOFpRWmJVNVNMakxFakJ5TlcyTHhkdHlxd0tmQlJfZXNvQmE4eDJ4cHJoNWdMUkVEc21Fdw?oc=5",
+      "description": "Europe Pressure Vessel Market Size & Share, 2034 Market Data Forecast",
+      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
+    },
+    {
       "source": "UK Food Industry",
       "title": "UK Food Valley highlights innovation and ambition at Lincolnshire Show Brunch - Lincolnshire County Council",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZElmZFZsNzZXMlNWQlZQTm96OHZEYW1kdkJWWTlQQS14dUd2OFhHVURRMkpBcFZ0SU5hOG5oSWxpVVdTZFdYcFF5R0VSNjZ5UEx5QzctaWFZdlRaM2xlWW5QX2tRUnlMeVE1bXAyUFRNVzlEWlgxOEd5NHNfSEdidngzWjNGclRfU21IUWNMRGtlcU5jNEFNUDRoNExmc1VKemVEaFF6M3YtYzUzeDFDNVFLTVJnaDh4ZXdSaU1iYjdqLVFPZHc?oc=5",
@@ -203,13 +210,6 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaExyNHUyeE9rM0ZPN2dtQk0yMzllUTFZQnBYMnE5SkxXZGpLVlZwTk54eWY2eFF6S3RZWFFUcUR1Yjk5WXVaUGRIQV8zN2d4Y2doUzNPM1RiVkxjdy0yNDExTV9pN1hybUpYbE1iSU5pcnlMcUN0TGZJTUZpc28yR2VEU1M0M0dGc0k2a2lUVjcwQS1OZlFB?oc=5",
       "description": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 Fortune Business Insights",
       "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Cottage cheese recalled in connection with deadly Listeria outbreak - foodsafetynews.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkNvc2dEejNjNHd6TFhBQ3AtaWZQanc1bTlnaHBHZ2xwLUFSZ19La1RaVGctSTZhMGZWMXV0Z1hIT3k4Q1F2WU9XRFg0dnFMWGJLd05nWHRobE5Pa1NnWk0ycWltWmtPeFQzWDRkY2xtcWFpOTk5a3NKOWVOZWd4WkEtNTRPbjE2dWFuMy1Xd1ZiaUVNc2E0anR2a0FaNUZDOEV3MHdNNXdyTWc?oc=5",
-      "description": "Cottage cheese recalled in connection with deadly Listeria outbreak foodsafetynews.com",
-      "pubDate": "Sun, 28 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Soups & Meals",
@@ -332,9 +332,9 @@
     },
     {
       "source": "Hiperbaric",
-      "title": "Oklahoma strengthens food processing infrastructure with $7M university investment - provisioneronline.com",
+      "title": "Oklahoma strengthens food processing infrastructure with $7M university investment - The National Provisioner",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR1dSVXFKNTFkUDdvMnlrbXlDTng5aHdYZ1owcmpUWFdLMk90dDRuX3hhejlYWjZjMDdHZUxLWFpWNklEUE9nZlUtNU12U2lPSjJsamVNdmpHekFMV1VFNU11cm9BWTJHb1NzTUJ5LVpNWXN6U3ZfUzJ2M3Bsamg3ZVpkY0Nya3c5X28wclhhUlZFV0NJNVVOTU1TZlRFX2tRcGFxV0xBNVpxQk1DaG5VdHF0RFFialYyd0MwOFJiQ01qSmVOSEhHTl9Eaw?oc=5",
-      "description": "Oklahoma strengthens food processing infrastructure with $7M university investment provisioneronline.com",
+      "description": "Oklahoma strengthens food processing infrastructure with $7M university investment The National Provisioner",
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     },
     {
