@@ -1,19 +1,19 @@
 {
-  "updated": "2026-07-31T10:38:46.070002+00:00",
+  "updated": "2026-07-31T14:06:49.942028+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Publisher's Platform: The Fifty-State Cyclospora Count Is 20,927 This Morning. The President Has Said One Thing About It. The Secretary Says It Is Under Control. Here Is What They Should Have Said Instead.",
+      "link": "https://www.foodsafetynews.com/2026/07/publishers-platform-the-fifty-state-cyclospora-count-is-20-927-this-morning-the-president-has-said-one-thing-about-it-the-secretary-says-it-is-under-control-here-is-what-they-should-hav/",
+      "description": "Ohio released new numbers today — 4,013 cases in 80 counties, up from 2,576 a week ago. Add the states up, one by one, all fifty of them, and the floor under this outbreak this morning is 20,927 people.",
+      "pubDate": "Fri, 31 Jul 2026 13:48:57 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Patient counts in Cyclospora outbreak continue to increase",
       "link": "https://www.foodsafetynews.com/2026/07/patient-counts-in-cyclospora-outbreak-continue-to-increase/",
       "description": "“We may well be on a downslope,” said Craig Hedberg, PhD, professor of environmental health sciences at the University of Minnesota’s School of Public Health,.",
       "pubDate": "Fri, 31 Jul 2026 04:06:03 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Salmonella Outbreak Linked To Recall Of 19 Million Eggs Expands To These 17 States - DailyVoice.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNENvM0NOazk4MjF2M2pfbW52WVdUUHk3aGFVcU5Fa1VQV0xfUWplbjF2LTNRQ09IdWRDRnBSYU9EbHgtdU9tNW56dEF6ZnQtYVptMFJGVE1xY0pVZnc2Q1lremtpeks3dkcyLXl1d3RQVGpkWjRjQzBUVHZ1Q3liWFEwMkFoOGU1Wnk5SGRLcWE5VmR0bUMxSGVYeFpVRjBkVktQTDdQakJScnV0aXc5Y291akE?oc=5",
-      "description": "Salmonella Outbreak Linked To Recall Of 19 Million Eggs Expands To These 17 States DailyVoice.com",
-      "pubDate": "Fri, 31 Jul 2026 02:37:51 GMT"
     },
     {
       "source": "Food Safety News",
@@ -42,13 +42,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMFBlMFg4UU1DSUxIdDhRQnpSc0F5RjBmTWE3Z0NMcGlvVEo5azJKdmR2T2t3N0RoRHpWTGJtZFRldkgtRWx4UnhKYUJNbUxCMEhDWW1kUFhFa1VoVmsxazFqLUFTdXdGYjYwUEp6XzNHMFptSDhjUGNNdmxjdjVSWDJya2FBUVgwUlFZd2E1Z0lHZDg2ZDZsOHp5YVZUS3BiVDFtZ0E0QTJZelZDMTRocERmMUw0UFEtcEZ3?oc=5",
       "description": "Outbreak Investigation of E. coli: Frozen Blueberries (July 2026) fda.gov",
       "pubDate": "Thu, 30 Jul 2026 21:33:56 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Cyclospora outbreak patient count tops 18,000",
-      "link": "https://www.foodsafetynews.com/2026/07/cyclospora-outbreak-patient-count-tops-20-000/",
-      "description": "Infections from microscopic parasite reported in 41 states",
-      "pubDate": "Thu, 30 Jul 2026 04:05:36 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -84,6 +77,13 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2NYZjd5dC00RUxPaGV1OF9HSTAySlBZZy1ScXBfOG1xQnlGRU9QYXFINVNWbUVocm5VR2RKaGQ5TDBnT1JJdnZoeVJrZk5zbUVYbVRVaXpGT1pRWUNLcS1CSE43RlRMV1puOHFjb1BBVzVGSE96My1saC15SjBYVDVaTVNsNG1RQlVKRHNtMjNfdVJuSk9LRE9pMTgwcDFsREdBbldILVNqc0kx?oc=5",
       "description": "Egg-related Salmonella outbreak sickens nearly 100 in 17 US states CIDRAP",
       "pubDate": "Mon, 27 Jul 2026 20:19:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Salmonella outbreak tied to recalled eggs spreads to Georgia - News4JAX",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONjI5WTFkbE4xTHM5SU82NHo3Q0ZkSlNtOTJYYnVuSFlDbDF1cmduaEI0dEJuLVBMSnNfN194YVRJeENoYjFHbGZJRXh2cURYTnBKc082aHIxa1JLVVpIcXdreUlQdW4zTGN2YzFJSmtWaThYWTlncEVfVU9jMl9qeTJMRlhWclNlbGRJSU1BNC01aFBwSnZMYW0tUGs3VWJUT3FwWlJCMWVBbVdT?oc=5",
+      "description": "Salmonella outbreak tied to recalled eggs spreads to Georgia News4JAX",
+      "pubDate": "Mon, 27 Jul 2026 18:05:18 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -156,6 +156,13 @@
       "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT"
     },
     {
+      "source": "EU HPP & Food Tech",
+      "title": "Europe Urea Market Size, Share, & Growth, 2034 - Market Data Forecast",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94dFJES3E1ZkZKVnV6aEFVbmd5M0dxQTNqVkFZQWxzT081X1NDdFhJMW1Wend5SGM1RUtidHF6WUFidGpDdTBHenJrcVNJYjh1RlpSZ2ZkekdqTDhUc05vMHUwNG95aFJZUGVtSHoxRFdmelRKa1dJ?oc=5",
+      "description": "Europe Urea Market Size, Share, & Growth, 2034 Market Data Forecast",
+      "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT"
+    },
+    {
       "source": "Listeria Outbreaks",
       "title": "What to know about cyclosporiasis, the intestinal illness hitting the U.S. - NPR",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSjFFRkx0MTU2UktlTk5mamhEZVR5S0dPZnVPU3RpZkRSbUszMDdIeUtNMXo0OWs1Q3N3V3Z4dG9UT1BITWlmbVVFendIZTNucVhYUExrQ3I4Sjl5VW9nQlRUWWoxMzQ5UUs2NkRVVGJaZE1IdG1mQmJFdkIxNjlNbkgzWlEwanUwLVhGMF9VOHI1TmgzdUF6RGh3UTF4RjQ?oc=5",
@@ -189,13 +196,6 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QMXhzcHRVa1RrN0s0NUZtdHJrQndFWjRUTElLVml5RWwyNDh3RUcxWkg0S2RqQXI0QVcwOWp4QUJobzdNVGRUTHJid0JVX09sUDhvMW1WMXFjaTZVeHo0STJFMElDTmlwSWY1aEQtWE92TTRxR092NFdKOA?oc=5",
       "description": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods Medical Xpress",
       "pubDate": "Thu, 02 Jul 2026 00:40:04 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Europe Pressure Vessel Market Size & Share, 2034 - Market Data Forecast",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUThCSHBjT29LemxoZ3dSbGY5WkxMQkRmZW9QZV8xM1F0bXozNGl1WmdpU1h5b3dMOGpRTUdSSUVLblRZNGw1eWp6VmRaZ1Q2Q2VIOFpRWmJVNVNMakxFakJ5TlcyTHhkdHlxd0tmQlJfZXNvQmE4eDJ4cHJoNWdMUkVEc21Fdw?oc=5",
-      "description": "Europe Pressure Vessel Market Size & Share, 2034 Market Data Forecast",
-      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -248,9 +248,9 @@
     },
     {
       "source": "EU HPP & Food Tech",
-      "title": "Bilbao warms up for Food4Future - EFA News - European Food Agency",
+      "title": "Bilbao warms up for Food4Future - efanews.eu",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hbXhObkJNemhSOXd0Y2kxZXJhaUVOSHhvREFBVGZPbVhDYUlBTlBYUS1ISG5iZ2VCNU1JSlVBTko3VFV5eHpxOGVyRVVDS2NBejJ6RExkd2VnYjYzcHdLXzlQOFVkbUVXTG5UcWRabUcwY0RUbHZMNzB3?oc=5",
-      "description": "Bilbao warms up for Food4Future EFA News - European Food Agency",
+      "description": "Bilbao warms up for Food4Future efanews.eu",
       "pubDate": "Tue, 19 May 2026 07:00:00 GMT"
     },
     {
@@ -297,9 +297,9 @@
     },
     {
       "source": "HPP Seafood",
-      "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - seafoodsource.com",
+      "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
-      "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence seafoodsource.com",
+      "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
       "pubDate": "Tue, 31 Mar 2026 09:53:10 GMT"
     },
     {
@@ -311,9 +311,9 @@
     },
     {
       "source": "HPP Seafood",
-      "title": "Greenhead Lobster continuing to refine its premium lobster products - seafoodsource.com",
+      "title": "Greenhead Lobster continuing to refine its premium lobster products - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXZMXzNQYVBNSGZZXzRBWGF4UnBjVjdSeVoyVE9xN2VYMUwzNGZoTTFYVUJ1S1FCVUNiTkt3WWhSX01wd3ZrMXNxbFlYMGs4aVBjeV9iMVBiX1JDQm1YU2hNbTZHemRnWGoxdzF4ZG1MWWZUN0k3aVhKVEtIWU1ZZUlrazRhY2h1VjN6ZVR0YjJXeXZPVjVuNngwUnRVemVOUUJud1dnR01wTHR0emxKc29QQjlWZw?oc=5",
-      "description": "Greenhead Lobster continuing to refine its premium lobster products seafoodsource.com",
+      "description": "Greenhead Lobster continuing to refine its premium lobster products SeafoodSource",
       "pubDate": "Thu, 19 Mar 2026 17:56:16 GMT"
     },
     {
@@ -332,9 +332,9 @@
     },
     {
       "source": "Hiperbaric",
-      "title": "Oklahoma strengthens food processing infrastructure with $7M university investment - provisioneronline.com",
+      "title": "Oklahoma strengthens food processing infrastructure with $7M university investment - The National Provisioner",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR1dSVXFKNTFkUDdvMnlrbXlDTng5aHdYZ1owcmpUWFdLMk90dDRuX3hhejlYWjZjMDdHZUxLWFpWNklEUE9nZlUtNU12U2lPSjJsamVNdmpHekFMV1VFNU11cm9BWTJHb1NzTUJ5LVpNWXN6U3ZfUzJ2M3Bsamg3ZVpkY0Nya3c5X28wclhhUlZFV0NJNVVOTU1TZlRFX2tRcGFxV0xBNVpxQk1DaG5VdHF0RFFialYyd0MwOFJiQ01qSmVOSEhHTl9Eaw?oc=5",
-      "description": "Oklahoma strengthens food processing infrastructure with $7M university investment provisioneronline.com",
+      "description": "Oklahoma strengthens food processing infrastructure with $7M university investment The National Provisioner",
       "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
     },
     {
