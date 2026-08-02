@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T06:33:10.769607+00:00",
+  "updated": "2026-08-02T09:56:51.935570+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -10,9 +10,9 @@
     },
     {
       "source": "HPP Equipment & Machines",
-      "title": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing - Nutritional Outlook",
+      "title": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing - nutritionaloutlook.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDBoRW1EZEpqYmQ5Sm9XLVRycFVJN2gzSDNiTkNWX0taRUhvcTlIZlo4UUlvc2tUeldqZ3ZDUEw4bFpLcl9jbW10ZV9DYVpnc1daWS0tc2VyZ0sxSWxDN1llX1J0TGJ1ZUJOVjhVdHViRmg2WDRHRzJTU1Z4UnN3YnpoMkxsWENSblZZV3cwSFJwY1NyQWNGQmxPU190dw?oc=5",
-      "description": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing Nutritional Outlook",
+      "description": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing nutritionaloutlook.com",
       "pubDate": "Fri, 31 Jul 2026 19:16:56 GMT"
     },
     {
@@ -49,6 +49,13 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMFBlMFg4UU1DSUxIdDhRQnpSc0F5RjBmTWE3Z0NMcGlvVEo5azJKdmR2T2t3N0RoRHpWTGJtZFRldkgtRWx4UnhKYUJNbUxCMEhDWW1kUFhFa1VoVmsxazFqLUFTdXdGYjYwUEp6XzNHMFptSDhjUGNNdmxjdjVSWDJya2FBUVgwUlFZd2E1Z0lHZDg2ZDZsOHp5YVZUS3BiVDFtZ0E0QTJZelZDMTRocERmMUw0UFEtcEZ3?oc=5",
       "description": "Outbreak Investigation of E. coli: Frozen Blueberries (July 2026) fda.gov",
       "pubDate": "Thu, 30 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Recalls to watch: Cyclospora in lettuce & more - Center for Science in the Public Interest",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMTmFzX2ZjeEJ5bUNkcEZ5bXRuM1hLQXlvcF9VUVJydEhGX1RmU1NNb3c5UG5pT3RoUndjMHh6OFc5MlZsaEN1ODJoN1NvYTJxaWFId3dXdzRHY3RSSnRxTjNZamtLV0daX1pKTFVDZzJycE5YTXRF?oc=5",
+      "description": "Recalls to watch: Cyclospora in lettuce & more Center for Science in the Public Interest",
+      "pubDate": "Wed, 29 Jul 2026 20:44:33 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -128,18 +135,18 @@
       "pubDate": "Sun, 26 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Salmonella outbreak tied to eggs has sickened 98 people in 17 states since November, FDA says - PBS",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTkxLUFhCUFhIcDhtQnZ6SDNOdThZVHdtSEE2WWRwaU5QdlpQdVJtSXVoUzJ6alFiUC1lRFF5SFNrQTVnU2YwTG1KdzhDMW1UYVpZNGQxVjhXYS1BRDVfTmVfZGhXZEhuM0NBSmJ1VTJCY2VzV0FOUEQ2ZEJuQ1hwUnl3dWdBSEIxcVNsU2lobjdYUy1sR0ZrbGdaOFhDVktQTkRzUDRrcFRBemQyaFNSZm1MVVFQMXM5MFhaZFUxNEJmSzNWdkhB?oc=5",
-      "description": "Salmonella outbreak tied to eggs has sickened 98 people in 17 states since November, FDA says PBS",
-      "pubDate": "Fri, 24 Jul 2026 23:25:12 GMT"
-    },
-    {
       "source": "UK Food Industry",
       "title": "Forty years of Handtmann UK - Food and Drink Technology",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZXF3VzVNVDI1UDNRcVJiZDdDcDJkVDBkZENGazRQYmlINUtHcVgzdEV6a2tDVW1tQXQxSmxrRlVsM1RIVGlXYkhyWlQ0WG55dkdkb2ZJV0ZzbVByY0ZwTUZ1V2JjYTgxZlowbXJ3WTJ5ZUVBVEJIdGJhRUdWRzRIcktCTVZSMVV5SUwydEVLZ2E0NXNUVHZCbTB1UGhWMDFwbHNvVmVEcDRBN01KV3ZCMDRTOTk3WG5kell0eWFoeXc3X2owc0Y2RA?oc=5",
       "description": "Forty years of Handtmann UK Food and Drink Technology",
       "pubDate": "Fri, 24 Jul 2026 09:34:46 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Salmonella outbreak tied to eggs has sickened 98 people in 17 states since November, FDA says - PBS",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTkxLUFhCUFhIcDhtQnZ6SDNOdThZVHdtSEE2WWRwaU5QdlpQdVJtSXVoUzJ6alFiUC1lRFF5SFNrQTVnU2YwTG1KdzhDMW1UYVpZNGQxVjhXYS1BRDVfTmVfZGhXZEhuM0NBSmJ1VTJCY2VzV0FOUEQ2ZEJuQ1hwUnl3dWdBSEIxcVNsU2lobjdYUy1sR0ZrbGdaOFhDVktQTkRzUDRrcFRBemQyaFNSZm1MVVFQMXM5MFhaZFUxNEJmSzNWdkhB?oc=5",
+      "description": "Salmonella outbreak tied to eggs has sickened 98 people in 17 states since November, FDA says PBS",
+      "pubDate": "Fri, 24 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -150,9 +157,9 @@
     },
     {
       "source": "HPP Meat & Deli",
-      "title": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors - pandct.com",
+      "title": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors - Process and Control Today",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTjdJazFfaWNnRVd4aWktdk8wQk9Jd3I3OVVOUDEyU3oxblFnSXo2ZTQxYWVlSmV1Ym1sMmVLbXZSUjFuN1EzalpwOW50dGxFMTZFNS16cTlDNzB2bEhGSkk5cUpoc2x3R2N2eXZsTWN0cGhERGpmWTJKdmRSUG9VQ2V5NFk0U0Rta0lKYXRnSUNDaFZIUldYOG5wa2dReG4zUmhGbzhKeEMyWkNXakgwTnlaenFKMTVPcFVDamE5Wmx2VXM1MDFpNnJJNlMya1IyVXI3Q01ZZE5Ha3dPSy1sMVlDSQ?oc=5",
-      "description": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors pandct.com",
+      "description": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors Process and Control Today",
       "pubDate": "Mon, 20 Jul 2026 05:43:24 GMT"
     },
     {
@@ -164,9 +171,9 @@
     },
     {
       "source": "EU HPP & Food Tech",
-      "title": "Europe Urea Market Size, Share, & Growth, 2034 - Market Data Forecast",
+      "title": "Europe Urea Market Size, Share, & Growth, 2034 - marketdataforecast.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94dFJES3E1ZkZKVnV6aEFVbmd5M0dxQTNqVkFZQWxzT081X1NDdFhJMW1Wend5SGM1RUtidHF6WUFidGpDdTBHenJrcVNJYjh1RlpSZ2ZkekdqTDhUc05vMHUwNG95aFJZUGVtSHoxRFdmelRKa1dJ?oc=5",
-      "description": "Europe Urea Market Size, Share, & Growth, 2034 Market Data Forecast",
+      "description": "Europe Urea Market Size, Share, & Growth, 2034 marketdataforecast.com",
       "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT"
     },
     {
@@ -206,17 +213,10 @@
     },
     {
       "source": "UK Food Industry",
-      "title": "Europe Food and Beverages Market Size and Analysis, 2034 - Market Data Forecast",
+      "title": "Europe Food and Beverages Market Size and Analysis, 2034 - marketdataforecast.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFRiSl9GOVdlZHlfalNxOHk1V25kTkhPV20wU3JpbjNrLXV1VmljMjZfR0dNbEV2b3V2NjZpaDZaM3ZKYTZvazBiV3dDSkY2eWl5eWRrVUE0Z09BV2Y0bzdxLXdaeUgzN2lyTFlFLXNoVXRHQ0xsamN4S0pZeFRUSVV6c1otRzZWYlE?oc=5",
-      "description": "Europe Food and Beverages Market Size and Analysis, 2034 Market Data Forecast",
+      "description": "Europe Food and Beverages Market Size and Analysis, 2034 marketdataforecast.com",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "FDA expands cheese recall over possible listeria contamination - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcjNqSExycC1iam1FNHRRNUxVbWNxWkNOdmhiRjg4Q0N6ODhiNFNmSkpvcEJNQ3lQR21icE56bTRmZWFTbVhhTFRZY09CVkZtTVlOYkFOd2ppMHktSkFyS3hSd01kZDdvSlp2c3o1cS1JaEFrZU5qbW04R1FVWGdxWWhiakZSVVBBc183dmY0SGlDZDVQN1F4cTlVYw?oc=5",
-      "description": "FDA expands cheese recall over possible listeria contamination The Hill",
-      "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -269,9 +269,9 @@
     },
     {
       "source": "EU HPP & Food Tech",
-      "title": "Bilbao warms up for Food4Future - efanews.eu",
+      "title": "Bilbao warms up for Food4Future - EFA News - European Food Agency",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hbXhObkJNemhSOXd0Y2kxZXJhaUVOSHhvREFBVGZPbVhDYUlBTlBYUS1ISG5iZ2VCNU1JSlVBTko3VFV5eHpxOGVyRVVDS2NBejJ6RExkd2VnYjYzcHdLXzlQOFVkbUVXTG5UcWRabUcwY0RUbHZMNzB3?oc=5",
-      "description": "Bilbao warms up for Food4Future efanews.eu",
+      "description": "Bilbao warms up for Food4Future EFA News - European Food Agency",
       "pubDate": "Tue, 19 May 2026 07:00:00 GMT"
     },
     {
@@ -311,9 +311,9 @@
     },
     {
       "source": "HPP Cosmetics & Beauty",
-      "title": "FIU researchers reveal new findings on utilizing sargassum as a potential food source - WSVN",
+      "title": "FIU researchers reveal new findings on utilizing sargassum as a potential food source - wsvn.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmx1R1IteWZodWRGNk85ajZrVVM5dUQtWkNWTnYxZV9sOVcyd2ZMRkxLYVJhNVhEY2t1MnlHbmx3a3N0YVJuVnV1em80Z0Z3UXA4NFhBZXQza1c3cnV5QTVIWWtBWGNfUTlLbjJXS2cwV3NwaVd0bnpxbmg5aVY1YWFRSHFOMExtT1VERVdPXzdhQTZGMFoweFZXc2VKaFhNQzF2NXc5eW1JVHlJaVh2dnBUX29qVEJOVHY4YkNB?oc=5",
-      "description": "FIU researchers reveal new findings on utilizing sargassum as a potential food source WSVN",
+      "description": "FIU researchers reveal new findings on utilizing sargassum as a potential food source wsvn.com",
       "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
     },
     {
