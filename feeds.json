@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-03T14:38:50.204044+00:00",
+  "updated": "2026-08-03T17:50:44.666064+00:00",
   "articles": [
+    {
+      "source": "HPP Innovation & Research",
+      "title": "Investing in Food Safety is Investing in the Future of Food - Food Safety Magazine",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEpNajduOEpKZHpXM3lTSXBpenBudENhVWhRZVNFX1lOOTluUFBoV0VYbDdfakNlWDlod2hxYkY5ZE9heWw5T2VESXBQelpyOTB1V3lma2lUakhvcWxUOEM1UTYtcGRwREFxSHRGeXE2b1A4cDFzdlJvQVZQcjM1cGF6Vk14UXJvVmFRX3JYVUxRakkxRVAtUXFXNVBfbExuaFFVUA?oc=5",
+      "description": "Investing in Food Safety is Investing in the Future of Food Food Safety Magazine",
+      "pubDate": "Mon, 03 Aug 2026 04:39:33 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Publisher's Platform: Food safety is not expensive. Outbreaks are expensive.",
@@ -52,9 +59,9 @@
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "Recalls to watch: Cyclospora in lettuce & more - Center for Science in the Public Interest",
+      "title": "Recalls to watch: Cyclospora in lettuce & more - cspi.org",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMTmFzX2ZjeEJ5bUNkcEZ5bXRuM1hLQXlvcF9VUVJydEhGX1RmU1NNb3c5UG5pT3RoUndjMHh6OFc5MlZsaEN1ODJoN1NvYTJxaWFId3dXdzRHY3RSSnRxTjNZamtLV0daX1pKTFVDZzJycE5YTXRF?oc=5",
-      "description": "Recalls to watch: Cyclospora in lettuce & more Center for Science in the Public Interest",
+      "description": "Recalls to watch: Cyclospora in lettuce & more cspi.org",
       "pubDate": "Wed, 29 Jul 2026 20:44:33 GMT"
     },
     {
@@ -79,13 +86,6 @@
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Innovation & Research",
-      "title": "Investing in Food Safety is Investing in the Future of Food - Food Safety Magazine",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEpNajduOEpKZHpXM3lTSXBpenBudENhVWhRZVNFX1lOOTluUFBoV0VYbDdfakNlWDlod2hxYkY5ZE9heWw5T2VESXBQelpyOTB1V3lma2lUakhvcWxUOEM1UTYtcGRwREFxSHRGeXE2b1A4cDFzdlJvQVZQcjM1cGF6Vk14UXJvVmFRX3JYVUxRakkxRVAtUXFXNVBfbExuaFFVUA?oc=5",
-      "description": "Investing in Food Safety is Investing in the Future of Food Food Safety Magazine",
-      "pubDate": "Wed, 29 Jul 2026 03:47:16 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
       "title": "US recalls over 19 million eggs due to salmonella outbreak that has caused illness in nearly 100 people - EL PAÍS English",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU2l0OTNXa3p4Mk5ZTk5OTkZFYXRfdDhyRUl5cjR3U0owV3U4NlJJTmNhVWxUVWRNdTdEYm9GeFM3VjRWVHM1dHRJNFRDUU05bmxWUVFWWGtRSVhkcWVHSm9zMnpZdDJtTVlTNUk5N0hzbXAyWW5BWkhJclhpV2x2OFBJZk53RmN1MVJlVXItTUoyY1RJU1owREQ1Uld0TWdoeXFvNWJuZFFtXzJlQWZhVFVTS0tYQjVnbGF0R3FfUkRPOGh3VVVzWGg0Nl9rRlZ0WkVkczVsUkVJNzdYZ2w0NHkwT2_SAfgBQVVfeXFMTmFkcTVKeDlvaGc2OTdDcVRKeVctcVRzNkpsajNHVXdTUDBsY2Q4b2Y2dnZIamVTdVpzamZMSWpVUkl4YUZpZ3ZGUldhaVdyWUxacXByem9mWjFtTUZoQmpQbWJKcE9Ub1BLWmF2ZHhsRS1mMEd2b0ZRaUpCOE9UTTNtRS1iZzhJNXhsdFpTc2pVLUxBY2VXZGk2MnVmMjFicEN0c2V2T0JYRTdMQ3JQLUtKcGFCYUtyRlppWFpiSkJ6MnlrN1FZbVVzWi11LVpQbF9GMDlscWRmZ0w2Nl94WWR4VTNoVkQyRkd4YmltREt4VVZqa3VzYUU?oc=5",
@@ -101,13 +101,6 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Egg-related Salmonella outbreak sickens nearly 100 in 17 US states - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2NYZjd5dC00RUxPaGV1OF9HSTAySlBZZy1ScXBfOG1xQnlGRU9QYXFINVNWbUVocm5VR2RKaGQ5TDBnT1JJdnZoeVJrZk5zbUVYbVRVaXpGT1pRWUNLcS1CSE43RlRMV1puOHFjb1BBVzVGSE96My1saC15SjBYVDVaTVNsNG1RQlVKRHNtMjNfdVJuSk9LRE9pMTgwcDFsREdBbldILVNqc0kx?oc=5",
-      "description": "Egg-related Salmonella outbreak sickens nearly 100 in 17 US states CIDRAP",
-      "pubDate": "Mon, 27 Jul 2026 20:19:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
       "title": "Nearly 100 Sick in Multistate Salmonella Outbreak, Millions of Eggs Recalled - Food Safety Magazine",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOWp4MS1vOW11ZVpvXzZoSjlManJ3YWRSak03N3lTTnA3OS1fNVBGc1FvYkFCR3RCSkRqandqREZzSi1nN0xRTG55OE81elhHN1poM0ZCMmtmWnEteGZfa3Y1MVVZek55bjh5NXp6VXMxOVBtUkhkdndYS2toT3VLaDlLbzQ5elNUM0hDQWZqQmVhajNxQ19PMXhMTGVUTHloX2N5SWE2SjZMMWNMc25vaXBCV2M0RU1OZ0E?oc=5",
       "description": "Nearly 100 Sick in Multistate Salmonella Outbreak, Millions of Eggs Recalled Food Safety Magazine",
@@ -115,23 +108,23 @@
     },
     {
       "source": "UK Food Industry",
-      "title": "Forty years of Handtmann UK - foodanddrinktechnology.com",
+      "title": "Forty years of Handtmann UK - Food and Drink Technology",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZXF3VzVNVDI1UDNRcVJiZDdDcDJkVDBkZENGazRQYmlINUtHcVgzdEV6a2tDVW1tQXQxSmxrRlVsM1RIVGlXYkhyWlQ0WG55dkdkb2ZJV0ZzbVByY0ZwTUZ1V2JjYTgxZlowbXJ3WTJ5ZUVBVEJIdGJhRUdWRzRIcktCTVZSMVV5SUwydEVLZ2E0NXNUVHZCbTB1UGhWMDFwbHNvVmVEcDRBN01KV3ZCMDRTOTk3WG5kell0eWFoeXc3X2owc0Y2RA?oc=5",
-      "description": "Forty years of Handtmann UK foodanddrinktechnology.com",
+      "description": "Forty years of Handtmann UK Food and Drink Technology",
       "pubDate": "Fri, 24 Jul 2026 09:34:46 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Salmonella outbreak tied to eggs has sickened 98 people in 17 states since November, FDA says - PBS",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTkxLUFhCUFhIcDhtQnZ6SDNOdThZVHdtSEE2WWRwaU5QdlpQdVJtSXVoUzJ6alFiUC1lRFF5SFNrQTVnU2YwTG1KdzhDMW1UYVpZNGQxVjhXYS1BRDVfTmVfZGhXZEhuM0NBSmJ1VTJCY2VzV0FOUEQ2ZEJuQ1hwUnl3dWdBSEIxcVNsU2lobjdYUy1sR0ZrbGdaOFhDVktQTkRzUDRrcFRBemQyaFNSZm1MVVFQMXM5MFhaZFUxNEJmSzNWdkhB?oc=5",
-      "description": "Salmonella outbreak tied to eggs has sickened 98 people in 17 states since November, FDA says PBS",
-      "pubDate": "Fri, 24 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
       "title": "Investigation Update: Salmonella Outbreak, July 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTG1UUkdXa1FVM2FJZzkybzItM01fMFBkRmF4c2xNUnFJR1N3YzBGeWJUVU5XNDVhbDJhVnRoTmJLdUI5TTRMVUotQmU0NmFQMW5CemFXc3dqal9IMjR3YjZFaXJNOG9aWktFNDhKaEJUc0I5dWNmUjNhYkJPN2pNZlpn?oc=5",
       "description": "Investigation Update: Salmonella Outbreak, July 2026 Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Fri, 24 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Salmonella outbreak tied to eggs has sickened 98 people in 17 states since November, FDA says - PBS",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTkxLUFhCUFhIcDhtQnZ6SDNOdThZVHdtSEE2WWRwaU5QdlpQdVJtSXVoUzJ6alFiUC1lRFF5SFNrQTVnU2YwTG1KdzhDMW1UYVpZNGQxVjhXYS1BRDVfTmVfZGhXZEhuM0NBSmJ1VTJCY2VzV0FOUEQ2ZEJuQ1hwUnl3dWdBSEIxcVNsU2lobjdYUy1sR0ZrbGdaOFhDVktQTkRzUDRrcFRBemQyaFNSZm1MVVFQMXM5MFhaZFUxNEJmSzNWdkhB?oc=5",
+      "description": "Salmonella outbreak tied to eggs has sickened 98 people in 17 states since November, FDA says PBS",
       "pubDate": "Fri, 24 Jul 2026 07:00:00 GMT"
     },
     {
@@ -143,9 +136,9 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "M&S, Tesco and Lidl issue 'do not eat' food poisoning warnings — full list - walesonline.co.uk",
+      "title": "M&S, Tesco and Lidl issue 'do not eat' food poisoning warnings — full list - Wales Online",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT2ttSXdHM0NzTE5yZnBjdHZMazMtR3N4T0FhUzc3QjJ6bjBOeFYtemwyM3VhRTdFcGVVOHhoMFdoOGFrdGZxSXloUmlueWtleFBZelFwbVRDZi1WX3R0X0VLWjlWUHRGY0pDRGZwd1ZyRFhZak42M25aWnlFbFlEWXNfQdIBiAFBVV95cUxQemh6MVdJU0d2Z3AwTHlIVk5WQ0xVdkoxVE1ibnNZMk5Gd0s5WUxqNVd6a3ZqTjBCdWZzYXQxcmNZYlRkVlgxaHpQU1hkUnhVeFpTS3ZkbUtRX1FyVUNuZTNVRTZoQW11OHgyYXJEam5CUlVGX2xDMzh4X2RFZ3p2eVhHcXdzcFYx?oc=5",
-      "description": "M&S, Tesco and Lidl issue 'do not eat' food poisoning warnings — full list walesonline.co.uk",
+      "description": "M&S, Tesco and Lidl issue 'do not eat' food poisoning warnings — full list Wales Online",
       "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT"
     },
     {
@@ -206,10 +199,17 @@
     },
     {
       "source": "HPP Healthcare & Medical",
-      "title": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods - Medical Xpress",
+      "title": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods - medicalxpress.com",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QMXhzcHRVa1RrN0s0NUZtdHJrQndFWjRUTElLVml5RWwyNDh3RUcxWkg0S2RqQXI0QVcwOWp4QUJobzdNVGRUTHJid0JVX09sUDhvMW1WMXFjaTZVeHo0STJFMElDTmlwSWY1aEQtWE92TTRxR092NFdKOA?oc=5",
-      "description": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods Medical Xpress",
+      "description": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods medicalxpress.com",
       "pubDate": "Thu, 02 Jul 2026 00:40:04 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI - PR Newswire UK",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdVRCUkhzUHR0NTFtd1dTOUUxODE2MkJURGNIVGpkUkdSaE8yeTZvTHJSZENfUEFPUmx5Y01hNUZELW85SklCb0Z5UHRYd196d2IzR1RXWHdxVnE4aFAzZ0RvT3VNWFNiRG9CYXdfWmRDdF9WWkFwYXM4ZGNBQ1VVU3dYSUhmY2NlMTFSU1A2Tkh5ZHpGb2VrQThCZUJrem9mRnhkRGc4M002LWJNcjhOZVpjRW1ocGN0TUw4dFppd3p2OEs3ZnZMUTlUMVBGbXQ3ajRHdnhJOGpxWjZvRzVoUUJUU21lcEMxaXRWZU5RajQtYWp5MzVndVBmdzRyRDdSNTBpNEFxWU1EVVVsa3lSWk45OEQ1QmVtRWJOWVhYSFU5SHlnZzlURjkxT1BsQ1B0NTF3Vg?oc=5",
+      "description": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI PR Newswire UK",
+      "pubDate": "Wed, 01 Jul 2026 10:38:00 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -261,13 +261,6 @@
       "pubDate": "Thu, 21 May 2026 07:00:00 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "Bilbao warms up for Food4Future - EFA News - European Food Agency",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hbXhObkJNemhSOXd0Y2kxZXJhaUVOSHhvREFBVGZPbVhDYUlBTlBYUS1ISG5iZ2VCNU1JSlVBTko3VFV5eHpxOGVyRVVDS2NBejJ6RExkd2VnYjYzcHdLXzlQOFVkbUVXTG5UcWRabUcwY0RUbHZMNzB3?oc=5",
-      "description": "Bilbao warms up for Food4Future EFA News - European Food Agency",
-      "pubDate": "Tue, 19 May 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Juices & Beverages",
       "title": "Why Trader Joe's Was Once Sued Over Juice - Tasting Table",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGNnaExYaDZIa3BFcnRyZGJxODFSSHFWTTFSTk5fNUNqbHJsbFVEbVloWVZYdUhMakFTZmloTnpacGI4N3c3c2lUcS1HcjhRTG1aTU81UmZIQVRRMWZqSk9QYUhfUjJ5RENGaVQ0clRfd0NoenlLNk1IdXdzRlBpZlNR?oc=5",
@@ -283,16 +276,16 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Salmonella: Lidl Ireland recalls chicken products over bacteria concerns - bbc.co.uk",
+      "title": "Salmonella: Lidl Ireland recalls chicken products over bacteria concerns - BBC",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QeHNyYUxYNldZbzUyemkxTV9GTjRidEp0S05ncjdkRWw3TGVTeElKZy01N0JiZWNQa1VpMVpPVXRzMmtrdEsyamkxak1JaktRakpGaVRHZExBX3dU?oc=5",
-      "description": "Salmonella: Lidl Ireland recalls chicken products over bacteria concerns bbc.co.uk",
+      "description": "Salmonella: Lidl Ireland recalls chicken products over bacteria concerns BBC",
       "pubDate": "Tue, 12 May 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Juices & Beverages",
-      "title": "Suja Life, Better-For-You Beverage Platform, Files for NASDAQ IPO - TradingView",
+      "title": "Suja Life, Better-For-You Beverage Platform, Files for NASDAQ IPO - tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORTBUVDZBcy04eF9GMDItaGdjR0kwR0ctNHdhSnVLLUs5clhsdjRGNWZxVzlsN2QwbXRvY1Bod09NWmI0UEVMU3dUTnVNVnRKTjdYNlJMWWNQN1NvTDExZXJPMGpoUzhCSUdvWTBCR082T1NYZmREajdEc3puNzhMeU5SeVpkaGZ4UFVQVHhIOVNOcnRPUzhaOHV2REkzTktXZGM3aGloSDdQVHAzYWpXdk1NblhlanVpM01CX29FXzNMSlU?oc=5",
-      "description": "Suja Life, Better-For-You Beverage Platform, Files for NASDAQ IPO TradingView",
+      "description": "Suja Life, Better-For-You Beverage Platform, Files for NASDAQ IPO tradingview.com",
       "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
     },
     {
@@ -322,6 +315,13 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13VVNMeWdmelE4RVMweHdGb3pGeDJWZUpZc0hDejV3V2ZBX3BEWGZTejc0YjE1aHhPaGhCajdZb0szM0JEWW9nbV93a2phQVI3bWUyeXpCcEstdXlYZzZKcjM0dFN4RDJFQWJxZjN5UE85clN3dENnYTdWTmxmUQ?oc=5",
       "description": "Universal Pure Data Breach Investigation Claim Depot",
       "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Europe Healthy Food Market Size, Share & Growth Report 2035 | MRFR - Market Research Future",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc2swRjZ3SHE2NDk4djRnUUdEOXhvb2hQYjlwTC11bUFJcjdEUXVBbFB5eW5Tb00yUmZYQVNFdmduWndOZnZrX1pNcjYwNmdRSXQwQlFzYzBoRzk0UlFjYl9GZHlYcU9iZElTSWxEQWE1cjI1TktzNDY2cHdYd0dDbXVERQ?oc=5",
+      "description": "Europe Healthy Food Market Size, Share & Growth Report 2035 | MRFR Market Research Future",
+      "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Cosmetics & Beauty",
