@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-03T02:49:15.398178+00:00",
+  "updated": "2026-08-03T07:26:06.187753+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Publisher's Platform: Food safety is not expensive. Outbreaks are expensive.",
+      "link": "https://www.foodsafetynews.com/2026/08/publishers-platform-food-safety-is-not-expensive-outbreaks-are-expensive/",
+      "description": "USDA says Cyclospora costs America $5.3 million a year. The program I want restored cost $4.5 million a year. This summer alone has already blown past both.",
+      "pubDate": "Mon, 03 Aug 2026 04:06:19 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Ukraine shares outbreak data and reports deadly botulism cases",
+      "link": "https://www.foodsafetynews.com/2026/08/ukraine-shares-outbreak-data-and-reports-deadly-botulism-cases/",
+      "description": "Ukraine recorded 31 outbreaks in the first half of this year including 19 botulism cases and two deaths. Data from the State Service of Ukraine on Food Safety and Consumer Protection shows that in the first six months of 2026, 31 outbreaks were registered in 11 regions and Kyiv, with",
+      "pubDate": "Mon, 03 Aug 2026 04:05:40 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Polls Taken as Cyclospora Cases Passed 20,000 Show U.S. Food Safety Confidence at Record Lows. European, British and Canadian Measures Are Flat or Rising.",
@@ -30,20 +44,6 @@
       "pubDate": "Fri, 31 Jul 2026 04:06:03 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "E. coli outbreak linked to frozen organic berries sold at Publix",
-      "link": "https://www.foodsafetynews.com/2026/07/e-coli-outbreak-linked-to-frozen-organic-berries-sold-at-publix/",
-      "description": "The FDA is investigating an outbreak of infections from E. coli O145:H28 that is related to imported, frozen berries sold at Publix stores. The implicated berries are sold under the Greenwise brand and were imported from Frutas y Hortalizas del Sur S.A., of San Carlos, Chile, according to",
-      "pubDate": "Fri, 31 Jul 2026 01:48:07 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Warning issued for chicken salad because of contamination with Listeria",
-      "link": "https://www.foodsafetynews.com/2026/07/chicken-salad-recalled-because-of-contamination-with-listeria/",
-      "description": "The USDA&apos;s Food Safety and Inspection Service (FSIS) is issuing a public health alert for Curry Chicken Salad because of concerns that the product may be contaminated with Listeria monocytogenes. A recall was not requested because the products are no longer available for purchase. The Curry Chicken Salad",
-      "pubDate": "Fri, 31 Jul 2026 01:26:50 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "Outbreak Investigation of E. coli: Frozen Blueberries (July 2026) - fda.gov",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMFBlMFg4UU1DSUxIdDhRQnpSc0F5RjBmTWE3Z0NMcGlvVEo5azJKdmR2T2t3N0RoRHpWTGJtZFRldkgtRWx4UnhKYUJNbUxCMEhDWW1kUFhFa1VoVmsxazFqLUFTdXdGYjYwUEp6XzNHMFptSDhjUGNNdmxjdjVSWDJya2FBUVgwUlFZd2E1Z0lHZDg2ZDZsOHp5YVZUS3BiVDFtZ0E0QTJZelZDMTRocERmMUw0UFEtcEZ3?oc=5",
@@ -66,9 +66,9 @@
     },
     {
       "source": "Hiperbaric",
-      "title": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts - TCT Magazine",
+      "title": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts - tctmagazine.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM29NRXg0WXVha25KbzRLcm9zV0dRUG81ZVhpaGllbzdRR0FyVm1uVDBtVTZkR01tR1VKck56c2xxSC0yRDB1bUsyajAyd19Eb1I4UWRtY0VMVU9VNFlrWGJDSzdDQms0T0VwbE04WWl1V2k5b3cxZmVCSXZPUlg3OTI5Uzh1b2ZPRUhhZ0t6ckhqdHhhQVhfdzVJaVI1dEUtRy1OZERuMGwzY3RUdTc0UUZadFRKVU1JRmFWQVFwZHg3UWc0U3drMUVvZmY?oc=5",
-      "description": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts TCT Magazine",
+      "description": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts tctmagazine.com",
       "pubDate": "Wed, 29 Jul 2026 07:47:44 GMT"
     },
     {
@@ -121,6 +121,13 @@
       "pubDate": "Sun, 26 Jul 2026 07:00:00 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "Nearly 100 people sickened in salmonella outbreak linked in part to recalled eggs: FDA - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVzJhYk82T1JxNDF4TS1NX2pqWXdZNWlaMno3WE5sVldZZUJzM1lXcE1PekxJU1pEV1g2aTR5XzZGVEtmV0JpaTI5eTJvemhPVXl5ekR3VnBnRnFzNUlkUFpSQ2pjZE5qdExaTVVOQVhFcjR0Q01wRWk2QVA2cU1nRkpicHEtUmJXajlLUGRjLXRhX3cxZm9PU3lWclBGNFRpV2YzbjRQOVdhNFFfVzgtcWFHRFYwZ21DSVJB0gHAAUFVX3lxTE5rYzN4SGR5NUdXSG1FSUNWN05uYVQxWkIxUTQ0UFozSGFvUUpnVVlkeDJxVHRzUTRpWlZ4MWU0a0NpdURRY2NrRVpHZWgyc0hUY2lSY09RRk8xRDNBV2hMWnVwX1hjS0xtUzVfYU1ERWQxY0pmdlZRbXhMRUM2S1BWaVRmTngyQUJlRlV4ZWswSWl0V2tBRmdlUnE2Y3FUM0ViYnZkSE9PQy1zdzBGdmZ1WEswSDNQQm5MQjktSjJwbA?oc=5",
+      "description": "Nearly 100 people sickened in salmonella outbreak linked in part to recalled eggs: FDA ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Fri, 24 Jul 2026 19:14:10 GMT"
+    },
+    {
       "source": "UK Food Industry",
       "title": "Forty years of Handtmann UK - Food and Drink Technology",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZXF3VzVNVDI1UDNRcVJiZDdDcDJkVDBkZENGazRQYmlINUtHcVgzdEV6a2tDVW1tQXQxSmxrRlVsM1RIVGlXYkhyWlQ0WG55dkdkb2ZJV0ZzbVByY0ZwTUZ1V2JjYTgxZlowbXJ3WTJ5ZUVBVEJIdGJhRUdWRzRIcktCTVZSMVV5SUwydEVLZ2E0NXNUVHZCbTB1UGhWMDFwbHNvVmVEcDRBN01KV3ZCMDRTOTk3WG5kell0eWFoeXc3X2owc0Y2RA?oc=5",
@@ -140,13 +147,6 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTG1UUkdXa1FVM2FJZzkybzItM01fMFBkRmF4c2xNUnFJR1N3YzBGeWJUVU5XNDVhbDJhVnRoTmJLdUI5TTRMVUotQmU0NmFQMW5CemFXc3dqal9IMjR3YjZFaXJNOG9aWktFNDhKaEJUc0I5dWNmUjNhYkJPN2pNZlpn?oc=5",
       "description": "Investigation Update: Salmonella Outbreak, July 2026 Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Fri, 24 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlkYi1PbWpQZWllVFpXYzZOaFo1ZmRQUFNfS2RMV2dGM1duNHJTcEdyY3o1VWFINEVSTDEzMTR1RndjLUZaSlg0VXN2Rl9ZX2dUU1ltWFNWSDVNSURXcnl1blh3UHVDcnFoT25CT2xqU0VRV3BqY2QyVVpXRGloNnNKQm42bTczdGYtX2VsVm1hMUFqanlUYXJQVy1NNG5EZ0JublJUTy1NM1BxUjFsY1BXQUFqNlNIVHVB?oc=5",
-      "description": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) fda.gov",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -177,6 +177,13 @@
       "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "What to know about cyclosporiasis, the intestinal illness hitting the U.S. - NPR",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSjFFRkx0MTU2UktlTk5mamhEZVR5S0dPZnVPU3RpZkRSbUszMDdIeUtNMXo0OWs1Q3N3V3Z4dG9UT1BITWlmbVVFendIZTNucVhYUExrQ3I4Sjl5VW9nQlRUWWoxMzQ5UUs2NkRVVGJaZE1IdG1mQmJFdkIxNjlNbkgzWlEwanUwLVhGMF9VOHI1TmgzdUF6RGh3UTF4RjQ?oc=5",
+      "description": "What to know about cyclosporiasis, the intestinal illness hitting the U.S. NPR",
+      "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT"
+    },
+    {
       "source": "Food Safety UK & EU",
       "title": "Tesco, Lidl and M&S deadly bacteria fears plus Co-op and Ocado urgent recalls - Manchester Evening News",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzFEelYtYTB4S1RpSUdBSjNJYjVQZDdmREszZEo4MnZOTEtWUEp1YjR0ZkVBcGNEekViQVBZNEFDbEdCLTNldW96VXhTdUhwUkpKZkdPcDc5cU5fSi1FcVZ3d0duQzA2bDZMVVZlTHhIQUJoWkVwNU40WGJmNU5yY3NucGxKczBrek4yZXpiSnBUVknSAZgBQVVfeXFMTkRIWGt5bS1zcHhaSWVrVFp0cnBRMllGVVFoX2dFZ3JQOTQyZFp1Q09MV2pKSGVLckdDQlUxUW94bjl5bnlISUdrRHRxR1NUTEVZbVAxYXJIQ3R0RV9YUzFHVkZ5c3MyS1pMNHBkcThyQ2lWZTgyZkxzbmstclBjR1pjZnE5eXZhQjFxWnVkelhGdEZTdklJbUM?oc=5",
@@ -192,9 +199,9 @@
     },
     {
       "source": "HPP Seafood",
-      "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - newindianexpress.com",
+      "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
-      "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur newindianexpress.com",
+      "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
       "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
@@ -210,13 +217,6 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFRiSl9GOVdlZHlfalNxOHk1V25kTkhPV20wU3JpbjNrLXV1VmljMjZfR0dNbEV2b3V2NjZpaDZaM3ZKYTZvazBiV3dDSkY2eWl5eWRrVUE0Z09BV2Y0bzdxLXdaeUgzN2lyTFlFLXNoVXRHQ0xsamN4S0pZeFRUSVV6c1otRzZWYlE?oc=5",
       "description": "Europe Food and Beverages Market Size and Analysis, 2034 Market Data Forecast",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "FDA expands cheese recall over possible listeria contamination - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcjNqSExycC1iam1FNHRRNUxVbWNxWkNOdmhiRjg4Q0N6ODhiNFNmSkpvcEJNQ3lQR21icE56bTRmZWFTbVhhTFRZY09CVkZtTVlOYkFOd2ppMHktSkFyS3hSd01kZDdvSlp2c3o1cS1JaEFrZU5qbW04R1FVWGdxWWhiakZSVVBBc183dmY0SGlDZDVQN1F4cTlVYw?oc=5",
-      "description": "FDA expands cheese recall over possible listeria contamination The Hill",
-      "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -259,13 +259,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNODAxNkJRV3hqMk5XbklwU3dCNDlwYW1JQ0hJc3pQN3FkSFRjZUlfblFIckFGMUt6M2M5a1R4eGZpdk9ia1NyeVJfazFDSUlrN1dRTEZYVEZSMS1mQ01yRHkxNGZwVHR1bno4NTlPdDFqUUFOUERyRDA1eDRqWEpaZDJ0akRKZWdfNklYYVhKS0o2Zw?oc=5",
       "description": "High Pressure Processing Hpp Foods Market Size, Share, Growth | Report 2035 Market Research Future",
       "pubDate": "Thu, 21 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Bilbao warms up for Food4Future - EFA News - European Food Agency",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hbXhObkJNemhSOXd0Y2kxZXJhaUVOSHhvREFBVGZPbVhDYUlBTlBYUS1ISG5iZ2VCNU1JSlVBTko3VFV5eHpxOGVyRVVDS2NBejJ6RExkd2VnYjYzcHdLXzlQOFVkbUVXTG5UcWRabUcwY0RUbHZMNzB3?oc=5",
-      "description": "Bilbao warms up for Food4Future EFA News - European Food Agency",
-      "pubDate": "Tue, 19 May 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Juices & Beverages",
@@ -331,17 +324,24 @@
       "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
     },
     {
+      "source": "EU HPP & Food Tech",
+      "title": "Europe Healthy Food Market Size, Share, Growth | Report 2035 - Market Research Future",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc2swRjZ3SHE2NDk4djRnUUdEOXhvb2hQYjlwTC11bUFJcjdEUXVBbFB5eW5Tb00yUmZYQVNFdmduWndOZnZrX1pNcjYwNmdRSXQwQlFzYzBoRzk0UlFjYl9GZHlYcU9iZElTSWxEQWE1cjI1TktzNDY2cHdYd0dDbXVERQ?oc=5",
+      "description": "Europe Healthy Food Market Size, Share, Growth | Report 2035 Market Research Future",
+      "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Cosmetics & Beauty",
-      "title": "Non-Thermal Pasteurization Market: The Future of Safe, Nutrient-Rich Food Processing - MarketsandMarkets",
+      "title": "Non-Thermal Pasteurization Market: The Future of Safe, Nutrient-Rich Food Processing - marketsandmarkets.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeDRWNEZLQnkxMURlY0czVTFIaDJIbzJ0V21TVDRpZnc2SmVHNFdfQ3k2bGhrQ25nclVnMzFPbnY4RGxiNWRyWXNQTUdoVEt6UVdDdUxEZ0dRdmhCemphbDRKc0ZhOURNR3pLVUtYLUxfZXlVVHZ3TnBCS2xTNnN0Rw?oc=5",
-      "description": "Non-Thermal Pasteurization Market: The Future of Safe, Nutrient-Rich Food Processing MarketsandMarkets",
+      "description": "Non-Thermal Pasteurization Market: The Future of Safe, Nutrient-Rich Food Processing marketsandmarkets.com",
       "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
-      "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
+      "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - seafoodsource.com",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
-      "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
+      "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence seafoodsource.com",
       "pubDate": "Tue, 31 Mar 2026 09:53:10 GMT"
     },
     {
