@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-03T23:00:29.396836+00:00",
+  "updated": "2026-08-04T02:32:28.587168+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Imported pistachio butter sold at Walmart stores recalled because of Salmonella",
+      "link": "https://www.foodsafetynews.com/2026/08/imported-pistachio-butter-sold-at-walmart-stores-recalled-because-of-salmonella/",
+      "description": "Boticelli Foods of Melville NY, is recalling one lot of bettergoods Pistachio Nut Butter because it has the potential to be contaminated with Salmonella. Product was manufactured by Gustibus Alimentari Srl of Assoro, Italy, imported by Botticelli, and distributed exclusively by Walmart Inc. The product was distributed to Walmart retail",
+      "pubDate": "Tue, 04 Aug 2026 02:10:28 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "First deaths in Cyclospora outbreak reported by Michigan",
+      "link": "https://www.foodsafetynews.com/2026/08/first-deaths-in-cyclospora-outbreak-reported-by-michigan/",
+      "description": "As of Aug. 3 the state is reporting 11,234 patients.",
+      "pubDate": "Tue, 04 Aug 2026 00:54:59 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Publisher's Platform: Food safety is not expensive. Outbreaks are expensive.",
@@ -28,20 +42,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDBoRW1EZEpqYmQ5Sm9XLVRycFVJN2gzSDNiTkNWX0taRUhvcTlIZlo4UUlvc2tUeldqZ3ZDUEw4bFpLcl9jbW10ZV9DYVpnc1daWS0tc2VyZ0sxSWxDN1llX1J0TGJ1ZUJOVjhVdHViRmg2WDRHRzJTU1Z4UnN3YnpoMkxsWENSblZZV3cwSFJwY1NyQWNGQmxPU190dw?oc=5",
       "description": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing Nutritional Outlook",
       "pubDate": "Fri, 31 Jul 2026 19:16:56 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Publisher's Platform: The Fifty-State Cyclospora count is 20,927 this morning. The President has said one thing about it. The Secretary says it is under control. Here is what they should have said instead.",
-      "link": "https://www.foodsafetynews.com/2026/07/publishers-platform-the-fifty-state-cyclospora-count-is-20-927-this-morning-the-president-has-said-one-thing-about-it-the-secretary-says-it-is-under-control-here-is-what-they-should-hav/",
-      "description": "Ohio released new numbers today — 4,013 cases in 80 counties, up from 2,576 a week ago. Add the states up, one by one, all fifty of them, and the floor under this outbreak this morning is 20,927 people.",
-      "pubDate": "Fri, 31 Jul 2026 13:48:57 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Patient counts in Cyclospora outbreak continue to increase",
-      "link": "https://www.foodsafetynews.com/2026/07/patient-counts-in-cyclospora-outbreak-continue-to-increase/",
-      "description": "“We may well be on a downslope,” said Craig Hedberg, PhD, professor of environmental health sciences at the University of Minnesota’s School of Public Health,.",
-      "pubDate": "Fri, 31 Jul 2026 04:06:03 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -84,13 +84,6 @@
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU2l0OTNXa3p4Mk5ZTk5OTkZFYXRfdDhyRUl5cjR3U0owV3U4NlJJTmNhVWxUVWRNdTdEYm9GeFM3VjRWVHM1dHRJNFRDUU05bmxWUVFWWGtRSVhkcWVHSm9zMnpZdDJtTVlTNUk5N0hzbXAyWW5BWkhJclhpV2x2OFBJZk53RmN1MVJlVXItTUoyY1RJU1owREQ1Uld0TWdoeXFvNWJuZFFtXzJlQWZhVFVTS0tYQjVnbGF0R3FfUkRPOGh3VVVzWGg0Nl9rRlZ0WkVkczVsUkVJNzdYZ2w0NHkwT2_SAfgBQVVfeXFMTmFkcTVKeDlvaGc2OTdDcVRKeVctcVRzNkpsajNHVXdTUDBsY2Q4b2Y2dnZIamVTdVpzamZMSWpVUkl4YUZpZ3ZGUldhaVdyWUxacXByem9mWjFtTUZoQmpQbWJKcE9Ub1BLWmF2ZHhsRS1mMEd2b0ZRaUpCOE9UTTNtRS1iZzhJNXhsdFpTc2pVLUxBY2VXZGk2MnVmMjFicEN0c2V2T0JYRTdMQ3JQLUtKcGFCYUtyRlppWFpiSkJ6MnlrN1FZbVVzWi11LVpQbF9GMDlscWRmZ0w2Nl94WWR4VTNoVkQyRkd4YmltREt4VVZqa3VzYUU?oc=5",
       "description": "US recalls over 19 million eggs due to salmonella outbreak that has caused illness in nearly 100 people EL PAÍS English",
       "pubDate": "Tue, 28 Jul 2026 17:31:10 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "F.D.A. Official Says Food Supply Is Safe as Cyclosporiasis Cases Climb - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZDVqOENNcVItcE56VWdhTzlKdF91RlNxaEJudXNqcXU2LXJlaEsxbWZwT05GMEJILTRfS1phVUNWWHlxMFUzVUw5eFFSUU5OVDdxNjQzX3M1amY3VzFFd1RxWEJWZHZ0WFVLa1Z3VEk5bVliZzAzMlJsUzJkRHJvUg?oc=5",
-      "description": "F.D.A. Official Says Food Supply Is Safe as Cyclosporiasis Cases Climb The New York Times",
-      "pubDate": "Tue, 28 Jul 2026 17:02:05 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -146,21 +139,21 @@
       "title": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors - Process and Control Today",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTjdJazFfaWNnRVd4aWktdk8wQk9Jd3I3OVVOUDEyU3oxblFnSXo2ZTQxYWVlSmV1Ym1sMmVLbXZSUjFuN1EzalpwOW50dGxFMTZFNS16cTlDNzB2bEhGSkk5cUpoc2x3R2N2eXZsTWN0cGhERGpmWTJKdmRSUG9VQ2V5NFk0U0Rta0lKYXRnSUNDaFZIUldYOG5wa2dReG4zUmhGbzhKeEMyWkNXakgwTnlaenFKMTVPcFVDamE5Wmx2VXM1MDFpNnJJNlMya1IyVXI3Q01ZZE5Ha3dPSy1sMVlDSQ?oc=5",
       "description": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors Process and Control Today",
-      "pubDate": "Mon, 20 Jul 2026 05:43:24 GMT"
+      "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "EU HPP & Food Tech",
-      "title": "The EU tightens controls on Listeria, presents the food industry with new challenges - FoodBev Media",
+      "title": "The EU tightens controls on Listeria, presents the food industry with new challenges - foodbev.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFBHSGtUQzUwd29fU2Mxa2xzWVNwYTJMeEVldnVlS3Y5dU5nT3MxSEtCRDE3QS1EWXBHcXFfZXRFMkdmeHNRaXg3OUJFWjA5cTh4Y0VncDRJUDI2ZzE1RDFHWU5qVHFSd3l0aV9Sc1VWMnp2bC1veDJ5Ylp6dUtXQ0lqWWZmR1hCX1ZMSE9sNi1maFdTdHFvSmVmc1BUWmxGVTNiOHg0WnpuRi04SnhqRlBxZVh3QQ?oc=5",
-      "description": "The EU tightens controls on Listeria, presents the food industry with new challenges FoodBev Media",
+      "description": "The EU tightens controls on Listeria, presents the food industry with new challenges foodbev.com",
       "pubDate": "Fri, 17 Jul 2026 08:03:10 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "We Braised 100+ Pounds of Pork Shoulder to Find the 8 Best Pressure Cookers - foodandwine.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfYXEwOC1TdFdPOEtQQVZ5a012UEVVZkRob3Y2Rjd5b0w1NVhNd2M0anhWVU5UZDh6UmRyTXZ1Mld5d3hiVlRNRGR6cU9pTENUcXo0encxNDg2RXhVeGo5X1ZUMUVncUdXNmw3alpTa1N2bG53YWc?oc=5",
-      "description": "We Braised 100+ Pounds of Pork Shoulder to Find the 8 Best Pressure Cookers foodandwine.com",
-      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT"
+      "source": "Listeria Outbreaks",
+      "title": "What to know about cyclosporiasis, the intestinal illness hitting the U.S. - NPR",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSjFFRkx0MTU2UktlTk5mamhEZVR5S0dPZnVPU3RpZkRSbUszMDdIeUtNMXo0OWs1Q3N3V3Z4dG9UT1BITWlmbVVFendIZTNucVhYUExrQ3I4Sjl5VW9nQlRUWWoxMzQ5UUs2NkRVVGJaZE1IdG1mQmJFdkIxNjlNbkgzWlEwanUwLVhGMF9VOHI1TmgzdUF6RGh3UTF4RjQ?oc=5",
+      "description": "What to know about cyclosporiasis, the intestinal illness hitting the U.S. NPR",
+      "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -185,9 +178,9 @@
     },
     {
       "source": "HPP Seafood",
-      "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - The New Indian Express",
+      "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - newindianexpress.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
-      "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
+      "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur newindianexpress.com",
       "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
@@ -296,13 +289,6 @@
       "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Cosmetics & Beauty",
-      "title": "FIU researchers reveal new findings on utilizing sargassum as a potential food source - WSVN",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmx1R1IteWZodWRGNk85ajZrVVM5dUQtWkNWTnYxZV9sOVcyd2ZMRkxLYVJhNVhEY2t1MnlHbmx3a3N0YVJuVnV1em80Z0Z3UXA4NFhBZXQza1c3cnV5QTVIWWtBWGNfUTlLbjJXS2cwV3NwaVd0bnpxbmg5aVY1YWFRSHFOMExtT1VERVdPXzdhQTZGMFoweFZXc2VKaFhNQzF2NXc5eW1JVHlJaVh2dnBUX29qVEJOVHY4YkNB?oc=5",
-      "description": "FIU researchers reveal new findings on utilizing sargassum as a potential food source WSVN",
-      "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
-    },
-    {
       "source": "EU HPP & Food Tech",
       "title": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage - funcas.es",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BTaXhwYnBzVTdZSldMcFJKR2FSQl9JMFoxQ0VEdEg4NmFObGY0ZldMWHE5U3hVQk9RZm5icmJXWlhKRHVsQzZWNllzT0tNUlVRc25pTzZDclk4eGlsZ3k0cmlScktfRlNBRUt3eWJQdUhHemtOSXJjelk1WjFBTWVoSjBQV0oycHdXZS1BYy1hNmhRVEY1T0tXZUZRa2doa3NyMlZpR1dtYmx3dTlId2duX1M4UVlZbVlOY0FnMlNMbzFRMXk5dTFZdUV6SEhVc2hSdmVjWjFlRndSNzdVMllIcDY?oc=5",
@@ -315,6 +301,13 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13VVNMeWdmelE4RVMweHdGb3pGeDJWZUpZc0hDejV3V2ZBX3BEWGZTejc0YjE1aHhPaGhCajdZb0szM0JEWW9nbV93a2phQVI3bWUyeXpCcEstdXlYZzZKcjM0dFN4RDJFQWJxZjN5UE85clN3dENnYTdWTmxmUQ?oc=5",
       "description": "Universal Pure Data Breach Investigation Claim Depot",
       "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Europe Healthy Food Market Size, Share, Growth | Report 2035 - Market Research Future",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc2swRjZ3SHE2NDk4djRnUUdEOXhvb2hQYjlwTC11bUFJcjdEUXVBbFB5eW5Tb00yUmZYQVNFdmduWndOZnZrX1pNcjYwNmdRSXQwQlFzYzBoRzk0UlFjYl9GZHlYcU9iZElTSWxEQWE1cjI1TktzNDY2cHdYd0dDbXVERQ?oc=5",
+      "description": "Europe Healthy Food Market Size, Share, Growth | Report 2035 Market Research Future",
+      "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Cosmetics & Beauty",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZEJqUEI0WkJVVHhkX3M5ek9hYUp6Tnh1R1hWLWhLY2c2bWEzOEFNcXJhY016UDdMS0EtZFRnRWtxTElEcGdxX0RETWwzV3FsemRrdVFXQ1JWLW5oLXhVNW95a3JsNjRCWldTVEtIcnpSc05ZSDY3a3VhX092QXhKRldyNFJWemRjbU5Md0Z0eFRXQzk1eU5mbVgwbDFBazg0ekNuek9OYkowY2pvX1NBSGtoekZURTRBZUN6N1dtZk5nSEE?oc=5",
       "description": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation Food and Drink Technology",
       "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Dairy",
+      "title": "Impact of processing techniques on donor human milk: a multi-omics and bioinformatics scoping review - Frontiers",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNW1tRzNnV0tmMUNMdHJuQkdTYThyV2I1RkROYTFkWXNjMTVCRDNzX1JLbG9MWGF5N204dzB1MVRweVY2MUZJM2l3TVB2R0RXYVJkYVZ1bVdDUEtVV0VxX190eEtzY1FzQ2ZCWGhNN1BCclZMMG1xZVpTWjJiT05KTmhwSFpkbnE1ZDFBZFhCYw?oc=5",
+      "description": "Impact of processing techniques on donor human milk: a multi-omics and bioinformatics scoping review Frontiers",
+      "pubDate": "Thu, 26 Feb 2026 12:53:13 GMT"
     }
   ]
 }
