@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-04T23:03:18.027893+00:00",
+  "updated": "2026-08-05T02:31:43.675164+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Chipotle says its jalapenos are of interest in Salmonella outbreak investigation",
+      "link": "https://www.foodsafetynews.com/2026/08/chipotle-says-its-jalapenos-are-of-interest-in-salmonella-outbreak-investigation/",
+      "description": "State officials said the evidence gathered so far suggests the contaminated food item was also served at other Mexican-style restaurants.",
+      "pubDate": "Wed, 05 Aug 2026 01:07:24 GMT"
+    },
     {
       "source": "Salmonella Outbreaks",
       "title": "Chipotle pulls jalapeños as salmonella outbreak sickens over 100 - USA Today",
@@ -24,9 +31,9 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Texas food recalls in July 2026: Check your pantries for these products - houstonchronicle.com",
+      "title": "Texas food recalls in July 2026: Check your pantries for these products - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT2tqb2RBQS12STBjVWZGREdIN0tVel9LX0NLZGZRWlBwclpDUFNSTFpJMzdNTkRoVGx1MG5XUWVzSGFKY2x5ekpMbWxJbzVjQWNoM21RYWZPS29XYTJGZG9VamdXZXhmdDd3VGpNa2xoSEhFVFR1MVRuUHRrTHFYcDVrakZ2WXdPaHNoLXZjWHpmS1hEVDU2VTR0VHJSbnhPWUVyRkxsTU0?oc=5",
-      "description": "Texas food recalls in July 2026: Check your pantries for these products houstonchronicle.com",
+      "description": "Texas food recalls in July 2026: Check your pantries for these products Houston Chronicle",
       "pubDate": "Tue, 04 Aug 2026 16:32:22 GMT"
     },
     {
@@ -63,13 +70,6 @@
       "link": "https://www.foodsafetynews.com/2026/08/publishers-platform-food-safety-is-not-expensive-outbreaks-are-expensive/",
       "description": "USDA says Cyclospora costs America $5.3 million a year. The program I want restored cost $4.5 million a year. This summer alone has already blown past both.",
       "pubDate": "Mon, 03 Aug 2026 04:06:19 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Ukraine shares outbreak data and reports deadly botulism cases",
-      "link": "https://www.foodsafetynews.com/2026/08/ukraine-shares-outbreak-data-and-reports-deadly-botulism-cases/",
-      "description": "Ukraine recorded 31 outbreaks in the first half of this year including 19 botulism cases and two deaths. Data from the State Service of Ukraine on Food Safety and Consumer Protection shows that in the first six months of 2026, 31 outbreaks were registered in 11 regions and Kyiv, with",
-      "pubDate": "Mon, 03 Aug 2026 04:05:40 GMT"
     },
     {
       "source": "HPP Equipment & Machines",
@@ -143,9 +143,9 @@
     },
     {
       "source": "EU HPP & Food Tech",
-      "title": "The EU tightens controls on Listeria, presents the food industry with new challenges - FoodBev Media",
+      "title": "The EU tightens controls on Listeria, presents the food industry with new challenges - foodbev.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFBHSGtUQzUwd29fU2Mxa2xzWVNwYTJMeEVldnVlS3Y5dU5nT3MxSEtCRDE3QS1EWXBHcXFfZXRFMkdmeHNRaXg3OUJFWjA5cTh4Y0VncDRJUDI2ZzE1RDFHWU5qVHFSd3l0aV9Sc1VWMnp2bC1veDJ5Ylp6dUtXQ0lqWWZmR1hCX1ZMSE9sNi1maFdTdHFvSmVmc1BUWmxGVTNiOHg0WnpuRi04SnhqRlBxZVh3QQ?oc=5",
-      "description": "The EU tightens controls on Listeria, presents the food industry with new challenges FoodBev Media",
+      "description": "The EU tightens controls on Listeria, presents the food industry with new challenges foodbev.com",
       "pubDate": "Fri, 17 Jul 2026 08:03:10 GMT"
     },
     {
@@ -161,13 +161,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzFEelYtYTB4S1RpSUdBSjNJYjVQZDdmREszZEo4MnZOTEtWUEp1YjR0ZkVBcGNEekViQVBZNEFDbEdCLTNldW96VXhTdUhwUkpKZkdPcDc5cU5fSi1FcVZ3d0duQzA2bDZMVVZlTHhIQUJoWkVwNU40WGJmNU5yY3NucGxKczBrek4yZXpiSnBUVknSAZgBQVVfeXFMTkRIWGt5bS1zcHhaSWVrVFp0cnBRMllGVVFoX2dFZ3JQOTQyZFp1Q09MV2pKSGVLckdDQlUxUW94bjl5bnlISUdrRHRxR1NUTEVZbVAxYXJIQ3R0RV9YUzFHVkZ5c3MyS1pMNHBkcThyQ2lWZTgyZkxzbmstclBjR1pjZnE5eXZhQjFxWnVkelhGdEZTdklJbUM?oc=5",
       "description": "Tesco, Lidl and M&S deadly bacteria fears plus Co-op and Ocado urgent recalls Manchester Evening News",
       "pubDate": "Sat, 11 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "M&S recall warning over disease-causing bacteria that can lead to meningitis - Oxford Mail",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaks4RjRDNU9SRUlkeThHQnlvRGp1MEJBNGRUUFFVS3p0WWRXNmw1ZUtDUGRwLWE1YXZfRW02NDB1SzBseHpnQ210TmVsQ0dYUUVMSnpIUHlvY29TUGYybV93WW85XzVFT1BrdEFLcTdHT242b3Flc2VGOFNhSEpYWC1DZjZzVE9YeTd5cmZqeDYzMU81YWhJVzJsOTMxZWRkVkl0VmlldVViYXZu?oc=5",
-      "description": "M&S recall warning over disease-causing bacteria that can lead to meningitis Oxford Mail",
-      "pubDate": "Thu, 09 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
@@ -226,6 +219,13 @@
       "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT"
     },
     {
+      "source": "Food Safety UK & EU",
+      "title": "Cheese products recalled because of listeria contamination - Food Manufacture",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGlYR0dNZV8yOG9wOUtMdVVNRXU1XzdrSmFud09fWnF1S0EwWnhMdWpYNTc2aXV2LTdBbW03YmlIcGpNdV9zdy1ZZ28yakw4djRYUC1oTW9uWWZpRFdkOEN4SnlwaFBTb1Z3bzBJREpfblNZelJWN0N4RmdMRDA0X2F6QUJZUTA5M2RSYWRodHdlX2JMMWxsT1F2aWVWa1I1Rmc?oc=5",
+      "description": "Cheese products recalled because of listeria contamination Food Manufacture",
+      "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Seafood",
       "title": "Study finds potential links between virus found in aquaculture and human eye disease - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOLWF3WXE3Yy1tZi0tSjF3WlVYWlNsalJnOU11Rlk2dm90V3AwamdXNU9jVV9yTkxzeE5pcm1lTlNzVjZ3c3AwWkdPM1VMSnVXRFdLbEZqZG55c0xhUE1kLUZsZlYzTV9vY2dXdDZoNnBTNHgwTzc1QXpyeEUwNTBZWUVud1Y2NXhwMnBjSzdoSHV5ckNxVG5fLXdpYS1vbGF2WHZwbkZPS3h4ZExxTlA4OWZsNmwySkxZSTRoVFozcVZJNGpJYWhFYkZkcmd2cmhxVWkwZW9KNmNoQndwQ3dPbEpBVXNxT0VqLW56ZzgwYXlKM2ZuMXFZ?oc=5",
@@ -245,6 +245,13 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWNONmEzaEdyVzkzNFlZUnI2SlpIR01YQ0lTdzJ3TFN6N0lzSEs0OTBseHhLSXRaVGhkSERSVDlnWHY3bDBZRjhTWjlZVW1CNmJmcjFaRkgweUdVdC16TGFLcUZVU3NXOTM4MWZ6bENIUE9TWmFEMlJfTTZuMXFiRXRaOTM?oc=5",
       "description": "High pressure food processing access expanded for local businesses University of Hawaii System",
       "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Healthcare & Medical",
+      "title": "Growing Industrial Applications Expand Scope of Isostatic Pressing Technologies - MarketsandMarkets",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbjhfQXRKR2YwV0xTc0l2MjRnUU1rVUZHZU9JYWcwWExUOFNXM0JPT3hhQjVFTUZLa24xM3F5dU9mYU1YeHFjYXVPRnk3N1Z5ekFjcm01TWVvbTJnTHZVaTFYUE5Id3JEWlVoMUxKc2dUTTh5M1htTjdhWEE2U3QyYm9LNVNxbGhLSU9LQTFMdw?oc=5",
+      "description": "Growing Industrial Applications Expand Scope of Isostatic Pressing Technologies MarketsandMarkets",
+      "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
@@ -296,17 +303,10 @@
       "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Healthcare & Medical",
-      "title": "Universal Pure Data Breach Investigation - Claim Depot",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13VVNMeWdmelE4RVMweHdGb3pGeDJWZUpZc0hDejV3V2ZBX3BEWGZTejc0YjE1aHhPaGhCajdZb0szM0JEWW9nbV93a2phQVI3bWUyeXpCcEstdXlYZzZKcjM0dFN4RDJFQWJxZjN5UE85clN3dENnYTdWTmxmUQ?oc=5",
-      "description": "Universal Pure Data Breach Investigation Claim Depot",
-      "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Cosmetics & Beauty",
-      "title": "Non-Thermal Pasteurization Market: The Future of Safe, Nutrient-Rich Food Processing - marketsandmarkets.com",
+      "title": "Non-Thermal Pasteurization Market: The Future of Safe, Nutrient-Rich Food Processing - MarketsandMarkets",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeDRWNEZLQnkxMURlY0czVTFIaDJIbzJ0V21TVDRpZnc2SmVHNFdfQ3k2bGhrQ25nclVnMzFPbnY4RGxiNWRyWXNQTUdoVEt6UVdDdUxEZ0dRdmhCemphbDRKc0ZhOURNR3pLVUtYLUxfZXlVVHZ3TnBCS2xTNnN0Rw?oc=5",
-      "description": "Non-Thermal Pasteurization Market: The Future of Safe, Nutrient-Rich Food Processing marketsandmarkets.com",
+      "description": "Non-Thermal Pasteurization Market: The Future of Safe, Nutrient-Rich Food Processing MarketsandMarkets",
       "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT"
     },
     {
