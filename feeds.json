@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-06T23:59:04.577959+00:00",
+  "updated": "2026-08-07T03:11:30.270840+00:00",
   "articles": [
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "The Salmonella Outbreak Linked to Jalapeños Has Spread to 27 States — Here’s What Food Safety Experts Say - Food & Wine",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wY1MzUmNnSUE0NGY5ejFNLU44amZyeWgyeEFlZjRmSVVBTEQ5ZlNVNjcwRDV0bWZqRU1YUUFuWnNzMVVNZDdleUtJcXBlczE1ZnBZWXlJNGNvNHlMWmFqLXdnRFBIdE9GSlBaZUd5RjhXUHdfbUdER1hsSzNTZw?oc=5",
+      "description": "The Salmonella Outbreak Linked to Jalapeños Has Spread to 27 States — Here’s What Food Safety Experts Say Food & Wine",
+      "pubDate": "Thu, 06 Aug 2026 20:06:31 GMT"
+    },
     {
       "source": "Salmonella Outbreaks",
       "title": "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine",
@@ -13,14 +20,7 @@
       "title": "Salmonella outbreak linked to jalapenos served at Chipotle expands to Qdoba: FDA - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYzY4U0xNc3d0UnZYWjdiZ2NwZGFadURUUm84RllJMVdfd3otZEZrX1c1dU1lNEtUcUtxQW41X0NfQ3k4Y2t3LUpIUW45WGJ5Q3h2cElwZ1ZUODB4Wm1JVVg2cXFReUFVX3BNdXhPVHZtNEc4ZnZiSC1QYWZDaHNxS1owOHpwYy1FN2FSd2ZMSVljY0xMWUt3Um9waFUyM0t0b0pWWmxiUFRuUdIBrwFBVV95cUxQZDNpUXcyWEMybGl2S19NajY0QXZoem41U1BuLVlnYW1CX2ROb3VlamdLZzJqTE5Bemd2VkpUekNES01vSGUwa3RxdU5oWUpuVkQtVmxsdGx1VXZTaHJEeVNLVHZSMS1wQk9XWXlpbUxjbU5hZldzVG5oWHZQaEUyY0ZwZXpEdlZoZG40djZwa2FIWmdrbDRqOVROYUlZVHFJYzVQT2NjcjhfNWEtc1ZV?oc=5",
       "description": "Salmonella outbreak linked to jalapenos served at Chipotle expands to Qdoba: FDA ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Thu, 06 Aug 2026 19:09:31 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Salmonella Outbreak Prompts Massive Egg Recall - HowStuffWorks",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWUhudTkyaFJ0UUp4WWJmZ0VOdVZyWTRwZkNYWFh0LTI1a054TDc5aDM4ZXFtNDlCRENIaHFWX2xyLVdZSWljOVFiZGJRcHZPblJpMmYtQVRfSTVSTzFnaThVUWRiLTZldjNIZVduMGR6ZmU1djRyQVlCOERwTHljSExvMEZLQV9rVkJfQjA1UQ?oc=5",
-      "description": "Salmonella Outbreak Prompts Massive Egg Recall HowStuffWorks",
-      "pubDate": "Thu, 06 Aug 2026 12:50:37 GMT"
+      "pubDate": "Thu, 06 Aug 2026 14:07:22 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -44,13 +44,6 @@
       "pubDate": "Thu, 06 Aug 2026 04:03:06 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Salmonella Outbreak Linked to Jalapeños - cdc.gov",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JZU4wYnlkNGZuVTROR24wV25FVThjWldjVk9ZWjlydkFqdlNwTHE1RHFzaDJSMGhmVjBXSzhuWkFsMWpsTjRfdWVsckhDdFdSMzdrMzN1cW15OW1aLVpwOTRYM0JfLXppZUNoMTlXUEFwSU0?oc=5",
-      "description": "Salmonella Outbreak Linked to Jalapeños cdc.gov",
-      "pubDate": "Thu, 06 Aug 2026 02:29:26 GMT"
-    },
-    {
       "source": "Food Safety News",
       "title": "Salmonella outbreak caused by imported jalapeño peppers has sickened hundreds",
       "link": "https://www.foodsafetynews.com/2026/08/salmonella-outbreak-caused-by-imported-jalapeno-peppers-has-sickened-hundreds/",
@@ -59,10 +52,17 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Food recalls keep growing. Eggs, lettuce, soup and more affected - freep.com",
+      "title": "Food recalls keep growing. Eggs, lettuce, soup and more affected - Detroit Free Press",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWTk4WmhubENabTN2X0pfRHVORFNwajVVc3BEME1ySG5QUjIxWjB0VDhpWjlYWWlFbWVKMjJ5SkliMjVRWGpCVkU0TzJmRTVEV21jejM1dDZnRHZiYnJORlJKZHVCNUxyQ1NiRkMxai1CMGNiRnFrR21nUDhHRGgzT0FhNnluQ0tDNDM1LS1JaGZjQkhCUmVFaU9sOGFJd1hYcjgyQ0lzQW1QOVp5NmxaU01fV3c1ZUcy?oc=5",
-      "description": "Food recalls keep growing. Eggs, lettuce, soup and more affected freep.com",
+      "description": "Food recalls keep growing. Eggs, lettuce, soup and more affected Detroit Free Press",
       "pubDate": "Thu, 06 Aug 2026 00:07:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Investigation Update: Salmonella Outbreak, August 2026 - cdc.gov",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zb05obHd4ZVBoakNZLXo3RXN1eTFHWF9HeHlrRVJERXk5anNKby1QbXNtZkRiSWVZWE51QUlacFBBcDhmUDVmZXREVmNCZ1ZuaEtDVWl3NnZkSGxvQ1FrX2FRRl9PdHpBRHc4UG9qU0dvVmdxV0JkSTEwNWtuZw?oc=5",
+      "description": "Investigation Update: Salmonella Outbreak, August 2026 cdc.gov",
+      "pubDate": "Wed, 05 Aug 2026 23:05:48 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -122,9 +122,9 @@
     },
     {
       "source": "UK Food Industry",
-      "title": "Forty years of Handtmann UK - foodanddrinktechnology.com",
+      "title": "Forty years of Handtmann UK - Food and Drink Technology",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZXF3VzVNVDI1UDNRcVJiZDdDcDJkVDBkZENGazRQYmlINUtHcVgzdEV6a2tDVW1tQXQxSmxrRlVsM1RIVGlXYkhyWlQ0WG55dkdkb2ZJV0ZzbVByY0ZwTUZ1V2JjYTgxZlowbXJ3WTJ5ZUVBVEJIdGJhRUdWRzRIcktCTVZSMVV5SUwydEVLZ2E0NXNUVHZCbTB1UGhWMDFwbHNvVmVEcDRBN01KV3ZCMDRTOTk3WG5kell0eWFoeXc3X2owc0Y2RA?oc=5",
-      "description": "Forty years of Handtmann UK foodanddrinktechnology.com",
+      "description": "Forty years of Handtmann UK Food and Drink Technology",
       "pubDate": "Fri, 24 Jul 2026 09:34:46 GMT"
     },
     {
@@ -140,13 +140,6 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT2ttSXdHM0NzTE5yZnBjdHZMazMtR3N4T0FhUzc3QjJ6bjBOeFYtemwyM3VhRTdFcGVVOHhoMFdoOGFrdGZxSXloUmlueWtleFBZelFwbVRDZi1WX3R0X0VLWjlWUHRGY0pDRGZwd1ZyRFhZak42M25aWnlFbFlEWXNfQdIBiAFBVV95cUxQemh6MVdJU0d2Z3AwTHlIVk5WQ0xVdkoxVE1ibnNZMk5Gd0s5WUxqNVd6a3ZqTjBCdWZzYXQxcmNZYlRkVlgxaHpQU1hkUnhVeFpTS3ZkbUtRX1FyVUNuZTNVRTZoQW11OHgyYXJEam5CUlVGX2xDMzh4X2RFZ3p2eVhHcXdzcFYx?oc=5",
       "description": "M&S, Tesco and Lidl issue 'do not eat' food poisoning warnings — full list Wales Online",
       "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "What to know about cyclosporiasis, the intestinal illness hitting the U.S. - NPR",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSjFFRkx0MTU2UktlTk5mamhEZVR5S0dPZnVPU3RpZkRSbUszMDdIeUtNMXo0OWs1Q3N3V3Z4dG9UT1BITWlmbVVFendIZTNucVhYUExrQ3I4Sjl5VW9nQlRUWWoxMzQ5UUs2NkRVVGJaZE1IdG1mQmJFdkIxNjlNbkgzWlEwanUwLVhGMF9VOHI1TmgzdUF6RGh3UTF4RjQ?oc=5",
-      "description": "What to know about cyclosporiasis, the intestinal illness hitting the U.S. NPR",
-      "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -170,17 +163,17 @@
       "pubDate": "Thu, 02 Jul 2026 00:40:04 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "Europe Pressure Vessel Market Size & Share, 2034 - marketdataforecast.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUThCSHBjT29LemxoZ3dSbGY5WkxMQkRmZW9QZV8xM1F0bXozNGl1WmdpU1h5b3dMOGpRTUdSSUVLblRZNGw1eWp6VmRaZ1Q2Q2VIOFpRWmJVNVNMakxFakJ5TlcyTHhkdHlxd0tmQlJfZXNvQmE4eDJ4cHJoNWdMUkVEc21Fdw?oc=5",
-      "description": "Europe Pressure Vessel Market Size & Share, 2034 marketdataforecast.com",
-      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
-    },
-    {
       "source": "UK Food Industry",
       "title": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI - PR Newswire UK",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdVRCUkhzUHR0NTFtd1dTOUUxODE2MkJURGNIVGpkUkdSaE8yeTZvTHJSZENfUEFPUmx5Y01hNUZELW85SklCb0Z5UHRYd196d2IzR1RXWHdxVnE4aFAzZ0RvT3VNWFNiRG9CYXdfWmRDdF9WWkFwYXM4ZGNBQ1VVU3dYSUhmY2NlMTFSU1A2Tkh5ZHpGb2VrQThCZUJrem9mRnhkRGc4M002LWJNcjhOZVpjRW1ocGN0TUw4dFppd3p2OEs3ZnZMUTlUMVBGbXQ3ajRHdnhJOGpxWjZvRzVoUUJUU21lcEMxaXRWZU5RajQtYWp5MzVndVBmdzRyRDdSNTBpNEFxWU1EVVVsa3lSWk45OEQ1QmVtRWJOWVhYSFU5SHlnZzlURjkxT1BsQ1B0NTF3Vg?oc=5",
       "description": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI PR Newswire UK",
+      "pubDate": "Wed, 01 Jul 2026 10:38:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Europe Pressure Vessel Market Size & Share, 2034 - Market Data Forecast",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUThCSHBjT29LemxoZ3dSbGY5WkxMQkRmZW9QZV8xM1F0bXozNGl1WmdpU1h5b3dMOGpRTUdSSUVLblRZNGw1eWp6VmRaZ1Q2Q2VIOFpRWmJVNVNMakxFakJ5TlcyTHhkdHlxd0tmQlJfZXNvQmE4eDJ4cHJoNWdMUkVEc21Fdw?oc=5",
+      "description": "Europe Pressure Vessel Market Size & Share, 2034 Market Data Forecast",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
@@ -226,6 +219,13 @@
       "pubDate": "Thu, 18 Jun 2026 18:23:30 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "Clover Hill Dairy Ricotta and Requeson Cheese Linked to a Listeria Outbreak - Consumer Reports",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1lveTdpVlRzSnhmeG5nY08yTW1uQU5mWl91dXlRZ19NTFFDNDh5UllqQ2xIMFZhYWRjbXo4Zzd2Wk9KU0c4c1M3WllVSjdCLU5Od2hHUmN3WDVHUnRRdTYxUi0xUTFpM29qU1ZVOHdxS2tvYkFQT044Y3RWWVBtd201QVpoLVVaWktGUUM3QzloN2pMQUk4ZkRWOXRWcm1SajJ4cnEtM1Zock9qY215VFFFODhsdWVP?oc=5",
+      "description": "Clover Hill Dairy Ricotta and Requeson Cheese Linked to a Listeria Outbreak Consumer Reports",
+      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT"
+    },
+    {
       "source": "Food Safety UK & EU",
       "title": "🚨 A round up of some of the latest food and product recalls - facebook.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMklTa1B2RV9qU0ZkNTdOQzY0SWExRHVuSXZJZzctM3MxRTFkcmdKeVdYeEgyNTFDU3ZMSlAwQ1MzeWJXOFJoTnprZFRST3FhX2xoS2RTVHBVaGhpU3lhbkZXcWRjbEg0TGpkZkU2M3pnSGZSY3psdGVrMkJ5OEJaR1RaVHdLcklObnBMNTFuaVdYVDY2LUpoWmpwMHBNOGlyOURiTWYteWczQi1pSEk5TEhQNXRRZEZMOVE4QVFkNzNOaHZkb3RsVw?oc=5",
@@ -255,9 +255,9 @@
     },
     {
       "source": "HPP Equipment & Machines",
-      "title": "High Pressure Processing Hpp Foods Market Size, Share, Growth | Report 2035 - marketresearchfuture.com",
+      "title": "High Pressure Processing Hpp Foods Market Size, Share, Growth | Report 2035 - Market Research Future",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNODAxNkJRV3hqMk5XbklwU3dCNDlwYW1JQ0hJc3pQN3FkSFRjZUlfblFIckFGMUt6M2M5a1R4eGZpdk9ia1NyeVJfazFDSUlrN1dRTEZYVEZSMS1mQ01yRHkxNGZwVHR1bno4NTlPdDFqUUFOUERyRDA1eDRqWEpaZDJ0akRKZWdfNklYYVhKS0o2Zw?oc=5",
-      "description": "High Pressure Processing Hpp Foods Market Size, Share, Growth | Report 2035 marketresearchfuture.com",
+      "description": "High Pressure Processing Hpp Foods Market Size, Share, Growth | Report 2035 Market Research Future",
       "pubDate": "Thu, 21 May 2026 07:00:00 GMT"
     },
     {
@@ -269,9 +269,9 @@
     },
     {
       "source": "Hiperbaric",
-      "title": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? - petfoodindustry.com",
+      "title": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? - PetfoodIndustry",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTVFPakRRZlRhZG50MVZBdmVxdVZhVzlJRC1LNlBFOS1MNVI0SUhlT2FrUloxRkN5Qi1Bcm4yS0hFLUtDdnY5RC12dUY0TWoyQWh1eUlnSU5ZNmJMNmhSQlkyeU0yeHpGVDNZZE12MlI4TjZvNzZXR2RFN0htMFZlSkxFQmxqYnBEUG1VdUNpT3VMQ1pwUG1jel95SVltMkpVOW1wZDUwWTBkb2xZYmp5dlF5V3ZnV00tTzRubW9yTlhENDVpT1VCTW1rNDFhZURtR0Z5ZlBrOWNVenAxSFlyMmhGN3FkLVAzeWNCWVZYVzBKc2VaWTllemU3NA?oc=5",
-      "description": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? petfoodindustry.com",
+      "description": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? PetfoodIndustry",
       "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
     },
     {
@@ -311,9 +311,9 @@
     },
     {
       "source": "EU HPP & Food Tech",
-      "title": "Europe Healthy Food Market Size, Share & Growth Report 2035 | MRFR - marketresearchfuture.com",
+      "title": "Europe Healthy Food Market Size, Share & Growth Report 2035 | MRFR - Market Research Future",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc2swRjZ3SHE2NDk4djRnUUdEOXhvb2hQYjlwTC11bUFJcjdEUXVBbFB5eW5Tb00yUmZYQVNFdmduWndOZnZrX1pNcjYwNmdRSXQwQlFzYzBoRzk0UlFjYl9GZHlYcU9iZElTSWxEQWE1cjI1TktzNDY2cHdYd0dDbXVERQ?oc=5",
-      "description": "Europe Healthy Food Market Size, Share & Growth Report 2035 | MRFR marketresearchfuture.com",
+      "description": "Europe Healthy Food Market Size, Share & Growth Report 2035 | MRFR Market Research Future",
       "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
     },
     {
@@ -345,10 +345,10 @@
       "pubDate": "Thu, 19 Mar 2026 17:56:16 GMT"
     },
     {
-      "source": "Hiperbaric EU",
-      "title": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation - foodanddrinktechnology.com",
+      "source": "Hiperbaric",
+      "title": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation - Food and Drink Technology",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZEJqUEI0WkJVVHhkX3M5ek9hYUp6Tnh1R1hWLWhLY2c2bWEzOEFNcXJhY016UDdMS0EtZFRnRWtxTElEcGdxX0RETWwzV3FsemRrdVFXQ1JWLW5oLXhVNW95a3JsNjRCWldTVEtIcnpSc05ZSDY3a3VhX092QXhKRldyNFJWemRjbU5Md0Z0eFRXQzk1eU5mbVgwbDFBazg0ekNuek9OYkowY2pvX1NBSGtoekZURTRBZUN6N1dtZk5nSEE?oc=5",
-      "description": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation foodanddrinktechnology.com",
+      "description": "Hiperbaric launches 2026 HPP Research Awards to fuel clean-label innovation Food and Drink Technology",
       "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT"
     }
   ]
