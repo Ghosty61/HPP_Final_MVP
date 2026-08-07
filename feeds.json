@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-07T13:03:04.517045+00:00",
+  "updated": "2026-08-07T14:52:16.422888+00:00",
   "articles": [
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Eggs, pistachio butter sold in MS part of salmonella food recall - The Clarion-Ledger",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMnU0RlVCY0dtNkJDYTlGdDZOYUo1ODVMVUhpMk5fbmRVUVVSaGctTVZDbTZLQkJqbmJsTVFFQXRzd255RnZWeWxyRzFOdjZkYm5YcVhKTy04djl6M09PM1Noejg2TWFJZ0VJQ0R0M1pPYV9fQWdub25wRXRsWWJOV25CeWFlZHJJZmVvSUktZXRCaTU3UC1KNXBRUHJfZTgtbTdBd3FqWnVKUERyR0FFNzg5ZnAzcjBYZW5ja0VqVHduaW45bUhqQm5XbjRPc1dUcExvWGhuVmREcTdiMm9aZ1J1eW0wQmV0MUtUN1EwdmxNYXc5ZE82bHBOd3Q?oc=5",
+      "description": "Eggs, pistachio butter sold in MS part of salmonella food recall The Clarion-Ledger",
+      "pubDate": "Fri, 07 Aug 2026 13:33:00 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Publisher’s Platform: I Have Been Told I Am Too Hard on Industry and on the Government. Here Are Fifteen Things They Could Do About Cyclospora.",
@@ -28,13 +35,6 @@
       "link": "https://www.foodsafetynews.com/2026/08/korean-agency-notes-spike-in-illness-cases/",
       "description": "Campylobacter, Salmonella and E. coli infections went up in July",
       "pubDate": "Fri, 07 Aug 2026 04:03:47 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "The Salmonella Outbreak Linked to Jalapeños Has Spread to 27 States — Here’s What Food Safety Experts Say - Food & Wine",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wY1MzUmNnSUE0NGY5ejFNLU44amZyeWgyeEFlZjRmSVVBTEQ5ZlNVNjcwRDV0bWZqRU1YUUFuWnNzMVVNZDdleUtJcXBlczE1ZnBZWXlJNGNvNHlMWmFqLXdnRFBIdE9GSlBaZUd5RjhXUHdfbUdER1hsSzNTZw?oc=5",
-      "description": "The Salmonella Outbreak Linked to Jalapeños Has Spread to 27 States — Here’s What Food Safety Experts Say Food & Wine",
-      "pubDate": "Thu, 06 Aug 2026 20:06:31 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -66,17 +66,17 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Salmonella Outbreak Linked to Jalapeños - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JZU4wYnlkNGZuVTROR24wV25FVThjWldjVk9ZWjlydkFqdlNwTHE1RHFzaDJSMGhmVjBXSzhuWkFsMWpsTjRfdWVsckhDdFdSMzdrMzN1cW15OW1aLVpwOTRYM0JfLXppZUNoMTlXUEFwSU0?oc=5",
-      "description": "Salmonella Outbreak Linked to Jalapeños Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Thu, 06 Aug 2026 02:29:26 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
       "title": "Food recalls keep growing. Eggs, lettuce, soup and more affected - Detroit Free Press",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWTk4WmhubENabTN2X0pfRHVORFNwajVVc3BEME1ySG5QUjIxWjB0VDhpWjlYWWlFbWVKMjJ5SkliMjVRWGpCVkU0TzJmRTVEV21jejM1dDZnRHZiYnJORlJKZHVCNUxyQ1NiRkMxai1CMGNiRnFrR21nUDhHRGgzT0FhNnluQ0tDNDM1LS1JaGZjQkhCUmVFaU9sOGFJd1hYcjgyQ0lzQW1QOVp5NmxaU01fV3c1ZUcy?oc=5",
       "description": "Food recalls keep growing. Eggs, lettuce, soup and more affected Detroit Free Press",
       "pubDate": "Thu, 06 Aug 2026 00:07:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Investigation Update: Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zb05obHd4ZVBoakNZLXo3RXN1eTFHWF9HeHlrRVJERXk5anNKby1QbXNtZkRiSWVZWE51QUlacFBBcDhmUDVmZXREVmNCZ1ZuaEtDVWl3NnZkSGxvQ1FrX2FRRl9PdHpBRHc4UG9qU0dvVmdxV0JkSTEwNWtuZw?oc=5",
+      "description": "Investigation Update: Salmonella Outbreak, August 2026 Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Wed, 05 Aug 2026 23:05:48 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -150,9 +150,9 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Tesco, Lidl and M&S deadly bacteria fears plus Co-op and Ocado urgent recalls - manchestereveningnews.co.uk",
+      "title": "Tesco, Lidl and M&S deadly bacteria fears plus Co-op and Ocado urgent recalls - Manchester Evening News",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzFEelYtYTB4S1RpSUdBSjNJYjVQZDdmREszZEo4MnZOTEtWUEp1YjR0ZkVBcGNEekViQVBZNEFDbEdCLTNldW96VXhTdUhwUkpKZkdPcDc5cU5fSi1FcVZ3d0duQzA2bDZMVVZlTHhIQUJoWkVwNU40WGJmNU5yY3NucGxKczBrek4yZXpiSnBUVknSAZgBQVVfeXFMTkRIWGt5bS1zcHhaSWVrVFp0cnBRMllGVVFoX2dFZ3JQOTQyZFp1Q09MV2pKSGVLckdDQlUxUW94bjl5bnlISUdrRHRxR1NUTEVZbVAxYXJIQ3R0RV9YUzFHVkZ5c3MyS1pMNHBkcThyQ2lWZTgyZkxzbmstclBjR1pjZnE5eXZhQjFxWnVkelhGdEZTdklJbUM?oc=5",
-      "description": "Tesco, Lidl and M&S deadly bacteria fears plus Co-op and Ocado urgent recalls manchestereveningnews.co.uk",
+      "description": "Tesco, Lidl and M&S deadly bacteria fears plus Co-op and Ocado urgent recalls Manchester Evening News",
       "pubDate": "Sat, 11 Jul 2026 07:00:00 GMT"
     },
     {
@@ -254,6 +254,13 @@
       "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
     },
     {
+      "source": "UK Food Industry",
+      "title": "2026 North East Scotland Food and Drink Award winners announced - Aberdeen & Grampian Chamber of Commerce",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVExmMTJNV3B0X3J1bzhOenhKVVdfTFVHVU1PdEZoZE5fcGc0ejNObHJ1Vnc5eTRDR1BHRjktOFdxSnFjOWFOeml2UDZDMTlvOGJaQk55VnhmXzZiRVlfa0Vabm9ldldjVzFOMGFoZ3FlUDM4aFJSeFB3eTh2dVdjZkdFbmliM1E4bjZiaDEyeXZ2cno1MzhPN1hSYnZVLXMz?oc=5",
+      "description": "2026 North East Scotland Food and Drink Award winners announced Aberdeen & Grampian Chamber of Commerce",
+      "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Seafood",
       "title": "Expansion at the Dock + boosts seafood processing in Alberni Valley - Ha-Shilth-Sa Newspaper",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXFGTmZ4ZW9NamJNeVhqV29yeFQ0SzlTYzBXcnl1RHltM0NIODNMVTFhT2VPaUhCbDFwanJEazNfZEoweXJkWGhtSGRwZWlycjJwWFgwdmZBU2RlSlRlTjhfQ3J4UDlrcUg0N1ZzX2puWVo4amFUczJFcGZCZWphenBFN0dUSlMwWVdIZ2ZmT1daOG90b0Z6X0RB?oc=5",
@@ -290,9 +297,9 @@
     },
     {
       "source": "HPP Juices & Beverages",
-      "title": "Suja Life, Better-For-You Beverage Platform, Files for NASDAQ IPO - TradingView",
+      "title": "Suja Life, Better-For-You Beverage Platform, Files for NASDAQ IPO - tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORTBUVDZBcy04eF9GMDItaGdjR0kwR0ctNHdhSnVLLUs5clhsdjRGNWZxVzlsN2QwbXRvY1Bod09NWmI0UEVMU3dUTnVNVnRKTjdYNlJMWWNQN1NvTDExZXJPMGpoUzhCSUdvWTBCR082T1NYZmREajdEc3puNzhMeU5SeVpkaGZ4UFVQVHhIOVNOcnRPUzhaOHV2REkzTktXZGM3aGloSDdQVHAzYWpXdk1NblhlanVpM01CX29FXzNMSlU?oc=5",
-      "description": "Suja Life, Better-For-You Beverage Platform, Files for NASDAQ IPO TradingView",
+      "description": "Suja Life, Better-For-You Beverage Platform, Files for NASDAQ IPO tradingview.com",
       "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
     },
     {
@@ -315,13 +322,6 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmx1R1IteWZodWRGNk85ajZrVVM5dUQtWkNWTnYxZV9sOVcyd2ZMRkxLYVJhNVhEY2t1MnlHbmx3a3N0YVJuVnV1em80Z0Z3UXA4NFhBZXQza1c3cnV5QTVIWWtBWGNfUTlLbjJXS2cwV3NwaVd0bnpxbmg5aVY1YWFRSHFOMExtT1VERVdPXzdhQTZGMFoweFZXc2VKaFhNQzF2NXc5eW1JVHlJaVh2dnBUX29qVEJOVHY4YkNB?oc=5",
       "description": "FIU researchers reveal new findings on utilizing sargassum as a potential food source WSVN",
       "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
-      "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
-      "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
