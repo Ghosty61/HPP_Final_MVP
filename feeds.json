@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T14:52:16.422888+00:00",
+  "updated": "2026-08-07T16:54:22.922129+00:00",
   "articles": [
     {
       "source": "Salmonella Outbreaks",
@@ -16,13 +16,6 @@
       "pubDate": "Fri, 07 Aug 2026 04:18:28 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "From jalapeños to lettuce: Why consumers keep seeing food recalls - WWLTV.com",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOXVUOG9uSlc3ejlHSmdHVW5NaUFLbGxGTW5HSzFpUFZLRnN3TE4td3IwbVYyVjFIMjI4UHVGcWhEdkZmdW01cnJMajBic2hSYUNORWtpcU5LOWVvNUlDd0pLekN0b0xsYXJraFM1enQ3TFhnTm5SZnl6T3FaWXQzZm5SekZ4SnloM1pMM2Zib3JZZ0RzdHY1NE8yQ2IwZVhrcjlfbmFQcmtFR2RyQmpoM1g5Ri01ZUFmbnVNSVhrbWlmdU8wcWhuNHNUWGQ5ell0OXptYTVhTUdrYXh3aEE?oc=5",
-      "description": "From jalapeños to lettuce: Why consumers keep seeing food recalls WWLTV.com",
-      "pubDate": "Fri, 07 Aug 2026 04:07:00 GMT"
-    },
-    {
       "source": "Food Safety News",
       "title": "Taylor Farms says it's not responsible for Cyclospora outbreak",
       "link": "https://www.foodsafetynews.com/2026/08/taylor-farms-says-its-not-responsible-for-cyclospora-outbreak/",
@@ -35,6 +28,13 @@
       "link": "https://www.foodsafetynews.com/2026/08/korean-agency-notes-spike-in-illness-cases/",
       "description": "Campylobacter, Salmonella and E. coli infections went up in July",
       "pubDate": "Fri, 07 Aug 2026 04:03:47 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Recalls and fast food: Which foods and restaurants are impacted by latest outbreaks - nbcchicago.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdE5UWE5NbFRETkN4OUQ3X1hmNjJTY3A5UHdlNTBSWERNLVZWS09DZUota05sb2RadmpNNHBqQmRlVktib3ptSWhrSjVVUlFndXF1ekhaVEZFeVlpQ0JyV0o0d1pUV1hHemp6Vm1XTDBNd09wS1RIUEFpbnFzVGcweWFUUmJNZVY1bzlhYlF4cF90NWRwdnI2RTdRRFZSZE81RlBQOGFmRzNaVTdCVmZhazl4VWFBQ2tqSlc1akRmZkNNQ1BMQUFfcdIB0AFBVV95cUxNeWtvMEplaXBRMmJWclMwUUNmdHZNeVo0UUt4UU1tZy1zWE9RQTRpcGlkZE1aOVYtOWs3SDE2cVZibkc3NjZEbGJ0SzVkd21PeUE4TVU2eDRwOGptS0p2blcxV2RSb1hFOGxWWjBxQkJPSjM0cDFibDExTmtwM05LNXFrRTllMGV2UzEzU0ZTbmwxYTVkdFJ0aTQ3VkZRNmZFbkx0RDdVaVlvaG9TOFp1SG15bk5rY2Y0S1VabTFtZ0NWNVVhU3hFTHI2SUJJZ0FH?oc=5",
+      "description": "Recalls and fast food: Which foods and restaurants are impacted by latest outbreaks nbcchicago.com",
+      "pubDate": "Thu, 06 Aug 2026 20:28:56 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -73,10 +73,10 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Investigation Update: Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zb05obHd4ZVBoakNZLXo3RXN1eTFHWF9HeHlrRVJERXk5anNKby1QbXNtZkRiSWVZWE51QUlacFBBcDhmUDVmZXREVmNCZ1ZuaEtDVWl3NnZkSGxvQ1FrX2FRRl9PdHpBRHc4UG9qU0dvVmdxV0JkSTEwNWtuZw?oc=5",
-      "description": "Investigation Update: Salmonella Outbreak, August 2026 Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Wed, 05 Aug 2026 23:05:48 GMT"
+      "title": "Salmonella Outbreak Linked to Jalapeños - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKcUowNkdfWW9CbDFyVDg3eUlhanVBbzdrWk1ZN2NyanIycTlHa3EzZ0FIc1VRVkxSQ2xTTXVNVFN2dkFiTjk0bWh1QWtFTlV2a1I3N1pRMWhiN1JnX0VGRkc5Zmw3NWVVUjE4ZVp6WHljUTQ?oc=5",
+      "description": "Salmonella Outbreak Linked to Jalapeños Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Wed, 05 Aug 2026 23:13:37 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -87,9 +87,9 @@
     },
     {
       "source": "HPP Equipment & Machines",
-      "title": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing - Nutritional Outlook",
+      "title": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing - nutritionaloutlook.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDBoRW1EZEpqYmQ5Sm9XLVRycFVJN2gzSDNiTkNWX0taRUhvcTlIZlo4UUlvc2tUeldqZ3ZDUEw4bFpLcl9jbW10ZV9DYVpnc1daWS0tc2VyZ0sxSWxDN1llX1J0TGJ1ZUJOVjhVdHViRmg2WDRHRzJTU1Z4UnN3YnpoMkxsWENSblZZV3cwSFJwY1NyQWNGQmxPU190dw?oc=5",
-      "description": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing Nutritional Outlook",
+      "description": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing nutritionaloutlook.com",
       "pubDate": "Fri, 31 Jul 2026 19:16:56 GMT"
     },
     {
@@ -143,9 +143,9 @@
     },
     {
       "source": "UK Food Industry",
-      "title": "Food Ingredients Market Size, Share | Growth Forecast [2034 - Fortune Business Insights",
+      "title": "Food Ingredients Market Size, Share | Growth Forecast [2034 - fortunebusinessinsights.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rSkdQWE93bDdDc2ZENzA0a1Vud1BFbTctT0U3NjJZcWFRTThVN1J3U3ZrVzRQbTRwNVhfS2FveUc1TG56NlJSbFluaWt6bXNBdU5FRmxEejVpYlFLejBfZEhxUHZlcEM3emlNMXN4NVR0S3cycFkxY19B?oc=5",
-      "description": "Food Ingredients Market Size, Share | Growth Forecast [2034 Fortune Business Insights",
+      "description": "Food Ingredients Market Size, Share | Growth Forecast [2034 fortunebusinessinsights.com",
       "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT"
     },
     {
@@ -185,9 +185,9 @@
     },
     {
       "source": "UK Food Industry",
-      "title": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI - prnewswire.co.uk",
+      "title": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI - PR Newswire UK",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdVRCUkhzUHR0NTFtd1dTOUUxODE2MkJURGNIVGpkUkdSaE8yeTZvTHJSZENfUEFPUmx5Y01hNUZELW85SklCb0Z5UHRYd196d2IzR1RXWHdxVnE4aFAzZ0RvT3VNWFNiRG9CYXdfWmRDdF9WWkFwYXM4ZGNBQ1VVU3dYSUhmY2NlMTFSU1A2Tkh5ZHpGb2VrQThCZUJrem9mRnhkRGc4M002LWJNcjhOZVpjRW1ocGN0TUw4dFppd3p2OEs3ZnZMUTlUMVBGbXQ3ajRHdnhJOGpxWjZvRzVoUUJUU21lcEMxaXRWZU5RajQtYWp5MzVndVBmdzRyRDdSNTBpNEFxWU1EVVVsa3lSWk45OEQ1QmVtRWJOWVhYSFU5SHlnZzlURjkxT1BsQ1B0NTF3Vg?oc=5",
-      "description": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI prnewswire.co.uk",
+      "description": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI PR Newswire UK",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
@@ -297,9 +297,9 @@
     },
     {
       "source": "HPP Juices & Beverages",
-      "title": "Suja Life, Better-For-You Beverage Platform, Files for NASDAQ IPO - tradingview.com",
+      "title": "Suja Life, Better-For-You Beverage Platform, Files for NASDAQ IPO - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORTBUVDZBcy04eF9GMDItaGdjR0kwR0ctNHdhSnVLLUs5clhsdjRGNWZxVzlsN2QwbXRvY1Bod09NWmI0UEVMU3dUTnVNVnRKTjdYNlJMWWNQN1NvTDExZXJPMGpoUzhCSUdvWTBCR082T1NYZmREajdEc3puNzhMeU5SeVpkaGZ4UFVQVHhIOVNOcnRPUzhaOHV2REkzTktXZGM3aGloSDdQVHAzYWpXdk1NblhlanVpM01CX29FXzNMSlU?oc=5",
-      "description": "Suja Life, Better-For-You Beverage Platform, Files for NASDAQ IPO tradingview.com",
+      "description": "Suja Life, Better-For-You Beverage Platform, Files for NASDAQ IPO TradingView",
       "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
     },
     {
@@ -318,9 +318,9 @@
     },
     {
       "source": "HPP Cosmetics & Beauty",
-      "title": "FIU researchers reveal new findings on utilizing sargassum as a potential food source - WSVN",
+      "title": "FIU researchers reveal new findings on utilizing sargassum as a potential food source - wsvn.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmx1R1IteWZodWRGNk85ajZrVVM5dUQtWkNWTnYxZV9sOVcyd2ZMRkxLYVJhNVhEY2t1MnlHbmx3a3N0YVJuVnV1em80Z0Z3UXA4NFhBZXQza1c3cnV5QTVIWWtBWGNfUTlLbjJXS2cwV3NwaVd0bnpxbmg5aVY1YWFRSHFOMExtT1VERVdPXzdhQTZGMFoweFZXc2VKaFhNQzF2NXc5eW1JVHlJaVh2dnBUX29qVEJOVHY4YkNB?oc=5",
-      "description": "FIU researchers reveal new findings on utilizing sargassum as a potential food source WSVN",
+      "description": "FIU researchers reveal new findings on utilizing sargassum as a potential food source wsvn.com",
       "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
     },
     {
