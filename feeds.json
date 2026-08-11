@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T19:01:14.978021+00:00",
+  "updated": "2026-08-11T20:42:54.586518+00:00",
   "articles": [
     {
       "source": "Salmonella Outbreaks",
@@ -7,6 +7,13 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObFF6TlpjWVVEaThnRFBNM3F6bmdQQUJWRGJiaURWWWNXeWNTdC1vY0pNY0tianVjQ21jaEc3SG1sUjZ0cEpWVmJiaXZwamZYcjU1YjltdzB4Qk1zVXBnSTJ4d1VHSGZmLTVsWlh6TG9oWHo5dUZTQXNCNmxaZE1oM1RUZHdVZ3I1X014MDdIQVBrUXdmMXlPbTRYRDB0WnVFa3VzNVpGOFJfU1UtLTJTZzFRNGNlY3NDaEsyY3h1TQ?oc=5",
       "description": "Salmonella outbreak linked to jalapeño prompts other food recalls Detroit Free Press",
       "pubDate": "Tue, 11 Aug 2026 17:42:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Salmonella Outbreak Tied to Jalapeños Expands Downstream Recalls - Contagion Live",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZWpGTWVSTkZCUXFuempMWlM5dC13V0Y1Ri1aU1VoRjFnNzFpcTNVclgyendZZjNTVTRxZWQtelRDM2dFSmt3bFpfeks4bUpZM1pUM2JTSE8xNVB4d19KYXp2QlRERFRhU0JubjRudmxWTFNjNXdUeF83TmYtak1kWlQweTZHT0xIeXc0a21CX2NTcTdnbEN5Qkpvc0puUzJa?oc=5",
+      "description": "Salmonella Outbreak Tied to Jalapeños Expands Downstream Recalls Contagion Live",
+      "pubDate": "Tue, 11 Aug 2026 16:29:09 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -52,13 +59,6 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Chicago-area shoppers looking for foods to avoid amid salmonella, cyclospora outbreak and Taylor Farms recall - ABC7 Chicago",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWEY4VmNJN1RfMVhIaHNSb1ZYa3ZCaHRhTzBvZ1hhTDhMNHF6cWQtZjY0V0xldmpTYzRNcVRBaGZUZDVNTzVqN3F1Zmk3cE9XbVdJVXVTVlJCNXVlSm9fVTFra3h2QUYzWFRpZDdSNkVpc1U2eWJjUUxwQzBpNnVSZS1kc0tlNXFuWnRPTFc5cUo4U0dlaGtldTZNam42Ri1PaElmbk5XUjN5SFlxV2hBNmFPUV9hSGNrN3JkYUNfOUZqNjFiTnRnaG5iczVucVVSdVHSAdcBQVVfeXFMTm1VaVJRMlp5SEZ5d1FZYmoyVHJGSV80TjRrTks2UnJ2eUVOb2xjX0dYWUhxdFZRdXNiTVVGRGU5bHlpZGlYU0FvSFBpUURXbDRLLTZiZVQ3QWFQTm4xQmVwZkpwYlZwTnF4eWNzcC12QXdjZXpGTG5NcTlSbFNtY0FoRHU1QTQtM2NFd3hCQk5kOTZEY3M2VENHM0xBNnBDdk15cVgxbVJkUmswV2xOQzB1Z2hTWjRNaGtqVU0tRnlhSEZ0dU9JY3FMbHktR01IQXJ0MkRVS0E?oc=5",
-      "description": "Chicago-area shoppers looking for foods to avoid amid salmonella, cyclospora outbreak and Taylor Farms recall ABC7 Chicago",
-      "pubDate": "Mon, 10 Aug 2026 23:29:57 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
       "title": "New food items recalled over salmonella outbreak - NBC News",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd3BuTFZTMEFFelJhcVcyMHVPX1d4dkgxTmZsdUhxOUpzY0pjdjgxTk1FOVUtR3NhQ2I4Y2VWcW04a3EtU25LN2s4UWRBX2syb1piMjJyU290SzU1bGczZV91SWJiLVFJZ3ZBaGlpbFNELV9VbGZtbmZWVDVvSnlsVURaZE1IMklXalZHSU9fQ2pxUmEwZTczajBHbFV5R2syX2p6N3I5UQ?oc=5",
       "description": "New food items recalled over salmonella outbreak NBC News",
@@ -80,9 +80,9 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Taylor Farms recalls jalapeno products after salmonella outbreak - bbc.co.uk",
+      "title": "Taylor Farms recalls jalapeno products after salmonella outbreak - BBC",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKTlNobWFRZHVUZ0JOTkpoNU9vZVQwZGhtamJjR2F3eWtMYnJucUJNaWpoT0ZkTi00aDUxbGg3eHJtQ3pxS1R3NVVXYTBVQm9zeWN4c3luU1VRQTdy?oc=5",
-      "description": "Taylor Farms recalls jalapeno products after salmonella outbreak bbc.co.uk",
+      "description": "Taylor Farms recalls jalapeno products after salmonella outbreak BBC",
       "pubDate": "Mon, 10 Aug 2026 15:10:33 GMT"
     },
     {
@@ -103,7 +103,7 @@
       "source": "Salmonella Outbreaks",
       "title": "18 prepared foods under alert as jalapeño Salmonella outbreak sickens 345 - Fox Business",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWWtvUkRwZUw4bjBmNVM3dUw3ZVVJb1JmaDh5NllfSXFPUERGa3V4aVFycDZxTUJybFV3OXhYR0U4eUNIM21TUWJhTURlNlg3TmZVeEdtcUhBZ2hoal9iZXFPaU43SkNSWmpMOUNVLVczdGFWd3ozQmx3QUwyVm9RVldiOGhLdmNmR01Mb1AyNGbSAZYBQVVfeXFMTzVuSFVGN2tPbkREdm9IR2JDeUx3YzBzTE0wX3RfOWJSZ1dfbTNDYUt6UVNJS3ZtdFZvRjRXTkVzU0lpbjFZY3lCbUVEWTUxSWNyU3pnYmhhTDVWWGxLQWdrUm11VlhMelZQSnhWcmZlOEh3dVR5M0RKc1VWdFFRSUlJRXBnQUdibS1YemxhY3JfV1FaRW5B?oc=5",
-      "description": "18 prepared foods under alert as jalapeño Salmonella outbreak sickens 345 Fox Business Taylor Farms recalls several jalapeño products over salmonella concerns PBS Salmonella outbreak casts spotlight on Taylor Farms as food safety crisis deepens Axios Taylor Farms recalls salsa, guacamole on salmonella outbreak, intensifying food-safety fears CNBC Taylor Farms recalls jalapeno products after salmon",
+      "description": "18 prepared foods under alert as jalapeño Salmonella outbreak sickens 345 Fox Business Taylor Farms recalls salsa, guacamole on salmonella outbreak, intensifying food-safety fears CNBC Salmonella outbreak casts spotlight on Taylor Farms as food safety crisis deepens Axios Trader Joe’s, Walmart and More Recalled Products Linked to Salmonella Outbreak EatingWell Taylor Farms recalls several jalapeño",
       "pubDate": "Mon, 10 Aug 2026 03:43:00 GMT"
     },
     {
@@ -119,13 +119,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMnEzNWpRU1BvYXg1SkVqNGZLblhfUjB3QlBHQzZOVGttdUxfdUx0RC1hUmtsNTd2ZFJLaGZPdWoxdXVKdTYxaE96STdqNVZEUDFHVER3YS15Q3prQlZ1UXRmZ3FJbzUweTdKWVBSRWVfaEU1TFRtTmlfOVNCR08zLWxXenN2WGp0WGdDWDAwMzZTVkRISjc4dnJ4Q1gwYzFLZ3B5YVUyLXFlYTZUekw4?oc=5",
       "description": "Pasta salads sold at Asda and Morrisons recalled over listeria fears The Independent",
       "pubDate": "Sat, 08 Aug 2026 11:11:00 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "Urgent food recall for pasta from Asda and Morrisons due to potentially deadly bacteria - Chronicle Live",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0pxMlFDX3J0THF5ekdDSk0xcXdOSmR4Q09tWlF3bS13Rmp1R0VxUGE0aGd3eW5iUDJmYmo3TDZyOVgxaThlTkJLaFZVbWV6Vy1BMUNER0tNNkt4SzNOVVJvU2ZxQ09jYjJhOVdMREhBTTFLZUVheDRDT1Z4Q3NSOHlsblRubFZ1bnJKUlFNNNIBlAFBVV95cUxQcE5nQVlPZzB4VHBLYzVGa29SX2xKMmhsX1puazZpWHlacXBHNnNVbnNnUUx2NlBfOWhYRHVDVk5SRi1NbTdxRTFRWUZnS00yVTF3dmNMS2R2NVE3ak9nT1hJQUIxWktfUmNhaEp4aTJacHk0RmVtejBUZEhQUWpZaHFTQ1d5M0FyYVNHMnVxQktCYmpm?oc=5",
-      "description": "Urgent food recall for pasta from Asda and Morrisons due to potentially deadly bacteria Chronicle Live",
-      "pubDate": "Sat, 08 Aug 2026 08:57:00 GMT"
     },
     {
       "source": "EU HPP & Food Tech",
@@ -205,6 +198,13 @@
       "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT"
     },
     {
+      "source": "Food Safety UK & EU",
+      "title": "Tesco, Lidl and M&S deadly bacteria fears plus Co-op and Ocado urgent recalls - manchestereveningnews.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzFEelYtYTB4S1RpSUdBSjNJYjVQZDdmREszZEo4MnZOTEtWUEp1YjR0ZkVBcGNEekViQVBZNEFDbEdCLTNldW96VXhTdUhwUkpKZkdPcDc5cU5fSi1FcVZ3d0duQzA2bDZMVVZlTHhIQUJoWkVwNU40WGJmNU5yY3NucGxKczBrek4yZXpiSnBUVknSAZgBQVVfeXFMTkRIWGt5bS1zcHhaSWVrVFp0cnBRMllGVVFoX2dFZ3JQOTQyZFp1Q09MV2pKSGVLckdDQlUxUW94bjl5bnlISUdrRHRxR1NUTEVZbVAxYXJIQ3R0RV9YUzFHVkZ5c3MyS1pMNHBkcThyQ2lWZTgyZkxzbmstclBjR1pjZnE5eXZhQjFxWnVkelhGdEZTdklJbUM?oc=5",
+      "description": "Tesco, Lidl and M&S deadly bacteria fears plus Co-op and Ocado urgent recalls manchestereveningnews.co.uk",
+      "pubDate": "Sat, 11 Jul 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Seafood",
       "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
@@ -276,9 +276,9 @@
     },
     {
       "source": "HPP Healthcare & Medical",
-      "title": "Growing Industrial Applications Expand Scope of Isostatic Pressing Technologies - MarketsandMarkets",
+      "title": "Growing Industrial Applications Expand Scope of Isostatic Pressing Technologies - marketsandmarkets.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbjhfQXRKR2YwV0xTc0l2MjRnUU1rVUZHZU9JYWcwWExUOFNXM0JPT3hhQjVFTUZLa24xM3F5dU9mYU1YeHFjYXVPRnk3N1Z5ekFjcm01TWVvbTJnTHZVaTFYUE5Id3JEWlVoMUxKc2dUTTh5M1htTjdhWEE2U3QyYm9LNVNxbGhLSU9LQTFMdw?oc=5",
-      "description": "Growing Industrial Applications Expand Scope of Isostatic Pressing Technologies MarketsandMarkets",
+      "description": "Growing Industrial Applications Expand Scope of Isostatic Pressing Technologies marketsandmarkets.com",
       "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
     },
     {
@@ -290,23 +290,23 @@
     },
     {
       "source": "HPP Equipment & Machines",
-      "title": "High Pressure Processing Hpp Foods Market Size, Share, Growth | Report 2035 - Market Research Future",
+      "title": "High Pressure Processing Hpp Foods Market Size, Share, Growth | Report 2035 - marketresearchfuture.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNODAxNkJRV3hqMk5XbklwU3dCNDlwYW1JQ0hJc3pQN3FkSFRjZUlfblFIckFGMUt6M2M5a1R4eGZpdk9ia1NyeVJfazFDSUlrN1dRTEZYVEZSMS1mQ01yRHkxNGZwVHR1bno4NTlPdDFqUUFOUERyRDA1eDRqWEpaZDJ0akRKZWdfNklYYVhKS0o2Zw?oc=5",
-      "description": "High Pressure Processing Hpp Foods Market Size, Share, Growth | Report 2035 Market Research Future",
+      "description": "High Pressure Processing Hpp Foods Market Size, Share, Growth | Report 2035 marketresearchfuture.com",
       "pubDate": "Thu, 21 May 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Juices & Beverages",
-      "title": "Why Trader Joe's Was Once Sued Over Juice - Tasting Table",
+      "title": "Why Trader Joe's Was Once Sued Over Juice - tastingtable.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGNnaExYaDZIa3BFcnRyZGJxODFSSHFWTTFSTk5fNUNqbHJsbFVEbVloWVZYdUhMakFTZmloTnpacGI4N3c3c2lUcS1HcjhRTG1aTU81UmZIQVRRMWZqSk9QYUhfUjJ5RENGaVQ0clRfd0NoenlLNk1IdXdzRlBpZlNR?oc=5",
-      "description": "Why Trader Joe's Was Once Sued Over Juice Tasting Table",
+      "description": "Why Trader Joe's Was Once Sued Over Juice tastingtable.com",
       "pubDate": "Sun, 17 May 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
-      "title": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? - PetfoodIndustry",
+      "title": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? - petfoodindustry.com",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTVFPakRRZlRhZG50MVZBdmVxdVZhVzlJRC1LNlBFOS1MNVI0SUhlT2FrUloxRkN5Qi1Bcm4yS0hFLUtDdnY5RC12dUY0TWoyQWh1eUlnSU5ZNmJMNmhSQlkyeU0yeHpGVDNZZE12MlI4TjZvNzZXR2RFN0htMFZlSkxFQmxqYnBEUG1VdUNpT3VMQ1pwUG1jel95SVltMkpVOW1wZDUwWTBkb2xZYmp5dlF5V3ZnV00tTzRubW9yTlhENDVpT1VCTW1rNDFhZURtR0Z5ZlBrOWNVenAxSFlyMmhGN3FkLVAzeWNCWVZYVzBKc2VaWTllemU3NA?oc=5",
-      "description": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? PetfoodIndustry",
+      "description": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? petfoodindustry.com",
       "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
     },
     {
