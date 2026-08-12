@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T16:56:06.021969+00:00",
+  "updated": "2026-08-12T19:01:41.119399+00:00",
   "articles": [
     {
       "source": "Salmonella Outbreaks",
@@ -100,13 +100,6 @@
       "pubDate": "Mon, 10 Aug 2026 15:10:33 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Taylor Farms recalls jalapeño products. See list - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTmN4S0ltVXpHY1JNNGhqSTE0TTNMelNyQWVMM1hPZzc4anU5c1dwbzljRVJIQ1YwMVRtbHRqU19MVUF6WHZld1lOcDh4MEN1M0hCbXMtS2otNU84T2RXeGRoejdoMjFHXzhqbFppbFRpUXlzdFpLZXROVnJfTVVjTXdIekxhaHFnRDY5UmgxZHZFYmsxWG8yeVRlOVFqR2ZpV0ZRRjlyMkF5S0IzTzF4ZHVMVWNXdUFCTTdr?oc=5",
-      "description": "Taylor Farms recalls jalapeño products. See list USA Today 18 prepared foods under alert as jalapeño Salmonella outbreak sickens 345 Fox Business Trader Joe’s, Walmart and More Recalled Products Linked to Salmonella Outbreak EatingWell Salmonella outbreak casts spotlight on Taylor Farms as food safety crisis deepens Axios Salmonella outbreak linked to jalapeño prompts other food recalls Detroit Fr",
-      "pubDate": "Mon, 10 Aug 2026 13:46:00 GMT"
-    },
-    {
       "source": "HPP Meat & Deli",
       "title": "Fukuoka’s game meat plant turns nuisance wildlife into regional specialty - The Japan Times",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXJPUzlPU1RibTVkRHdqYUh1ZlB0MGdiNlN0RFFvT3B3ME1oakpNN1pfVmlSRFdVUkdDbExKMXNBbEhFYXhWQ1FBcXo0a0tNeUVaLUlUYW9WSTJNSDc3UEhKUDhLRGxEbjZtWUJoTlRPclZ5ZDFBXzc5REFaUHY2ZDBrXzA3NzNoMDcyNUdqNFFya0NIUTZTbThn?oc=5",
@@ -119,6 +112,13 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zb05obHd4ZVBoakNZLXo3RXN1eTFHWF9HeHlrRVJERXk5anNKby1QbXNtZkRiSWVZWE51QUlacFBBcDhmUDVmZXREVmNCZ1ZuaEtDVWl3NnZkSGxvQ1FrX2FRRl9PdHpBRHc4UG9qU0dvVmdxV0JkSTEwNWtuZw?oc=5",
       "description": "Investigation Update: Salmonella Outbreak, August 2026 Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "18 prepared foods under alert as jalapeño Salmonella outbreak sickens 345 - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWWtvUkRwZUw4bjBmNVM3dUw3ZVVJb1JmaDh5NllfSXFPUERGa3V4aVFycDZxTUJybFV3OXhYR0U4eUNIM21TUWJhTURlNlg3TmZVeEdtcUhBZ2hoal9iZXFPaU43SkNSWmpMOUNVLVczdGFWd3ozQmx3QUwyVm9RVldiOGhLdmNmR01Mb1AyNGbSAZYBQVVfeXFMTzVuSFVGN2tPbkREdm9IR2JDeUx3YzBzTE0wX3RfOWJSZ1dfbTNDYUt6UVNJS3ZtdFZvRjRXTkVzU0lpbjFZY3lCbUVEWTUxSWNyU3pnYmhhTDVWWGxLQWdrUm11VlhMelZQSnhWcmZlOEh3dVR5M0RKc1VWdFFRSUlJRXBnQUdibS1YemxhY3JfV1FaRW5B?oc=5",
+      "description": "18 prepared foods under alert as jalapeño Salmonella outbreak sickens 345 Fox Business Taylor Farms recalls jalapeño products. See list USA Today Salmonella outbreak linked to jalapeño prompts other food recalls Detroit Free Press Salmonella outbreak casts spotlight on Taylor Farms as food safety crisis deepens Axios Taylor Farms recalls jalapeno products after salmonella outbreak BBC Taylor Farms",
+      "pubDate": "Mon, 10 Aug 2026 03:43:00 GMT"
     },
     {
       "source": "UK HPP Industry",
@@ -212,13 +212,6 @@
       "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "Tesco, Lidl and M&S deadly bacteria fears plus Co-op and Ocado urgent recalls - Manchester Evening News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzFEelYtYTB4S1RpSUdBSjNJYjVQZDdmREszZEo4MnZOTEtWUEp1YjR0ZkVBcGNEekViQVBZNEFDbEdCLTNldW96VXhTdUhwUkpKZkdPcDc5cU5fSi1FcVZ3d0duQzA2bDZMVVZlTHhIQUJoWkVwNU40WGJmNU5yY3NucGxKczBrek4yZXpiSnBUVknSAZgBQVVfeXFMTkRIWGt5bS1zcHhaSWVrVFp0cnBRMllGVVFoX2dFZ3JQOTQyZFp1Q09MV2pKSGVLckdDQlUxUW94bjl5bnlISUdrRHRxR1NUTEVZbVAxYXJIQ3R0RV9YUzFHVkZ5c3MyS1pMNHBkcThyQ2lWZTgyZkxzbmstclBjR1pjZnE5eXZhQjFxWnVkelhGdEZTdklJbUM?oc=5",
-      "description": "Tesco, Lidl and M&S deadly bacteria fears plus Co-op and Ocado urgent recalls Manchester Evening News",
-      "pubDate": "Sat, 11 Jul 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Seafood",
       "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
@@ -244,13 +237,6 @@
       "title": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI - PR Newswire UK",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdVRCUkhzUHR0NTFtd1dTOUUxODE2MkJURGNIVGpkUkdSaE8yeTZvTHJSZENfUEFPUmx5Y01hNUZELW85SklCb0Z5UHRYd196d2IzR1RXWHdxVnE4aFAzZ0RvT3VNWFNiRG9CYXdfWmRDdF9WWkFwYXM4ZGNBQ1VVU3dYSUhmY2NlMTFSU1A2Tkh5ZHpGb2VrQThCZUJrem9mRnhkRGc4M002LWJNcjhOZVpjRW1ocGN0TUw4dFppd3p2OEs3ZnZMUTlUMVBGbXQ3ajRHdnhJOGpxWjZvRzVoUUJUU21lcEMxaXRWZU5RajQtYWp5MzVndVBmdzRyRDdSNTBpNEFxWU1EVVVsa3lSWk45OEQ1QmVtRWJOWVhYSFU5SHlnZzlURjkxT1BsQ1B0NTF3Vg?oc=5",
       "description": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI PR Newswire UK",
-      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Europe Food and Beverages Market Size and Analysis, 2034 - Market Data Forecast",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFRiSl9GOVdlZHlfalNxOHk1V25kTkhPV20wU3JpbjNrLXV1VmljMjZfR0dNbEV2b3V2NjZpaDZaM3ZKYTZvazBiV3dDSkY2eWl5eWRrVUE0Z09BV2Y0bzdxLXdaeUgzN2lyTFlFLXNoVXRHQ0xsamN4S0pZeFRUSVV6c1otRzZWYlE?oc=5",
-      "description": "Europe Food and Beverages Market Size and Analysis, 2034 Market Data Forecast",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
@@ -297,9 +283,9 @@
     },
     {
       "source": "HPP Seafood",
-      "title": "Expansion at the Dock + boosts seafood processing in Alberni Valley - hashilthsa.com",
+      "title": "Expansion at the Dock + boosts seafood processing in Alberni Valley - Ha-Shilth-Sa Newspaper",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXFGTmZ4ZW9NamJNeVhqV29yeFQ0SzlTYzBXcnl1RHltM0NIODNMVTFhT2VPaUhCbDFwanJEazNfZEoweXJkWGhtSGRwZWlycjJwWFgwdmZBU2RlSlRlTjhfQ3J4UDlrcUg0N1ZzX2puWVo4amFUczJFcGZCZWphenBFN0dUSlMwWVdIZ2ZmT1daOG90b0Z6X0RB?oc=5",
-      "description": "Expansion at the Dock + boosts seafood processing in Alberni Valley hashilthsa.com",
+      "description": "Expansion at the Dock + boosts seafood processing in Alberni Valley Ha-Shilth-Sa Newspaper",
       "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
     },
     {
@@ -324,6 +310,13 @@
       "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
     },
     {
+      "source": "Food Safety UK & EU",
+      "title": "Salmonella: Lidl Ireland recalls chicken products over bacteria concerns - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CWjFEcVNqTGJGakV4YUVfWWNyWlF1d2MwWTB0bXNqZEV4MUZDMWpDbktqYkV2SjZMWmstbGx5YjQ4Y0xPN2wtQUkwbVVXUmp2bUpfYTk5XzlTZw?oc=5",
+      "description": "Salmonella: Lidl Ireland recalls chicken products over bacteria concerns BBC",
+      "pubDate": "Tue, 12 May 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Innovation & Research",
       "title": "From science to market: OSU Ag Research advances understanding of dark-cutting beef - news.okstate.edu",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOU9aRGVVRE9vRUdqRjJQYWYzQzNMclk1M2xVUDh1amZMaS0tZHp3dm9JNXNhaE51QVRCbzd2YVRVd19JQjZWS1RfcDh2MlBOUzgtVVM1UEw2VmVQSUwxR1otUkFUYnRhTnpwcV84THN4VjdFMUwyZzB5b29RRXV1Zm9YZU9pUldrWUcwVW84MDd2YW1OM25RbFJQSFVWNWVsSVNEWkdITTRsamV5aDd1dGNTT3lyMV80ZTEycndGXzBacGRRYk93cnZCWUlBZw?oc=5",
@@ -338,18 +331,25 @@
       "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
-      "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
-      "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
-    },
-    {
       "source": "EU HPP & Food Tech",
       "title": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage - funcas.es",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BTaXhwYnBzVTdZSldMcFJKR2FSQl9JMFoxQ0VEdEg4NmFObGY0ZldMWHE5U3hVQk9RZm5icmJXWlhKRHVsQzZWNllzT0tNUlVRc25pTzZDclk4eGlsZ3k0cmlScktfRlNBRUt3eWJQdUhHemtOSXJjelk1WjFBTWVoSjBQV0oycHdXZS1BYy1hNmhRVEY1T0tXZUZRa2doa3NyMlZpR1dtYmx3dTlId2duX1M4UVlZbVlOY0FnMlNMbzFRMXk5dTFZdUV6SEhVc2hSdmVjWjFlRndSNzdVMllIcDY?oc=5",
       "description": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage funcas.es",
       "pubDate": "Wed, 29 Apr 2026 08:10:47 GMT"
+    },
+    {
+      "source": "HPP Seafood",
+      "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
+      "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
+      "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric",
+      "title": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria - Fuel Cells Works",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMWpFYUZveHVvay1yVVNMNWZxN0NDcnhEdnBvVDdueFBuZWhRVkticVM5andBeGtkc1ZBYzlBcmFGY0xHWGIzaF9UZVV5NUxsNjZ1ZkhHRV9TSk9fbzd0R1E2YXJCM2dMMWMtZmp5ZWxyb1FWRTRKWkV1WDN3WXlZeEg4TmwzUnc0ZDcxeWtWWDZuZ3NEOFJyZS1KNnJqdjFpOTZjVFlCNU8wcWpKdjNYM18yeDgzUUl4Qjl2MUVHUW8xc0Jzd2ZNZWxsNkwtYzExN04xTXktNUxaV05kcFdfMjVqTDNGZEhkaEFEMzJBaWFoam9zZjJ4LQ?oc=5",
+      "description": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria Fuel Cells Works",
+      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT"
     }
   ]
 }
