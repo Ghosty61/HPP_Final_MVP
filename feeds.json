@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T07:24:06.178220+00:00",
+  "updated": "2026-08-12T09:11:08.858279+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -14,13 +14,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMkdTZE16MFYtRzY5SXpPdGVqRE9ZX0M1R0VHQl9DXzFaUFVYTlJzeEhRQTZ4ak1DZl9zb1RFTkRWenRONzJIdi10V3NhYlgyTU0yTENhRmJ1THBEdTJFWjNqaVFqdWlLOEVxUjZrNm9VV0xOWVNLdGtDWmxNZHpsdFpHZVBjYkJmdnpIdW9HTnV0WUZUMW1zdC13RXUxTHFKd2l3UmFnMkk5cERDeGx0OWhHQXJHeVU1UERhYkd1aWVLZWpPOVNWekxUMW1sQkZVc3c?oc=5",
       "description": "Food recalls involving lettuce, eggs and jalapeños raise concerns for Texas shoppers Click2Houston",
       "pubDate": "Tue, 11 Aug 2026 23:25:01 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Salmonella Outbreak Tied to Jalapeños Expands Downstream Recalls - Contagion Live",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZWpGTWVSTkZCUXFuempMWlM5dC13V0Y1Ri1aU1VoRjFnNzFpcTNVclgyendZZjNTVTRxZWQtelRDM2dFSmt3bFpfeks4bUpZM1pUM2JTSE8xNVB4d19KYXp2QlRERFRhU0JubjRudmxWTFNjNXdUeF83TmYtak1kWlQweTZHT0xIeXc0a21CX2NTcTdnbEN5Qkpvc0puUzJa?oc=5",
-      "description": "Salmonella Outbreak Tied to Jalapeños Expands Downstream Recalls Contagion Live",
-      "pubDate": "Tue, 11 Aug 2026 16:29:09 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -80,6 +73,13 @@
     },
     {
       "source": "Salmonella Outbreaks",
+      "title": "Chicago-area shoppers looking for foods to avoid amid salmonella, cyclospora outbreak and Taylor Farms recall - ABC7 Chicago",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWEY4VmNJN1RfMVhIaHNSb1ZYa3ZCaHRhTzBvZ1hhTDhMNHF6cWQtZjY0V0xldmpTYzRNcVRBaGZUZDVNTzVqN3F1Zmk3cE9XbVdJVXVTVlJCNXVlSm9fVTFra3h2QUYzWFRpZDdSNkVpc1U2eWJjUUxwQzBpNnVSZS1kc0tlNXFuWnRPTFc5cUo4U0dlaGtldTZNam42Ri1PaElmbk5XUjN5SFlxV2hBNmFPUV9hSGNrN3JkYUNfOUZqNjFiTnRnaG5iczVucVVSdVHSAdcBQVVfeXFMTm1VaVJRMlp5SEZ5d1FZYmoyVHJGSV80TjRrTks2UnJ2eUVOb2xjX0dYWUhxdFZRdXNiTVVGRGU5bHlpZGlYU0FvSFBpUURXbDRLLTZiZVQ3QWFQTm4xQmVwZkpwYlZwTnF4eWNzcC12QXdjZXpGTG5NcTlSbFNtY0FoRHU1QTQtM2NFd3hCQk5kOTZEY3M2VENHM0xBNnBDdk15cVgxbVJkUmswV2xOQzB1Z2hTWjRNaGtqVU0tRnlhSEZ0dU9JY3FMbHktR01IQXJ0MkRVS0E?oc=5",
+      "description": "Chicago-area shoppers looking for foods to avoid amid salmonella, cyclospora outbreak and Taylor Farms recall ABC7 Chicago",
+      "pubDate": "Mon, 10 Aug 2026 23:29:57 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
       "title": "New food items recalled over salmonella outbreak - NBC News",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd3BuTFZTMEFFelJhcVcyMHVPX1d4dkgxTmZsdUhxOUpzY0pjdjgxTk1FOVUtR3NhQ2I4Y2VWcW04a3EtU25LN2s4UWRBX2syb1piMjJyU290SzU1bGczZV91SWJiLVFJZ3ZBaGlpbFNELV9VbGZtbmZWVDVvSnlsVURaZE1IMklXalZHSU9fQ2pxUmEwZTczajBHbFV5R2syX2p6N3I5UQ?oc=5",
       "description": "New food items recalled over salmonella outbreak NBC News",
@@ -122,16 +122,16 @@
     },
     {
       "source": "UK HPP Industry",
-      "title": "Deli 24 boosts reliability with oil-free compressed air upgrade - machinery-market.co.uk",
+      "title": "Deli 24 boosts reliability with oil-free compressed air upgrade - Machinery Market",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZW5qcFR5dlFYalhUSHhOMkJsaFlCTEwxNFFhbU5jVUVqTk9uLTNxTjVPdjFXV0MzclFjakVhSnl0c1hDWTJHaVMyVUNZTWY3WGhaVWEtcEFrWHFHelZUZ0E4dXZTVXN4bXp2YXJWc1lSZXZTMmgyQWVtQTluN3NFOThLV3FJdWRyLWVqYmYwWXc2TFhaeEt4MnJsWEY3X2JFalpRQ0FWLU10OHpoM0E?oc=5",
-      "description": "Deli 24 boosts reliability with oil-free compressed air upgrade machinery-market.co.uk",
+      "description": "Deli 24 boosts reliability with oil-free compressed air upgrade Machinery Market",
       "pubDate": "Sat, 08 Aug 2026 11:46:46 GMT"
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Pasta salads sold at Asda and Morrisons recalled over listeria fears - The Independent",
+      "title": "Pasta salads sold at Asda and Morrisons recalled over listeria fears - independent.co.uk",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMnEzNWpRU1BvYXg1SkVqNGZLblhfUjB3QlBHQzZOVGttdUxfdUx0RC1hUmtsNTd2ZFJLaGZPdWoxdXVKdTYxaE96STdqNVZEUDFHVER3YS15Q3prQlZ1UXRmZ3FJbzUweTdKWVBSRWVfaEU1TFRtTmlfOVNCR08zLWxXenN2WGp0WGdDWDAwMzZTVkRISjc4dnJ4Q1gwYzFLZ3B5YVUyLXFlYTZUekw4?oc=5",
-      "description": "Pasta salads sold at Asda and Morrisons recalled over listeria fears The Independent",
+      "description": "Pasta salads sold at Asda and Morrisons recalled over listeria fears independent.co.uk",
       "pubDate": "Sat, 08 Aug 2026 11:11:00 GMT"
     },
     {
@@ -234,9 +234,9 @@
     },
     {
       "source": "EU HPP & Food Tech",
-      "title": "Europe Pressure Vessel Market Size & Share, 2034 - Market Data Forecast",
+      "title": "Europe Pressure Vessel Market Size & Share, 2034 - marketdataforecast.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUThCSHBjT29LemxoZ3dSbGY5WkxMQkRmZW9QZV8xM1F0bXozNGl1WmdpU1h5b3dMOGpRTUdSSUVLblRZNGw1eWp6VmRaZ1Q2Q2VIOFpRWmJVNVNMakxFakJ5TlcyTHhkdHlxd0tmQlJfZXNvQmE4eDJ4cHJoNWdMUkVEc21Fdw?oc=5",
-      "description": "Europe Pressure Vessel Market Size & Share, 2034 Market Data Forecast",
+      "description": "Europe Pressure Vessel Market Size & Share, 2034 marketdataforecast.com",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
@@ -248,16 +248,9 @@
     },
     {
       "source": "UK Food Industry",
-      "title": "Europe Food and Beverages Market Size and Analysis, 2034 - Market Data Forecast",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFRiSl9GOVdlZHlfalNxOHk1V25kTkhPV20wU3JpbjNrLXV1VmljMjZfR0dNbEV2b3V2NjZpaDZaM3ZKYTZvazBiV3dDSkY2eWl5eWRrVUE0Z09BV2Y0bzdxLXdaeUgzN2lyTFlFLXNoVXRHQ0xsamN4S0pZeFRUSVV6c1otRzZWYlE?oc=5",
-      "description": "Europe Food and Beverages Market Size and Analysis, 2034 Market Data Forecast",
-      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "UK Food Valley highlights innovation and ambition at Lincolnshire Show Brunch - lincolnshire.gov.uk",
+      "title": "UK Food Valley highlights innovation and ambition at Lincolnshire Show Brunch - Lincolnshire County Council",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZElmZFZsNzZXMlNWQlZQTm96OHZEYW1kdkJWWTlQQS14dUd2OFhHVURRMkpBcFZ0SU5hOG5oSWxpVVdTZFdYcFF5R0VSNjZ5UEx5QzctaWFZdlRaM2xlWW5QX2tRUnlMeVE1bXAyUFRNVzlEWlgxOEd5NHNfSEdidngzWjNGclRfU21IUWNMRGtlcU5jNEFNUDRoNExmc1VKemVEaFF6M3YtYzUzeDFDNVFLTVJnaDh4ZXdSaU1iYjdqLVFPZHc?oc=5",
-      "description": "UK Food Valley highlights innovation and ambition at Lincolnshire Show Brunch lincolnshire.gov.uk",
+      "description": "UK Food Valley highlights innovation and ambition at Lincolnshire Show Brunch Lincolnshire County Council",
       "pubDate": "Mon, 29 Jun 2026 13:27:31 GMT"
     },
     {
@@ -276,9 +269,9 @@
     },
     {
       "source": "HPP Soups & Meals",
-      "title": "Heard the loud noise in Dixon? Officials say here's what caused it - ABC10",
+      "title": "Heard the loud noise in Dixon? Officials say here's what caused it - abc10.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGtOcWpIM1hIV1JSUjd6VVFmelI5ZlE4SzZKdkVHdGlmdm5SUjU1NXkwWWZNeXgyb280RjJpaE1CNEFOeGw2Y1ZPaW5JdkFsdzh2ZGZFSHl5a0VMRVF4UThqOVB3WFJTOFByWFFtZ3NQSi1Lb1RidU1WTmxSY0tKQzVHUF9KQk52OVk4eTJraWJLNjN5SXV4N2FEb3ZERUN4NkRPQ1RGcS1XUmJScFFFTFlMUXlKaHltdkF5SmIxSGxGaThfdUdRZC1nQXc?oc=5",
-      "description": "Heard the loud noise in Dixon? Officials say here's what caused it ABC10",
+      "description": "Heard the loud noise in Dixon? Officials say here's what caused it abc10.com",
       "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT"
     },
     {
@@ -338,18 +331,25 @@
       "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
-      "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
-      "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
-    },
-    {
       "source": "EU HPP & Food Tech",
       "title": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage - funcas.es",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BTaXhwYnBzVTdZSldMcFJKR2FSQl9JMFoxQ0VEdEg4NmFObGY0ZldMWHE5U3hVQk9RZm5icmJXWlhKRHVsQzZWNllzT0tNUlVRc25pTzZDclk4eGlsZ3k0cmlScktfRlNBRUt3eWJQdUhHemtOSXJjelk1WjFBTWVoSjBQV0oycHdXZS1BYy1hNmhRVEY1T0tXZUZRa2doa3NyMlZpR1dtYmx3dTlId2duX1M4UVlZbVlOY0FnMlNMbzFRMXk5dTFZdUV6SEhVc2hSdmVjWjFlRndSNzdVMllIcDY?oc=5",
       "description": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage funcas.es",
       "pubDate": "Wed, 29 Apr 2026 08:10:47 GMT"
+    },
+    {
+      "source": "HPP Cosmetics & Beauty",
+      "title": "Freshly Made Skincare - Trend Hunter",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DcDlYZXlJNUNwQlVidEY0eEpOQ0JLVl8zVEVqWkk3SjVQcXFFVnVjcW1uRW92ak1LTEo5MlU1NjkyTHdDUEFBdHVwR25HLTJla1JSa9IBWkFVX3lxTE5Rc3JMSkxmVURTRnExN3J3SWNTMDNuMEVWNksza1hFSXI1TmRHNEJDOFBlT0QyLXhra3lCVkdmRC0teHBBVmtJX3FQTWtiR0g3bDJja1B2TVI4QQ?oc=5",
+      "description": "Freshly Made Skincare Trend Hunter",
+      "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Seafood",
+      "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
+      "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
+      "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
     }
   ]
 }
