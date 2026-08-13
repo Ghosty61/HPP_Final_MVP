@@ -1,13 +1,6 @@
 {
-  "updated": "2026-08-13T14:57:06.585298+00:00",
+  "updated": "2026-08-13T16:55:46.306239+00:00",
   "articles": [
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "What We Know About Taylor Farms’ Food Recalls - nytimes.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPXzFqQ1hSVk90UjhNSEJ2MG9wNlBRQlJDRnl5R2RHbS1FbkQ0RTBDc2R6NnExRUtWaDhNM0NkZm42UnRpLUFLb2J0MnJLRHU0dmp1cXBjT041X3luOGpJc2ZRejhzSmdsUlFUbVRHVlRkYkVYSTQwelJVLW9JQ1JxZ0pEQlVIaTFYU3NFRktLS1hjQnJfdnc?oc=5",
-      "description": "What We Know About Taylor Farms’ Food Recalls nytimes.com",
-      "pubDate": "Thu, 13 Aug 2026 09:04:48 GMT"
-    },
     {
       "source": "Food Safety News",
       "title": "Ill food handler caused outbreak despite following protocols",
@@ -24,17 +17,10 @@
     },
     {
       "source": "Food Safety News",
-      "title": "FDA tracking 17 active outbreaks",
+      "title": "FDA tracking 18 active outbreaks",
       "link": "https://www.foodsafetynews.com/2026/08/fda-tracking-17-active-outbreaks/",
-      "description": "The Food and Drug Administration has a running account of what is making Americans sick right now. The FDA&#x2019;s Investigations of Foodborne Illness Outbreaks &#xA0;table is updated weekly. Right now FDA&#x2019;s table carries seventeen investigations in its Active section. Run down each file and add",
+      "description": "The Food and Drug Administration has a running account of what is making Americans sick right now. The FDA&#x2019;s Investigations of Foodborne Illness Outbreaks &#xA0;table is updated weekly. Right now FDA&#x2019;s table carries 18 investigations in its Active section. Run down each file and add",
       "pubDate": "Thu, 13 Aug 2026 04:00:54 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Whole Foods recalls salsa, guacamole and prepared foods in 12 states over salmonella concerns - foxbusiness.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMUo4Z29GdklFM1B6NjNXQlByRmY2RmdtXzNwWUdFRjhLeHIwblpwcnNfWkNCamVmY19YX3pYc2R1enMzNV9LeERnTDJMM0gwT1k0NjVIOV92Y1Fub2g4UWdjZjlGbEFqTDliYWJNR3p3ak51SEJKZ2p0dUJrUWZReThzOHRCdFFIam1CSTRPamVpOTRMVUZNczdkdmsxSHhKN182Q1lVbkhoWjFNU3BzSzJfUnVBX0o0Y3lFMmFHX0TSAcYBQVVfeXFMTklOUUVJeERZZnBUQkFIbkt5WFhaT1FqQXgwb2lVWVVOYWpPYl9ReGFmX3ZRV2Z4bTBTbjZyc3FPZklteXczWXlIWVMtTEh1RlFTcGZyUnpkZmQ0REhzUmZVNU5RZW9Ia0FtT1h5blhYSlV0WmVPdVpPS1Jlcm5mZlJscEtYcTNsYjRNdmZaMXNxUElsSXdCTm1xNkI3OWljU2hwa2ZaMS1qWVhCZ240aWo3dU10V0ZpcUNPVW9OaXlvNHpWSWpn?oc=5",
-      "description": "Whole Foods recalls salsa, guacamole and prepared foods in 12 states over salmonella concerns foxbusiness.com",
-      "pubDate": "Thu, 13 Aug 2026 01:13:00 GMT"
     },
     {
       "source": "Food Safety News",
@@ -66,9 +52,16 @@
     },
     {
       "source": "Salmonella Outbreaks",
+      "title": "New food items recalled over salmonella outbreak - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd3BuTFZTMEFFelJhcVcyMHVPX1d4dkgxTmZsdUhxOUpzY0pjdjgxTk1FOVUtR3NhQ2I4Y2VWcW04a3EtU25LN2s4UWRBX2syb1piMjJyU290SzU1bGczZV91SWJiLVFJZ3ZBaGlpbFNELV9VbGZtbmZWVDVvSnlsVURaZE1IMklXalZHSU9fQ2pxUmEwZTczajBHbFV5R2syX2p6N3I5UQ?oc=5",
+      "description": "New food items recalled over salmonella outbreak NBC News",
+      "pubDate": "Mon, 10 Aug 2026 23:17:02 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
       "title": "Salmonella outbreak casts spotlight on Taylor Farms as food safety crisis deepens - Axios",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYWxzbTNMRWZZRmV4dXFXTW5wQjdhQjh4c1NVcFhVMHA4LXNnT3FEM0hvWWQyQmQ4OFBrNHVWSjRtdzdLdE1nWlo1bnFqQWxzY1lZTWJhX2E5VXhhT1Q3TEYwc0lQamlFWmgtX1NHTXA2Ykp1bUdJMEg4OGlRMkxqbm5jQQ?oc=5",
-      "description": "Salmonella outbreak casts spotlight on Taylor Farms as food safety crisis deepens Axios Whole Foods recalls dips, salsas, guac, and more after Salmonella outbreak LiveNOW from FOX 13 National Grocery Chains Recall Jalapeño Products Over Salmonella Risk. See the Full List TODAY.com Trader Joe’s, Walmart and More Recalled Products Linked to Salmonella Outbreak EatingWell Taylor Farms recalls jalapen",
+      "description": "Salmonella outbreak casts spotlight on Taylor Farms as food safety crisis deepens Axios Whole Foods recalls dips, salsas, guac, and more after Salmonella outbreak LiveNOW from FOX 13 National Grocery Chains Recall Jalapeño Products Over Salmonella Risk. See the Full List TODAY.com",
       "pubDate": "Mon, 10 Aug 2026 22:19:50 GMT"
     },
     {
@@ -84,6 +77,20 @@
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVTVzZWhFdUZxY1JtWnpxU2NMampwVTNSUUtTZ0FhNUl6VzZDeWxSNi1WellDU2RxcFdyWUNvajY3a0tiZHVQeE1nXzdkXzZfY185LTlDSXUtcW5pRkdtWGFRc2Mwd1UyYXIxYmxZYXpXLXBvN2xoZDhNUUUwdEp5YWdRTU45ZDl6dDRKMWNlWTVyTjlPZWotaHB0VnJ6QjlnZEZ3dFdpWVlhbjJKc0NIQUR6RnpwY2Q4LXMzT3hLWWttTWJsNUZJeS0zeWtrd0FXalVrcF8xT1ZwLU5jVzJ6bkJvbGtLWV91WWp0UUlnVmp5RWtqNHZPRVBfclpNQmV1eXZ0clF4RnZyZw?oc=5",
       "description": "HPP Protein Workshop on Listeria Control and Dark-Cutting Beef Recovery Hosted by Hiperbaric and Oklahoma State University PR Newswire",
       "pubDate": "Mon, 10 Aug 2026 16:42:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Taylor Farms recalls more food over salmonella outbreak, intensifying food-safety fears - The Detroit News",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX0ttajlDLVBZNTN0dW5FemJQeXVZdG4xSnprbkh4WGRub2o0WDZ2aTAtOVZpZUYzS1h3aVh1VjNwNXB4eEg0RmJTRDNobDJqZmFyX1dKd3ZORGd0VmJSemVVZlIxRDFwZHVXQ0xrRUlUbXRVTm4weXB6ZUhtc296QllDMFhLME12VHJoWmdmOE5ZR0g0SEVzQWd5YTBULTZnOURnTWVqVS1ZV2owcS13WmIwSzQzcVdHWWpaUzVaaXczYUc5d3dwd1BLQko?oc=5",
+      "description": "Taylor Farms recalls more food over salmonella outbreak, intensifying food-safety fears The Detroit News",
+      "pubDate": "Mon, 10 Aug 2026 16:34:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Taylor Farms recalls jalapeno products after salmonella outbreak - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uXzFFNDRtRnhNcEl5LXNla2tJQmZCY0lkQ0NtN0ZnYzJ5aWRXenhXT1hiYkRDbUhqTkJTYkJvaHNwV2RoR19vUGRwaHctNzdyWmtWcWRKWWl3QQ?oc=5",
+      "description": "Taylor Farms recalls jalapeno products after salmonella outbreak BBC",
+      "pubDate": "Mon, 10 Aug 2026 15:10:33 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -105,13 +112,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXJPUzlPU1RibTVkRHdqYUh1ZlB0MGdiNlN0RFFvT3B3ME1oakpNN1pfVmlSRFdVUkdDbExKMXNBbEhFYXhWQ1FBcXo0a0tNeUVaLUlUYW9WSTJNSDc3UEhKUDhLRGxEbjZtWUJoTlRPclZ5ZDFBXzc5REFaUHY2ZDBrXzA3NzNoMDcyNUdqNFFya0NIUTZTbThn?oc=5",
       "description": "Fukuoka’s game meat plant turns nuisance wildlife into regional specialty The Japan Times",
       "pubDate": "Mon, 10 Aug 2026 09:31:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Investigation Update: Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zb05obHd4ZVBoakNZLXo3RXN1eTFHWF9HeHlrRVJERXk5anNKby1QbXNtZkRiSWVZWE51QUlacFBBcDhmUDVmZXREVmNCZ1ZuaEtDVWl3NnZkSGxvQ1FrX2FRRl9PdHpBRHc4UG9qU0dvVmdxV0JkSTEwNWtuZw?oc=5",
-      "description": "Investigation Update: Salmonella Outbreak, August 2026 Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
     },
     {
       "source": "UK HPP Industry",
@@ -171,9 +171,9 @@
     },
     {
       "source": "Hiperbaric",
-      "title": "Hiperbaric to supply first Spanish-built HIP system to TTT Group - metal-am.com",
+      "title": "Hiperbaric to supply first Spanish-built HIP system to TTT Group - Metal Additive Manufacturing magazine",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2pMRnhXaDV5blFZbGRMRUxQb1dxRFJFQXl2Z29WOEc1Ry1RNWdNSFVCUHhGb3cxMHhVOWJIRUt6QnF1MW5tdWRiaDdvNExubUN0WVB1RW41dEVhcVFuUTdFLVdXaFRIU1FOempJZk90MVFjRXdnTGtUTzdxc2lYWTRWaWRjSU1iUDdvWVpCN3NTcGVL?oc=5",
-      "description": "Hiperbaric to supply first Spanish-built HIP system to TTT Group metal-am.com",
+      "description": "Hiperbaric to supply first Spanish-built HIP system to TTT Group Metal Additive Manufacturing magazine",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
@@ -234,9 +234,9 @@
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "FDA expands cheese recall over possible listeria contamination - The Hill",
+      "title": "FDA expands cheese recall over possible listeria contamination - thehill.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcjNqSExycC1iam1FNHRRNUxVbWNxWkNOdmhiRjg4Q0N6ODhiNFNmSkpvcEJNQ3lQR21icE56bTRmZWFTbVhhTFRZY09CVkZtTVlOYkFOd2ppMHktSkFyS3hSd01kZDdvSlp2c3o1cS1JaEFrZU5qbW04R1FVWGdxWWhiakZSVVBBc183dmY0SGlDZDVQN1F4cTlVY9IBoAFBVV95cUxQek52R3JCOVAyUjNneUk4Z1FtQkhzMkQwS3JzUVJjLV80NHhUUW0td1JqaGNacnY5WDV1YVpLbTRpTENnZUMyYTlmaU5SV2hBOGh1ZUp3NHczTGUtMTBLVUlFQ3g4bHNWR2ZtNzVYemltNjVZWEpmN2UxZDVrVEZMdnVxWWNtS25wOHIyRld1bExoVWJoX3lGZUpmYWFkRkFy?oc=5",
-      "description": "FDA expands cheese recall over possible listeria contamination The Hill",
+      "description": "FDA expands cheese recall over possible listeria contamination thehill.com",
       "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT"
     },
     {
@@ -331,6 +331,13 @@
       "pubDate": "Tue, 12 May 2026 07:00:00 GMT"
     },
     {
+      "source": "HPP Juices & Beverages",
+      "title": "Suja Life, Better-For-You Beverage Platform, Files for NASDAQ IPO - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORTBUVDZBcy04eF9GMDItaGdjR0kwR0ctNHdhSnVLLUs5clhsdjRGNWZxVzlsN2QwbXRvY1Bod09NWmI0UEVMU3dUTnVNVnRKTjdYNlJMWWNQN1NvTDExZXJPMGpoUzhCSUdvWTBCR082T1NYZmREajdEc3puNzhMeU5SeVpkaGZ4UFVQVHhIOVNOcnRPUzhaOHV2REkzTktXZGM3aGloSDdQVHAzYWpXdk1NblhlanVpM01CX29FXzNMSlU?oc=5",
+      "description": "Suja Life, Better-For-You Beverage Platform, Files for NASDAQ IPO TradingView",
+      "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Innovation & Research",
       "title": "From science to market: OSU Ag Research advances understanding of dark-cutting beef - news.okstate.edu",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOU9aRGVVRE9vRUdqRjJQYWYzQzNMclk1M2xVUDh1amZMaS0tZHp3dm9JNXNhaE51QVRCbzd2YVRVd19JQjZWS1RfcDh2MlBOUzgtVVM1UEw2VmVQSUwxR1otUkFUYnRhTnpwcV84THN4VjdFMUwyZzB5b29RRXV1Zm9YZU9pUldrWUcwVW84MDd2YW1OM25RbFJQSFVWNWVsSVNEWkdITTRsamV5aDd1dGNTT3lyMV80ZTEycndGXzBacGRRYk93cnZCWUlBZw?oc=5",
@@ -343,13 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNalZHdWJ4am9CS1FBbW8xSEUwMFIySTJVTkhNQ1RNTDJqT3M5dTVQTC12N1dvbkZMMEY1eFprZmZaQ01jel9fd2VjX3g3M3V3NnNyb19GY2VWNU9jY0Y4eXdNVTljQm9yaWtyYVlSNFFYaXNJeGJTUk14UDVyRVVXelh3?oc=5",
       "description": "High Pressure Processing Equipment Market Future Market Insights",
       "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage - funcas.es",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BTaXhwYnBzVTdZSldMcFJKR2FSQl9JMFoxQ0VEdEg4NmFObGY0ZldMWHE5U3hVQk9RZm5icmJXWlhKRHVsQzZWNllzT0tNUlVRc25pTzZDclk4eGlsZ3k0cmlScktfRlNBRUt3eWJQdUhHemtOSXJjelk1WjFBTWVoSjBQV0oycHdXZS1BYy1hNmhRVEY1T0tXZUZRa2doa3NyMlZpR1dtYmx3dTlId2duX1M4UVlZbVlOY0FnMlNMbzFRMXk5dTFZdUV6SEhVc2hSdmVjWjFlRndSNzdVMllIcDY?oc=5",
-      "description": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage funcas.es",
-      "pubDate": "Wed, 29 Apr 2026 08:10:47 GMT"
     }
   ]
 }
