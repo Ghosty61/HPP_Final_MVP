@@ -1,11 +1,18 @@
 {
-  "updated": "2026-08-15T02:51:47.186060+00:00",
+  "updated": "2026-08-15T04:30:41.980228+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Lactation granola recalled because of Salmonella",
+      "link": "https://www.foodsafetynews.com/2026/08/lactation-granola-recalled-because-of-salmonella/",
+      "description": "The Hampton Grocers Inc. of Montauk, NY, is recalling Lacnola Lactation Granola because it has the potential to be contaminated with Salmonella. Lacnola Lactation Granola was distributed nationwide through mail orders on thehamptongrocers.com, and other online retailers, including Amazon, between Oct. 21, 2025, and Aug. 12, 2026. The recalled",
+      "pubDate": "Sat, 15 Aug 2026 03:30:52 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "FDA begins inspection of Taylor Farms lettuce operation in Mexico",
       "link": "https://www.foodsafetynews.com/2026/08/fda-begins-inspection-of-taylor-farms-lettuce-operation-in-mexico/",
-      "description": "Iceberg lettuce from the Mexico operation has been linked to an ongoing outbreak from the Cyclospora parasite that has sickened 9,481 from from 17 states,",
+      "description": "Iceberg lettuce from the Mexico operation has been linked to an ongoing outbreak from the Cyclospora parasite that has sickened 9,481 from 17 states,",
       "pubDate": "Sat, 15 Aug 2026 02:51:09 GMT"
     },
     {
@@ -30,25 +37,11 @@
       "pubDate": "Sat, 15 Aug 2026 01:12:49 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Texas company recalls jalapeño products because of Salmonella outbreak",
-      "link": "https://www.foodsafetynews.com/2026/08/texas-company-recalls-jalapeno-products-because-of-salmonella-outbreak/",
-      "description": "NatureBest Precut & Produce LLC, with facilities located in Missouri City, TX, and Houston, TX, is recalling products sold under various brand names that contain jalape&#xF1;o peppers because of an outbreak of Salmonella infections.&#xA0; This recall was initiated after NatureBest was notified by Coast Citrus Distributors that",
-      "pubDate": "Sat, 15 Aug 2026 01:02:52 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
       "title": "Latest salmonella outbreak is in dog food: Map shows states impacted - Newsweek",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQajh3cG95Vm5OaXNBSkNlYjNkYm9QVG1oRFItTXNCRGR1U1RUSW1YYW9vajZtX05UVG5xd0RWbnBXelFXM2ZLRlloTEYtOXZDOXQyNHdVNmtRbDdGYTZwT3Z3anNZcFBXRG83MHd2YXF4Zi00bV9HUVlWaUJpZUt1SVN4ZG5RZw?oc=5",
       "description": "Latest salmonella outbreak is in dog food: Map shows states impacted Newsweek",
       "pubDate": "Fri, 14 Aug 2026 20:45:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "FDA upgrades egg recall linked to salmonella to highest health risk level - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zdmdraEtzUnFYOHlLc195SGNZazNhOUIyeGhlSVR4UmpHVmJjeXJSQ2hoTU8yWE01dkY0c2paTllnaGpNSmQ1SURTeExjRTdlRWVmcEIya2d0V2MzRjNEdVJnWGZkazVjMmg2ODdaZVo?oc=5",
-      "description": "FDA upgrades egg recall linked to salmonella to highest health risk level CBS News",
-      "pubDate": "Fri, 14 Aug 2026 19:57:23 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -68,7 +61,7 @@
       "source": "Salmonella Outbreaks",
       "title": "Whole Foods Market product recalls linked to U.S. salmonella outbreak: CFIA - CBC",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTUlxMlVGX1VSSVAwNEJ6YU94RkJWZGdKdFpLODRGWFB2dDZiRl9SQjFUSUpsZTk4Z0ZXMTE1azl0b3lsWjY4a0xSTU1xck82V01SZjVUSmQ0SGptdnJMcm1lTGR1Z2RGYmE3SUpvTy03a00tVkhCUVFMZ2FaWm9LMEp0SXpLb2h1T3NGLQ?oc=5",
-      "description": "Whole Foods Market product recalls linked to U.S. salmonella outbreak: CFIA CBC Whole Foods recalls additional products made with jalapeño peppers over salmonella concerns The Hill Recalls Due to Salmonella-Tainted Jalapeños Expand as Taylor Farms, Whole Foods Pull Products: Full List TODAY.com More Whole Foods products recalled in salmonella outbreak. See list USA Today Whole Foods recalls salsa,",
+      "description": "Whole Foods Market product recalls linked to U.S. salmonella outbreak: CFIA CBC Whole Foods recalls additional products made with jalapeño peppers over salmonella concerns The Hill Recalls Due to Salmonella-Tainted Jalapeños Expand as Taylor Farms, Whole Foods Pull Products: Full List TODAY.com More Whole Foods products recalled in salmonella outbreak. See list USA Today Whole Foods recalls dips, ",
       "pubDate": "Thu, 13 Aug 2026 21:51:05 GMT"
     },
     {
@@ -121,10 +114,17 @@
       "pubDate": "Mon, 10 Aug 2026 09:31:00 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "18 prepared foods under alert as jalapeño Salmonella outbreak sickens 345 - foxbusiness.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWWtvUkRwZUw4bjBmNVM3dUw3ZVVJb1JmaDh5NllfSXFPUERGa3V4aVFycDZxTUJybFV3OXhYR0U4eUNIM21TUWJhTURlNlg3TmZVeEdtcUhBZ2hoal9iZXFPaU43SkNSWmpMOUNVLVczdGFWd3ozQmx3QUwyVm9RVldiOGhLdmNmR01Mb1AyNGbSAZYBQVVfeXFMTzVuSFVGN2tPbkREdm9IR2JDeUx3YzBzTE0wX3RfOWJSZ1dfbTNDYUt6UVNJS3ZtdFZvRjRXTkVzU0lpbjFZY3lCbUVEWTUxSWNyU3pnYmhhTDVWWGxLQWdrUm11VlhMelZQSnhWcmZlOEh3dVR5M0RKc1VWdFFRSUlJRXBnQUdibS1YemxhY3JfV1FaRW5B?oc=5",
+      "description": "18 prepared foods under alert as jalapeño Salmonella outbreak sickens 345 foxbusiness.com",
+      "pubDate": "Mon, 10 Aug 2026 03:43:00 GMT"
+    },
+    {
       "source": "UK HPP Industry",
-      "title": "Deli 24 boosts reliability with oil-free compressed air upgrade - Machinery Market",
+      "title": "Deli 24 boosts reliability with oil-free compressed air upgrade - machinery-market.co.uk",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZW5qcFR5dlFYalhUSHhOMkJsaFlCTEwxNFFhbU5jVUVqTk9uLTNxTjVPdjFXV0MzclFjakVhSnl0c1hDWTJHaVMyVUNZTWY3WGhaVWEtcEFrWHFHelZUZ0E4dXZTVXN4bXp2YXJWc1lSZXZTMmgyQWVtQTluN3NFOThLV3FJdWRyLWVqYmYwWXc2TFhaeEt4MnJsWEY3X2JFalpRQ0FWLU10OHpoM0E?oc=5",
-      "description": "Deli 24 boosts reliability with oil-free compressed air upgrade Machinery Market",
+      "description": "Deli 24 boosts reliability with oil-free compressed air upgrade machinery-market.co.uk",
       "pubDate": "Sat, 08 Aug 2026 11:46:46 GMT"
     },
     {
@@ -150,9 +150,9 @@
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "Cheese sold in NY linked to Listeria outbreak: FDA - pix11.com",
+      "title": "Cheese sold in NY linked to Listeria outbreak: FDA - PIX11",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWWlqbEQwSWhRbW1wdEtPV0Y4MFVHQV9BLUN2eExBS29SYkNiUzlKeXQxS0QwWXZpREhRRk5GelN5SlNvQXNGakNETXFyMkJTX3BJNjNMQ043eDViMy03TUpINHNqMl9tOS1acllDRzkzMEZvNkVjMFhPajdEbTFvSVNvTkZhMUd4VVQ5aTF1LVNGcklCZFEw0gGcAUFVX3lxTE9tODJSVWRqaGxvYW9MME9pZFdBU3lWLUNsNEF6VWFIcVlSTVZyeEZ4SmRrend5ZzZyYjR6X0dvUWVCemhXS1hZTk1vaThQal9QR0VvTW9jeWljTVlWdUVuQVhQdmNJRkpyRXBkc2xYM2ZTeXNnaWhwZHJPOUEwVU15Qlk3NGNNdWNUbmZOUmtOSnc5eVk4RUhwSGZnTQ?oc=5",
-      "description": "Cheese sold in NY linked to Listeria outbreak: FDA pix11.com",
+      "description": "Cheese sold in NY linked to Listeria outbreak: FDA PIX11",
       "pubDate": "Thu, 06 Aug 2026 11:35:42 GMT"
     },
     {
@@ -171,23 +171,23 @@
     },
     {
       "source": "HPP Juices & Beverages",
-      "title": "How Suja Organic Pressed Optimism Out of the Cyclospora Outbreak - Little Black Book | LBBOnline",
+      "title": "How Suja Organic Pressed Optimism Out of the Cyclospora Outbreak - lbbonline.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUXI5UUFKbXE3bE85TmZJeU0yQ0dWQ2RHWFBEWjZOLWxjN1RyUGdaazhLMUJKYTV4alNvN1hPbkVhWGNkeGFIWVVFU3dMSXlxempjSkFrcDJINktoX3ZKeUtQc2RYMFNwZXZzaC10NTJBSnNaZEJudGtGOTRJTGpNRXVWemprdnV1?oc=5",
-      "description": "How Suja Organic Pressed Optimism Out of the Cyclospora Outbreak Little Black Book | LBBOnline",
+      "description": "How Suja Organic Pressed Optimism Out of the Cyclospora Outbreak lbbonline.com",
       "pubDate": "Fri, 31 Jul 2026 11:01:02 GMT"
     },
     {
       "source": "HPP Equipment & Machines",
-      "title": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing - nutritionaloutlook.com",
+      "title": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing - Nutritional Outlook",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDBoRW1EZEpqYmQ5Sm9XLVRycFVJN2gzSDNiTkNWX0taRUhvcTlIZlo4UUlvc2tUeldqZ3ZDUEw4bFpLcl9jbW10ZV9DYVpnc1daWS0tc2VyZ0sxSWxDN1llX1J0TGJ1ZUJOVjhVdHViRmg2WDRHRzJTU1Z4UnN3YnpoMkxsWENSblZZV3cwSFJwY1NyQWNGQmxPU190dw?oc=5",
-      "description": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing nutritionaloutlook.com",
+      "description": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing Nutritional Outlook",
       "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
-      "title": "Hiperbaric to supply first Spanish-built HIP system to TTT Group - metal-am.com",
+      "title": "Hiperbaric to supply first Spanish-built HIP system to TTT Group - Metal Additive Manufacturing magazine",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2pMRnhXaDV5blFZbGRMRUxQb1dxRFJFQXl2Z29WOEc1Ry1RNWdNSFVCUHhGb3cxMHhVOWJIRUt6QnF1MW5tdWRiaDdvNExubUN0WVB1RW41dEVhcVFuUTdFLVdXaFRIU1FOempJZk90MVFjRXdnTGtUTzdxc2lYWTRWaWRjSU1iUDdvWVpCN3NTcGVL?oc=5",
-      "description": "Hiperbaric to supply first Spanish-built HIP system to TTT Group metal-am.com",
+      "description": "Hiperbaric to supply first Spanish-built HIP system to TTT Group Metal Additive Manufacturing magazine",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
@@ -283,9 +283,9 @@
     },
     {
       "source": "HPP Innovation & Research",
-      "title": "High pressure food processing access expanded for local businesses - hawaii.edu",
+      "title": "High pressure food processing access expanded for local businesses - University of Hawaii System",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWNONmEzaEdyVzkzNFlZUnI2SlpIR01YQ0lTdzJ3TFN6N0lzSEs0OTBseHhLSXRaVGhkSERSVDlnWHY3bDBZRjhTWjlZVW1CNmJmcjFaRkgweUdVdC16TGFLcUZVU3NXOTM4MWZ6bENIUE9TWmFEMlJfTTZuMXFiRXRaOTM?oc=5",
-      "description": "High pressure food processing access expanded for local businesses hawaii.edu",
+      "description": "High pressure food processing access expanded for local businesses University of Hawaii System",
       "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
     },
     {
