@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T20:21:08.683556+00:00",
+  "updated": "2026-08-16T22:20:10.545765+00:00",
   "articles": [
     {
       "source": "Listeria Outbreaks",
@@ -58,18 +58,18 @@
       "pubDate": "Sat, 15 Aug 2026 01:12:49 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "Latest salmonella outbreak is in dog food: Map shows states impacted - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQajh3cG95Vm5OaXNBSkNlYjNkYm9QVG1oRFItTXNCRGR1U1RUSW1YYW9vajZtX05UVG5xd0RWbnBXelFXM2ZLRlloTEYtOXZDOXQyNHdVNmtRbDdGYTZwT3Z3anNZcFBXRG83MHd2YXF4Zi00bV9HUVlWaUJpZUt1SVN4ZG5RZw?oc=5",
+      "description": "Latest salmonella outbreak is in dog food: Map shows states impacted Newsweek",
+      "pubDate": "Fri, 14 Aug 2026 20:45:00 GMT"
+    },
+    {
       "source": "Listeria Outbreaks",
       "title": "Food recalls in 2026: What the data shows so far - KCRA",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKME5welk1dTFEYUpmRVFUQlkyZzJNdzF2dGgwbUxOanpySmhyaGcybmx6U0t5V0RWWVZWaUJUYURBRTB3VnJkSTVIMFpScFhnUlBxTGJKUkp4dXZDYXRpZ0lwUy0wSDk4R2luWUdOV3I5Nk5IRm5J?oc=5",
       "description": "Food recalls in 2026: What the data shows so far KCRA",
       "pubDate": "Fri, 14 Aug 2026 12:58:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Salsas, guacamole dips sold at Whole Foods, Target recalled amid Salmonella outbreak - NBC 5 Chicago",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSGF5d1NIZmdwM1MtWGZRSFVIdjZ6Z1NJTEI0RmFVSFFYbmp4RXhjTXB0OXJZYm5yMVRRZHpfVmNDTEp0c1ZPd00yT3lMRTE0TU1WYjRQb2lyX29kZzJLT2k2bWl4YWJFdGZMUko1YmNrV2NPQW9WcUgybTJCampWRFhZR1pubm5yeGZGS1NHRWZaRlN6RVJHTjJHeTcwX09La0ZiSndIZ2kzd2hGVERTY1J6X0VtMDJmejZNWjJ6YV9LbFVQemNFZllXSGN0cjV2WDQxU3V0S2HSAeABQVVfeXFMUHpxQ0FxYVBQeXF2OWtPMVlITHdGREZKNkZsRTN1REFxdGtGdXVIVEtRWEdPUnJ0YWZacE9VeGdQSUJDZU5CdzhmNnRFc0VsWlBJU09ONGxHUTBtdXJ5cG91RE14NmRiMmdUUnAwWV9jN2JjbndhRm1OSjZMQXpNcy01a212SlZ5MEdYczU3RUJ5dDQyblNPSWI0LTZNLV9qVHNoOW5IbldaeF9KUG1rTldXMDJyMUhnb0Q3d3AyMUZNR1B2WmRna19VcVotVUNQSlF3Z0hMcU40eENQUXJZYjI?oc=5",
-      "description": "Salsas, guacamole dips sold at Whole Foods, Target recalled amid Salmonella outbreak NBC 5 Chicago",
-      "pubDate": "Fri, 14 Aug 2026 11:53:03 GMT"
     },
     {
       "source": "HPP Equipment & Machines",
@@ -80,9 +80,9 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Whole Foods Market product recalls linked to U.S. salmonella outbreak: CFIA - CBC",
+      "title": "Whole Foods Market product recalls linked to U.S. salmonella outbreak: CFIA - cbc.ca",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTUlxMlVGX1VSSVAwNEJ6YU94RkJWZGdKdFpLODRGWFB2dDZiRl9SQjFUSUpsZTk4Z0ZXMTE1azl0b3lsWjY4a0xSTU1xck82V01SZjVUSmQ0SGptdnJMcm1lTGR1Z2RGYmE3SUpvTy03a00tVkhCUVFMZ2FaWm9LMEp0SXpLb2h1T3NGLQ?oc=5",
-      "description": "Whole Foods Market product recalls linked to U.S. salmonella outbreak: CFIA CBC",
+      "description": "Whole Foods Market product recalls linked to U.S. salmonella outbreak: CFIA cbc.ca",
       "pubDate": "Thu, 13 Aug 2026 21:51:05 GMT"
     },
     {
@@ -157,9 +157,9 @@
     },
     {
       "source": "HPP Innovation & Research",
-      "title": "Dark-cutting beef research explores options for processors - meat+poultry",
+      "title": "Dark-cutting beef research explores options for processors - meatpoultry.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcmlzbEp3N25tZ19TN0RrWTVkeTNVM1NKRWNXYUFub0pOWm5hQWdhMTFGSUZFMlFoS1JKMktPM1htUzVZaXhTRmlNYi1wSWN6azdsV05vRlM2NzY2VmlmczhjRnJEeG9vNTJvYTJSZlk0akdxSE1BcFlQTHFIeUx6YkVfRlMyd08ydjRjcnROaHZCbTRhOWFrRW9GRTBsaHhVSkxJ?oc=5",
-      "description": "Dark-cutting beef research explores options for processors meat+poultry",
+      "description": "Dark-cutting beef research explores options for processors meatpoultry.com",
       "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT"
     },
     {
@@ -171,9 +171,9 @@
     },
     {
       "source": "HPP Equipment & Machines",
-      "title": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing - Nutritional Outlook",
+      "title": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing - nutritionaloutlook.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDBoRW1EZEpqYmQ5Sm9XLVRycFVJN2gzSDNiTkNWX0taRUhvcTlIZlo4UUlvc2tUeldqZ3ZDUEw4bFpLcl9jbW10ZV9DYVpnc1daWS0tc2VyZ0sxSWxDN1llX1J0TGJ1ZUJOVjhVdHViRmg2WDRHRzJTU1Z4UnN3YnpoMkxsWENSblZZV3cwSFJwY1NyQWNGQmxPU190dw?oc=5",
-      "description": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing Nutritional Outlook",
+      "description": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing nutritionaloutlook.com",
       "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT"
     },
     {
@@ -191,13 +191,6 @@
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "Food Ingredients Market Size, Share | Growth Forecast [2034 - Fortune Business Insights",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rSkdQWE93bDdDc2ZENzA0a1Vud1BFbTctT0U3NjJZcWFRTThVN1J3U3ZrVzRQbTRwNVhfS2FveUc1TG56NlJSbFluaWt6bXNBdU5FRmxEejVpYlFLejBfZEhxUHZlcEM3emlNMXN4NVR0S3cycFkxY19B?oc=5",
-      "description": "Food Ingredients Market Size, Share | Growth Forecast [2034 Fortune Business Insights",
-      "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT"
-    },
-    {
       "source": "Food Safety UK & EU",
       "title": "M&S, Tesco and Lidl issue 'do not eat' food poisoning warnings — full list - Wales Online",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT2ttSXdHM0NzTE5yZnBjdHZMazMtR3N4T0FhUzc3QjJ6bjBOeFYtemwyM3VhRTdFcGVVOHhoMFdoOGFrdGZxSXloUmlueWtleFBZelFwbVRDZi1WX3R0X0VLWjlWUHRGY0pDRGZwd1ZyRFhZak42M25aWnlFbFlEWXNfQdIBiAFBVV95cUxQemh6MVdJU0d2Z3AwTHlIVk5WQ0xVdkoxVE1ibnNZMk5Gd0s5WUxqNVd6a3ZqTjBCdWZzYXQxcmNZYlRkVlgxaHpQU1hkUnhVeFpTS3ZkbUtRX1FyVUNuZTNVRTZoQW11OHgyYXJEam5CUlVGX2xDMzh4X2RFZ3p2eVhHcXdzcFYx?oc=5",
@@ -205,11 +198,11 @@
       "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Seafood",
-      "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
-      "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
-      "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
+      "source": "HPP Dairy",
+      "title": "Global Dairy Trade Sees Price Index Drop Amid High Milk Production - Dairy News Today",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQzFZbE9Ybk5FV0hjNld1THczaWhDNENESGdsZDBQN2pJZ2RDNjhLTHNOZkJrWTFLbm91SWxCRDhVckVvOWM2c1NxWlNpSnlXVm1HTUJaS0VoSzJpNnBuN1NpeGotaTY5c1FvcXgyT1JoMUtES2s5TzNoNldOMFZGSGFPYVFMVXVrZzdua3EyYURwMlR2MFI4dUE2WE02eTB0T09qWXRqN1BEWXdN?oc=5",
+      "description": "Global Dairy Trade Sees Price Index Drop Amid High Milk Production Dairy News Today",
+      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -220,9 +213,9 @@
     },
     {
       "source": "EU HPP & Food Tech",
-      "title": "Europe Pressure Vessel Market Size & Share, 2034 - marketdataforecast.com",
+      "title": "Europe Pressure Vessel Market Size & Share, 2034 - Market Data Forecast",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUThCSHBjT29LemxoZ3dSbGY5WkxMQkRmZW9QZV8xM1F0bXozNGl1WmdpU1h5b3dMOGpRTUdSSUVLblRZNGw1eWp6VmRaZ1Q2Q2VIOFpRWmJVNVNMakxFakJ5TlcyTHhkdHlxd0tmQlJfZXNvQmE4eDJ4cHJoNWdMUkVEc21Fdw?oc=5",
-      "description": "Europe Pressure Vessel Market Size & Share, 2034 marketdataforecast.com",
+      "description": "Europe Pressure Vessel Market Size & Share, 2034 Market Data Forecast",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
@@ -283,30 +276,16 @@
     },
     {
       "source": "HPP Innovation & Research",
-      "title": "High pressure food processing access expanded for local businesses - hawaii.edu",
+      "title": "High pressure food processing access expanded for local businesses - University of Hawaii System",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWNONmEzaEdyVzkzNFlZUnI2SlpIR01YQ0lTdzJ3TFN6N0lzSEs0OTBseHhLSXRaVGhkSERSVDlnWHY3bDBZRjhTWjlZVW1CNmJmcjFaRkgweUdVdC16TGFLcUZVU3NXOTM4MWZ6bENIUE9TWmFEMlJfTTZuMXFiRXRaOTM?oc=5",
-      "description": "High pressure food processing access expanded for local businesses hawaii.edu",
+      "description": "High pressure food processing access expanded for local businesses University of Hawaii System",
       "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Dairy",
-      "title": "New Automated Systems Set to Reduce Dairy Industry Waste - dairynews.today",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGRLWE1CczU4aU92N3VUX0xsZXZvUmlmWWtMdTRFQk5CS3p6dHp6d1dRci1ycDlpMXg3a2psTWpwaGlvZE5BSDV6Vmg1WFp0VTFHLWxBdzk3ZktiYVVCQ3ZZT3J1VFFNUU54NVVEc19KWEZUUlpsSW1JUlNsbFNZc3E1VUtWVndqWTZFY2pfVGhLZlFqcWxSOEVrUS1aaUk?oc=5",
-      "description": "New Automated Systems Set to Reduce Dairy Industry Waste dairynews.today",
-      "pubDate": "Sun, 07 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
       "title": "Growing Industrial Applications Expand Scope of Isostatic Pressing Technologies - MarketsandMarkets",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbjhfQXRKR2YwV0xTc0l2MjRnUU1rVUZHZU9JYWcwWExUOFNXM0JPT3hhQjVFTUZLa24xM3F5dU9mYU1YeHFjYXVPRnk3N1Z5ekFjcm01TWVvbTJnTHZVaTFYUE5Id3JEWlVoMUxKc2dUTTh5M1htTjdhWEE2U3QyYm9LNVNxbGhLSU9LQTFMdw?oc=5",
       "description": "Growing Industrial Applications Expand Scope of Isostatic Pressing Technologies MarketsandMarkets",
-      "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "2026 North East Scotland Food and Drink Award winners announced - Aberdeen & Grampian Chamber of Commerce",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVExmMTJNV3B0X3J1bzhOenhKVVdfTFVHVU1PdEZoZE5fcGc0ejNObHJ1Vnc5eTRDR1BHRjktOFdxSnFjOWFOeml2UDZDMTlvOGJaQk55VnhmXzZiRVlfa0Vabm9ldldjVzFOMGFoZ3FlUDM4aFJSeFB3eTh2dVdjZkdFbmliM1E4bjZiaDEyeXZ2cno1MzhPN1hSYnZVLXMz?oc=5",
-      "description": "2026 North East Scotland Food and Drink Award winners announced Aberdeen & Grampian Chamber of Commerce",
       "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
     },
     {
@@ -325,9 +304,9 @@
     },
     {
       "source": "Hiperbaric",
-      "title": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? - petfoodindustry.com",
+      "title": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? - PetfoodIndustry",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTVFPakRRZlRhZG50MVZBdmVxdVZhVzlJRC1LNlBFOS1MNVI0SUhlT2FrUloxRkN5Qi1Bcm4yS0hFLUtDdnY5RC12dUY0TWoyQWh1eUlnSU5ZNmJMNmhSQlkyeU0yeHpGVDNZZE12MlI4TjZvNzZXR2RFN0htMFZlSkxFQmxqYnBEUG1VdUNpT3VMQ1pwUG1jel95SVltMkpVOW1wZDUwWTBkb2xZYmp5dlF5V3ZnV00tTzRubW9yTlhENDVpT1VCTW1rNDFhZURtR0Z5ZlBrOWNVenAxSFlyMmhGN3FkLVAzeWNCWVZYVzBKc2VaWTllemU3NA?oc=5",
-      "description": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? petfoodindustry.com",
+      "description": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? PetfoodIndustry",
       "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
     },
     {
@@ -350,6 +329,27 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOU9aRGVVRE9vRUdqRjJQYWYzQzNMclk1M2xVUDh1amZMaS0tZHp3dm9JNXNhaE51QVRCbzd2YVRVd19JQjZWS1RfcDh2MlBOUzgtVVM1UEw2VmVQSUwxR1otUkFUYnRhTnpwcV84THN4VjdFMUwyZzB5b29RRXV1Zm9YZU9pUldrWUcwVW84MDd2YW1OM25RbFJQSFVWNWVsSVNEWkdITTRsamV5aDd1dGNTT3lyMV80ZTEycndGXzBacGRRYk93cnZCWUlBZw?oc=5",
       "description": "From science to market: OSU Ag Research advances understanding of dark-cutting beef news.okstate.edu",
       "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Equipment & Machines",
+      "title": "High Pressure Processing Equipment Market - futuremarketinsights.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNalZHdWJ4am9CS1FBbW8xSEUwMFIySTJVTkhNQ1RNTDJqT3M5dTVQTC12N1dvbkZMMEY1eFprZmZaQ01jel9fd2VjX3g3M3V3NnNyb19GY2VWNU9jY0Y4eXdNVTljQm9yaWtyYVlSNFFYaXNJeGJTUk14UDVyRVVXelh3?oc=5",
+      "description": "High Pressure Processing Equipment Market futuremarketinsights.com",
+      "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage - funcas.es",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BTaXhwYnBzVTdZSldMcFJKR2FSQl9JMFoxQ0VEdEg4NmFObGY0ZldMWHE5U3hVQk9RZm5icmJXWlhKRHVsQzZWNllzT0tNUlVRc25pTzZDclk4eGlsZ3k0cmlScktfRlNBRUt3eWJQdUhHemtOSXJjelk1WjFBTWVoSjBQV0oycHdXZS1BYy1hNmhRVEY1T0tXZUZRa2doa3NyMlZpR1dtYmx3dTlId2duX1M4UVlZbVlOY0FnMlNMbzFRMXk5dTFZdUV6SEhVc2hSdmVjWjFlRndSNzdVMllIcDY?oc=5",
+      "description": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage funcas.es",
+      "pubDate": "Wed, 29 Apr 2026 08:10:47 GMT"
+    },
+    {
+      "source": "HPP Healthcare & Medical",
+      "title": "Universal Pure Data Breach Exposes Sensitive Personal Information - Claim Depot",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iczUzZHNzYTlQUmF6azdNd184N3RrQi15Z0NQZUVBOGZsWEFDT0U1RkpPRURQY18yM1FrenF2STA4TjFyMzIzc0tUSVJWN1dJMHN1R3ZuMDYyZWhyRjJrSlVVSi1fVFoxamc?oc=5",
+      "description": "Universal Pure Data Breach Exposes Sensitive Personal Information Claim Depot",
+      "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
     }
   ]
 }
