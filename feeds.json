@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T08:42:28.085855+00:00",
+  "updated": "2026-08-17T10:31:52.452092+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -7,6 +7,13 @@
       "link": "https://www.foodsafetynews.com/2026/08/initial-source-unknown-in-dutch-hepatitis-a-outbreak/",
       "description": "Scientists have been unable to pinpoint the route of contamination in a hepatitis A outbreak traced to blueberries. Twenty-four patients in the Netherlands became ill from November 2024 to February 2025 as part of the hepatitis A outbreak.&#xA0;",
       "pubDate": "Mon, 17 Aug 2026 04:03:57 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Salmonella food recalls: What Houston and Texas shoppers need to know - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEx0TnFKZkM0Q3VCVDFESmpmdGU3SmNNajdtUUxubUc2T20tUXBJcnNzU2xTM0dKLWNoN3FER0I5SFFFbWk3bnYyZ1hNSWx2UnlFNFdEY1hBV3BTaGpqSjBteUU1MFA3cWVvZ0tidXEzN2FQR3VxbV90OFRxdVJ0VnN0cHFURGk4NGFEcVlKaVhScmVQcU15cW1BMmk1NnI2NEFZakNVV2Z0MGFV?oc=5",
+      "description": "Salmonella food recalls: What Houston and Texas shoppers need to know Houston Chronicle",
+      "pubDate": "Sun, 16 Aug 2026 11:04:58 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -122,9 +129,9 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Taylor Farms recalls jalapeno products after salmonella outbreak - bbc.co.uk",
+      "title": "Taylor Farms recalls jalapeno products after salmonella outbreak - BBC",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKTlNobWFRZHVUZ0JOTkpoNU9vZVQwZGhtamJjR2F3eWtMYnJucUJNaWpoT0ZkTi00aDUxbGg3eHJtQ3pxS1R3NVVXYTBVQm9zeWN4c3luU1VRQTdy?oc=5",
-      "description": "Taylor Farms recalls jalapeno products after salmonella outbreak bbc.co.uk",
+      "description": "Taylor Farms recalls jalapeno products after salmonella outbreak BBC",
       "pubDate": "Mon, 10 Aug 2026 15:10:33 GMT"
     },
     {
@@ -135,13 +142,6 @@
       "pubDate": "Mon, 10 Aug 2026 09:31:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "18 prepared foods under alert as jalapeño Salmonella outbreak sickens 345 - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWWtvUkRwZUw4bjBmNVM3dUw3ZVVJb1JmaDh5NllfSXFPUERGa3V4aVFycDZxTUJybFV3OXhYR0U4eUNIM21TUWJhTURlNlg3TmZVeEdtcUhBZ2hoal9iZXFPaU43SkNSWmpMOUNVLVczdGFWd3ozQmx3QUwyVm9RVldiOGhLdmNmR01Mb1AyNGbSAZYBQVVfeXFMTzVuSFVGN2tPbkREdm9IR2JDeUx3YzBzTE0wX3RfOWJSZ1dfbTNDYUt6UVNJS3ZtdFZvRjRXTkVzU0lpbjFZY3lCbUVEWTUxSWNyU3pnYmhhTDVWWGxLQWdrUm11VlhMelZQSnhWcmZlOEh3dVR5M0RKc1VWdFFRSUlJRXBnQUdibS1YemxhY3JfV1FaRW5B?oc=5",
-      "description": "18 prepared foods under alert as jalapeño Salmonella outbreak sickens 345 Fox Business",
-      "pubDate": "Mon, 10 Aug 2026 03:43:00 GMT"
-    },
-    {
       "source": "UK HPP Industry",
       "title": "Deli 24 boosts reliability with oil-free compressed air upgrade - Machinery Market",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZW5qcFR5dlFYalhUSHhOMkJsaFlCTEwxNFFhbU5jVUVqTk9uLTNxTjVPdjFXV0MzclFjakVhSnl0c1hDWTJHaVMyVUNZTWY3WGhaVWEtcEFrWHFHelZUZ0E4dXZTVXN4bXp2YXJWc1lSZXZTMmgyQWVtQTluN3NFOThLV3FJdWRyLWVqYmYwWXc2TFhaeEt4MnJsWEY3X2JFalpRQ0FWLU10OHpoM0E?oc=5",
@@ -150,23 +150,23 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Pasta salads sold at Asda and Morrisons recalled over listeria fears - independent.co.uk",
+      "title": "Pasta salads sold at Asda and Morrisons recalled over listeria fears - The Independent",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMnEzNWpRU1BvYXg1SkVqNGZLblhfUjB3QlBHQzZOVGttdUxfdUx0RC1hUmtsNTd2ZFJLaGZPdWoxdXVKdTYxaE96STdqNVZEUDFHVER3YS15Q3prQlZ1UXRmZ3FJbzUweTdKWVBSRWVfaEU1TFRtTmlfOVNCR08zLWxXenN2WGp0WGdDWDAwMzZTVkRISjc4dnJ4Q1gwYzFLZ3B5YVUyLXFlYTZUekw4?oc=5",
-      "description": "Pasta salads sold at Asda and Morrisons recalled over listeria fears independent.co.uk",
+      "description": "Pasta salads sold at Asda and Morrisons recalled over listeria fears The Independent",
       "pubDate": "Sat, 08 Aug 2026 07:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "There Are 11 Active FDA Foodborne Outbreak Investigations — Should You Be Concerned? - Food & Wine",
+      "title": "There Are 11 Active FDA Foodborne Outbreak Investigations — Should You Be Concerned? - foodandwine.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtX3NybUxqVWFQV1N0RWlEVVFfMmlyUUZSTGtucWRCX1ZCQzdROGJlWk5TR0FOYkE3OEN3V2N3SG1JdzZqWGUxcHZKdGpHQlpSYklaLVZ3RzUyb2JsZkYxbGFtSDRyZHdpanB0clFfeG05OERYX3FqeGFWLVFmV2c?oc=5",
-      "description": "There Are 11 Active FDA Foodborne Outbreak Investigations — Should You Be Concerned? Food & Wine",
+      "description": "There Are 11 Active FDA Foodborne Outbreak Investigations — Should You Be Concerned? foodandwine.com",
       "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Innovation & Research",
-      "title": "Dark-cutting beef research explores options for processors - meat+poultry",
+      "title": "Dark-cutting beef research explores options for processors - meatpoultry.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcmlzbEp3N25tZ19TN0RrWTVkeTNVM1NKRWNXYUFub0pOWm5hQWdhMTFGSUZFMlFoS1JKMktPM1htUzVZaXhTRmlNYi1wSWN6azdsV05vRlM2NzY2VmlmczhjRnJEeG9vNTJvYTJSZlk0akdxSE1BcFlQTHFIeUx6YkVfRlMyd08ydjRjcnROaHZCbTRhOWFrRW9GRTBsaHhVSkxJ?oc=5",
-      "description": "Dark-cutting beef research explores options for processors meat+poultry",
+      "description": "Dark-cutting beef research explores options for processors meatpoultry.com",
       "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT"
     },
     {
@@ -178,9 +178,9 @@
     },
     {
       "source": "HPP Equipment & Machines",
-      "title": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing - Nutritional Outlook",
+      "title": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing - nutritionaloutlook.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDBoRW1EZEpqYmQ5Sm9XLVRycFVJN2gzSDNiTkNWX0taRUhvcTlIZlo4UUlvc2tUeldqZ3ZDUEw4bFpLcl9jbW10ZV9DYVpnc1daWS0tc2VyZ0sxSWxDN1llX1J0TGJ1ZUJOVjhVdHViRmg2WDRHRzJTU1Z4UnN3YnpoMkxsWENSblZZV3cwSFJwY1NyQWNGQmxPU190dw?oc=5",
-      "description": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing Nutritional Outlook",
+      "description": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing nutritionaloutlook.com",
       "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT"
     },
     {
@@ -199,9 +199,9 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "M&S, Tesco and Lidl issue 'do not eat' food poisoning warnings — full list - Wales Online",
+      "title": "M&S, Tesco and Lidl issue 'do not eat' food poisoning warnings — full list - walesonline.co.uk",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT2ttSXdHM0NzTE5yZnBjdHZMazMtR3N4T0FhUzc3QjJ6bjBOeFYtemwyM3VhRTdFcGVVOHhoMFdoOGFrdGZxSXloUmlueWtleFBZelFwbVRDZi1WX3R0X0VLWjlWUHRGY0pDRGZwd1ZyRFhZak42M25aWnlFbFlEWXNfQdIBiAFBVV95cUxQemh6MVdJU0d2Z3AwTHlIVk5WQ0xVdkoxVE1ibnNZMk5Gd0s5WUxqNVd6a3ZqTjBCdWZzYXQxcmNZYlRkVlgxaHpQU1hkUnhVeFpTS3ZkbUtRX1FyVUNuZTNVRTZoQW11OHgyYXJEam5CUlVGX2xDMzh4X2RFZ3p2eVhHcXdzcFYx?oc=5",
-      "description": "M&S, Tesco and Lidl issue 'do not eat' food poisoning warnings — full list Wales Online",
+      "description": "M&S, Tesco and Lidl issue 'do not eat' food poisoning warnings — full list walesonline.co.uk",
       "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT"
     },
     {
@@ -226,17 +226,10 @@
       "pubDate": "Thu, 02 Jul 2026 00:40:04 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "Europe Pressure Vessel Market Size & Share, 2034 - Market Data Forecast",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUThCSHBjT29LemxoZ3dSbGY5WkxMQkRmZW9QZV8xM1F0bXozNGl1WmdpU1h5b3dMOGpRTUdSSUVLblRZNGw1eWp6VmRaZ1Q2Q2VIOFpRWmJVNVNMakxFakJ5TlcyTHhkdHlxd0tmQlJfZXNvQmE4eDJ4cHJoNWdMUkVEc21Fdw?oc=5",
-      "description": "Europe Pressure Vessel Market Size & Share, 2034 Market Data Forecast",
-      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
-    },
-    {
       "source": "UK Food Industry",
-      "title": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI - PR Newswire UK",
+      "title": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI - prnewswire.co.uk",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdVRCUkhzUHR0NTFtd1dTOUUxODE2MkJURGNIVGpkUkdSaE8yeTZvTHJSZENfUEFPUmx5Y01hNUZELW85SklCb0Z5UHRYd196d2IzR1RXWHdxVnE4aFAzZ0RvT3VNWFNiRG9CYXdfWmRDdF9WWkFwYXM4ZGNBQ1VVU3dYSUhmY2NlMTFSU1A2Tkh5ZHpGb2VrQThCZUJrem9mRnhkRGc4M002LWJNcjhOZVpjRW1ocGN0TUw4dFppd3p2OEs3ZnZMUTlUMVBGbXQ3ajRHdnhJOGpxWjZvRzVoUUJUU21lcEMxaXRWZU5RajQtYWp5MzVndVBmdzRyRDdSNTBpNEFxWU1EVVVsa3lSWk45OEQ1QmVtRWJOWVhYSFU5SHlnZzlURjkxT1BsQ1B0NTF3Vg?oc=5",
-      "description": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI PR Newswire UK",
+      "description": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI prnewswire.co.uk",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
@@ -248,9 +241,9 @@
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "Investigation Update: Listeria Outbreak, June 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "title": "Investigation Update: Listeria Outbreak, June 2026 - cdc.gov",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeURCSzJmTjhpWEttM0RXTC1fcmtWZHkxeGk5Q2lheTdneWhwMW1KaHYyamVLeWNnYVhROW1lcm1QMWFzZzZhdmtIcHhVTDFjekVkakhwcVpaMTgtOWFERE1QYUNFOUwwQUc2OW5ITldOVXRLRW5MbWluZ2Y0WXRtNA?oc=5",
-      "description": "Investigation Update: Listeria Outbreak, June 2026 Centers for Disease Control and Prevention | CDC (.gov)",
+      "description": "Investigation Update: Listeria Outbreak, June 2026 cdc.gov",
       "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
     },
     {
@@ -311,9 +304,9 @@
     },
     {
       "source": "Hiperbaric",
-      "title": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? - petfoodindustry.com",
+      "title": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? - PetfoodIndustry",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTVFPakRRZlRhZG50MVZBdmVxdVZhVzlJRC1LNlBFOS1MNVI0SUhlT2FrUloxRkN5Qi1Bcm4yS0hFLUtDdnY5RC12dUY0TWoyQWh1eUlnSU5ZNmJMNmhSQlkyeU0yeHpGVDNZZE12MlI4TjZvNzZXR2RFN0htMFZlSkxFQmxqYnBEUG1VdUNpT3VMQ1pwUG1jel95SVltMkpVOW1wZDUwWTBkb2xZYmp5dlF5V3ZnV00tTzRubW9yTlhENDVpT1VCTW1rNDFhZURtR0Z5ZlBrOWNVenAxSFlyMmhGN3FkLVAzeWNCWVZYVzBKc2VaWTllemU3NA?oc=5",
-      "description": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? petfoodindustry.com",
+      "description": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? PetfoodIndustry",
       "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
     },
     {
@@ -343,6 +336,13 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNalZHdWJ4am9CS1FBbW8xSEUwMFIySTJVTkhNQ1RNTDJqT3M5dTVQTC12N1dvbkZMMEY1eFprZmZaQ01jel9fd2VjX3g3M3V3NnNyb19GY2VWNU9jY0Y4eXdNVTljQm9yaWtyYVlSNFFYaXNJeGJTUk14UDVyRVVXelh3?oc=5",
       "description": "High Pressure Processing Equipment Market Future Market Insights",
       "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage - funcas.es",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1BTaXhwYnBzVTdZSldMcFJKR2FSQl9JMFoxQ0VEdEg4NmFObGY0ZldMWHE5U3hVQk9RZm5icmJXWlhKRHVsQzZWNllzT0tNUlVRc25pTzZDclk4eGlsZ3k0cmlScktfRlNBRUt3eWJQdUhHemtOSXJjelk1WjFBTWVoSjBQV0oycHdXZS1BYy1hNmhRVEY1T0tXZUZRa2doa3NyMlZpR1dtYmx3dTlId2duX1M4UVlZbVlOY0FnMlNMbzFRMXk5dTFZdUV6SEhVc2hSdmVjWjFlRndSNzdVMllIcDY?oc=5",
+      "description": "Thermal Energy Storage for Industrial Heat Decarbonization: Turning Renewable Variability into an Industrial Advantage funcas.es",
+      "pubDate": "Wed, 29 Apr 2026 08:10:47 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
