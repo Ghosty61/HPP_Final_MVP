@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T04:41:03.575386+00:00",
+  "updated": "2026-08-17T06:55:02.319434+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -80,9 +80,9 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Whole Foods Market product recalls linked to U.S. salmonella outbreak: CFIA - cbc.ca",
+      "title": "Whole Foods Market product recalls linked to U.S. salmonella outbreak: CFIA - CBC",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTUlxMlVGX1VSSVAwNEJ6YU94RkJWZGdKdFpLODRGWFB2dDZiRl9SQjFUSUpsZTk4Z0ZXMTE1azl0b3lsWjY4a0xSTU1xck82V01SZjVUSmQ0SGptdnJMcm1lTGR1Z2RGYmE3SUpvTy03a00tVkhCUVFMZ2FaWm9LMEp0SXpLb2h1T3NGLQ?oc=5",
-      "description": "Whole Foods Market product recalls linked to U.S. salmonella outbreak: CFIA cbc.ca",
+      "description": "Whole Foods Market product recalls linked to U.S. salmonella outbreak: CFIA CBC",
       "pubDate": "Thu, 13 Aug 2026 21:51:05 GMT"
     },
     {
@@ -149,6 +149,13 @@
       "pubDate": "Sat, 08 Aug 2026 11:46:46 GMT"
     },
     {
+      "source": "Food Safety UK & EU",
+      "title": "Pasta salads sold at Asda and Morrisons recalled over listeria fears - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMnEzNWpRU1BvYXg1SkVqNGZLblhfUjB3QlBHQzZOVGttdUxfdUx0RC1hUmtsNTd2ZFJLaGZPdWoxdXVKdTYxaE96STdqNVZEUDFHVER3YS15Q3prQlZ1UXRmZ3FJbzUweTdKWVBSRWVfaEU1TFRtTmlfOVNCR08zLWxXenN2WGp0WGdDWDAwMzZTVkRISjc4dnJ4Q1gwYzFLZ3B5YVUyLXFlYTZUekw4?oc=5",
+      "description": "Pasta salads sold at Asda and Morrisons recalled over listeria fears The Independent",
+      "pubDate": "Sat, 08 Aug 2026 07:00:00 GMT"
+    },
+    {
       "source": "Listeria Outbreaks",
       "title": "There Are 11 Active FDA Foodborne Outbreak Investigations — Should You Be Concerned? - Food & Wine",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtX3NybUxqVWFQV1N0RWlEVVFfMmlyUUZSTGtucWRCX1ZCQzdROGJlWk5TR0FOYkE3OEN3V2N3SG1JdzZqWGUxcHZKdGpHQlpSYklaLVZ3RzUyb2JsZkYxbGFtSDRyZHdpanB0clFfeG05OERYX3FqeGFWLVFmV2c?oc=5",
@@ -178,9 +185,9 @@
     },
     {
       "source": "Hiperbaric",
-      "title": "Hiperbaric to supply first Spanish-built HIP system to TTT Group - Metal Additive Manufacturing magazine",
+      "title": "Hiperbaric to supply first Spanish-built HIP system to TTT Group - metal-am.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2pMRnhXaDV5blFZbGRMRUxQb1dxRFJFQXl2Z29WOEc1Ry1RNWdNSFVCUHhGb3cxMHhVOWJIRUt6QnF1MW5tdWRiaDdvNExubUN0WVB1RW41dEVhcVFuUTdFLVdXaFRIU1FOempJZk90MVFjRXdnTGtUTzdxc2lYWTRWaWRjSU1iUDdvWVpCN3NTcGVL?oc=5",
-      "description": "Hiperbaric to supply first Spanish-built HIP system to TTT Group Metal Additive Manufacturing magazine",
+      "description": "Hiperbaric to supply first Spanish-built HIP system to TTT Group metal-am.com",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
@@ -199,13 +206,6 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Kroger egg recall sparks fresh food scare as another outbreak spreads - independent.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMEc2MnlfVU9STVpBMHZ4cnlPWGpaYmVIbXVhUE1vTlM5S0M4M1Rmam41VU40YVlxRk9kWmliZGoyeGdiQjNQWnR0dkxDMjFmTjhYXzdRaDRueUtxM0dHeVY5Mjl4ZlB4YlRMOHhEQ2drOGxOX3l6SS0tajV0clNzbm0tM1YtR2IzMWtTQWc2QVU0MVY3WUZST1EwaC0?oc=5",
-      "description": "Kroger egg recall sparks fresh food scare as another outbreak spreads independent.co.uk",
-      "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
       "title": "M&S, Tesco and Lidl issue 'do not eat' food poisoning warnings — full list - Wales Online",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT2ttSXdHM0NzTE5yZnBjdHZMazMtR3N4T0FhUzc3QjJ6bjBOeFYtemwyM3VhRTdFcGVVOHhoMFdoOGFrdGZxSXloUmlueWtleFBZelFwbVRDZi1WX3R0X0VLWjlWUHRGY0pDRGZwd1ZyRFhZak42M25aWnlFbFlEWXNfQdIBiAFBVV95cUxQemh6MVdJU0d2Z3AwTHlIVk5WQ0xVdkoxVE1ibnNZMk5Gd0s5WUxqNVd6a3ZqTjBCdWZzYXQxcmNZYlRkVlgxaHpQU1hkUnhVeFpTS3ZkbUtRX1FyVUNuZTNVRTZoQW11OHgyYXJEam5CUlVGX2xDMzh4X2RFZ3p2eVhHcXdzcFYx?oc=5",
       "description": "M&S, Tesco and Lidl issue 'do not eat' food poisoning warnings — full list Wales Online",
@@ -217,6 +217,13 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQzFZbE9Ybk5FV0hjNld1THczaWhDNENESGdsZDBQN2pJZ2RDNjhLTHNOZkJrWTFLbm91SWxCRDhVckVvOWM2c1NxWlNpSnlXVm1HTUJaS0VoSzJpNnBuN1NpeGotaTY5c1FvcXgyT1JoMUtES2s5TzNoNldOMFZGSGFPYVFMVXVrZzdua3EyYURwMlR2MFI4dUE2WE02eTB0T09qWXRqN1BEWXdN?oc=5",
       "description": "Global Dairy Trade Sees Price Index Drop Amid High Milk Production Dairy News Today",
       "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Seafood",
+      "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
+      "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
+      "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -261,13 +268,6 @@
       "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "⚠️ Urgent food recalls from Tesco, Sainsbury's, Asda and Morrisons for possible salmonella - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZWpIU2c3WlRkNUo4YWlWRWMxVWViWEozYlRZLVVqeHBWSXRGTktIZDRTd0NLdndUUlZzeFFsd1MyUERiYk9xS0tjYk9mdURxcV93djRaZVcweGlxdjl5R1JuUVd3TkF1OUN5NnV2aGN0cEZrZHk0QlEwdnlIY1cxLXQ3N0tGMkF2ZUVFQXpFTURkcWlXT1dCb3UzM2JMcDMtcWszX3hucjZrYXBhQ0NsTTg0LVp1cVVRSDdBZEs1RXlnQ0lmd3loV01YeVlIamEzcndpZkVDSS0zZFpBWnNqSDhESmsyS2pCNU1TTnROby0?oc=5",
-      "description": "⚠️ Urgent food recalls from Tesco, Sainsbury's, Asda and Morrisons for possible salmonella facebook.com",
-      "pubDate": "Sat, 27 Jun 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Soups & Meals",
       "title": "Heard the loud noise in Dixon? Officials say here's what caused it - ABC10",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGtOcWpIM1hIV1JSUjd6VVFmelI5ZlE4SzZKdkVHdGlmdm5SUjU1NXkwWWZNeXgyb280RjJpaE1CNEFOeGw2Y1ZPaW5JdkFsdzh2ZGZFSHl5a0VMRVF4UThqOVB3WFJTOFByWFFtZ3NQSi1Lb1RidU1WTmxSY0tKQzVHUF9KQk52OVk4eTJraWJLNjN5SXV4N2FEb3ZERUN4NkRPQ1RGcS1XUmJScFFFTFlMUXlKaHltdkF5SmIxSGxGaThfdUdRZC1nQXc?oc=5",
@@ -283,10 +283,17 @@
     },
     {
       "source": "HPP Seafood",
-      "title": "Study finds potential links between virus found in aquaculture and human eye disease - SeafoodSource",
+      "title": "Study finds potential links between virus found in aquaculture and human eye disease - seafoodsource.com",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOLWF3WXE3Yy1tZi0tSjF3WlVYWlNsalJnOU11Rlk2dm90V3AwamdXNU9jVV9yTkxzeE5pcm1lTlNzVjZ3c3AwWkdPM1VMSnVXRFdLbEZqZG55c0xhUE1kLUZsZlYzTV9vY2dXdDZoNnBTNHgwTzc1QXpyeEUwNTBZWUVud1Y2NXhwMnBjSzdoSHV5ckNxVG5fLXdpYS1vbGF2WHZwbkZPS3h4ZExxTlA4OWZsNmwySkxZSTRoVFozcVZJNGpJYWhFYkZkcmd2cmhxVWkwZW9KNmNoQndwQ3dPbEpBVXNxT0VqLW56ZzgwYXlKM2ZuMXFZ?oc=5",
-      "description": "Study finds potential links between virus found in aquaculture and human eye disease SeafoodSource",
+      "description": "Study finds potential links between virus found in aquaculture and human eye disease seafoodsource.com",
       "pubDate": "Thu, 18 Jun 2026 18:23:30 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "Food Fact Check: What happens during a food recall? - GOV.UK blogs",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN0MyZ2JWR0ppT2Via28xY0JlR1pNM0FqdG5Ha2VTamFUZHJhdUpQUWZWRkZCTUJDRWNEUTcybVNaMDVVNExnd0Fya24zSG9xeDhLcDZQQWJFTGk5VV9yZGZHT1l6S19qR08wRlpfVUZ4RnZEVWRVbVVyeWRMRFozX0VkQXphbUtITWxRd3FYcw?oc=5",
+      "description": "Food Fact Check: What happens during a food recall? GOV.UK blogs",
+      "pubDate": "Thu, 11 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Innovation & Research",
@@ -342,13 +349,6 @@
       "title": "Suja Life, Better-For-You Beverage Platform, Files for NASDAQ IPO - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORTBUVDZBcy04eF9GMDItaGdjR0kwR0ctNHdhSnVLLUs5clhsdjRGNWZxVzlsN2QwbXRvY1Bod09NWmI0UEVMU3dUTnVNVnRKTjdYNlJMWWNQN1NvTDExZXJPMGpoUzhCSUdvWTBCR082T1NYZmREajdEc3puNzhMeU5SeVpkaGZ4UFVQVHhIOVNOcnRPUzhaOHV2REkzTktXZGM3aGloSDdQVHAzYWpXdk1NblhlanVpM01CX29FXzNMSlU?oc=5",
       "description": "Suja Life, Better-For-You Beverage Platform, Files for NASDAQ IPO TradingView",
-      "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Innovation & Research",
-      "title": "From science to market: OSU Ag Research advances understanding of dark-cutting beef - news.okstate.edu",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOU9aRGVVRE9vRUdqRjJQYWYzQzNMclk1M2xVUDh1amZMaS0tZHp3dm9JNXNhaE51QVRCbzd2YVRVd19JQjZWS1RfcDh2MlBOUzgtVVM1UEw2VmVQSUwxR1otUkFUYnRhTnpwcV84THN4VjdFMUwyZzB5b29RRXV1Zm9YZU9pUldrWUcwVW84MDd2YW1OM25RbFJQSFVWNWVsSVNEWkdITTRsamV5aDd1dGNTT3lyMV80ZTEycndGXzBacGRRYk93cnZCWUlBZw?oc=5",
-      "description": "From science to market: OSU Ag Research advances understanding of dark-cutting beef news.okstate.edu",
       "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
     }
   ]
