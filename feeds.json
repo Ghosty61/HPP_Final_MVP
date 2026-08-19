@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-18T22:23:05.489477+00:00",
+  "updated": "2026-08-19T01:14:14.421721+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Jalapenos recalled from Costco stores because of Salmonella",
+      "link": "https://www.foodsafetynews.com/2026/08/jalapenos-recalled-from-costco-stores-because-of-salmonella/",
+      "description": "Dairyland Produce LLC, dba Hardie&#x2019;s Fresh Foods of Houston, TX, and Dallas, TX, are recalling PEPPER JALAPENO 5#, because it has the potential to be contaminated with Salmonella. The Jalapenos were distributed to the following Costco locations:&#xA0; Store #1487 at 12717 Network Drive, Stafford, TX Store #0655",
+      "pubDate": "Wed, 19 Aug 2026 00:40:04 GMT"
+    },
     {
       "source": "Food Safety UK & EU",
       "title": "One dead and hundreds ill in UK salmonella outbreak - BBC",
@@ -73,9 +80,9 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Salmonella Egg Recall Is Now Class I, the FDA’s Highest Risk Level - Time Magazine",
+      "title": "Salmonella Egg Recall Is Now Class I, the FDA’s Highest Risk Level - time.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQXI0dkd6LXNkV2oyZUJGd2MxOS1xb0g2QzlwTWJiRlpJdFlYUUFtRklmbkNCVnhtUEFibzVfbk4zLU9fX0lUbzJiclBKMklON1V3QWFhdVVWNzhKckNINXc0aHZuN3ZQS0QzZW9aOFlmMUdtUHhDWWJKeGZwWkgwQzBZZFlaVUJGUTU5amJBVTJPM2drVnRTb2JLN0tUNDlRMVE?oc=5",
-      "description": "Salmonella Egg Recall Is Now Class I, the FDA’s Highest Risk Level Time Magazine",
+      "description": "Salmonella Egg Recall Is Now Class I, the FDA’s Highest Risk Level time.com",
       "pubDate": "Sat, 15 Aug 2026 15:47:35 GMT"
     },
     {
@@ -93,17 +100,10 @@
       "pubDate": "Sat, 15 Aug 2026 03:30:52 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "FDA begins inspection of Taylor Farms lettuce operation in Mexico",
-      "link": "https://www.foodsafetynews.com/2026/08/fda-begins-inspection-of-taylor-farms-lettuce-operation-in-mexico/",
-      "description": "Iceberg lettuce from the Mexico operation has been linked to an ongoing outbreak from the Cyclospora parasite that has sickened 9,481 from 17 states,",
-      "pubDate": "Sat, 15 Aug 2026 02:51:09 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
-      "title": "Food recalls in 2026: What the data shows so far - KCRA",
+      "title": "Food recalls in 2026: What the data shows so far - kcra.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKME5welk1dTFEYUpmRVFUQlkyZzJNdzF2dGgwbUxOanpySmhyaGcybmx6U0t5V0RWWVZWaUJUYURBRTB3VnJkSTVIMFpScFhnUlBxTGJKUkp4dXZDYXRpZ0lwUy0wSDk4R2luWUdOV3I5Nk5IRm5J?oc=5",
-      "description": "Food recalls in 2026: What the data shows so far KCRA",
+      "description": "Food recalls in 2026: What the data shows so far kcra.com",
       "pubDate": "Fri, 14 Aug 2026 12:58:00 GMT"
     },
     {
@@ -150,10 +150,10 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Taylor Farms recalls salsa, guacamole on salmonella outbreak, intensifying food-safety fears - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWFJnNGUzeUlCdlUzOGNzdVY5M3k3SU9YdmRFUUFDdlYtb3V2LUo5VUlOMEVaZHhELVotZGVFWWxmNUZ6SGp2SU4tMGotS2xXV3JMdzZZRm5DaXNNeGxSMHBnWUZOX196WndVUE8wV3BRQ1Q1R2FmNHMycFc4ZTJiejRfZU9IcXY3LTdpTmNzSmZ6UnBPdDNMNDZJZTcyb19pNVpVOHd1SGM5Qks2UFFHbm1JYlpiYVZTenFSa3MtUXdIYzFVbGJ4a1pDeVVLSVpJMV9NY3BiZ3pHRnZfVE1R?oc=5",
-      "description": "Taylor Farms recalls salsa, guacamole on salmonella outbreak, intensifying food-safety fears Reuters",
-      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
+      "title": "Taylor Farms recalls salsa, guacamole on salmonella outbreak, intensifying food-safety fears - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc19SdUlOWDZQQU0ydkE0dDJtOHpJY3htV2dMemNHTnM0M0NkaWllaXA1N3VSRVdfREkzd3FFLTlJOGtjR3ROTTdCQmxva3R2TnhpWXhmRVdWYkludWt3VnJSMHM4TnNLTlMtdFlrdkNqMG96eHpVSVE2VEN4MzNGZFRSWENBMm5NVnRyOHZSZktaOFYxNllYVjc2N1RnelHSAaQBQVVfeXFMUFlHTG4zRlBtcmpEQ0xJU2NTLXBDRy1PUVZSV1BpeE92SVNJbFRzUEJtdVlaZFdOVVlHd0tDVWtyVGlESkszQ0IzX0Q1c2FIRURKVElveVNEbUNjNXRoUWN4aXZTcWxjSm1DRDVCd1Z2cnVUcnVNSUpXQlhjUFhlbHNGYkZ1amxubU55Z3kxNTUzY01ydGthWHVEbE9UN2w2b29iR2E?oc=5",
+      "description": "Taylor Farms recalls salsa, guacamole on salmonella outbreak, intensifying food-safety fears CNBC",
+      "pubDate": "Sun, 09 Aug 2026 07:00:00 GMT"
     },
     {
       "source": "UK HPP Industry",
@@ -220,16 +220,16 @@
     },
     {
       "source": "HPP Dairy",
-      "title": "Global Dairy Trade Sees Price Index Drop Amid High Milk Production - Dairy News Today",
+      "title": "Global Dairy Trade Sees Price Index Drop Amid High Milk Production - Dairy News Today.",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQzFZbE9Ybk5FV0hjNld1THczaWhDNENESGdsZDBQN2pJZ2RDNjhLTHNOZkJrWTFLbm91SWxCRDhVckVvOWM2c1NxWlNpSnlXVm1HTUJaS0VoSzJpNnBuN1NpeGotaTY5c1FvcXgyT1JoMUtES2s5TzNoNldOMFZGSGFPYVFMVXVrZzdua3EyYURwMlR2MFI4dUE2WE02eTB0T09qWXRqN1BEWXdN?oc=5",
-      "description": "Global Dairy Trade Sees Price Index Drop Amid High Milk Production Dairy News Today",
+      "description": "Global Dairy Trade Sees Price Index Drop Amid High Milk Production Dairy News Today.",
       "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
-      "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - The New Indian Express",
+      "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - newindianexpress.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
-      "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
+      "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur newindianexpress.com",
       "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
@@ -290,9 +290,9 @@
     },
     {
       "source": "HPP Seafood",
-      "title": "Expansion at the Dock + boosts seafood processing in Alberni Valley - Ha-Shilth-Sa Newspaper",
+      "title": "Expansion at the Dock + boosts seafood processing in Alberni Valley - hashilthsa.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXFGTmZ4ZW9NamJNeVhqV29yeFQ0SzlTYzBXcnl1RHltM0NIODNMVTFhT2VPaUhCbDFwanJEazNfZEoweXJkWGhtSGRwZWlycjJwWFgwdmZBU2RlSlRlTjhfQ3J4UDlrcUg0N1ZzX2puWVo4amFUczJFcGZCZWphenBFN0dUSlMwWVdIZ2ZmT1daOG90b0Z6X0RB?oc=5",
-      "description": "Expansion at the Dock + boosts seafood processing in Alberni Valley Ha-Shilth-Sa Newspaper",
+      "description": "Expansion at the Dock + boosts seafood processing in Alberni Valley hashilthsa.com",
       "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
     },
     {
@@ -345,11 +345,11 @@
       "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Seafood",
-      "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
-      "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
-      "pubDate": "Tue, 31 Mar 2026 09:53:10 GMT"
+      "source": "EU HPP & Food Tech",
+      "title": "Europe Healthy Food Market Size, Share & Growth Report 2035 | MRFR - Market Research Future",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc2swRjZ3SHE2NDk4djRnUUdEOXhvb2hQYjlwTC11bUFJcjdEUXVBbFB5eW5Tb00yUmZYQVNFdmduWndOZnZrX1pNcjYwNmdRSXQwQlFzYzBoRzk0UlFjYl9GZHlYcU9iZElTSWxEQWE1cjI1TktzNDY2cHdYd0dDbXVERQ?oc=5",
+      "description": "Europe Healthy Food Market Size, Share & Growth Report 2035 | MRFR Market Research Future",
+      "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
     }
   ]
 }
