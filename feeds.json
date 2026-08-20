@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T06:44:47.252774+00:00",
+  "updated": "2026-08-20T08:37:51.604514+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -21,6 +21,13 @@
       "link": "https://www.foodsafetynews.com/2026/08/eggs-blamed-in-chinese-salmonella-outbreak/",
       "description": "",
       "pubDate": "Thu, 20 Aug 2026 04:01:44 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Jalapeños sold at Costco recalled in salmonella outbreak. See list - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV0NhMFhDOUtvYVZqQzh2SGtnUm5FMmIwVGszdFBiZDB2bFJ0Tk5vLUJyM2hzNHFrTEFMQlJhZGliZkhnRFFlUGlWSXVGN3VreUJacXc3dE11cVEydTB2V09TQUdMRkhEb0paeks0NVNEc2Y0NUljTzJIUDlhWndrUzc4VF8ya0RBcmg5N1dzaTFQVkllSm9aaERlODNPR1FhdXZPWEtrQVgySzgxYnBaTndTcHREM3p5?oc=5",
+      "description": "Jalapeños sold at Costco recalled in salmonella outbreak. See list USA Today",
+      "pubDate": "Wed, 19 Aug 2026 16:15:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -51,13 +58,6 @@
       "pubDate": "Wed, 19 Aug 2026 04:03:24 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "Turkey Positive Displacement PD Pumps - Market Analysis, Forecast, Size, Trends and Insights - indexbox.io",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ1dDTEJhOWlDVW9YbHNJU1lVcEtjZEtjUmRMRl9ORExkU0JNS2V4d3NCODJ5WVpxc3R3azVxYlUxMVgxM1JTNERvNnE4b1ZTUnZjRVNQaE12dVVDcDdPQWRiME51V3FVcGl3U0ctYk5IeDN6TXlzX1NESDYtbl9Eb0lJaG5hSDZsUVVmR0JDX2JPeDdFNGhEU0xla280Mm1QVVlKWDZfWk1JYlhpNnhJenFSMWs0TlkzYUE?oc=5",
-      "description": "Turkey Positive Displacement PD Pumps - Market Analysis, Forecast, Size, Trends and Insights indexbox.io",
-      "pubDate": "Wed, 19 Aug 2026 03:32:15 GMT"
-    },
-    {
       "source": "Food Safety UK & EU",
       "title": "One person dead and more than 200 ill in UK salmonella outbreak - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZzFBcTZuQlFUem4zX3lyLXZiVGgybDJtSnh3VVMtLWdocVFoZ2dfb25zSUJmaC05ZVhwaTNHUlB2VHR5VlZuZV9CS2V5WklMcnh1T0hRUW9IdjNnTnF3eVlrQ1htOGhVYng4SGJQRW8yanFlQVJkaEJKMVdIQ2hjVFdBc2x5U2EzNHB3?oc=5",
@@ -65,18 +65,18 @@
       "pubDate": "Wed, 19 Aug 2026 01:30:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "H-E-B, Kroger and Whole Foods: Products recalled over jalapeno salmonella outbreak - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcm40YlQyWXBNdDNUQ1pjN3hsVUtDWmtsRFhrTmNhWmt1c3hmNGtpR2hHNU0yZUtBZ2cwUlVqeWZPZHNHYWt1TGZESS1CcWNITUR0MVJMVFk2MGNoVTNZdS1tcVJHQ1ZqS1FwTnRsQ05qQ3BqZ2hxck5Mb2dXUDZFN1IwVlhvRU5YSTNXRm9pejY3NHdRZnQwUDg4aXU0Z21ET1RGc3NjOE4wMlBURGI3NVl6UF9MRW1EN05qUXR6WG4?oc=5",
-      "description": "H-E-B, Kroger and Whole Foods: Products recalled over jalapeno salmonella outbreak Houston Chronicle",
-      "pubDate": "Tue, 18 Aug 2026 16:05:37 GMT"
-    },
-    {
       "source": "Food Safety UK & EU",
       "title": "One dead and hundreds ill in UK salmonella outbreak - BBC",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IWDFtN2h2RkxmOW9pX2RLQXhpWEM0dDE4X3Nzb0hvbzItSld5a1luUHJzVDZ5RHl5blUtVzZNQXd0dmxGMGY0bWxSREdQX0J1dHNoY3NWczktWlNw?oc=5",
       "description": "One dead and hundreds ill in UK salmonella outbreak BBC",
       "pubDate": "Tue, 18 Aug 2026 11:47:21 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "H-E-B recalls more jalapeño products, pulls items from shelves amid salmonella outbreak - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUG42UGNKUFgwaHBibjJFRm95LWVaSWdmVWg3S3otcHJySlVHbWszakVVZmNIb1YtWWxtN2dHeU5tV0ZuWlFZOGZmSjA1T3RrTjJ2YWtWdURLeFBXamNad1RSWURHWjlteElDOU8yR2JkLTlyNU41WWk4S0wwVUtTcnZHTVNueDBiUmg2TlJ5RzlORHVHOW5obGY0ZDd0ZFhfUmFkU3ZZNnlPMTZiRDMwMHZOcVZNYnc1azFVR01xZFNNN25MRDZoRkxnSS03MjNpVlpYeDBzRm5TQnhxUjhsZnRLcGlUWW0tNlFhTkNCZW55X2o3QzZzNkpCNNIBgwJBVV95cUxQbFBqVzNMbmNkc01BLS1VbU1WZkJxbnlqWUMtSTFzcTRfekpkTmFYYTZFeXp0dmxpZGRJaHh5TVhOREtCcEdKTlJvLVkzMTFTMi1BSWlfM2VLajJHQmgxV2xFeER3TkNMbWR2RTN5MGk1WWZVczk2Q2NfY1oxUjVxbFRib0l0aDlKN1JKbXpnQ2Q0SXdkemNYNXpWeEhMX3JqRnNzbWZPM09kcEV0SVhwV1gwTUpBZkFMc05SM2thVEJLRkFxZXVoYmYwU2hnOU5PRFRSblNUVWxNNXgzQmdQZGpuemtfS1M1WEJzS29IRmZ4SGJyb3hacWRaa0Q3bjRDeS1n?oc=5",
+      "description": "H-E-B recalls more jalapeño products, pulls items from shelves amid salmonella outbreak Houston Public Media",
+      "pubDate": "Mon, 17 Aug 2026 19:55:54 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -91,6 +91,13 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lM0Q3S3pJZEhlUE4xZHBEbVBVSXRuRTBXRzZTWFkzbU9PYzV6czEyR3JQc2d6S1hKMmdlUGZkX2NjWFV1NTFONlkyR3JrdlZLU2FXaHZ1NG5SS3l4cGcxWmxrRjh5MzJCRDE5WDZUSXNBV2s?oc=5",
       "description": "Are we seeing more food recalls these days? PIRG",
       "pubDate": "Mon, 17 Aug 2026 03:15:48 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Salmonella food recalls: What Houston and Texas shoppers need to know - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEx0TnFKZkM0Q3VCVDFESmpmdGU3SmNNajdtUUxubUc2T20tUXBJcnNzU2xTM0dKLWNoN3FER0I5SFFFbWk3bnYyZ1hNSWx2UnlFNFdEY1hBV3BTaGpqSjBteUU1MFA3cWVvZ0tidXEzN2FQR3VxbV90OFRxdVJ0VnN0cHFURGk4NGFEcVlKaVhScmVQcU15cW1BMmk1NnI2NEFZakNVV2Z0MGFV?oc=5",
+      "description": "Salmonella food recalls: What Houston and Texas shoppers need to know Houston Chronicle",
+      "pubDate": "Sun, 16 Aug 2026 11:04:58 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -122,9 +129,9 @@
     },
     {
       "source": "HPP Healthcare & Medical",
-      "title": "High-Pressure Injection Systems Market to Reach 170 Index by 2035 on Semiconductor and Pharma Demand - indexbox.io",
+      "title": "High-Pressure Injection Systems Market to Reach 170 Index by 2035 on Semiconductor and Pharma Demand - IndexBox",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb20xbVFZemZpbThCSEE1RTRiZGdvR2JFWkhpVFFFNTVmeVNVQjhRY0dpSzl4TjlnR0tjNEFHbWJ2Q09MUjlHZ280ckk2aHBvQTl5ek1xRWNKdFpydHZsVEpzb2RDRWtQeHl3aXVtWi12RWVBTE5tOU8tdmV4XzdOVHBHS014U0VlbDRBNWdHVG5mUW50VWFSTlFSVkpyRXN6VExSLVVZX1JEZE1QbFFRLW9ELW9kNzFCbGx2SUpFbE9yc1kyb19DYk1n?oc=5",
-      "description": "High-Pressure Injection Systems Market to Reach 170 Index by 2035 on Semiconductor and Pharma Demand indexbox.io",
+      "description": "High-Pressure Injection Systems Market to Reach 170 Index by 2035 on Semiconductor and Pharma Demand IndexBox",
       "pubDate": "Tue, 11 Aug 2026 05:16:15 GMT"
     },
     {
@@ -139,20 +146,6 @@
       "title": "13 foods that were recalled in the U.S. in the last two months - qz.com",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5SU1kTmlvaVdvcWxkSndMLU01RFdIYzZ0OEJ1dXZDTGZ5ZzB3dk1GM0QtQVhvTXF1eWlWVkZlM1BUZFFkZXNBNVZhNUtVY290bEtiLWZjRUt5RGpK?oc=5",
       "description": "13 foods that were recalled in the U.S. in the last two months qz.com",
-      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Taylor Farms recalls salsa, guacamole on salmonella outbreak, intensifying food-safety fears - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWFJnNGUzeUlCdlUzOGNzdVY5M3k3SU9YdmRFUUFDdlYtb3V2LUo5VUlOMEVaZHhELVotZGVFWWxmNUZ6SGp2SU4tMGotS2xXV3JMdzZZRm5DaXNNeGxSMHBnWUZOX196WndVUE8wV3BRQ1Q1R2FmNHMycFc4ZTJiejRfZU9IcXY3LTdpTmNzSmZ6UnBPdDNMNDZJZTcyb19pNVpVOHd1SGM5Qks2UFFHbm1JYlpiYVZTenFSa3MtUXdIYzFVbGJ4a1pDeVVLSVpJMV9NY3BiZ3pHRnZfVE1R?oc=5",
-      "description": "Taylor Farms recalls salsa, guacamole on salmonella outbreak, intensifying food-safety fears Reuters",
-      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Taylor Farms recalls jalapeno products after salmonella outbreak - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uXzFFNDRtRnhNcEl5LXNla2tJQmZCY0lkQ0NtN0ZnYzJ5aWRXenhXT1hiYkRDbUhqTkJTYkJvaHNwV2RoR19vUGRwaHctNzdyWmtWcWRKWWl3QQ?oc=5",
-      "description": "Taylor Farms recalls jalapeno products after salmonella outbreak BBC",
       "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
     },
     {
@@ -192,9 +185,9 @@
     },
     {
       "source": "HPP Juices & Beverages",
-      "title": "How Suja Organic Pressed Optimism Out of the Cyclospora Outbreak - Little Black Book | LBBOnline",
+      "title": "How Suja Organic Pressed Optimism Out of the Cyclospora Outbreak - lbbonline.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUXI5UUFKbXE3bE85TmZJeU0yQ0dWQ2RHWFBEWjZOLWxjN1RyUGdaazhLMUJKYTV4alNvN1hPbkVhWGNkeGFIWVVFU3dMSXlxempjSkFrcDJINktoX3ZKeUtQc2RYMFNwZXZzaC10NTJBSnNaZEJudGtGOTRJTGpNRXVWemprdnV1?oc=5",
-      "description": "How Suja Organic Pressed Optimism Out of the Cyclospora Outbreak Little Black Book | LBBOnline",
+      "description": "How Suja Organic Pressed Optimism Out of the Cyclospora Outbreak lbbonline.com",
       "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT"
     },
     {
@@ -219,6 +212,13 @@
       "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT"
     },
     {
+      "source": "UK Food Industry",
+      "title": "Food Ingredients Market Size, Share | Growth Forecast [2034 - Fortune Business Insights",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rSkdQWE93bDdDc2ZENzA0a1Vud1BFbTctT0U3NjJZcWFRTThVN1J3U3ZrVzRQbTRwNVhfS2FveUc1TG56NlJSbFluaWt6bXNBdU5FRmxEejVpYlFLejBfZEhxUHZlcEM3emlNMXN4NVR0S3cycFkxY19B?oc=5",
+      "description": "Food Ingredients Market Size, Share | Growth Forecast [2034 Fortune Business Insights",
+      "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Dairy",
       "title": "Global Dairy Trade Sees Price Index Drop Amid High Milk Production - Dairy News Today",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQzFZbE9Ybk5FV0hjNld1THczaWhDNENESGdsZDBQN2pJZ2RDNjhLTHNOZkJrWTFLbm91SWxCRDhVckVvOWM2c1NxWlNpSnlXVm1HTUJaS0VoSzJpNnBuN1NpeGotaTY5c1FvcXgyT1JoMUtES2s5TzNoNldOMFZGSGFPYVFMVXVrZzdua3EyYURwMlR2MFI4dUE2WE02eTB0T09qWXRqN1BEWXdN?oc=5",
@@ -237,13 +237,20 @@
       "title": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QMXhzcHRVa1RrN0s0NUZtdHJrQndFWjRUTElLVml5RWwyNDh3RUcxWkg0S2RqQXI0QVcwOWp4QUJobzdNVGRUTHJid0JVX09sUDhvMW1WMXFjaTZVeHo0STJFMElDTmlwSWY1aEQtWE92TTRxR092NFdKOA?oc=5",
       "description": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods Medical Xpress",
-      "pubDate": "Thu, 02 Jul 2026 00:40:04 GMT"
+      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
       "title": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI - PR Newswire UK",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdVRCUkhzUHR0NTFtd1dTOUUxODE2MkJURGNIVGpkUkdSaE8yeTZvTHJSZENfUEFPUmx5Y01hNUZELW85SklCb0Z5UHRYd196d2IzR1RXWHdxVnE4aFAzZ0RvT3VNWFNiRG9CYXdfWmRDdF9WWkFwYXM4ZGNBQ1VVU3dYSUhmY2NlMTFSU1A2Tkh5ZHpGb2VrQThCZUJrem9mRnhkRGc4M002LWJNcjhOZVpjRW1ocGN0TUw4dFppd3p2OEs3ZnZMUTlUMVBGbXQ3ajRHdnhJOGpxWjZvRzVoUUJUU21lcEMxaXRWZU5RajQtYWp5MzVndVBmdzRyRDdSNTBpNEFxWU1EVVVsa3lSWk45OEQ1QmVtRWJOWVhYSFU5SHlnZzlURjkxT1BsQ1B0NTF3Vg?oc=5",
       "description": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI PR Newswire UK",
+      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Europe Food and Beverages Market Size and Analysis, 2034 - Market Data Forecast",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFRiSl9GOVdlZHlfalNxOHk1V25kTkhPV20wU3JpbjNrLXV1VmljMjZfR0dNbEV2b3V2NjZpaDZaM3ZKYTZvazBiV3dDSkY2eWl5eWRrVUE0Z09BV2Y0bzdxLXdaeUgzN2lyTFlFLXNoVXRHQ0xsamN4S0pZeFRUSVV6c1otRzZWYlE?oc=5",
+      "description": "Europe Food and Beverages Market Size and Analysis, 2034 Market Data Forecast",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
@@ -331,25 +338,18 @@
       "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
     },
     {
+      "source": "UK Food Industry",
+      "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
+      "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
+      "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Healthcare & Medical",
       "title": "Universal Pure Data Breach Exposes Sensitive Personal Information - Claim Depot",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iczUzZHNzYTlQUmF6azdNd184N3RrQi15Z0NQZUVBOGZsWEFDT0U1RkpPRURQY18yM1FrenF2STA4TjFyMzIzc0tUSVJWN1dJMHN1R3ZuMDYyZWhyRjJrSlVVSi1fVFoxamc?oc=5",
       "description": "Universal Pure Data Breach Exposes Sensitive Personal Information Claim Depot",
       "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Seafood",
-      "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
-      "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
-      "pubDate": "Tue, 31 Mar 2026 09:53:10 GMT"
-    },
-    {
-      "source": "Hiperbaric",
-      "title": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria - Fuel Cells Works",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMWpFYUZveHVvay1yVVNMNWZxN0NDcnhEdnBvVDdueFBuZWhRVkticVM5andBeGtkc1ZBYzlBcmFGY0xHWGIzaF9UZVV5NUxsNjZ1ZkhHRV9TSk9fbzd0R1E2YXJCM2dMMWMtZmp5ZWxyb1FWRTRKWkV1WDN3WXlZeEg4TmwzUnc0ZDcxeWtWWDZuZ3NEOFJyZS1KNnJqdjFpOTZjVFlCNU8wcWpKdjNYM18yeDgzUUl4Qjl2MUVHUW8xc0Jzd2ZNZWxsNkwtYzExN04xTXktNUxaV05kcFdfMjVqTDNGZEhkaEFEMzJBaWFoam9zZjJ4LQ?oc=5",
-      "description": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria Fuel Cells Works",
-      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT"
     }
   ]
 }
