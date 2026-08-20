@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-20T02:56:21.868781+00:00",
+  "updated": "2026-08-20T04:36:20.690679+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Cheese and lettuce behind French Cryptosporidium outbreaks",
+      "link": "https://www.foodsafetynews.com/2026/08/cheese-and-lettuce-behind-french-cryptosporidium-outbreaks/",
+      "description": "",
+      "pubDate": "Thu, 20 Aug 2026 04:03:15 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Eggs blamed in Chinese Salmonella outbreak",
+      "link": "https://www.foodsafetynews.com/2026/08/eggs-blamed-in-chinese-salmonella-outbreak/",
+      "description": "",
+      "pubDate": "Thu, 20 Aug 2026 04:01:44 GMT"
+    },
     {
       "source": "Hiperbaric",
       "title": "UNL, OSU, Hiperbaric to host HPP protein workshop - Pet Food Processing",
@@ -51,11 +65,11 @@
       "pubDate": "Wed, 19 Aug 2026 01:15:49 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Jalapenos recalled from Costco stores because of Salmonella",
-      "link": "https://www.foodsafetynews.com/2026/08/jalapenos-recalled-from-costco-stores-because-of-salmonella/",
-      "description": "Dairyland Produce LLC, dba Hardie&#x2019;s Fresh Foods of Houston, TX, and Dallas, TX, are recalling PEPPER JALAPENO 5#, because it has the potential to be contaminated with Salmonella. The Jalapenos were distributed to the following Costco locations:&#xA0; Store #1487 at 12717 Network Drive, Stafford, TX Store #0655",
-      "pubDate": "Wed, 19 Aug 2026 00:40:04 GMT"
+      "source": "Salmonella Outbreaks",
+      "title": "H-E-B, Kroger and Whole Foods: Products recalled over jalapeno salmonella outbreak - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcm40YlQyWXBNdDNUQ1pjN3hsVUtDWmtsRFhrTmNhWmt1c3hmNGtpR2hHNU0yZUtBZ2cwUlVqeWZPZHNHYWt1TGZESS1CcWNITUR0MVJMVFk2MGNoVTNZdS1tcVJHQ1ZqS1FwTnRsQ05qQ3BqZ2hxck5Mb2dXUDZFN1IwVlhvRU5YSTNXRm9pejY3NHdRZnQwUDg4aXU0Z21ET1RGc3NjOE4wMlBURGI3NVl6UF9MRW1EN05qUXR6WG4?oc=5",
+      "description": "H-E-B, Kroger and Whole Foods: Products recalled over jalapeno salmonella outbreak Houston Chronicle",
+      "pubDate": "Tue, 18 Aug 2026 16:05:37 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -65,17 +79,10 @@
       "pubDate": "Tue, 18 Aug 2026 11:47:21 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Swiss scientists reveal Listeria trends",
-      "link": "https://www.foodsafetynews.com/2026/08/swiss-scientists-reveal-listeria-trends/",
-      "description": "An analysis of Listeria in Switzerland covering six years has revealed several outbreaks and sporadic cases connected to international incidents. Researchers collected 335&#xA0;Listeria monocytogenes&#xA0;isolates from cases of listeriosis occurring in Switzerland between 2019 and 2024. They have recently published the results and said they show the",
-      "pubDate": "Tue, 18 Aug 2026 04:03:02 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
-      "title": "More than 35 H-E-B foods recalled as salmonella outbreak spreads - KXAN Austin",
+      "title": "More than 35 H-E-B foods recalled as salmonella outbreak spreads - kxan.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPekpqMTBxUlBEcWZqQ2tGNnVXcENXcEh6RHd0ZnRrREMtbTR6NzViYzFTaHFLNnQwQXBwMlcxRmg4NzRJX3FiSWpEa0RfQlRROHF4SnJmbzFEWGZRUU1wSU12ZDU1S0ZIaURJdlE4cU9HYjFOemNJOEpzaE9TY1JadWdueTFuR25mVE43aVpBSTZZdnRFTzdSZFFJU2R6d9IBowFBVV95cUxOSW85QjBzdmtZbVZZeVBWMk5FN0xoVHByU3lORHROejJoMHRzcFJKZ1lHUTlfZnNsUzYtdGZ2cHE0NmNzRFdhVTFFUlg4ZHdaUTVLV3pXelFyTFg3Zm1xbkdnUGYtZUFlM0RMOHdWYlFMeWN6eHN0LWpUU2pzamF4YjNlcmk1X3otVS1DUF9aS2RwYndXclBHOVJyTHpHYWw0RUln?oc=5",
-      "description": "More than 35 H-E-B foods recalled as salmonella outbreak spreads KXAN Austin",
+      "description": "More than 35 H-E-B foods recalled as salmonella outbreak spreads kxan.com",
       "pubDate": "Mon, 17 Aug 2026 14:12:18 GMT"
     },
     {
@@ -84,13 +91,6 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lM0Q3S3pJZEhlUE4xZHBEbVBVSXRuRTBXRzZTWFkzbU9PYzV6czEyR3JQc2d6S1hKMmdlUGZkX2NjWFV1NTFONlkyR3JrdlZLU2FXaHZ1NG5SS3l4cGcxWmxrRjh5MzJCRDE5WDZUSXNBV2s?oc=5",
       "description": "Are we seeing more food recalls these days? PIRG",
       "pubDate": "Mon, 17 Aug 2026 03:15:48 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Map Shows 11 States Where Dog Food Recalled Over Salmonella Risk - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYVhqeWw0TjhEdEFwRVNwZ2dhUDM0LUJBdUVuSjdNYWd6WEhCNVNYU3RtelZILTgySmVqejhTYWRrc21wUHkzQ2RaT2dyV1gyRUw0QnhweXZqUFNVQWY3Q2tqajBHVTdiYWk4MHhoTjJaR1plYlJzbFROdzJnMHBvNUZMNEhxXzFEVXJmSHhuRloxNnUzX1Z5Rl8xcnVrUFU?oc=5",
-      "description": "Map Shows 11 States Where Dog Food Recalled Over Salmonella Risk Newsweek",
-      "pubDate": "Sun, 16 Aug 2026 16:27:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -107,11 +107,11 @@
       "pubDate": "Sat, 15 Aug 2026 15:47:35 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "Shoppers buying eggs in UK supermarkets told watch for tiny mark to avoid salmonella - AOL.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVUhvQnJuRWR5MGt2bWRBR1U5VUo1Y1ZFNlpOY0Y2UkdZOGN6MFlPa3p3Nk5JaFFnblZnbHpQaXNYa09mTHhOSmYySUZhWnh6ZGxNRHNLN1VYQ2Z1T0Q1YWFUMTlWdDNKWEZiYm1pdFZUc2RZNmlselZGZ1dyZzFHVHJGLUJ2UG1vTmc?oc=5",
-      "description": "Shoppers buying eggs in UK supermarkets told watch for tiny mark to avoid salmonella AOL.co.uk",
-      "pubDate": "Sat, 15 Aug 2026 14:56:44 GMT"
+      "source": "EU HPP & Food Tech",
+      "title": "Europe's scorched landscapes seen from space after summer heatwaves - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lOVdIWlhOZUhkREcwM2k3TzZZcmNZdEI5UmJFNlJGYjJQR192NE1ieDY4SWtjZnFPaDk3U29WMnBKSS1admR4MTVmX0Z3dHcwV2NlMmxQcFZCQQ?oc=5",
+      "description": "Europe's scorched landscapes seen from space after summer heatwaves BBC",
+      "pubDate": "Sat, 15 Aug 2026 05:01:13 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -119,13 +119,6 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKME5welk1dTFEYUpmRVFUQlkyZzJNdzF2dGgwbUxOanpySmhyaGcybmx6U0t5V0RWWVZWaUJUYURBRTB3VnJkSTVIMFpScFhnUlBxTGJKUkp4dXZDYXRpZ0lwUy0wSDk4R2luWUdOV3I5Nk5IRm5J?oc=5",
       "description": "Food recalls in 2026: What the data shows so far KCRA",
       "pubDate": "Fri, 14 Aug 2026 12:58:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Europe’s Fifth Heat Wave of Summer to Sear UK on Thursday - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTnd3ZTdxdlVUSG9yb1ZMUzFWRmtjdHJDSVk2eWFuYU42aDV6bkYteEpVb2pyazlDZmtpaGJwUktzcHZhOHFjZzloZ3BNc3FBcHZ0YnZZb1dEcjZPZFI0MGVDckNzZGRCUFI4VjlaSFRnTGR3cl9GUXRrVm1pcldDYVB5Wk1XWWw5WHlhZGVDSnFmWHBEUXlRNXN0TWRnWnhTTERqOGtkWmt5b1JWenpCVDBB?oc=5",
-      "description": "Europe’s Fifth Heat Wave of Summer to Sear UK on Thursday Bloomberg.com",
-      "pubDate": "Wed, 12 Aug 2026 23:01:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -139,7 +132,7 @@
       "title": "HPP Protein Workshop on Listeria Control and Dark-Cutting Beef Recovery Hosted by Hiperbaric and Oklahoma State University - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVTVzZWhFdUZxY1JtWnpxU2NMampwVTNSUUtTZ0FhNUl6VzZDeWxSNi1WellDU2RxcFdyWUNvajY3a0tiZHVQeE1nXzdkXzZfY185LTlDSXUtcW5pRkdtWGFRc2Mwd1UyYXIxYmxZYXpXLXBvN2xoZDhNUUUwdEp5YWdRTU45ZDl6dDRKMWNlWTVyTjlPZWotaHB0VnJ6QjlnZEZ3dFdpWVlhbjJKc0NIQUR6RnpwY2Q4LXMzT3hLWWttTWJsNUZJeS0zeWtrd0FXalVrcF8xT1ZwLU5jVzJ6bkJvbGtLWV91WWp0UUlnVmp5RWtqNHZPRVBfclpNQmV1eXZ0clF4RnZyZw?oc=5",
       "description": "HPP Protein Workshop on Listeria Control and Dark-Cutting Beef Recovery Hosted by Hiperbaric and Oklahoma State University PR Newswire",
-      "pubDate": "Mon, 10 Aug 2026 16:42:00 GMT"
+      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -178,9 +171,9 @@
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "There Are 11 Active FDA Foodborne Outbreak Investigations — Should You Be Concerned? - foodandwine.com",
+      "title": "There Are 11 Active FDA Foodborne Outbreak Investigations — Should You Be Concerned? - Food & Wine",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtX3NybUxqVWFQV1N0RWlEVVFfMmlyUUZSTGtucWRCX1ZCQzdROGJlWk5TR0FOYkE3OEN3V2N3SG1JdzZqWGUxcHZKdGpHQlpSYklaLVZ3RzUyb2JsZkYxbGFtSDRyZHdpanB0clFfeG05OERYX3FqeGFWLVFmV2c?oc=5",
-      "description": "There Are 11 Active FDA Foodborne Outbreak Investigations — Should You Be Concerned? foodandwine.com",
+      "description": "There Are 11 Active FDA Foodborne Outbreak Investigations — Should You Be Concerned? Food & Wine",
       "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT"
     },
     {
@@ -192,9 +185,9 @@
     },
     {
       "source": "HPP Equipment & Machines",
-      "title": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing - nutritionaloutlook.com",
+      "title": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing - Nutritional Outlook",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDBoRW1EZEpqYmQ5Sm9XLVRycFVJN2gzSDNiTkNWX0taRUhvcTlIZlo4UUlvc2tUeldqZ3ZDUEw4bFpLcl9jbW10ZV9DYVpnc1daWS0tc2VyZ0sxSWxDN1llX1J0TGJ1ZUJOVjhVdHViRmg2WDRHRzJTU1Z4UnN3YnpoMkxsWENSblZZV3cwSFJwY1NyQWNGQmxPU190dw?oc=5",
-      "description": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing nutritionaloutlook.com",
+      "description": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing Nutritional Outlook",
       "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT"
     },
     {
@@ -203,13 +196,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUXI5UUFKbXE3bE85TmZJeU0yQ0dWQ2RHWFBEWjZOLWxjN1RyUGdaazhLMUJKYTV4alNvN1hPbkVhWGNkeGFIWVVFU3dMSXlxempjSkFrcDJINktoX3ZKeUtQc2RYMFNwZXZzaC10NTJBSnNaZEJudGtGOTRJTGpNRXVWemprdnV1?oc=5",
       "description": "How Suja Organic Pressed Optimism Out of the Cyclospora Outbreak Little Black Book | LBBOnline",
       "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Outbreak Investigation of E. coli: Frozen Blueberries (July 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMFBlMFg4UU1DSUxIdDhRQnpSc0F5RjBmTWE3Z0NMcGlvVEo5azJKdmR2T2t3N0RoRHpWTGJtZFRldkgtRWx4UnhKYUJNbUxCMEhDWW1kUFhFa1VoVmsxazFqLUFTdXdGYjYwUEp6XzNHMFptSDhjUGNNdmxjdjVSWDJya2FBUVgwUlFZd2E1Z0lHZDg2ZDZsOHp5YVZUS3BiVDFtZ0E0QTJZelZDMTRocERmMUw0UFEtcEZ3?oc=5",
-      "description": "Outbreak Investigation of E. coli: Frozen Blueberries (July 2026) fda.gov",
-      "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -251,20 +237,27 @@
       "title": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QMXhzcHRVa1RrN0s0NUZtdHJrQndFWjRUTElLVml5RWwyNDh3RUcxWkg0S2RqQXI0QVcwOWp4QUJobzdNVGRUTHJid0JVX09sUDhvMW1WMXFjaTZVeHo0STJFMElDTmlwSWY1aEQtWE92TTRxR092NFdKOA?oc=5",
       "description": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods Medical Xpress",
-      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
+      "pubDate": "Thu, 02 Jul 2026 00:40:04 GMT"
     },
     {
       "source": "UK Food Industry",
-      "title": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI - prnewswire.co.uk",
+      "title": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI - PR Newswire UK",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdVRCUkhzUHR0NTFtd1dTOUUxODE2MkJURGNIVGpkUkdSaE8yeTZvTHJSZENfUEFPUmx5Y01hNUZELW85SklCb0Z5UHRYd196d2IzR1RXWHdxVnE4aFAzZ0RvT3VNWFNiRG9CYXdfWmRDdF9WWkFwYXM4ZGNBQ1VVU3dYSUhmY2NlMTFSU1A2Tkh5ZHpGb2VrQThCZUJrem9mRnhkRGc4M002LWJNcjhOZVpjRW1ocGN0TUw4dFppd3p2OEs3ZnZMUTlUMVBGbXQ3ajRHdnhJOGpxWjZvRzVoUUJUU21lcEMxaXRWZU5RajQtYWp5MzVndVBmdzRyRDdSNTBpNEFxWU1EVVVsa3lSWk45OEQ1QmVtRWJOWVhYSFU5SHlnZzlURjkxT1BsQ1B0NTF3Vg?oc=5",
-      "description": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI prnewswire.co.uk",
+      "description": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI PR Newswire UK",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "Investigation Update: Listeria Outbreak, June 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "title": "Outbreak Investigation of Listeria monocytogenes: Soft Cheese (June 2026) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbDUwU3k3c0FIa0duaHZaSjJNSGNLN0lJd0M3T05TNHZsb1NDSHdNMVVnWkhvUldHRGFRQkdoSFItc2c0SVJyUTdqQzlhNXRWdUpIQmRUWmVtTTdidzlKMl9KZEtQOTFCODdzY3ZkeS1WYW50MzVTcUItSnlVbi02azhQLU1uaTE0M0hpU3NDc1ZzQkFOOFM5dzdFemdtdklKS0NKTHVzNWNiVXl6dEdLS0tCTVhBSDRXWHBNOQ?oc=5",
+      "description": "Outbreak Investigation of Listeria monocytogenes: Soft Cheese (June 2026) fda.gov",
+      "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Investigation Update: Listeria Outbreak, June 2026 - cdc.gov",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeURCSzJmTjhpWEttM0RXTC1fcmtWZHkxeGk5Q2lheTdneWhwMW1KaHYyamVLeWNnYVhROW1lcm1QMWFzZzZhdmtIcHhVTDFjekVkakhwcVpaMTgtOWFERE1QYUNFOUwwQUc2OW5ITldOVXRLRW5MbWluZ2Y0WXRtNA?oc=5",
-      "description": "Investigation Update: Listeria Outbreak, June 2026 Centers for Disease Control and Prevention | CDC (.gov)",
+      "description": "Investigation Update: Listeria Outbreak, June 2026 cdc.gov",
       "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
     },
     {
@@ -315,6 +308,13 @@
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTVFPakRRZlRhZG50MVZBdmVxdVZhVzlJRC1LNlBFOS1MNVI0SUhlT2FrUloxRkN5Qi1Bcm4yS0hFLUtDdnY5RC12dUY0TWoyQWh1eUlnSU5ZNmJMNmhSQlkyeU0yeHpGVDNZZE12MlI4TjZvNzZXR2RFN0htMFZlSkxFQmxqYnBEUG1VdUNpT3VMQ1pwUG1jel95SVltMkpVOW1wZDUwWTBkb2xZYmp5dlF5V3ZnV00tTzRubW9yTlhENDVpT1VCTW1rNDFhZURtR0Z5ZlBrOWNVenAxSFlyMmhGN3FkLVAzeWNCWVZYVzBKc2VaWTllemU3NA?oc=5",
       "description": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? PetfoodIndustry",
       "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "Salmonella: Lidl Ireland recalls chicken products over bacteria concerns - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CWjFEcVNqTGJGakV4YUVfWWNyWlF1d2MwWTB0bXNqZEV4MUZDMWpDbktqYkV2SjZMWmstbGx5YjQ4Y0xPN2wtQUkwbVVXUmp2bUpfYTk5XzlTZw?oc=5",
+      "description": "Salmonella: Lidl Ireland recalls chicken products over bacteria concerns BBC",
+      "pubDate": "Tue, 12 May 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Innovation & Research",
