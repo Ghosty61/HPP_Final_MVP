@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T04:37:32.092396+00:00",
+  "updated": "2026-08-21T06:46:25.345193+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -35,6 +35,13 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTHExSnNuMGY3ZXJBTlpwMUM1cm5RN2tKZExEM1lvRXBsT1JOWFFWV3pzM2ZFQjZMSmZabVYxci0tTTg1SDJpN0QxNmJPZEk3UnhVb25TZmwySG1sSEVDQzlSaXFxV3RYNUNVdWVOdVJRTmoxNzVlZGtpWEVPS2dLT1N4NGs2NHRFMEktUzZJN1ZQV2E0NWlqNEdBOFl1WndQcHpaVGlaWHA3cFdaN095WVZaMA?oc=5",
       "description": "Recalled Blueberries, Jalapenos, Lettuce: What to Know U.S. News & World Report",
       "pubDate": "Thu, 20 Aug 2026 18:03:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "New states connected to salmonella outbreak as infections climb: CDC - KTLA",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWNuMGh3bmYzVDQwUk96ZnlRNVU3WTNrV2ZvcmFtSmZmTWhEalFsbENmQi10b0h2Z0FlUXh6dkJQQnVxZWRnV0diQkRtVENEQWF6bmx2LVNIRUgwUEptZEY0cTFOdXdReHZtT2QzNkxMbjZlaUFPb0kyOHJqV0FEYXN6VGdpVWVOY2hTZHdBWjVuZmdB0gGaAUFVX3lxTE4yQTRnNnNncmZueC1fd2xuZjRnaEpETHJKRXBjbThwREcwWEhaaVRBdmJ1NV9BSkN2RGtvcjJRT2NGY0x3SUJJYTl2QW9pRnJRQ0tCaTNHVTdOWWpuVzRvdFZES2YtUVhIMUJlUF9rM0MtUWxGUkpDZjNkem42YW93WXY3dmpXa3ZIcU82U0M4aUxLZjRkSThrenc?oc=5",
+      "description": "New states connected to salmonella outbreak as infections climb: CDC KTLA",
+      "pubDate": "Thu, 20 Aug 2026 17:22:03 GMT"
     },
     {
       "source": "Food Safety News",
@@ -112,13 +119,6 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lM0Q3S3pJZEhlUE4xZHBEbVBVSXRuRTBXRzZTWFkzbU9PYzV6czEyR3JQc2d6S1hKMmdlUGZkX2NjWFV1NTFONlkyR3JrdlZLU2FXaHZ1NG5SS3l4cGcxWmxrRjh5MzJCRDE5WDZUSXNBV2s?oc=5",
       "description": "Are we seeing more food recalls these days? PIRG",
       "pubDate": "Mon, 17 Aug 2026 03:15:48 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Massive egg recall in US south and south-west due to salmonella outbreak - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMGdEMXVZNFFYajJxemE4Z1IxZWZ1OFJrQlBFY3d6cEVRZkg0ZFIyeTh0eW8wUEVlTGRqVkZQVVViajBkTVNCU3J6WEJFN2J0c1cxaHN4cS1lc3Z3dDhrX3NOWUlXZVRtRzl3ek5ZX0dvTE5Dbk5mSkFyblpiNENkY3hDWHg1N01namNCaDJueGZkNHJHb3JvdHJ3S21GeGxpTXNybg?oc=5",
-      "description": "Massive egg recall in US south and south-west due to salmonella outbreak The Guardian",
-      "pubDate": "Sat, 15 Aug 2026 21:25:00 GMT"
     },
     {
       "source": "EU HPP & Food Tech",
@@ -212,6 +212,13 @@
       "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT"
     },
     {
+      "source": "UK Food Industry",
+      "title": "Food Ingredients Market Size, Share | Growth Forecast [2034 - Fortune Business Insights",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rSkdQWE93bDdDc2ZENzA0a1Vud1BFbTctT0U3NjJZcWFRTThVN1J3U3ZrVzRQbTRwNVhfS2FveUc1TG56NlJSbFluaWt6bXNBdU5FRmxEejVpYlFLejBfZEhxUHZlcEM3emlNMXN4NVR0S3cycFkxY19B?oc=5",
+      "description": "Food Ingredients Market Size, Share | Growth Forecast [2034 Fortune Business Insights",
+      "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Dairy",
       "title": "Global Dairy Trade Sees Price Index Drop Amid High Milk Production - Dairy News Today",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQzFZbE9Ybk5FV0hjNld1THczaWhDNENESGdsZDBQN2pJZ2RDNjhLTHNOZkJrWTFLbm91SWxCRDhVckVvOWM2c1NxWlNpSnlXVm1HTUJaS0VoSzJpNnBuN1NpeGotaTY5c1FvcXgyT1JoMUtES2s5TzNoNldOMFZGSGFPYVFMVXVrZzdua3EyYURwMlR2MFI4dUE2WE02eTB0T09qWXRqN1BEWXdN?oc=5",
@@ -244,6 +251,13 @@
       "title": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI - PR Newswire UK",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdVRCUkhzUHR0NTFtd1dTOUUxODE2MkJURGNIVGpkUkdSaE8yeTZvTHJSZENfUEFPUmx5Y01hNUZELW85SklCb0Z5UHRYd196d2IzR1RXWHdxVnE4aFAzZ0RvT3VNWFNiRG9CYXdfWmRDdF9WWkFwYXM4ZGNBQ1VVU3dYSUhmY2NlMTFSU1A2Tkh5ZHpGb2VrQThCZUJrem9mRnhkRGc4M002LWJNcjhOZVpjRW1ocGN0TUw4dFppd3p2OEs3ZnZMUTlUMVBGbXQ3ajRHdnhJOGpxWjZvRzVoUUJUU21lcEMxaXRWZU5RajQtYWp5MzVndVBmdzRyRDdSNTBpNEFxWU1EVVVsa3lSWk45OEQ1QmVtRWJOWVhYSFU5SHlnZzlURjkxT1BsQ1B0NTF3Vg?oc=5",
       "description": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI PR Newswire UK",
+      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Europe Food and Beverages Market Size and Analysis, 2034 - Market Data Forecast",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFRiSl9GOVdlZHlfalNxOHk1V25kTkhPV20wU3JpbjNrLXV1VmljMjZfR0dNbEV2b3V2NjZpaDZaM3ZKYTZvazBiV3dDSkY2eWl5eWRrVUE0Z09BV2Y0bzdxLXdaeUgzN2lyTFlFLXNoVXRHQ0xsamN4S0pZeFRUSVV6c1otRzZWYlE?oc=5",
+      "description": "Europe Food and Beverages Market Size and Analysis, 2034 Market Data Forecast",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
@@ -336,20 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOU9aRGVVRE9vRUdqRjJQYWYzQzNMclk1M2xVUDh1amZMaS0tZHp3dm9JNXNhaE51QVRCbzd2YVRVd19JQjZWS1RfcDh2MlBOUzgtVVM1UEw2VmVQSUwxR1otUkFUYnRhTnpwcV84THN4VjdFMUwyZzB5b29RRXV1Zm9YZU9pUldrWUcwVW84MDd2YW1OM25RbFJQSFVWNWVsSVNEWkdITTRsamV5aDd1dGNTT3lyMV80ZTEycndGXzBacGRRYk93cnZCWUlBZw?oc=5",
       "description": "From science to market: OSU Ag Research advances understanding of dark-cutting beef news.okstate.edu",
       "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Equipment & Machines",
-      "title": "High Pressure Processing Equipment Market - Future Market Insights",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNalZHdWJ4am9CS1FBbW8xSEUwMFIySTJVTkhNQ1RNTDJqT3M5dTVQTC12N1dvbkZMMEY1eFprZmZaQ01jel9fd2VjX3g3M3V3NnNyb19GY2VWNU9jY0Y4eXdNVTljQm9yaWtyYVlSNFFYaXNJeGJTUk14UDVyRVVXelh3?oc=5",
-      "description": "High Pressure Processing Equipment Market Future Market Insights",
-      "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Healthcare & Medical",
-      "title": "Universal Pure Data Breach Exposes Sensitive Personal Information - Claim Depot",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iczUzZHNzYTlQUmF6azdNd184N3RrQi15Z0NQZUVBOGZsWEFDT0U1RkpPRURQY18yM1FrenF2STA4TjFyMzIzc0tUSVJWN1dJMHN1R3ZuMDYyZWhyRjJrSlVVSi1fVFoxamc?oc=5",
-      "description": "Universal Pure Data Breach Exposes Sensitive Personal Information Claim Depot",
-      "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
     }
   ]
 }
