@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-21T12:46:50.444775+00:00",
+  "updated": "2026-08-21T14:34:31.880443+00:00",
   "articles": [
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Salmonella, Cyclospora Outbreaks: What's Safe to Eat? - Healthline",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jQ2dEQWhxUk1NSVg2V1IxcHYySEF0dUJTdjE3VHpMdW1YRHBrdnZJNFowS2tlLU9NNzFWa2xLOGp1TmlwaEpCRV9xSEUtRThrSVhVOHg4SlQ3UGo2WXN3TGdsakt3VUtZQm5uNzA2U1g5b0VzTkxtbGEyeDY?oc=5",
+      "description": "Salmonella, Cyclospora Outbreaks: What's Safe to Eat? Healthline",
+      "pubDate": "Fri, 21 Aug 2026 13:54:44 GMT"
+    },
     {
       "source": "HPP Soups & Meals",
       "title": "Cook This: 3 Ghanaian recipes from Eat with Afia, including peanut soup - National Post",
@@ -35,13 +42,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU1REYUFGWjd2S3ZQWEJWcE00dFNDM2xOSlQzbnNzb01HbUJ5VV8wT2dPWDh6MlRsTmZMbEhzQkhiZ1JkMG1uamQtWktHMDN0WjlqWjVzUm1jd0lyUWxPd1VrVVZNZWt6dXpZYmZFZTNkLTlTTkJZeTlvVzI2SVNFSzY3RUQ4Sk5sODZNaV8xTmtla3pOMWhhNG9VYUdtRExDWkk3RU1HMXptYUhzWUpDYg?oc=5",
       "description": "Hiperbaric and Oklahoma State University to Host HPP Protein Workshop Quality Assurance & Food Safety",
       "pubDate": "Thu, 20 Aug 2026 19:45:24 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Recalled Blueberries, Jalapenos, Lettuce: What to Know - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTHExSnNuMGY3ZXJBTlpwMUM1cm5RN2tKZExEM1lvRXBsT1JOWFFWV3pzM2ZFQjZMSmZabVYxci0tTTg1SDJpN0QxNmJPZEk3UnhVb25TZmwySG1sSEVDQzlSaXFxV3RYNUNVdWVOdVJRTmoxNzVlZGtpWEVPS2dLT1N4NGs2NHRFMEktUzZJN1ZQV2E0NWlqNEdBOFl1WndQcHpaVGlaWHA3cFdaN095WVZaMA?oc=5",
-      "description": "Recalled Blueberries, Jalapenos, Lettuce: What to Know U.S. News & World Report",
-      "pubDate": "Thu, 20 Aug 2026 18:03:00 GMT"
     },
     {
       "source": "Food Safety News",
@@ -100,18 +100,18 @@
       "pubDate": "Wed, 19 Aug 2026 01:30:00 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "Investigations of Foodborne Illness Outbreaks - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk9CZUFHZmRHM3p1V1VfczVQOGxOVU5VSjllbF9tSzFyZDZqVXpfOVdTMnNVZk9VZjRVTDlRN3pvbjZZTER0bG5CY2h0Q0F6SldIMDl0WXNmanBtSGthVjQxMU5NZHNibkNLMXBqRnVsOWk4andKSkdrWUM4eUYzaFVzdGI5OFFXRGE5NWJTTFJja2cxaEJaN3doZw?oc=5",
+      "description": "Investigations of Foodborne Illness Outbreaks fda.gov",
+      "pubDate": "Wed, 19 Aug 2026 00:00:00 GMT"
+    },
+    {
       "source": "Food Safety UK & EU",
       "title": "One dead and hundreds ill in UK salmonella outbreak - BBC",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IWDFtN2h2RkxmOW9pX2RLQXhpWEM0dDE4X3Nzb0hvbzItSld5a1luUHJzVDZ5RHl5blUtVzZNQXd0dmxGMGY0bWxSREdQX0J1dHNoY3NWczktWlNw?oc=5",
       "description": "One dead and hundreds ill in UK salmonella outbreak BBC",
       "pubDate": "Tue, 18 Aug 2026 11:47:21 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "H-E-B recalls more jalapeño products, pulls items from shelves amid salmonella outbreak - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUG42UGNKUFgwaHBibjJFRm95LWVaSWdmVWg3S3otcHJySlVHbWszakVVZmNIb1YtWWxtN2dHeU5tV0ZuWlFZOGZmSjA1T3RrTjJ2YWtWdURLeFBXamNad1RSWURHWjlteElDOU8yR2JkLTlyNU41WWk4S0wwVUtTcnZHTVNueDBiUmg2TlJ5RzlORHVHOW5obGY0ZDd0ZFhfUmFkU3ZZNnlPMTZiRDMwMHZOcVZNYnc1azFVR01xZFNNN25MRDZoRkxnSS03MjNpVlpYeDBzRm5TQnhxUjhsZnRLcGlUWW0tNlFhTkNCZW55X2o3QzZzNkpCNNIBgwJBVV95cUxQbFBqVzNMbmNkc01BLS1VbU1WZkJxbnlqWUMtSTFzcTRfekpkTmFYYTZFeXp0dmxpZGRJaHh5TVhOREtCcEdKTlJvLVkzMTFTMi1BSWlfM2VLajJHQmgxV2xFeER3TkNMbWR2RTN5MGk1WWZVczk2Q2NfY1oxUjVxbFRib0l0aDlKN1JKbXpnQ2Q0SXdkemNYNXpWeEhMX3JqRnNzbWZPM09kcEV0SVhwV1gwTUpBZkFMc05SM2thVEJLRkFxZXVoYmYwU2hnOU5PRFRSblNUVWxNNXgzQmdQZGpuemtfS1M1WEJzS29IRmZ4SGJyb3hacWRaa0Q3bjRDeS1n?oc=5",
-      "description": "H-E-B recalls more jalapeño products, pulls items from shelves amid salmonella outbreak Houston Public Media",
-      "pubDate": "Mon, 17 Aug 2026 19:55:54 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -269,13 +269,6 @@
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "Outbreak Investigation of Listeria monocytogenes: Soft Cheese (June 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbDUwU3k3c0FIa0duaHZaSjJNSGNLN0lJd0M3T05TNHZsb1NDSHdNMVVnWkhvUldHRGFRQkdoSFItc2c0SVJyUTdqQzlhNXRWdUpIQmRUWmVtTTdidzlKMl9KZEtQOTFCODdzY3ZkeS1WYW50MzVTcUItSnlVbi02azhQLU1uaTE0M0hpU3NDc1ZzQkFOOFM5dzdFemdtdklKS0NKTHVzNWNiVXl6dEdLS0tCTVhBSDRXWHBNOQ?oc=5",
-      "description": "Outbreak Investigation of Listeria monocytogenes: Soft Cheese (June 2026) fda.gov",
-      "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
       "title": "Investigation Update: Listeria Outbreak, June 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeURCSzJmTjhpWEttM0RXTC1fcmtWZHkxeGk5Q2lheTdneWhwMW1KaHYyamVLeWNnYVhROW1lcm1QMWFzZzZhdmtIcHhVTDFjekVkakhwcVpaMTgtOWFERE1QYUNFOUwwQUc2OW5ITldOVXRLRW5MbWluZ2Y0WXRtNA?oc=5",
       "description": "Investigation Update: Listeria Outbreak, June 2026 Centers for Disease Control and Prevention | CDC (.gov)",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CWjFEcVNqTGJGakV4YUVfWWNyWlF1d2MwWTB0bXNqZEV4MUZDMWpDbktqYkV2SjZMWmstbGx5YjQ4Y0xPN2wtQUkwbVVXUmp2bUpfYTk5XzlTZw?oc=5",
       "description": "Salmonella: Lidl Ireland recalls chicken products over bacteria concerns BBC",
       "pubDate": "Tue, 12 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Innovation & Research",
+      "title": "From science to market: OSU Ag Research advances understanding of dark-cutting beef - news.okstate.edu",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOU9aRGVVRE9vRUdqRjJQYWYzQzNMclk1M2xVUDh1amZMaS0tZHp3dm9JNXNhaE51QVRCbzd2YVRVd19JQjZWS1RfcDh2MlBOUzgtVVM1UEw2VmVQSUwxR1otUkFUYnRhTnpwcV84THN4VjdFMUwyZzB5b29RRXV1Zm9YZU9pUldrWUcwVW84MDd2YW1OM25RbFJQSFVWNWVsSVNEWkdITTRsamV5aDd1dGNTT3lyMV80ZTEycndGXzBacGRRYk93cnZCWUlBZw?oc=5",
+      "description": "From science to market: OSU Ag Research advances understanding of dark-cutting beef news.okstate.edu",
+      "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
     }
   ]
 }
