@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T06:39:04.015012+00:00",
+  "updated": "2026-08-22T08:29:22.195440+00:00",
   "articles": [
     {
       "source": "Salmonella Outbreaks",
@@ -35,6 +35,13 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbGdWdWdnZ0VhZ2lmc3g2aUh5X3h0VzN6VXFEazZFRDY0ZG9CTnE3dkc0dXJ1RTZOQ0d1amdMV1FhTTcxZklybjYyMUtBRFMtSEVQd3IwcFpaNEgxN3p4NXVReTRpVktnaTdfQ0xUTi1heDg5LWllRi1iLU5DZUpGWnU0UXZRVU1sMHVqVzZ3XzdwakJWVmpSb0xscWhmUmdLdjZFd1o4TElobHVka1E?oc=5",
       "description": "Alfalfa sprouts recalled for E. coli and salmonella after dozens of illnesses NBC News",
       "pubDate": "Fri, 21 Aug 2026 20:05:15 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Video Deadly pasta recall linked to listeria outbreak - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBOd1dITHg0X3pqUmxXY3BCQm5FUjFRZlhCb0JUZmtoSm9qUWFuM1RILV9Uc3FubHEyZUFJX0IxX0xJTm5kSEdUbDQ0emk?oc=5",
+      "description": "Video Deadly pasta recall linked to listeria outbreak ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Fri, 21 Aug 2026 18:44:54 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -142,13 +149,6 @@
       "pubDate": "Mon, 17 Aug 2026 05:14:26 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "Food recalls in 2026: What the data shows so far - KCRA",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKME5welk1dTFEYUpmRVFUQlkyZzJNdzF2dGgwbUxOanpySmhyaGcybmx6U0t5V0RWWVZWaUJUYURBRTB3VnJkSTVIMFpScFhnUlBxTGJKUkp4dXZDYXRpZ0lwUy0wSDk4R2luWUdOV3I5Nk5IRm5J?oc=5",
-      "description": "Food recalls in 2026: What the data shows so far KCRA",
-      "pubDate": "Fri, 14 Aug 2026 12:58:00 GMT"
-    },
-    {
       "source": "Hiperbaric",
       "title": "HPP Protein Workshop on Listeria Control and Dark-Cutting Beef Recovery Hosted by Hiperbaric and Oklahoma State University - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVTVzZWhFdUZxY1JtWnpxU2NMampwVTNSUUtTZ0FhNUl6VzZDeWxSNi1WellDU2RxcFdyWUNvajY3a0tiZHVQeE1nXzdkXzZfY185LTlDSXUtcW5pRkdtWGFRc2Mwd1UyYXIxYmxZYXpXLXBvN2xoZDhNUUUwdEp5YWdRTU45ZDl6dDRKMWNlWTVyTjlPZWotaHB0VnJ6QjlnZEZ3dFdpWVlhbjJKc0NIQUR6RnpwY2Q4LXMzT3hLWWttTWJsNUZJeS0zeWtrd0FXalVrcF8xT1ZwLU5jVzJ6bkJvbGtLWV91WWp0UUlnVmp5RWtqNHZPRVBfclpNQmV1eXZ0clF4RnZyZw?oc=5",
@@ -217,13 +217,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEYwb0FKSE1PSTZtQ1IwTHB1ZHBIbzhSc1piZnR6VTRpODRIaDRUaUx1cGZEVldYT0FjSkdEQ0tpNWVITDZ2eXl5TC1IOFM0V0Qwd0ZLaG9RSlp0WXI5V3NEV0pCYTg5RHFIb0NjOWVmcFVxU0ZILVhHdS10cWVtTk5qTVNfcVk?oc=5",
       "description": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 Fortune Business Insights",
       "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Seafood",
-      "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
-      "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
-      "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc2swRjZ3SHE2NDk4djRnUUdEOXhvb2hQYjlwTC11bUFJcjdEUXVBbFB5eW5Tb00yUmZYQVNFdmduWndOZnZrX1pNcjYwNmdRSXQwQlFzYzBoRzk0UlFjYl9GZHlYcU9iZElTSWxEQWE1cjI1TktzNDY2cHdYd0dDbXVERQ?oc=5",
       "description": "Europe Healthy Food Market Size, Share & Growth Report 2035 | MRFR Market Research Future",
       "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Seafood",
+      "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
+      "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
+      "pubDate": "Mon, 30 Mar 2026 20:20:32 GMT"
     }
   ]
 }
