@@ -1,11 +1,18 @@
 {
-  "updated": "2026-08-22T22:21:06.257753+00:00",
+  "updated": "2026-08-23T01:19:30.325793+00:00",
   "articles": [
     {
+      "source": "Food Safety News",
+      "title": "Sprout company recalls products linked to 15-state outbreak",
+      "link": "https://www.foodsafetynews.com/2026/08/sprout-company-recalls-products-linked-to-15-state-outbreak/",
+      "description": "Everything Sprouts LLC of Minneapolis, MN, is recalling three varieties of alfalfa sprouts products because they have been linked to a 15-state outbreak of Shiga toxin producing E. coli (STEC) and/or Salmonella. The recalled products were distributed by Everything Sprouts from May 27 to Aug. 21 to wholesale",
+      "pubDate": "Sun, 23 Aug 2026 01:12:20 GMT"
+    },
+    {
       "source": "Salmonella Outbreaks",
-      "title": "E. coli and Salmonella outbreak linked to alfalfa sprouts triggers recall - WILX",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTmU0cUdSZmNjZ2ZVZ2NGdzRjaEVKN3FUWXliUEdjTjhPcnBNM3FrMld0QUFzbEFkeUM4eUNxQktuY0lxd19jOFBuYkh2VFBUVkV6Q3NDUnFPOXZTVUR4OXhKX0gzWURuMEFSRWFlSzhDYjNud19HNWJTb2R1TFFHRzg4NFlqZlMwaTItMEFaVW1ZN2xCbVZpaGpNY293VXfSAbMBQVVfeXFMT1p2UWhTelN2Tm53MUtaTzR5R2xMSkpIYU45TUxUeEJHem1mOTRweGtzTkF1X1gyUmpiS3BudGFtYXhLTmhfQlZuLUdscHVtc3k5dWo3SzBaYUZfWTN0S2d0OXVFMHBHb3FEOFhMVzVtY2VCUGlSNFZmNE1sQUFzdFJHeFN6MnUwVnJ5ZGI0c2Y5X0RoamFkQzJUcWVUeTgybkJzb0pNSThRZERLWEZXdlU0aWM?oc=5",
-      "description": "E. coli and Salmonella outbreak linked to alfalfa sprouts triggers recall WILX",
+      "title": "E. coli and Salmonella outbreak linked to alfalfa sprouts triggers recall - WIS News 10",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWUVKTHcxZ3NJejhGRWYzWmpaQnlrQkhFN0ZNWS1CUnM3aU5YaTE2RTlDdjRXbHd0WTVtdFQyclFDZWVSYkxxU3ZReENMcVAwcnJMQVNSZnhKdjBIV0thTGNWQzVlSHdtX2g2aFRoRTVWalF4N05JS0NUZkRELTgwN1NreHRZek5IS3NzRWpvTnRJbmh6R3pRZjdFOUF4NVpq0gG0AUFVX3lxTE5VeTNPUzNFWGs1QmZWWmFSZEc3Wm9JOEVON1MteVl5T1BnLTRYazRPNE9rdUdfMEVubVplV0JlUGlvVjNjTTNLZU1WdlBEQ1JwUnZyS0lRbGhJaEpzN3hZRnBoalZQOHhDWTU0Wm9EMlphaWVrVTQ1dEVDUWYyamJRVVJfX2ZqTzJudWItQ1hqYlJQR0h4Q2kxc016M3MwY3BkZzFMV194dzhLcGdlRlpaOXowMA?oc=5",
+      "description": "E. coli and Salmonella outbreak linked to alfalfa sprouts triggers recall WIS News 10",
       "pubDate": "Sat, 22 Aug 2026 16:47:00 GMT"
     },
     {
@@ -58,13 +65,6 @@
       "pubDate": "Sat, 22 Aug 2026 00:20:09 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Alfalfa sprouts recalled after E. coli, salmonella outbreak sickens dozens in 15 states - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPanB6S0RWZUVORC1TSUc4TUFVNGNTSWZYNFhIZ0V6SUhrbWVIOWdXeWgxMHAwSDZqVno0eERjYlAyZXVCaEM0c3hHZkxVVmpOQ2llZnFpV2s3ODRRQlJJNU8zSGRNUWVYY3FydFdYSTJkZmdOTWZwWk56SEpLRXdwRE96VWZHUQ?oc=5",
-      "description": "Alfalfa sprouts recalled after E. coli, salmonella outbreak sickens dozens in 15 states CBS News",
-      "pubDate": "Fri, 21 Aug 2026 22:56:29 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "Video Deadly pasta recall linked to listeria outbreak - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBOd1dITHg0X3pqUmxXY3BCQm5FUjFRZlhCb0JUZmtoSm9qUWFuM1RILV9Uc3FubHEyZUFJX0IxX0xJTm5kSEdUbDQ0emk?oc=5",
@@ -93,18 +93,18 @@
       "pubDate": "Thu, 20 Aug 2026 22:04:57 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "Recall roundup: The products tied to a multistate salmonella outbreak - KCRA",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd1ZhWE1YeDU5TEFVMkFHVHRSZ1M2bTBrc28yRUhMU0p3WGdvaDVrNlFKbFVpdHltUXdYdENsTkZFZUhIR0tLTkFfOUVnSDNCcU5KRXl1bVZEUEluSk43c2lCUkhQdWxnUFRrRXZyOXRTSVJaSnZhUElQVXRWOXFMb0VR?oc=5",
+      "description": "Recall roundup: The products tied to a multistate salmonella outbreak KCRA",
+      "pubDate": "Thu, 20 Aug 2026 20:21:00 GMT"
+    },
+    {
       "source": "Hiperbaric",
       "title": "Hiperbaric and Oklahoma State University to Host HPP Protein Workshop - Quality Assurance & Food Safety",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU1REYUFGWjd2S3ZQWEJWcE00dFNDM2xOSlQzbnNzb01HbUJ5VV8wT2dPWDh6MlRsTmZMbEhzQkhiZ1JkMG1uamQtWktHMDN0WjlqWjVzUm1jd0lyUWxPd1VrVVZNZWt6dXpZYmZFZTNkLTlTTkJZeTlvVzI2SVNFSzY3RUQ4Sk5sODZNaV8xTmtla3pOMWhhNG9VYUdtRExDWkk3RU1HMXptYUhzWUpDYg?oc=5",
       "description": "Hiperbaric and Oklahoma State University to Host HPP Protein Workshop Quality Assurance & Food Safety",
       "pubDate": "Thu, 20 Aug 2026 19:45:24 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Jalapeño Salmonella outbreak grows to 431 sick in 32 states; illnesses ran into August and the grower is still unnamed",
-      "link": "https://www.foodsafetynews.com/2026/08/jalapeno-salmonella-outbreak-grows-to-431-sick-in-32-states-illnesses-ran-into-august-and-the-grower-is-still-unnamed/",
-      "description": "CDC lists the investigation status as open and FDA lists it as ongoing. Case counts and recall lists in this report reflect the federal record as of Aug. 20, 2026.",
-      "pubDate": "Thu, 20 Aug 2026 16:18:37 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -147,13 +147,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IWDFtN2h2RkxmOW9pX2RLQXhpWEM0dDE4X3Nzb0hvbzItSld5a1luUHJzVDZ5RHl5blUtVzZNQXd0dmxGMGY0bWxSREdQX0J1dHNoY3NWczktWlNw?oc=5",
       "description": "One dead and hundreds ill in UK salmonella outbreak BBC",
       "pubDate": "Tue, 18 Aug 2026 11:47:21 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Are we seeing more food recalls these days? - PIRG",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lM0Q3S3pJZEhlUE4xZHBEbVBVSXRuRTBXRzZTWFkzbU9PYzV6czEyR3JQc2d6S1hKMmdlUGZkX2NjWFV1NTFONlkyR3JrdlZLU2FXaHZ1NG5SS3l4cGcxWmxrRjh5MzJCRDE5WDZUSXNBV2s?oc=5",
-      "description": "Are we seeing more food recalls these days? PIRG",
-      "pubDate": "Mon, 17 Aug 2026 05:14:26 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -233,18 +226,18 @@
       "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Seafood",
-      "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
-      "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
-      "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Healthcare & Medical",
       "title": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QMXhzcHRVa1RrN0s0NUZtdHJrQndFWjRUTElLVml5RWwyNDh3RUcxWkg0S2RqQXI0QVcwOWp4QUJobzdNVGRUTHJid0JVX09sUDhvMW1WMXFjaTZVeHo0STJFMElDTmlwSWY1aEQtWE92TTRxR092NFdKOA?oc=5",
       "description": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods Medical Xpress",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Outbreak Investigation of Listeria monocytogenes: Soft Cheese (June 2026) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbDUwU3k3c0FIa0duaHZaSjJNSGNLN0lJd0M3T05TNHZsb1NDSHdNMVVnWkhvUldHRGFRQkdoSFItc2c0SVJyUTdqQzlhNXRWdUpIQmRUWmVtTTdidzlKMl9KZEtQOTFCODdzY3ZkeS1WYW50MzVTcUItSnlVbi02azhQLU1uaTE0M0hpU3NDc1ZzQkFOOFM5dzdFemdtdklKS0NKTHVzNWNiVXl6dEdLS0tCTVhBSDRXWHBNOQ?oc=5",
+      "description": "Outbreak Investigation of Listeria monocytogenes: Soft Cheese (June 2026) fda.gov",
+      "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -321,6 +314,13 @@
       "title": "High Pressure Processing Equipment Market - Future Market Insights",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNalZHdWJ4am9CS1FBbW8xSEUwMFIySTJVTkhNQ1RNTDJqT3M5dTVQTC12N1dvbkZMMEY1eFprZmZaQ01jel9fd2VjX3g3M3V3NnNyb19GY2VWNU9jY0Y4eXdNVTljQm9yaWtyYVlSNFFYaXNJeGJTUk14UDVyRVVXelh3?oc=5",
       "description": "High Pressure Processing Equipment Market Future Market Insights",
+      "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Cosmetics & Beauty",
+      "title": "FIU researchers reveal new findings on utilizing sargassum as a potential food source - WSVN",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmx1R1IteWZodWRGNk85ajZrVVM5dUQtWkNWTnYxZV9sOVcyd2ZMRkxLYVJhNVhEY2t1MnlHbmx3a3N0YVJuVnV1em80Z0Z3UXA4NFhBZXQza1c3cnV5QTVIWWtBWGNfUTlLbjJXS2cwV3NwaVd0bnpxbmg5aVY1YWFRSHFOMExtT1VERVdPXzdhQTZGMFoweFZXc2VKaFhNQzF2NXc5eW1JVHlJaVh2dnBUX29qVEJOVHY4YkNB?oc=5",
+      "description": "FIU researchers reveal new findings on utilizing sargassum as a potential food source WSVN",
       "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
     },
     {
