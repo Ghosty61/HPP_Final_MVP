@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T06:40:00.381130+00:00",
+  "updated": "2026-08-23T08:29:54.516264+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -37,13 +37,6 @@
       "pubDate": "Sat, 22 Aug 2026 11:46:57 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Salmonella outbreak linked to fresh jalapeños prompts recalls across Texas - Tyler Morning Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcS1aeEJfMWIwTl9SX1h0R3hoN0JqMENBTGFQSFRtclpfX05sNDI5bWJMaVVLSGtxWGdUUThfNVBWSXlENEVlRVJJZHFEbXNiSEFxclZxa0VOaGtGcmpvZkU3YnNXRkRwTVd5ZmxSRVJ5XzYxMGVPS0s4M0pPSzEtem9MR1ZQSmFPTF9vZTlDZHNROGtsbmxFaTJWaGstZTZhUmkxX05DS0phOGlWSmc?oc=5",
-      "description": "Salmonella outbreak linked to fresh jalapeños prompts recalls across Texas Tyler Morning Telegraph",
-      "pubDate": "Sat, 22 Aug 2026 09:55:56 GMT"
-    },
-    {
       "source": "Food Safety News",
       "title": "Patient count for parasite outbreak linked to lettuce tops 10,000",
       "link": "https://www.foodsafetynews.com/2026/08/patient-count-for-parasite-outbreak-linked-to-lettuce-tops-10-000/",
@@ -56,6 +49,13 @@
       "link": "https://www.foodsafetynews.com/2026/08/sprouts-outbreak-grows-to-55-patients-in-15-states-company-declines-to-issue-recall/",
       "description": "The CDC has reported that the number of people infected in an outbreak of Salmonella and E. coli infections linked to alfalfa sprouts has grown to almost 60. And, 15 states coast to coast are now involved. The outbreak was first reported by public health officials in Minnesota and Wisconsin",
       "pubDate": "Sat, 22 Aug 2026 00:20:09 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Alfalfa sprouts recalled after E. coli, salmonella outbreak sickens dozens in 15 states - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPanB6S0RWZUVORC1TSUc4TUFVNGNTSWZYNFhIZ0V6SUhrbWVIOWdXeWgxMHAwSDZqVno0eERjYlAyZXVCaEM0c3hHZkxVVmpOQ2llZnFpV2s3ODRRQlJJNU8zSGRNUWVYY3FydFdYSTJkZmdOTWZwWk56SEpLRXdwRE96VWZHUQ?oc=5",
+      "description": "Alfalfa sprouts recalled after E. coli, salmonella outbreak sickens dozens in 15 states CBS News",
+      "pubDate": "Fri, 21 Aug 2026 22:56:29 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -150,6 +150,13 @@
     },
     {
       "source": "Listeria Outbreaks",
+      "title": "Are we seeing more food recalls these days? - PIRG",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lM0Q3S3pJZEhlUE4xZHBEbVBVSXRuRTBXRzZTWFkzbU9PYzV6czEyR3JQc2d6S1hKMmdlUGZkX2NjWFV1NTFONlkyR3JrdlZLU2FXaHZ1NG5SS3l4cGcxWmxrRjh5MzJCRDE5WDZUSXNBV2s?oc=5",
+      "description": "Are we seeing more food recalls these days? PIRG",
+      "pubDate": "Mon, 17 Aug 2026 05:14:26 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
       "title": "Food recalls in 2026: What the data shows so far - KCRA",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKME5welk1dTFEYUpmRVFUQlkyZzJNdzF2dGgwbUxOanpySmhyaGcybmx6U0t5V0RWWVZWaUJUYURBRTB3VnJkSTVIMFpScFhnUlBxTGJKUkp4dXZDYXRpZ0lwUy0wSDk4R2luWUdOV3I5Nk5IRm5J?oc=5",
       "description": "Food recalls in 2026: What the data shows so far KCRA",
@@ -182,13 +189,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZW5qcFR5dlFYalhUSHhOMkJsaFlCTEwxNFFhbU5jVUVqTk9uLTNxTjVPdjFXV0MzclFjakVhSnl0c1hDWTJHaVMyVUNZTWY3WGhaVWEtcEFrWHFHelZUZ0E4dXZTVXN4bXp2YXJWc1lSZXZTMmgyQWVtQTluN3NFOThLV3FJdWRyLWVqYmYwWXc2TFhaeEt4MnJsWEY3X2JFalpRQ0FWLU10OHpoM0E?oc=5",
       "description": "Deli 24 boosts reliability with oil-free compressed air upgrade Machinery Market",
       "pubDate": "Sat, 08 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "There Are 11 Active FDA Foodborne Outbreak Investigations — Should You Be Concerned? - Food & Wine",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtX3NybUxqVWFQV1N0RWlEVVFfMmlyUUZSTGtucWRCX1ZCQzdROGJlWk5TR0FOYkE3OEN3V2N3SG1JdzZqWGUxcHZKdGpHQlpSYklaLVZ3RzUyb2JsZkYxbGFtSDRyZHdpanB0clFfeG05OERYX3FqeGFWLVFmV2c?oc=5",
-      "description": "There Are 11 Active FDA Foodborne Outbreak Investigations — Should You Be Concerned? Food & Wine",
-      "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Equipment & Machines",
@@ -226,11 +226,11 @@
       "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Seafood",
-      "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
-      "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
-      "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
+      "source": "HPP Dairy",
+      "title": "Maharashtra FDA tightens milk safety rules - Dairy Business Middle East & Africa",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWTRyNDdYb00yNHlja1ZhZDQ2NFBabzVxeU84TTZwdmkzQ0hNY0preTV5V1J6WVgzWmtxLUUway15MG5XSXFLS0ZmZjctMkxQNkJ6bWpqYVJoX3BFTWRFQ09HRlJnRWlUZnlEM2RuVkxHQkJjTjlIRTZLNGkzNzFSaHpadF9DbDVpLXZR?oc=5",
+      "description": "Maharashtra FDA tightens milk safety rules Dairy Business Middle East & Africa",
+      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -324,6 +324,13 @@
       "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
     },
     {
+      "source": "HPP Cosmetics & Beauty",
+      "title": "FIU researchers reveal new findings on utilizing sargassum as a potential food source - WSVN",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmx1R1IteWZodWRGNk85ajZrVVM5dUQtWkNWTnYxZV9sOVcyd2ZMRkxLYVJhNVhEY2t1MnlHbmx3a3N0YVJuVnV1em80Z0Z3UXA4NFhBZXQza1c3cnV5QTVIWWtBWGNfUTlLbjJXS2cwV3NwaVd0bnpxbmg5aVY1YWFRSHFOMExtT1VERVdPXzdhQTZGMFoweFZXc2VKaFhNQzF2NXc5eW1JVHlJaVh2dnBUX29qVEJOVHY4YkNB?oc=5",
+      "description": "FIU researchers reveal new findings on utilizing sargassum as a potential food source WSVN",
+      "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Healthcare & Medical",
       "title": "Universal Pure Data Breach Exposes Sensitive Personal Information - Claim Depot",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iczUzZHNzYTlQUmF6azdNd184N3RrQi15Z0NQZUVBOGZsWEFDT0U1RkpPRURQY18yM1FrenF2STA4TjFyMzIzc0tUSVJWN1dJMHN1R3ZuMDYyZWhyRjJrSlVVSi1fVFoxamc?oc=5",
@@ -343,13 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
       "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
       "pubDate": "Mon, 30 Mar 2026 20:20:32 GMT"
-    },
-    {
-      "source": "Hiperbaric",
-      "title": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria - Fuel Cells Works",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMWpFYUZveHVvay1yVVNMNWZxN0NDcnhEdnBvVDdueFBuZWhRVkticVM5andBeGtkc1ZBYzlBcmFGY0xHWGIzaF9UZVV5NUxsNjZ1ZkhHRV9TSk9fbzd0R1E2YXJCM2dMMWMtZmp5ZWxyb1FWRTRKWkV1WDN3WXlZeEg4TmwzUnc0ZDcxeWtWWDZuZ3NEOFJyZS1KNnJqdjFpOTZjVFlCNU8wcWpKdjNYM18yeDgzUUl4Qjl2MUVHUW8xc0Jzd2ZNZWxsNkwtYzExN04xTXktNUxaV05kcFdfMjVqTDNGZEhkaEFEMzJBaWFoam9zZjJ4LQ?oc=5",
-      "description": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria Fuel Cells Works",
-      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT"
     }
   ]
 }
