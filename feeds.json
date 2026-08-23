@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T12:38:53.772624+00:00",
+  "updated": "2026-08-23T14:22:48.080705+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -101,9 +101,9 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Recall roundup: The products tied to a multistate salmonella outbreak - KCRA",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd1ZhWE1YeDU5TEFVMkFHVHRSZ1M2bTBrc28yRUhMU0p3WGdvaDVrNlFKbFVpdHltUXdYdENsTkZFZUhIR0tLTkFfOUVnSDNCcU5KRXl1bVZEUEluSk43c2lCUkhQdWxnUFRrRXZyOXRTSVJaSnZhUElQVXRWOXFMb0VR?oc=5",
-      "description": "Recall roundup: The products tied to a multistate salmonella outbreak KCRA",
+      "title": "Recall roundup: The products tied to a multistate salmonella outbreak - WMTW",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ2ZpSHNpM2V0b1FJQWp3VGpGM0JhdXJiRnk0Umx3RUluRXoxbUktYmpiWUNjSUVxQkVFTzhiRDRJYThwdjQzLUJsRGtfWGNDYWFsZGN6YXp4VTNzLWtzRUtxb29qWk16ak10YkdqTV9wdzBnMHJyalQ3VWxoZHRWQm9R?oc=5",
+      "description": "Recall roundup: The products tied to a multistate salmonella outbreak WMTW",
       "pubDate": "Thu, 20 Aug 2026 20:21:00 GMT"
     },
     {
@@ -233,6 +233,13 @@
       "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT"
     },
     {
+      "source": "HPP Innovation & Research",
+      "title": "Investing in Food Safety is Investing in the Future of Food - Food Safety Magazine",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEpNajduOEpKZHpXM3lTSXBpenBudENhVWhRZVNFX1lOOTluUFBoV0VYbDdfakNlWDlod2hxYkY5ZE9heWw5T2VESXBQelpyOTB1V3lma2lUakhvcWxUOEM1UTYtcGRwREFxSHRGeXE2b1A4cDFzdlJvQVZQcjM1cGF6Vk14UXJvVmFRX3JYVUxRakkxRVAtUXFXNVBfbExuaFFVUA?oc=5",
+      "description": "Investing in Food Safety is Investing in the Future of Food Food Safety Magazine",
+      "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Healthcare & Medical",
       "title": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QMXhzcHRVa1RrN0s0NUZtdHJrQndFWjRUTElLVml5RWwyNDh3RUcxWkg0S2RqQXI0QVcwOWp4QUJobzdNVGRUTHJid0JVX09sUDhvMW1WMXFjaTZVeHo0STJFMElDTmlwSWY1aEQtWE92TTRxR092NFdKOA?oc=5",
@@ -343,13 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
       "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
       "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Healthcare & Medical",
-      "title": "Universal Pure Data Breach Exposes Sensitive Personal Information - Claim Depot",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iczUzZHNzYTlQUmF6azdNd184N3RrQi15Z0NQZUVBOGZsWEFDT0U1RkpPRURQY18yM1FrenF2STA4TjFyMzIzc0tUSVJWN1dJMHN1R3ZuMDYyZWhyRjJrSlVVSi1fVFoxamc?oc=5",
-      "description": "Universal Pure Data Breach Exposes Sensitive Personal Information Claim Depot",
-      "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
     }
   ]
 }
