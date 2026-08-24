@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T04:43:55.263028+00:00",
+  "updated": "2026-08-24T06:57:43.137193+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -37,13 +37,6 @@
       "pubDate": "Mon, 24 Aug 2026 04:02:56 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Sprouts sold in Tri-State area recalled for E. coli and salmonella outbreak - WKRC",
-      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNN1d2a2pVQkpDRUwyZlBDczJsdWFFTXJaaXg5TUZyVGdjeHc5Q19yclc3YUFDczhQMU5QMnVkVWtLcVdmZUdDdFVQbnY4QW1zWVR5QV9lRFlHb3E4c216UVNSU0YyUlFwbk1Pdkxpa1o4REFZTkh3blV4NUw3UHBaamtaQW1Qa1FSRUw2MEZpd0RUY0N0QlJBVklhSk1zTnZCUXdUSVNZYWdRMHEtRW1oOEpCRkNDSHFiRENOZk1pWW9OeTY1OE8tRWZMVEhNMk5sTXhJemJEQm50dUJvUG0wY1lacWtNZHdWQVUtcnY2U0M1OXRSSG5IRFVkZDRFQVM0M2k5QTc1akcwaER2Vkh3R0tra1FaN0NpU0djdnNlNXRERkVQZHpGLWlIMUxEdmw5ci0zVDRLRUhEdUdFa2Z0SktzVUxNc1gtUF80Ti1yZTQyYjBHaFJwME9ONTd6eVpkcGU5ZmVIOA?oc=5",
-      "description": "Sprouts sold in Tri-State area recalled for E. coli and salmonella outbreak WKRC",
-      "pubDate": "Sun, 23 Aug 2026 15:35:02 GMT"
-    },
-    {
       "source": "Food Safety News",
       "title": "Sprout company recalls products linked to 15-state outbreak",
       "link": "https://www.foodsafetynews.com/2026/08/sprout-company-recalls-products-linked-to-15-state-outbreak/",
@@ -59,6 +52,13 @@
     },
     {
       "source": "Salmonella Outbreaks",
+      "title": "Why this year’s foodborne outbreaks have made more Americans sick - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUzBiTHhHZkNVZ2I4ZHRsOTYwNTBhTUlWa3dvcURoZjRrN3dfcVRIbUFzWTJHOWc3M0V1dTI3Y19GbXNINFYyenVJaElwMUhuenJUVFdHbnUzMXl0NDk2LXNFSHJiRmhBRUc5VGFzaklFNEJsMzBiNjVCT2cxQVh3NF9iT1RvWXhjNzlPSzM2ZkRRNGhtMndwQ2ZhdjlDdUtFZU5GR3ZpVElIbktrd281Vm9OZ1dKX0l3ekpQLQ?oc=5",
+      "description": "Why this year’s foodborne outbreaks have made more Americans sick NBC News",
+      "pubDate": "Sat, 22 Aug 2026 10:00:41 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
       "title": "Company recalls alfalfa sprouts after CDC says 55 sickened in salmonella, E. coli outbreak - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRjVkbnhWM3ZQNXNsVExDZEtCTjBfYXpQamdsa0d2eHpmSzQtUmN6MzUzM2FFaGR4TXlMdzVIekxEdFVXOEhRamp6bFlzTVVDZ2p4V3EzOEh2QV9hT0RIXzVHVXJPY3hOZjFDN2x5UWlLRlo2cWlpRjJuSEpIcWpNRlhycXo1VHd1ZXFBeGRBUUxQcE9DX0RVZnlvT2p2d9IBowFBVV95cUxPZUpMZXg1SEZVZzdiRTl2aEhwMGJXTmUxUmdoY29jaHhGY2thVFByU1ZlaDhxM0xsTHZCSWZqSEpHeWpSenlfaFh3Zko5Y0FOSTVlbVFEZnVHUkpQQ09od09kV3o1MUpBUWVwaXo2WlU5QVFLX3RlMXNTMjBPWlZfUXpQc2g2Y0owakRsZC1ieVV5MlUzbUlKc3N1SXZFc240bnFV?oc=5",
       "description": "Company recalls alfalfa sprouts after CDC says 55 sickened in salmonella, E. coli outbreak ABC News - Breaking News, Latest News and Videos",
@@ -70,13 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPanB6S0RWZUVORC1TSUc4TUFVNGNTSWZYNFhIZ0V6SUhrbWVIOWdXeWgxMHAwSDZqVno0eERjYlAyZXVCaEM0c3hHZkxVVmpOQ2llZnFpV2s3ODRRQlJJNU8zSGRNUWVYY3FydFdYSTJkZmdOTWZwWk56SEpLRXdwRE96VWZHUQ?oc=5",
       "description": "Alfalfa sprouts recalled after E. coli, salmonella outbreak sickens dozens in 15 states CBS News",
       "pubDate": "Fri, 21 Aug 2026 22:56:29 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Video Deadly pasta recall linked to listeria outbreak - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBOd1dITHg0X3pqUmxXY3BCQm5FUjFRZlhCb0JUZmtoSm9qUWFuM1RILV9Uc3FubHEyZUFJX0IxX0xJTm5kSEdUbDQ0emk?oc=5",
-      "description": "Video Deadly pasta recall linked to listeria outbreak ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Fri, 21 Aug 2026 18:44:54 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -147,6 +140,13 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IWDFtN2h2RkxmOW9pX2RLQXhpWEM0dDE4X3Nzb0hvbzItSld5a1luUHJzVDZ5RHl5blUtVzZNQXd0dmxGMGY0bWxSREdQX0J1dHNoY3NWczktWlNw?oc=5",
       "description": "One dead and hundreds ill in UK salmonella outbreak BBC",
       "pubDate": "Tue, 18 Aug 2026 11:47:21 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Are we seeing more food recalls these days? - PIRG",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lM0Q3S3pJZEhlUE4xZHBEbVBVSXRuRTBXRzZTWFkzbU9PYzV6czEyR3JQc2d6S1hKMmdlUGZkX2NjWFV1NTFONlkyR3JrdlZLU2FXaHZ1NG5SS3l4cGcxWmxrRjh5MzJCRDE5WDZUSXNBV2s?oc=5",
+      "description": "Are we seeing more food recalls these days? PIRG",
+      "pubDate": "Mon, 17 Aug 2026 05:14:26 GMT"
     },
     {
       "source": "Listeria Outbreaks",
