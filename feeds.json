@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T04:38:19.779842+00:00",
+  "updated": "2026-08-25T06:46:40.090015+00:00",
   "articles": [
     {
       "source": "Salmonella Outbreaks",
@@ -100,13 +100,6 @@
       "pubDate": "Fri, 21 Aug 2026 12:01:52 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "The latest product recalls and safety alerts from Which? - which.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnZEdm8tLUMxdlpRajZ4bGZ1eE5nRElJdGtTVDB5R0hMcWxoV2NIV1BvSkNsY3BUaGl6TzV2cXZSdEZWV0JOenZseW5icmxadFBZcERkOGpMb3BjaGJrN241Q1VCeWw1TldCMjBscEtfTzkwM2tsTTJyQlI0VkFaVWRseVZObmoycnRFaXJkQlY?oc=5",
-      "description": "The latest product recalls and safety alerts from Which? which.co.uk",
-      "pubDate": "Fri, 21 Aug 2026 07:00:00 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
       "title": "Recall roundup: The products tied to a multistate salmonella outbreak - KCRA",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd1ZhWE1YeDU5TEFVMkFHVHRSZ1M2bTBrc28yRUhMU0p3WGdvaDVrNlFKbFVpdHltUXdYdENsTkZFZUhIR0tLTkFfOUVnSDNCcU5KRXl1bVZEUEluSk43c2lCUkhQdWxnUFRrRXZyOXRTSVJaSnZhUElQVXRWOXFMb0VR?oc=5",
@@ -114,7 +107,7 @@
       "pubDate": "Thu, 20 Aug 2026 20:21:00 GMT"
     },
     {
-      "source": "Hiperbaric",
+      "source": "Hiperbaric EU",
       "title": "Hiperbaric and Oklahoma State University to Host HPP Protein Workshop - Quality Assurance & Food Safety",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU1REYUFGWjd2S3ZQWEJWcE00dFNDM2xOSlQzbnNzb01HbUJ5VV8wT2dPWDh6MlRsTmZMbEhzQkhiZ1JkMG1uamQtWktHMDN0WjlqWjVzUm1jd0lyUWxPd1VrVVZNZWt6dXpZYmZFZTNkLTlTTkJZeTlvVzI2SVNFSzY3RUQ4Sk5sODZNaV8xTmtla3pOMWhhNG9VYUdtRExDWkk3RU1HMXptYUhzWUpDYg?oc=5",
       "description": "Hiperbaric and Oklahoma State University to Host HPP Protein Workshop Quality Assurance & Food Safety",
@@ -128,11 +121,18 @@
       "pubDate": "Wed, 19 Aug 2026 21:34:00 GMT"
     },
     {
-      "source": "Hiperbaric",
+      "source": "Hiperbaric EU",
       "title": "UNL, OSU, Hiperbaric to host HPP protein workshop - Pet Food Processing",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTUVWRllBNGxQRDJXUXBWVHJPZXBNOTFIQy14WVUzS0k3VXI2MmFmRjFmLXR2M1hMRERyWjhIUm05Q3NINWxoUGRQRndBdUxaYnRMbnlCdHcwcFpyNHFaR2pfS3VRWmk4MzZEbmd5d2ktcU1KeElBeUo2SkVwbllaV2JhUXhHZkFTWG83NFRpRkVmM01OSTRpNUY2OHA?oc=5",
       "description": "UNL, OSU, Hiperbaric to host HPP protein workshop Pet Food Processing",
       "pubDate": "Wed, 19 Aug 2026 12:00:00 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "One person dead and more than 200 ill in UK salmonella outbreak - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZzFBcTZuQlFUem4zX3lyLXZiVGgybDJtSnh3VVMtLWdocVFoZ2dfb25zSUJmaC05ZVhwaTNHUlB2VHR5VlZuZV9CS2V5WklMcnh1T0hRUW9IdjNnTnF3eVlrQ1htOGhVYng4SGJQRW8yanFlQVJkaEJKMVdIQ2hjVFdBc2x5U2EzNHB3?oc=5",
+      "description": "One person dead and more than 200 ill in UK salmonella outbreak The Guardian",
+      "pubDate": "Wed, 19 Aug 2026 01:30:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -154,13 +154,6 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKME5welk1dTFEYUpmRVFUQlkyZzJNdzF2dGgwbUxOanpySmhyaGcybmx6U0t5V0RWWVZWaUJUYURBRTB3VnJkSTVIMFpScFhnUlBxTGJKUkp4dXZDYXRpZ0lwUy0wSDk4R2luWUdOV3I5Nk5IRm5J?oc=5",
       "description": "Food recalls in 2026: What the data shows so far KCRA",
       "pubDate": "Fri, 14 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric",
-      "title": "HPP Protein Workshop on Listeria Control and Dark-Cutting Beef Recovery Hosted by Hiperbaric and Oklahoma State University - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVTVzZWhFdUZxY1JtWnpxU2NMampwVTNSUUtTZ0FhNUl6VzZDeWxSNi1WellDU2RxcFdyWUNvajY3a0tiZHVQeE1nXzdkXzZfY185LTlDSXUtcW5pRkdtWGFRc2Mwd1UyYXIxYmxZYXpXLXBvN2xoZDhNUUUwdEp5YWdRTU45ZDl6dDRKMWNlWTVyTjlPZWotaHB0VnJ6QjlnZEZ3dFdpWVlhbjJKc0NIQUR6RnpwY2Q4LXMzT3hLWWttTWJsNUZJeS0zeWtrd0FXalVrcF8xT1ZwLU5jVzJ6bkJvbGtLWV91WWp0UUlnVmp5RWtqNHZPRVBfclpNQmV1eXZ0clF4RnZyZw?oc=5",
-      "description": "HPP Protein Workshop on Listeria Control and Dark-Cutting Beef Recovery Hosted by Hiperbaric and Oklahoma State University PR Newswire",
-      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -205,17 +198,17 @@
       "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "Hiperbaric",
-      "title": "Hiperbaric to supply first Spanish-built HIP system to TTT Group - Metal Additive Manufacturing magazine",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2pMRnhXaDV5blFZbGRMRUxQb1dxRFJFQXl2Z29WOEc1Ry1RNWdNSFVCUHhGb3cxMHhVOWJIRUt6QnF1MW5tdWRiaDdvNExubUN0WVB1RW41dEVhcVFuUTdFLVdXaFRIU1FOempJZk90MVFjRXdnTGtUTzdxc2lYWTRWaWRjSU1iUDdvWVpCN3NTcGVL?oc=5",
-      "description": "Hiperbaric to supply first Spanish-built HIP system to TTT Group Metal Additive Manufacturing magazine",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric",
+      "source": "Hiperbaric EU",
       "title": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts - TCT Magazine",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM29NRXg0WXVha25KbzRLcm9zV0dRUG81ZVhpaGllbzdRR0FyVm1uVDBtVTZkR01tR1VKck56c2xxSC0yRDB1bUsyajAyd19Eb1I4UWRtY0VMVU9VNFlrWGJDSzdDQms0T0VwbE04WWl1V2k5b3cxZmVCSXZPUlg3OTI5Uzh1b2ZPRUhhZ0t6ckhqdHhhQVhfdzVJaVI1dEUtRy1OZERuMGwzY3RUdTc0UUZadFRKVU1JRmFWQVFwZHg3UWc0U3drMUVvZmY?oc=5",
       "description": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts TCT Magazine",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric EU",
+      "title": "Hiperbaric to supply first Spanish-built HIP system to TTT Group - Metal Additive Manufacturing magazine",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2pMRnhXaDV5blFZbGRMRUxQb1dxRFJFQXl2Z29WOEc1Ry1RNWdNSFVCUHhGb3cxMHhVOWJIRUt6QnF1MW5tdWRiaDdvNExubUN0WVB1RW41dEVhcVFuUTdFLVdXaFRIU1FOempJZk90MVFjRXdnTGtUTzdxc2lYWTRWaWRjSU1iUDdvWVpCN3NTcGVL?oc=5",
+      "description": "Hiperbaric to supply first Spanish-built HIP system to TTT Group Metal Additive Manufacturing magazine",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
@@ -231,6 +224,13 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEpNajduOEpKZHpXM3lTSXBpenBudENhVWhRZVNFX1lOOTluUFBoV0VYbDdfakNlWDlod2hxYkY5ZE9heWw5T2VESXBQelpyOTB1V3lma2lUakhvcWxUOEM1UTYtcGRwREFxSHRGeXE2b1A4cDFzdlJvQVZQcjM1cGF6Vk14UXJvVmFRX3JYVUxRakkxRVAtUXFXNVBfbExuaFFVUA?oc=5",
       "description": "Investing in Food Safety is Investing in the Future of Food Food Safety Magazine",
       "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Seafood",
+      "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
+      "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
+      "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -310,13 +310,6 @@
       "pubDate": "Sun, 17 May 2026 07:00:00 GMT"
     },
     {
-      "source": "Hiperbaric",
-      "title": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? - PetfoodIndustry",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTVFPakRRZlRhZG50MVZBdmVxdVZhVzlJRC1LNlBFOS1MNVI0SUhlT2FrUloxRkN5Qi1Bcm4yS0hFLUtDdnY5RC12dUY0TWoyQWh1eUlnSU5ZNmJMNmhSQlkyeU0yeHpGVDNZZE12MlI4TjZvNzZXR2RFN0htMFZlSkxFQmxqYnBEUG1VdUNpT3VMQ1pwUG1jel95SVltMkpVOW1wZDUwWTBkb2xZYmp5dlF5V3ZnV00tTzRubW9yTlhENDVpT1VCTW1rNDFhZURtR0Z5ZlBrOWNVenAxSFlyMmhGN3FkLVAzeWNCWVZYVzBKc2VaWTllemU3NA?oc=5",
-      "description": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? PetfoodIndustry",
-      "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Innovation & Research",
       "title": "From science to market: OSU Ag Research advances understanding of dark-cutting beef - news.okstate.edu",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOU9aRGVVRE9vRUdqRjJQYWYzQzNMclk1M2xVUDh1amZMaS0tZHp3dm9JNXNhaE51QVRCbzd2YVRVd19JQjZWS1RfcDh2MlBOUzgtVVM1UEw2VmVQSUwxR1otUkFUYnRhTnpwcV84THN4VjdFMUwyZzB5b29RRXV1Zm9YZU9pUldrWUcwVW84MDd2YW1OM25RbFJQSFVWNWVsSVNEWkdITTRsamV5aDd1dGNTT3lyMV80ZTEycndGXzBacGRRYk93cnZCWUlBZw?oc=5",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iczUzZHNzYTlQUmF6azdNd184N3RrQi15Z0NQZUVBOGZsWEFDT0U1RkpPRURQY18yM1FrenF2STA4TjFyMzIzc0tUSVJWN1dJMHN1R3ZuMDYyZWhyRjJrSlVVSi1fVFoxamc?oc=5",
       "description": "Universal Pure Data Breach Exposes Sensitive Personal Information Claim Depot",
       "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Europe Healthy Food Market Size, Share & Growth Report 2035 | MRFR - Market Research Future",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc2swRjZ3SHE2NDk4djRnUUdEOXhvb2hQYjlwTC11bUFJcjdEUXVBbFB5eW5Tb00yUmZYQVNFdmduWndOZnZrX1pNcjYwNmdRSXQwQlFzYzBoRzk0UlFjYl9GZHlYcU9iZElTSWxEQWE1cjI1TktzNDY2cHdYd0dDbXVERQ?oc=5",
+      "description": "Europe Healthy Food Market Size, Share & Growth Report 2035 | MRFR Market Research Future",
+      "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
     }
   ]
 }
