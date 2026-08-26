@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-26T14:42:47.448855+00:00",
+  "updated": "2026-08-26T16:47:31.429920+00:00",
   "articles": [
     {
       "source": "Salmonella Outbreaks",
       "title": "Food recalls and outbreaks: What to know and how to stay safe - MPR News",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT2FoQUphbFd5NkNncnFpNmF4b2dwM3I3TkpTNUhKdzFqZXFET1hNNVctcVg5R1FlWk1lS0dkZHl6LXk0UDBpbTYzUFo0b1RxRzdEZGNYYU42WTNTdGp6ekMwbFotclp1b29ZYS00aGkyak1HTHNIZ0RVMVdsX3VoZGJTb2VXRmRaQWo2cjByRDNRZmhGeE5rQ3dZekFZZXFtNXpIUHpn?oc=5",
       "description": "Food recalls and outbreaks: What to know and how to stay safe MPR News",
-      "pubDate": "Wed, 26 Aug 2026 11:57:36 GMT"
+      "pubDate": "Wed, 26 Aug 2026 14:00:00 GMT"
     },
     {
       "source": "Food Safety News",
@@ -93,6 +93,13 @@
       "pubDate": "Sat, 22 Aug 2026 16:06:00 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "Blueberries, guacamole, granola. See list of recent food recalls - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZlp1NVpmQVJ6QU9nRHB3bHRJakdYNkl0V3JhR3B1T2xyRTB3SERoNHh5NHlUMUZSTkxPOWRuTzBwMFdGSWxPa0FfOFBIcXVoaVpfYmRfUVFYVWpBNm90WktvRmV5YWVLNkFMMjlBR2NaV3dKdkZIeEtIQmNWSWxCcWIyR1pQcjZ3ektXRVR5Q1cwV1lyb2FrNTdWS1NXc2Fu?oc=5",
+      "description": "Blueberries, guacamole, granola. See list of recent food recalls USA Today",
+      "pubDate": "Fri, 21 Aug 2026 17:13:00 GMT"
+    },
+    {
       "source": "Salmonella Outbreaks",
       "title": "Recalls Due to Salmonella-Tainted Jalapeños Expand as Taylor Farms, Whole Foods Pull Products: Full List - TODAY.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdGlaUHlrb2hQdzNNalgxVVZlUjhDcE14YlBhV3YyN0VWczZ0bUFyZzJPblhmVHZzckljam4tU2FjWnhxNVZSMUNaQVI1dUs0NFpMM1Jua3daeGFqd254b3ptNi1LT2pHckhqd3hva1JKYUMxbFdqbGVTaTlidGJ3cVRLTU1uSS1tOTg1QmJVcEtYRjZlU2RkcFRKYWdCajdvbUVISHlHUWtvVEk0d3dTNA?oc=5",
@@ -126,13 +133,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU1REYUFGWjd2S3ZQWEJWcE00dFNDM2xOSlQzbnNzb01HbUJ5VV8wT2dPWDh6MlRsTmZMbEhzQkhiZ1JkMG1uamQtWktHMDN0WjlqWjVzUm1jd0lyUWxPd1VrVVZNZWt6dXpZYmZFZTNkLTlTTkJZeTlvVzI2SVNFSzY3RUQ4Sk5sODZNaV8xTmtla3pOMWhhNG9VYUdtRExDWkk3RU1HMXptYUhzWUpDYg?oc=5",
       "description": "Hiperbaric and Oklahoma State University to Host HPP Protein Workshop Quality Assurance & Food Safety",
       "pubDate": "Thu, 20 Aug 2026 19:45:24 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Biggest FDA Recalls of 2026: Taylor Farms, Blueberries, Eggs and More - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbkFGVGZiYkFnV2drUUt0TENaeHdiQ2VEcXQxMmM0YnYzMFpOV0xGbEVuX0szNWRYNEZKM01acHRCS1EwMzNpQU9TWmtxandtN2NNLWxKV1VUa1cyTVdPOEhCUE5VWlZ5V3lfZXM0V1BKSTFIZWN5d0VPOG1iZnpqbFFrdW1JZUZ1d21tTGl1aVA5R0lvN01pbkExRF8?oc=5",
-      "description": "Biggest FDA Recalls of 2026: Taylor Farms, Blueberries, Eggs and More Newsweek",
-      "pubDate": "Wed, 19 Aug 2026 21:34:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -240,6 +240,20 @@
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
+      "source": "UK Food Industry",
+      "title": "Europe Food and Beverages Market Size and Analysis, 2034 - Market Data Forecast",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFRiSl9GOVdlZHlfalNxOHk1V25kTkhPV20wU3JpbjNrLXV1VmljMjZfR0dNbEV2b3V2NjZpaDZaM3ZKYTZvazBiV3dDSkY2eWl5eWRrVUE0Z09BV2Y0bzdxLXdaeUgzN2lyTFlFLXNoVXRHQ0xsamN4S0pZeFRUSVV6c1otRzZWYlE?oc=5",
+      "description": "Europe Food and Beverages Market Size and Analysis, 2034 Market Data Forecast",
+      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI - PR Newswire UK",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdVRCUkhzUHR0NTFtd1dTOUUxODE2MkJURGNIVGpkUkdSaE8yeTZvTHJSZENfUEFPUmx5Y01hNUZELW85SklCb0Z5UHRYd196d2IzR1RXWHdxVnE4aFAzZ0RvT3VNWFNiRG9CYXdfWmRDdF9WWkFwYXM4ZGNBQ1VVU3dYSUhmY2NlMTFSU1A2Tkh5ZHpGb2VrQThCZUJrem9mRnhkRGc4M002LWJNcjhOZVpjRW1ocGN0TUw4dFppd3p2OEs3ZnZMUTlUMVBGbXQ3ajRHdnhJOGpxWjZvRzVoUUJUU21lcEMxaXRWZU5RajQtYWp5MzVndVBmdzRyRDdSNTBpNEFxWU1EVVVsa3lSWk45OEQ1QmVtRWJOWVhYSFU5SHlnZzlURjkxT1BsQ1B0NTF3Vg?oc=5",
+      "description": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI PR Newswire UK",
+      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
+    },
+    {
       "source": "Listeria Outbreaks",
       "title": "Outbreak Investigation of Listeria monocytogenes: Soft Cheese (June 2026) - fda.gov",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbDUwU3k3c0FIa0duaHZaSjJNSGNLN0lJd0M3T05TNHZsb1NDSHdNMVVnWkhvUldHRGFRQkdoSFItc2c0SVJyUTdqQzlhNXRWdUpIQmRUWmVtTTdidzlKMl9KZEtQOTFCODdzY3ZkeS1WYW50MzVTcUItSnlVbi02azhQLU1uaTE0M0hpU3NDc1ZzQkFOOFM5dzdFemdtdklKS0NKTHVzNWNiVXl6dEdLS0tCTVhBSDRXWHBNOQ?oc=5",
@@ -272,7 +286,7 @@
       "title": "Study finds potential links between virus found in aquaculture and human eye disease - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOLWF3WXE3Yy1tZi0tSjF3WlVYWlNsalJnOU11Rlk2dm90V3AwamdXNU9jVV9yTkxzeE5pcm1lTlNzVjZ3c3AwWkdPM1VMSnVXRFdLbEZqZG55c0xhUE1kLUZsZlYzTV9vY2dXdDZoNnBTNHgwTzc1QXpyeEUwNTBZWUVud1Y2NXhwMnBjSzdoSHV5ckNxVG5fLXdpYS1vbGF2WHZwbkZPS3h4ZExxTlA4OWZsNmwySkxZSTRoVFozcVZJNGpJYWhFYkZkcmd2cmhxVWkwZW9KNmNoQndwQ3dPbEpBVXNxT0VqLW56ZzgwYXlKM2ZuMXFZ?oc=5",
       "description": "Study finds potential links between virus found in aquaculture and human eye disease SeafoodSource",
-      "pubDate": "Thu, 18 Jun 2026 07:00:00 GMT"
+      "pubDate": "Thu, 18 Jun 2026 18:23:30 GMT"
     },
     {
       "source": "EU HPP & Food Tech",
@@ -301,13 +315,6 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWNONmEzaEdyVzkzNFlZUnI2SlpIR01YQ0lTdzJ3TFN6N0lzSEs0OTBseHhLSXRaVGhkSERSVDlnWHY3bDBZRjhTWjlZVW1CNmJmcjFaRkgweUdVdC16TGFLcUZVU3NXOTM4MWZ6bENIUE9TWmFEMlJfTTZuMXFiRXRaOTM?oc=5",
       "description": "High pressure food processing access expanded for local businesses University of Hawaii System",
       "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Healthcare & Medical",
-      "title": "Growing Industrial Applications Expand Scope of Isostatic Pressing Technologies - MarketsandMarkets",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbjhfQXRKR2YwV0xTc0l2MjRnUU1rVUZHZU9JYWcwWExUOFNXM0JPT3hhQjVFTUZLa24xM3F5dU9mYU1YeHFjYXVPRnk3N1Z5ekFjcm01TWVvbTJnTHZVaTFYUE5Id3JEWlVoMUxKc2dUTTh5M1htTjdhWEE2U3QyYm9LNVNxbGhLSU9LQTFMdw?oc=5",
-      "description": "Growing Industrial Applications Expand Scope of Isostatic Pressing Technologies MarketsandMarkets",
-      "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
@@ -343,13 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNalZHdWJ4am9CS1FBbW8xSEUwMFIySTJVTkhNQ1RNTDJqT3M5dTVQTC12N1dvbkZMMEY1eFprZmZaQ01jel9fd2VjX3g3M3V3NnNyb19GY2VWNU9jY0Y4eXdNVTljQm9yaWtyYVlSNFFYaXNJeGJTUk14UDVyRVVXelh3?oc=5",
       "description": "High Pressure Processing Equipment Market Future Market Insights",
       "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK HPP Industry",
-      "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
-      "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
-      "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
     }
   ]
 }
