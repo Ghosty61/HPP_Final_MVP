@@ -1,12 +1,47 @@
 {
-  "updated": "2026-08-26T22:47:07.502903+00:00",
+  "updated": "2026-08-27T07:51:58.936851+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "More than 80 patients reported in new Salmonella outbreak",
+      "link": "https://www.foodsafetynews.com/2026/08/more-than-80-patients-reported-in-new-salmonella-outbreak/",
+      "description": "Public health officials have not determined the source of the pathogen",
+      "pubDate": "Thu, 27 Aug 2026 04:05:42 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Salmonella sickens 29 people in Spain - foodsafetynews.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMkpqUmtpUE1DYWIxUTYyc18tWnJMSDVmMmhRVG9LV0JQTUtaWWEwNDR6c1ZqODk0dGpOd2FzOGpWbnZjWUlkM1MtVTR1YjByMzJEa3VmWHpzZ1dqWjNpWWtvLUpkc01Cd1pRNG9LR0NJNFJ1MVNlSTlqem5mNTR6clJZaw?oc=5",
+      "description": "Salmonella sickens 29 people in Spain foodsafetynews.com",
+      "pubDate": "Thu, 27 Aug 2026 04:05:36 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Salmonella sickens 29 people in Spain",
+      "link": "https://www.foodsafetynews.com/2026/08/salmonella-sickens-29-people-in-spain/",
+      "description": "Almost 30 people have fallen sick in Spain after eating an egg-based dish. Public health officials in Eibar helped to identify cases, analyze the outbreak&apos;s potential source, withdraw potentially affected products, and ensure measures were taken to prevent further risks. Inspections and sample analysis were undertaken in",
+      "pubDate": "Thu, 27 Aug 2026 04:03:44 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Recalled Blueberries, Jalapenos, Lettuce: What to Know | National News | U.S. News - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlNpLV96N2V4RVZISzZtd1BQUEhHNjVTa3VuUkttczM5bzk2TEtaaUZ5aUk0Z1AyUExmUDY4MGl6NE1sdFBvSUI4eWNNeFlZb1NMYVFPUnM1ejBBV3NrN0lLNHlHNklySUVSXzlRMjNURjEzNXBVaENUNllqSGJGR1B5bUVYTU9CNkxJQzR2Z1FhMlMyYnFjMlNfVVRfbkw2aENSZlN0MFdydWlySFZKZFRpdw?oc=5",
+      "description": "Recalled Blueberries, Jalapenos, Lettuce: What to Know | National News | U.S. News U.S. News & World Report",
+      "pubDate": "Wed, 26 Aug 2026 20:49:11 GMT"
+    },
     {
       "source": "Listeria Outbreaks",
       "title": "Deadly Clover Hill Soft Cheese Listeria Outbreak Ends With 15 Sick - Food Poisoning Bulletin",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcEhQamFTTmxOeUNhbVFPX1hHMGhXclRaRU8xWF9iTVVTVFlwODZmYmNabXcwdnVUNHZQbllyWkRPdmI4YXE4SVI4ZkExMEI3bHpTd3E3X0dCYmFWVTJCbVlrd00zX203ajBHNk5hQ3RVX1FoT2FodmxNeTZYdjJzRmFKcEN4YWNIMmM0TzUzbU5VU085VFNUM2Vzdjg1YXBMbXNnLTlMOE8zQQ?oc=5",
       "description": "Deadly Clover Hill Soft Cheese Listeria Outbreak Ends With 15 Sick Food Poisoning Bulletin",
       "pubDate": "Wed, 26 Aug 2026 19:52:20 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "E. coli, Salmonella, Cyclospora: Is the U.S. Seeing a Surge in Foodborne Illnesses? - Time Magazine",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVFJNOG5LRmlNMGw0ZUljcmZqOFJlbkJXWnlQaWcwMU11Q2xPbzJiY3dPS0lRMkl2VThnbW5OZTBNOVJYRDgwNEQyNjZuVC1CQndtYjRQN3FpVXhlVGhJWTBfaV94MEJXRUZVU2dQZzNYSHdkZ2dGeVFZMkRBQXFRY0JoTW9DbUdTSjB4ODVNTTg0MDF2SEFmRzN4LVZiVW5lTG56aXhPNjAxZHpySlAyZWVIUWZLUQ?oc=5",
+      "description": "E. coli, Salmonella, Cyclospora: Is the U.S. Seeing a Surge in Foodborne Illnesses? Time Magazine",
+      "pubDate": "Wed, 26 Aug 2026 19:51:11 GMT"
     },
     {
       "source": "Food Safety News",
@@ -65,25 +100,11 @@
       "pubDate": "Mon, 24 Aug 2026 04:06:53 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "FDA warns California raw pet food maker after Listeria found in products",
-      "link": "https://www.foodsafetynews.com/2026/08/fda-warns-california-raw-pet-food-maker-after-listeria-found-in-products/",
-      "description": "As part of its enforcement activities, the Food and Drug Administration sends warning letters to entities under its jurisdiction. Some letters are not posted for public view until weeks or months after they are sent. Business owners have 15 days to respond to FDA warning letters. Warning letters often are",
-      "pubDate": "Mon, 24 Aug 2026 04:04:28 GMT"
-    },
-    {
       "source": "Food Safety UK & EU",
       "title": "Home-delivered meals linked to UK Listeria death - foodsafetynews.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaDRjMmVKRW5LQWRXdElmU090M2JINXlSWlhvdEtyZ0NLWlVWeldlRk9CYlNCSElUczRUcV9EWDRoRlMxLVJFSkVqcVk4ckYyZXNsWUhlRlJOU0k2dVdKZ2M2OE5mNVA3cks2aVFKX0tzQVphRHBFcWIyQzUzVk50a1lLdThHQUdrVVp4U1FUVWtCdw?oc=5",
       "description": "Home-delivered meals linked to UK Listeria death foodsafetynews.com",
       "pubDate": "Mon, 24 Aug 2026 04:04:13 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "High-risk food linked to fatal Belgian E. coli outbreak",
-      "link": "https://www.foodsafetynews.com/2026/08/high-risk-food-linked-to-fatal-belgian-e-coli-outbreak/",
-      "description": "",
-      "pubDate": "Mon, 24 Aug 2026 04:03:17 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -100,13 +121,6 @@
       "pubDate": "Fri, 21 Aug 2026 17:13:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Recalls Due to Salmonella-Tainted Jalapeños Expand as Taylor Farms, Whole Foods Pull Products: Full List - TODAY.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdGlaUHlrb2hQdzNNalgxVVZlUjhDcE14YlBhV3YyN0VWczZ0bUFyZzJPblhmVHZzckljam4tU2FjWnhxNVZSMUNaQVI1dUs0NFpMM1Jua3daeGFqd254b3ptNi1LT2pHckhqd3hva1JKYUMxbFdqbGVTaTlidGJ3cVRLTU1uSS1tOTg1QmJVcEtYRjZlU2RkcFRKYWdCajdvbUVISHlHUWtvVEk0d3dTNA?oc=5",
-      "description": "Recalls Due to Salmonella-Tainted Jalapeños Expand as Taylor Farms, Whole Foods Pull Products: Full List TODAY.com",
-      "pubDate": "Fri, 21 Aug 2026 17:00:09 GMT"
-    },
-    {
       "source": "Food Safety UK & EU",
       "title": "Food Fact Check: Can you get salmonella from eggs? What you need to know. - GOV.UK blogs",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObmNwbkxtUXo5QVNIemI0M1E3M2p2bEtaVlhVS0RheWNnR21DWGMyNm1kWkZ1S3FJTnRES1UyMDdZWlZaQTlOTXUxSFdSTEJWQ0NCY2Q5MGJxTXE2SVBhYXhJYTh2cVVoZDZ5a216UUJRLXlSZk5nYU5FT0NyZ1NUYnRYXzFWSzFrRnhXRjM2OWpydDZXa0kwOW5wT2VOT21iWHc3cHJ6RGtIQ00?oc=5",
@@ -119,13 +133,6 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uUE1FUHNaNXlIRUNOZWlaaGV3RUhyeXVJZTQtODh1NFdxaV8yQk5DY00wNGluSXBuNjZQYUMxcDRSdnBpZ3pVU2tNTGVBalJJeTByM3VNeXB3dk9UQnYyN0tCN0pJb1hvZXJBaGtCREY?oc=5",
       "description": "Cook This: 3 Ghanaian recipes from Eat with Afia, including peanut soup National Post",
       "pubDate": "Fri, 21 Aug 2026 12:01:52 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Recall roundup: The products tied to a multistate salmonella outbreak - KCRA",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd1ZhWE1YeDU5TEFVMkFHVHRSZ1M2bTBrc28yRUhMU0p3WGdvaDVrNlFKbFVpdHltUXdYdENsTkZFZUhIR0tLTkFfOUVnSDNCcU5KRXl1bVZEUEluSk43c2lCUkhQdWxnUFRrRXZyOXRTSVJaSnZhUElQVXRWOXFMb0VR?oc=5",
-      "description": "Recall roundup: The products tied to a multistate salmonella outbreak KCRA",
-      "pubDate": "Thu, 20 Aug 2026 20:21:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -142,13 +149,6 @@
       "pubDate": "Wed, 19 Aug 2026 12:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Investigation Update: Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zb05obHd4ZVBoakNZLXo3RXN1eTFHWF9HeHlrRVJERXk5anNKby1QbXNtZkRiSWVZWE51QUlacFBBcDhmUDVmZXREVmNCZ1ZuaEtDVWl3NnZkSGxvQ1FrX2FRRl9PdHpBRHc4UG9qU0dvVmdxV0JkSTEwNWtuZw?oc=5",
-      "description": "Investigation Update: Salmonella Outbreak, August 2026 Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT"
-    },
-    {
       "source": "Food Safety UK & EU",
       "title": "One dead and hundreds ill in UK salmonella outbreak - BBC",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IWDFtN2h2RkxmOW9pX2RLQXhpWEM0dDE4X3Nzb0hvbzItSld5a1luUHJzVDZ5RHl5blUtVzZNQXd0dmxGMGY0bWxSREdQX0J1dHNoY3NWczktWlNw?oc=5",
@@ -163,7 +163,14 @@
       "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
     },
     {
-      "source": "Hiperbaric",
+      "source": "Listeria Outbreaks",
+      "title": "Food recalls in 2026: What the data shows so far - KCRA",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKME5welk1dTFEYUpmRVFUQlkyZzJNdzF2dGgwbUxOanpySmhyaGcybmx6U0t5V0RWWVZWaUJUYURBRTB3VnJkSTVIMFpScFhnUlBxTGJKUkp4dXZDYXRpZ0lwUy0wSDk4R2luWUdOV3I5Nk5IRm5J?oc=5",
+      "description": "Food recalls in 2026: What the data shows so far KCRA",
+      "pubDate": "Fri, 14 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric EU",
       "title": "HPP Protein Workshop on Listeria Control and Dark-Cutting Beef Recovery Hosted by Hiperbaric and Oklahoma State University - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVTVzZWhFdUZxY1JtWnpxU2NMampwVTNSUUtTZ0FhNUl6VzZDeWxSNi1WellDU2RxcFdyWUNvajY3a0tiZHVQeE1nXzdkXzZfY185LTlDSXUtcW5pRkdtWGFRc2Mwd1UyYXIxYmxZYXpXLXBvN2xoZDhNUUUwdEp5YWdRTU45ZDl6dDRKMWNlWTVyTjlPZWotaHB0VnJ6QjlnZEZ3dFdpWVlhbjJKc0NIQUR6RnpwY2Q4LXMzT3hLWWttTWJsNUZJeS0zeWtrd0FXalVrcF8xT1ZwLU5jVzJ6bkJvbGtLWV91WWp0UUlnVmp5RWtqNHZPRVBfclpNQmV1eXZ0clF4RnZyZw?oc=5",
       "description": "HPP Protein Workshop on Listeria Control and Dark-Cutting Beef Recovery Hosted by Hiperbaric and Oklahoma State University PR Newswire",
@@ -238,27 +245,6 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QMXhzcHRVa1RrN0s0NUZtdHJrQndFWjRUTElLVml5RWwyNDh3RUcxWkg0S2RqQXI0QVcwOWp4QUJobzdNVGRUTHJid0JVX09sUDhvMW1WMXFjaTZVeHo0STJFMElDTmlwSWY1aEQtWE92TTRxR092NFdKOA?oc=5",
       "description": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods Medical Xpress",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Europe Food and Beverages Market Size and Analysis, 2034 - Market Data Forecast",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFRiSl9GOVdlZHlfalNxOHk1V25kTkhPV20wU3JpbjNrLXV1VmljMjZfR0dNbEV2b3V2NjZpaDZaM3ZKYTZvazBiV3dDSkY2eWl5eWRrVUE0Z09BV2Y0bzdxLXdaeUgzN2lyTFlFLXNoVXRHQ0xsamN4S0pZeFRUSVV6c1otRzZWYlE?oc=5",
-      "description": "Europe Food and Beverages Market Size and Analysis, 2034 Market Data Forecast",
-      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI - PR Newswire UK",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdVRCUkhzUHR0NTFtd1dTOUUxODE2MkJURGNIVGpkUkdSaE8yeTZvTHJSZENfUEFPUmx5Y01hNUZELW85SklCb0Z5UHRYd196d2IzR1RXWHdxVnE4aFAzZ0RvT3VNWFNiRG9CYXdfWmRDdF9WWkFwYXM4ZGNBQ1VVU3dYSUhmY2NlMTFSU1A2Tkh5ZHpGb2VrQThCZUJrem9mRnhkRGc4M002LWJNcjhOZVpjRW1ocGN0TUw4dFppd3p2OEs3ZnZMUTlUMVBGbXQ3ajRHdnhJOGpxWjZvRzVoUUJUU21lcEMxaXRWZU5RajQtYWp5MzVndVBmdzRyRDdSNTBpNEFxWU1EVVVsa3lSWk45OEQ1QmVtRWJOWVhYSFU5SHlnZzlURjkxT1BsQ1B0NTF3Vg?oc=5",
-      "description": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI PR Newswire UK",
-      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Investigation Update: Listeria Outbreak, June 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeURCSzJmTjhpWEttM0RXTC1fcmtWZHkxeGk5Q2lheTdneWhwMW1KaHYyamVLeWNnYVhROW1lcm1QMWFzZzZhdmtIcHhVTDFjekVkakhwcVpaMTgtOWFERE1QYUNFOUwwQUc2OW5ITldOVXRLRW5MbWluZ2Y0WXRtNA?oc=5",
-      "description": "Investigation Update: Listeria Outbreak, June 2026 Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -345,11 +331,25 @@
       "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "In food physics, connection and collaboration are ingredients for a thriving IOP community - Physics World",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREFMSDFDbncyLTRnX0JuLTVuZTRyOVdaRkVZTG9Zb0FmN05mbUlud25PVkJaM0pFNTFyQk9yS2s0bnl6OFRMS2o0YTBxbTh3cEZKT003WV96OEFydXlnZU1CejBkMlJTVkRySXBaSVlYQUoyWUNtLV9USkdpLWFVTzBNbWdZa2J5ejRxdmxyLW9XektsejJPNFI4cmpRaGFNNXBEUnNtMm1DTGV1c3M4bjR4amZZSHls?oc=5",
-      "description": "In food physics, connection and collaboration are ingredients for a thriving IOP community Physics World",
-      "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
+      "source": "HPP Healthcare & Medical",
+      "title": "Universal Pure Data Breach Exposes Sensitive Personal Information - Claim Depot",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iczUzZHNzYTlQUmF6azdNd184N3RrQi15Z0NQZUVBOGZsWEFDT0U1RkpPRURQY18yM1FrenF2STA4TjFyMzIzc0tUSVJWN1dJMHN1R3ZuMDYyZWhyRjJrSlVVSi1fVFoxamc?oc=5",
+      "description": "Universal Pure Data Breach Exposes Sensitive Personal Information Claim Depot",
+      "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Seafood",
+      "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
+      "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
+      "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric",
+      "title": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria - Fuel Cells Works",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMWpFYUZveHVvay1yVVNMNWZxN0NDcnhEdnBvVDdueFBuZWhRVkticVM5andBeGtkc1ZBYzlBcmFGY0xHWGIzaF9UZVV5NUxsNjZ1ZkhHRV9TSk9fbzd0R1E2YXJCM2dMMWMtZmp5ZWxyb1FWRTRKWkV1WDN3WXlZeEg4TmwzUnc0ZDcxeWtWWDZuZ3NEOFJyZS1KNnJqdjFpOTZjVFlCNU8wcWpKdjNYM18yeDgzUUl4Qjl2MUVHUW8xc0Jzd2ZNZWxsNkwtYzExN04xTXktNUxaV05kcFdfMjVqTDNGZEhkaEFEMzJBaWFoam9zZjJ4LQ?oc=5",
+      "description": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria Fuel Cells Works",
+      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT"
     }
   ]
 }
