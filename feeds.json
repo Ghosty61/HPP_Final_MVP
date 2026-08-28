@@ -1,12 +1,33 @@
 {
-  "updated": "2026-08-27T18:54:00.978928+00:00",
+  "updated": "2026-08-28T04:04:07.639116+00:00",
   "articles": [
     {
+      "source": "Food Safety News",
+      "title": "Federal officials close investigation into outbreak of infant botulism traced to formula",
+      "link": "https://www.foodsafetynews.com/2026/08/federal-officials-close-investigation-into-outbreak-of-infant-botulism-traced-to-formula/",
+      "description": "The Centers for Disease Control and Prevention has declared the outbreak of botulism traced to Nara Organics powdered infant formula to be over. In total, the outbreak between April and May this year sickened a confirmed four babies in three states. All four babies required hospitalization but none of them",
+      "pubDate": "Fri, 28 Aug 2026 04:03:52 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Cyclospora patients in outbreak linked to lettuce top 11,000; three more states added",
+      "link": "https://www.foodsafetynews.com/2026/08/cyclospora-patients-in-outbreak-linked-to-lettuce-top-11-000/",
+      "description": "The FDA’s onsite inspections and sampling at Taylor Farms iceberg lettuce growers and the processing facility in Mexico are ongoing.",
+      "pubDate": "Thu, 27 Aug 2026 23:14:09 GMT"
+    },
+    {
       "source": "Salmonella Outbreaks",
-      "title": "Jaime’s Foods ATX recalls jalapeno ranch sold at Central Market over undeclared eggs - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUHRWVXEtYXVTc3Foc1M1ZWRsdk9XYllwQzI3S3d6V0kwQVZzQnZPMklFOXpSUHNGZjVIX0d6Znp0YWdLQklzYmh5QkR6ZHNzRk8zUmRHbGgwUWtBX0RNM2JocEo0NGdsQjBjMW41TVREdlU5V3ZTMHd6ZlVNZlRCaEx0VFFURnpZWkg0VWNQYWhZbEZwZmFGRjBMbVJSZ0c4emVXM0lBNGpYSzBYV3dlNmRIYl9Pblk?oc=5",
-      "description": "Jaime’s Foods ATX recalls jalapeno ranch sold at Central Market over undeclared eggs Houston Chronicle",
-      "pubDate": "Thu, 27 Aug 2026 18:02:09 GMT"
+      "title": "Texas Whole Foods recalls salsas, guacamole amid salmonella outbreak - Chron",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaTExT1JoeldPdE5VMVJhUjZMM0QxTzRjUkF6aDFYRlN4djNYSFlGVXVFM0w0WjYwdURkdG5BWHlKMlc0VXF1UVpIZjVqdjlWcEVFal9PYVMzbFJnSTlPSFM5bDJZQVpUN1J0TEZPTDdoWnRmUXkyRFZqSTNSODdnOEtuWW9WNElQWUxJ?oc=5",
+      "description": "Texas Whole Foods recalls salsas, guacamole amid salmonella outbreak Chron",
+      "pubDate": "Thu, 27 Aug 2026 21:09:23 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "The surprising reason food recalls are getting worse - vox.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcTZ3NWEtRTY4U211Vy03LTlxYnNJRmdyVkFCWkJEWjR3QkI5Qll4RUJ0bXliOXhZYUVoWGxYQVhTSU1Nb282WFh6Rm9IQkltcDVFOTBKRmFWOEhLM2dTNmVHSlFqclRLWERIY1FmcjR5Tm1rOFdTQjNzeEgxZm1saXFWOF9UUnV6bHg4ZEdIVEI0V19vazlSbXRmN21JNEh3a2c?oc=5",
+      "description": "The surprising reason food recalls are getting worse vox.com",
+      "pubDate": "Thu, 27 Aug 2026 20:00:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -21,13 +42,6 @@
       "link": "https://www.foodsafetynews.com/2026/08/more-than-80-patients-reported-in-new-salmonella-outbreak/",
       "description": "Public health officials have not determined the source of the pathogen",
       "pubDate": "Thu, 27 Aug 2026 04:05:42 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Salmonella sickens 29 people in Spain - foodsafetynews.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMkpqUmtpUE1DYWIxUTYyc18tWnJMSDVmMmhRVG9LV0JQTUtaWWEwNDR6c1ZqODk0dGpOd2FzOGpWbnZjWUlkM1MtVTR1YjByMzJEa3VmWHpzZ1dqWjNpWWtvLUpkc01Cd1pRNG9LR0NJNFJ1MVNlSTlqem5mNTR6clJZaw?oc=5",
-      "description": "Salmonella sickens 29 people in Spain foodsafetynews.com",
-      "pubDate": "Thu, 27 Aug 2026 04:05:36 GMT"
     },
     {
       "source": "Food Safety News",
@@ -56,13 +70,6 @@
       "link": "https://www.foodsafetynews.com/2026/08/scientists-flag-listeria-as-an-emerging-threat-in-pakistan/",
       "description": "Researchers have warned about a rise of Listeria infections in Pakistan and called for public health measures to control and prevent cases. Human listeriosis is not a notifiable disease and there is no active surveillance system or targeted research for the pathogen in the country. Listeria monocytogenes&#xA0;contaminated foods",
       "pubDate": "Wed, 26 Aug 2026 04:01:26 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Patient count in Cyclospora outbreaks tops 17,000",
-      "link": "https://www.foodsafetynews.com/2026/08/patient-count-in-cyclospora-outbreaks-tops-17-000/",
-      "description": "The CDC is reporting that there are at least 11,844 additional patients in the seven outbreaks who have not yet been confirmed.",
-      "pubDate": "Wed, 26 Aug 2026 01:13:36 GMT"
     },
     {
       "source": "Food Dive",
@@ -157,20 +164,6 @@
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "Food recalls in 2026: What the data shows so far - KCRA",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKME5welk1dTFEYUpmRVFUQlkyZzJNdzF2dGgwbUxOanpySmhyaGcybmx6U0t5V0RWWVZWaUJUYURBRTB3VnJkSTVIMFpScFhnUlBxTGJKUkp4dXZDYXRpZ0lwUy0wSDk4R2luWUdOV3I5Nk5IRm5J?oc=5",
-      "description": "Food recalls in 2026: What the data shows so far KCRA",
-      "pubDate": "Fri, 14 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric",
-      "title": "HPP Protein Workshop on Listeria Control and Dark-Cutting Beef Recovery Hosted by Hiperbaric and Oklahoma State University - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVTVzZWhFdUZxY1JtWnpxU2NMampwVTNSUUtTZ0FhNUl6VzZDeWxSNi1WellDU2RxcFdyWUNvajY3a0tiZHVQeE1nXzdkXzZfY185LTlDSXUtcW5pRkdtWGFRc2Mwd1UyYXIxYmxZYXpXLXBvN2xoZDhNUUUwdEp5YWdRTU45ZDl6dDRKMWNlWTVyTjlPZWotaHB0VnJ6QjlnZEZ3dFdpWVlhbjJKc0NIQUR6RnpwY2Q4LXMzT3hLWWttTWJsNUZJeS0zeWtrd0FXalVrcF8xT1ZwLU5jVzJ6bkJvbGtLWV91WWp0UUlnVmp5RWtqNHZPRVBfclpNQmV1eXZ0clF4RnZyZw?oc=5",
-      "description": "HPP Protein Workshop on Listeria Control and Dark-Cutting Beef Recovery Hosted by Hiperbaric and Oklahoma State University PR Newswire",
-      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
       "title": "13 foods that were recalled in the U.S. in the last two months - qz.com",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5SU1kTmlvaVdvcWxkSndMLU01RFdIYzZ0OEJ1dXZDTGZ5ZzB3dk1GM0QtQVhvTXF1eWlWVkZlM1BUZFFkZXNBNVZhNUtVY290bEtiLWZjRUt5RGpK?oc=5",
       "description": "13 foods that were recalled in the U.S. in the last two months qz.com",
@@ -247,6 +240,13 @@
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "Investigation Update: Listeria Outbreak, June 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeURCSzJmTjhpWEttM0RXTC1fcmtWZHkxeGk5Q2lheTdneWhwMW1KaHYyamVLeWNnYVhROW1lcm1QMWFzZzZhdmtIcHhVTDFjekVkakhwcVpaMTgtOWFERE1QYUNFOUwwQUc2OW5ITldOVXRLRW5MbWluZ2Y0WXRtNA?oc=5",
+      "description": "Investigation Update: Listeria Outbreak, June 2026 Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
+    },
+    {
       "source": "UK Food Industry",
       "title": "UK Food Valley highlights innovation and ambition at Lincolnshire Show Brunch - Lincolnshire County Council",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZElmZFZsNzZXMlNWQlZQTm96OHZEYW1kdkJWWTlQQS14dUd2OFhHVURRMkpBcFZ0SU5hOG5oSWxpVVdTZFdYcFF5R0VSNjZ5UEx5QzctaWFZdlRaM2xlWW5QX2tRUnlMeVE1bXAyUFRNVzlEWlgxOEd5NHNfSEdidngzWjNGclRfU21IUWNMRGtlcU5jNEFNUDRoNExmc1VKemVEaFF6M3YtYzUzeDFDNVFLTVJnaDh4ZXdSaU1iYjdqLVFPZHc?oc=5",
@@ -259,6 +259,13 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGtOcWpIM1hIV1JSUjd6VVFmelI5ZlE4SzZKdkVHdGlmdm5SUjU1NXkwWWZNeXgyb280RjJpaE1CNEFOeGw2Y1ZPaW5JdkFsdzh2ZGZFSHl5a0VMRVF4UThqOVB3WFJTOFByWFFtZ3NQSi1Lb1RidU1WTmxSY0tKQzVHUF9KQk52OVk4eTJraWJLNjN5SXV4N2FEb3ZERUN4NkRPQ1RGcS1XUmJScFFFTFlMUXlKaHltdkF5SmIxSGxGaThfdUdRZC1nQXc?oc=5",
       "description": "Heard the loud noise in Dixon? Officials say here's what caused it ABC10",
       "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Seafood",
+      "title": "Study finds potential links between virus found in aquaculture and human eye disease - SeafoodSource",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOLWF3WXE3Yy1tZi0tSjF3WlVYWlNsalJnOU11Rlk2dm90V3AwamdXNU9jVV9yTkxzeE5pcm1lTlNzVjZ3c3AwWkdPM1VMSnVXRFdLbEZqZG55c0xhUE1kLUZsZlYzTV9vY2dXdDZoNnBTNHgwTzc1QXpyeEUwNTBZWUVud1Y2NXhwMnBjSzdoSHV5ckNxVG5fLXdpYS1vbGF2WHZwbkZPS3h4ZExxTlA4OWZsNmwySkxZSTRoVFozcVZJNGpJYWhFYkZkcmd2cmhxVWkwZW9KNmNoQndwQ3dPbEpBVXNxT0VqLW56ZzgwYXlKM2ZuMXFZ?oc=5",
+      "description": "Study finds potential links between virus found in aquaculture and human eye disease SeafoodSource",
+      "pubDate": "Thu, 18 Jun 2026 18:23:30 GMT"
     },
     {
       "source": "EU HPP & Food Tech",
@@ -275,7 +282,7 @@
       "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
+      "source": "Hiperbaric",
       "title": "The EU is Tightening Controls on Listeria, Presenting the Food Industry With New Challenges - just-food.com",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNUjBKeFBSa19OLUtTLUJkUDFmbjdmanVSNEdFTU9IRmpNUTYtOGQ1SmdqLUREMkxkakFPcmd1dEFycEZiMDdBTy1YMW9oOWcxWFBVU3lVVnJ2QUpmcklZMVJRV3h0ajk5MWJEU0hKNVZwQkRiMUZqQ0lkNHlMTDMyUVRKRlVsMFM2cFJlX2t3T3NuTUtYVGlOVGdOZTZlMHZLbUphVzhlZVRlaDA3M25JM21sT2JEWG1FSndSd3hnNURnRHliMWFxbFIxeHFhUDZIOWVXcW9OcmlmMU9aOWwyV0VNc0d0ekt0Tmp0bXZaTFhOZzZXWFJtYUsyalRLSlU?oc=5",
       "description": "The EU is Tightening Controls on Listeria, Presenting the Food Industry With New Challenges just-food.com",
@@ -294,6 +301,13 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbDUwU3k3c0FIa0duaHZaSjJNSGNLN0lJd0M3T05TNHZsb1NDSHdNMVVnWkhvUldHRGFRQkdoSFItc2c0SVJyUTdqQzlhNXRWdUpIQmRUWmVtTTdidzlKMl9KZEtQOTFCODdzY3ZkeS1WYW50MzVTcUItSnlVbi02azhQLU1uaTE0M0hpU3NDc1ZzQkFOOFM5dzdFemdtdklKS0NKTHVzNWNiVXl6dEdLS0tCTVhBSDRXWHBNOQ?oc=5",
       "description": "Outbreak Investigation of Listeria monocytogenes: Soft Cheese (June 2026) fda.gov",
       "pubDate": "Fri, 05 Jun 2026 07:19:26 GMT"
+    },
+    {
+      "source": "HPP Healthcare & Medical",
+      "title": "Growing Industrial Applications Expand Scope of Isostatic Pressing Technologies - MarketsandMarkets",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbjhfQXRKR2YwV0xTc0l2MjRnUU1rVUZHZU9JYWcwWExUOFNXM0JPT3hhQjVFTUZLa24xM3F5dU9mYU1YeHFjYXVPRnk3N1Z5ekFjcm01TWVvbTJnTHZVaTFYUE5Id3JEWlVoMUxKc2dUTTh5M1htTjdhWEE2U3QyYm9LNVNxbGhLSU9LQTFMdw?oc=5",
+      "description": "Growing Industrial Applications Expand Scope of Isostatic Pressing Technologies MarketsandMarkets",
+      "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
@@ -324,32 +338,18 @@
       "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Healthcare & Medical",
-      "title": "Universal Pure Data Breach Exposes Sensitive Personal Information - Claim Depot",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iczUzZHNzYTlQUmF6azdNd184N3RrQi15Z0NQZUVBOGZsWEFDT0U1RkpPRURQY18yM1FrenF2STA4TjFyMzIzc0tUSVJWN1dJMHN1R3ZuMDYyZWhyRjJrSlVVSi1fVFoxamc?oc=5",
-      "description": "Universal Pure Data Breach Exposes Sensitive Personal Information Claim Depot",
-      "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
+      "source": "HPP Cosmetics & Beauty",
+      "title": "FIU researchers reveal new findings on utilizing sargassum as a potential food source - WSVN",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmx1R1IteWZodWRGNk85ajZrVVM5dUQtWkNWTnYxZV9sOVcyd2ZMRkxLYVJhNVhEY2t1MnlHbmx3a3N0YVJuVnV1em80Z0Z3UXA4NFhBZXQza1c3cnV5QTVIWWtBWGNfUTlLbjJXS2cwV3NwaVd0bnpxbmg5aVY1YWFRSHFOMExtT1VERVdPXzdhQTZGMFoweFZXc2VKaFhNQzF2NXc5eW1JVHlJaVh2dnBUX29qVEJOVHY4YkNB?oc=5",
+      "description": "FIU researchers reveal new findings on utilizing sargassum as a potential food source WSVN",
+      "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
     },
     {
-      "source": "UK HPP Industry",
+      "source": "HPP Seafood",
       "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
       "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
       "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric",
-      "title": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria - Fuel Cells Works",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMWpFYUZveHVvay1yVVNMNWZxN0NDcnhEdnBvVDdueFBuZWhRVkticVM5andBeGtkc1ZBYzlBcmFGY0xHWGIzaF9UZVV5NUxsNjZ1ZkhHRV9TSk9fbzd0R1E2YXJCM2dMMWMtZmp5ZWxyb1FWRTRKWkV1WDN3WXlZeEg4TmwzUnc0ZDcxeWtWWDZuZ3NEOFJyZS1KNnJqdjFpOTZjVFlCNU8wcWpKdjNYM18yeDgzUUl4Qjl2MUVHUW8xc0Jzd2ZNZWxsNkwtYzExN04xTXktNUxaV05kcFdfMjVqTDNGZEhkaEFEMzJBaWFoam9zZjJ4LQ?oc=5",
-      "description": "Voestalpine Installs Hiperbaric Hydrogen Compression Tech in Austria Fuel Cells Works",
-      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Dairy",
-      "title": "Dairy Under Pressure: How Gulf Tensions Could Affect the Global Milk Market - Dairy News Today",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObDRabm1JZXpVb3JvdTV6NlloSXZ6US1DMlZvaTc1ZzVBWW9FRGE1QkJMSHltVlJhbG8xV1c2YmR4YVYtMzBNVko5bGhHT0phUFRndWpBQ2xVTnF2NHpHLTZKSE5JbC1BZGdJWXBDRnMtV09qOVY4eVhnSXN4YzJONE9GWjJLNXh2enVYRHVvazZqVTJKYWpvNHB0bUgySG91ak1TRkVyV2V1bi0w?oc=5",
-      "description": "Dairy Under Pressure: How Gulf Tensions Could Affect the Global Milk Market Dairy News Today",
-      "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT"
     }
   ]
 }
