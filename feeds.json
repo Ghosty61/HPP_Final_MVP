@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-30T22:26:22.411193+00:00",
+  "updated": "2026-08-31T04:04:25.000913+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Mangoes sold at Walmart recalled because of Salmonella risk",
+      "link": "https://www.foodsafetynews.com/2026/08/mangoes-sold-at-walmart-recalled-because-of-salmonella-risk/",
+      "description": "Panorama Produce is recalling 302 boxes of mangoes because they may be contaminated with Salmonella. The recalled fruit was distributed in the following states from Aug. 10 through Aug. 21: Connecticut, New York, New Jersey and Pennsylvania, and sold in Walmart stores. The recalled mangoes are packaged in a Martina-",
+      "pubDate": "Mon, 31 Aug 2026 01:54:17 GMT"
+    },
     {
       "source": "Food Safety UK & EU",
       "title": "Food recall alert as Tesco, Waitrose and Home Bargains shoppers warned - Herts Advertiser",
@@ -21,6 +28,20 @@
       "link": "https://www.foodsafetynews.com/2026/08/publishers-platform-28/",
       "description": "On Aug. 28, 2026, President Trump said he would give farmers and ranchers the right to process their own food, in a&#xA0; Truth Social post &#xA0;calling the four largest meat processors a monopoly. Here it is in full: &#x201C;Ranchers and Farmers have always been a number one",
       "pubDate": "Sat, 29 Aug 2026 03:10:58 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Grocery store produce linked to stomach illness in Washington state. What to know - Tacoma News Tribune",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tY1pMSk1rdS12QldLaHhmcktVc1N0VGw1bkQ1NnBWcE1aSjl2T25KOC13aVdBVE9oMzM1Y3M0a0tFMmt3X25fM3Z1ZHdRRjZNbVhDcHBWNXhaa1E0MlM5Z2x2ZWktdGNKRHFTTE9kZDVDaDJlR01PeHhPUjcwalXSAX9BVV95cUxNTTBJOFZyVnNPdHNQbFdDWExQdlZKVHVFQzlFVkl3bV93MTdIWHFVVkFIQ3I2SHhaWXdJZFhwOTF3eTgyRHpLenFfaDFyeVc1eDY0c0FfWEFzOXBqZE05Q1h5dUZnY0QzSUtWLWkzZFFnck5jWnAtaHU4YkN6NFZz?oc=5",
+      "description": "Grocery store produce linked to stomach illness in Washington state. What to know Tacoma News Tribune",
+      "pubDate": "Fri, 28 Aug 2026 19:54:33 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Are food recalls increasing under RFK? What the data reveals. - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOXB4NHhFZDI3c21pellxbzQtV0NxU1JLeHI5ZS1neXlpbmZ2WjE3aFVfMDR4ZElCNXI4Y3BXSVdLMnotZ09udjdWMjRJM2d5dmhyYmw4b1RVYjBZa1hSMHpXb1IzWXV1V0tLaGstMzhvU0I5bTlpV0c2X25EWEtTbmdMU29fZ3BnLVBKaUw2NmNtMU1HbU5RSG1TdzBGdw?oc=5",
+      "description": "Are food recalls increasing under RFK? What the data reveals. USA Today",
+      "pubDate": "Fri, 28 Aug 2026 13:41:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -51,25 +72,11 @@
       "pubDate": "Fri, 28 Aug 2026 04:03:52 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Cyclospora patients in outbreak linked to lettuce top 11,000; three more states added",
-      "link": "https://www.foodsafetynews.com/2026/08/cyclospora-patients-in-outbreak-linked-to-lettuce-top-11-000/",
-      "description": "The FDA’s onsite inspections and sampling at Taylor Farms iceberg lettuce growers and the processing facility in Mexico are ongoing.",
-      "pubDate": "Thu, 27 Aug 2026 23:14:09 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
       "title": "The surprising reason food recalls are getting worse - vox.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcTZ3NWEtRTY4U211Vy03LTlxYnNJRmdyVkFCWkJEWjR3QkI5Qll4RUJ0bXliOXhZYUVoWGxYQVhTSU1Nb282WFh6Rm9IQkltcDVFOTBKRmFWOEhLM2dTNmVHSlFqclRLWERIY1FmcjR5Tm1rOFdTQjNzeEgxZm1saXFWOF9UUnV6bHg4ZEdIVEI0V19vazlSbXRmN21JNEh3a2c?oc=5",
       "description": "The surprising reason food recalls are getting worse vox.com",
       "pubDate": "Thu, 27 Aug 2026 20:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Grocery store produce linked to stomach illness in Washington state. What to know - Tacoma News Tribune",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tY1pMSk1rdS12QldLaHhmcktVc1N0VGw1bkQ1NnBWcE1aSjl2T25KOC13aVdBVE9oMzM1Y3M0a0tFMmt3X25fM3Z1ZHdRRjZNbVhDcHBWNXhaa1E0MlM5Z2x2ZWktdGNKRHFTTE9kZDVDaDJlR01PeHhPUjcwalXSAX9BVV95cUxNTTBJOFZyVnNPdHNQbFdDWExQdlZKVHVFQzlFVkl3bV93MTdIWHFVVkFIQ3I2SHhaWXdJZFhwOTF3eTgyRHpLenFfaDFyeVc1eDY0c0FfWEFzOXBqZE05Q1h5dUZnY0QzSUtWLWkzZFFnck5jWnAtaHU4YkN6NFZz?oc=5",
-      "description": "Grocery store produce linked to stomach illness in Washington state. What to know Tacoma News Tribune",
-      "pubDate": "Thu, 27 Aug 2026 16:50:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -84,13 +91,6 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SdklEN1Qtc3ZyV1pLUVJGTU44b1FMVjNNOFZJRDU3YjJvMWZCb3IwTzJvdExFVUZaSE9YU0NkTDhwdHl1REpZQ09FTW5kZFVpWWxYeDk4UTQySUpES1VEWm8tYkFGaHdTSkRWQ25B?oc=5",
       "description": "Salmonella outbreak update GOV.UK",
       "pubDate": "Thu, 27 Aug 2026 09:38:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Recalled Blueberries, Jalapenos, Lettuce: What to Know | National News | U.S. News - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlNpLV96N2V4RVZISzZtd1BQUEhHNjVTa3VuUkttczM5bzk2TEtaaUZ5aUk0Z1AyUExmUDY4MGl6NE1sdFBvSUI4eWNNeFlZb1NMYVFPUnM1ejBBV3NrN0lLNHlHNklySUVSXzlRMjNURjEzNXBVaENUNllqSGJGR1B5bUVYTU9CNkxJQzR2Z1FhMlMyYnFjMlNfVVRfbkw2aENSZlN0MFdydWlySFZKZFRpdw?oc=5",
-      "description": "Recalled Blueberries, Jalapenos, Lettuce: What to Know | National News | U.S. News U.S. News & World Report",
-      "pubDate": "Wed, 26 Aug 2026 20:38:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -254,17 +254,24 @@
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Seafood",
-      "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
-      "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
-      "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Healthcare & Medical",
       "title": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QMXhzcHRVa1RrN0s0NUZtdHJrQndFWjRUTElLVml5RWwyNDh3RUcxWkg0S2RqQXI0QVcwOWp4QUJobzdNVGRUTHJid0JVX09sUDhvMW1WMXFjaTZVeHo0STJFMElDTmlwSWY1aEQtWE92TTRxR092NFdKOA?oc=5",
       "description": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods Medical Xpress",
+      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Europe Food and Beverages Market Size and Analysis, 2034 - Market Data Forecast",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFRiSl9GOVdlZHlfalNxOHk1V25kTkhPV20wU3JpbjNrLXV1VmljMjZfR0dNbEV2b3V2NjZpaDZaM3ZKYTZvazBiV3dDSkY2eWl5eWRrVUE0Z09BV2Y0bzdxLXdaeUgzN2lyTFlFLXNoVXRHQ0xsamN4S0pZeFRUSVV6c1otRzZWYlE?oc=5",
+      "description": "Europe Food and Beverages Market Size and Analysis, 2034 Market Data Forecast",
+      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI - PR Newswire UK",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdVRCUkhzUHR0NTFtd1dTOUUxODE2MkJURGNIVGpkUkdSaE8yeTZvTHJSZENfUEFPUmx5Y01hNUZELW85SklCb0Z5UHRYd196d2IzR1RXWHdxVnE4aFAzZ0RvT3VNWFNiRG9CYXdfWmRDdF9WWkFwYXM4ZGNBQ1VVU3dYSUhmY2NlMTFSU1A2Tkh5ZHpGb2VrQThCZUJrem9mRnhkRGc4M002LWJNcjhOZVpjRW1ocGN0TUw4dFppd3p2OEs3ZnZMUTlUMVBGbXQ3ajRHdnhJOGpxWjZvRzVoUUJUU21lcEMxaXRWZU5RajQtYWp5MzVndVBmdzRyRDdSNTBpNEFxWU1EVVVsa3lSWk45OEQ1QmVtRWJOWVhYSFU5SHlnZzlURjkxT1BsQ1B0NTF3Vg?oc=5",
+      "description": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI PR Newswire UK",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
@@ -324,6 +331,13 @@
       "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
     },
     {
+      "source": "HPP Seafood",
+      "title": "Ready Seafood Operates A Direct-From-The-Boat Supply Chain In Maine - The Business Download |",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNEZrMmFTUzRPc2lfUTZ0anZGVGhDdDl5cnFOT0Uza3hOUEdGZVNkZEJIWGI0RUxlaG9QakhHMmhXR3RacjFTS1VIR0ZRaFA0SFRUVWk1X1J5RUNsZlhDZXJHNno1bFVRR1ZHLVlJaTA4cHJWMHhKbFg3UUJZeWdvYmpTbnlza21wZGZ5UldIOXZCbUdCb2hHWDhsZFlmdy1CNUE?oc=5",
+      "description": "Ready Seafood Operates A Direct-From-The-Boat Supply Chain In Maine The Business Download |",
+      "pubDate": "Tue, 19 May 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Juices & Beverages",
       "title": "Why Trader Joe's Was Once Sued Over Juice - Tasting Table",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGNnaExYaDZIa3BFcnRyZGJxODFSSHFWTTFSTk5fNUNqbHJsbFVEbVloWVZYdUhMakFTZmloTnpacGI4N3c3c2lUcS1HcjhRTG1aTU81UmZIQVRRMWZqSk9QYUhfUjJ5RENGaVQ0clRfd0NoenlLNk1IdXdzRlBpZlNR?oc=5",
@@ -336,20 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTVFPakRRZlRhZG50MVZBdmVxdVZhVzlJRC1LNlBFOS1MNVI0SUhlT2FrUloxRkN5Qi1Bcm4yS0hFLUtDdnY5RC12dUY0TWoyQWh1eUlnSU5ZNmJMNmhSQlkyeU0yeHpGVDNZZE12MlI4TjZvNzZXR2RFN0htMFZlSkxFQmxqYnBEUG1VdUNpT3VMQ1pwUG1jel95SVltMkpVOW1wZDUwWTBkb2xZYmp5dlF5V3ZnV00tTzRubW9yTlhENDVpT1VCTW1rNDFhZURtR0Z5ZlBrOWNVenAxSFlyMmhGN3FkLVAzeWNCWVZYVzBKc2VaWTllemU3NA?oc=5",
       "description": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? PetfoodIndustry",
       "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Juices & Beverages",
-      "title": "Suja Life, Better-For-You Beverage Platform, Files for NASDAQ IPO - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORTBUVDZBcy04eF9GMDItaGdjR0kwR0ctNHdhSnVLLUs5clhsdjRGNWZxVzlsN2QwbXRvY1Bod09NWmI0UEVMU3dUTnVNVnRKTjdYNlJMWWNQN1NvTDExZXJPMGpoUzhCSUdvWTBCR082T1NYZmREajdEc3puNzhMeU5SeVpkaGZ4UFVQVHhIOVNOcnRPUzhaOHV2REkzTktXZGM3aGloSDdQVHAzYWpXdk1NblhlanVpM01CX29FXzNMSlU?oc=5",
-      "description": "Suja Life, Better-For-You Beverage Platform, Files for NASDAQ IPO TradingView",
-      "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Innovation & Research",
-      "title": "From science to market: OSU Ag Research advances understanding of dark-cutting beef - news.okstate.edu",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOU9aRGVVRE9vRUdqRjJQYWYzQzNMclk1M2xVUDh1amZMaS0tZHp3dm9JNXNhaE51QVRCbzd2YVRVd19JQjZWS1RfcDh2MlBOUzgtVVM1UEw2VmVQSUwxR1otUkFUYnRhTnpwcV84THN4VjdFMUwyZzB5b29RRXV1Zm9YZU9pUldrWUcwVW84MDd2YW1OM25RbFJQSFVWNWVsSVNEWkdITTRsamV5aDd1dGNTT3lyMV80ZTEycndGXzBacGRRYk93cnZCWUlBZw?oc=5",
-      "description": "From science to market: OSU Ag Research advances understanding of dark-cutting beef news.okstate.edu",
-      "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
     }
   ]
 }
