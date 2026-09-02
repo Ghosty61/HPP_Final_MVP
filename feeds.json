@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-02T03:13:34.705982+00:00",
+  "updated": "2026-09-02T08:27:39.674645+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Confusion has been the constant in the Cyclospora outbreak",
+      "link": "https://www.foodsafetynews.com/2026/09/confusion-has-been-the-constant-in-the-cyclospora-outbreak/",
+      "description": "– OPINION –",
+      "pubDate": "Wed, 02 Sep 2026 04:06:51 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "New Zealand and French studies call attention to Campylobacter",
+      "link": "https://www.foodsafetynews.com/2026/09/small-new-zealand-study-calls-attention-to-campylobacter-in-chicken/",
+      "description": "A study in New Zealand has provided an insight into Campylobacter contamination and antimicrobial resistance in fresh chicken. Campylobacter&#xA0;was detected in 50 percent of 24 samples. Among confirmed isolates, there were high levels of resistance to tetracycline and ciprofloxacin, while the majority were susceptible to erythromycin.",
+      "pubDate": "Wed, 02 Sep 2026 04:04:25 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Cheese recalled in Canada because of Listeria contamination",
@@ -14,6 +28,13 @@
       "link": "https://www.foodsafetynews.com/2026/09/public-health-officials-investigating-salmonella-outbreak-in-utah/",
       "description": "The Bear River Health Department announced today &#xA0;that it is investigating a&#xA0;Salmonella outbreak after identifying 21 confirmed cases in Cache and Box Elder Counties in northern Utah.&#xA0; The department says it is actively investigating the source of the illness and taking steps to limit further spread.",
       "pubDate": "Wed, 02 Sep 2026 02:01:11 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "How is salmonella contaminating so many things? What to know from a food safety expert - PBS",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR190d3dMVE03R01pSnQwZ3ZoR2xfdFp5ZVVkMk1pamJmdGs0QXBTdDN1REpsTEdxaG43VXZEZlNzeVROV25MVDVuWEE4cGZnMUs0TjFPdGRQNzRrZ3N6NVFCZDV3NENlbWxlVUJmaU9SQk5mQVByakVEMUVnQXcyRkVyUHhpRTllMG5COWN4SURLTXZ5UXZFcm41OGlDZEZiQ0l0SWVOUDNRRXcwV21GMm1YQkNzU2tOZjZxQTdR?oc=5",
+      "description": "How is salmonella contaminating so many things? What to know from a food safety expert PBS",
+      "pubDate": "Tue, 01 Sep 2026 22:50:02 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -44,24 +65,31 @@
       "pubDate": "Tue, 01 Sep 2026 03:41:13 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Pet food recalled because of contamination with Listeria and Salmonella",
-      "link": "https://www.foodsafetynews.com/2026/09/pet-food-recalled-because-of-contamination-with-listeria-and-salmonella/",
-      "description": "Northwest Naturals of Portland, OR, is voluntarily recalling 53 cases of Northwest Naturals Frozen Chicken Recipe cat food and 19 cases of Northwest Naturals Frozen Raw Diet for Dogs Chicken Recipe because of Salmonella and/or Listeria monocytogenes contamination.&#xA0; Salmonella and Listeria monocytogenes can affect animals eating contaminated pet",
-      "pubDate": "Tue, 01 Sep 2026 02:14:49 GMT"
+      "source": "Hiperbaric",
+      "title": "HPP protein workshop to address Listeria control, dark-cutting beef recovery - The Journal Record",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVdVdUtLUXY1WVpJRW1sVHRoZ3NoYlRoOEJ0NTZnclhHR0RibTZ0LVRKclZhdmZDTFdfX2c1MjJBLTJ3RngtNmthMzAxV3BnZUdsLWo0LUdUTWduNWxPc1dRaTZtWXVKakUtSzJOMnpqUnVraVAzcFBtNWxXdzd5S21MTEQzRFU?oc=5",
+      "description": "HPP protein workshop to address Listeria control, dark-cutting beef recovery The Journal Record",
+      "pubDate": "Mon, 31 Aug 2026 20:38:28 GMT"
+    },
+    {
+      "source": "HPP Equipment & Machines",
+      "title": "FAPC to host September high-pressure processing workshop for food industry professionals - OKW News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONnFtZ1dfdzVqMWZCMExKZmdOdGNVM2tVdmQ2akdsOUdreGZzekQyemlsVWhtcmtWb1h5cks2STJDRVZSWlNLZklDNnU3VHpLeDN0aXRpTm9remxKTmoxQW1qREdNOEtHMlN6YkdjUzBuRHpGVUZraGt1dTJwaEpQY1JiUkd0c0dCNWVfWXQwY19sVTNxNkllQlBQOUtzWHdiTEVmY1RqTXR1WE5pWFlsZzVkeWx0UDJaZl9jbzR3eTJTUQ?oc=5",
+      "description": "FAPC to host September high-pressure processing workshop for food industry professionals OKW News",
+      "pubDate": "Mon, 31 Aug 2026 19:05:08 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Whole Foods guacamole recall is now FDA's highest-risk class. What to know - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQUxQYVFoMGhCWVREVDZLc0FkNWZvN0VlR2h5WHJpc1JNZGtpSzZGd2lzeTBUVlk5eUE5ZW5PM3RkTVRKR25jMG82dFJqZGlyQzJURl81SHZJb2k0bXNkOWtKeUo2VVZnNmZhdE5vYUwzQTg4WGlXbmlUTE03a056c2YtcXpKaVRlWU5lV1dKUjN0bDZ5TGtNeEczUUxoUWQ4b3Yxc1ZvU1UzVUVrMUhlOA?oc=5",
-      "description": "Whole Foods guacamole recall is now FDA's highest-risk class. What to know Houston Chronicle",
-      "pubDate": "Mon, 31 Aug 2026 18:31:53 GMT"
+      "title": "Outbreak Investigation of Shiga Toxin-producing E. coli & Salmonella: Sprouts (August 2026) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTnlrYU9lVjFwNDg1XzBoU2dEbHd5LWdVbkh0VUF0dVF3RGxwU2pkR1ltM05LQjF4a2RrczlfNldzODFCY1lEWFJHY0pqbG5VYkhuNWFudUVObW9OUWlab1pPcW11eXZkUFpYV1huMGNsdWFBZVJBb3lRdnJCTFdiLWNYa2RqN0dFV1BiREFZSjd0VDFYVnFsYWlVS2R4b0RXWkY0VWcyTFdlM0ppa3g2X0VPM1RsSXJKeHZWTDBTV19SamZDeHMxR3d0ZFc3RFFR?oc=5",
+      "description": "Outbreak Investigation of Shiga Toxin-producing E. coli & Salmonella: Sprouts (August 2026) fda.gov",
+      "pubDate": "Mon, 31 Aug 2026 15:07:00 GMT"
     },
     {
       "source": "Hiperbaric",
-      "title": "/C O R R E C T I O N -- Hiperbaric/ - Yahoo Finance",
+      "title": "/C O R R E C T I O N -- Hiperbaric/ - finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40Z1hIWkd6aFdmeVo2NEVFcmViUmhscHZncWFrSFhTTnBJY3gyYjZoYzNvZm9iTUpJVTZwTEZfVkFzdFpBUjZVVDhfV2w4cGFPeDBMYVZ6dzVYbC15ck1JVnJtLXFzaVpkMWxIalB0LWpRRGN0bFpObk53?oc=5",
-      "description": "/C O R R E C T I O N -- Hiperbaric/ Yahoo Finance",
+      "description": "/C O R R E C T I O N -- Hiperbaric/ finance.yahoo.com",
       "pubDate": "Mon, 31 Aug 2026 14:16:00 GMT"
     },
     {
@@ -72,32 +100,11 @@
       "pubDate": "Mon, 31 Aug 2026 14:16:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Map Shows Food Recalled Over Salmonella, E.Coli Across US in August - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaG93RkwzM3F1bXUwY3RlaXp4Mll2N2QtSmRTU01oMWJqamxmZlRrWGs5VlUtZlBmOGduMzdGTGVTYmdPcmpqSzBpdkVzcS1fYzRVZUlyM2xEeFlGVy1MSThYZURmby1lZ0hVYkVUQU1XTUR0TUpOV1ZubjNMSWdsUzB1UkFfa0dVTFlZRWFvYkJaNVFIOWxXQ3A4UE4wUUdla1E?oc=5",
-      "description": "Map Shows Food Recalled Over Salmonella, E.Coli Across US in August Newsweek",
-      "pubDate": "Mon, 31 Aug 2026 13:55:00 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Polish analysis finds outbreaks increasing",
-      "link": "https://www.foodsafetynews.com/2026/08/polish-analysis-finds-outbreaks-increasing/",
-      "description": "The majority of outbreaks were bacterial, among which the most prevalent were Salmonella incidents, with 80 percent because of Salmonella Enteritidis.",
-      "pubDate": "Mon, 31 Aug 2026 04:06:04 GMT"
-    },
-    {
       "source": "Food Safety UK & EU",
-      "title": "Food recall alert as Tesco, Waitrose and Home Bargains shoppers warned - hertsad.co.uk",
+      "title": "Food recall alert as Tesco, Waitrose and Home Bargains shoppers warned - Herts Advertiser",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMEtFdzlKNGRLNDMwWjVFeElWSzhjeHFSYktwa0swMGVneUk3b2pQT3cyV1FYTU10cFhOLXZYbEdjTzRLWHhVVHNZMDNNZzFCWnc5em9oSmkySXhtQjRUZmRLWUVrc1l6T3pqLUxkTEZSNldEVVhTangwQlltSzZSeVpNdE8tZ1VxWE5CWldMZGZwTi04RTdnU3ZObjA?oc=5",
-      "description": "Food recall alert as Tesco, Waitrose and Home Bargains shoppers warned hertsad.co.uk",
+      "description": "Food recall alert as Tesco, Waitrose and Home Bargains shoppers warned Herts Advertiser",
       "pubDate": "Sun, 30 Aug 2026 16:09:16 GMT"
-    },
-    {
-      "source": "HPP Equipment & Machines",
-      "title": "FAPC to host September high-pressure processing workshop for food industry profession­als - PressReader",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ0FzNENSTEJTY2tNblF3OUpJQ3NCV24xdXVJWTdIU3dhbHNObXRvSklEbmlQdEhHWlVxZktYOVNGUTF3LW8tVmxVREswZFEySXBuUmlXbEdHeTF0SnNSMTd1MHpwdzJUR1d5NHRJUTBLUkxJd19uQlUyeFd2REFNWXNB?oc=5",
-      "description": "FAPC to host September high-pressure processing workshop for food industry profession­als PressReader",
-      "pubDate": "Sat, 29 Aug 2026 12:14:49 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -108,17 +115,10 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Grocery store produce linked to stomach illness in Washington state. What to know - thenewstribune.com",
+      "title": "Grocery store produce linked to stomach illness in Washington state. What to know - Tacoma News Tribune",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tY1pMSk1rdS12QldLaHhmcktVc1N0VGw1bkQ1NnBWcE1aSjl2T25KOC13aVdBVE9oMzM1Y3M0a0tFMmt3X25fM3Z1ZHdRRjZNbVhDcHBWNXhaa1E0MlM5Z2x2ZWktdGNKRHFTTE9kZDVDaDJlR01PeHhPUjcwalXSAX9BVV95cUxNTTBJOFZyVnNPdHNQbFdDWExQdlZKVHVFQzlFVkl3bV93MTdIWHFVVkFIQ3I2SHhaWXdJZFhwOTF3eTgyRHpLenFfaDFyeVc1eDY0c0FfWEFzOXBqZE05Q1h5dUZnY0QzSUtWLWkzZFFnck5jWnAtaHU4YkN6NFZz?oc=5",
-      "description": "Grocery store produce linked to stomach illness in Washington state. What to know thenewstribune.com",
+      "description": "Grocery store produce linked to stomach illness in Washington state. What to know Tacoma News Tribune",
       "pubDate": "Fri, 28 Aug 2026 19:54:33 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Why Does It Feel Like There’s a New Food Recall Every Day? The Truth, According to Food Safety Experts - Prevention",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb1Q4dS1vclNuQVBfT1B6QUNYUjNiSlpMR3Brcm1qX3pLM0p0LV9YakpWdjVpQU5rQS10OTM5Q183ZFVKYmRVb3NlaVFhZUZyQV9GRFpFU01weEtPZXYxcjVQYkt3enRUcnV2YTJBTERIeS1Idno1Ml85bFR5eWRONVFNMFFxQQ?oc=5",
-      "description": "Why Does It Feel Like There’s a New Food Recall Every Day? The Truth, According to Food Safety Experts Prevention",
-      "pubDate": "Fri, 28 Aug 2026 10:14:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -142,17 +142,24 @@
       "pubDate": "Mon, 24 Aug 2026 07:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Shiga Toxin-producing E. coli & Salmonella: Sprouts (August 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTnlrYU9lVjFwNDg1XzBoU2dEbHd5LWdVbkh0VUF0dVF3RGxwU2pkR1ltM05LQjF4a2RrczlfNldzODFCY1lEWFJHY0pqbG5VYkhuNWFudUVObW9OUWlab1pPcW11eXZkUFpYV1huMGNsdWFBZVJBb3lRdnJCTFdiLWNYa2RqN0dFV1BiREFZSjd0VDFYVnFsYWlVS2R4b0RXWkY0VWcyTFdlM0ppa3g2X0VPM1RsSXJKeHZWTDBTV19SamZDeHMxR3d0ZFc3RFFR?oc=5",
-      "description": "Outbreak Investigation of Shiga Toxin-producing E. coli & Salmonella: Sprouts (August 2026) fda.gov",
-      "pubDate": "Fri, 21 Aug 2026 17:01:28 GMT"
+      "source": "Food Safety UK & EU",
+      "title": "Check eggs warning over salmonella fears plus Asda and Morrisons pasta recall - Manchester Evening News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONVE3endiOVM4X2gwZHdOekdDOXBxRHdJTVRJUW5NdkdpNjZ2YmNxUWp2a2ZFOFFjSUVFMHV4clYycWU5Y3ppb1F4SFdITTlna0N5bFc3U1I0dXBBN3hCUFU3bjVSRWxMUkRTWUV5SU1UeFBEdnE4SFAzbG1IeTR1cFpGbG9PdWptRm5CdF9qc1hyZ9IBlwFBVV95cUxNWHhldWhOdTlQU0JpWHN3Y3d2TGwtd2VSbnlKdXRKVXBCYWxGdlI2c2hqcVlEUWMzaDhHN3N3RjlRdll0eGU2anN1Y2g3NDVfSFViODBZZ09mT1NmRjFNNll0S2ZER3JaZDh1WXQ3aUpYeHBoSGotZVVsOUNBV1hEOXNJWjB6T1lPNUo2MFZkcGZSTHVDNTJF?oc=5",
+      "description": "Check eggs warning over salmonella fears plus Asda and Morrisons pasta recall Manchester Evening News",
+      "pubDate": "Sat, 22 Aug 2026 07:00:00 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "Food Fact Check: Can you get salmonella from eggs? What you need to know. - GOV.UK blogs",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObmNwbkxtUXo5QVNIemI0M1E3M2p2bEtaVlhVS0RheWNnR21DWGMyNm1kWkZ1S3FJTnRES1UyMDdZWlZaQTlOTXUxSFdSTEJWQ0NCY2Q5MGJxTXE2SVBhYXhJYTh2cVVoZDZ5a216UUJRLXlSZk5nYU5FT0NyZ1NUYnRYXzFWSzFrRnhXRjM2OWpydDZXa0kwOW5wT2VOT21iWHc3cHJ6RGtIQ00?oc=5",
-      "description": "Food Fact Check: Can you get salmonella from eggs? What you need to know. GOV.UK blogs",
+      "source": "Listeria Outbreaks",
+      "title": "Blueberries, guacamole, granola. See list of recent food recalls - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZlp1NVpmQVJ6QU9nRHB3bHRJakdYNkl0V3JhR3B1T2xyRTB3SERoNHh5NHlUMUZSTkxPOWRuTzBwMFdGSWxPa0FfOFBIcXVoaVpfYmRfUVFYVWpBNm90WktvRmV5YWVLNkFMMjlBR2NaV3dKdkZIeEtIQmNWSWxCcWIyR1pQcjZ3ektXRVR5Q1cwV1lyb2FrNTdWS1NXc2Fu?oc=5",
+      "description": "Blueberries, guacamole, granola. See list of recent food recalls USA Today",
+      "pubDate": "Fri, 21 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Soups & Meals",
+      "title": "Cook This: 3 Ghanaian recipes from Eat with Afia, including peanut soup - National Post",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uUE1FUHNaNXlIRUNOZWlaaGV3RUhyeXVJZTQtODh1NFdxaV8yQk5DY00wNGluSXBuNjZQYUMxcDRSdnBpZ3pVU2tNTGVBalJJeTByM3VNeXB3dk9UQnYyN0tCN0pJb1hvZXJBaGtCREY?oc=5",
+      "description": "Cook This: 3 Ghanaian recipes from Eat with Afia, including peanut soup National Post",
       "pubDate": "Fri, 21 Aug 2026 07:00:00 GMT"
     },
     {
@@ -163,11 +170,18 @@
       "pubDate": "Thu, 20 Aug 2026 19:45:24 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "Investigation Update: Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zb05obHd4ZVBoakNZLXo3RXN1eTFHWF9HeHlrRVJERXk5anNKby1QbXNtZkRiSWVZWE51QUlacFBBcDhmUDVmZXREVmNCZ1ZuaEtDVWl3NnZkSGxvQ1FrX2FRRl9PdHpBRHc4UG9qU0dvVmdxV0JkSTEwNWtuZw?oc=5",
+      "description": "Investigation Update: Salmonella Outbreak, August 2026 Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT"
+    },
+    {
       "source": "Food Safety UK & EU",
-      "title": "One dead and hundreds ill in UK salmonella outbreak - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IWDFtN2h2RkxmOW9pX2RLQXhpWEM0dDE4X3Nzb0hvbzItSld5a1luUHJzVDZ5RHl5blUtVzZNQXd0dmxGMGY0bWxSREdQX0J1dHNoY3NWczktWlNw?oc=5",
-      "description": "One dead and hundreds ill in UK salmonella outbreak BBC",
-      "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT"
+      "title": "Salmonella outbreak: What we know so far - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHWTZpTGJXME9veUZMbkZmeUwwbTdVN1V0U3dVcXlrVHJ3ZktVM08xNkt5Ymd5YkE3UFkzUGZIeUJ0ZVQ2VEpucUtucjNuWXhOUDg1eXVPS1hzQWJD?oc=5",
+      "description": "Salmonella outbreak: What we know so far BBC",
+      "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -206,23 +220,16 @@
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "Outbreak Investigation of E. coli: Frozen Blueberries (July 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMFBlMFg4UU1DSUxIdDhRQnpSc0F5RjBmTWE3Z0NMcGlvVEo5azJKdmR2T2t3N0RoRHpWTGJtZFRldkgtRWx4UnhKYUJNbUxCMEhDWW1kUFhFa1VoVmsxazFqLUFTdXdGYjYwUEp6XzNHMFptSDhjUGNNdmxjdjVSWDJya2FBUVgwUlFZd2E1Z0lHZDg2ZDZsOHp5YVZUS3BiVDFtZ0E0QTJZelZDMTRocERmMUw0UFEtcEZ3?oc=5",
-      "description": "Outbreak Investigation of E. coli: Frozen Blueberries (July 2026) fda.gov",
-      "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT"
+      "title": "Food recalls keep growing. Eggs, lettuce, soup and more affected - Detroit Free Press",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWTk4WmhubENabTN2X0pfRHVORFNwajVVc3BEME1ySG5QUjIxWjB0VDhpWjlYWWlFbWVKMjJ5SkliMjVRWGpCVkU0TzJmRTVEV21jejM1dDZnRHZiYnJORlJKZHVCNUxyQ1NiRkMxai1CMGNiRnFrR21nUDhHRGgzT0FhNnluQ0tDNDM1LS1JaGZjQkhCUmVFaU9sOGFJd1hYcjgyQ0lzQW1QOVp5NmxaU01fV3c1ZUcy?oc=5",
+      "description": "Food recalls keep growing. Eggs, lettuce, soup and more affected Detroit Free Press",
+      "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
       "title": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts - TCT Magazine",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM29NRXg0WXVha25KbzRLcm9zV0dRUG81ZVhpaGllbzdRR0FyVm1uVDBtVTZkR01tR1VKck56c2xxSC0yRDB1bUsyajAyd19Eb1I4UWRtY0VMVU9VNFlrWGJDSzdDQms0T0VwbE04WWl1V2k5b3cxZmVCSXZPUlg3OTI5Uzh1b2ZPRUhhZ0t6ckhqdHhhQVhfdzVJaVI1dEUtRy1OZERuMGwzY3RUdTc0UUZadFRKVU1JRmFWQVFwZHg3UWc0U3drMUVvZmY?oc=5",
       "description": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts TCT Magazine",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric EU",
-      "title": "Hiperbaric to supply first Spanish-built HIP system to TTT Group - Metal Additive Manufacturing magazine",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2pMRnhXaDV5blFZbGRMRUxQb1dxRFJFQXl2Z29WOEc1Ry1RNWdNSFVCUHhGb3cxMHhVOWJIRUt6QnF1MW5tdWRiaDdvNExubUN0WVB1RW41dEVhcVFuUTdFLVdXaFRIU1FOempJZk90MVFjRXdnTGtUTzdxc2lYWTRWaWRjSU1iUDdvWVpCN3NTcGVL?oc=5",
-      "description": "Hiperbaric to supply first Spanish-built HIP system to TTT Group Metal Additive Manufacturing magazine",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
@@ -234,9 +241,9 @@
     },
     {
       "source": "HPP Healthcare & Medical",
-      "title": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 - fortunebusinessinsights.com",
+      "title": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 - Fortune Business Insights",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEYwb0FKSE1PSTZtQ1IwTHB1ZHBIbzhSc1piZnR6VTRpODRIaDRUaUx1cGZEVldYT0FjSkdEQ0tpNWVITDZ2eXl5TC1IOFM0V0Qwd0ZLaG9RSlp0WXI5V3NEV0pCYTg5RHFIb0NjOWVmcFVxU0ZILVhHdS10cWVtTk5qTVNfcVk?oc=5",
-      "description": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 fortunebusinessinsights.com",
+      "description": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 Fortune Business Insights",
       "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT"
     },
     {
@@ -252,13 +259,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEpNajduOEpKZHpXM3lTSXBpenBudENhVWhRZVNFX1lOOTluUFBoV0VYbDdfakNlWDlod2hxYkY5ZE9heWw5T2VESXBQelpyOTB1V3lma2lUakhvcWxUOEM1UTYtcGRwREFxSHRGeXE2b1A4cDFzdlJvQVZQcjM1cGF6Vk14UXJvVmFRX3JYVUxRakkxRVAtUXFXNVBfbExuaFFVUA?oc=5",
       "description": "Investing in Food Safety is Investing in the Future of Food Food Safety Magazine",
       "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "The EU tightens controls on Listeria, presents the food industry with new challenges - FoodBev Media",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFBHSGtUQzUwd29fU2Mxa2xzWVNwYTJMeEVldnVlS3Y5dU5nT3MxSEtCRDE3QS1EWXBHcXFfZXRFMkdmeHNRaXg3OUJFWjA5cTh4Y0VncDRJUDI2ZzE1RDFHWU5qVHFSd3l0aV9Sc1VWMnp2bC1veDJ5Ylp6dUtXQ0lqWWZmR1hCX1ZMSE9sNi1maFdTdHFvSmVmc1BUWmxGVTNiOHg0WnpuRi04SnhqRlBxZVh3QQ?oc=5",
-      "description": "The EU tightens controls on Listeria, presents the food industry with new challenges FoodBev Media",
-      "pubDate": "Fri, 17 Jul 2026 08:03:10 GMT"
     },
     {
       "source": "HPP Dairy",
@@ -280,13 +280,6 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFRiSl9GOVdlZHlfalNxOHk1V25kTkhPV20wU3JpbjNrLXV1VmljMjZfR0dNbEV2b3V2NjZpaDZaM3ZKYTZvazBiV3dDSkY2eWl5eWRrVUE0Z09BV2Y0bzdxLXdaeUgzN2lyTFlFLXNoVXRHQ0xsamN4S0pZeFRUSVV6c1otRzZWYlE?oc=5",
       "description": "Europe Food and Beverages Market Size and Analysis, 2034 Market Data Forecast",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Investigation Update: Listeria Outbreak, June 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeURCSzJmTjhpWEttM0RXTC1fcmtWZHkxeGk5Q2lheTdneWhwMW1KaHYyamVLeWNnYVhROW1lcm1QMWFzZzZhdmtIcHhVTDFjekVkakhwcVpaMTgtOWFERE1QYUNFOUwwQUc2OW5ITldOVXRLRW5MbWluZ2Y0WXRtNA?oc=5",
-      "description": "Investigation Update: Listeria Outbreak, June 2026 Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -336,6 +329,13 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXFGTmZ4ZW9NamJNeVhqV29yeFQ0SzlTYzBXcnl1RHltM0NIODNMVTFhT2VPaUhCbDFwanJEazNfZEoweXJkWGhtSGRwZWlycjJwWFgwdmZBU2RlSlRlTjhfQ3J4UDlrcUg0N1ZzX2puWVo4amFUczJFcGZCZWphenBFN0dUSlMwWVdIZ2ZmT1daOG90b0Z6X0RB?oc=5",
       "description": "Expansion at the Dock + boosts seafood processing in Alberni Valley Ha-Shilth-Sa Newspaper",
       "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Seafood",
+      "title": "Ready Seafood Operates A Direct-From-The-Boat Supply Chain In Maine - The Business Download |",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNEZrMmFTUzRPc2lfUTZ0anZGVGhDdDl5cnFOT0Uza3hOUEdGZVNkZEJIWGI0RUxlaG9QakhHMmhXR3RacjFTS1VIR0ZRaFA0SFRUVWk1X1J5RUNsZlhDZXJHNno1bFVRR1ZHLVlJaTA4cHJWMHhKbFg3UUJZeWdvYmpTbnlza21wZGZ5UldIOXZCbUdCb2hHWDhsZFlmdy1CNUE?oc=5",
+      "description": "Ready Seafood Operates A Direct-From-The-Boat Supply Chain In Maine The Business Download |",
+      "pubDate": "Tue, 19 May 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Juices & Beverages",
