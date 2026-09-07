@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-07T03:14:59.632853+00:00",
+  "updated": "2026-09-07T08:59:18.894269+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Indonesia urged to act to stop meal program poisonings",
+      "link": "https://www.foodsafetynews.com/2026/09/indonesia-urged-to-act-to-stop-meal-program-poisonings/",
+      "description": "The Indonesian Government has been urged to stop its case-by-case approach to poisoning incidents connected to the school meals program. The MBG Watch Coalition said the government should declare an official food poisoning outbreak or a food safety emergency. In January 2025, the government launched a Free Nutritious",
+      "pubDate": "Mon, 07 Sep 2026 04:03:08 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Ready-to-eat pork jowls recalled because of Listeria contamination",
@@ -31,9 +38,9 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Recalled Blueberries, Jalapenos, Lettuce: What to Know | National News | U.S. News - usnews.com",
+      "title": "Recalled Blueberries, Jalapenos, Lettuce: What to Know | National News | U.S. News - U.S. News & World Report",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlNpLV96N2V4RVZISzZtd1BQUEhHNjVTa3VuUkttczM5bzk2TEtaaUZ5aUk0Z1AyUExmUDY4MGl6NE1sdFBvSUI4eWNNeFlZb1NMYVFPUnM1ejBBV3NrN0lLNHlHNklySUVSXzlRMjNURjEzNXBVaENUNllqSGJGR1B5bUVYTU9CNkxJQzR2Z1FhMlMyYnFjMlNfVVRfbkw2aENSZlN0MFdydWlySFZKZFRpdw?oc=5",
-      "description": "Recalled Blueberries, Jalapenos, Lettuce: What to Know | National News | U.S. News usnews.com",
+      "description": "Recalled Blueberries, Jalapenos, Lettuce: What to Know | National News | U.S. News U.S. News & World Report",
       "pubDate": "Fri, 04 Sep 2026 16:08:00 GMT"
     },
     {
@@ -51,17 +58,10 @@
       "pubDate": "Fri, 04 Sep 2026 04:05:15 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Salmonella outbreak traced to eggs declared over with more than 130 patients",
-      "link": "https://www.foodsafetynews.com/2026/09/salmonella-outbreak-traced-to-eggs-declared-over-with-more-than-130-patients/",
-      "description": "The CDC has declared over a Salmonella outbreak traced to eggs with 134 patients having been identified across 18 states. Officials with the Food and Drug Administration and Centers for Disease Control and Prevention report that the outbreak has been long running with the first patient having become ill on",
-      "pubDate": "Fri, 04 Sep 2026 04:04:57 GMT"
-    },
-    {
       "source": "Hiperbaric",
-      "title": "Hiperbaric H525 HPP System Debuts at PACK EXPO 2026 - fb101.com",
+      "title": "Hiperbaric H525 HPP System Debuts at PACK EXPO 2026 - Food & Beverage Magazine",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNXJQS1ZWVWNSNUlwcUc0RVB6c3V0WXd2NHBFVzVfS0xvMHBnLU1jbUdTUzRueURMaU9ndE00OElxazBVVEl5OFVDWHhLUXlObVdtOEZnTTBvUXF3QnAxNmtIUTBZWTBiYmhrdnpEWGhtejdaNGlXS3prbGZJLWFXSjFLbUZUOEg3bW1pOXNrZks?oc=5",
-      "description": "Hiperbaric H525 HPP System Debuts at PACK EXPO 2026 fb101.com",
+      "description": "Hiperbaric H525 HPP System Debuts at PACK EXPO 2026 Food & Beverage Magazine",
       "pubDate": "Fri, 04 Sep 2026 03:59:32 GMT"
     },
     {
@@ -150,9 +150,9 @@
     },
     {
       "source": "UK Food Industry",
-      "title": "New food innovation event helping businesses take products from idea to aisle - edinburghchamber.co.uk",
+      "title": "New food innovation event helping businesses take products from idea to aisle - Edinburgh Chamber of Commerce",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY1N3Y1VhUkNnN21iVG5HcVFZalJiM2g1LU1Oc1FpWkJhWGZnQ1dqTEg1d1B6RkVUS3RoTkRIRlYwMFFGZEhhZTd6RDMySHZUM3ZobU9veG1lNU1qVkY3aHcxTmQ2aHhEOWIzMlhRUGxZLTR3NTFUTWM2MFJXeWNEc2duR0NlejVPaXVqa0NLT2lUbDdlWlBocWdXNUxpVnJ5VUhoNWY3QVk0aWozU05ROUYySQ?oc=5",
-      "description": "New food innovation event helping businesses take products from idea to aisle edinburghchamber.co.uk",
+      "description": "New food innovation event helping businesses take products from idea to aisle Edinburgh Chamber of Commerce",
       "pubDate": "Mon, 31 Aug 2026 10:25:32 GMT"
     },
     {
@@ -205,6 +205,13 @@
       "pubDate": "Thu, 20 Aug 2026 19:45:24 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "Investigation Update: Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zb05obHd4ZVBoakNZLXo3RXN1eTFHWF9HeHlrRVJERXk5anNKby1QbXNtZkRiSWVZWE51QUlacFBBcDhmUDVmZXREVmNCZ1ZuaEtDVWl3NnZkSGxvQ1FrX2FRRl9PdHpBRHc4UG9qU0dvVmdxV0JkSTEwNWtuZw?oc=5",
+      "description": "Investigation Update: Salmonella Outbreak, August 2026 Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT"
+    },
+    {
       "source": "Food Safety UK & EU",
       "title": "Salmonella outbreak: What we know so far - BBC",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHWTZpTGJXME9veUZMbkZmeUwwbTdVN1V0U3dVcXlrVHJ3ZktVM08xNkt5Ymd5YkE3UFkzUGZIeUJ0ZVQ2VEpucUtucjNuWXhOUDg1eXVPS1hzQWJD?oc=5",
@@ -220,9 +227,9 @@
     },
     {
       "source": "Quintus Technologies",
-      "title": "Quintus Number of Employees 2026 | Employee Count & Headcount Data - reveliolabs.com",
+      "title": "Quintus Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HanR5UmRBNGc3dFNicEFVMG9YSTdiSllDLWdFc2NXMjFwREcwU2ZTWXYyenVWekFjWTItdW4zXzJ4UU5reDRodDNzT1NfSFJWUEhhQTQzLXBVN1FOTjhoeWVsMzVNQQ?oc=5",
-      "description": "Quintus Number of Employees 2026 | Employee Count & Headcount Data reveliolabs.com",
+      "description": "Quintus Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
       "pubDate": "Thu, 13 Aug 2026 20:13:13 GMT"
     },
     {
@@ -269,10 +276,17 @@
     },
     {
       "source": "HPP Healthcare & Medical",
-      "title": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 - Fortune Business Insights",
+      "title": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 - fortunebusinessinsights.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEYwb0FKSE1PSTZtQ1IwTHB1ZHBIbzhSc1piZnR6VTRpODRIaDRUaUx1cGZEVldYT0FjSkdEQ0tpNWVITDZ2eXl5TC1IOFM0V0Qwd0ZLaG9RSlp0WXI5V3NEV0pCYTg5RHFIb0NjOWVmcFVxU0ZILVhHdS10cWVtTk5qTVNfcVk?oc=5",
-      "description": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 Fortune Business Insights",
+      "description": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 fortunebusinessinsights.com",
       "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Royal Welsh Show showcases strength, innovation and ambition of Welsh food and drink sector - Grocery Trader",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNTZqT1VwRlJVcTVYcmR6VlVybHE3WVFfQzYxVTZISkdXYjRZakNEbXQtTExBWWhrOXIxbTY3cnVHTV9rOU0yVExNMWFLc2FkQms4aUhDdDdOSWVrVklrQ0hfR1N1bnUtNHZUS2Z5TXBkSTMtQ0xPTUUxMUxLcWh6bW9LVnctSWNsVktCVHVFdGlOVXNDT3dlX1FnZFRlazVZeTB5aXBYa05LMGFjSHRScThYREgzRU5BMjVn?oc=5",
+      "description": "Royal Welsh Show showcases strength, innovation and ambition of Welsh food and drink sector Grocery Trader",
+      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "EU HPP & Food Tech",
@@ -304,9 +318,9 @@
     },
     {
       "source": "HPP Healthcare & Medical",
-      "title": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods - Medical Xpress",
+      "title": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods - medicalxpress.com",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QMXhzcHRVa1RrN0s0NUZtdHJrQndFWjRUTElLVml5RWwyNDh3RUcxWkg0S2RqQXI0QVcwOWp4QUJobzdNVGRUTHJid0JVX09sUDhvMW1WMXFjaTZVeHo0STJFMElDTmlwSWY1aEQtWE92TTRxR092NFdKOA?oc=5",
-      "description": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods Medical Xpress",
+      "description": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods medicalxpress.com",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
@@ -336,20 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGtOcWpIM1hIV1JSUjd6VVFmelI5ZlE4SzZKdkVHdGlmdm5SUjU1NXkwWWZNeXgyb280RjJpaE1CNEFOeGw2Y1ZPaW5JdkFsdzh2ZGZFSHl5a0VMRVF4UThqOVB3WFJTOFByWFFtZ3NQSi1Lb1RidU1WTmxSY0tKQzVHUF9KQk52OVk4eTJraWJLNjN5SXV4N2FEb3ZERUN4NkRPQ1RGcS1XUmJScFFFTFlMUXlKaHltdkF5SmIxSGxGaThfdUdRZC1nQXc?oc=5",
       "description": "Heard the loud noise in Dixon? Officials say here's what caused it ABC10",
       "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Seafood",
-      "title": "Study finds potential links between virus found in aquaculture and human eye disease - SeafoodSource",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOLWF3WXE3Yy1tZi0tSjF3WlVYWlNsalJnOU11Rlk2dm90V3AwamdXNU9jVV9yTkxzeE5pcm1lTlNzVjZ3c3AwWkdPM1VMSnVXRFdLbEZqZG55c0xhUE1kLUZsZlYzTV9vY2dXdDZoNnBTNHgwTzc1QXpyeEUwNTBZWUVud1Y2NXhwMnBjSzdoSHV5ckNxVG5fLXdpYS1vbGF2WHZwbkZPS3h4ZExxTlA4OWZsNmwySkxZSTRoVFozcVZJNGpJYWhFYkZkcmd2cmhxVWkwZW9KNmNoQndwQ3dPbEpBVXNxT0VqLW56ZzgwYXlKM2ZuMXFZ?oc=5",
-      "description": "Study finds potential links between virus found in aquaculture and human eye disease SeafoodSource",
-      "pubDate": "Thu, 18 Jun 2026 18:23:30 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Frontmatec’s Spanish factory expands robotic automation capacity - Food and Drink Technology",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc28zbGNKazk1RW02MXhLc3EzX3VsSDQtOU1BVlMtV1FkOC1vWktucG1xbVJlSkU4LTRYSFR0dzBIMXRaWkxGRFYxS2VrV0JtV0JQWWdvT2hZNkN2Y1FZUGw4NzBPeXNhdld4NmhlT1dNSU81ZVVaZkVDV1FRLU13YnhYN3dVNUU3bFhQd3BqaGdDRWp6YjczWXdXanY0M1RIcV83MHExV3RpUG1TalIwYU8wVUZGclZLN1Vn?oc=5",
-      "description": "Frontmatec’s Spanish factory expands robotic automation capacity Food and Drink Technology",
-      "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT"
     }
   ]
 }
