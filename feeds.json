@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-10T22:17:46.479262+00:00",
+  "updated": "2026-09-11T03:21:07.884371+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Peanuts recalled because of Salmonella contamination",
+      "link": "https://www.foodsafetynews.com/2026/09/peanuts-recalled-because-of-salmonella-contamination/",
+      "description": "PK brand Roasted Lemon N&#x2019; Chilli Peanuts are being recalled in Canada because of Salmonella contamination. The peanuts were distributed in Ontario and Quebec, according to the Canadian Food Inspection Agency. As of the posting of the recall notice, no illnesses had been reported in relation to the recalled",
+      "pubDate": "Fri, 11 Sep 2026 02:11:35 GMT"
+    },
     {
       "source": "Salmonella Outbreaks",
       "title": "Salmonella outbreak linked to these recalled greens. See product - USA Today",
@@ -79,13 +86,6 @@
       "pubDate": "Wed, 09 Sep 2026 04:05:44 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Singapore expands role of WHO collaborating center",
-      "link": "https://www.foodsafetynews.com/2026/09/singapore-expands-role-of-who-collaborating-center/",
-      "description": "A partnership between the World Health Organization (WHO) and Singapore has been expanded to include risk assessment. Singapore Food Agency&#x2019;s (SFA) National Centre for Food Science (NCFS) has been a WHO collaborating center since 1992 focused on food contamination monitoring.",
-      "pubDate": "Wed, 09 Sep 2026 04:04:23 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "Imported pork products sold in several states including Michigan are being recalled due to possible listeria contamination. See link below ⬇️ 📸 U.S. CDC - facebook.com",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcVI1dWxKNnZWTzNZNFZiX0s4OE1RS1VYNnJxbTJqUGQ3NlpQMDFnRUFKOUZBdVh5bkIzQkZqR2l5dU5rMi0tSU5ZZEo0eU1PblFSaXBPUzQ3RWFVdEoyYjVpWjJIUUtzUlJpZHU3S2M5MnlyTDdhYUpqcmpUVHNwRDJZYlhPY0dKR3BFXzh6cWExX3J2UHZDcVBKSldNTmFDU2Zqb0hfMi1nRXdKb005MGNXeHM5Q0tBQjNfVjh4bExtZVhWdUdqWnk4M2FlNWFfVE11b3hrOFNJVWhqNGlR?oc=5",
@@ -108,9 +108,9 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "PRODUCT RECALL | Sainsbury’s recalls popular product over food safety concerns - yourherefordshire.co.uk",
+      "title": "PRODUCT RECALL | Sainsbury’s recalls popular product over food safety concerns - Your Herefordshire",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdjdjZy1Xc1VtcWc1ZHNKelhUbVFTbHdLdzFGeE1TNW9tVmd5VkNPUmJ6VE9pTUFTQmM0bUZyd0xNY0NxeDhLZ3l6Nm5zbGl5cUtIb09DSms1bUZ4R3U4emQxejZXUkpMNHVEcVJwNFJETUZfYnZPV3czZjBNUXloTE01Z3hjZ0Z2QTdUenAzMDk0WDNva1NabThCcDBrMmo3S3ZqTzlnVzd3bHdNZmZDY19Rc2R4ZWRR?oc=5",
-      "description": "PRODUCT RECALL | Sainsbury’s recalls popular product over food safety concerns yourherefordshire.co.uk",
+      "description": "PRODUCT RECALL | Sainsbury’s recalls popular product over food safety concerns Your Herefordshire",
       "pubDate": "Tue, 08 Sep 2026 06:51:46 GMT"
     },
     {
@@ -234,16 +234,23 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Salmonella outbreak: What we know so far - BBC",
+      "title": "Salmonella outbreak: What we know so far - bbc.co.uk",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHWTZpTGJXME9veUZMbkZmeUwwbTdVN1V0U3dVcXlrVHJ3ZktVM08xNkt5Ymd5YkE3UFkzUGZIeUJ0ZVQ2VEpucUtucjNuWXhOUDg1eXVPS1hzQWJD?oc=5",
-      "description": "Salmonella outbreak: What we know so far BBC",
+      "description": "Salmonella outbreak: What we know so far bbc.co.uk",
       "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT"
     },
     {
+      "source": "UK Food Industry",
+      "title": "Food Ingredients Market Size, Share | Growth Forecast [2034 - Fortune Business Insights",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rSkdQWE93bDdDc2ZENzA0a1Vud1BFbTctT0U3NjJZcWFRTThVN1J3U3ZrVzRQbTRwNVhfS2FveUc1TG56NlJSbFluaWt6bXNBdU5FRmxEejVpYlFLejBfZEhxUHZlcEM3emlNMXN4NVR0S3cycFkxY19B?oc=5",
+      "description": "Food Ingredients Market Size, Share | Growth Forecast [2034 Fortune Business Insights",
+      "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT"
+    },
+    {
       "source": "Quintus Technologies",
-      "title": "Quintus Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "title": "Quintus Number of Employees 2026 | Employee Count & Headcount Data - reveliolabs.com",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HanR5UmRBNGc3dFNicEFVMG9YSTdiSllDLWdFc2NXMjFwREcwU2ZTWXYyenVWekFjWTItdW4zXzJ4UU5reDRodDNzT1NfSFJWUEhhQTQzLXBVN1FOTjhoeWVsMzVNQQ?oc=5",
-      "description": "Quintus Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
+      "description": "Quintus Number of Employees 2026 | Employee Count & Headcount Data reveliolabs.com",
       "pubDate": "Thu, 13 Aug 2026 20:13:13 GMT"
     },
     {
@@ -304,16 +311,16 @@
     },
     {
       "source": "EU HPP & Food Tech",
-      "title": "The EU tightens controls on Listeria, presents the food industry with new challenges - FoodBev Media",
+      "title": "The EU tightens controls on Listeria, presents the food industry with new challenges - foodbev.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFBHSGtUQzUwd29fU2Mxa2xzWVNwYTJMeEVldnVlS3Y5dU5nT3MxSEtCRDE3QS1EWXBHcXFfZXRFMkdmeHNRaXg3OUJFWjA5cTh4Y0VncDRJUDI2ZzE1RDFHWU5qVHFSd3l0aV9Sc1VWMnp2bC1veDJ5Ylp6dUtXQ0lqWWZmR1hCX1ZMSE9sNi1maFdTdHFvSmVmc1BUWmxGVTNiOHg0WnpuRi04SnhqRlBxZVh3QQ?oc=5",
-      "description": "The EU tightens controls on Listeria, presents the food industry with new challenges FoodBev Media",
+      "description": "The EU tightens controls on Listeria, presents the food industry with new challenges foodbev.com",
       "pubDate": "Fri, 17 Jul 2026 08:03:10 GMT"
     },
     {
       "source": "HPP Meat & Deli",
-      "title": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors - theengineer.co.uk",
+      "title": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors - The Engineer",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbFYzSUNCVHQxSHhmR0RBWDNtZFNkMDZTU1FTYXlVSDI3OUtleGZBNy1wNVU4U1ViazJqcW9odzQyOGpqMUM5S2o5aHo3S2R1ZlVVZV9OMTJOaU51eGM2TUtEaEttQ3hUZHRsdWZ5d2Joc01mWmxKY01WSWo1TjYzcmNPWGdlVzU2djJBQ2JDdXVpRHRWV1ZvN2tKZ2UyVXZtU2ZDVS0wQm9NSjVGaFJ1b0lRUHlZOUcwbTZhcDZkS0txSTMxenNvR0RxYnhpUDF1Vl9kS0pZejktaVBPc1ZRMVVBaHVQTzZsY1VMVnZlVG1QeTNwWlpaT3Jn?oc=5",
-      "description": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors theengineer.co.uk",
+      "description": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors The Engineer",
       "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT"
     },
     {
@@ -328,13 +335,6 @@
       "title": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QMXhzcHRVa1RrN0s0NUZtdHJrQndFWjRUTElLVml5RWwyNDh3RUcxWkg0S2RqQXI0QVcwOWp4QUJobzdNVGRUTHJid0JVX09sUDhvMW1WMXFjaTZVeHo0STJFMElDTmlwSWY1aEQtWE92TTRxR092NFdKOA?oc=5",
       "description": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods Medical Xpress",
-      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Europe Food and Beverages Market Size and Analysis, 2034 - Market Data Forecast",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFRiSl9GOVdlZHlfalNxOHk1V25kTkhPV20wU3JpbjNrLXV1VmljMjZfR0dNbEV2b3V2NjZpaDZaM3ZKYTZvazBiV3dDSkY2eWl5eWRrVUE0Z09BV2Y0bzdxLXdaeUgzN2lyTFlFLXNoVXRHQ0xsamN4S0pZeFRUSVV6c1otRzZWYlE?oc=5",
-      "description": "Europe Food and Beverages Market Size and Analysis, 2034 Market Data Forecast",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
