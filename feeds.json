@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T14:06:02.368109+00:00",
+  "updated": "2026-09-13T18:34:14.691973+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -7,13 +7,6 @@
       "link": "https://www.foodsafetynews.com/2026/09/the-sunday-edition-antibiotics/",
       "description": "We have reached a point where there are very few treatment alternatives left for some bacterial infections – including some caused by foodborne bacteria.",
       "pubDate": "Sun, 13 Sep 2026 12:00:17 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Eggs tied to California producer recalled after salmonella outbreak - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRUlxTDFRM3FWZ1NSS1NZUjRQSVZMSF8xRUt3c0gtcVdNRlRSZmZmYVdpemZBQURoSHBPajYzcFVvbUdNQTYzTlZPa25OakJ2TmhTbVBYa0xLcHo1Wll1ZXphMXV5b2pGS0RjODI5cmE4dTRHZkFpeFZtRTZxMjRidg?oc=5",
-      "description": "Eggs tied to California producer recalled after salmonella outbreak San Francisco Chronicle",
-      "pubDate": "Sat, 12 Sep 2026 19:06:27 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -37,6 +30,13 @@
       "pubDate": "Sat, 12 Sep 2026 01:07:12 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "Broccoli sprouts recalled due to multistate salmonella outbreak - KING5.com",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTnBnU29ZeFVBUUVNTU0yMG8yT0dLR1V6X2hINWcyLUsybnZnUXNMUHFlWi1lN3EtcUxqNW5MZGhiTDUteVN4dXJFemxFdHV1M19haGF1RTdpZXJ2eTRJOWYyckkwZDhib3psT2x4SUQyNUhKZjFUVkZ5WWlwSVBuSVR5M2ljOHF0WGJoTzhITUFmVGg2SHpDbVNWSk4yVUF6cTA3SzBmOGgxcEQ4UjVQYTR1SmNJWUs4dzlHaTB0VXRWT0VpcVQ1NTNhVEN5aFlldTlmbU5PSUxTNkVKS3FCUUIyaDg2bVdWTEJ2WTV1SXBaTGFD?oc=5",
+      "description": "Broccoli sprouts recalled due to multistate salmonella outbreak KING5.com",
+      "pubDate": "Sat, 12 Sep 2026 00:08:00 GMT"
+    },
+    {
       "source": "Food Safety News",
       "title": "CDC says Cyclospora outbreak linked to iceberg lettuce is over",
       "link": "https://www.foodsafetynews.com/2026/09/cdc-says-cyclospora-outbreak-linked-to-iceberg-lettuce-is-over/",
@@ -51,25 +51,18 @@
       "pubDate": "Fri, 11 Sep 2026 21:55:57 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdUdsbVJOcjgzc00zWWhJTk00ZlRROHVzVW45R091WDZNeTRfMEVvcWhnMFctRFV5czl2Y0RRRExBWFpxakdCcDFUX1d3TFNSOVNzd000X2N0dERJODlaWUxFaDZiZkczemdYWkpXaTRiSHBHSVdUdGw1bnppVTMyMWt0Tkh2YWdD?oc=5",
-      "description": "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak The New York Times",
-      "pubDate": "Fri, 11 Sep 2026 14:46:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Outbreak Investigation of E. coli O145:H28: Frozen Blueberries (July 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMFBlMFg4UU1DSUxIdDhRQnpSc0F5RjBmTWE3Z0NMcGlvVEo5azJKdmR2T2t3N0RoRHpWTGJtZFRldkgtRWx4UnhKYUJNbUxCMEhDWW1kUFhFa1VoVmsxazFqLUFTdXdGYjYwUEp6XzNHMFptSDhjUGNNdmxjdjVSWDJya2FBUVgwUlFZd2E1Z0lHZDg2ZDZsOHp5YVZUS3BiVDFtZ0E0QTJZelZDMTRocERmMUw0UFEtcEZ3?oc=5",
-      "description": "Outbreak Investigation of E. coli O145:H28: Frozen Blueberries (July 2026) fda.gov",
-      "pubDate": "Fri, 11 Sep 2026 00:00:00 GMT"
-    },
-    {
       "source": "Food Safety UK & EU",
       "title": "Waitrose issues do not eat warning and urgent product recall after listeria discovery - The Independent",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkVBUG9RZWg4NzVhM0FZdGpqbFlIMHNPcmZ0djdJWXQ3NXVRamwtbkJ6SEZmeFZuV045UGwxYl9rXzUtMHJCbWlnYTk0ZjA1N0dBNlQySDZuQlRZVUcwX25jMEE3Y0R0cTNYOWIzSmhxdVBXZFlSNXJRdW96TEsxdUtKRHJ2XzJqRWs5dHhSdWNfeXk2QXJFalp6LXhtenZfNHA3YVJYNEJndmFlcWk1WXJQYmsxNWsySTRR?oc=5",
       "description": "Waitrose issues do not eat warning and urgent product recall after listeria discovery The Independent",
       "pubDate": "Thu, 10 Sep 2026 21:58:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdUdsbVJOcjgzc00zWWhJTk00ZlRROHVzVW45R091WDZNeTRfMEVvcWhnMFctRFV5czl2Y0RRRExBWFpxakdCcDFUX1d3TFNSOVNzd000X2N0dERJODlaWUxFaDZiZkczemdYWkpXaTRiSHBHSVdUdGw1bnppVTMyMWt0Tkh2YWdD?oc=5",
+      "description": "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak The New York Times",
+      "pubDate": "Thu, 10 Sep 2026 19:29:54 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -80,9 +73,9 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Broccoli Sprouts Linked to Salmonella Outbreak Recalled After 2 Hospitalizations - today.com",
+      "title": "Broccoli Sprouts Linked to Salmonella Outbreak Recalled After 2 Hospitalizations - TODAY.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdTlzNTdVRkNoM05vZ2pyb195MDZDMGxON281azlNd3Bwem9sX3JreE5nSTBIZWE5S3hwRVpMNVIwVDQ0Uk9nc1JoMmtjUncwdHVqT1ZUNFZlYVV3NWlLZ0lDV3o4S3djTXV1M0tuVGZZOVp4QWlaUjdic3ZGV0hsaEI2NjZHSmhkZW04SjA5TlJYWmZ5?oc=5",
-      "description": "Broccoli Sprouts Linked to Salmonella Outbreak Recalled After 2 Hospitalizations today.com",
+      "description": "Broccoli Sprouts Linked to Salmonella Outbreak Recalled After 2 Hospitalizations TODAY.com",
       "pubDate": "Thu, 10 Sep 2026 00:25:00 GMT"
     },
     {
@@ -101,9 +94,9 @@
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "Cream Cheese and Deli Salads Recalled After Listeria Detected by FDA - newsweek.com",
+      "title": "Cream Cheese and Deli Salads Recalled After Listeria Detected by FDA - Newsweek",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd3lSSlZ3TGRXNVBhWlVvWmdOR01YUEJPdW9XUldUb1dQbnMwM3ZPTzRjVUp3QnlQbU9fNmFIakdvc3NPd0tPYlBwNDhaNkJiYnB3eldkNzZyRGRzdUhTRDVoeHFxZ05Ja0ptUm50OHhHVUgtNGpTRHIwRllvVkZQZg?oc=5",
-      "description": "Cream Cheese and Deli Salads Recalled After Listeria Detected by FDA newsweek.com",
+      "description": "Cream Cheese and Deli Salads Recalled After Listeria Detected by FDA Newsweek",
       "pubDate": "Wed, 09 Sep 2026 10:46:00 GMT"
     },
     {
@@ -220,10 +213,17 @@
     },
     {
       "source": "Quintus Technologies",
-      "title": "Quintus Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "title": "Quintus Number of Employees 2026 | Employee Count & Headcount Data - reveliolabs.com",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HanR5UmRBNGc3dFNicEFVMG9YSTdiSllDLWdFc2NXMjFwREcwU2ZTWXYyenVWekFjWTItdW4zXzJ4UU5reDRodDNzT1NfSFJWUEhhQTQzLXBVN1FOTjhoeWVsMzVNQQ?oc=5",
-      "description": "Quintus Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
+      "description": "Quintus Number of Employees 2026 | Employee Count & Headcount Data reveliolabs.com",
       "pubDate": "Thu, 13 Aug 2026 20:13:13 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "13 foods that were recalled in the U.S. in the last two months - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5SU1kTmlvaVdvcWxkSndMLU01RFdIYzZ0OEJ1dXZDTGZ5ZzB3dk1GM0QtQVhvTXF1eWlWVkZlM1BUZFFkZXNBNVZhNUtVY290bEtiLWZjRUt5RGpK?oc=5",
+      "description": "13 foods that were recalled in the U.S. in the last two months qz.com",
+      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Meat & Deli",
@@ -269,9 +269,9 @@
     },
     {
       "source": "UK Food Industry",
-      "title": "Royal Welsh Show showcases strength, innovation and ambition of Welsh food and drink sector - grocerytrader.co.uk",
+      "title": "Royal Welsh Show showcases strength, innovation and ambition of Welsh food and drink sector - Grocery Trader",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNTZqT1VwRlJVcTVYcmR6VlVybHE3WVFfQzYxVTZISkdXYjRZakNEbXQtTExBWWhrOXIxbTY3cnVHTV9rOU0yVExNMWFLc2FkQms4aUhDdDdOSWVrVklrQ0hfR1N1bnUtNHZUS2Z5TXBkSTMtQ0xPTUUxMUxLcWh6bW9LVnctSWNsVktCVHVFdGlOVXNDT3dlX1FnZFRlazVZeTB5aXBYa05LMGFjSHRScThYREgzRU5BMjVn?oc=5",
-      "description": "Royal Welsh Show showcases strength, innovation and ambition of Welsh food and drink sector grocerytrader.co.uk",
+      "description": "Royal Welsh Show showcases strength, innovation and ambition of Welsh food and drink sector Grocery Trader",
       "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT"
     },
     {
@@ -290,9 +290,9 @@
     },
     {
       "source": "HPP Meat & Deli",
-      "title": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors - theengineer.co.uk",
+      "title": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors - The Engineer",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbFYzSUNCVHQxSHhmR0RBWDNtZFNkMDZTU1FTYXlVSDI3OUtleGZBNy1wNVU4U1ViazJqcW9odzQyOGpqMUM5S2o5aHo3S2R1ZlVVZV9OMTJOaU51eGM2TUtEaEttQ3hUZHRsdWZ5d2Joc01mWmxKY01WSWo1TjYzcmNPWGdlVzU2djJBQ2JDdXVpRHRWV1ZvN2tKZ2UyVXZtU2ZDVS0wQm9NSjVGaFJ1b0lRUHlZOUcwbTZhcDZkS0txSTMxenNvR0RxYnhpUDF1Vl9kS0pZejktaVBPc1ZRMVVBaHVQTzZsY1VMVnZlVG1QeTNwWlpaT3Jn?oc=5",
-      "description": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors theengineer.co.uk",
+      "description": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors The Engineer",
       "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT"
     },
     {
@@ -311,9 +311,9 @@
     },
     {
       "source": "UK Food Industry",
-      "title": "Europe Food and Beverages Market Size and Analysis, 2034 - Market Data Forecast",
+      "title": "Europe Food and Beverages Market Size and Analysis, 2034 - marketdataforecast.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFRiSl9GOVdlZHlfalNxOHk1V25kTkhPV20wU3JpbjNrLXV1VmljMjZfR0dNbEV2b3V2NjZpaDZaM3ZKYTZvazBiV3dDSkY2eWl5eWRrVUE0Z09BV2Y0bzdxLXdaeUgzN2lyTFlFLXNoVXRHQ0xsamN4S0pZeFRUSVV6c1otRzZWYlE?oc=5",
-      "description": "Europe Food and Beverages Market Size and Analysis, 2034 Market Data Forecast",
+      "description": "Europe Food and Beverages Market Size and Analysis, 2034 marketdataforecast.com",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
@@ -325,9 +325,9 @@
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "Investigation Update: Listeria Outbreak, June 2026 - cdc.gov",
+      "title": "Investigation Update: Listeria Outbreak, June 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeURCSzJmTjhpWEttM0RXTC1fcmtWZHkxeGk5Q2lheTdneWhwMW1KaHYyamVLeWNnYVhROW1lcm1QMWFzZzZhdmtIcHhVTDFjekVkakhwcVpaMTgtOWFERE1QYUNFOUwwQUc2OW5ITldOVXRLRW5MbWluZ2Y0WXRtNA?oc=5",
-      "description": "Investigation Update: Listeria Outbreak, June 2026 cdc.gov",
+      "description": "Investigation Update: Listeria Outbreak, June 2026 Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
     },
     {
@@ -339,9 +339,9 @@
     },
     {
       "source": "HPP Soups & Meals",
-      "title": "Heard the loud noise in Dixon? Officials say here's what caused it - ABC10",
+      "title": "Heard the loud noise in Dixon? Officials say here's what caused it - abc10.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGtOcWpIM1hIV1JSUjd6VVFmelI5ZlE4SzZKdkVHdGlmdm5SUjU1NXkwWWZNeXgyb280RjJpaE1CNEFOeGw2Y1ZPaW5JdkFsdzh2ZGZFSHl5a0VMRVF4UThqOVB3WFJTOFByWFFtZ3NQSi1Lb1RidU1WTmxSY0tKQzVHUF9KQk52OVk4eTJraWJLNjN5SXV4N2FEb3ZERUN4NkRPQ1RGcS1XUmJScFFFTFlMUXlKaHltdkF5SmIxSGxGaThfdUdRZC1nQXc?oc=5",
-      "description": "Heard the loud noise in Dixon? Officials say here's what caused it ABC10",
+      "description": "Heard the loud noise in Dixon? Officials say here's what caused it abc10.com",
       "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT"
     },
     {
