@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T18:34:14.691973+00:00",
+  "updated": "2026-09-13T22:09:05.508862+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -7,6 +7,13 @@
       "link": "https://www.foodsafetynews.com/2026/09/the-sunday-edition-antibiotics/",
       "description": "We have reached a point where there are very few treatment alternatives left for some bacterial infections – including some caused by foodborne bacteria.",
       "pubDate": "Sun, 13 Sep 2026 12:00:17 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Happy Hens farm in Ramona voluntarily recalls eggs after Salmonella outbreak - NBC 7 San Diego",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeEJWNkthMFRCOWNheUZMVW8xVzJCZXRQYXlfa1FtMGQtUm96aThxT3M5SXR5N3FESVVPV0xkd2JwYU91bzAxWlM2M2VuaUd6VFdxMXNzN1YtSWxKR0hVajFpblBSaXZvclNWMV83V2RsUi1jY3RVVnVfUFBwRmpaRFVHWEZxc2t5Q0ptbUFpOEJZZUoyZ2ptSklWc1B3bEFyZ2FCY1lqQzlzVExZUkxHRldUXzlmWFhZVGZuTmIwQ2prcUcwZlNQellROXYwem9vLTdUUnNzYktsYTU10gHkAUFVX3lxTE9MU1BZY2I5MkhyYUV0dWhuUGhSeVBORFVWQlNYMi1FdTlpU3ExclN2Rk1rQ21hYlZRMDdKWGlfQk40d1pLQWUxNXRMVWFmWU44eERwN2hQWEdaekE0NzZhVzE0X3dBZE1ZQThtUWRIeTA5WFRndXVOY3NkN1BSZzNSV3MtYmZLazJ3aTY5NnF3RDlQZS1COGdCNkRFTGVPRGc0ZTg4bkVnT0YwdUVmMEhWNkhJM0l3ck54eGJJNDMxOXdFUm1rTU03TWxFc3poSzRVYkhNamFSbElfanJranpMSlpSdw?oc=5",
+      "description": "Happy Hens farm in Ramona voluntarily recalls eggs after Salmonella outbreak NBC 7 San Diego",
+      "pubDate": "Sat, 12 Sep 2026 06:37:15 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -28,13 +35,6 @@
       "link": "https://www.foodsafetynews.com/2026/09/california-issues-pubic-warning-about-happy-hens-eggs-because-of-link-to-salmonella-outbreak/",
       "description": "The California Department of Health has issued a warning about Happy Hens brand eggs because a Salmonella outbreak has been traced to them. The department is working with the California Department of Food and Agriculture and the U.S. Food and Drug Administration to investigate the outbreak of Salmonella Enteritidis",
       "pubDate": "Sat, 12 Sep 2026 01:07:12 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Broccoli sprouts recalled due to multistate salmonella outbreak - KING5.com",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTnBnU29ZeFVBUUVNTU0yMG8yT0dLR1V6X2hINWcyLUsybnZnUXNMUHFlWi1lN3EtcUxqNW5MZGhiTDUteVN4dXJFemxFdHV1M19haGF1RTdpZXJ2eTRJOWYyckkwZDhib3psT2x4SUQyNUhKZjFUVkZ5WWlwSVBuSVR5M2ljOHF0WGJoTzhITUFmVGg2SHpDbVNWSk4yVUF6cTA3SzBmOGgxcEQ4UjVQYTR1SmNJWUs4dzlHaTB0VXRWT0VpcVQ1NTNhVEN5aFlldTlmbU5PSUxTNkVKS3FCUUIyaDg2bVdWTEJ2WTV1SXBaTGFD?oc=5",
-      "description": "Broccoli sprouts recalled due to multistate salmonella outbreak KING5.com",
-      "pubDate": "Sat, 12 Sep 2026 00:08:00 GMT"
     },
     {
       "source": "Food Safety News",
@@ -59,9 +59,9 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak - The New York Times",
+      "title": "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak - nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdUdsbVJOcjgzc00zWWhJTk00ZlRROHVzVW45R091WDZNeTRfMEVvcWhnMFctRFV5czl2Y0RRRExBWFpxakdCcDFUX1d3TFNSOVNzd000X2N0dERJODlaWUxFaDZiZkczemdYWkpXaTRiSHBHSVdUdGw1bnppVTMyMWt0Tkh2YWdD?oc=5",
-      "description": "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak The New York Times",
+      "description": "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak nytimes.com",
       "pubDate": "Thu, 10 Sep 2026 19:29:54 GMT"
     },
     {
@@ -108,9 +108,9 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "PRODUCT RECALL | Sainsbury’s recalls popular product over food safety concerns - Your Herefordshire",
+      "title": "PRODUCT RECALL | Sainsbury’s recalls popular product over food safety concerns - yourherefordshire.co.uk",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdjdjZy1Xc1VtcWc1ZHNKelhUbVFTbHdLdzFGeE1TNW9tVmd5VkNPUmJ6VE9pTUFTQmM0bUZyd0xNY0NxeDhLZ3l6Nm5zbGl5cUtIb09DSms1bUZ4R3U4emQxejZXUkpMNHVEcVJwNFJETUZfYnZPV3czZjBNUXloTE01Z3hjZ0Z2QTdUenAzMDk0WDNva1NabThCcDBrMmo3S3ZqTzlnVzd3bHdNZmZDY19Rc2R4ZWRR?oc=5",
-      "description": "PRODUCT RECALL | Sainsbury’s recalls popular product over food safety concerns Your Herefordshire",
+      "description": "PRODUCT RECALL | Sainsbury’s recalls popular product over food safety concerns yourherefordshire.co.uk",
       "pubDate": "Tue, 08 Sep 2026 06:51:46 GMT"
     },
     {
@@ -171,9 +171,9 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Salmonella outbreak update - GOV.UK",
+      "title": "Salmonella outbreak update - gov.uk",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SdklEN1Qtc3ZyV1pLUVJGTU44b1FMVjNNOFZJRDU3YjJvMWZCb3IwTzJvdExFVUZaSE9YU0NkTDhwdHl1REpZQ09FTW5kZFVpWWxYeDk4UTQySUpES1VEWm8tYkFGaHdTSkRWQ25B?oc=5",
-      "description": "Salmonella outbreak update GOV.UK",
+      "description": "Salmonella outbreak update gov.uk",
       "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT"
     },
     {
@@ -192,9 +192,9 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Food Fact Check: Can you get salmonella from eggs? What you need to know. - GOV.UK blogs",
+      "title": "Food Fact Check: Can you get salmonella from eggs? What you need to know. - food.blog.gov.uk",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObmNwbkxtUXo5QVNIemI0M1E3M2p2bEtaVlhVS0RheWNnR21DWGMyNm1kWkZ1S3FJTnRES1UyMDdZWlZaQTlOTXUxSFdSTEJWQ0NCY2Q5MGJxTXE2SVBhYXhJYTh2cVVoZDZ5a216UUJRLXlSZk5nYU5FT0NyZ1NUYnRYXzFWSzFrRnhXRjM2OWpydDZXa0kwOW5wT2VOT21iWHc3cHJ6RGtIQ00?oc=5",
-      "description": "Food Fact Check: Can you get salmonella from eggs? What you need to know. GOV.UK blogs",
+      "description": "Food Fact Check: Can you get salmonella from eggs? What you need to know. food.blog.gov.uk",
       "pubDate": "Fri, 21 Aug 2026 07:00:00 GMT"
     },
     {
@@ -213,9 +213,9 @@
     },
     {
       "source": "Quintus Technologies",
-      "title": "Quintus Number of Employees 2026 | Employee Count & Headcount Data - reveliolabs.com",
+      "title": "Quintus Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HanR5UmRBNGc3dFNicEFVMG9YSTdiSllDLWdFc2NXMjFwREcwU2ZTWXYyenVWekFjWTItdW4zXzJ4UU5reDRodDNzT1NfSFJWUEhhQTQzLXBVN1FOTjhoeWVsMzVNQQ?oc=5",
-      "description": "Quintus Number of Employees 2026 | Employee Count & Headcount Data reveliolabs.com",
+      "description": "Quintus Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
       "pubDate": "Thu, 13 Aug 2026 20:13:13 GMT"
     },
     {
@@ -311,9 +311,9 @@
     },
     {
       "source": "UK Food Industry",
-      "title": "Europe Food and Beverages Market Size and Analysis, 2034 - marketdataforecast.com",
+      "title": "Europe Food and Beverages Market Size and Analysis, 2034 - Market Data Forecast",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFRiSl9GOVdlZHlfalNxOHk1V25kTkhPV20wU3JpbjNrLXV1VmljMjZfR0dNbEV2b3V2NjZpaDZaM3ZKYTZvazBiV3dDSkY2eWl5eWRrVUE0Z09BV2Y0bzdxLXdaeUgzN2lyTFlFLXNoVXRHQ0xsamN4S0pZeFRUSVV6c1otRzZWYlE?oc=5",
-      "description": "Europe Food and Beverages Market Size and Analysis, 2034 marketdataforecast.com",
+      "description": "Europe Food and Beverages Market Size and Analysis, 2034 Market Data Forecast",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
