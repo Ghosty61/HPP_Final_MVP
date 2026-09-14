@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T22:09:05.508862+00:00",
+  "updated": "2026-09-14T03:42:29.419891+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -7,13 +7,6 @@
       "link": "https://www.foodsafetynews.com/2026/09/the-sunday-edition-antibiotics/",
       "description": "We have reached a point where there are very few treatment alternatives left for some bacterial infections – including some caused by foodborne bacteria.",
       "pubDate": "Sun, 13 Sep 2026 12:00:17 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Happy Hens farm in Ramona voluntarily recalls eggs after Salmonella outbreak - NBC 7 San Diego",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeEJWNkthMFRCOWNheUZMVW8xVzJCZXRQYXlfa1FtMGQtUm96aThxT3M5SXR5N3FESVVPV0xkd2JwYU91bzAxWlM2M2VuaUd6VFdxMXNzN1YtSWxKR0hVajFpblBSaXZvclNWMV83V2RsUi1jY3RVVnVfUFBwRmpaRFVHWEZxc2t5Q0ptbUFpOEJZZUoyZ2ptSklWc1B3bEFyZ2FCY1lqQzlzVExZUkxHRldUXzlmWFhZVGZuTmIwQ2prcUcwZlNQellROXYwem9vLTdUUnNzYktsYTU10gHkAUFVX3lxTE9MU1BZY2I5MkhyYUV0dWhuUGhSeVBORFVWQlNYMi1FdTlpU3ExclN2Rk1rQ21hYlZRMDdKWGlfQk40d1pLQWUxNXRMVWFmWU44eERwN2hQWEdaekE0NzZhVzE0X3dBZE1ZQThtUWRIeTA5WFRndXVOY3NkN1BSZzNSV3MtYmZLazJ3aTY5NnF3RDlQZS1COGdCNkRFTGVPRGc0ZTg4bkVnT0YwdUVmMEhWNkhJM0l3ck54eGJJNDMxOXdFUm1rTU03TWxFc3poSzRVYkhNamFSbElfanJranpMSlpSdw?oc=5",
-      "description": "Happy Hens farm in Ramona voluntarily recalls eggs after Salmonella outbreak NBC 7 San Diego",
-      "pubDate": "Sat, 12 Sep 2026 06:37:15 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -44,11 +37,25 @@
       "pubDate": "Fri, 11 Sep 2026 22:36:23 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "California farm recalls eggs due to possible salmonella. What to look for - Sacramento Bee",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JZEI2MUZxTGhnOVlDZDFtOV9jcGYwQ01Fb3lJTEpMeVR1OXdMMzN5ZG5GV2FVWWFLNnVpRk00c1NyN0lLSms2TXJ6bzI0bDNCXzJCNTJTdWx2RWtGcVN4TGRrUFF0aEZUUUFqcQ?oc=5",
+      "description": "California farm recalls eggs due to possible salmonella. What to look for Sacramento Bee",
+      "pubDate": "Fri, 11 Sep 2026 22:29:24 GMT"
+    },
+    {
       "source": "Food Safety News",
       "title": "Idaho company recalls sprouts linked to Salmonella outbreak",
       "link": "https://www.foodsafetynews.com/2026/09/idaho-company-recalls-sprouts-linked-to-salmonella-outbreak/",
       "description": "Evergreen Fresh Sprouts LLC of Moyie Springs, ID, is recalling 215 cases of Broccoli Sprouts, because they have been linked to an outbreak of Salmonella infections. The sprouts were delivered to three distributors in Washington between Aug. 24 and Sept. 2. They may have been further distributed and sold in",
       "pubDate": "Fri, 11 Sep 2026 21:55:57 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Outbreak Investigation of E. coli O145:H28: Frozen Blueberries (July 2026) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMFBlMFg4UU1DSUxIdDhRQnpSc0F5RjBmTWE3Z0NMcGlvVEo5azJKdmR2T2t3N0RoRHpWTGJtZFRldkgtRWx4UnhKYUJNbUxCMEhDWW1kUFhFa1VoVmsxazFqLUFTdXdGYjYwUEp6XzNHMFptSDhjUGNNdmxjdjVSWDJya2FBUVgwUlFZd2E1Z0lHZDg2ZDZsOHp5YVZUS3BiVDFtZ0E0QTJZelZDMTRocERmMUw0UFEtcEZ3?oc=5",
+      "description": "Outbreak Investigation of E. coli O145:H28: Frozen Blueberries (July 2026) fda.gov",
+      "pubDate": "Fri, 11 Sep 2026 00:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -59,9 +66,9 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak - nytimes.com",
+      "title": "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdUdsbVJOcjgzc00zWWhJTk00ZlRROHVzVW45R091WDZNeTRfMEVvcWhnMFctRFV5czl2Y0RRRExBWFpxakdCcDFUX1d3TFNSOVNzd000X2N0dERJODlaWUxFaDZiZkczemdYWkpXaTRiSHBHSVdUdGw1bnppVTMyMWt0Tkh2YWdD?oc=5",
-      "description": "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak nytimes.com",
+      "description": "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak The New York Times",
       "pubDate": "Thu, 10 Sep 2026 19:29:54 GMT"
     },
     {
@@ -108,9 +115,9 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "PRODUCT RECALL | Sainsbury’s recalls popular product over food safety concerns - yourherefordshire.co.uk",
+      "title": "PRODUCT RECALL | Sainsbury’s recalls popular product over food safety concerns - Your Herefordshire",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdjdjZy1Xc1VtcWc1ZHNKelhUbVFTbHdLdzFGeE1TNW9tVmd5VkNPUmJ6VE9pTUFTQmM0bUZyd0xNY0NxeDhLZ3l6Nm5zbGl5cUtIb09DSms1bUZ4R3U4emQxejZXUkpMNHVEcVJwNFJETUZfYnZPV3czZjBNUXloTE01Z3hjZ0Z2QTdUenAzMDk0WDNva1NabThCcDBrMmo3S3ZqTzlnVzd3bHdNZmZDY19Rc2R4ZWRR?oc=5",
-      "description": "PRODUCT RECALL | Sainsbury’s recalls popular product over food safety concerns yourherefordshire.co.uk",
+      "description": "PRODUCT RECALL | Sainsbury’s recalls popular product over food safety concerns Your Herefordshire",
       "pubDate": "Tue, 08 Sep 2026 06:51:46 GMT"
     },
     {
@@ -118,7 +125,7 @@
       "title": "Texas food recalls in August 2026: Check your pantries for these products - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOTNiRUtlOUp5bG4za2NUTk5rZ3RNWGF6VF9oeDkxZFVGT3BDNEdaUVE4NV9JLS1YVERiOUZRekU0OVItS2U0ZmdlSnN3WGtSNFBmR1NONDFsNzZKUFl6c3NSRER2ZU1Cd3k1TjRoT3pzaUttRUw1T2JhblFWQm5yZFR4WXhWMmdoQXVOVUIyUG9WS0dwdFJZWXd1LW5oQUs3UldESk9mZ3llLWc?oc=5",
       "description": "Texas food recalls in August 2026: Check your pantries for these products Houston Chronicle",
-      "pubDate": "Sat, 05 Sep 2026 11:15:54 GMT"
+      "pubDate": "Sat, 05 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -171,9 +178,9 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Salmonella outbreak update - gov.uk",
+      "title": "Salmonella outbreak update - GOV.UK",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SdklEN1Qtc3ZyV1pLUVJGTU44b1FMVjNNOFZJRDU3YjJvMWZCb3IwTzJvdExFVUZaSE9YU0NkTDhwdHl1REpZQ09FTW5kZFVpWWxYeDk4UTQySUpES1VEWm8tYkFGaHdTSkRWQ25B?oc=5",
-      "description": "Salmonella outbreak update gov.uk",
+      "description": "Salmonella outbreak update GOV.UK",
       "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT"
     },
     {
@@ -219,13 +226,6 @@
       "pubDate": "Thu, 13 Aug 2026 20:13:13 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "13 foods that were recalled in the U.S. in the last two months - qz.com",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5SU1kTmlvaVdvcWxkSndMLU01RFdIYzZ0OEJ1dXZDTGZ5ZzB3dk1GM0QtQVhvTXF1eWlWVkZlM1BUZFFkZXNBNVZhNUtVY290bEtiLWZjRUt5RGpK?oc=5",
-      "description": "13 foods that were recalled in the U.S. in the last two months qz.com",
-      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Meat & Deli",
       "title": "Fukuoka’s game meat plant turns nuisance wildlife into regional specialty - The Japan Times",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXJPUzlPU1RibTVkRHdqYUh1ZlB0MGdiNlN0RFFvT3B3ME1oakpNN1pfVmlSRFdVUkdDbExKMXNBbEhFYXhWQ1FBcXo0a0tNeUVaLUlUYW9WSTJNSDc3UEhKUDhLRGxEbjZtWUJoTlRPclZ5ZDFBXzc5REFaUHY2ZDBrXzA3NzNoMDcyNUdqNFFya0NIUTZTbThn?oc=5",
@@ -262,9 +262,9 @@
     },
     {
       "source": "HPP Healthcare & Medical",
-      "title": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 - Fortune Business Insights",
+      "title": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 - fortunebusinessinsights.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEYwb0FKSE1PSTZtQ1IwTHB1ZHBIbzhSc1piZnR6VTRpODRIaDRUaUx1cGZEVldYT0FjSkdEQ0tpNWVITDZ2eXl5TC1IOFM0V0Qwd0ZLaG9RSlp0WXI5V3NEV0pCYTg5RHFIb0NjOWVmcFVxU0ZILVhHdS10cWVtTk5qTVNfcVk?oc=5",
-      "description": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 Fortune Business Insights",
+      "description": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 fortunebusinessinsights.com",
       "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT"
     },
     {
@@ -339,9 +339,9 @@
     },
     {
       "source": "HPP Soups & Meals",
-      "title": "Heard the loud noise in Dixon? Officials say here's what caused it - abc10.com",
+      "title": "Heard the loud noise in Dixon? Officials say here's what caused it - ABC10",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGtOcWpIM1hIV1JSUjd6VVFmelI5ZlE4SzZKdkVHdGlmdm5SUjU1NXkwWWZNeXgyb280RjJpaE1CNEFOeGw2Y1ZPaW5JdkFsdzh2ZGZFSHl5a0VMRVF4UThqOVB3WFJTOFByWFFtZ3NQSi1Lb1RidU1WTmxSY0tKQzVHUF9KQk52OVk4eTJraWJLNjN5SXV4N2FEb3ZERUN4NkRPQ1RGcS1XUmJScFFFTFlMUXlKaHltdkF5SmIxSGxGaThfdUdRZC1nQXc?oc=5",
-      "description": "Heard the loud noise in Dixon? Officials say here's what caused it abc10.com",
+      "description": "Heard the loud noise in Dixon? Officials say here's what caused it ABC10",
       "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT"
     },
     {
