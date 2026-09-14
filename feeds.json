@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T09:37:13.894437+00:00",
+  "updated": "2026-09-14T16:11:03.329847+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -45,9 +45,9 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "California farm recalls eggs due to possible salmonella. What to look for - sacbee.com",
+      "title": "California farm recalls eggs due to possible salmonella. What to look for - Sacramento Bee",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JZEI2MUZxTGhnOVlDZDFtOV9jcGYwQ01Fb3lJTEpMeVR1OXdMMzN5ZG5GV2FVWWFLNnVpRk00c1NyN0lLSms2TXJ6bzI0bDNCXzJCNTJTdWx2RWtGcVN4TGRrUFF0aEZUUUFqcQ?oc=5",
-      "description": "California farm recalls eggs due to possible salmonella. What to look for sacbee.com",
+      "description": "California farm recalls eggs due to possible salmonella. What to look for Sacramento Bee",
       "pubDate": "Fri, 11 Sep 2026 22:29:24 GMT"
     },
     {
@@ -79,11 +79,11 @@
       "pubDate": "Thu, 10 Sep 2026 18:50:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Broccoli Sprouts Linked to Salmonella Outbreak Recalled After 2 Hospitalizations - TODAY.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdTlzNTdVRkNoM05vZ2pyb195MDZDMGxON281azlNd3Bwem9sX3JreE5nSTBIZWE5S3hwRVpMNVIwVDQ0Uk9nc1JoMmtjUncwdHVqT1ZUNFZlYVV3NWlLZ0lDV3o4S3djTXV1M0tuVGZZOVp4QWlaUjdic3ZGV0hsaEI2NjZHSmhkZW04SjA5TlJYWmZ5?oc=5",
-      "description": "Broccoli Sprouts Linked to Salmonella Outbreak Recalled After 2 Hospitalizations TODAY.com",
-      "pubDate": "Thu, 10 Sep 2026 00:25:00 GMT"
+      "source": "UK Food Industry",
+      "title": "Food Processing Market Size, Share & Growth Report 2035 | MRFR - Market Research Future",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05Mm03Zi14M3lJcjdVZTVKTV9qYUtTbnBYRjVHY2RNaVhmSFhld3JhcFN1R2NNcnZCNXBfWTBndTBWaVd3ZnA4LVdNRlRLTThld0ZQS2VsOWsxZ1I2cDE1SFFwSlozSnBBdTUyN0p6R2hBdGx2TERnek1najU?oc=5",
+      "description": "Food Processing Market Size, Share & Growth Report 2035 | MRFR Market Research Future",
+      "pubDate": "Thu, 10 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -112,13 +112,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT3RLeWdZc25HMy0xX2otcWRkQ1JvRDA2SFJ0blNuVUs5ZGZHa1Y3eVFvNmhtQnBOTTk4N0VJSnZQcWs3WW00eWZ0bk9QMVNVQzh3eDN5X2YwS1ZvV1h6OTZ3NVJmaF94LWR4WFdGYm5YZk05cHVvM3RqMElROE1DSlpIckRZY2FMTmt2R0hqZU9kN2I4cXpORmV3QU50THJ5YTRESlBVRHVlUWUzWTRFNWkwZWdNY1BCLW4xN1FIcmpobFk?oc=5",
       "description": "Hiperbaric to Present Its Hot Isostatic Pressing Systems at IMTS 2026 PR Newswire",
       "pubDate": "Tue, 08 Sep 2026 17:01:00 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "PRODUCT RECALL | Sainsbury’s recalls popular product over food safety concerns - Your Herefordshire",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdjdjZy1Xc1VtcWc1ZHNKelhUbVFTbHdLdzFGeE1TNW9tVmd5VkNPUmJ6VE9pTUFTQmM0bUZyd0xNY0NxeDhLZ3l6Nm5zbGl5cUtIb09DSms1bUZ4R3U4emQxejZXUkpMNHVEcVJwNFJETUZfYnZPV3czZjBNUXloTE01Z3hjZ0Z2QTdUenAzMDk0WDNva1NabThCcDBrMmo3S3ZqTzlnVzd3bHdNZmZDY19Rc2R4ZWRR?oc=5",
-      "description": "PRODUCT RECALL | Sainsbury’s recalls popular product over food safety concerns Your Herefordshire",
-      "pubDate": "Tue, 08 Sep 2026 06:51:46 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -163,10 +156,17 @@
       "pubDate": "Thu, 03 Sep 2026 04:00:00 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "How is salmonella contaminating so many things? What to know from a food safety expert - PBS",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR190d3dMVE03R01pSnQwZ3ZoR2xfdFp5ZVVkMk1pamJmdGs0QXBTdDN1REpsTEdxaG43VXZEZlNzeVROV25MVDVuWEE4cGZnMUs0TjFPdGRQNzRrZ3N6NVFCZDV3NENlbWxlVUJmaU9SQk5mQVByakVEMUVnQXcyRkVyUHhpRTllMG5COWN4SURLTXZ5UXZFcm41OGlDZEZiQ0l0SWVOUDNRRXcwV21GMm1YQkNzU2tOZjZxQTdR?oc=5",
+      "description": "How is salmonella contaminating so many things? What to know from a food safety expert PBS",
+      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Equipment & Machines",
-      "title": "FAPC to host September high-pressure processing workshop for food industry professionals - OKW News",
+      "title": "FAPC to host September high-pressure processing workshop for food industry professionals - okwnews.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONnFtZ1dfdzVqMWZCMExKZmdOdGNVM2tVdmQ2akdsOUdreGZzekQyemlsVWhtcmtWb1h5cks2STJDRVZSWlNLZklDNnU3VHpLeDN0aXRpTm9remxKTmoxQW1qREdNOEtHMlN6YkdjUzBuRHpGVUZraGt1dTJwaEpQY1JiUkd0c0dCNWVfWXQwY19sVTNxNkllQlBQOUtzWHdiTEVmY1RqTXR1WE5pWFlsZzVkeWx0UDJaZl9jbzR3eTJTUQ?oc=5",
-      "description": "FAPC to host September high-pressure processing workshop for food industry professionals OKW News",
+      "description": "FAPC to host September high-pressure processing workshop for food industry professionals okwnews.com",
       "pubDate": "Mon, 31 Aug 2026 19:05:08 GMT"
     },
     {
@@ -175,6 +175,13 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40Z1hIWkd6aFdmeVo2NEVFcmViUmhscHZncWFrSFhTTnBJY3gyYjZoYzNvZm9iTUpJVTZwTEZfVkFzdFpBUjZVVDhfV2w4cGFPeDBMYVZ6dzVYbC15ck1JVnJtLXFzaVpkMWxIalB0LWpRRGN0bFpObk53?oc=5",
       "description": "/C O R R E C T I O N -- Hiperbaric/ Yahoo Finance",
       "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "Food recall alert as Tesco, Waitrose and Home Bargains shoppers warned - Daily Echo",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVE1yZlZLeWFYVGtiaVBuY3d2Yk5VQnY5elIxWndrZzQzWGpXY19mQW9HdkpqTzZiWUdpNGNsNlpQTlg3bW9jWHRyX0dIdTM2MDlxdmRsQWFmOWhlNVE1Tmc2RXRlcnpVLUR0bEtfaERKckZ0eHlYQzdFRWZXOE9fR1gyN3NlSUh6bzFSY0x5STc2X1NoLXJWVnRZZGhaN1U?oc=5",
+      "description": "Food recall alert as Tesco, Waitrose and Home Bargains shoppers warned Daily Echo",
+      "pubDate": "Sat, 29 Aug 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -199,16 +206,16 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Food Fact Check: Can you get salmonella from eggs? What you need to know. - GOV.UK blogs",
+      "title": "Food Fact Check: Can you get salmonella from eggs? What you need to know. - food.blog.gov.uk",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObmNwbkxtUXo5QVNIemI0M1E3M2p2bEtaVlhVS0RheWNnR21DWGMyNm1kWkZ1S3FJTnRES1UyMDdZWlZaQTlOTXUxSFdSTEJWQ0NCY2Q5MGJxTXE2SVBhYXhJYTh2cVVoZDZ5a216UUJRLXlSZk5nYU5FT0NyZ1NUYnRYXzFWSzFrRnhXRjM2OWpydDZXa0kwOW5wT2VOT21iWHc3cHJ6RGtIQ00?oc=5",
-      "description": "Food Fact Check: Can you get salmonella from eggs? What you need to know. GOV.UK blogs",
+      "description": "Food Fact Check: Can you get salmonella from eggs? What you need to know. food.blog.gov.uk",
       "pubDate": "Fri, 21 Aug 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
-      "title": "Hiperbaric and Oklahoma State University to Host HPP Protein Workshop - Quality Assurance & Food Safety",
+      "title": "Hiperbaric and Oklahoma State University to Host HPP Protein Workshop - qualityassurancemag.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU1REYUFGWjd2S3ZQWEJWcE00dFNDM2xOSlQzbnNzb01HbUJ5VV8wT2dPWDh6MlRsTmZMbEhzQkhiZ1JkMG1uamQtWktHMDN0WjlqWjVzUm1jd0lyUWxPd1VrVVZNZWt6dXpZYmZFZTNkLTlTTkJZeTlvVzI2SVNFSzY3RUQ4Sk5sODZNaV8xTmtla3pOMWhhNG9VYUdtRExDWkk3RU1HMXptYUhzWUpDYg?oc=5",
-      "description": "Hiperbaric and Oklahoma State University to Host HPP Protein Workshop Quality Assurance & Food Safety",
+      "description": "Hiperbaric and Oklahoma State University to Host HPP Protein Workshop qualityassurancemag.com",
       "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT"
     },
     {
@@ -220,9 +227,9 @@
     },
     {
       "source": "Quintus Technologies",
-      "title": "Quintus Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "title": "Quintus Number of Employees 2026 | Employee Count & Headcount Data - reveliolabs.com",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HanR5UmRBNGc3dFNicEFVMG9YSTdiSllDLWdFc2NXMjFwREcwU2ZTWXYyenVWekFjWTItdW4zXzJ4UU5reDRodDNzT1NfSFJWUEhhQTQzLXBVN1FOTjhoeWVsMzVNQQ?oc=5",
-      "description": "Quintus Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
+      "description": "Quintus Number of Employees 2026 | Employee Count & Headcount Data reveliolabs.com",
       "pubDate": "Thu, 13 Aug 2026 20:13:13 GMT"
     },
     {
@@ -269,9 +276,9 @@
     },
     {
       "source": "HPP Innovation & Research",
-      "title": "Investing in Food Safety is Investing in the Future of Food - Food Safety Magazine",
+      "title": "Investing in Food Safety is Investing in the Future of Food - food-safety.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEpNajduOEpKZHpXM3lTSXBpenBudENhVWhRZVNFX1lOOTluUFBoV0VYbDdfakNlWDlod2hxYkY5ZE9heWw5T2VESXBQelpyOTB1V3lma2lUakhvcWxUOEM1UTYtcGRwREFxSHRGeXE2b1A4cDFzdlJvQVZQcjM1cGF6Vk14UXJvVmFRX3JYVUxRakkxRVAtUXFXNVBfbExuaFFVUA?oc=5",
-      "description": "Investing in Food Safety is Investing in the Future of Food Food Safety Magazine",
+      "description": "Investing in Food Safety is Investing in the Future of Food food-safety.com",
       "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT"
     },
     {
@@ -325,16 +332,16 @@
     },
     {
       "source": "EU HPP & Food Tech",
-      "title": "Frontmatec’s Spanish factory expands robotic automation capacity - Food and Drink Technology",
+      "title": "Frontmatec’s Spanish factory expands robotic automation capacity - foodanddrinktechnology.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc28zbGNKazk1RW02MXhLc3EzX3VsSDQtOU1BVlMtV1FkOC1vWktucG1xbVJlSkU4LTRYSFR0dzBIMXRaWkxGRFYxS2VrV0JtV0JQWWdvT2hZNkN2Y1FZUGw4NzBPeXNhdld4NmhlT1dNSU81ZVVaZkVDV1FRLU13YnhYN3dVNUU3bFhQd3BqaGdDRWp6YjczWXdXanY0M1RIcV83MHExV3RpUG1TalIwYU8wVUZGclZLN1Vn?oc=5",
-      "description": "Frontmatec’s Spanish factory expands robotic automation capacity Food and Drink Technology",
+      "description": "Frontmatec’s Spanish factory expands robotic automation capacity foodanddrinktechnology.com",
       "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
-      "title": "Laminar Wins FoodTech Innovation Award for Innovative Solution on Digitalization in the Food & Beverage Industry - prnewswire.co.uk",
+      "title": "Laminar Wins FoodTech Innovation Award for Innovative Solution on Digitalization in the Food & Beverage Industry - PR Newswire UK",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcUE0R2ZZQk53dTZoOTloWmxtbTRvaEo4M1lYZWxXNXZmVVE5ZS0tWWFPY3BWY01sR3JVZktXMEtjUDRVTk9PYWFxYXFBZVkzZ0ppNXFUbTB0SWlLTWF1REFibjczcnRhNkszUzRLanc4ZXdMVlRwLXJLLWZVeU5GRElnQm5WTlZEQS1qTjlnNzZHNWJNWnJsVjRyTkd4cFlqRkxndXAtLWRpWEIzNjhYaFk4b1haQmlveERvWDZ3UlZnS3RGVG9EZW0xMk5kb3NqZjlwVmppblBuQ0hqYVB0QjVaaHlWQy1sWnlicEk4WEtGeS1pQWJwOEF1LXRGUQ?oc=5",
-      "description": "Laminar Wins FoodTech Innovation Award for Innovative Solution on Digitalization in the Food & Beverage Industry prnewswire.co.uk",
+      "description": "Laminar Wins FoodTech Innovation Award for Innovative Solution on Digitalization in the Food & Beverage Industry PR Newswire UK",
       "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT"
     },
     {
@@ -343,13 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXFGTmZ4ZW9NamJNeVhqV29yeFQ0SzlTYzBXcnl1RHltM0NIODNMVTFhT2VPaUhCbDFwanJEazNfZEoweXJkWGhtSGRwZWlycjJwWFgwdmZBU2RlSlRlTjhfQ3J4UDlrcUg0N1ZzX2puWVo4amFUczJFcGZCZWphenBFN0dUSlMwWVdIZ2ZmT1daOG90b0Z6X0RB?oc=5",
       "description": "Expansion at the Dock + boosts seafood processing in Alberni Valley Ha-Shilth-Sa Newspaper",
       "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Juices & Beverages",
-      "title": "Why Trader Joe's Was Once Sued Over Juice - Tasting Table",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGNnaExYaDZIa3BFcnRyZGJxODFSSHFWTTFSTk5fNUNqbHJsbFVEbVloWVZYdUhMakFTZmloTnpacGI4N3c3c2lUcS1HcjhRTG1aTU81UmZIQVRRMWZqSk9QYUhfUjJ5RENGaVQ0clRfd0NoenlLNk1IdXdzRlBpZlNR?oc=5",
-      "description": "Why Trader Joe's Was Once Sued Over Juice Tasting Table",
-      "pubDate": "Sun, 17 May 2026 07:00:00 GMT"
     }
   ]
 }
