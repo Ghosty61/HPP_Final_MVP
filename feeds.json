@@ -1,12 +1,26 @@
 {
-  "updated": "2026-09-15T23:59:21.264483+00:00",
+  "updated": "2026-09-16T04:38:35.190779+00:00",
   "articles": [
     {
+      "source": "Food Safety News",
+      "title": "Supplier in sprout outbreak recalls seed",
+      "link": "https://www.foodsafetynews.com/2026/09/supplier-in-sprout-outbreak-recalls-seed/",
+      "description": "The FDA has not named the supplier",
+      "pubDate": "Wed, 16 Sep 2026 04:05:04 GMT"
+    },
+    {
       "source": "Salmonella Outbreaks",
-      "title": "Organic Eggs Recalled Due to Salmonella Outbreak—Over 20 Illnesses Reported - eatingwell.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcXl0MWZHTGtidnFsSGtXTl8tdTBaUlBSLVJPV3d0LVB0OXpYcGFzbkU2aDNBOEN0d18wNzBobUM1NFc5enp3UjNwNjNFTHMzbnJVVTRMaHFjY29ZVDl4Q2xsNV96ZC1rNG9YTVAyMXhUNWw2VU4xV18zN3pPdktnOVptZw?oc=5",
-      "description": "Organic Eggs Recalled Due to Salmonella Outbreak—Over 20 Illnesses Reported eatingwell.com",
-      "pubDate": "Mon, 14 Sep 2026 18:32:21 GMT"
+      "title": "Leaping Bear Eggs Salmonella Outbreak Sickens 14 in Vermont - Food Poisoning Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYVRicEVZNGhCY24wMUJBdzRCY0hRRFg5Ni1xUlA1c1VDekd4RjcyckhrdTVCdHFwUXB3aWJUOFduWlFLRDlHTEYtNE5oWGpfTEwzSzdydF9Nb3B6NnRwaF9xT05OeVU3M1BwVTBXa1B4QUNNcFgwd3lKN3B5YWc3NG90WUtoMEEzVHBxOU1pTWZJV0hKWXI1V2szcU9nX3lU?oc=5",
+      "description": "Leaping Bear Eggs Salmonella Outbreak Sickens 14 in Vermont Food Poisoning Bulletin",
+      "pubDate": "Wed, 16 Sep 2026 03:12:17 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Frozen raspberries recalled because of norovirus; illnesses reported",
+      "link": "https://www.foodsafetynews.com/2026/09/frozen-raspberries-recalled-because-of-norovirus-illnesses-reported/",
+      "description": "Alasko brand frozen whole raspberries are being recalled in Canada because of contamination with norovirus. This recall was triggered by findings by the Canadian Food Inspection Agency during its investigation into a foodborne illness outbreak. There have been reported illnesses associated with the consumption of these products. The recalled berries",
+      "pubDate": "Wed, 16 Sep 2026 02:45:09 GMT"
     },
     {
       "source": "Food Safety News",
@@ -49,20 +63,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ20ySmFQTWtUOUlLdkY3NmprOHo1Ymg1ZXpYTnA1bWxLUzBhMlJSZWxLa3FPZGk0SGNWUVVaTmMwVlJzUlVFeTRWM0RaUmgxa3c2R2pucE1QbFpka3piT2ptcjhjRlFOQjc3MjhWVjUyTGFwa0lFSlgwZC1NOC1iRkUxWkN5XzNuQTBGaDJJc3RydUowaU0xNnJOZkcxdXdjMHhnUUFiaw?oc=5",
       "description": "Vermont farm recalls eggs because of link to Salmonella outbreak foodsafetynews.com",
       "pubDate": "Sat, 12 Sep 2026 01:23:29 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Vermont farm recalls eggs because of link to Salmonella outbreak",
-      "link": "https://www.foodsafetynews.com/2026/09/vermont-farm-recalls-eggs-because-of-link-to-salmonella-outbreak/",
-      "description": "Leaping Bear Farm is recalling eggs after Vermont health and agriculture officials detected Salmonella in eggs and environmental samples from the farm. The recall covers cartons dated between June 1 and Sept. 5. The eggs were sold at local farmers markets and other retailers. Vermont health officials have linked 14",
-      "pubDate": "Sat, 12 Sep 2026 01:22:57 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "California issues pubic warning about Happy Hens eggs because of link to Salmonella outbreak",
-      "link": "https://www.foodsafetynews.com/2026/09/california-issues-pubic-warning-about-happy-hens-eggs-because-of-link-to-salmonella-outbreak/",
-      "description": "The California Department of Health has issued a warning about Happy Hens brand eggs because a Salmonella outbreak has been traced to them. The department is working with the California Department of Food and Agriculture and the U.S. Food and Drug Administration to investigate the outbreak of Salmonella Enteritidis",
-      "pubDate": "Sat, 12 Sep 2026 01:07:12 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -115,17 +115,10 @@
     },
     {
       "source": "HPP Soups & Meals",
-      "title": "Top 5 Features of a Reliable Heavy-Gauge Stainless Steel Soup Pot Manufacturer for Professional Kitchens - Issuewire.com",
+      "title": "Top 5 Features of a Reliable Heavy-Gauge Stainless Steel Soup Pot Manufacturer for Professional Kitchens - issuewire.com",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPT2FXbDctZXBhTEdHaVBxSnZINHNlV29uLVNUcDlfaWJUelhPT3NhSUk2OTR1YW1HMmh3MFZISFBCWWxKelh2WVd1bWZMLW5yY09lRXpXUW1pbWNRWVhpdnZtLVp6TW50SnRuQkw2MTlZUXBoR3c3WktFUGdjeF9lN0ZGbmJuZm1XWjFTRThpZnhjZTBHNXRVX1RrLTlfc09qLXBOeU1jR2Mwb3JyZVdTdHdvMl9waDVJQk1PdEFJQmVxNUpib3FYREd5cFN4aFdFQzhFODJ4V3prMEtrRy1hNQ?oc=5",
-      "description": "Top 5 Features of a Reliable Heavy-Gauge Stainless Steel Soup Pot Manufacturer for Professional Kitchens Issuewire.com",
+      "description": "Top 5 Features of a Reliable Heavy-Gauge Stainless Steel Soup Pot Manufacturer for Professional Kitchens issuewire.com",
       "pubDate": "Wed, 09 Sep 2026 08:59:17 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Texas food recalls in August 2026: Check your pantries for these products - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOTNiRUtlOUp5bG4za2NUTk5rZ3RNWGF6VF9oeDkxZFVGT3BDNEdaUVE4NV9JLS1YVERiOUZRekU0OVItS2U0ZmdlSnN3WGtSNFBmR1NONDFsNzZKUFl6c3NSRER2ZU1Cd3k1TjRoT3pzaUttRUw1T2JhblFWQm5yZFR4WXhWMmdoQXVOVUIyUG9WS0dwdFJZWXd1LW5oQUs3UldESk9mZ3llLWc?oc=5",
-      "description": "Texas food recalls in August 2026: Check your pantries for these products Houston Chronicle",
-      "pubDate": "Sat, 05 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -153,13 +146,13 @@
       "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTXZyd2stTWhCMDlUT1Y5Nk5TZlFLdnlRbjMzaTBEZ3ljeW80RTB6ZEI5T0xfOVh0b0Yxd0hWV1BiWGhHSnVQRjVTRU94eXBBaTk3d29hZ0xTNHA5dFpfaHN1SnlINkltYnJYN0Q2ZXVZZTE4NkJZZXlxdEpLd0w3UWJxRm0wWG5FbkNjWlp0b2g0MzJNbFVBRDZvbG05NHI2REVpNFZMX0lHLTEzSHA1R0hpSzF0QnR1OTVYU0pPLUhXYjBqZlQxOFg2NWVIS1JRNDllRjhLemVfakVLUUhEOW9MWDNxQ3ZFU2REVVg2Q1ZGZWE3RjZfVFFwY1JxeF93M2Fsdmx4SQ?oc=5",
       "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 PR Newswire",
-      "pubDate": "Thu, 03 Sep 2026 13:24:00 GMT"
+      "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Innovation & Research",
-      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - Yahoo Finance",
+      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM0pXdmt2NmZIcFRyQ25Ea29yVGdabk1MRHZodlh2enR0RS1QaThUUDMyaWhzYXZlN2tIODY5cHNWaGJyVW5iOXU1TFBmSkc0MWhkMmlOMF9tOS1jeWViSHNiUnA5RU1LMVFkOTdfaVQ2Y1lLSG1lM2VCYkJ2VEpTdGtINVFKTHFud3lSWWt6QkY5bDR6TzU4YzhUSWV1ZmtVZmhydHl3?oc=5",
-      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 Yahoo Finance",
+      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 finance.yahoo.com",
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
@@ -178,9 +171,9 @@
     },
     {
       "source": "Hiperbaric",
-      "title": "/C O R R E C T I O N -- Hiperbaric/ - Yahoo Finance",
+      "title": "/C O R R E C T I O N -- Hiperbaric/ - finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40Z1hIWkd6aFdmeVo2NEVFcmViUmhscHZncWFrSFhTTnBJY3gyYjZoYzNvZm9iTUpJVTZwTEZfVkFzdFpBUjZVVDhfV2w4cGFPeDBMYVZ6dzVYbC15ck1JVnJtLXFzaVpkMWxIalB0LWpRRGN0bFpObk53?oc=5",
-      "description": "/C O R R E C T I O N -- Hiperbaric/ Yahoo Finance",
+      "description": "/C O R R E C T I O N -- Hiperbaric/ finance.yahoo.com",
       "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT"
     },
     {
@@ -212,6 +205,13 @@
       "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "Food recalls in 2026: What the data shows so far - KCRA",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKME5welk1dTFEYUpmRVFUQlkyZzJNdzF2dGgwbUxOanpySmhyaGcybmx6U0t5V0RWWVZWaUJUYURBRTB3VnJkSTVIMFpScFhnUlBxTGJKUkp4dXZDYXRpZ0lwUy0wSDk4R2luWUdOV3I5Nk5IRm5J?oc=5",
+      "description": "Food recalls in 2026: What the data shows so far KCRA",
+      "pubDate": "Fri, 14 Aug 2026 07:00:00 GMT"
+    },
+    {
       "source": "Quintus Technologies",
       "title": "Quintus Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HanR5UmRBNGc3dFNicEFVMG9YSTdiSllDLWdFc2NXMjFwREcwU2ZTWXYyenVWekFjWTItdW4zXzJ4UU5reDRodDNzT1NfSFJWUEhhQTQzLXBVN1FOTjhoeWVsMzVNQQ?oc=5",
@@ -223,13 +223,6 @@
       "title": "13 foods that were recalled in the U.S. in the last two months - qz.com",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5SU1kTmlvaVdvcWxkSndMLU01RFdIYzZ0OEJ1dXZDTGZ5ZzB3dk1GM0QtQVhvTXF1eWlWVkZlM1BUZFFkZXNBNVZhNUtVY290bEtiLWZjRUt5RGpK?oc=5",
       "description": "13 foods that were recalled in the U.S. in the last two months qz.com",
-      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Meat & Deli",
-      "title": "Fukuoka’s game meat plant turns nuisance wildlife into regional specialty - The Japan Times",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXJPUzlPU1RibTVkRHdqYUh1ZlB0MGdiNlN0RFFvT3B3ME1oakpNN1pfVmlSRFdVUkdDbExKMXNBbEhFYXhWQ1FBcXo0a0tNeUVaLUlUYW9WSTJNSDc3UEhKUDhLRGxEbjZtWUJoTlRPclZ5ZDFBXzc5REFaUHY2ZDBrXzA3NzNoMDcyNUdqNFFya0NIUTZTbThn?oc=5",
-      "description": "Fukuoka’s game meat plant turns nuisance wildlife into regional specialty The Japan Times",
       "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
     },
     {
@@ -268,13 +261,6 @@
       "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "Royal Welsh Show showcases strength, innovation and ambition of Welsh food and drink sector - grocerytrader.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNTZqT1VwRlJVcTVYcmR6VlVybHE3WVFfQzYxVTZISkdXYjRZakNEbXQtTExBWWhrOXIxbTY3cnVHTV9rOU0yVExNMWFLc2FkQms4aUhDdDdOSWVrVklrQ0hfR1N1bnUtNHZUS2Z5TXBkSTMtQ0xPTUUxMUxLcWh6bW9LVnctSWNsVktCVHVFdGlOVXNDT3dlX1FnZFRlazVZeTB5aXBYa05LMGFjSHRScThYREgzRU5BMjVn?oc=5",
-      "description": "Royal Welsh Show showcases strength, innovation and ambition of Welsh food and drink sector grocerytrader.co.uk",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Innovation & Research",
       "title": "Investing in Food Safety is Investing in the Future of Food - Food Safety Magazine",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEpNajduOEpKZHpXM3lTSXBpenBudENhVWhRZVNFX1lOOTluUFBoV0VYbDdfakNlWDlod2hxYkY5ZE9heWw5T2VESXBQelpyOTB1V3lma2lUakhvcWxUOEM1UTYtcGRwREFxSHRGeXE2b1A4cDFzdlJvQVZQcjM1cGF6Vk14UXJvVmFRX3JYVUxRakkxRVAtUXFXNVBfbExuaFFVUA?oc=5",
@@ -290,9 +276,9 @@
     },
     {
       "source": "HPP Meat & Deli",
-      "title": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors - theengineer.co.uk",
+      "title": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors - The Engineer",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbFYzSUNCVHQxSHhmR0RBWDNtZFNkMDZTU1FTYXlVSDI3OUtleGZBNy1wNVU4U1ViazJqcW9odzQyOGpqMUM5S2o5aHo3S2R1ZlVVZV9OMTJOaU51eGM2TUtEaEttQ3hUZHRsdWZ5d2Joc01mWmxKY01WSWo1TjYzcmNPWGdlVzU2djJBQ2JDdXVpRHRWV1ZvN2tKZ2UyVXZtU2ZDVS0wQm9NSjVGaFJ1b0lRUHlZOUcwbTZhcDZkS0txSTMxenNvR0RxYnhpUDF1Vl9kS0pZejktaVBPc1ZRMVVBaHVQTzZsY1VMVnZlVG1QeTNwWlpaT3Jn?oc=5",
-      "description": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors theengineer.co.uk",
+      "description": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors The Engineer",
       "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT"
     },
     {
@@ -311,16 +297,16 @@
     },
     {
       "source": "UK Food Industry",
-      "title": "Europe Food and Beverages Market Size and Analysis, 2034 - marketdataforecast.com",
+      "title": "Europe Food and Beverages Market Size and Analysis, 2034 - Market Data Forecast",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFRiSl9GOVdlZHlfalNxOHk1V25kTkhPV20wU3JpbjNrLXV1VmljMjZfR0dNbEV2b3V2NjZpaDZaM3ZKYTZvazBiV3dDSkY2eWl5eWRrVUE0Z09BV2Y0bzdxLXdaeUgzN2lyTFlFLXNoVXRHQ0xsamN4S0pZeFRUSVV6c1otRzZWYlE?oc=5",
-      "description": "Europe Food and Beverages Market Size and Analysis, 2034 marketdataforecast.com",
+      "description": "Europe Food and Beverages Market Size and Analysis, 2034 Market Data Forecast",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
-      "title": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI - prnewswire.co.uk",
+      "title": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI - PR Newswire UK",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdVRCUkhzUHR0NTFtd1dTOUUxODE2MkJURGNIVGpkUkdSaE8yeTZvTHJSZENfUEFPUmx5Y01hNUZELW85SklCb0Z5UHRYd196d2IzR1RXWHdxVnE4aFAzZ0RvT3VNWFNiRG9CYXdfWmRDdF9WWkFwYXM4ZGNBQ1VVU3dYSUhmY2NlMTFSU1A2Tkh5ZHpGb2VrQThCZUJrem9mRnhkRGc4M002LWJNcjhOZVpjRW1ocGN0TUw4dFppd3p2OEs3ZnZMUTlUMVBGbXQ3ajRHdnhJOGpxWjZvRzVoUUJUU21lcEMxaXRWZU5RajQtYWp5MzVndVBmdzRyRDdSNTBpNEFxWU1EVVVsa3lSWk45OEQ1QmVtRWJOWVhYSFU5SHlnZzlURjkxT1BsQ1B0NTF3Vg?oc=5",
-      "description": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI prnewswire.co.uk",
+      "description": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI PR Newswire UK",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
@@ -350,6 +336,20 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc28zbGNKazk1RW02MXhLc3EzX3VsSDQtOU1BVlMtV1FkOC1vWktucG1xbVJlSkU4LTRYSFR0dzBIMXRaWkxGRFYxS2VrV0JtV0JQWWdvT2hZNkN2Y1FZUGw4NzBPeXNhdld4NmhlT1dNSU81ZVVaZkVDV1FRLU13YnhYN3dVNUU3bFhQd3BqaGdDRWp6YjczWXdXanY0M1RIcV83MHExV3RpUG1TalIwYU8wVUZGclZLN1Vn?oc=5",
       "description": "Frontmatec’s Spanish factory expands robotic automation capacity Food and Drink Technology",
       "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Laminar Wins FoodTech Innovation Award for Innovative Solution on Digitalization in the Food & Beverage Industry - PR Newswire UK",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcUE0R2ZZQk53dTZoOTloWmxtbTRvaEo4M1lYZWxXNXZmVVE5ZS0tWWFPY3BWY01sR3JVZktXMEtjUDRVTk9PYWFxYXFBZVkzZ0ppNXFUbTB0SWlLTWF1REFibjczcnRhNkszUzRLanc4ZXdMVlRwLXJLLWZVeU5GRElnQm5WTlZEQS1qTjlnNzZHNWJNWnJsVjRyTkd4cFlqRkxndXAtLWRpWEIzNjhYaFk4b1haQmlveERvWDZ3UlZnS3RGVG9EZW0xMk5kb3NqZjlwVmppblBuQ0hqYVB0QjVaaHlWQy1sWnlicEk4WEtGeS1pQWJwOEF1LXRGUQ?oc=5",
+      "description": "Laminar Wins FoodTech Innovation Award for Innovative Solution on Digitalization in the Food & Beverage Industry PR Newswire UK",
+      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Seafood",
+      "title": "Expansion at the Dock + boosts seafood processing in Alberni Valley - Ha-Shilth-Sa Newspaper",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXFGTmZ4ZW9NamJNeVhqV29yeFQ0SzlTYzBXcnl1RHltM0NIODNMVTFhT2VPaUhCbDFwanJEazNfZEoweXJkWGhtSGRwZWlycjJwWFgwdmZBU2RlSlRlTjhfQ3J4UDlrcUg0N1ZzX2puWVo4amFUczJFcGZCZWphenBFN0dUSlMwWVdIZ2ZmT1daOG90b0Z6X0RB?oc=5",
+      "description": "Expansion at the Dock + boosts seafood processing in Alberni Valley Ha-Shilth-Sa Newspaper",
+      "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
     }
   ]
 }
