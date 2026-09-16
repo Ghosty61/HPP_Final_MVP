@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T10:56:55.929463+00:00",
+  "updated": "2026-09-16T16:16:35.047233+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -23,6 +23,13 @@
       "pubDate": "Wed, 16 Sep 2026 02:45:09 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "Organic Eggs Recalled Due to Salmonella Outbreak—Over 20 Illnesses Reported - EatingWell",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcXl0MWZHTGtidnFsSGtXTl8tdTBaUlBSLVJPV3d0LVB0OXpYcGFzbkU2aDNBOEN0d18wNzBobUM1NFc5enp3UjNwNjNFTHMzbnJVVTRMaHFjY29ZVDl4Q2xsNV96ZC1rNG9YTVAyMXhUNWw2VU4xV18zN3pPdktnOVptZw?oc=5",
+      "description": "Organic Eggs Recalled Due to Salmonella Outbreak—Over 20 Illnesses Reported EatingWell",
+      "pubDate": "Mon, 14 Sep 2026 18:32:21 GMT"
+    },
+    {
       "source": "Food Safety News",
       "title": "We must stick to a zero tolerance policy for listeria",
       "link": "https://www.foodsafetynews.com/2026/09/we-must-stick-to-a-zero-tolerance-policy-for-listeria/",
@@ -38,9 +45,9 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Major supermarkets issue urgent product recalls over food poisoning fears - London Evening Standard",
+      "title": "Major supermarkets issue urgent product recalls over food poisoning fears - standard.co.uk",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFJXNWhUbHVVOGJrZjAxRXNxTldXYXJ5LXRfWVZvNlI2UzFxLTdUcWZNRTVXMUlaMTI3bzEzaWhnWWV5NjR2NDhmaWs2VGJVRHVmcUlNYmRERDhfdHZ3MTNiVVd6ZS1wZUhwZlVVVWZQbGd1MzgtY2pYNF8tYmw2SHVPT3hSdTZCeDZYcmdXLUhCUmdOUkM2UkRha0dKYTRDTm1rLTNTWVNrMzZubXY2aTZB?oc=5",
-      "description": "Major supermarkets issue urgent product recalls over food poisoning fears London Evening Standard",
+      "description": "Major supermarkets issue urgent product recalls over food poisoning fears standard.co.uk",
       "pubDate": "Sun, 13 Sep 2026 15:35:57 GMT"
     },
     {
@@ -49,6 +56,13 @@
       "link": "https://www.foodsafetynews.com/2026/09/the-sunday-edition-antibiotics/",
       "description": "We have reached a point where there are very few treatment alternatives left for some bacterial infections – including some caused by foodborne bacteria.",
       "pubDate": "Sun, 13 Sep 2026 12:00:17 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Fat and oil processing - Hydrogenation, Trans Fats, Oils - britannica.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WMVR4QTNaLXFUa0swMTBuZFR2S3J1cmg1c0JtOHhqV0h0cENmOWt1RUxNUTVRenhWX3k5cE1TRXFTOHh1VFVzSFBQYkszdnlQd2Z3MWJLV092WkFFV0R0WktwWHdxS0JtMXZrV2Q1OWw?oc=5",
+      "description": "Fat and oil processing - Hydrogenation, Trans Fats, Oils britannica.com",
+      "pubDate": "Sun, 13 Sep 2026 05:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -143,9 +157,9 @@
     },
     {
       "source": "HPP Innovation & Research",
-      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - finance.yahoo.com",
+      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM0pXdmt2NmZIcFRyQ25Ea29yVGdabk1MRHZodlh2enR0RS1QaThUUDMyaWhzYXZlN2tIODY5cHNWaGJyVW5iOXU1TFBmSkc0MWhkMmlOMF9tOS1jeWViSHNiUnA5RU1LMVFkOTdfaVQ2Y1lLSG1lM2VCYkJ2VEpTdGtINVFKTHFud3lSWWt6QkY5bDR6TzU4YzhUSWV1ZmtVZmhydHl3?oc=5",
-      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 finance.yahoo.com",
+      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 Yahoo Finance",
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
@@ -156,17 +170,10 @@
       "pubDate": "Thu, 03 Sep 2026 04:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "How is salmonella contaminating so many things? What to know from a food safety expert - PBS",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR190d3dMVE03R01pSnQwZ3ZoR2xfdFp5ZVVkMk1pamJmdGs0QXBTdDN1REpsTEdxaG43VXZEZlNzeVROV25MVDVuWEE4cGZnMUs0TjFPdGRQNzRrZ3N6NVFCZDV3NENlbWxlVUJmaU9SQk5mQVByakVEMUVnQXcyRkVyUHhpRTllMG5COWN4SURLTXZ5UXZFcm41OGlDZEZiQ0l0SWVOUDNRRXcwV21GMm1YQkNzU2tOZjZxQTdR?oc=5",
-      "description": "How is salmonella contaminating so many things? What to know from a food safety expert PBS",
-      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT"
-    },
-    {
       "source": "Hiperbaric",
-      "title": "/C O R R E C T I O N -- Hiperbaric/ - finance.yahoo.com",
+      "title": "/C O R R E C T I O N -- Hiperbaric/ - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40Z1hIWkd6aFdmeVo2NEVFcmViUmhscHZncWFrSFhTTnBJY3gyYjZoYzNvZm9iTUpJVTZwTEZfVkFzdFpBUjZVVDhfV2w4cGFPeDBMYVZ6dzVYbC15ck1JVnJtLXFzaVpkMWxIalB0LWpRRGN0bFpObk53?oc=5",
-      "description": "/C O R R E C T I O N -- Hiperbaric/ finance.yahoo.com",
+      "description": "/C O R R E C T I O N -- Hiperbaric/ Yahoo Finance",
       "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT"
     },
     {
@@ -216,13 +223,6 @@
       "title": "13 foods that were recalled in the U.S. in the last two months - qz.com",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5SU1kTmlvaVdvcWxkSndMLU01RFdIYzZ0OEJ1dXZDTGZ5ZzB3dk1GM0QtQVhvTXF1eWlWVkZlM1BUZFFkZXNBNVZhNUtVY290bEtiLWZjRUt5RGpK?oc=5",
       "description": "13 foods that were recalled in the U.S. in the last two months qz.com",
-      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Meat & Deli",
-      "title": "Fukuoka’s game meat plant turns nuisance wildlife into regional specialty - The Japan Times",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXJPUzlPU1RibTVkRHdqYUh1ZlB0MGdiNlN0RFFvT3B3ME1oakpNN1pfVmlSRFdVUkdDbExKMXNBbEhFYXhWQ1FBcXo0a0tNeUVaLUlUYW9WSTJNSDc3UEhKUDhLRGxEbjZtWUJoTlRPclZ5ZDFBXzc5REFaUHY2ZDBrXzA3NzNoMDcyNUdqNFFya0NIUTZTbThn?oc=5",
-      "description": "Fukuoka’s game meat plant turns nuisance wildlife into regional specialty The Japan Times",
       "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
     },
     {
@@ -324,13 +324,6 @@
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "Investigation Update: Listeria Outbreak, June 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeURCSzJmTjhpWEttM0RXTC1fcmtWZHkxeGk5Q2lheTdneWhwMW1KaHYyamVLeWNnYVhROW1lcm1QMWFzZzZhdmtIcHhVTDFjekVkakhwcVpaMTgtOWFERE1QYUNFOUwwQUc2OW5ITldOVXRLRW5MbWluZ2Y0WXRtNA?oc=5",
-      "description": "Investigation Update: Listeria Outbreak, June 2026 Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
-    },
-    {
       "source": "UK Food Industry",
       "title": "UK Food Valley highlights innovation and ambition at Lincolnshire Show Brunch - Lincolnshire County Council",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZElmZFZsNzZXMlNWQlZQTm96OHZEYW1kdkJWWTlQQS14dUd2OFhHVURRMkpBcFZ0SU5hOG5oSWxpVVdTZFdYcFF5R0VSNjZ5UEx5QzctaWFZdlRaM2xlWW5QX2tRUnlMeVE1bXAyUFRNVzlEWlgxOEd5NHNfSEdidngzWjNGclRfU21IUWNMRGtlcU5jNEFNUDRoNExmc1VKemVEaFF6M3YtYzUzeDFDNVFLTVJnaDh4ZXdSaU1iYjdqLVFPZHc?oc=5",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc28zbGNKazk1RW02MXhLc3EzX3VsSDQtOU1BVlMtV1FkOC1vWktucG1xbVJlSkU4LTRYSFR0dzBIMXRaWkxGRFYxS2VrV0JtV0JQWWdvT2hZNkN2Y1FZUGw4NzBPeXNhdld4NmhlT1dNSU81ZVVaZkVDV1FRLU13YnhYN3dVNUU3bFhQd3BqaGdDRWp6YjczWXdXanY0M1RIcV83MHExV3RpUG1TalIwYU8wVUZGclZLN1Vn?oc=5",
       "description": "Frontmatec’s Spanish factory expands robotic automation capacity Food and Drink Technology",
       "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Laminar Wins FoodTech Innovation Award for Innovative Solution on Digitalization in the Food & Beverage Industry - PR Newswire UK",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcUE0R2ZZQk53dTZoOTloWmxtbTRvaEo4M1lYZWxXNXZmVVE5ZS0tWWFPY3BWY01sR3JVZktXMEtjUDRVTk9PYWFxYXFBZVkzZ0ppNXFUbTB0SWlLTWF1REFibjczcnRhNkszUzRLanc4ZXdMVlRwLXJLLWZVeU5GRElnQm5WTlZEQS1qTjlnNzZHNWJNWnJsVjRyTkd4cFlqRkxndXAtLWRpWEIzNjhYaFk4b1haQmlveERvWDZ3UlZnS3RGVG9EZW0xMk5kb3NqZjlwVmppblBuQ0hqYVB0QjVaaHlWQy1sWnlicEk4WEtGeS1pQWJwOEF1LXRGUQ?oc=5",
+      "description": "Laminar Wins FoodTech Innovation Award for Innovative Solution on Digitalization in the Food & Beverage Industry PR Newswire UK",
+      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT"
     }
   ]
 }
