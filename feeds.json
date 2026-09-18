@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-18T03:43:40.496473+00:00",
+  "updated": "2026-09-18T08:49:29.425999+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Details emerge about Italian hepatitis A outbreak",
+      "link": "https://www.foodsafetynews.com/2026/09/details-emerge-about-italian-hepatitis-a-outbreak/",
+      "description": "More than 130 people were involved",
+      "pubDate": "Fri, 18 Sep 2026 04:05:43 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Scottish testing finds Listeria and allergen issues",
+      "link": "https://www.foodsafetynews.com/2026/09/scottish-testing-finds-listeria-and-allergen-issues/",
+      "description": "A food testing program in Scotland has revealed a high level of compliance but also showed examples of microbial contamination and meat substitution. Food Standards Scotland (FSS) funds an annual food sampling plan delivered by local authorities (LAs) and Public Analyst laboratories.",
+      "pubDate": "Fri, 18 Sep 2026 04:03:20 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Pasta sold at Walmart stores nationwide recalled because of Listeria",
@@ -37,18 +51,11 @@
       "pubDate": "Thu, 17 Sep 2026 04:04:50 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Supplier in sprout outbreak recalls seed",
-      "link": "https://www.foodsafetynews.com/2026/09/supplier-in-sprout-outbreak-recalls-seed/",
-      "description": "The FDA has not named the supplier",
-      "pubDate": "Wed, 16 Sep 2026 04:05:04 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Frozen raspberries recalled because of norovirus; illnesses reported",
-      "link": "https://www.foodsafetynews.com/2026/09/frozen-raspberries-recalled-because-of-norovirus-illnesses-reported/",
-      "description": "Alasko brand frozen whole raspberries are being recalled in Canada because of contamination with norovirus. This recall was triggered by findings by the Canadian Food Inspection Agency during its investigation into a foodborne illness outbreak. There have been reported illnesses associated with the consumption of these products. The recalled berries",
-      "pubDate": "Wed, 16 Sep 2026 02:45:09 GMT"
+      "source": "Salmonella Outbreaks",
+      "title": "California farm recalls eggs due to possible salmonella. What to look for - Sacramento Bee",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JZEI2MUZxTGhnOVlDZDFtOV9jcGYwQ01Fb3lJTEpMeVR1OXdMMzN5ZG5GV2FVWWFLNnVpRk00c1NyN0lLSms2TXJ6bzI0bDNCXzJCNTJTdWx2RWtGcVN4TGRrUFF0aEZUUUFqcQ?oc=5",
+      "description": "California farm recalls eggs due to possible salmonella. What to look for Sacramento Bee",
+      "pubDate": "Tue, 15 Sep 2026 20:33:52 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -91,20 +98,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ20ySmFQTWtUOUlLdkY3NmprOHo1Ymg1ZXpYTnA1bWxLUzBhMlJSZWxLa3FPZGk0SGNWUVVaTmMwVlJzUlVFeTRWM0RaUmgxa3c2R2pucE1QbFpka3piT2ptcjhjRlFOQjc3MjhWVjUyTGFwa0lFSlgwZC1NOC1iRkUxWkN5XzNuQTBGaDJJc3RydUowaU0xNnJOZkcxdXdjMHhnUUFiaw?oc=5",
       "description": "Vermont farm recalls eggs because of link to Salmonella outbreak foodsafetynews.com",
       "pubDate": "Sat, 12 Sep 2026 01:23:29 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "California farm recalls eggs due to possible salmonella. What to look for - Sacramento Bee",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JZEI2MUZxTGhnOVlDZDFtOV9jcGYwQ01Fb3lJTEpMeVR1OXdMMzN5ZG5GV2FVWWFLNnVpRk00c1NyN0lLSms2TXJ6bzI0bDNCXzJCNTJTdWx2RWtGcVN4TGRrUFF0aEZUUUFqcQ?oc=5",
-      "description": "California farm recalls eggs due to possible salmonella. What to look for Sacramento Bee",
-      "pubDate": "Fri, 11 Sep 2026 22:29:24 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Outbreak Investigation of E. coli O145:H28: Frozen Blueberries (July 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMFBlMFg4UU1DSUxIdDhRQnpSc0F5RjBmTWE3Z0NMcGlvVEo5azJKdmR2T2t3N0RoRHpWTGJtZFRldkgtRWx4UnhKYUJNbUxCMEhDWW1kUFhFa1VoVmsxazFqLUFTdXdGYjYwUEp6XzNHMFptSDhjUGNNdmxjdjVSWDJya2FBUVgwUlFZd2E1Z0lHZDg2ZDZsOHp5YVZUS3BiVDFtZ0E0QTJZelZDMTRocERmMUw0UFEtcEZ3?oc=5",
-      "description": "Outbreak Investigation of E. coli O145:H28: Frozen Blueberries (July 2026) fda.gov",
-      "pubDate": "Fri, 11 Sep 2026 00:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -178,9 +171,9 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Salmonella outbreak update - GOV.UK",
+      "title": "Salmonella outbreak update - gov.uk",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SdklEN1Qtc3ZyV1pLUVJGTU44b1FMVjNNOFZJRDU3YjJvMWZCb3IwTzJvdExFVUZaSE9YU0NkTDhwdHl1REpZQ09FTW5kZFVpWWxYeDk4UTQySUpES1VEWm8tYkFGaHdTSkRWQ25B?oc=5",
-      "description": "Salmonella outbreak update GOV.UK",
+      "description": "Salmonella outbreak update gov.uk",
       "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT"
     },
     {
@@ -205,25 +198,11 @@
       "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "Specialty Food Ingredients Market Size, Share Report, 2034 - Fortune Business Insights",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbFMtQjREMWRfTnc3bGxRWGhFa1h2UllwNWYtU0xXWWZjT1F5ZTc3ekhxODBjbzRmRUk4cFpPamZsLUhIMDRCQVg1eXB1aWh4bWJiY1VhaUdhNV9HV1BpRXZ1MF9WU0JpbU94UUFjVUxhSzNfQlpKNkJCbktuQW1GeE5hajdCbW8?oc=5",
-      "description": "Specialty Food Ingredients Market Size, Share Report, 2034 Fortune Business Insights",
-      "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT"
-    },
-    {
       "source": "Quintus Technologies",
       "title": "Quintus Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HanR5UmRBNGc3dFNicEFVMG9YSTdiSllDLWdFc2NXMjFwREcwU2ZTWXYyenVWekFjWTItdW4zXzJ4UU5reDRodDNzT1NfSFJWUEhhQTQzLXBVN1FOTjhoeWVsMzVNQQ?oc=5",
       "description": "Quintus Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
       "pubDate": "Thu, 13 Aug 2026 20:13:13 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "PPMA Show 2026: key equipment innovations preview - Food and Drink Technology",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU0F3a21PeEo0NW1WTV9tcjF6dHZ0R09Wa1NZNWVpcThpalU5U0l6UUJzcnFUajhpSHlfTlVMbE9LRWJIRVhud3E5YjFnQnNOTGdBTElmSFBOeFJ3cmgxUlY3RjJjMzdaRWpycWoxWGtHRlFIZmdYVVgyeXdZaHhjMFJvdlF5cENGaFdFV0JMcm9rYXJZd3pFbjNJeTBCUGpI?oc=5",
-      "description": "PPMA Show 2026: key equipment innovations preview Food and Drink Technology",
-      "pubDate": "Tue, 11 Aug 2026 07:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -254,13 +233,6 @@
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "Hiperbaric",
-      "title": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts - TCT Magazine",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM29NRXg0WXVha25KbzRLcm9zV0dRUG81ZVhpaGllbzdRR0FyVm1uVDBtVTZkR01tR1VKck56c2xxSC0yRDB1bUsyajAyd19Eb1I4UWRtY0VMVU9VNFlrWGJDSzdDQms0T0VwbE04WWl1V2k5b3cxZmVCSXZPUlg3OTI5Uzh1b2ZPRUhhZ0t6ckhqdHhhQVhfdzVJaVI1dEUtRy1OZERuMGwzY3RUdTc0UUZadFRKVU1JRmFWQVFwZHg3UWc0U3drMUVvZmY?oc=5",
-      "description": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts TCT Magazine",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Healthcare & Medical",
       "title": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 - Fortune Business Insights",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEYwb0FKSE1PSTZtQ1IwTHB1ZHBIbzhSc1piZnR6VTRpODRIaDRUaUx1cGZEVldYT0FjSkdEQ0tpNWVITDZ2eXl5TC1IOFM0V0Qwd0ZLaG9RSlp0WXI5V3NEV0pCYTg5RHFIb0NjOWVmcFVxU0ZILVhHdS10cWVtTk5qTVNfcVk?oc=5",
@@ -282,7 +254,7 @@
       "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Meat & Deli",
+      "source": "UK HPP Industry",
       "title": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors - The Engineer",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbFYzSUNCVHQxSHhmR0RBWDNtZFNkMDZTU1FTYXlVSDI3OUtleGZBNy1wNVU4U1ViazJqcW9odzQyOGpqMUM5S2o5aHo3S2R1ZlVVZV9OMTJOaU51eGM2TUtEaEttQ3hUZHRsdWZ5d2Joc01mWmxKY01WSWo1TjYzcmNPWGdlVzU2djJBQ2JDdXVpRHRWV1ZvN2tKZ2UyVXZtU2ZDVS0wQm9NSjVGaFJ1b0lRUHlZOUcwbTZhcDZkS0txSTMxenNvR0RxYnhpUDF1Vl9kS0pZejktaVBPc1ZRMVVBaHVQTzZsY1VMVnZlVG1QeTNwWlpaT3Jn?oc=5",
       "description": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors The Engineer",
@@ -311,9 +283,9 @@
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "Soft Cheese Recall Expands for Potential Listeria Contamination Causing Deadly Multi-State Outbreak - people.com",
+      "title": "Soft Cheese Recall Expands for Potential Listeria Contamination Causing Deadly Multi-State Outbreak - People.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTm9KbnBnUTBZSDNhVTVDLUNzX3RJM3F4V292aGgyVnV3VkNMT3lnemVMemwwSGlMdUFOR1ZmQWpUaFZxcDRCMzlQa19OMVUxTWN3YlFyZ0ZZR25LZHI1N0pROWVGZnByRXNZMG1hNFZHeGI4ZjJTVDctRUgtRUFFVUM1NXM1Mm50V2NxOHZR?oc=5",
-      "description": "Soft Cheese Recall Expands for Potential Listeria Contamination Causing Deadly Multi-State Outbreak people.com",
+      "description": "Soft Cheese Recall Expands for Potential Listeria Contamination Causing Deadly Multi-State Outbreak People.com",
       "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT"
     },
     {
@@ -338,18 +310,46 @@
       "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Dairy",
-      "title": "Unhomogenised milk boom prompts Waitrose farm investment - FarmingUK",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOWNLMHZMUkZqQ24wLXNHbkVtbGNzWkZ6eXcwa25TQ0xMTnp3cUlhYzhpSWhUNXRVMWFFM3ptSjk1UXA1U0Y1c3hJalpXOUJDNjFndTVQVzdvNWs5cmgxN0xIUG1YWXhHQWV6aUpCVEdPcG5CeDVncTdodHphZlRxM2RNUWxqSGJ5RXU1ZU1MZ05TZnJYZWJXWlVudXY2Ujg?oc=5",
-      "description": "Unhomogenised milk boom prompts Waitrose farm investment FarmingUK",
-      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT"
-    },
-    {
       "source": "UK Food Industry",
       "title": "Laminar Wins FoodTech Innovation Award for Innovative Solution on Digitalization in the Food & Beverage Industry - PR Newswire UK",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcUE0R2ZZQk53dTZoOTloWmxtbTRvaEo4M1lYZWxXNXZmVVE5ZS0tWWFPY3BWY01sR3JVZktXMEtjUDRVTk9PYWFxYXFBZVkzZ0ppNXFUbTB0SWlLTWF1REFibjczcnRhNkszUzRLanc4ZXdMVlRwLXJLLWZVeU5GRElnQm5WTlZEQS1qTjlnNzZHNWJNWnJsVjRyTkd4cFlqRkxndXAtLWRpWEIzNjhYaFk4b1haQmlveERvWDZ3UlZnS3RGVG9EZW0xMk5kb3NqZjlwVmppblBuQ0hqYVB0QjVaaHlWQy1sWnlicEk4WEtGeS1pQWJwOEF1LXRGUQ?oc=5",
       "description": "Laminar Wins FoodTech Innovation Award for Innovative Solution on Digitalization in the Food & Beverage Industry PR Newswire UK",
       "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Seafood",
+      "title": "Expansion at the Dock + boosts seafood processing in Alberni Valley - Ha-Shilth-Sa Newspaper",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXFGTmZ4ZW9NamJNeVhqV29yeFQ0SzlTYzBXcnl1RHltM0NIODNMVTFhT2VPaUhCbDFwanJEazNfZEoweXJkWGhtSGRwZWlycjJwWFgwdmZBU2RlSlRlTjhfQ3J4UDlrcUg0N1ZzX2puWVo4amFUczJFcGZCZWphenBFN0dUSlMwWVdIZ2ZmT1daOG90b0Z6X0RB?oc=5",
+      "description": "Expansion at the Dock + boosts seafood processing in Alberni Valley Ha-Shilth-Sa Newspaper",
+      "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Juices & Beverages",
+      "title": "Why Trader Joe's Was Once Sued Over Juice - tastingtable.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGNnaExYaDZIa3BFcnRyZGJxODFSSHFWTTFSTk5fNUNqbHJsbFVEbVloWVZYdUhMakFTZmloTnpacGI4N3c3c2lUcS1HcjhRTG1aTU81UmZIQVRRMWZqSk9QYUhfUjJ5RENGaVQ0clRfd0NoenlLNk1IdXdzRlBpZlNR?oc=5",
+      "description": "Why Trader Joe's Was Once Sued Over Juice tastingtable.com",
+      "pubDate": "Sun, 17 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric",
+      "title": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? - PetfoodIndustry",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTVFPakRRZlRhZG50MVZBdmVxdVZhVzlJRC1LNlBFOS1MNVI0SUhlT2FrUloxRkN5Qi1Bcm4yS0hFLUtDdnY5RC12dUY0TWoyQWh1eUlnSU5ZNmJMNmhSQlkyeU0yeHpGVDNZZE12MlI4TjZvNzZXR2RFN0htMFZlSkxFQmxqYnBEUG1VdUNpT3VMQ1pwUG1jel95SVltMkpVOW1wZDUwWTBkb2xZYmp5dlF5V3ZnV00tTzRubW9yTlhENDVpT1VCTW1rNDFhZURtR0Z5ZlBrOWNVenAxSFlyMmhGN3FkLVAzeWNCWVZYVzBKc2VaWTllemU3NA?oc=5",
+      "description": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? PetfoodIndustry",
+      "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Quality Food & Drink Awards opens for 2026 entries with refreshed new look - Grocery Trader",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMk45OUo0OVM0eVVFLTlubzY4WllJaUxWOVRHTXd2cC1WR2lWcXFzUWh5QVEtMHNKbGVGTVEzZzRETWlNbnRFOFZyWnJ3b1dDMGUxdC1Xb0s0RUdhcjhYNnE1cjlIOW5PWnJRSUdfaWRFell4OWJCUG50c0VKWGpWeWZ0aDNHUDRBUUtycC00TjBnaEY3WjB2Vlc5SHRzbmppZDdF?oc=5",
+      "description": "Quality Food & Drink Awards opens for 2026 entries with refreshed new look Grocery Trader",
+      "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Equipment & Machines",
+      "title": "High Pressure Processing Equipment Market - Future Market Insights",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNalZHdWJ4am9CS1FBbW8xSEUwMFIySTJVTkhNQ1RNTDJqT3M5dTVQTC12N1dvbkZMMEY1eFprZmZaQ01jel9fd2VjX3g3M3V3NnNyb19GY2VWNU9jY0Y4eXdNVTljQm9yaWtyYVlSNFFYaXNJeGJTUk14UDVyRVVXelh3?oc=5",
+      "description": "High Pressure Processing Equipment Market Future Market Insights",
+      "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
     }
   ]
 }
