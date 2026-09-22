@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-22T00:37:04.511056+00:00",
+  "updated": "2026-09-22T07:23:07.580492+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "E. coli outbreak tied to frozen berries sold at Walmart and Publix has ended",
+      "link": "https://www.foodsafetynews.com/2026/09/e-coli-outbreak-tied-to-frozen-berries-sold-at-walmart-and-publix-has-ended/",
+      "description": "The CDC has declared an end to an outbreak on E. coli O145:H28 infections traced to frozen blueberries from Chile. The blueberries, and berry mixes containing them, were sold under the Walmart&#x2019;s Great Value brand and the GreenWise brand at Publix. The berries were imported from Frutas",
+      "pubDate": "Tue, 22 Sep 2026 04:05:48 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Swedish analysis reveals scale of unreported foodborne infections",
+      "link": "https://www.foodsafetynews.com/2026/09/swedish-analysis-reveals-scale-of-unreported-foodborne-infections/",
+      "description": "Campylobacter, Salmonella, and Listeria are the main contributors to the foodborne disease burden in Sweden, but many cases are not reported, according to a study. Researchers estimated the national foodborne burden from 2013 to 2022 and explored links to sources and climate factors. They identified over 1.2 million cases,",
+      "pubDate": "Tue, 22 Sep 2026 04:03:26 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Hepatitis A outbreak traced to clams continues",
+      "link": "https://www.foodsafetynews.com/2026/09/hepatitis-a-outbreak-traced-to-clams-continues/",
+      "description": "The CDC and FDA are continuing to investigate an outbreak of hepatitis A infections linked to imported black clams. The Food and Drug Administration has posted a warning about La Serranita-brand concha negra (black shell) fresh frozen shell meat from Ecuador in 16-ounce plastic packages. As of Sept.",
+      "pubDate": "Tue, 22 Sep 2026 04:02:15 GMT"
+    },
     {
       "source": "Salmonella Outbreaks",
       "title": "Taylor Farms salmonella recall gets FDA high-risk warning - Houston Chronicle",
@@ -51,32 +72,11 @@
       "pubDate": "Fri, 18 Sep 2026 01:32:23 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Pasta sold at Walmart stores nationwide recalled because of Listeria",
-      "link": "https://www.foodsafetynews.com/2026/09/pasta-sold-at-walmart-stores-nationwide-recalled-because-of-listeria/",
-      "description": "Gias Foods has issued a nationwide recall of two lots of bettergoods Authentic Italian Lemon Alfredo Fettuccine sold at Walmart after testing found the product may be contaminated with Listeria monocytogenes. The company reported the frozen pasta comes in a 22-ounce yellow plastic packages with UPC 194346442706. The recalled",
-      "pubDate": "Fri, 18 Sep 2026 01:13:26 GMT"
-    },
-    {
       "source": "EU HPP & Food Tech",
-      "title": "ABZ Innovation Opens One of Europe's Largest Civilian Drone Manufacturing Facilities - Voice of Alexandria",
+      "title": "ABZ Innovation Opens One of Europe's Largest Civilian Drone Manufacturing Facilities - voiceofalexandria.com",
       "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOT3NuUi1UUlVtcWhPeW5rLTk4aG9yN205Q0FWQndaSGY4VmlPYjF4RS1qZUVFNTJlazBXdTBGNWVDdm05QjFLRDJWMThyMHFKZmUtbkp6RW11QjNUSHVvYk9SRHF3U3ZnWEc4MzYyUnNodGczclRFeTVkUjFIQzBRTUVwUm9GbjlwZGMzLXBzT1A4NkRoTDBHQmNPQkJ3Nklmd0pKR3g2dnAzNjBnSjhZWmNQVGN3Sk41LXZ3QnNzM0d0ci1lc1lPT3BUTmswZi1fdDNCNXpkNEVheFNlandINHE1R2hyeW1xNjZsRFBIR0xMNllYZUwzVmhDMmNvdlJDTDNhM0dfVWF2TmdSXy1vY2c5ZmhHTVE2cjJueHVjU3E?oc=5",
-      "description": "ABZ Innovation Opens One of Europe's Largest Civilian Drone Manufacturing Facilities Voice of Alexandria",
+      "description": "ABZ Innovation Opens One of Europe's Largest Civilian Drone Manufacturing Facilities voiceofalexandria.com",
       "pubDate": "Thu, 17 Sep 2026 09:43:26 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "FDA releases executive summaries on two outbreak investigations",
-      "link": "https://www.foodsafetynews.com/2026/09/fda-releases-executive-summaries-on-two-outbreak-investigations/",
-      "description": "Summaries cover a Salmonella outbreak and a Listeria outbreak",
-      "pubDate": "Thu, 17 Sep 2026 04:05:27 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "FDA report on food safety in delis stresses personal hygiene",
-      "link": "https://www.foodsafetynews.com/2026/09/fda-report-on-food-safety-in-delis-stresses-personal-hygiene/",
-      "description": "The Food and Drug Administration has released a 54-page report on the Occurrence of Foodborne Illness Risk Factors in Retail Food Store Delis. The report includes findings from data collection from 2019-2022 and is part of the agency&#x2019;s efforts to reduce foodborne illnesses, which have an",
-      "pubDate": "Thu, 17 Sep 2026 04:04:50 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -184,13 +184,6 @@
       "pubDate": "Fri, 21 Aug 2026 07:00:00 GMT"
     },
     {
-      "source": "Hiperbaric",
-      "title": "Hiperbaric and Oklahoma State University to Host HPP Protein Workshop - Quality Assurance & Food Safety",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU1REYUFGWjd2S3ZQWEJWcE00dFNDM2xOSlQzbnNzb01HbUJ5VV8wT2dPWDh6MlRsTmZMbEhzQkhiZ1JkMG1uamQtWktHMDN0WjlqWjVzUm1jd0lyUWxPd1VrVVZNZWt6dXpZYmZFZTNkLTlTTkJZeTlvVzI2SVNFSzY3RUQ4Sk5sODZNaV8xTmtla3pOMWhhNG9VYUdtRExDWkk3RU1HMXptYUhzWUpDYg?oc=5",
-      "description": "Hiperbaric and Oklahoma State University to Host HPP Protein Workshop Quality Assurance & Food Safety",
-      "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT"
-    },
-    {
       "source": "Quintus Technologies",
       "title": "Quintus Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HanR5UmRBNGc3dFNicEFVMG9YSTdiSllDLWdFc2NXMjFwREcwU2ZTWXYyenVWekFjWTItdW4zXzJ4UU5reDRodDNzT1NfSFJWUEhhQTQzLXBVN1FOTjhoeWVsMzVNQQ?oc=5",
@@ -227,9 +220,9 @@
     },
     {
       "source": "HPP Healthcare & Medical",
-      "title": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 - Fortune Business Insights",
+      "title": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 - fortunebusinessinsights.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEYwb0FKSE1PSTZtQ1IwTHB1ZHBIbzhSc1piZnR6VTRpODRIaDRUaUx1cGZEVldYT0FjSkdEQ0tpNWVITDZ2eXl5TC1IOFM0V0Qwd0ZLaG9RSlp0WXI5V3NEV0pCYTg5RHFIb0NjOWVmcFVxU0ZILVhHdS10cWVtTk5qTVNfcVk?oc=5",
-      "description": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 Fortune Business Insights",
+      "description": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 fortunebusinessinsights.com",
       "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT"
     },
     {
@@ -247,38 +240,38 @@
       "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "UK HPP Industry",
+      "source": "HPP Meat & Deli",
       "title": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors - The Engineer",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbFYzSUNCVHQxSHhmR0RBWDNtZFNkMDZTU1FTYXlVSDI3OUtleGZBNy1wNVU4U1ViazJqcW9odzQyOGpqMUM5S2o5aHo3S2R1ZlVVZV9OMTJOaU51eGM2TUtEaEttQ3hUZHRsdWZ5d2Joc01mWmxKY01WSWo1TjYzcmNPWGdlVzU2djJBQ2JDdXVpRHRWV1ZvN2tKZ2UyVXZtU2ZDVS0wQm9NSjVGaFJ1b0lRUHlZOUcwbTZhcDZkS0txSTMxenNvR0RxYnhpUDF1Vl9kS0pZejktaVBPc1ZRMVVBaHVQTzZsY1VMVnZlVG1QeTNwWlpaT3Jn?oc=5",
       "description": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors The Engineer",
       "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Innovation & Research",
-      "title": "Pressure, Purpose, & Possibility - ift.org",
+      "source": "HPP Cosmetics & Beauty",
+      "title": "Pressure, Purpose, & Possibility - IFT.org",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUo3RVhlX3dfRTlmMC1XbXJ5X2IzdW5rRlBBN0NXcWIxS1RPLU91RllrN0hMckNCVXJYaVRLME4wSU9xTnJCdHRfVUY5ZWdOdGM4MTdOLWtxQ3FTanBmWnVRRTFGMHBSdlgwSHNLUWhMdHNYZlNzQzF1TV9XZm9KNTl4QQ?oc=5",
-      "description": "Pressure, Purpose, & Possibility ift.org",
+      "description": "Pressure, Purpose, & Possibility IFT.org",
       "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Dairy",
-      "title": "Maharashtra FDA tightens milk safety rules - Dairy Business Middle East & Africa",
+      "title": "Maharashtra FDA tightens milk safety rules - dairybusinessmea.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWTRyNDdYb00yNHlja1ZhZDQ2NFBabzVxeU84TTZwdmkzQ0hNY0preTV5V1J6WVgzWmtxLUUway15MG5XSXFLS0ZmZjctMkxQNkJ6bWpqYVJoX3BFTWRFQ09HRlJnRWlUZnlEM2RuVkxHQkJjTjlIRTZLNGkzNzFSaHpadF9DbDVpLXZR?oc=5",
-      "description": "Maharashtra FDA tightens milk safety rules Dairy Business Middle East & Africa",
+      "description": "Maharashtra FDA tightens milk safety rules dairybusinessmea.com",
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
-      "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - The New Indian Express",
+      "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - newindianexpress.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
-      "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
+      "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur newindianexpress.com",
       "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "Soft Cheese Recall Expands for Potential Listeria Contamination Causing Deadly Multi-State Outbreak - people.com",
+      "title": "Soft Cheese Recall Expands for Potential Listeria Contamination Causing Deadly Multi-State Outbreak - People.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTm9KbnBnUTBZSDNhVTVDLUNzX3RJM3F4V292aGgyVnV3VkNMT3lnemVMemwwSGlMdUFOR1ZmQWpUaFZxcDRCMzlQa19OMVUxTWN3YlFyZ0ZZR25LZHI1N0pROWVGZnByRXNZMG1hNFZHeGI4ZjJTVDctRUgtRUFFVUM1NXM1Mm50V2NxOHZR?oc=5",
-      "description": "Soft Cheese Recall Expands for Potential Listeria Contamination Causing Deadly Multi-State Outbreak people.com",
+      "description": "Soft Cheese Recall Expands for Potential Listeria Contamination Causing Deadly Multi-State Outbreak People.com",
       "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT"
     },
     {
@@ -286,13 +279,6 @@
       "title": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QMXhzcHRVa1RrN0s0NUZtdHJrQndFWjRUTElLVml5RWwyNDh3RUcxWkg0S2RqQXI0QVcwOWp4QUJobzdNVGRUTHJid0JVX09sUDhvMW1WMXFjaTZVeHo0STJFMElDTmlwSWY1aEQtWE92TTRxR092NFdKOA?oc=5",
       "description": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods Medical Xpress",
-      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Europe Food and Beverages Market Size and Analysis, 2034 - Market Data Forecast",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFRiSl9GOVdlZHlfalNxOHk1V25kTkhPV20wU3JpbjNrLXV1VmljMjZfR0dNbEV2b3V2NjZpaDZaM3ZKYTZvazBiV3dDSkY2eWl5eWRrVUE0Z09BV2Y0bzdxLXdaeUgzN2lyTFlFLXNoVXRHQ0xsamN4S0pZeFRUSVV6c1otRzZWYlE?oc=5",
-      "description": "Europe Food and Beverages Market Size and Analysis, 2034 Market Data Forecast",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
@@ -304,9 +290,9 @@
     },
     {
       "source": "HPP Soups & Meals",
-      "title": "Heard the loud noise in Dixon? Officials say here's what caused it - abc10.com",
+      "title": "Heard the loud noise in Dixon? Officials say here's what caused it - ABC10",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGtOcWpIM1hIV1JSUjd6VVFmelI5ZlE4SzZKdkVHdGlmdm5SUjU1NXkwWWZNeXgyb280RjJpaE1CNEFOeGw2Y1ZPaW5JdkFsdzh2ZGZFSHl5a0VMRVF4UThqOVB3WFJTOFByWFFtZ3NQSi1Lb1RidU1WTmxSY0tKQzVHUF9KQk52OVk4eTJraWJLNjN5SXV4N2FEb3ZERUN4NkRPQ1RGcS1XUmJScFFFTFlMUXlKaHltdkF5SmIxSGxGaThfdUdRZC1nQXc?oc=5",
-      "description": "Heard the loud noise in Dixon? Officials say here's what caused it abc10.com",
+      "description": "Heard the loud noise in Dixon? Officials say here's what caused it ABC10",
       "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT"
     },
     {
@@ -325,9 +311,9 @@
     },
     {
       "source": "UK Food Industry",
-      "title": "2026 North East Scotland Food and Drink Award winners announced - Aberdeen & Grampian Chamber of Commerce",
+      "title": "2026 North East Scotland Food and Drink Award winners announced - agcc.co.uk",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVExmMTJNV3B0X3J1bzhOenhKVVdfTFVHVU1PdEZoZE5fcGc0ejNObHJ1Vnc5eTRDR1BHRjktOFdxSnFjOWFOeml2UDZDMTlvOGJaQk55VnhmXzZiRVlfa0Vabm9ldldjVzFOMGFoZ3FlUDM4aFJSeFB3eTh2dVdjZkdFbmliM1E4bjZiaDEyeXZ2cno1MzhPN1hSYnZVLXMz?oc=5",
-      "description": "2026 North East Scotland Food and Drink Award winners announced Aberdeen & Grampian Chamber of Commerce",
+      "description": "2026 North East Scotland Food and Drink Award winners announced agcc.co.uk",
       "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
     },
     {
@@ -339,17 +325,31 @@
     },
     {
       "source": "UK HPP Industry",
-      "title": "ORNL Combines 3D Printing and High-Pressure Processing to Reshape Large-Scale Metal Part Production - 3D Printing Industry",
+      "title": "ORNL Combines 3D Printing and High-Pressure Processing to Reshape Large-Scale Metal Part Production - 3dprintingindustry.com",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSF8xUHBJTWhEY0xodlkzd1NseW9Lc0VrWkFoazhkZTFJWkx3b05wcHhISF9DM0E1Wk5fa2w5aHhhcnp3RXNidFBMQmlVQ09GdF9qVmItU21BSUduSUM0T1hjSjNyeXY4TjFaRDM2RWxVbEdPS0ZaRnE0Q2czNDd3Z09kdVNFaW1RYmJQWDA1T1ZXVkZ3d01zQ0t5Nk1BT1NhaWgtSGg2SVptSTExcmE5UVE3dlRzdVo4cDB2YVRSSnk0QmcwbkhOb0RZbFZNQ2VxNWI2ZVZ3T0xwdGc?oc=5",
-      "description": "ORNL Combines 3D Printing and High-Pressure Processing to Reshape Large-Scale Metal Part Production 3D Printing Industry",
+      "description": "ORNL Combines 3D Printing and High-Pressure Processing to Reshape Large-Scale Metal Part Production 3dprintingindustry.com",
       "pubDate": "Tue, 19 May 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Juices & Beverages",
-      "title": "Why Trader Joe's Was Once Sued Over Juice - Tasting Table",
+      "title": "Why Trader Joe's Was Once Sued Over Juice - tastingtable.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGNnaExYaDZIa3BFcnRyZGJxODFSSHFWTTFSTk5fNUNqbHJsbFVEbVloWVZYdUhMakFTZmloTnpacGI4N3c3c2lUcS1HcjhRTG1aTU81UmZIQVRRMWZqSk9QYUhfUjJ5RENGaVQ0clRfd0NoenlLNk1IdXdzRlBpZlNR?oc=5",
-      "description": "Why Trader Joe's Was Once Sued Over Juice Tasting Table",
+      "description": "Why Trader Joe's Was Once Sued Over Juice tastingtable.com",
       "pubDate": "Sun, 17 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric",
+      "title": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? - PetfoodIndustry",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTVFPakRRZlRhZG50MVZBdmVxdVZhVzlJRC1LNlBFOS1MNVI0SUhlT2FrUloxRkN5Qi1Bcm4yS0hFLUtDdnY5RC12dUY0TWoyQWh1eUlnSU5ZNmJMNmhSQlkyeU0yeHpGVDNZZE12MlI4TjZvNzZXR2RFN0htMFZlSkxFQmxqYnBEUG1VdUNpT3VMQ1pwUG1jel95SVltMkpVOW1wZDUwWTBkb2xZYmp5dlF5V3ZnV00tTzRubW9yTlhENDVpT1VCTW1rNDFhZURtR0Z5ZlBrOWNVenAxSFlyMmhGN3FkLVAzeWNCWVZYVzBKc2VaWTllemU3NA?oc=5",
+      "description": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? PetfoodIndustry",
+      "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Quality Food & Drink Awards opens for 2026 entries with refreshed new look - Grocery Trader",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMk45OUo0OVM0eVVFLTlubzY4WllJaUxWOVRHTXd2cC1WR2lWcXFzUWh5QVEtMHNKbGVGTVEzZzRETWlNbnRFOFZyWnJ3b1dDMGUxdC1Xb0s0RUdhcjhYNnE1cjlIOW5PWnJRSUdfaWRFell4OWJCUG50c0VKWGpWeWZ0aDNHUDRBUUtycC00TjBnaEY3WjB2Vlc5SHRzbmppZDdF?oc=5",
+      "description": "Quality Food & Drink Awards opens for 2026 entries with refreshed new look Grocery Trader",
+      "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
     }
   ]
 }
