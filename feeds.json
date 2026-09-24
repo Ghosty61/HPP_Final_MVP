@@ -1,8 +1,22 @@
 {
-  "updated": "2026-09-23T22:44:07.939872+00:00",
+  "updated": "2026-09-24T03:28:53.601174+00:00",
   "articles": [
     {
-      "source": "HPP Innovation & Research",
+      "source": "Food Safety News",
+      "title": "Sprouting seeds recalled because of link to outbreak",
+      "link": "https://www.foodsafetynews.com/2026/09/sprouting-seeds-recalled-because-of-link-to-outbreak/",
+      "description": "Berlin Seeds, of Millersburg, OH, is recalling 950 pounds of alfalfa sprouting seed because the seed has the potential to be contaminated with Shiga toxin-producing E. coli and/or Salmonella. To date, one illnesses has been reported directly to Berlin Seeds in connection with this seed. The recall was",
+      "pubDate": "Thu, 24 Sep 2026 03:22:15 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Pasta sold at Walmart stores nationwide recalled. See affected item - usatoday.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTkJMRGh4NmxtcGtYU0hMTlNhXzFHZ0JnQ01lSl80MEZtcURQaVVLdFNuYWxjWWhTaThkT3R4Z082NmxhZ2h6WDZFSGxocVRnN3Vacl9fME95dWxRN0Y5b1d0UHVSdlFJZWEzakNvMXI3VmVQcFU2NTc2V0IzOHp4TjR4UU1XTTQ3YV8yUU1PZDVXRUpXZ1M5UXZqQnBOa3A0OEFHZE9aWUFwdzdMWmJNenBmSnVqbUc3TDE1UzlKRjBUYUhSakFEalo5ZldBZVhhWThCVHc4ZmpMUmpC?oc=5",
+      "description": "Pasta sold at Walmart stores nationwide recalled. See affected item usatoday.com",
+      "pubDate": "Wed, 23 Sep 2026 19:07:00 GMT"
+    },
+    {
+      "source": "HPP Meat & Deli",
       "title": "Oklahoma State University Workshop Highlights High-Pressure Processing Benefits for Beef Producers - Oklahoma Farm Report",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSmk2RjVBcUQwY0NzYmNZRks4NFh6RmJncFNWbXFXLW5ZdVBCZWpKM21jVm5MYWtGWjBOQ2lzOW9xLTVJZ3pwNkhULWlvU3czSFplQzY0em1JbHR0QnNjX19TOXdYOHdYVVFfMXlnMXhPeHpUbTJCX1pJU2NwYzNFNWtiX2hBdjBrbFdsWmQ0d2g5dEtBTGxaVUliRzJSVUJEaHk5SmE3enQ2Y1o3SU1pWFp4YzhiTHpHVXJ4dVFndW5PQUVCVEt6c3BQaE95aE5wR0RkVU1nVDF5Z20tbkE?oc=5",
       "description": "Oklahoma State University Workshop Highlights High-Pressure Processing Benefits for Beef Producers Oklahoma Farm Report",
@@ -37,6 +51,13 @@
       "pubDate": "Wed, 23 Sep 2026 04:01:30 GMT"
     },
     {
+      "source": "UK Food Industry",
+      "title": "Multivac UK to open new CX and innovation centre in Manchester - Food Manufacture",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWmc2cnZsZzY5X0VacGx5ZjQ2VF9jMFBzQ3ExVkhYMVhJd0t2ZlppYlZ1dDBnaG1UTGdkeDVDUmRNaXhsOGtYejV6c1VvRkcxYkZPMUxVM3NSLWNseHBYc3UxVUJxT08tc3A3Wm5BMzdtb0JUTVJJN0R0TFNQMlVrZkRPamo2U1VVaC1FX2J6OHBnYUhKOGhsRUhjZlFQVEZZTDgwbThwQ0VldzQxQjA1eEN0Q0FWQ3VsSms3R2ZHNklzMGhoNmM0?oc=5",
+      "description": "Multivac UK to open new CX and innovation centre in Manchester Food Manufacture",
+      "pubDate": "Tue, 22 Sep 2026 15:56:31 GMT"
+    },
+    {
       "source": "HPP Innovation & Research",
       "title": "HPP workshop highlights technology benefits for pet food processing - Pet Food Processing",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNelZBSDBXbzgtSFZMdC1pR3pKQkMzRzM5RVNPYnpqby1vSTJobDJYaDBMaExaNWdOQmpveWxnVDlDMjA5eGFKQy1fMEl6MVJ0ME9XaHNiT3J5RWIzWG0xdm1KV25Mb1RYZmNWRmlaeGEzb2NDQzRzMHlwSmYyRDRNM3kzVUdJVTRrNUlid0hURTF1blVxaFdYa0tNZ3B0U2ZnMV95Um9WYnRwVTVxQ1h4d3ljR3ZxbmM?oc=5",
@@ -49,13 +70,6 @@
       "link": "https://www.foodsafetynews.com/2026/09/e-coli-outbreak-tied-to-frozen-berries-sold-at-walmart-and-publix-has-ended/",
       "description": "The berries were imported from Frutas y Hortalizas del Sur S.A., of San Carlos, Chile.",
       "pubDate": "Tue, 22 Sep 2026 04:05:48 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Swedish analysis reveals scale of unreported foodborne infections",
-      "link": "https://www.foodsafetynews.com/2026/09/swedish-analysis-reveals-scale-of-unreported-foodborne-infections/",
-      "description": "Campylobacter, Salmonella, and Listeria are the main contributors to the foodborne disease burden in Sweden, but many cases are not reported, according to a study. Researchers estimated the national foodborne burden from 2013 to 2022 and explored links to sources and climate factors. They identified over 1.2 million cases,",
-      "pubDate": "Tue, 22 Sep 2026 04:03:26 GMT"
     },
     {
       "source": "HPP Juices & Beverages",
@@ -80,9 +94,9 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Major supermarkets issue urgent product recalls over food poisoning fears - standard.co.uk",
+      "title": "Major supermarkets issue urgent product recalls over food poisoning fears - London Evening Standard",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFJXNWhUbHVVOGJrZjAxRXNxTldXYXJ5LXRfWVZvNlI2UzFxLTdUcWZNRTVXMUlaMTI3bzEzaWhnWWV5NjR2NDhmaWs2VGJVRHVmcUlNYmRERDhfdHZ3MTNiVVd6ZS1wZUhwZlVVVWZQbGd1MzgtY2pYNF8tYmw2SHVPT3hSdTZCeDZYcmdXLUhCUmdOUkM2UkRha0dKYTRDTm1rLTNTWVNrMzZubXY2aTZB?oc=5",
-      "description": "Major supermarkets issue urgent product recalls over food poisoning fears standard.co.uk",
+      "description": "Major supermarkets issue urgent product recalls over food poisoning fears London Evening Standard",
       "pubDate": "Sun, 13 Sep 2026 07:00:00 GMT"
     },
     {
@@ -142,7 +156,7 @@
       "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Equipment & Machines",
+      "source": "Hiperbaric",
       "title": "/C O R R E C T I O N -- Hiperbaric/ - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVTVzZWhFdUZxY1JtWnpxU2NMampwVTNSUUtTZ0FhNUl6VzZDeWxSNi1WellDU2RxcFdyWUNvajY3a0tiZHVQeE1nXzdkXzZfY185LTlDSXUtcW5pRkdtWGFRc2Mwd1UyYXIxYmxZYXpXLXBvN2xoZDhNUUUwdEp5YWdRTU45ZDl6dDRKMWNlWTVyTjlPZWotaHB0VnJ6QjlnZEZ3dFdpWVlhbjJKc0NIQUR6RnpwY2Q4LXMzT3hLWWttTWJsNUZJeS0zeWtrd0FXalVrcF8xT1ZwLU5jVzJ6bkJvbGtLWV91WWp0UUlnVmp5RWtqNHZPRVBfclpNQmV1eXZ0clF4RnZyZw?oc=5",
       "description": "/C O R R E C T I O N -- Hiperbaric/ PR Newswire",
@@ -262,9 +276,9 @@
     },
     {
       "source": "EU HPP & Food Tech",
-      "title": "The EU tightens controls on Listeria, presents the food industry with new challenges - FoodBev Media",
+      "title": "The EU tightens controls on Listeria, presents the food industry with new challenges - foodbev.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFBHSGtUQzUwd29fU2Mxa2xzWVNwYTJMeEVldnVlS3Y5dU5nT3MxSEtCRDE3QS1EWXBHcXFfZXRFMkdmeHNRaXg3OUJFWjA5cTh4Y0VncDRJUDI2ZzE1RDFHWU5qVHFSd3l0aV9Sc1VWMnp2bC1veDJ5Ylp6dUtXQ0lqWWZmR1hCX1ZMSE9sNi1maFdTdHFvSmVmc1BUWmxGVTNiOHg0WnpuRi04SnhqRlBxZVh3QQ?oc=5",
-      "description": "The EU tightens controls on Listeria, presents the food industry with new challenges FoodBev Media",
+      "description": "The EU tightens controls on Listeria, presents the food industry with new challenges foodbev.com",
       "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT"
     },
     {
@@ -275,6 +289,13 @@
       "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT"
     },
     {
+      "source": "HPP Cosmetics & Beauty",
+      "title": "Pressure, Purpose, & Possibility - IFT.org",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUo3RVhlX3dfRTlmMC1XbXJ5X2IzdW5rRlBBN0NXcWIxS1RPLU91RllrN0hMckNCVXJYaVRLME4wSU9xTnJCdHRfVUY5ZWdOdGM4MTdOLWtxQ3FTanBmWnVRRTFGMHBSdlgwSHNLUWhMdHNYZlNzQzF1TV9XZm9KNTl4QQ?oc=5",
+      "description": "Pressure, Purpose, & Possibility IFT.org",
+      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Dairy",
       "title": "Maharashtra FDA tightens milk safety rules - Dairy Business Middle East & Africa",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWTRyNDdYb00yNHlja1ZhZDQ2NFBabzVxeU84TTZwdmkzQ0hNY0preTV5V1J6WVgzWmtxLUUway15MG5XSXFLS0ZmZjctMkxQNkJ6bWpqYVJoX3BFTWRFQ09HRlJnRWlUZnlEM2RuVkxHQkJjTjlIRTZLNGkzNzFSaHpadF9DbDVpLXZR?oc=5",
@@ -283,23 +304,16 @@
     },
     {
       "source": "HPP Seafood",
-      "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - The New Indian Express",
+      "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - newindianexpress.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
-      "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
+      "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur newindianexpress.com",
       "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "Soft Cheese Recall Expands for Potential Listeria Contamination Causing Deadly Multi-State Outbreak - People.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTm9KbnBnUTBZSDNhVTVDLUNzX3RJM3F4V292aGgyVnV3VkNMT3lnemVMemwwSGlMdUFOR1ZmQWpUaFZxcDRCMzlQa19OMVUxTWN3YlFyZ0ZZR25LZHI1N0pROWVGZnByRXNZMG1hNFZHeGI4ZjJTVDctRUgtRUFFVUM1NXM1Mm50V2NxOHZR?oc=5",
-      "description": "Soft Cheese Recall Expands for Potential Listeria Contamination Causing Deadly Multi-State Outbreak People.com",
-      "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Healthcare & Medical",
-      "title": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods - Medical Xpress",
+      "title": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods - medicalxpress.com",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QMXhzcHRVa1RrN0s0NUZtdHJrQndFWjRUTElLVml5RWwyNDh3RUcxWkg0S2RqQXI0QVcwOWp4QUJobzdNVGRUTHJid0JVX09sUDhvMW1WMXFjaTZVeHo0STJFMElDTmlwSWY1aEQtWE92TTRxR092NFdKOA?oc=5",
-      "description": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods Medical Xpress",
+      "description": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods medicalxpress.com",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
@@ -336,20 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc28zbGNKazk1RW02MXhLc3EzX3VsSDQtOU1BVlMtV1FkOC1vWktucG1xbVJlSkU4LTRYSFR0dzBIMXRaWkxGRFYxS2VrV0JtV0JQWWdvT2hZNkN2Y1FZUGw4NzBPeXNhdld4NmhlT1dNSU81ZVVaZkVDV1FRLU13YnhYN3dVNUU3bFhQd3BqaGdDRWp6YjczWXdXanY0M1RIcV83MHExV3RpUG1TalIwYU8wVUZGclZLN1Vn?oc=5",
       "description": "Frontmatec’s Spanish factory expands robotic automation capacity Food and Drink Technology",
       "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "2026 North East Scotland Food and Drink Award winners announced - agcc.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVExmMTJNV3B0X3J1bzhOenhKVVdfTFVHVU1PdEZoZE5fcGc0ejNObHJ1Vnc5eTRDR1BHRjktOFdxSnFjOWFOeml2UDZDMTlvOGJaQk55VnhmXzZiRVlfa0Vabm9ldldjVzFOMGFoZ3FlUDM4aFJSeFB3eTh2dVdjZkdFbmliM1E4bjZiaDEyeXZ2cno1MzhPN1hSYnZVLXMz?oc=5",
-      "description": "2026 North East Scotland Food and Drink Award winners announced agcc.co.uk",
-      "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Seafood",
-      "title": "Expansion at the Dock + boosts seafood processing in Alberni Valley - Ha-Shilth-Sa Newspaper",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXFGTmZ4ZW9NamJNeVhqV29yeFQ0SzlTYzBXcnl1RHltM0NIODNMVTFhT2VPaUhCbDFwanJEazNfZEoweXJkWGhtSGRwZWlycjJwWFgwdmZBU2RlSlRlTjhfQ3J4UDlrcUg0N1ZzX2puWVo4amFUczJFcGZCZWphenBFN0dUSlMwWVdIZ2ZmT1daOG90b0Z6X0RB?oc=5",
-      "description": "Expansion at the Dock + boosts seafood processing in Alberni Valley Ha-Shilth-Sa Newspaper",
-      "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
     }
   ]
 }
