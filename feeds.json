@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-30T18:50:32.250498+00:00",
+  "updated": "2026-09-30T23:31:06.139872+00:00",
   "articles": [
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Here’s What You Need to Know About All the Listeria Outbreaks—And What Foods Are Affected - Allrecipes",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xQ1FrUmJnREJ2OWdsSEhaQzBDZGFhOHl5UDFUTE1ockdRZ0xiVVB1OWtQQ1huVUV3d0xHWHYtc0g5OVlYZlktYTBsUHotYkhGQThxenRoMC03Q3RIa3J6TmN3?oc=5",
+      "description": "Here’s What You Need to Know About All the Listeria Outbreaks—And What Foods Are Affected Allrecipes",
+      "pubDate": "Wed, 30 Sep 2026 21:20:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Salad Dressing Recall Update in Three States as FDA Sets Highest Risk Level - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUGxYWkxVZlBtNDBvOE1aZmROcDNQUEdzcUcwTzlWb2lGbXZzOXNpNVFRQTRKT1pVVEpMNjBEVVh5V05NWi1GeDl6WFpyMzV6NDZMbkZudUJsNERCaEFOMkZfaElNRVhXVWJsUHZ6LTZFUjFDSGx0cG4wZUo0TVF6VGR2WlNEMlFDQW1wT09TeHpqTko2SHJKLTVSR0lJd21MRGZFMXptYW0yR1dsSUE?oc=5",
+      "description": "Salad Dressing Recall Update in Three States as FDA Sets Highest Risk Level Newsweek",
+      "pubDate": "Wed, 30 Sep 2026 14:23:00 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "CDC declares end to Salmonella outbreak traced to backyard flocks",
@@ -59,9 +73,9 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "More than 167,000 pounds of meat were recalled. What to know about the state of food safety in the U.S. - pbs.org",
+      "title": "More than 167,000 pounds of meat were recalled. What to know about the state of food safety in the U.S. - PBS",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT3A5Y2VJZXh4eUp0SkNhUC00U3dEMlZtZW56amtzeDZjNlNfWnM1RjFRcmUxZ2RlNUg3QXZqT1A0YUNBS3BDTXViTWtvMXFuWXBIMEdUczFlY1JEXzU1Z19WZkpYOTA3U0d4bVBNeThmSlF0NEVIdUtodWtVN3lkZGV3eWFIZ0ZISVBIOEJRSmdrb3U2SFZPbGN2elFkakJDYmJpcEFmaVJLYWpVaE9rRTNnSTV6ak80cFM4LTEwdEhGa09DT29yeHdaMUxzZ2NmM2c?oc=5",
-      "description": "More than 167,000 pounds of meat were recalled. What to know about the state of food safety in the U.S. pbs.org",
+      "description": "More than 167,000 pounds of meat were recalled. What to know about the state of food safety in the U.S. PBS",
       "pubDate": "Fri, 25 Sep 2026 22:15:02 GMT"
     },
     {
@@ -114,13 +128,6 @@
       "pubDate": "Wed, 23 Sep 2026 14:27:14 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "5 Ongoing Food Recalls You Should Know About This Week - Allrecipes",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xSno1T0x0Tzh0d3h1U1Qwbkw5SGY1QWFEd0NNQllZV2p3UmlTcWU2WHNVX0dvQ2k0WmliRzlrRmhUOVdsbHJLU0tGWDdSbDZXY0FKb0tiZHdBTjNZdnMzOWlIZVNyY3ozSER0TWlGXzI0emI0eDg2Ng?oc=5",
-      "description": "5 Ongoing Food Recalls You Should Know About This Week Allrecipes",
-      "pubDate": "Wed, 23 Sep 2026 14:00:00 GMT"
-    },
-    {
       "source": "Hiperbaric",
       "title": "TTT Group to launch HIP business with Hiperbaric HIP 107 - Metal Additive Manufacturing magazine",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd180QUsweXIyMGJXNHp5NEV5THk3dUc5bkt5YkVXbExSbEVyVzB3azNKMVBqZVdPRnBlNnJFQmhHSHN2UWd6M1N6eUN5LUhJMHNvUGxJam5jb2RUS0xDaXlCYTJVLTJUZi1UM0JETHpGa0JCTDVuQUNKVC1sYktLZkpGSW9uY05RV1E?oc=5",
@@ -140,13 +147,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNelZBSDBXbzgtSFZMdC1pR3pKQkMzRzM5RVNPYnpqby1vSTJobDJYaDBMaExaNWdOQmpveWxnVDlDMjA5eGFKQy1fMEl6MVJ0ME9XaHNiT3J5RWIzWG0xdm1KV25Mb1RYZmNWRmlaeGEzb2NDQzRzMHlwSmYyRDRNM3kzVUdJVTRrNUlid0hURTF1blVxaFdYa0tNZ3B0U2ZnMV95Um9WYnRwVTVxQ1h4d3ljR3ZxbmM?oc=5",
       "description": "HPP workshop highlights technology benefits for pet food processing Pet Food Processing",
       "pubDate": "Tue, 22 Sep 2026 12:00:12 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "FDA Assigns Highest-Risk Designation to Recall of Over 500,000 Food Products Over Salmonella - Men's Journal",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOTBqVjRnMFBvUTdKUjZ3MC1rS29yV0FURmFncmdacDREcVlueF83YTRXZUdjMUgyVXNPbVViVms5SjZMT1Y2bE5VWnVYb2x4dF9pWWVYVUlOODVVNURjajU4R0IwQzZtUmROM05iRFVqU3J6ZHVLWUtWNU8zbWFod3NSdnE5Qm1qQ1Y0NHRBckZvRy1fQ1JOc2Z1R240ckIzSnItX0YwSTY0QXpZeWc?oc=5",
-      "description": "FDA Assigns Highest-Risk Designation to Recall of Over 500,000 Food Products Over Salmonella Men's Journal",
-      "pubDate": "Sat, 19 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Meat & Deli",
@@ -192,10 +192,17 @@
     },
     {
       "source": "EU HPP & Food Tech",
-      "title": "Europe Pet Food Market Size, Share & Industry Report 2034 - imarcgroup.com",
+      "title": "Europe Pet Food Market Size, Share & Industry Report 2034 - IMARC Group",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjeWdDak84UmpjS1NON0hQZEEtWmlCVWJXUFlqQlhqSUFlWjdUNFdIZFotdkJUOERuN3NOSHNOZ0xYMTBtRDk2U184MHZkOTJYRWN4M3R3U2NxLTBuU0E?oc=5",
-      "description": "Europe Pet Food Market Size, Share & Industry Report 2034 imarcgroup.com",
+      "description": "Europe Pet Food Market Size, Share & Industry Report 2034 IMARC Group",
       "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric",
+      "title": "HPP Protein Workshop: OSU, Hiperbaric Sept. 17 - fb101.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeGw2N0hBNzRFOS1PRm1jUERTc1IxSFBRaXo2QllCY213QmhKVW1zcGY1eUZPZVJibF9XMFFDOHZ5ZUYyQktBNVFpWTFCaFRGNTBkNk55M0s0UlVwVXVkTFVwUXlJRFo1X3RORTlDaU1DUmUzUjJBWTE1ZjVsd01GYl9NQzYyR2tXTjl6bVVqanFIaUI2bVUtdG1B?oc=5",
+      "description": "HPP Protein Workshop: OSU, Hiperbaric Sept. 17 fb101.com",
+      "pubDate": "Tue, 01 Sep 2026 03:41:13 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -241,9 +248,9 @@
     },
     {
       "source": "HPP Equipment & Machines",
-      "title": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing - Nutritional Outlook",
+      "title": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing - nutritionaloutlook.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDBoRW1EZEpqYmQ5Sm9XLVRycFVJN2gzSDNiTkNWX0taRUhvcTlIZlo4UUlvc2tUeldqZ3ZDUEw4bFpLcl9jbW10ZV9DYVpnc1daWS0tc2VyZ0sxSWxDN1llX1J0TGJ1ZUJOVjhVdHViRmg2WDRHRzJTU1Z4UnN3YnpoMkxsWENSblZZV3cwSFJwY1NyQWNGQmxPU190dw?oc=5",
-      "description": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing Nutritional Outlook",
+      "description": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing nutritionaloutlook.com",
       "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT"
     },
     {
@@ -251,13 +258,6 @@
       "title": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts - TCT Magazine",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM29NRXg0WXVha25KbzRLcm9zV0dRUG81ZVhpaGllbzdRR0FyVm1uVDBtVTZkR01tR1VKck56c2xxSC0yRDB1bUsyajAyd19Eb1I4UWRtY0VMVU9VNFlrWGJDSzdDQms0T0VwbE04WWl1V2k5b3cxZmVCSXZPUlg3OTI5Uzh1b2ZPRUhhZ0t6ckhqdHhhQVhfdzVJaVI1dEUtRy1OZERuMGwzY3RUdTc0UUZadFRKVU1JRmFWQVFwZHg3UWc0U3drMUVvZmY?oc=5",
       "description": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts TCT Magazine",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric",
-      "title": "Hiperbaric to supply first Spanish-built HIP system to TTT Group - Metal Additive Manufacturing magazine",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2pMRnhXaDV5blFZbGRMRUxQb1dxRFJFQXl2Z29WOEc1Ry1RNWdNSFVCUHhGb3cxMHhVOWJIRUt6QnF1MW5tdWRiaDdvNExubUN0WVB1RW41dEVhcVFuUTdFLVdXaFRIU1FOempJZk90MVFjRXdnTGtUTzdxc2lYWTRWaWRjSU1iUDdvWVpCN3NTcGVL?oc=5",
-      "description": "Hiperbaric to supply first Spanish-built HIP system to TTT Group Metal Additive Manufacturing magazine",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
@@ -297,9 +297,9 @@
     },
     {
       "source": "HPP Healthcare & Medical",
-      "title": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods - medicalxpress.com",
+      "title": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QMXhzcHRVa1RrN0s0NUZtdHJrQndFWjRUTElLVml5RWwyNDh3RUcxWkg0S2RqQXI0QVcwOWp4QUJobzdNVGRUTHJid0JVX09sUDhvMW1WMXFjaTZVeHo0STJFMElDTmlwSWY1aEQtWE92TTRxR092NFdKOA?oc=5",
-      "description": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods medicalxpress.com",
+      "description": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods Medical Xpress",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
@@ -332,16 +332,16 @@
     },
     {
       "source": "HPP Juices & Beverages",
-      "title": "GEA launches new KOB High-Pressure Homogenizer Series for small and medium-scale production - Milling Middle East & Africa",
+      "title": "GEA launches new KOB High-Pressure Homogenizer Series for small and medium-scale production - millingmea.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbzBDRnl5YV9UcGNQbTVpRUx2bUVpMXlUVEpWTkpCWUNldmV6TjNsejhJMUJ5VnE3VU5xVUxfVlpMYmFDeVZ6eW01emxISTNhREZ6ck5Hdm1ta3VWdUloX0lnZ2pnYUlSZUJoNUd5dUlsTm01eUc2MDVOaEU0X08tLTdiWDFhUE50SXVtUE5OUS1GU0licWpPTFNTcWlxa2duWTdiZE9Dbllpak94WFA4VEI4dENnZw?oc=5",
-      "description": "GEA launches new KOB High-Pressure Homogenizer Series for small and medium-scale production Milling Middle East & Africa",
+      "description": "GEA launches new KOB High-Pressure Homogenizer Series for small and medium-scale production millingmea.com",
       "pubDate": "Mon, 15 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "EU HPP & Food Tech",
-      "title": "Frontmatec’s Spanish factory expands robotic automation capacity - Food and Drink Technology",
+      "title": "Frontmatec’s Spanish factory expands robotic automation capacity - foodanddrinktechnology.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc28zbGNKazk1RW02MXhLc3EzX3VsSDQtOU1BVlMtV1FkOC1vWktucG1xbVJlSkU4LTRYSFR0dzBIMXRaWkxGRFYxS2VrV0JtV0JQWWdvT2hZNkN2Y1FZUGw4NzBPeXNhdld4NmhlT1dNSU81ZVVaZkVDV1FRLU13YnhYN3dVNUU3bFhQd3BqaGdDRWp6YjczWXdXanY0M1RIcV83MHExV3RpUG1TalIwYU8wVUZGclZLN1Vn?oc=5",
-      "description": "Frontmatec’s Spanish factory expands robotic automation capacity Food and Drink Technology",
+      "description": "Frontmatec’s Spanish factory expands robotic automation capacity foodanddrinktechnology.com",
       "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT"
     },
     {
