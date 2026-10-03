@@ -1,6 +1,41 @@
 {
-  "updated": "2026-10-03T00:57:47.123344+00:00",
+  "updated": "2026-10-03T07:41:03.833969+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Sprouting seeds recalled because of potential contamination with Salmonella, E. coli",
+      "link": "https://www.foodsafetynews.com/2026/10/sprouting-seeds-recalled-because-of-potential-contamination-with-salmonella-e-coli/",
+      "description": "Todd&#x2019;s Seeds LLC of Cookeville, TN, is recalling 37,481 units of sprouting seeds because they may be contaminated with Salmonella and/or E. coli. The recalled seeds were sold via Amazon and direct to consumers. According to the recall notice, the products contain alfalfa seed recalled by",
+      "pubDate": "Sat, 03 Oct 2026 03:11:22 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Salmonella Jalapeño Outbreak Ends With 488 Sick in 34 States - Food Poisoning Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRGNLcm5yYXNfZUJETkhzV1JFRzB5NEhkRHVjUEdhWXRncjJJZ2JlU3pXaVpkRUdXU2xsNUNXY0thaUtweGt4Y0djSG1zYS1SZHo2YW1zdG1VUWgwNzZ6cjBocVBzSHFIQ2toaG12ekdlZl9NTzJQSm5ReFpoeW01MzlVODV6QnFidW14LWNDYlBVV3VlczVYaFZuclI2MWlPelE?oc=5",
+      "description": "Salmonella Jalapeño Outbreak Ends With 488 Sick in 34 States Food Poisoning Bulletin",
+      "pubDate": "Sat, 03 Oct 2026 02:49:56 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Recall Alert: Walmart pasta may have Listeria contamination - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HWkluN3NILTZvb0FHdnVCYUtaZ1lXYm1tSy1BZU1RWF9aMUo3T08tMVBBVUg0WVg0cmc4WW9DdHJJT1hXSEpRMU9hVm5yeHpyYXd2MlJTQVVjWF9HZlBVRmRDeEQ4ejZMZXdZWWR0SmhsUng2VlZRUEpKT0psXzg?oc=5",
+      "description": "Recall Alert: Walmart pasta may have Listeria contamination AOL.com",
+      "pubDate": "Sat, 03 Oct 2026 01:38:00 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "FDA found Cyclospora at Taylor Farms lettuce operation",
+      "link": "https://www.foodsafetynews.com/2026/10/fda-found-cyclospora-at-taylor-farms-lettuce-operation/",
+      "description": "Findings show that the parasite responsible for this summer's outbreak was present in the environment where lettuce was grown and processed.",
+      "pubDate": "Sat, 03 Oct 2026 01:29:21 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Berry recall expanded for Walmart, Trader Joe's brands",
+      "link": "https://www.foodsafetynews.com/2026/10/berry-recall-expanded-for-walmart-trader-joes-brands/",
+      "description": "A company in Chile has again expanded a recall of its frozen organic berries because of a link to an E. coli O145:H28 outbreak. The outbreak has been declared over by the Centers for Disease Control and Prevention. A total of 17 confirmed patients were infected in Florida and",
+      "pubDate": "Sat, 03 Oct 2026 00:59:22 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Pasta recall expanded to include all lots sold at Walmart stores",
@@ -10,7 +45,7 @@
     },
     {
       "source": "Food Safety News",
-      "title": "Salmonella outbreak traced to jalapeño has ended",
+      "title": "Salmonella outbreak traced to jalapeños has ended",
       "link": "https://www.foodsafetynews.com/2026/10/salmonella-outbreak-traced-to-jalapeno-has-ended/",
       "description": "The outbreak sickened people across 34 states",
       "pubDate": "Fri, 02 Oct 2026 16:10:20 GMT"
@@ -30,32 +65,11 @@
       "pubDate": "Fri, 02 Oct 2026 04:08:20 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Another state, more patients involved in sprout outbreak",
-      "link": "https://www.foodsafetynews.com/2026/10/another-state-more-patients-involved-in-sprout-outbreak/",
-      "description": "The outbreak is unusual in that it involves two pathogens.",
-      "pubDate": "Fri, 02 Oct 2026 04:05:56 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "New York farm barred from selling raw milk because of positive test for Listeria",
-      "link": "https://www.foodsafetynews.com/2026/10/new-york-farm-barred-from-selling-raw-milk-because-of-positive-test-for-listeria/",
-      "description": "New York officials are warning the public not to consume raw milk from Big Brook Farm in Lee Center because it has tested positive for Listeria monocytogenes. In the warning issued Sept. 30, State Agriculture and Markets Commissioner Richard A. Ball said a sample of the dairy&#x2019;s milk",
-      "pubDate": "Fri, 02 Oct 2026 01:19:52 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
-      "title": "Salata Jalapeño Avocado Dressing Recall Gets FDA’s Highest Warning Level - People.com",
+      "title": "Salad Dressing Recall for Potential Salmonella Contamination Classified at FDA’s Highest Warning Level amid Outbreak - People.com",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRmtlR3JCZTJDOUZsZjFBY2F3SjNibjgxcWljcE41b0Q4SXBPVkxoTm9DZmQ3dXM1U2E4bi1RRnlXbDVtMGRfamZIQUN1VEdBemNjc2JDY2dsamNoSkd4Ti1mOVJOQTB4VFVrS1FRZS1KdmNSWXdsT0pTdG5HU0RZQlFWM3YxTGxpdm5RY0NRendFM29tdGNkMVhRbnBvRkI4bkRoWWpKUDV2QjFFdTA1SHRWakRraU52aDBYNkdaTFptc183RlJjd05OY09scDVNVUwyYmxsQkd6UQ?oc=5",
-      "description": "Salata Jalapeño Avocado Dressing Recall Gets FDA’s Highest Warning Level People.com",
+      "description": "Salad Dressing Recall for Potential Salmonella Contamination Classified at FDA’s Highest Warning Level amid Outbreak People.com",
       "pubDate": "Fri, 02 Oct 2026 01:08:18 GMT"
-    },
-    {
-      "source": "HPP Meat & Deli",
-      "title": "High-Pressure Treatment Zaps Dangerous Bacteria in Wild Venison Without Ruining the Taste - Bioengineer.org",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWZmanRTalNaSGlnMkV4RV9DYTRuZEl6SzNpTnBMd2czQ3dSOHJEZm5jZUtSQ0lxc0FDcjVpSEVXUkF4N1Zrem5laWJHbXBSTnh1cUw3ZzRpSV9tMEZ2TWZsQTlwaGNEa25BY0d3OG82am5QT2tyajgwU0J6d05sVGpzWVRzOF9xaGVOSk13M0tkcGQyemR1VWlCTk1xYWJmQW5aYjc2VldCdXU2Yl8yM1U2QmU?oc=5",
-      "description": "High-Pressure Treatment Zaps Dangerous Bacteria in Wild Venison Without Ruining the Taste Bioengineer.org",
-      "pubDate": "Thu, 01 Oct 2026 21:47:41 GMT"
     },
     {
       "source": "UK HPP Industry",
@@ -79,13 +93,6 @@
       "pubDate": "Thu, 01 Oct 2026 10:00:52 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "New Listeria outbreak under investigation",
-      "link": "https://www.foodsafetynews.com/2026/10/new-listeria-outbreak-under-investigation/",
-      "description": "Traceback efforts have been initiated, but the FDA has not reported what food it is tracing.",
-      "pubDate": "Thu, 01 Oct 2026 04:05:35 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "Here’s What You Need to Know About All the Listeria Outbreaks—And What Foods Are Affected - Allrecipes",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xQ1FrUmJnREJ2OWdsSEhaQzBDZGFhOHl5UDFUTE1ockdRZ0xiVVB1OWtQQ1huVUV3d0xHWHYtc0g5OVlYZlktYTBsUHotYkhGQThxenRoMC03Q3RIa3J6TmN3?oc=5",
@@ -94,16 +101,16 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Dubai chocolate products recalled by major distributor due to salmonella - foodmanufacture.co.uk",
+      "title": "Dubai chocolate products recalled by major distributor due to salmonella - Food Manufacture",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPclJndWt0RGtNbFFDWnRmRkNTLWRob01SaHpJWnJRek5NLWVjSV9CMHlaYlQyRDl4dm9ZX0lpUENKT1lDQU5yU2RXUW1BcGJKa1Zod1FEajRUZnZScnhhanc5S2w3TVZrYXRXNE9mcjJQTlkyM29YRWZpdU5VeHBicHhGckRUNkUzdDlmNlpoVURyRmw4ZUM2Y3ExdzVCR3p4V0dXWHgwMHo0cUJtNWNMS0U3ZnVUbEE?oc=5",
-      "description": "Dubai chocolate products recalled by major distributor due to salmonella foodmanufacture.co.uk",
+      "description": "Dubai chocolate products recalled by major distributor due to salmonella Food Manufacture",
       "pubDate": "Tue, 29 Sep 2026 10:47:44 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "3 Food Recalls You Should Check Your Kitchen for Right Now - seriouseats.com",
+      "title": "3 Food Recalls You Should Check Your Kitchen for Right Now - Serious Eats",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMQmFremRrQ2drdThkbTk4cXpUb21CZVJMUzRWbTNHc01pamsxVTV5MTNWNmFFN2xiZ3pGaXRIMDVSamNiZjZvZVhlbWVqN0poZEZyMXVkM285Qmg5akFrbXJNTHNqR1NLYjlR?oc=5",
-      "description": "3 Food Recalls You Should Check Your Kitchen for Right Now seriouseats.com",
+      "description": "3 Food Recalls You Should Check Your Kitchen for Right Now Serious Eats",
       "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT"
     },
     {
@@ -114,25 +121,11 @@
       "pubDate": "Mon, 28 Sep 2026 08:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "CDC Tracking 4 Active Foodborne Outbreaks - Contagion Live",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQalFjT25LU3g1dXpaVEFHUlBuenFvTl9XQTdLX0JhbGVyaHRjRmJnM1RwTjZIc01wS29EUk5aRm9xZlhfdUJWejlFYUU1NVppZmkyQlFPY2JkRzVINm51S0Q2MlpTOXFIYUgxLTJ3NU9lRDZneDVWeXo3UTRibVdncnBn?oc=5",
-      "description": "CDC Tracking 4 Active Foodborne Outbreaks Contagion Live",
-      "pubDate": "Sun, 27 Sep 2026 16:09:33 GMT"
-    },
-    {
       "source": "HPP Healthcare & Medical",
       "title": "Study Identifies High-Pressure Processing Parameters for Effective Pathogen Reduction in Raw Chicken - Food Safety Magazine",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSzhlMUlKTzNoNGdhU3lmdzg5Q3BENFhqM0ZNbkhFWXJoSnFfelFWUTczQUphVUI5bHBzbElrZWJsU0VseFVLY3ZwU3Z5RjZVMWVFQ3F1Yk5RclRMR1F5T0xMWjg0M2FLSGxlNUV4SjJQLTNJdDlQZEtwTHUxQnR5UHhGQ0NLeDI1R01JLXc3Q0pMRWl3V041Y3JSM3dvU1lJbE1LQVplT3AwVjhrQkxrcC1tMmt5NWlwTkVGM2tidzFYQjhpbklxYTBnSTlJMGVZZXZMbVJSeWpWRnc?oc=5",
       "description": "Study Identifies High-Pressure Processing Parameters for Effective Pathogen Reduction in Raw Chicken Food Safety Magazine",
       "pubDate": "Sat, 26 Sep 2026 07:35:10 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Salmonella: Sprouts (September 2026) - fda.gov",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNG1iTHdOMDdWTnlPUEUtM09Da3VidGZoMUV0U3Z1cmQ5amFramhac0dCdWpVckp2d3FMeldzSUtIN0M1SklFemMwdmtWYnZic2NVcy1iZFNpaE9ubU1EU2Z3N3V5TlhIeUwxQlB1SDFGOElvWEdZYVE0d2Y1Z1FZY1BsaEVsVXVUMzE0WEdhQS00OXdyQnRYTENlNGJYbktpSDRlNklWTzdJdGZfd3c?oc=5",
-      "description": "Outbreak Investigation of Salmonella: Sprouts (September 2026) fda.gov",
-      "pubDate": "Thu, 24 Sep 2026 16:30:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -142,11 +135,11 @@
       "pubDate": "Thu, 24 Sep 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Meat & Deli",
-      "title": "Oklahoma State University Workshop Highlights High-Pressure Processing Benefits for Beef Producers - oklahomafarmreport.com",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSmk2RjVBcUQwY0NzYmNZRks4NFh6RmJncFNWbXFXLW5ZdVBCZWpKM21jVm5MYWtGWjBOQ2lzOW9xLTVJZ3pwNkhULWlvU3czSFplQzY0em1JbHR0QnNjX19TOXdYOHdYVVFfMXlnMXhPeHpUbTJCX1pJU2NwYzNFNWtiX2hBdjBrbFdsWmQ0d2g5dEtBTGxaVUliRzJSVUJEaHk5SmE3enQ2Y1o3SU1pWFp4YzhiTHpHVXJ4dVFndW5PQUVCVEt6c3BQaE95aE5wR0RkVU1nVDF5Z20tbkE?oc=5",
-      "description": "Oklahoma State University Workshop Highlights High-Pressure Processing Benefits for Beef Producers oklahomafarmreport.com",
-      "pubDate": "Wed, 23 Sep 2026 14:27:14 GMT"
+      "source": "Salmonella Outbreaks",
+      "title": "Outbreak Investigation of Salmonella: Sprouts (September 2026) - fda.gov",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNG1iTHdOMDdWTnlPUEUtM09Da3VidGZoMUV0U3Z1cmQ5amFramhac0dCdWpVckp2d3FMeldzSUtIN0M1SklFemMwdmtWYnZic2NVcy1iZFNpaE9ubU1EU2Z3N3V5TlhIeUwxQlB1SDFGOElvWEdZYVE0d2Y1Z1FZY1BsaEVsVXVUMzE0WEdhQS00OXdyQnRYTENlNGJYbktpSDRlNklWTzdJdGZfd3c?oc=5",
+      "description": "Outbreak Investigation of Salmonella: Sprouts (September 2026) fda.gov",
+      "pubDate": "Thu, 24 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -157,17 +150,17 @@
     },
     {
       "source": "UK Food Industry",
-      "title": "Multivac UK to open new CX and innovation centre in Manchester - foodmanufacture.co.uk",
+      "title": "Multivac UK to open new CX and innovation centre in Manchester - Food Manufacture",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWmc2cnZsZzY5X0VacGx5ZjQ2VF9jMFBzQ3ExVkhYMVhJd0t2ZlppYlZ1dDBnaG1UTGdkeDVDUmRNaXhsOGtYejV6c1VvRkcxYkZPMUxVM3NSLWNseHBYc3UxVUJxT08tc3A3Wm5BMzdtb0JUTVJJN0R0TFNQMlVrZkRPamo2U1VVaC1FX2J6OHBnYUhKOGhsRUhjZlFQVEZZTDgwbThwQ0VldzQxQjA1eEN0Q0FWQ3VsSms3R2ZHNklzMGhoNmM0?oc=5",
-      "description": "Multivac UK to open new CX and innovation centre in Manchester foodmanufacture.co.uk",
+      "description": "Multivac UK to open new CX and innovation centre in Manchester Food Manufacture",
       "pubDate": "Tue, 22 Sep 2026 15:56:31 GMT"
     },
     {
-      "source": "HPP Juices & Beverages",
-      "title": "Krones showcases high-speed, sustainable beverage solutions at Gulfood Manufacturing 2026 - FoodTechBiz",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTVZpc3ZFb3BCVGdSUmg0SUtVeDNuejRoNmdvUmFsV0xaUjVsV21aZXhrOW05UWl2eDVTZVBnUjMwMzVEdlhrYmRoMUJVNGVyamZjNjBvVmFqcm9uZE5ZS2tXZUd5djFuanNjVXNsMklHU2J3ZG9mNXgwdUFhcVFfdFo5TFdfMGo5ZHcwdGxLMjdaN3AxcEhIaFZia3dFN21SMlNYRXdtUzUtekNsT2dRLW5BaFlIRlRhdUNnblgtSDfSAc4BQVVfeXFMUGJvTGFIdmd4ZDVMbXk2ZWI5ei1hZTBfdmhJb2Z3aG5XbUxpMktzdmxDb1l6RFRwblFzLU52dUdaY0FXZU1UekdoM18zLXlyZmRRNG53R204c05VbGVuLTd5SERQUmtjM2lGcnhMQlpFRW1WWHpselNnWS1yWTFjbHRyOFZZSThyRmFGUzJmaDAwWU9EcnY4SnI0OG80SHBZeTREdFF0VjdocFBmZHBNMjBCMWVDbkpLX1JkRVZTTVpacVpxRVZqQWg0dTFRY2c?oc=5",
-      "description": "Krones showcases high-speed, sustainable beverage solutions at Gulfood Manufacturing 2026 FoodTechBiz",
-      "pubDate": "Fri, 18 Sep 2026 06:48:10 GMT"
+      "source": "Listeria Outbreaks",
+      "title": "Pasta sold at Walmart stores nationwide recalled because of Listeria - foodsafetynews.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeTVIZ0JBQVIwdThpZWctbWJtSEdjYTdiVEU2V0dDTjROS0l3c2xQeUkzcUppNHVQQkEyNFJoT1ZHZ1JZRmRvUW9LUUE0ZUE3ZFNqU05hcFBydU9sc0hXZzNHaHhsQ19RZjNtVEFPM0JIcW44ci0zcFZOd2lrWENMekVydnlVZTNVTnJjcWVQSmtScDdxdkJLU2VPYVpGRjRvTmRNLTAyUDVURFhp?oc=5",
+      "description": "Pasta sold at Walmart stores nationwide recalled because of Listeria foodsafetynews.com",
+      "pubDate": "Thu, 17 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -178,17 +171,10 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Oxfordshire customers warned to return items from Tesco, Sainsbury's and Waitrose - oxfordmail.co.uk",
+      "title": "Oxfordshire customers warned to return items from Tesco, Sainsbury's and Waitrose - Oxford Mail",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU3pGamhqbmdYbzExVEtQN25FVTFqc1MtU1JUSkJsOGJhNFZEN2xyVF9pSWxVbERqSTVaNXB2MHZadlp3SGE3LUtTd2JHQ2lPWmJUOERZamFsbm1UTGx5MFRwaXVVc0ZZRWtkTTh3aGpDZVM0ZFJpbXkzeVpabGhKZmdYMDA5RkQtV0RTSHhzN0dKNWo5RHZVcjJMdmVkR0NkdGc?oc=5",
-      "description": "Oxfordshire customers warned to return items from Tesco, Sainsbury's and Waitrose oxfordmail.co.uk",
+      "description": "Oxfordshire customers warned to return items from Tesco, Sainsbury's and Waitrose Oxford Mail",
       "pubDate": "Sat, 12 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Cream Cheese and Deli Salads Recalled After Listeria Detected by FDA - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd3lSSlZ3TGRXNVBhWlVvWmdOR01YUEJPdW9XUldUb1dQbnMwM3ZPTzRjVUp3QnlQbU9fNmFIakdvc3NPd0tPYlBwNDhaNkJiYnB3eldkNzZyRGRzdUhTRDVoeHFxZ05Ja0ptUm50OHhHVUgtNGpTRHIwRllvVkZQZg?oc=5",
-      "description": "Cream Cheese and Deli Salads Recalled After Listeria Detected by FDA Newsweek",
-      "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -199,9 +185,9 @@
     },
     {
       "source": "HPP Equipment & Machines",
-      "title": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 - fortunebusinessinsights.com",
+      "title": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 - Fortune Business Insights",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEYwb0FKSE1PSTZtQ1IwTHB1ZHBIbzhSc1piZnR6VTRpODRIaDRUaUx1cGZEVldYT0FjSkdEQ0tpNWVITDZ2eXl5TC1IOFM0V0Qwd0ZLaG9RSlp0WXI5V3NEV0pCYTg5RHFIb0NjOWVmcFVxU0ZILVhHdS10cWVtTk5qTVNfcVk?oc=5",
-      "description": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 fortunebusinessinsights.com",
+      "description": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 Fortune Business Insights",
       "pubDate": "Mon, 07 Sep 2026 07:00:00 GMT"
     },
     {
@@ -241,16 +227,16 @@
     },
     {
       "source": "Hiperbaric",
-      "title": "Hiperbaric and Oklahoma State University to Host HPP Protein Workshop - qualityassurancemag.com",
+      "title": "Hiperbaric and Oklahoma State University to Host HPP Protein Workshop - Quality Assurance & Food Safety",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU1REYUFGWjd2S3ZQWEJWcE00dFNDM2xOSlQzbnNzb01HbUJ5VV8wT2dPWDh6MlRsTmZMbEhzQkhiZ1JkMG1uamQtWktHMDN0WjlqWjVzUm1jd0lyUWxPd1VrVVZNZWt6dXpZYmZFZTNkLTlTTkJZeTlvVzI2SVNFSzY3RUQ4Sk5sODZNaV8xTmtla3pOMWhhNG9VYUdtRExDWkk3RU1HMXptYUhzWUpDYg?oc=5",
-      "description": "Hiperbaric and Oklahoma State University to Host HPP Protein Workshop qualityassurancemag.com",
+      "description": "Hiperbaric and Oklahoma State University to Host HPP Protein Workshop Quality Assurance & Food Safety",
       "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
-      "title": "UNL, OSU, Hiperbaric to host HPP protein workshop - Pet Food Processing",
+      "title": "UNL, OSU, Hiperbaric to host HPP protein workshop - petfoodprocessing.net",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTUVWRllBNGxQRDJXUXBWVHJPZXBNOTFIQy14WVUzS0k3VXI2MmFmRjFmLXR2M1hMRERyWjhIUm05Q3NINWxoUGRQRndBdUxaYnRMbnlCdHcwcFpyNHFaR2pfS3VRWmk4MzZEbmd5d2ktcU1KeElBeUo2SkVwbllaV2JhUXhHZkFTWG83NFRpRkVmM01OSTRpNUY2OHA?oc=5",
-      "description": "UNL, OSU, Hiperbaric to host HPP protein workshop Pet Food Processing",
+      "description": "UNL, OSU, Hiperbaric to host HPP protein workshop petfoodprocessing.net",
       "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT"
     },
     {
@@ -269,9 +255,9 @@
     },
     {
       "source": "Hiperbaric",
-      "title": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts - TCT Magazine",
+      "title": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts - tctmagazine.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM29NRXg0WXVha25KbzRLcm9zV0dRUG81ZVhpaGllbzdRR0FyVm1uVDBtVTZkR01tR1VKck56c2xxSC0yRDB1bUsyajAyd19Eb1I4UWRtY0VMVU9VNFlrWGJDSzdDQms0T0VwbE04WWl1V2k5b3cxZmVCSXZPUlg3OTI5Uzh1b2ZPRUhhZ0t6ckhqdHhhQVhfdzVJaVI1dEUtRy1OZERuMGwzY3RUdTc0UUZadFRKVU1JRmFWQVFwZHg3UWc0U3drMUVvZmY?oc=5",
-      "description": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts TCT Magazine",
+      "description": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts tctmagazine.com",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
@@ -290,9 +276,9 @@
     },
     {
       "source": "HPP Innovation & Research",
-      "title": "Pressure, Purpose, & Possibility - IFT.org",
+      "title": "Pressure, Purpose, & Possibility - ift.org",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUo3RVhlX3dfRTlmMC1XbXJ5X2IzdW5rRlBBN0NXcWIxS1RPLU91RllrN0hMckNCVXJYaVRLME4wSU9xTnJCdHRfVUY5ZWdOdGM4MTdOLWtxQ3FTanBmWnVRRTFGMHBSdlgwSHNLUWhMdHNYZlNzQzF1TV9XZm9KNTl4QQ?oc=5",
-      "description": "Pressure, Purpose, & Possibility IFT.org",
+      "description": "Pressure, Purpose, & Possibility ift.org",
       "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
     {
@@ -308,13 +294,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelE?oc=5",
       "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
       "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Soft Cheese Recall Expands for Potential Listeria Contamination Causing Deadly Multi-State Outbreak - People.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTm9KbnBnUTBZSDNhVTVDLUNzX3RJM3F4V292aGgyVnV3VkNMT3lnemVMemwwSGlMdUFOR1ZmQWpUaFZxcDRCMzlQa19OMVUxTWN3YlFyZ0ZZR25LZHI1N0pROWVGZnByRXNZMG1hNFZHeGI4ZjJTVDctRUgtRUFFVUM1NXM1Mm50V2NxOHZR?oc=5",
-      "description": "Soft Cheese Recall Expands for Potential Listeria Contamination Causing Deadly Multi-State Outbreak People.com",
-      "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -350,6 +329,27 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNckxvRF9aTEVKMlI0ZkVhV1dGWEFUdzlfMThMV2V6ZWsyYl9NQXVFVGktQzF6RzE3UWgtS0x1cGFBd3hidTdnQjJYcHZqMDhZampBbkhhbHpTS2ZYUm5LQktwZkY3NEgySkxEMGRULVRURmNQQlNNb205cFBtLXR5c2UxZWFUUlk5U0laZFM5UExvdTJkS050ag?oc=5",
       "description": "Climate-smart and low-emission farming in Europe Open Access Government",
       "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Laminar Wins FoodTech Innovation Award for Innovative Solution on Digitalization in the Food & Beverage Industry - PR Newswire UK",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcUE0R2ZZQk53dTZoOTloWmxtbTRvaEo4M1lYZWxXNXZmVVE5ZS0tWWFPY3BWY01sR3JVZktXMEtjUDRVTk9PYWFxYXFBZVkzZ0ppNXFUbTB0SWlLTWF1REFibjczcnRhNkszUzRLanc4ZXdMVlRwLXJLLWZVeU5GRElnQm5WTlZEQS1qTjlnNzZHNWJNWnJsVjRyTkd4cFlqRkxndXAtLWRpWEIzNjhYaFk4b1haQmlveERvWDZ3UlZnS3RGVG9EZW0xMk5kb3NqZjlwVmppblBuQ0hqYVB0QjVaaHlWQy1sWnlicEk4WEtGeS1pQWJwOEF1LXRGUQ?oc=5",
+      "description": "Laminar Wins FoodTech Innovation Award for Innovative Solution on Digitalization in the Food & Beverage Industry PR Newswire UK",
+      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Innovation & Research",
+      "title": "High pressure food processing access expanded for local businesses - University of Hawaii System",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWNONmEzaEdyVzkzNFlZUnI2SlpIR01YQ0lTdzJ3TFN6N0lzSEs0OTBseHhLSXRaVGhkSERSVDlnWHY3bDBZRjhTWjlZVW1CNmJmcjFaRkgweUdVdC16TGFLcUZVU3NXOTM4MWZ6bENIUE9TWmFEMlJfTTZuMXFiRXRaOTM?oc=5",
+      "description": "High pressure food processing access expanded for local businesses University of Hawaii System",
+      "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Seafood",
+      "title": "Expansion at the Dock + boosts seafood processing in Alberni Valley - Ha-Shilth-Sa Newspaper",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXFGTmZ4ZW9NamJNeVhqV29yeFQ0SzlTYzBXcnl1RHltM0NIODNMVTFhT2VPaUhCbDFwanJEazNfZEoweXJkWGhtSGRwZWlycjJwWFgwdmZBU2RlSlRlTjhfQ3J4UDlrcUg0N1ZzX2puWVo4amFUczJFcGZCZWphenBFN0dUSlMwWVdIZ2ZmT1daOG90b0Z6X0RB?oc=5",
+      "description": "Expansion at the Dock + boosts seafood processing in Alberni Valley Ha-Shilth-Sa Newspaper",
+      "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
     }
   ]
 }
