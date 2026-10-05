@@ -1,12 +1,33 @@
 {
-  "updated": "2026-10-05T00:28:22.926427+00:00",
+  "updated": "2026-10-05T08:28:08.661325+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Czech testing finds Salmonella problem in poultry meat",
+      "link": "https://www.foodsafetynews.com/2026/10/czech-testing-finds-salmonella-problem-in-poultry-meat/",
+      "description": "Also: Illnesses in Salmonella outbreak in Prague rise to nearly 400",
+      "pubDate": "Mon, 05 Oct 2026 04:06:47 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "FDA cites juice processor for HACCP failures and lack of pathogen reduction",
+      "link": "https://www.foodsafetynews.com/2026/10/fda-cites-juice-processor-for-haccp-failures-and-lack-of-pathogen-reduction/",
+      "description": "As part of its enforcement activities, the Food and Drug Administration sends warning letters to entities under its jurisdiction. Some letters are not posted for public view until weeks or months after they are sent. Business owners have 15 days to respond to FDA warning letters. Warning letters often are",
+      "pubDate": "Mon, 05 Oct 2026 04:02:53 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "After 488 Sickened & 65 Hospitalised In Salmonella Outbreak, FDA Issues Highest-Risk Recall For Salad Dressing - Health and Me",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWm5xZHNuUEh2aW9GYmZ5NFczVXpaVVE4emdDeWpLYkM3amFqeDBBMWwwNXNydFZrSWsxcW1GVm5aemFVWWZzVkthaUhlT25mcGNWYi04dlNJMExSaFkwVmg4dmV0NlBEZF9vMDk4d3I5N1N2SEJra0liZGt1c0J0azlBN0QyRzZFVkpVeUxwcENuZlNzanRKOW5VQjFDWldBeUUyOXYwV3dKT2ZpZUJkQ3FvMVl0cXc4VkhEQnNURVRqcjJWc3VDRnZaR3BPWTZ5OE4zbWw0UnFPQmgwRDg0c3VRemlsVFdjU29VZk93a2wtU096RmN2Wg?oc=5",
+      "description": "After 488 Sickened & 65 Hospitalised In Salmonella Outbreak, FDA Issues Highest-Risk Recall For Salad Dressing Health and Me",
+      "pubDate": "Mon, 05 Oct 2026 02:30:00 GMT"
+    },
     {
       "source": "HPP Meat & Deli",
       "title": "Celery Powder Matches Synthetic Nitrite in Smoked Ham Quality Test - Bioengineer.org",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdkVzdTk2aHIybFR6OU1mQWdBUGFKTzNBUWJiNE4waV96a0k2Vlo4WlNMNThoYkt5ckZiRTkwcnNvRjFUbFV0WGlSdW9fQmw2NlAzRDFaRG5PSXY0dHJCeVYwenlfb1UzNGdkYnYzbkY3ZllPYmdxZkhMMFlBTnNCU09oVGZ5SlJPWUxJNVJfTmpoR0d3Y3c?oc=5",
       "description": "Celery Powder Matches Synthetic Nitrite in Smoked Ham Quality Test Bioengineer.org",
-      "pubDate": "Sat, 03 Oct 2026 17:10:22 GMT"
+      "pubDate": "Sat, 03 Oct 2026 22:41:15 GMT"
     },
     {
       "source": "Food Safety News",
@@ -42,20 +63,6 @@
       "link": "https://www.foodsafetynews.com/2026/10/fda-found-cyclospora-at-taylor-farms-lettuce-operation/",
       "description": "Findings show that the parasite responsible for this summer's outbreak was present in the environment where lettuce was grown and processed.",
       "pubDate": "Sat, 03 Oct 2026 01:29:21 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Berry recall expanded for Walmart, Trader Joe's brands",
-      "link": "https://www.foodsafetynews.com/2026/10/berry-recall-expanded-for-walmart-trader-joes-brands/",
-      "description": "A company in Chile has again expanded a recall of its frozen organic berries because of a link to an E. coli O145:H28 outbreak. The outbreak has been declared over by the Centers for Disease Control and Prevention. A total of 17 confirmed patients were infected in Florida and",
-      "pubDate": "Sat, 03 Oct 2026 00:59:22 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Pasta recall expanded to include all lots sold at Walmart stores",
-      "link": "https://www.foodsafetynews.com/2026/10/pasta-recall-expanded-to-include-all-lots-sold-at-walmart-stores/",
-      "description": "Gias Foods of New York, NY, is recalling all lot codes of bettergoods Authentic Italian Lemon Alfredo Fettuccine, because it has the potential to be contaminated with Listeria monocytogenes. The Authentic Italian Lemon Alfredo Fettuccine was distributed nationwide at Walmart stores. The company previously recalled certain lots of the product,",
-      "pubDate": "Sat, 03 Oct 2026 00:37:02 GMT"
     },
     {
       "source": "Quintus Technologies",
@@ -108,9 +115,9 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Dubai chocolate products recalled by major distributor due to salmonella - Food Manufacture",
+      "title": "Dubai chocolate products recalled by major distributor due to salmonella - foodmanufacture.co.uk",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPclJndWt0RGtNbFFDWnRmRkNTLWRob01SaHpJWnJRek5NLWVjSV9CMHlaYlQyRDl4dm9ZX0lpUENKT1lDQU5yU2RXUW1BcGJKa1Zod1FEajRUZnZScnhhanc5S2w3TVZrYXRXNE9mcjJQTlkyM29YRWZpdU5VeHBicHhGckRUNkUzdDlmNlpoVURyRmw4ZUM2Y3ExdzVCR3p4V0dXWHgwMHo0cUJtNWNMS0U3ZnVUbEE?oc=5",
-      "description": "Dubai chocolate products recalled by major distributor due to salmonella Food Manufacture",
+      "description": "Dubai chocolate products recalled by major distributor due to salmonella foodmanufacture.co.uk",
       "pubDate": "Tue, 29 Sep 2026 10:47:44 GMT"
     },
     {
@@ -136,9 +143,9 @@
     },
     {
       "source": "UK Food Industry",
-      "title": "Multivac UK to open new CX and innovation centre in Manchester - Food Manufacture",
+      "title": "Multivac UK to open new CX and innovation centre in Manchester - foodmanufacture.co.uk",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWmc2cnZsZzY5X0VacGx5ZjQ2VF9jMFBzQ3ExVkhYMVhJd0t2ZlppYlZ1dDBnaG1UTGdkeDVDUmRNaXhsOGtYejV6c1VvRkcxYkZPMUxVM3NSLWNseHBYc3UxVUJxT08tc3A3Wm5BMzdtb0JUTVJJN0R0TFNQMlVrZkRPamo2U1VVaC1FX2J6OHBnYUhKOGhsRUhjZlFQVEZZTDgwbThwQ0VldzQxQjA1eEN0Q0FWQ3VsSms3R2ZHNklzMGhoNmM0?oc=5",
-      "description": "Multivac UK to open new CX and innovation centre in Manchester Food Manufacture",
+      "description": "Multivac UK to open new CX and innovation centre in Manchester foodmanufacture.co.uk",
       "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
     },
     {
@@ -156,6 +163,13 @@
       "pubDate": "Sun, 13 Sep 2026 07:00:00 GMT"
     },
     {
+      "source": "Food Safety UK & EU",
+      "title": "Oxfordshire customers warned to return items from Tesco, Sainsbury's and Waitrose - Oxford Mail",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU3pGamhqbmdYbzExVEtQN25FVTFqc1MtU1JUSkJsOGJhNFZEN2xyVF9pSWxVbERqSTVaNXB2MHZadlp3SGE3LUtTd2JHQ2lPWmJUOERZamFsbm1UTGx5MFRwaXVVc0ZZRWtkTTh3aGpDZVM0ZFJpbXkzeVpabGhKZmdYMDA5RkQtV0RTSHhzN0dKNWo5RHZVcjJMdmVkR0NkdGc?oc=5",
+      "description": "Oxfordshire customers warned to return items from Tesco, Sainsbury's and Waitrose Oxford Mail",
+      "pubDate": "Sat, 12 Sep 2026 07:00:00 GMT"
+    },
+    {
       "source": "Hiperbaric",
       "title": "Hiperbaric to Present Its Hot Isostatic Pressing Systems at IMTS 2026 - Eastern Progress",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSnNUbFBiSExUUHNOMnFnWUdON0ZXR1VJVUNMWGhuNEo5aW9NVXRNb3lNOGxaU2ZGQmlreFpKc1ZTcER5TGoweFpxeWxyeWtONmFHczRETkQyR0FBNkw1OEFYQ2dUd09TSWtFUUp3WFN6MWZjSFoybjg3NGRvOXI5XzlqOXJyY09LcEhrYUNSV2xtRlc5ODNNV1NLOEc5Q3NrSEdTaWs0TEtrMFJmeEV0M1RtZW1xVzJ3ZjdxWW5HejNPSExuVDNCUFpBczR2ZDNCNGtJaGZmWDZBVDBQMDRPYTdReml0QQ?oc=5",
@@ -167,6 +181,13 @@
       "title": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 - Fortune Business Insights",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEYwb0FKSE1PSTZtQ1IwTHB1ZHBIbzhSc1piZnR6VTRpODRIaDRUaUx1cGZEVldYT0FjSkdEQ0tpNWVITDZ2eXl5TC1IOFM0V0Qwd0ZLaG9RSlp0WXI5V3NEV0pCYTg5RHFIb0NjOWVmcFVxU0ZILVhHdS10cWVtTk5qTVNfcVk?oc=5",
       "description": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 Fortune Business Insights",
+      "pubDate": "Mon, 07 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Food Ingredients Market Size, Share | Growth Forecast [2034 - Fortune Business Insights",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rSkdQWE93bDdDc2ZENzA0a1Vud1BFbTctT0U3NjJZcWFRTThVN1J3U3ZrVzRQbTRwNVhfS2FveUc1TG56NlJSbFluaWt6bXNBdU5FRmxEejVpYlFLejBfZEhxUHZlcEM3emlNMXN4NVR0S3cycFkxY19B?oc=5",
+      "description": "Food Ingredients Market Size, Share | Growth Forecast [2034 Fortune Business Insights",
       "pubDate": "Mon, 07 Sep 2026 07:00:00 GMT"
     },
     {
@@ -212,13 +233,6 @@
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Investigation Update: Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zb05obHd4ZVBoakNZLXo3RXN1eTFHWF9HeHlrRVJERXk5anNKby1QbXNtZkRiSWVZWE51QUlacFBBcDhmUDVmZXREVmNCZ1ZuaEtDVWl3NnZkSGxvQ1FrX2FRRl9PdHpBRHc4UG9qU0dvVmdxV0JkSTEwNWtuZw?oc=5",
-      "description": "Investigation Update: Salmonella Outbreak, August 2026 Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT"
-    },
-    {
       "source": "Food Safety UK & EU",
       "title": "Food Fact Check: Can you get salmonella from eggs? What you need to know. - GOV.UK blogs",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObmNwbkxtUXo5QVNIemI0M1E3M2p2bEtaVlhVS0RheWNnR21DWGMyNm1kWkZ1S3FJTnRES1UyMDdZWlZaQTlOTXUxSFdSTEJWQ0NCY2Q5MGJxTXE2SVBhYXhJYTh2cVVoZDZ5a216UUJRLXlSZk5nYU5FT0NyZ1NUYnRYXzFWSzFrRnhXRjM2OWpydDZXa0kwOW5wT2VOT21iWHc3cHJ6RGtIQ00?oc=5",
@@ -238,13 +252,6 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTUVWRllBNGxQRDJXUXBWVHJPZXBNOTFIQy14WVUzS0k3VXI2MmFmRjFmLXR2M1hMRERyWjhIUm05Q3NINWxoUGRQRndBdUxaYnRMbnlCdHcwcFpyNHFaR2pfS3VRWmk4MzZEbmd5d2ktcU1KeElBeUo2SkVwbllaV2JhUXhHZkFTWG83NFRpRkVmM01OSTRpNUY2OHA?oc=5",
       "description": "UNL, OSU, Hiperbaric to host HPP protein workshop Pet Food Processing",
       "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "Taylor Farms recalls jalapeno products after salmonella outbreak - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKTlNobWFRZHVUZ0JOTkpoNU9vZVQwZGhtamJjR2F3eWtMYnJucUJNaWpoT0ZkTi00aDUxbGg3eHJtQ3pxS1R3NVVXYTBVQm9zeWN4c3luU1VRQTdy?oc=5",
-      "description": "Taylor Farms recalls jalapeno products after salmonella outbreak BBC",
-      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Juices & Beverages",
@@ -268,6 +275,20 @@
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
+      "source": "UK Food Industry",
+      "title": "Royal Welsh Show showcases strength, innovation and ambition of Welsh food and drink sector - Grocery Trader",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNTZqT1VwRlJVcTVYcmR6VlVybHE3WVFfQzYxVTZISkdXYjRZakNEbXQtTExBWWhrOXIxbTY3cnVHTV9rOU0yVExNMWFLc2FkQms4aUhDdDdOSWVrVklrQ0hfR1N1bnUtNHZUS2Z5TXBkSTMtQ0xPTUUxMUxLcWh6bW9LVnctSWNsVktCVHVFdGlOVXNDT3dlX1FnZFRlazVZeTB5aXBYa05LMGFjSHRScThYREgzRU5BMjVn?oc=5",
+      "description": "Royal Welsh Show showcases strength, innovation and ambition of Welsh food and drink sector Grocery Trader",
+      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Innovation & Research",
+      "title": "Investing in Food Safety is Investing in the Future of Food - Food Safety Magazine",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEpNajduOEpKZHpXM3lTSXBpenBudENhVWhRZVNFX1lOOTluUFBoV0VYbDdfakNlWDlod2hxYkY5ZE9heWw5T2VESXBQelpyOTB1V3lma2lUakhvcWxUOEM1UTYtcGRwREFxSHRGeXE2b1A4cDFzdlJvQVZQcjM1cGF6Vk14UXJvVmFRX3JYVUxRakkxRVAtUXFXNVBfbExuaFFVUA?oc=5",
+      "description": "Investing in Food Safety is Investing in the Future of Food Food Safety Magazine",
+      "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Equipment & Machines",
       "title": "Universal Pure Expands Northeast High Pressure Processing (HPP) Capacity with the Acquisition of a Hiperbaric 525i from a Regional HPP Provider - PR Web",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOMHNRVC1weFotdHdRUFZOQVhSbXotSHNxZWEwQmxpWV9vbEFxYzh0cnBQT2NzV0t0eUtUSXZHVG9Jdjg4SnYwWmZ2RVJvNTVjSjJRNFlKSU1SX2ZLVWw4VGpWWkhidmQ5X05XX1FqVXZ3elFDaTBYSVcyNXg5c0hSblNDcS11aHR0Rk14MkFOME0xU0RSelJlNDBaeDEwOW5tcldsd1FoYWhLOWVKZTRNZUdBdWc3SnpYcDBCclJtS241Tm9uNHotVG9CTC14ZXRnWXRTSGc1ZG5lN0Q5YUpCakpzSDdPMzdwWVhDZDVtV2hjY1g3X2ZyNnJKTVlQWnRuRnFBYzUtNzg0RkR0Wkp1LXJQdWlQdw?oc=5",
@@ -283,29 +304,15 @@
     },
     {
       "source": "UK HPP Industry",
-      "title": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors - The Engineer",
+      "title": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors - theengineer.co.uk",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbFYzSUNCVHQxSHhmR0RBWDNtZFNkMDZTU1FTYXlVSDI3OUtleGZBNy1wNVU4U1ViazJqcW9odzQyOGpqMUM5S2o5aHo3S2R1ZlVVZV9OMTJOaU51eGM2TUtEaEttQ3hUZHRsdWZ5d2Joc01mWmxKY01WSWo1TjYzcmNPWGdlVzU2djJBQ2JDdXVpRHRWV1ZvN2tKZ2UyVXZtU2ZDVS0wQm9NSjVGaFJ1b0lRUHlZOUcwbTZhcDZkS0txSTMxenNvR0RxYnhpUDF1Vl9kS0pZejktaVBPc1ZRMVVBaHVQTzZsY1VMVnZlVG1QeTNwWlpaT3Jn?oc=5",
-      "description": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors The Engineer",
+      "description": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors theengineer.co.uk",
       "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Innovation & Research",
-      "title": "Pressure, Purpose, & Possibility - IFT.org",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUo3RVhlX3dfRTlmMC1XbXJ5X2IzdW5rRlBBN0NXcWIxS1RPLU91RllrN0hMckNCVXJYaVRLME4wSU9xTnJCdHRfVUY5ZWdOdGM4MTdOLWtxQ3FTanBmWnVRRTFGMHBSdlgwSHNLUWhMdHNYZlNzQzF1TV9XZm9KNTl4QQ?oc=5",
-      "description": "Pressure, Purpose, & Possibility IFT.org",
-      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Dairy",
-      "title": "Maharashtra FDA tightens milk safety rules - dairybusinessmea.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWTRyNDdYb00yNHlja1ZhZDQ2NFBabzVxeU84TTZwdmkzQ0hNY0preTV5V1J6WVgzWmtxLUUway15MG5XSXFLS0ZmZjctMkxQNkJ6bWpqYVJoX3BFTWRFQ09HRlJnRWlUZnlEM2RuVkxHQkJjTjlIRTZLNGkzNzFSaHpadF9DbDVpLXZR?oc=5",
-      "description": "Maharashtra FDA tightens milk safety rules dairybusinessmea.com",
-      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
       "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
       "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
       "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
@@ -342,13 +349,6 @@
       "title": "Climate-smart and low-emission farming in Europe - Open Access Government",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNckxvRF9aTEVKMlI0ZkVhV1dGWEFUdzlfMThMV2V6ZWsyYl9NQXVFVGktQzF6RzE3UWgtS0x1cGFBd3hidTdnQjJYcHZqMDhZampBbkhhbHpTS2ZYUm5LQktwZkY3NEgySkxEMGRULVRURmNQQlNNb205cFBtLXR5c2UxZWFUUlk5U0laZFM5UExvdTJkS050ag?oc=5",
       "description": "Climate-smart and low-emission farming in Europe Open Access Government",
-      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Laminar Wins FoodTech Innovation Award for Innovative Solution on Digitalization in the Food & Beverage Industry - PR Newswire UK",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcUE0R2ZZQk53dTZoOTloWmxtbTRvaEo4M1lYZWxXNXZmVVE5ZS0tWWFPY3BWY01sR3JVZktXMEtjUDRVTk9PYWFxYXFBZVkzZ0ppNXFUbTB0SWlLTWF1REFibjczcnRhNkszUzRLanc4ZXdMVlRwLXJLLWZVeU5GRElnQm5WTlZEQS1qTjlnNzZHNWJNWnJsVjRyTkd4cFlqRkxndXAtLWRpWEIzNjhYaFk4b1haQmlveERvWDZ3UlZnS3RGVG9EZW0xMk5kb3NqZjlwVmppblBuQ0hqYVB0QjVaaHlWQy1sWnlicEk4WEtGeS1pQWJwOEF1LXRGUQ?oc=5",
-      "description": "Laminar Wins FoodTech Innovation Award for Innovative Solution on Digitalization in the Food & Beverage Industry PR Newswire UK",
       "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT"
     }
   ]
