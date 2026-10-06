@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T19:05:12.666281+00:00",
+  "updated": "2026-10-06T01:09:19.393375+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -59,9 +59,9 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Food product recalled in CA linked to multi-state E. coli outbreak. What to know - Sacramento Bee",
+      "title": "Food product recalled in CA linked to multi-state E. coli outbreak. What to know - sacbee.com",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00bWZ6NnZBV0NTNkxaeXhRZlB1U19TajlTd1ZFRHAyeHZuUDFwdGsycl9vWkZmMFBCYWp0WW9aazRXb0pXTzZwMEdzeldlRjdlekM2Q3FDVHU2T2R0dzZmenhKRTVWeTZ3U3VpNNIBbEFVX3lxTE5JUTZqNUljN1BEdV9DX19qZWU1WWVJUG1LT2p5MGoxNTIwMEc0TmE4ZElLbDZmOGhRdFpibkRxcVo3aXd1a1pVMU55cUQzdFhGVThyUm5MMjZLRVJiNENZRGwtQWNGTElfYmxKMQ?oc=5",
-      "description": "Food product recalled in CA linked to multi-state E. coli outbreak. What to know Sacramento Bee",
+      "description": "Food product recalled in CA linked to multi-state E. coli outbreak. What to know sacbee.com",
       "pubDate": "Fri, 02 Oct 2026 20:04:11 GMT"
     },
     {
@@ -86,17 +86,24 @@
       "pubDate": "Thu, 01 Oct 2026 16:25:24 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "New Listeria outbreak under investigation - foodsafetynews.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEllcmhpQUI1dm9DMElaSHhYMF8yc2tYUVJHVnl6d2NCWmlTaDNKSzBuYmNlcFVEakliRWh1MXRHUVVhNTJZT2VLWldDS3RaY1BNdXh5WUY3TENUc3RaZjFxNzZ0VmUxZWdJTWQ1YkI2R3dzdVROWkx0bjRWcWJPTlBtMVFfanpp?oc=5",
+      "description": "New Listeria outbreak under investigation foodsafetynews.com",
+      "pubDate": "Thu, 01 Oct 2026 04:07:19 GMT"
+    },
+    {
       "source": "Salmonella Outbreaks",
-      "title": "3 Food Recalls You Should Check Your Kitchen for Right Now - Serious Eats",
+      "title": "3 Food Recalls You Should Check Your Kitchen for Right Now - seriouseats.com",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMQmFremRrQ2drdThkbTk4cXpUb21CZVJMUzRWbTNHc01pamsxVTV5MTNWNmFFN2xiZ3pGaXRIMDVSamNiZjZvZVhlbWVqN0poZEZyMXVkM285Qmg5akFrbXJNTHNqR1NLYjlR?oc=5",
-      "description": "3 Food Recalls You Should Check Your Kitchen for Right Now Serious Eats",
+      "description": "3 Food Recalls You Should Check Your Kitchen for Right Now seriouseats.com",
       "pubDate": "Wed, 30 Sep 2026 20:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Dubai chocolate products recalled by major distributor due to salmonella - foodmanufacture.co.uk",
+      "title": "Dubai chocolate products recalled by major distributor due to salmonella - Food Manufacture",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPclJndWt0RGtNbFFDWnRmRkNTLWRob01SaHpJWnJRek5NLWVjSV9CMHlaYlQyRDl4dm9ZX0lpUENKT1lDQU5yU2RXUW1BcGJKa1Zod1FEajRUZnZScnhhanc5S2w3TVZrYXRXNE9mcjJQTlkyM29YRWZpdU5VeHBicHhGckRUNkUzdDlmNlpoVURyRmw4ZUM2Y3ExdzVCR3p4V0dXWHgwMHo0cUJtNWNMS0U3ZnVUbEE?oc=5",
-      "description": "Dubai chocolate products recalled by major distributor due to salmonella foodmanufacture.co.uk",
+      "description": "Dubai chocolate products recalled by major distributor due to salmonella Food Manufacture",
       "pubDate": "Tue, 29 Sep 2026 10:47:44 GMT"
     },
     {
@@ -115,24 +122,17 @@
     },
     {
       "source": "Hiperbaric",
-      "title": "TTT Group to launch HIP business with Hiperbaric HIP 107 - metal-am.com",
+      "title": "TTT Group to launch HIP business with Hiperbaric HIP 107 - Metal Additive Manufacturing magazine",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd180QUsweXIyMGJXNHp5NEV5THk3dUc5bkt5YkVXbExSbEVyVzB3azNKMVBqZVdPRnBlNnJFQmhHSHN2UWd6M1N6eUN5LUhJMHNvUGxJam5jb2RUS0xDaXlCYTJVLTJUZi1UM0JETHpGa0JCTDVuQUNKVC1sYktLZkpGSW9uY05RV1E?oc=5",
-      "description": "TTT Group to launch HIP business with Hiperbaric HIP 107 metal-am.com",
+      "description": "TTT Group to launch HIP business with Hiperbaric HIP 107 Metal Additive Manufacturing magazine",
       "pubDate": "Wed, 23 Sep 2026 12:14:12 GMT"
     },
     {
       "source": "UK Food Industry",
-      "title": "Multivac UK to open new CX and innovation centre in Manchester - foodmanufacture.co.uk",
+      "title": "Multivac UK to open new CX and innovation centre in Manchester - Food Manufacture",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWmc2cnZsZzY5X0VacGx5ZjQ2VF9jMFBzQ3ExVkhYMVhJd0t2ZlppYlZ1dDBnaG1UTGdkeDVDUmRNaXhsOGtYejV6c1VvRkcxYkZPMUxVM3NSLWNseHBYc3UxVUJxT08tc3A3Wm5BMzdtb0JUTVJJN0R0TFNQMlVrZkRPamo2U1VVaC1FX2J6OHBnYUhKOGhsRUhjZlFQVEZZTDgwbThwQ0VldzQxQjA1eEN0Q0FWQ3VsSms3R2ZHNklzMGhoNmM0?oc=5",
-      "description": "Multivac UK to open new CX and innovation centre in Manchester foodmanufacture.co.uk",
+      "description": "Multivac UK to open new CX and innovation centre in Manchester Food Manufacture",
       "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Pasta sold at Walmart stores nationwide recalled because of Listeria - foodsafetynews.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeTVIZ0JBQVIwdThpZWctbWJtSEdjYTdiVEU2V0dDTjROS0l3c2xQeUkzcUppNHVQQkEyNFJoT1ZHZ1JZRmRvUW9LUUE0ZUE3ZFNqU05hcFBydU9sc0hXZzNHaHhsQ19RZjNtVEFPM0JIcW44ci0zcFZOd2lrWENMekVydnlVZTNVTnJjcWVQSmtScDdxdkJLU2VPYVpGRjRvTmRNLTAyUDVURFhp?oc=5",
-      "description": "Pasta sold at Walmart stores nationwide recalled because of Listeria foodsafetynews.com",
-      "pubDate": "Thu, 17 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -143,9 +143,9 @@
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "Cream Cheese and Deli Salads Recalled After Listeria Detected by FDA - Newsweek",
+      "title": "Cream Cheese and Deli Salads Recalled After Listeria Detected by FDA - newsweek.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd3lSSlZ3TGRXNVBhWlVvWmdOR01YUEJPdW9XUldUb1dQbnMwM3ZPTzRjVUp3QnlQbU9fNmFIakdvc3NPd0tPYlBwNDhaNkJiYnB3eldkNzZyRGRzdUhTRDVoeHFxZ05Ja0ptUm50OHhHVUgtNGpTRHIwRllvVkZQZg?oc=5",
-      "description": "Cream Cheese and Deli Salads Recalled After Listeria Detected by FDA Newsweek",
+      "description": "Cream Cheese and Deli Salads Recalled After Listeria Detected by FDA newsweek.com",
       "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT"
     },
     {
@@ -171,23 +171,23 @@
     },
     {
       "source": "HPP Innovation & Research",
-      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - finance.yahoo.com",
+      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM0pXdmt2NmZIcFRyQ25Ea29yVGdabk1MRHZodlh2enR0RS1QaThUUDMyaWhzYXZlN2tIODY5cHNWaGJyVW5iOXU1TFBmSkc0MWhkMmlOMF9tOS1jeWViSHNiUnA5RU1LMVFkOTdfaVQ2Y1lLSG1lM2VCYkJ2VEpTdGtINVFKTHFud3lSWWt6QkY5bDR6TzU4YzhUSWV1ZmtVZmhydHl3?oc=5",
-      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 finance.yahoo.com",
+      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 Yahoo Finance",
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "EU HPP & Food Tech",
-      "title": "Europe Pet Food Market Size, Share & Industry Report 2034 - imarcgroup.com",
+      "title": "Europe Pet Food Market Size, Share & Industry Report 2034 - IMARC Group",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjeWdDak84UmpjS1NON0hQZEEtWmlCVWJXUFlqQlhqSUFlWjdUNFdIZFotdkJUOERuN3NOSHNOZ0xYMTBtRDk2U184MHZkOTJYRWN4M3R3U2NxLTBuU0E?oc=5",
-      "description": "Europe Pet Food Market Size, Share & Industry Report 2034 imarcgroup.com",
+      "description": "Europe Pet Food Market Size, Share & Industry Report 2034 IMARC Group",
       "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
-      "title": "HPP Protein Workshop: OSU, Hiperbaric Sept. 17 - Food & Beverage Magazine",
+      "title": "HPP Protein Workshop: OSU, Hiperbaric Sept. 17 - fb101.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeGw2N0hBNzRFOS1PRm1jUERTc1IxSFBRaXo2QllCY213QmhKVW1zcGY1eUZPZVJibF9XMFFDOHZ5ZUYyQktBNVFpWTFCaFRGNTBkNk55M0s0UlVwVXVkTFVwUXlJRFo1X3RORTlDaU1DUmUzUjJBWTE1ZjVsd01GYl9NQzYyR2tXTjl6bVVqanFIaUI2bVUtdG1B?oc=5",
-      "description": "HPP Protein Workshop: OSU, Hiperbaric Sept. 17 Food & Beverage Magazine",
+      "description": "HPP Protein Workshop: OSU, Hiperbaric Sept. 17 fb101.com",
       "pubDate": "Tue, 01 Sep 2026 03:41:13 GMT"
     },
     {
@@ -213,9 +213,9 @@
     },
     {
       "source": "Listeria Outbreaks",
-      "title": "LIST: Here's all the food under recall in the US - wusa9.com",
+      "title": "LIST: Here's all the food under recall in the US - WUSA9",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU2FobmpaY3p1SlFxZ1UzZnNIbGE2UlA4T3AwN2xRODgwc0EtNC1pbVZwTEU1cUNyMGVVQi03anhYMXVPTVluVnVGanlXRXR4Yzh1SFhxNDNRbDctZndpbjdrYnVWMGpFUFhqZVF4QU5iRWhlRndqS3dyRGtIZnZnRXNHZFZIb2lYVmFNbXpmMlVzOXZnRXlweG5YbW9qRnR3WkJYODhXdTJZbEFheTkwUEJ2WkxuMnV2QlFFRFUzeTN1MEZoaGQ5RlAxWUZJWWpBczNlblZ3NzhhUXc?oc=5",
-      "description": "LIST: Here's all the food under recall in the US wusa9.com",
+      "description": "LIST: Here's all the food under recall in the US WUSA9",
       "pubDate": "Mon, 24 Aug 2026 07:00:00 GMT"
     },
     {
@@ -227,9 +227,9 @@
     },
     {
       "source": "Hiperbaric",
-      "title": "Hiperbaric and Oklahoma State University to Host HPP Protein Workshop - Quality Assurance & Food Safety",
+      "title": "Hiperbaric and Oklahoma State University to Host HPP Protein Workshop - qualityassurancemag.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU1REYUFGWjd2S3ZQWEJWcE00dFNDM2xOSlQzbnNzb01HbUJ5VV8wT2dPWDh6MlRsTmZMbEhzQkhiZ1JkMG1uamQtWktHMDN0WjlqWjVzUm1jd0lyUWxPd1VrVVZNZWt6dXpZYmZFZTNkLTlTTkJZeTlvVzI2SVNFSzY3RUQ4Sk5sODZNaV8xTmtla3pOMWhhNG9VYUdtRExDWkk3RU1HMXptYUhzWUpDYg?oc=5",
-      "description": "Hiperbaric and Oklahoma State University to Host HPP Protein Workshop Quality Assurance & Food Safety",
+      "description": "Hiperbaric and Oklahoma State University to Host HPP Protein Workshop qualityassurancemag.com",
       "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT"
     },
     {
@@ -241,9 +241,9 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Taylor Farms recalls jalapeno products after salmonella outbreak - BBC",
+      "title": "Taylor Farms recalls jalapeno products after salmonella outbreak - bbc.co.uk",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKTlNobWFRZHVUZ0JOTkpoNU9vZVQwZGhtamJjR2F3eWtMYnJucUJNaWpoT0ZkTi00aDUxbGg3eHJtQ3pxS1R3NVVXYTBVQm9zeWN4c3luU1VRQTdy?oc=5",
-      "description": "Taylor Farms recalls jalapeno products after salmonella outbreak BBC",
+      "description": "Taylor Farms recalls jalapeno products after salmonella outbreak bbc.co.uk",
       "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
     },
     {
@@ -262,9 +262,9 @@
     },
     {
       "source": "Hiperbaric",
-      "title": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts - TCT Magazine",
+      "title": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts - tctmagazine.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM29NRXg0WXVha25KbzRLcm9zV0dRUG81ZVhpaGllbzdRR0FyVm1uVDBtVTZkR01tR1VKck56c2xxSC0yRDB1bUsyajAyd19Eb1I4UWRtY0VMVU9VNFlrWGJDSzdDQms0T0VwbE04WWl1V2k5b3cxZmVCSXZPUlg3OTI5Uzh1b2ZPRUhhZ0t6ckhqdHhhQVhfdzVJaVI1dEUtRy1OZERuMGwzY3RUdTc0UUZadFRKVU1JRmFWQVFwZHg3UWc0U3drMUVvZmY?oc=5",
-      "description": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts TCT Magazine",
+      "description": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts tctmagazine.com",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
@@ -325,9 +325,9 @@
     },
     {
       "source": "UK Food Industry",
-      "title": "UK Food Valley highlights innovation and ambition at Lincolnshire Show Brunch - Lincolnshire County Council",
+      "title": "UK Food Valley highlights innovation and ambition at Lincolnshire Show Brunch - lincolnshire.gov.uk",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZElmZFZsNzZXMlNWQlZQTm96OHZEYW1kdkJWWTlQQS14dUd2OFhHVURRMkpBcFZ0SU5hOG5oSWxpVVdTZFdYcFF5R0VSNjZ5UEx5QzctaWFZdlRaM2xlWW5QX2tRUnlMeVE1bXAyUFRNVzlEWlgxOEd5NHNfSEdidngzWjNGclRfU21IUWNMRGtlcU5jNEFNUDRoNExmc1VKemVEaFF6M3YtYzUzeDFDNVFLTVJnaDh4ZXdSaU1iYjdqLVFPZHc?oc=5",
-      "description": "UK Food Valley highlights innovation and ambition at Lincolnshire Show Brunch Lincolnshire County Council",
+      "description": "UK Food Valley highlights innovation and ambition at Lincolnshire Show Brunch lincolnshire.gov.uk",
       "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
     },
     {
