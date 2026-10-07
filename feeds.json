@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-07T04:40:07.632807+00:00",
+  "updated": "2026-10-07T12:46:26.126226+00:00",
   "articles": [
+    {
+      "source": "UK Food Industry",
+      "title": "Jenton win the Automate UK award for Innovative Processing System - Food and Drink International",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaU1aTDVxc19kLUdOMkwxUFRZOEp6MG8ybDZNdUdXUHNMVFcybWVwZFlNZ3h5Z0p2eWM5WFRUT1h3MHFWdmZ3SFQ4YmtzT3JKNW5qMnVIMWdzU0lneUNqb1Jqd1Z0QXN3TEJlNi01OFlOa2tqa1hPUGNDXzYyNEM5TlQtVzdTeml2dzEzLVNPMXBsYUFnTm5vbTBEb3prc29wZ3NQRQ?oc=5",
+      "description": "Jenton win the Automate UK award for Innovative Processing System Food and Drink International",
+      "pubDate": "Wed, 07 Oct 2026 12:19:54 GMT"
+    },
+    {
+      "source": "HPP Equipment & Machines",
+      "title": "The Turmeric Co. brings HPP in-house with £3.6M investment - Food Manufacture",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUUNRendkLVI0c0stSU9aOHlFSUlVSGc0bDR6NkFjZ0QxQzJ6VENlN1FJTm1CZlV1U0Y4RGhLS2daODBIT2VxaEF3Rk13bDlUOVpHQ3MwYWhDUE9WMVdoUE01MUlZcEVOWnEzRi1USW9pVm9kSmhDT2RCV3NMTEhSa1RNVmtWRVpHNG1wZFBGS1g5LU5QajdzeVAxQjFzeHE0anRLOFByVm5IZDZ2SFQ4TzFDMGNVRURBaWlzbmRYNXNCMW5KOExJSnBFNkN3OTZnSTNHTlA3R2FJWFQ0a2wtMWdaTl9fUQ?oc=5",
+      "description": "The Turmeric Co. brings HPP in-house with £3.6M investment Food Manufacture",
+      "pubDate": "Wed, 07 Oct 2026 10:22:04 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "Salmonella sickens 16 in Sweden",
@@ -51,11 +65,18 @@
       "pubDate": "Tue, 06 Oct 2026 01:24:31 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "Outbreak Investigation of E. coli O145:H28: Frozen Blueberries (July 2026) - U.S. Food and Drug Administration (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMFBlMFg4UU1DSUxIdDhRQnpSc0F5RjBmTWE3Z0NMcGlvVEo5azJKdmR2T2t3N0RoRHpWTGJtZFRldkgtRWx4UnhKYUJNbUxCMEhDWW1kUFhFa1VoVmsxazFqLUFTdXdGYjYwUEp6XzNHMFptSDhjUGNNdmxjdjVSWDJya2FBUVgwUlFZd2E1Z0lHZDg2ZDZsOHp5YVZUS3BiVDFtZ0E0QTJZelZDMTRocERmMUw0UFEtcEZ3?oc=5",
+      "description": "Outbreak Investigation of E. coli O145:H28: Frozen Blueberries (July 2026) U.S. Food and Drug Administration (.gov)",
+      "pubDate": "Mon, 05 Oct 2026 00:00:00 GMT"
+    },
+    {
       "source": "HPP Meat & Deli",
       "title": "Celery Powder Matches Synthetic Nitrite in Smoked Ham Quality Test - Bioengineer.org",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdkVzdTk2aHIybFR6OU1mQWdBUGFKTzNBUWJiNE4waV96a0k2Vlo4WlNMNThoYkt5ckZiRTkwcnNvRjFUbFV0WGlSdW9fQmw2NlAzRDFaRG5PSXY0dHJCeVYwenlfb1UzNGdkYnYzbkY3ZllPYmdxZkhMMFlBTnNCU09oVGZ5SlJPWUxJNVJfTmpoR0d3Y3c?oc=5",
       "description": "Celery Powder Matches Synthetic Nitrite in Smoked Ham Quality Test Bioengineer.org",
-      "pubDate": "Sat, 03 Oct 2026 17:10:22 GMT"
+      "pubDate": "Sat, 03 Oct 2026 16:45:22 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -63,6 +84,13 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HWkluN3NILTZvb0FHdnVCYUtaZ1lXYm1tSy1BZU1RWF9aMUo3T08tMVBBVUg0WVg0cmc4WW9DdHJJT1hXSEpRMU9hVm5yeHpyYXd2MlJTQVVjWF9HZlBVRmRDeEQ4ejZMZXdZWWR0SmhsUng2VlZRUEpKT0psXzg?oc=5",
       "description": "Recall Alert: Walmart pasta may have Listeria contamination AOL.com",
       "pubDate": "Sat, 03 Oct 2026 01:38:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Food product recalled in CA linked to multi-state E. coli outbreak. What to know - Sacramento Bee",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00bWZ6NnZBV0NTNkxaeXhRZlB1U19TajlTd1ZFRHAyeHZuUDFwdGsycl9vWkZmMFBCYWp0WW9aazRXb0pXTzZwMEdzeldlRjdlekM2Q3FDVHU2T2R0dzZmenhKRTVWeTZ3U3VpNNIBbEFVX3lxTE5JUTZqNUljN1BEdV9DX19qZWU1WWVJUG1LT2p5MGoxNTIwMEc0TmE4ZElLbDZmOGhRdFpibkRxcVo3aXd1a1pVMU55cUQzdFhGVThyUm5MMjZLRVJiNENZRGwtQWNGTElfYmxKMQ?oc=5",
+      "description": "Food product recalled in CA linked to multi-state E. coli outbreak. What to know Sacramento Bee",
+      "pubDate": "Fri, 02 Oct 2026 20:04:11 GMT"
     },
     {
       "source": "Quintus Technologies",
@@ -84,13 +112,6 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SMmp2VUNXOVI2SVM5VUNYUjh3QTNzTk9RXzZKU3hwRHBKZTlhWmJOOHM1LVVwVzFHSDd4TGdvQ2p1a3VTMl9GVHd2a0FLamxweV90R25YdjdBejVKN0RZTXMzX2lTRmo3RXpRYVBscFlpV2FJ?oc=5",
       "description": "ROSS details 600-gallon pressure vessel bestmag.co.uk",
       "pubDate": "Thu, 01 Oct 2026 16:25:24 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts | E. coli infection - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94WC1SUE5mdTdzbVhKeGk2bVFWWDhPLUdVZ0xvc1FldWFPbVRzVkU1QXE0dFlETHZaanFXcmROSmxJNnNDSWVueE5aMGlLTmxhQ1Nkdl8tdjlaSmJmU1VzQkRUZWFYREZ1S0JvTlQyejdQYmVhX0xv?oc=5",
-      "description": "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts | E. coli infection Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -149,13 +170,6 @@
       "pubDate": "Sun, 13 Sep 2026 07:00:00 GMT"
     },
     {
-      "source": "Hiperbaric",
-      "title": "Hiperbaric to Present Its Hot Isostatic Pressing Systems at IMTS 2026 - Eastern Progress",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSnNUbFBiSExUUHNOMnFnWUdON0ZXR1VJVUNMWGhuNEo5aW9NVXRNb3lNOGxaU2ZGQmlreFpKc1ZTcER5TGoweFpxeWxyeWtONmFHczRETkQyR0FBNkw1OEFYQ2dUd09TSWtFUUp3WFN6MWZjSFoybjg3NGRvOXI5XzlqOXJyY09LcEhrYUNSV2xtRlc5ODNNV1NLOEc5Q3NrSEdTaWs0TEtrMFJmeEV0M1RtZW1xVzJ3ZjdxWW5HejNPSExuVDNCUFpBczR2ZDNCNGtJaGZmWDZBVDBQMDRPYTdReml0QQ?oc=5",
-      "description": "Hiperbaric to Present Its Hot Isostatic Pressing Systems at IMTS 2026 Eastern Progress",
-      "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Healthcare & Medical",
       "title": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 - Fortune Business Insights",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEYwb0FKSE1PSTZtQ1IwTHB1ZHBIbzhSc1piZnR6VTRpODRIaDRUaUx1cGZEVldYT0FjSkdEQ0tpNWVITDZ2eXl5TC1IOFM0V0Qwd0ZLaG9RSlp0WXI5V3NEV0pCYTg5RHFIb0NjOWVmcFVxU0ZILVhHdS10cWVtTk5qTVNfcVk?oc=5",
@@ -182,13 +196,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjeWdDak84UmpjS1NON0hQZEEtWmlCVWJXUFlqQlhqSUFlWjdUNFdIZFotdkJUOERuN3NOSHNOZ0xYMTBtRDk2U184MHZkOTJYRWN4M3R3U2NxLTBuU0E?oc=5",
       "description": "Europe Pet Food Market Size, Share & Industry Report 2034 IMARC Group",
       "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "How is salmonella contaminating so many things? What to know from a food safety expert - PBS",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR190d3dMVE03R01pSnQwZ3ZoR2xfdFp5ZVVkMk1pamJmdGs0QXBTdDN1REpsTEdxaG43VXZEZlNzeVROV25MVDVuWEE4cGZnMUs0TjFPdGRQNzRrZ3N6NVFCZDV3NENlbWxlVUJmaU9SQk5mQVByakVEMUVnQXcyRkVyUHhpRTllMG5COWN4SURLTXZ5UXZFcm41OGlDZEZiQ0l0SWVOUDNRRXcwV21GMm1YQkNzU2tOZjZxQTdR?oc=5",
-      "description": "How is salmonella contaminating so many things? What to know from a food safety expert PBS",
-      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -282,13 +289,6 @@
       "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "UK HPP Industry",
-      "title": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors - The Engineer",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbFYzSUNCVHQxSHhmR0RBWDNtZFNkMDZTU1FTYXlVSDI3OUtleGZBNy1wNVU4U1ViazJqcW9odzQyOGpqMUM5S2o5aHo3S2R1ZlVVZV9OMTJOaU51eGM2TUtEaEttQ3hUZHRsdWZ5d2Joc01mWmxKY01WSWo1TjYzcmNPWGdlVzU2djJBQ2JDdXVpRHRWV1ZvN2tKZ2UyVXZtU2ZDVS0wQm9NSjVGaFJ1b0lRUHlZOUcwbTZhcDZkS0txSTMxenNvR0RxYnhpUDF1Vl9kS0pZejktaVBPc1ZRMVVBaHVQTzZsY1VMVnZlVG1QeTNwWlpaT3Jn?oc=5",
-      "description": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors The Engineer",
-      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Seafood",
       "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
@@ -301,13 +301,6 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QMXhzcHRVa1RrN0s0NUZtdHJrQndFWjRUTElLVml5RWwyNDh3RUcxWkg0S2RqQXI0QVcwOWp4QUJobzdNVGRUTHJid0JVX09sUDhvMW1WMXFjaTZVeHo0STJFMElDTmlwSWY1aEQtWE92TTRxR092NFdKOA?oc=5",
       "description": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods Medical Xpress",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Investigation Update: Listeria Outbreak, June 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeURCSzJmTjhpWEttM0RXTC1fcmtWZHkxeGk5Q2lheTdneWhwMW1KaHYyamVLeWNnYVhROW1lcm1QMWFzZzZhdmtIcHhVTDFjekVkakhwcVpaMTgtOWFERE1QYUNFOUwwQUc2OW5ITldOVXRLRW5MbWluZ2Y0WXRtNA?oc=5",
-      "description": "Investigation Update: Listeria Outbreak, June 2026 Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXFGTmZ4ZW9NamJNeVhqV29yeFQ0SzlTYzBXcnl1RHltM0NIODNMVTFhT2VPaUhCbDFwanJEazNfZEoweXJkWGhtSGRwZWlycjJwWFgwdmZBU2RlSlRlTjhfQ3J4UDlrcUg0N1ZzX2puWVo4amFUczJFcGZCZWphenBFN0dUSlMwWVdIZ2ZmT1daOG90b0Z6X0RB?oc=5",
       "description": "Expansion at the Dock + boosts seafood processing in Alberni Valley Ha-Shilth-Sa Newspaper",
       "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Juices & Beverages",
+      "title": "Why Trader Joe's Was Once Sued Over Juice - Tasting Table",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGNnaExYaDZIa3BFcnRyZGJxODFSSHFWTTFSTk5fNUNqbHJsbFVEbVloWVZYdUhMakFTZmloTnpacGI4N3c3c2lUcS1HcjhRTG1aTU81UmZIQVRRMWZqSk9QYUhfUjJ5RENGaVQ0clRfd0NoenlLNk1IdXdzRlBpZlNR?oc=5",
+      "description": "Why Trader Joe's Was Once Sued Over Juice Tasting Table",
+      "pubDate": "Sun, 17 May 2026 07:00:00 GMT"
     }
   ]
 }
