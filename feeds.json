@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-12T14:36:09.638850+00:00",
+  "updated": "2026-10-12T22:44:47.171134+00:00",
   "articles": [
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Ukrainian eggs recalled over salmonella link - Pharmacy Business",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaNVI1TlJvYnZubWx6RUlMUGZ3VmJlYUNHLTJMbXcyTDJPTGszYy1VTUszU0RmOVphaWtCcVFyWTM3bzBYTjhOOTVsWjV5T3N2OTRJa05RTWxmOEFsQVNtazlwbkJ2RVdBZVB6TVZBYlo?oc=5",
+      "description": "Ukrainian eggs recalled over salmonella link Pharmacy Business",
+      "pubDate": "Mon, 12 Oct 2026 16:43:33 GMT"
+    },
     {
       "source": "Food Safety UK & EU",
       "title": "Urgent egg recall after salmonella strain linked to 36 illnesses - Bournemouth Echo",
@@ -128,20 +135,6 @@
       "pubDate": "Sat, 26 Sep 2026 07:35:10 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "5 Ongoing Food Recalls You Should Know About This Week - Allrecipes",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xSno1T0x0Tzh0d3h1U1Qwbkw5SGY1QWFEd0NNQllZV2p3UmlTcWU2WHNVX0dvQ2k0WmliRzlrRmhUOVdsbHJLU0tGWDdSbDZXY0FKb0tiZHdBTjNZdnMzOWlIZVNyY3ozSER0TWlGXzI0emI0eDg2Ng?oc=5",
-      "description": "5 Ongoing Food Recalls You Should Know About This Week Allrecipes",
-      "pubDate": "Thu, 24 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "10 more sickened in Salmonella outbreak tied to broccoli sprouts - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUnkyZVZieVRyYm8tZ3ByV293a2VMTGJ5VTBkVGVCTG4wOFBVaFF3bmIxdlhWV3J5NlZIM2x5WmZHN09WQWhOZWJDaGRJUG1qck1MeEd3bkN5Mjk5RVBDeDhRRlVFRUNQaWx3aElIakpnZ01NSUYyc3YzUWtKSk9sWHFoM3BwVWhaMVltOEJNWmk3S0lMemtlU0FvUHktZzJseWlyUXJR?oc=5",
-      "description": "10 more sickened in Salmonella outbreak tied to broccoli sprouts CIDRAP",
-      "pubDate": "Thu, 24 Sep 2026 07:00:00 GMT"
-    },
-    {
       "source": "Hiperbaric",
       "title": "TTT Group to launch HIP business with Hiperbaric HIP 107 - Metal Additive Manufacturing magazine",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd180QUsweXIyMGJXNHp5NEV5THk3dUc5bkt5YkVXbExSbEVyVzB3azNKMVBqZVdPRnBlNnJFQmhHSHN2UWd6M1N6eUN5LUhJMHNvUGxJam5jb2RUS0xDaXlCYTJVLTJUZi1UM0JETHpGa0JCTDVuQUNKVC1sYktLZkpGSW9uY05RV1E?oc=5",
@@ -195,7 +188,14 @@
       "title": "High-pressure processing expands beyond juice - Beverage Industry",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdzlBX1BVTWNYR2RHendiQzlvVjBWU3ZMNTNEZXQwUlo2bmJ4UFd4OU0yc2k2bUdMZ3JQT19YQkQ1cm1INDAtRkQwb2NySmxrTUVFNUJ3MnpmNldOWWFKTHFzUnlZOVFtX2xJcUZ3M0RSeFV1LUlvRTVrc0M0Q3FlazhRYlpoV3ExNVRxNnJabUI3UQ?oc=5",
       "description": "High-pressure processing expands beyond juice Beverage Industry",
-      "pubDate": "Thu, 03 Sep 2026 04:00:00 GMT"
+      "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Europe Pet Food Market Size, Share & Industry Report 2034 - IMARC Group",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjeWdDak84UmpjS1NON0hQZEEtWmlCVWJXUFlqQlhqSUFlWjdUNFdIZFotdkJUOERuN3NOSHNOZ0xYMTBtRDk2U184MHZkOTJYRWN4M3R3U2NxLTBuU0E?oc=5",
+      "description": "Europe Pet Food Market Size, Share & Industry Report 2034 IMARC Group",
+      "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -224,6 +224,13 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbDUwU3k3c0FIa0duaHZaSjJNSGNLN0lJd0M3T05TNHZsb1NDSHdNMVVnWkhvUldHRGFRQkdoSFItc2c0SVJyUTdqQzlhNXRWdUpIQmRUWmVtTTdidzlKMl9KZEtQOTFCODdzY3ZkeS1WYW50MzVTcUItSnlVbi02azhQLU1uaTE0M0hpU3NDc1ZzQkFOOFM5dzdFemdtdklKS0NKTHVzNWNiVXl6dEdLS0tCTVhBSDRXWHBNOQ?oc=5",
       "description": "Outbreak Investigation of Listeria monocytogenes: Soft Cheese (June 2026) U.S. Food and Drug Administration (.gov)",
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "LIST: Here's all the food under recall in the US - WUSA9",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU2FobmpaY3p1SlFxZ1UzZnNIbGE2UlA4T3AwN2xRODgwc0EtNC1pbVZwTEU1cUNyMGVVQi03anhYMXVPTVluVnVGanlXRXR4Yzh1SFhxNDNRbDctZndpbjdrYnVWMGpFUFhqZVF4QU5iRWhlRndqS3dyRGtIZnZnRXNHZFZIb2lYVmFNbXpmMlVzOXZnRXlweG5YbW9qRnR3WkJYODhXdTJZbEFheTkwUEJ2WkxuMnV2QlFFRFUzeTN1MEZoaGQ5RlAxWUZJWWpBczNlblZ3NzhhUXc?oc=5",
+      "description": "LIST: Here's all the food under recall in the US WUSA9",
+      "pubDate": "Mon, 24 Aug 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -322,13 +329,6 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOWNLMHZMUkZqQ24wLXNHbkVtbGNzWkZ6eXcwa25TQ0xMTnp3cUlhYzhpSWhUNXRVMWFFM3ptSjk1UXA1U0Y1c3hJalpXOUJDNjFndTVQVzdvNWs5cmgxN0xIUG1YWXhHQWV6aUpCVEdPcG5CeDVncTdodHphZlRxM2RNUWxqSGJ5RXU1ZU1MZ05TZnJYZWJXWlVudXY2Ujg?oc=5",
       "description": "Unhomogenised milk boom prompts Waitrose farm investment FarmingUK",
       "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Climate-smart and low-emission farming in Europe - Open Access Government",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNckxvRF9aTEVKMlI0ZkVhV1dGWEFUdzlfMThMV2V6ZWsyYl9NQXVFVGktQzF6RzE3UWgtS0x1cGFBd3hidTdnQjJYcHZqMDhZampBbkhhbHpTS2ZYUm5LQktwZkY3NEgySkxEMGRULVRURmNQQlNNb205cFBtLXR5c2UxZWFUUlk5U0laZFM5UExvdTJkS050ag?oc=5",
-      "description": "Climate-smart and low-emission farming in Europe Open Access Government",
-      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
