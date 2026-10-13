@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-13T13:41:11.035477+00:00",
+  "updated": "2026-10-13T20:05:39.615282+00:00",
   "articles": [
+    {
+      "source": "Food Safety UK & EU",
+      "title": "UK recalls eggs from Ukrainian producer due to Salmonella enteritidis - WATTPoultry.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdktCdk00aWtHRVBrTEhhV21FS1Fta1VhakYxTjVLUGlTeWdrNHY3NVV0SlN6YVZSUk5LVUpINHhmNnR0bEpiUzVkdXVzYWdKTW9scnBxNUVJaUZKdDQzMEI2WjY4c3VmYVFIeDRwNjYwbEctb01sUVB3RG1oQ1dBOURUUHYzbG53ZFFJc3lLSW5hNTY5OWxUSDBrVDhFdjVwX2hHUHNPS2tsRmtmLU9fSk5B?oc=5",
+      "description": "UK recalls eggs from Ukrainian producer due to Salmonella enteritidis WATTPoultry.com",
+      "pubDate": "Tue, 13 Oct 2026 17:36:11 GMT"
+    },
+    {
+      "source": "Food Dive",
+      "title": "US consumer trust in food safety falls to record low",
+      "link": "https://www.fooddive.com/news/food-safety-consumer-confidence-gallup/832856/",
+      "description": "A Cyclospora outbreak and a series of food recalls has shaken consumer confidence and led to a shift in buying habits, according to Gallup.",
+      "pubDate": "Tue, 13 Oct 2026 11:08:00 -0400"
+    },
     {
       "source": "Food Safety UK & EU",
       "title": "UK food safety alert after Salmonella found in imported eggs - The Scottish Farmer",
@@ -72,7 +86,7 @@
       "pubDate": "Sun, 11 Oct 2026 05:21:39 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
+      "source": "Food Safety UK & EU",
       "title": "The Food Standards Agency calls on businesses to withdraw and recall eggs from one Ukrainian food business as investigations find Salmonella Enteritidis contamination - GOV.UK",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQemZHdy1tSS1LbW9YaEN4Y1l3NnVOZ25xLXZReWVxLVRsckJpSzZKam1MR0N6U25IaXZwRzBNRGpGbjBEeEg5U0dlRFlNOVF3M3NxdGprM1VJQXR2N1RHS2NNM1FIVjVmZkRjVGJKejVkbURCWDYxc2ppUTNFelc0MzlMMjdVVVNnY3R6TkVFcmlxOEtHWHR2ejFYd1F5ZkUwTnVYZkNBNGpuaWxzNUdQdHZzZFJwd3BwMGpWejFqeGtybDZaN2N1TUw1UXRXZmQwVUhjOEVZbFQ4STM3enl5ZS0tcGx3ZGxuZXgwME1xN2c0SVRyUHN1QlRwZFBNSVlGN0lOMVNvaFVJSXhnc1JfSkZQTQ?oc=5",
       "description": "The Food Standards Agency calls on businesses to withdraw and recall eggs from one Ukrainian food business as investigations find Salmonella Enteritidis contamination GOV.UK",
@@ -98,13 +112,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZjJaOUZycUxvd2pvNkI1WklQdF94ck5uQ3N4d2U2R0tzSUZGVnNIbUV6dXdKNHA0T3cyQ0Zidmw2NzNLQjhvYnp4dkNLUFZzejZnMVFaTnpLQjlMTVY5c1NjcjhwOWwzVDBFakZQUEM2Ql9sVnNpQllWV09DUDhVcUdhNXpzMXViaTdhc1IyZGhGb2NWaGVBV0ZEZ0pWZGdabks1ZE9kNElYQ2tja2RiU3VmcE9CU2VkT2Q1WVdnQUIyazdqWUljUzJZYVF0WEd0WkdWYUN2X0lsdw?oc=5",
       "description": "Greencore pulls products from Tesco and M&S due to Salmonella risk Food Manufacture",
       "pubDate": "Fri, 09 Oct 2026 11:03:31 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "Popular supermarket snacks among five products recalled over salmonella fears - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcVJZNzM1MHB0ZXNpckhBRTNpWmRKUmtxTV9DaXhwcVd5MWJvWlJ3b0xnMnVxa2doZ0VRanpiYktoZ29KdlB1SlRJWFNERHhtcEJCSTRXeEdqbGczc2NrVzFoNnhkaFZKamtsNVVCay1pSy1EWTZJZjg1TVJvUlpnbjQ2VlNZSjBuUEdLTkozeHlldEdXNm13SXhqZnYyalJmU3QwR1Fn?oc=5",
-      "description": "Popular supermarket snacks among five products recalled over salmonella fears The Independent",
-      "pubDate": "Fri, 09 Oct 2026 10:40:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -233,6 +240,13 @@
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "Investigation Update: Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zb05obHd4ZVBoakNZLXo3RXN1eTFHWF9HeHlrRVJERXk5anNKby1QbXNtZkRiSWVZWE51QUlacFBBcDhmUDVmZXREVmNCZ1ZuaEtDVWl3NnZkSGxvQ1FrX2FRRl9PdHpBRHc4UG9qU0dvVmdxV0JkSTEwNWtuZw?oc=5",
+      "description": "Investigation Update: Salmonella Outbreak, August 2026 Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT"
+    },
+    {
       "source": "Listeria Outbreaks",
       "title": "LIST: Here's all the food under recall in the US - WUSA9",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU2FobmpaY3p1SlFxZ1UzZnNIbGE2UlA4T3AwN2xRODgwc0EtNC1pbVZwTEU1cUNyMGVVQi03anhYMXVPTVluVnVGanlXRXR4Yzh1SFhxNDNRbDctZndpbjdrYnVWMGpFUFhqZVF4QU5iRWhlRndqS3dyRGtIZnZnRXNHZFZIb2lYVmFNbXpmMlVzOXZnRXlweG5YbW9qRnR3WkJYODhXdTJZbEFheTkwUEJ2WkxuMnV2QlFFRFUzeTN1MEZoaGQ5RlAxWUZJWWpBczNlblZ3NzhhUXc?oc=5",
@@ -336,20 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZElmZFZsNzZXMlNWQlZQTm96OHZEYW1kdkJWWTlQQS14dUd2OFhHVURRMkpBcFZ0SU5hOG5oSWxpVVdTZFdYcFF5R0VSNjZ5UEx5QzctaWFZdlRaM2xlWW5QX2tRUnlMeVE1bXAyUFRNVzlEWlgxOEd5NHNfSEdidngzWjNGclRfU21IUWNMRGtlcU5jNEFNUDRoNExmc1VKemVEaFF6M3YtYzUzeDFDNVFLTVJnaDh4ZXdSaU1iYjdqLVFPZHc?oc=5",
       "description": "UK Food Valley highlights innovation and ambition at Lincolnshire Show Brunch Lincolnshire County Council",
       "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Soups & Meals",
-      "title": "Heard the loud noise in Dixon? Officials say here's what caused it - ABC10",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGtOcWpIM1hIV1JSUjd6VVFmelI5ZlE4SzZKdkVHdGlmdm5SUjU1NXkwWWZNeXgyb280RjJpaE1CNEFOeGw2Y1ZPaW5JdkFsdzh2ZGZFSHl5a0VMRVF4UThqOVB3WFJTOFByWFFtZ3NQSi1Lb1RidU1WTmxSY0tKQzVHUF9KQk52OVk4eTJraWJLNjN5SXV4N2FEb3ZERUN4NkRPQ1RGcS1XUmJScFFFTFlMUXlKaHltdkF5SmIxSGxGaThfdUdRZC1nQXc?oc=5",
-      "description": "Heard the loud noise in Dixon? Officials say here's what caused it ABC10",
-      "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Laminar Wins FoodTech Innovation Award for Innovative Solution on Digitalization in the Food & Beverage Industry - PR Newswire UK",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcUE0R2ZZQk53dTZoOTloWmxtbTRvaEo4M1lYZWxXNXZmVVE5ZS0tWWFPY3BWY01sR3JVZktXMEtjUDRVTk9PYWFxYXFBZVkzZ0ppNXFUbTB0SWlLTWF1REFibjczcnRhNkszUzRLanc4ZXdMVlRwLXJLLWZVeU5GRElnQm5WTlZEQS1qTjlnNzZHNWJNWnJsVjRyTkd4cFlqRkxndXAtLWRpWEIzNjhYaFk4b1haQmlveERvWDZ3UlZnS3RGVG9EZW0xMk5kb3NqZjlwVmppblBuQ0hqYVB0QjVaaHlWQy1sWnlicEk4WEtGeS1pQWJwOEF1LXRGUQ?oc=5",
-      "description": "Laminar Wins FoodTech Innovation Award for Innovative Solution on Digitalization in the Food & Beverage Industry PR Newswire UK",
-      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT"
     }
   ]
 }
