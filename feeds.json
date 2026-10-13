@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-13T05:45:27.765856+00:00",
+  "updated": "2026-10-13T13:41:11.035477+00:00",
   "articles": [
+    {
+      "source": "Food Safety UK & EU",
+      "title": "UK food safety alert after Salmonella found in imported eggs - The Scottish Farmer",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUGI1TDJfQzV2cktLTkhybEdsbUYtcTRFVW1XekMwNGtycnVwM0s5bHZNQkEydV9oY2RZTVBZTVRtNnQ4cGNua1RZWS1UNzdobFlvVjQ4Y2NGR3V5NEtlNkVuN1lKRTlna0pqSXJBSjBza3dlYnJoUUU4aU1FOWFmZlhaRU9qNHI3ZWstVWE5X3V4UnhuemNuNnl0cTN0M0pFcWc?oc=5",
+      "description": "UK food safety alert after Salmonella found in imported eggs The Scottish Farmer",
+      "pubDate": "Tue, 13 Oct 2026 10:00:00 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "USDA to expand testing at deli counters",
@@ -23,11 +30,11 @@
       "pubDate": "Tue, 13 Oct 2026 04:01:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Ukrainian eggs recalled over salmonella link - Pharmacy Business",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaNVI1TlJvYnZubWx6RUlMUGZ3VmJlYUNHLTJMbXcyTDJPTGszYy1VTUszU0RmOVphaWtCcVFyWTM3bzBYTjhOOTVsWjV5T3N2OTRJa05RTWxmOEFsQVNtazlwbkJ2RVdBZVB6TVZBYlo?oc=5",
-      "description": "Ukrainian eggs recalled over salmonella link Pharmacy Business",
-      "pubDate": "Mon, 12 Oct 2026 16:43:33 GMT"
+      "source": "HPP Healthcare & Medical",
+      "title": "Study Identifies High-Pressure Processing Parameters for Effective Pathogen Reduction in Raw Chicken - Food Safety Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSzhlMUlKTzNoNGdhU3lmdzg5Q3BENFhqM0ZNbkhFWXJoSnFfelFWUTczQUphVUI5bHBzbElrZWJsU0VseFVLY3ZwU3Z5RjZVMWVFQ3F1Yk5RclRMR1F5T0xMWjg0M2FLSGxlNUV4SjJQLTNJdDlQZEtwTHUxQnR5UHhGQ0NLeDI1R01JLXc3Q0pMRWl3V041Y3JSM3dvU1lJbE1LQVplT3AwVjhrQkxrcC1tMmt5NWlwTkVGM2tidzFYQjhpbklxYTBnSTlJMGVZZXZMbVJSeWpWRnc?oc=5",
+      "description": "Study Identifies High-Pressure Processing Parameters for Effective Pathogen Reduction in Raw Chicken Food Safety Magazine",
+      "pubDate": "Mon, 12 Oct 2026 22:20:36 GMT"
     },
     {
       "source": "HPP Equipment & Machines",
@@ -66,13 +73,6 @@
     },
     {
       "source": "Salmonella Outbreaks",
-      "title": "Active Outbreaks Tied to Sprouts, Cheese and Turtles - Contagion Live",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMWxGZE10S0xGX2hpTWZCOVJvbXRMbFVIWnAwS25uWlAySDQwSlZOd3FXaGtvaGpXV09Fam5zOHJaSHY0aTFRdFNrdHZEYVFpTUp3YmwxUVI3amxXOHk2WmJ1Y3FYTmpZQVJKaVFRMm9ZbjFiYzRDX09XRjZiR0lPZWJhc0VZbXc1Zll2a0R3cw?oc=5",
-      "description": "Active Outbreaks Tied to Sprouts, Cheese and Turtles Contagion Live",
-      "pubDate": "Sat, 10 Oct 2026 16:32:53 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
       "title": "The Food Standards Agency calls on businesses to withdraw and recall eggs from one Ukrainian food business as investigations find Salmonella Enteritidis contamination - GOV.UK",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQemZHdy1tSS1LbW9YaEN4Y1l3NnVOZ25xLXZReWVxLVRsckJpSzZKam1MR0N6U25IaXZwRzBNRGpGbjBEeEg5U0dlRFlNOVF3M3NxdGprM1VJQXR2N1RHS2NNM1FIVjVmZkRjVGJKejVkbURCWDYxc2ppUTNFelc0MzlMMjdVVVNnY3R6TkVFcmlxOEtHWHR2ejFYd1F5ZkUwTnVYZkNBNGpuaWxzNUdQdHZzZFJwd3BwMGpWejFqeGtybDZaN2N1TUw1UXRXZmQwVUhjOEVZbFQ4STM3enl5ZS0tcGx3ZGxuZXgwME1xN2c0SVRyUHN1QlRwZFBNSVlGN0lOMVNvaFVJSXhnc1JfSkZQTQ?oc=5",
       "description": "The Food Standards Agency calls on businesses to withdraw and recall eggs from one Ukrainian food business as investigations find Salmonella Enteritidis contamination GOV.UK",
@@ -107,13 +107,6 @@
       "pubDate": "Fri, 09 Oct 2026 10:40:00 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "M&S and Tesco food pulled from shelves with 'isolate for 48 hours' alert - Wales Online",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRTBSaU1IQjZvc25UZ01zd0xKSGF0U3pCYmtRQnA2TlpCZ2hjeFhseS14VVBkT0RiVU1taEpEN3VvUERnT2wzQVRuTFI0anliSzBlRWtmZmtVVmZ4dERzNGx5NUJlSzRfc1J0YjhzV0tTZXFLbWRkOS1tTzNlQXNYbnRLaFMxNGlRZFpBcEhn0gGTAUFVX3lxTE5UZ3JNckdzS0h0NFNfYXFRWHZaWEx1UzVxNG1vSFVWRGNSOGNXVnJyTm1JRWdtTXV2c0pSUmFNZS1JVm5iZWFRNHZpSkptQ01Ual9FRzVWZnhMQXVnbEcwb094MVFLUkZwQlpKdE1DdVlHSVE1NDhRQ21VVS14aXh0amxpZE1ldzdya1NVT2xoZTRpZw?oc=5",
-      "description": "M&S and Tesco food pulled from shelves with 'isolate for 48 hours' alert Wales Online",
-      "pubDate": "Fri, 09 Oct 2026 05:21:21 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "Investigations of Foodborne Illness Outbreaks - U.S. Food and Drug Administration (.gov)",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk9CZUFHZmRHM3p1V1VfczVQOGxOVU5VSjllbF9tSzFyZDZqVXpfOVdTMnNVZk9VZjRVTDlRN3pvbjZZTER0bG5CY2h0Q0F6SldIMDl0WXNmanBtSGthVjQxMU5NZHNibkNLMXBqRnVsOWk4andKSkdrWUM4eUYzaFVzdGI5OFFXRGE5NWJTTFJja2cxaEJaN3doZw?oc=5",
@@ -121,7 +114,7 @@
       "pubDate": "Wed, 07 Oct 2026 14:00:00 GMT"
     },
     {
-      "source": "HPP Equipment & Machines",
+      "source": "UK HPP Industry",
       "title": "The Turmeric Co. brings HPP in-house with £3.6M investment - Food Manufacture",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUUNRendkLVI0c0stSU9aOHlFSUlVSGc0bDR6NkFjZ0QxQzJ6VENlN1FJTm1CZlV1U0Y4RGhLS2daODBIT2VxaEF3Rk13bDlUOVpHQ3MwYWhDUE9WMVdoUE01MUlZcEVOWnEzRi1USW9pVm9kSmhDT2RCV3NMTEhSa1RNVmtWRVpHNG1wZFBGS1g5LU5QajdzeVAxQjFzeHE0anRLOFByVm5IZDZ2SFQ4TzFDMGNVRURBaWlzbmRYNXNCMW5KOExJSnBFNkN3OTZnSTNHTlA3R2FJWFQ0a2wtMWdaTl9fUQ?oc=5",
       "description": "The Turmeric Co. brings HPP in-house with £3.6M investment Food Manufacture",
@@ -142,11 +135,11 @@
       "pubDate": "Thu, 01 Oct 2026 04:07:19 GMT"
     },
     {
-      "source": "HPP Healthcare & Medical",
-      "title": "Study Identifies High-Pressure Processing Parameters for Effective Pathogen Reduction in Raw Chicken - Food Safety Magazine",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSzhlMUlKTzNoNGdhU3lmdzg5Q3BENFhqM0ZNbkhFWXJoSnFfelFWUTczQUphVUI5bHBzbElrZWJsU0VseFVLY3ZwU3Z5RjZVMWVFQ3F1Yk5RclRMR1F5T0xMWjg0M2FLSGxlNUV4SjJQLTNJdDlQZEtwTHUxQnR5UHhGQ0NLeDI1R01JLXc3Q0pMRWl3V041Y3JSM3dvU1lJbE1LQVplT3AwVjhrQkxrcC1tMmt5NWlwTkVGM2tidzFYQjhpbklxYTBnSTlJMGVZZXZMbVJSeWpWRnc?oc=5",
-      "description": "Study Identifies High-Pressure Processing Parameters for Effective Pathogen Reduction in Raw Chicken Food Safety Magazine",
-      "pubDate": "Sat, 26 Sep 2026 07:35:10 GMT"
+      "source": "Salmonella Outbreaks",
+      "title": "10 more sickened in Salmonella outbreak tied to broccoli sprouts - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUnkyZVZieVRyYm8tZ3ByV293a2VMTGJ5VTBkVGVCTG4wOFBVaFF3bmIxdlhWV3J5NlZIM2x5WmZHN09WQWhOZWJDaGRJUG1qck1MeEd3bkN5Mjk5RVBDeDhRRlVFRUNQaWx3aElIakpnZ01NSUYyc3YzUWtKSk9sWHFoM3BwVWhaMVltOEJNWmk3S0lMemtlU0FvUHktZzJseWlyUXJR?oc=5",
+      "description": "10 more sickened in Salmonella outbreak tied to broccoli sprouts CIDRAP",
+      "pubDate": "Thu, 24 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -198,7 +191,7 @@
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Juices & Beverages",
+      "source": "HPP Equipment & Machines",
       "title": "High-pressure processing expands beyond juice - Beverage Industry",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdzlBX1BVTWNYR2RHendiQzlvVjBWU3ZMNTNEZXQwUlo2bmJ4UFd4OU0yc2k2bUdMZ3JQT19YQkQ1cm1INDAtRkQwb2NySmxrTUVFNUJ3MnpmNldOWWFKTHFzUnlZOVFtX2xJcUZ3M0RSeFV1LUlvRTVrc0M0Q3FlazhRYlpoV3ExNVRxNnJabUI3UQ?oc=5",
       "description": "High-pressure processing expands beyond juice Beverage Industry",
@@ -261,7 +254,7 @@
       "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Healthcare & Medical",
+      "source": "HPP Cosmetics & Beauty",
       "title": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing - Nutritional Outlook",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDBoRW1EZEpqYmQ5Sm9XLVRycFVJN2gzSDNiTkNWX0taRUhvcTlIZlo4UUlvc2tUeldqZ3ZDUEw4bFpLcl9jbW10ZV9DYVpnc1daWS0tc2VyZ0sxSWxDN1llX1J0TGJ1ZUJOVjhVdHViRmg2WDRHRzJTU1Z4UnN3YnpoMkxsWENSblZZV3cwSFJwY1NyQWNGQmxPU190dw?oc=5",
       "description": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing Nutritional Outlook",
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGtOcWpIM1hIV1JSUjd6VVFmelI5ZlE4SzZKdkVHdGlmdm5SUjU1NXkwWWZNeXgyb280RjJpaE1CNEFOeGw2Y1ZPaW5JdkFsdzh2ZGZFSHl5a0VMRVF4UThqOVB3WFJTOFByWFFtZ3NQSi1Lb1RidU1WTmxSY0tKQzVHUF9KQk52OVk4eTJraWJLNjN5SXV4N2FEb3ZERUN4NkRPQ1RGcS1XUmJScFFFTFlMUXlKaHltdkF5SmIxSGxGaThfdUdRZC1nQXc?oc=5",
       "description": "Heard the loud noise in Dixon? Officials say here's what caused it ABC10",
       "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Laminar Wins FoodTech Innovation Award for Innovative Solution on Digitalization in the Food & Beverage Industry - PR Newswire UK",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcUE0R2ZZQk53dTZoOTloWmxtbTRvaEo4M1lYZWxXNXZmVVE5ZS0tWWFPY3BWY01sR3JVZktXMEtjUDRVTk9PYWFxYXFBZVkzZ0ppNXFUbTB0SWlLTWF1REFibjczcnRhNkszUzRLanc4ZXdMVlRwLXJLLWZVeU5GRElnQm5WTlZEQS1qTjlnNzZHNWJNWnJsVjRyTkd4cFlqRkxndXAtLWRpWEIzNjhYaFk4b1haQmlveERvWDZ3UlZnS3RGVG9EZW0xMk5kb3NqZjlwVmppblBuQ0hqYVB0QjVaaHlWQy1sWnlicEk4WEtGeS1pQWJwOEF1LXRGUQ?oc=5",
+      "description": "Laminar Wins FoodTech Innovation Award for Innovative Solution on Digitalization in the Food & Beverage Industry PR Newswire UK",
+      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT"
     }
   ]
 }
