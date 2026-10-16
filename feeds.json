@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T19:21:55.972542+00:00",
+  "updated": "2026-10-16T22:35:25.997674+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -129,13 +129,6 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Urgent recall over eggs imported from Ukraine after salmonella found | ITV News - ITVX",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2pJaWpZcS12S0hWYlpCUFZEb3hxN3dxQ2FITzRrS1pVdy1NMW9WcW84c2VCNDY1VTVOenhRa1duMGc0dFZSeXJCa3dxRFFYbWQydnhmVndQUVphVzdrWXNaRURzZlFhdDhzakktYnloZV9YWm9FZDV0NVdNRU1kZnJpclE1Z0FkRlBzNnVIRFl4Q1FzbmxxY2FNdU91M1FfU0I5Nk9TVQ?oc=5",
-      "description": "Urgent recall over eggs imported from Ukraine after salmonella found | ITV News ITVX",
-      "pubDate": "Sat, 10 Oct 2026 19:48:11 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
       "title": "The Food Standards Agency calls on businesses to withdraw and recall eggs from one Ukrainian food business as investigations find Salmonella Enteritidis contamination - GOV.UK",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQemZHdy1tSS1LbW9YaEN4Y1l3NnVOZ25xLXZReWVxLVRsckJpSzZKam1MR0N6U25IaXZwRzBNRGpGbjBEeEg5U0dlRFlNOVF3M3NxdGprM1VJQXR2N1RHS2NNM1FIVjVmZkRjVGJKejVkbURCWDYxc2ppUTNFelc0MzlMMjdVVVNnY3R6TkVFcmlxOEtHWHR2ejFYd1F5ZkUwTnVYZkNBNGpuaWxzNUdQdHZzZFJwd3BwMGpWejFqeGtybDZaN2N1TUw1UXRXZmQwVUhjOEVZbFQ4STM3enl5ZS0tcGx3ZGxuZXgwME1xN2c0SVRyUHN1QlRwZFBNSVlGN0lOMVNvaFVJSXhnc1JfSkZQTQ?oc=5",
       "description": "The Food Standards Agency calls on businesses to withdraw and recall eggs from one Ukrainian food business as investigations find Salmonella Enteritidis contamination GOV.UK",
@@ -147,6 +140,13 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNG1iTHdOMDdWTnlPUEUtM09Da3VidGZoMUV0U3Z1cmQ5amFramhac0dCdWpVckp2d3FMeldzSUtIN0M1SklFemMwdmtWYnZic2NVcy1iZFNpaE9ubU1EU2Z3N3V5TlhIeUwxQlB1SDFGOElvWEdZYVE0d2Y1Z1FZY1BsaEVsVXVUMzE0WEdhQS00OXdyQnRYTENlNGJYbktpSDRlNklWTzdJdGZfd3c?oc=5",
       "description": "Outbreak Investigation of Salmonella: Sprouts (September 2026) U.S. Food and Drug Administration (.gov)",
       "pubDate": "Fri, 09 Oct 2026 16:30:00 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "UK supermarkets issue urgent 'do not eat' warning over salmonella concerns - Oxford Mail",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdFl3MDlKWXFBODdYb1VKam9kNVBBeHBKZmlGNmZIQktvcjh0N0t0ZldqdEFDekJQU2tfRTBQOVRseXRCVFBENVhFa0k5V29TVlBqQXlPWHRoc2twWHpIMXk3S3lqbjFsdi1sWW5ockNmSFNveUZQWW96RDNXNDFHeElsYjZ5Q2gyRU4yLXptaDVKRkFCY0NrVEFraw?oc=5",
+      "description": "UK supermarkets issue urgent 'do not eat' warning over salmonella concerns Oxford Mail",
+      "pubDate": "Fri, 09 Oct 2026 10:38:07 GMT"
     },
     {
       "source": "UK HPP Industry",
@@ -163,11 +163,25 @@
       "pubDate": "Thu, 01 Oct 2026 04:07:19 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "5 Ongoing Food Recalls You Should Know About This Week - Allrecipes",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xSno1T0x0Tzh0d3h1U1Qwbkw5SGY1QWFEd0NNQllZV2p3UmlTcWU2WHNVX0dvQ2k0WmliRzlrRmhUOVdsbHJLU0tGWDdSbDZXY0FKb0tiZHdBTjNZdnMzOWlIZVNyY3ozSER0TWlGXzI0emI0eDg2Ng?oc=5",
+      "description": "5 Ongoing Food Recalls You Should Know About This Week Allrecipes",
+      "pubDate": "Thu, 24 Sep 2026 07:00:00 GMT"
+    },
+    {
       "source": "Salmonella Outbreaks",
       "title": "Salmonella Outbreak Linked to Broccoli Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QbXN1MHR6ZnJRR0MyMDNLVVFaUmlEM0w2NEp5SVJYbVJwVjROVGxJRDBWeExBUnJpaE9nRTF6aUNrNkxPRHB2UGFfRWtsTEdxWnRBQmw5SzZVMjliVXAwdzRCakpxd2Q3MWhZdWk4bUZUNlNLWlM0bkFIVW1odzA?oc=5",
       "description": "Salmonella Outbreak Linked to Broccoli Sprouts Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Thu, 24 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Meat & Deli",
+      "title": "Oklahoma State University Workshop Highlights High-Pressure Processing Benefits for Beef Producers - Oklahoma Farm Report",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSmk2RjVBcUQwY0NzYmNZRks4NFh6RmJncFNWbXFXLW5ZdVBCZWpKM21jVm5MYWtGWjBOQ2lzOW9xLTVJZ3pwNkhULWlvU3czSFplQzY0em1JbHR0QnNjX19TOXdYOHdYVVFfMXlnMXhPeHpUbTJCX1pJU2NwYzNFNWtiX2hBdjBrbFdsWmQ0d2g5dEtBTGxaVUliRzJSVUJEaHk5SmE3enQ2Y1o3SU1pWFp4YzhiTHpHVXJ4dVFndW5PQUVCVEt6c3BQaE95aE5wR0RkVU1nVDF5Z20tbkE?oc=5",
+      "description": "Oklahoma State University Workshop Highlights High-Pressure Processing Benefits for Beef Producers Oklahoma Farm Report",
+      "pubDate": "Wed, 23 Sep 2026 14:27:14 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -181,6 +195,13 @@
       "title": "HPP workshop highlights technology benefits for pet food processing - Pet Food Processing",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNelZBSDBXbzgtSFZMdC1pR3pKQkMzRzM5RVNPYnpqby1vSTJobDJYaDBMaExaNWdOQmpveWxnVDlDMjA5eGFKQy1fMEl6MVJ0ME9XaHNiT3J5RWIzWG0xdm1KV25Mb1RYZmNWRmlaeGEzb2NDQzRzMHlwSmYyRDRNM3kzVUdJVTRrNUlid0hURTF1blVxaFdYa0tNZ3B0U2ZnMV95Um9WYnRwVTVxQ1h4d3ljR3ZxbmM?oc=5",
       "description": "HPP workshop highlights technology benefits for pet food processing Pet Food Processing",
+      "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "The number of food recalls are down, but individual outbreaks can be severe - Investigate Midwest",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORmNZOG1zWXN5Y0dnZ21Sd1FaWjFKdlBnbmp3VDd4ejBuY09jMnRQSFlselY2QUhGQl9PSFZyQ25neDNDMGdTYmc2UDRIYWlUNTV0RFRhZlk2RzgzNkE3WHZlZXdRTEVyY0luNERFMWs5dTBwZFJHV1R3ZDFPV0xEMUdiMDhBdmt6c2M5ejJYWlRkeXkyekd5MkxSYTZhQ3BEMWFwRHlIOHhRUkRqQTlj?oc=5",
+      "description": "The number of food recalls are down, but individual outbreaks can be severe Investigate Midwest",
       "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
     },
     {
@@ -219,13 +240,6 @@
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "Europe Pet Food Market Size, Share & Industry Report 2034 - IMARC Group",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjeWdDak84UmpjS1NON0hQZEEtWmlCVWJXUFlqQlhqSUFlWjdUNFdIZFotdkJUOERuN3NOSHNOZ0xYMTBtRDk2U184MHZkOTJYRWN4M3R3U2NxLTBuU0E?oc=5",
-      "description": "Europe Pet Food Market Size, Share & Industry Report 2034 IMARC Group",
-      "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT"
-    },
-    {
       "source": "Hiperbaric",
       "title": "HPP Protein Workshop: OSU, Hiperbaric Sept. 17 - Food & Beverage Magazine",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeGw2N0hBNzRFOS1PRm1jUERTc1IxSFBRaXo2QllCY213QmhKVW1zcGY1eUZPZVJibF9XMFFDOHZ5ZUYyQktBNVFpWTFCaFRGNTBkNk55M0s0UlVwVXVkTFVwUXlJRFo1X3RORTlDaU1DUmUzUjJBWTE1ZjVsd01GYl9NQzYyR2tXTjl6bVVqanFIaUI2bVUtdG1B?oc=5",
@@ -252,13 +266,6 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbDUwU3k3c0FIa0duaHZaSjJNSGNLN0lJd0M3T05TNHZsb1NDSHdNMVVnWkhvUldHRGFRQkdoSFItc2c0SVJyUTdqQzlhNXRWdUpIQmRUWmVtTTdidzlKMl9KZEtQOTFCODdzY3ZkeS1WYW50MzVTcUItSnlVbi02azhQLU1uaTE0M0hpU3NDc1ZzQkFOOFM5dzdFemdtdklKS0NKTHVzNWNiVXl6dEdLS0tCTVhBSDRXWHBNOQ?oc=5",
       "description": "Outbreak Investigation of Listeria monocytogenes: Soft Cheese (June 2026) U.S. Food and Drug Administration (.gov)",
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "LIST: Here's all the food under recall in the US - WUSA9",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU2FobmpaY3p1SlFxZ1UzZnNIbGE2UlA4T3AwN2xRODgwc0EtNC1pbVZwTEU1cUNyMGVVQi03anhYMXVPTVluVnVGanlXRXR4Yzh1SFhxNDNRbDctZndpbjdrYnVWMGpFUFhqZVF4QU5iRWhlRndqS3dyRGtIZnZnRXNHZFZIb2lYVmFNbXpmMlVzOXZnRXlweG5YbW9qRnR3WkJYODhXdTJZbEFheTkwUEJ2WkxuMnV2QlFFRFUzeTN1MEZoaGQ5RlAxWUZJWWpBczNlblZ3NzhhUXc?oc=5",
-      "description": "LIST: Here's all the food under recall in the US WUSA9",
-      "pubDate": "Mon, 24 Aug 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -336,13 +343,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdVRCUkhzUHR0NTFtd1dTOUUxODE2MkJURGNIVGpkUkdSaE8yeTZvTHJSZENfUEFPUmx5Y01hNUZELW85SklCb0Z5UHRYd196d2IzR1RXWHdxVnE4aFAzZ0RvT3VNWFNiRG9CYXdfWmRDdF9WWkFwYXM4ZGNBQ1VVU3dYSUhmY2NlMTFSU1A2Tkh5ZHpGb2VrQThCZUJrem9mRnhkRGc4M002LWJNcjhOZVpjRW1ocGN0TUw4dFppd3p2OEs3ZnZMUTlUMVBGbXQ3ajRHdnhJOGpxWjZvRzVoUUJUU21lcEMxaXRWZU5RajQtYWp5MzVndVBmdzRyRDdSNTBpNEFxWU1EVVVsa3lSWk45OEQ1QmVtRWJOWVhYSFU5SHlnZzlURjkxT1BsQ1B0NTF3Vg?oc=5",
       "description": "Texturized Vegetable Protein Market Gains Momentum as Plant-Based Food Innovation and Cost-Effective Protein Solutions Drive Global Industry Growth | FMI PR Newswire UK",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Investigation Update: Listeria Outbreak, June 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeURCSzJmTjhpWEttM0RXTC1fcmtWZHkxeGk5Q2lheTdneWhwMW1KaHYyamVLeWNnYVhROW1lcm1QMWFzZzZhdmtIcHhVTDFjekVkakhwcVpaMTgtOWFERE1QYUNFOUwwQUc2OW5ITldOVXRLRW5MbWluZ2Y0WXRtNA?oc=5",
-      "description": "Investigation Update: Listeria Outbreak, June 2026 Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
