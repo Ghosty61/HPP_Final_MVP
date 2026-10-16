@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-15T22:54:35.537370+00:00",
+  "updated": "2026-10-16T03:26:07.857629+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Raw milk cheese recalled after testing finds E. coli",
+      "link": "https://www.foodsafetynews.com/2026/10/raw-milk-cheese-recalled-after-testing-finds-e-coli/",
+      "description": "Family Farmstead Dairy of Worcester, NY, is recalling some of its raw milk cheddar cheese because it may be contaminated with E. coli O157:H7 bacteria.&#xa0; The product was distributed to grocers in NY and NJ. The cheese is packaged in clear plastic with green, red, and white labeling",
+      "pubDate": "Fri, 16 Oct 2026 02:19:11 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Salmonella Outbreak Expands: Broccoli Seeds Now Recalled - Powder & Bulk Solids",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVGdmNXhCVE13eTM5RVZyYUlSbXJSN3A2WFE0RHk4VXpQUzZzX1F4Z2Z5djJEV0tyZ1ozNGRNSE5uSW5ZeGpJUERZX3JaY2NNWFlwVlRSdVRjUkZPVEttVllOUHFyd0w2YTJUQlcyWTktOWQzMFJCdmk4T2Vzekppc1EzanlvRXpzQ0N3LU9SM2toZGl3N3RFckc5MV9icHVZZmFNcjVkTE13UQ?oc=5",
+      "description": "Salmonella Outbreak Expands: Broccoli Seeds Now Recalled Powder & Bulk Solids",
+      "pubDate": "Thu, 15 Oct 2026 23:48:50 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Advanced Tea Extraction: Yield, Selectivity, and Innovation - Kings Research",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMSGJmOE93clFJTjFYUm43ZHRDVmlILVlnVWRmRkhkdVgwY3NQYnR1X1JxeEUwcENpWm9ZNExUWXo2bjF4UWNhSHhMWHZSTkpCRXBfeDBla2dnNVRSRjZZUHIxR21yb05MamNnUEJvNGNCOXI5cjNKb2xHVQ?oc=5",
+      "description": "Advanced Tea Extraction: Yield, Selectivity, and Innovation Kings Research",
+      "pubDate": "Thu, 15 Oct 2026 14:30:39 GMT"
+    },
     {
       "source": "Listeria Outbreaks",
       "title": "Salad Recall Update as Dozens of Products Given Most Serious FDA Risk Warning - Newsweek",
@@ -72,13 +93,6 @@
       "pubDate": "Tue, 13 Oct 2026 04:05:00 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "EU-wide seasonal Salmonella outbreak strikes again",
-      "link": "https://www.foodsafetynews.com/2026/10/eu-wide-seasonal-salmonella-outbreak-strikes-again/",
-      "description": "More than 800 infections reported between January 2023 and September 2026",
-      "pubDate": "Tue, 13 Oct 2026 04:03:00 GMT"
-    },
-    {
       "source": "HPP Equipment & Machines",
       "title": "HPP Workshop At Oklahoma State Points To Cleaner Labels, Longer Shelf Life For Fresh Foods - The Shelby Report",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQjIyUmFQd1RXYkJzOGtsdkllWWUtbmVIMWpreXNIS2Yyb0NkWWRiT0ZZcjJWaUk3Z0p6VXFFdkk5NkxfeWVRMExzRWJDcm0wVjhsX0dMNWdNcnQ4Ymx4SHM1ZVNTRVhGR2ItR3U3WWsycEtkaEJFaVRlT3VOZFVJZ1V4OFFhYTNIbkpKLWVtSk9BNFZQNkR6bWRYSWsxLTdqbk5xdU1reXU0S3VOY2pldjhRMzF3WGlfMmdDdVp0MzhwalJCWEN2Ug?oc=5",
@@ -87,9 +101,9 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Urgent egg recall after salmonella strain linked to 36 illnesses - Falmouth Packet",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS05oWmpzcmJlVEc0RXo5NnprNXRqNHJsMGlTUjNtUjRxcFY3SFhFd0xxc3hIUzRRdkJMYTZXaUNEMzdIWTBvMXpRUTVLVDRHTjVvdHk2VVdGbGpqTFpyUDIyeHZJVFF1YUZvanRCUkh3Vm1vSTBEb24zZUpWWE5UclM3Vm5LaGNSdVpKM29OSGxMQWR1c1FRQWRXbXczZ2NKX2NQZVdUNXNYcUh3dFNOc25Qenc?oc=5",
-      "description": "Urgent egg recall after salmonella strain linked to 36 illnesses Falmouth Packet",
+      "title": "Urgent egg recall after salmonella strain linked to 36 illnesses - Hexham Courant",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjE0djdnMWFRRXZOZlZzT1hfekVyVERDQXV6djFBdm1xTTBwQ09Udk52RW16N0JOOFpDTEVfa2xTQjA1TGRaUzFwNFpNTWFHMndSTEphRUhvSUgyRU1LVTYzTnYza19FRTh0aHF4NW1QM3hBVERTMXByVU5STlBqLWFjT2Zfb1NqV29oTXR1WXY5ZmxOYlQyUjVqR1MtRm9pamVIX3lnWEVKYXFRNV9BYlRsbVY?oc=5",
+      "description": "Urgent egg recall after salmonella strain linked to 36 illnesses Hexham Courant",
       "pubDate": "Mon, 12 Oct 2026 06:29:58 GMT"
     },
     {
@@ -135,18 +149,18 @@
       "pubDate": "Wed, 07 Oct 2026 10:22:04 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Salmonella Outbreak Linked to Jalapeños - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JZU4wYnlkNGZuVTROR24wV25FVThjWldjVk9ZWjlydkFqdlNwTHE1RHFzaDJSMGhmVjBXSzhuWkFsMWpsTjRfdWVsckhDdFdSMzdrMzN1cW15OW1aLVpwOTRYM0JfLXppZUNoMTlXUEFwSU0?oc=5",
-      "description": "Salmonella Outbreak Linked to Jalapeños Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Fri, 02 Oct 2026 07:00:00 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "New Listeria outbreak under investigation - Food Safety News",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEllcmhpQUI1dm9DMElaSHhYMF8yc2tYUVJHVnl6d2NCWmlTaDNKSzBuYmNlcFVEakliRWh1MXRHUVVhNTJZT2VLWldDS3RaY1BNdXh5WUY3TENUc3RaZjFxNzZ0VmUxZWdJTWQ1YkI2R3dzdVROWkx0bjRWcWJPTlBtMVFfanpp?oc=5",
       "description": "New Listeria outbreak under investigation Food Safety News",
       "pubDate": "Thu, 01 Oct 2026 04:07:19 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Salmonella Outbreak Linked to Broccoli Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QbXN1MHR6ZnJRR0MyMDNLVVFaUmlEM0w2NEp5SVJYbVJwVjROVGxJRDBWeExBUnJpaE9nRTF6aUNrNkxPRHB2UGFfRWtsTEdxWnRBQmw5SzZVMjliVXAwdzRCakpxd2Q3MWhZdWk4bUZUNlNLWlM0bkFIVW1odzA?oc=5",
+      "description": "Salmonella Outbreak Linked to Broccoli Sprouts Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Thu, 24 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -161,6 +175,13 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd180QUsweXIyMGJXNHp5NEV5THk3dUc5bkt5YkVXbExSbEVyVzB3azNKMVBqZVdPRnBlNnJFQmhHSHN2UWd6M1N6eUN5LUhJMHNvUGxJam5jb2RUS0xDaXlCYTJVLTJUZi1UM0JETHpGa0JCTDVuQUNKVC1sYktLZkpGSW9uY05RV1E?oc=5",
       "description": "TTT Group to launch HIP business with Hiperbaric HIP 107 Metal Additive Manufacturing magazine",
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Equipment & Machines",
+      "title": "HPP workshop highlights technology benefits for pet food processing - Pet Food Processing",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNelZBSDBXbzgtSFZMdC1pR3pKQkMzRzM5RVNPYnpqby1vSTJobDJYaDBMaExaNWdOQmpveWxnVDlDMjA5eGFKQy1fMEl6MVJ0ME9XaHNiT3J5RWIzWG0xdm1KV25Mb1RYZmNWRmlaeGEzb2NDQzRzMHlwSmYyRDRNM3kzVUdJVTRrNUlid0hURTF1blVxaFdYa0tNZ3B0U2ZnMV95Um9WYnRwVTVxQ1h4d3ljR3ZxbmM?oc=5",
+      "description": "HPP workshop highlights technology benefits for pet food processing Pet Food Processing",
+      "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -203,13 +224,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdzlBX1BVTWNYR2RHendiQzlvVjBWU3ZMNTNEZXQwUlo2bmJ4UFd4OU0yc2k2bUdMZ3JQT19YQkQ1cm1INDAtRkQwb2NySmxrTUVFNUJ3MnpmNldOWWFKTHFzUnlZOVFtX2xJcUZ3M0RSeFV1LUlvRTVrc0M0Q3FlazhRYlpoV3ExNVRxNnJabUI3UQ?oc=5",
       "description": "High-pressure processing expands beyond juice Beverage Industry",
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Europe Pet Food Market Size, Share & Industry Report 2034 - IMARC Group",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjeWdDak84UmpjS1NON0hQZEEtWmlCVWJXUFlqQlhqSUFlWjdUNFdIZFotdkJUOERuN3NOSHNOZ0xYMTBtRDk2U184MHZkOTJYRWN4M3R3U2NxLTBuU0E?oc=5",
-      "description": "Europe Pet Food Market Size, Share & Industry Report 2034 IMARC Group",
-      "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -261,7 +275,7 @@
       "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Equipment & Machines",
+      "source": "HPP Cosmetics & Beauty",
       "title": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing - Nutritional Outlook",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDBoRW1EZEpqYmQ5Sm9XLVRycFVJN2gzSDNiTkNWX0taRUhvcTlIZlo4UUlvc2tUeldqZ3ZDUEw4bFpLcl9jbW10ZV9DYVpnc1daWS0tc2VyZ0sxSWxDN1llX1J0TGJ1ZUJOVjhVdHViRmg2WDRHRzJTU1Z4UnN3YnpoMkxsWENSblZZV3cwSFJwY1NyQWNGQmxPU190dw?oc=5",
       "description": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing Nutritional Outlook",
@@ -336,20 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeURCSzJmTjhpWEttM0RXTC1fcmtWZHkxeGk5Q2lheTdneWhwMW1KaHYyamVLeWNnYVhROW1lcm1QMWFzZzZhdmtIcHhVTDFjekVkakhwcVpaMTgtOWFERE1QYUNFOUwwQUc2OW5ITldOVXRLRW5MbWluZ2Y0WXRtNA?oc=5",
       "description": "Investigation Update: Listeria Outbreak, June 2026 Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "UK Food Valley highlights innovation and ambition at Lincolnshire Show Brunch - Lincolnshire County Council",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZElmZFZsNzZXMlNWQlZQTm96OHZEYW1kdkJWWTlQQS14dUd2OFhHVURRMkpBcFZ0SU5hOG5oSWxpVVdTZFdYcFF5R0VSNjZ5UEx5QzctaWFZdlRaM2xlWW5QX2tRUnlMeVE1bXAyUFRNVzlEWlgxOEd5NHNfSEdidngzWjNGclRfU21IUWNMRGtlcU5jNEFNUDRoNExmc1VKemVEaFF6M3YtYzUzeDFDNVFLTVJnaDh4ZXdSaU1iYjdqLVFPZHc?oc=5",
-      "description": "UK Food Valley highlights innovation and ambition at Lincolnshire Show Brunch Lincolnshire County Council",
-      "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Soups & Meals",
-      "title": "Heard the loud noise in Dixon? Officials say here's what caused it - ABC10",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGtOcWpIM1hIV1JSUjd6VVFmelI5ZlE4SzZKdkVHdGlmdm5SUjU1NXkwWWZNeXgyb280RjJpaE1CNEFOeGw2Y1ZPaW5JdkFsdzh2ZGZFSHl5a0VMRVF4UThqOVB3WFJTOFByWFFtZ3NQSi1Lb1RidU1WTmxSY0tKQzVHUF9KQk52OVk4eTJraWJLNjN5SXV4N2FEb3ZERUN4NkRPQ1RGcS1XUmJScFFFTFlMUXlKaHltdkF5SmIxSGxGaThfdUdRZC1nQXc?oc=5",
-      "description": "Heard the loud noise in Dixon? Officials say here's what caused it ABC10",
-      "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT"
     }
   ]
 }
