@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T22:35:25.997674+00:00",
+  "updated": "2026-10-17T03:16:28.957082+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -142,18 +142,18 @@
       "pubDate": "Fri, 09 Oct 2026 16:30:00 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "UK supermarkets issue urgent 'do not eat' warning over salmonella concerns - Oxford Mail",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdFl3MDlKWXFBODdYb1VKam9kNVBBeHBKZmlGNmZIQktvcjh0N0t0ZldqdEFDekJQU2tfRTBQOVRseXRCVFBENVhFa0k5V29TVlBqQXlPWHRoc2twWHpIMXk3S3lqbjFsdi1sWW5ockNmSFNveUZQWW96RDNXNDFHeElsYjZ5Q2gyRU4yLXptaDVKRkFCY0NrVEFraw?oc=5",
-      "description": "UK supermarkets issue urgent 'do not eat' warning over salmonella concerns Oxford Mail",
-      "pubDate": "Fri, 09 Oct 2026 10:38:07 GMT"
-    },
-    {
       "source": "UK HPP Industry",
       "title": "The Turmeric Co. brings HPP in-house with £3.6M investment - Food Manufacture",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUUNRendkLVI0c0stSU9aOHlFSUlVSGc0bDR6NkFjZ0QxQzJ6VENlN1FJTm1CZlV1U0Y4RGhLS2daODBIT2VxaEF3Rk13bDlUOVpHQ3MwYWhDUE9WMVdoUE01MUlZcEVOWnEzRi1USW9pVm9kSmhDT2RCV3NMTEhSa1RNVmtWRVpHNG1wZFBGS1g5LU5QajdzeVAxQjFzeHE0anRLOFByVm5IZDZ2SFQ4TzFDMGNVRURBaWlzbmRYNXNCMW5KOExJSnBFNkN3OTZnSTNHTlA3R2FJWFQ0a2wtMWdaTl9fUQ?oc=5",
       "description": "The Turmeric Co. brings HPP in-house with £3.6M investment Food Manufacture",
       "pubDate": "Wed, 07 Oct 2026 10:22:04 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts | E. coli infection - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94WC1SUE5mdTdzbVhKeGk2bVFWWDhPLUdVZ0xvc1FldWFPbVRzVkU1QXE0dFlETHZaanFXcmROSmxJNnNDSWVueE5aMGlLTmxhQ1Nkdl8tdjlaSmJmU1VzQkRUZWFYREZ1S0JvTlQyejdQYmVhX0xv?oc=5",
+      "description": "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts | E. coli infection Centers for Disease Control and Prevention | CDC (.gov)",
+      "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -167,13 +167,6 @@
       "title": "5 Ongoing Food Recalls You Should Know About This Week - Allrecipes",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xSno1T0x0Tzh0d3h1U1Qwbkw5SGY1QWFEd0NNQllZV2p3UmlTcWU2WHNVX0dvQ2k0WmliRzlrRmhUOVdsbHJLU0tGWDdSbDZXY0FKb0tiZHdBTjNZdnMzOWlIZVNyY3ozSER0TWlGXzI0emI0eDg2Ng?oc=5",
       "description": "5 Ongoing Food Recalls You Should Know About This Week Allrecipes",
-      "pubDate": "Thu, 24 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Salmonella Outbreak Linked to Broccoli Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QbXN1MHR6ZnJRR0MyMDNLVVFaUmlEM0w2NEp5SVJYbVJwVjROVGxJRDBWeExBUnJpaE9nRTF6aUNrNkxPRHB2UGFfRWtsTEdxWnRBQmw5SzZVMjliVXAwdzRCakpxd2Q3MWhZdWk4bUZUNlNLWlM0bkFIVW1odzA?oc=5",
-      "description": "Salmonella Outbreak Linked to Broccoli Sprouts Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Thu, 24 Sep 2026 07:00:00 GMT"
     },
     {
@@ -219,7 +212,7 @@
       "pubDate": "Mon, 21 Sep 2026 07:00:00 GMT"
     },
     {
-      "source": "Hiperbaric",
+      "source": "HPP Innovation & Research",
       "title": "Oklahoma State FAPC Gives Food Industry Professionals a Hands-On Look at HPP Technology - Food Safety Magazine",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdHZJOGYwRElTT3pBTFRha2VmNjU0V2FLLWZFTWNHWGp5TXN0SzltalQ5NEtEcjZHcVJGbGh1S19JYzhZWGV1U2traVpWNmRGOUMxVmtKQy1wdjk4U2JPWGtLTzZiT0dyTzVfRmt6ZzlnWnhPTDJNTXJNSFpGLVFlaXZzMGpYTXpON2NYbWF2dm9ESUZxd2dNXzdHQ182Q2RCMHptM1dDaGJjbF9MS243QW1NQWZNN0Jmc18weEdMODA2WUxvLXVtU093?oc=5",
       "description": "Oklahoma State FAPC Gives Food Industry Professionals a Hands-On Look at HPP Technology Food Safety Magazine",
@@ -268,6 +261,13 @@
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
+      "source": "Food Safety UK & EU",
+      "title": "Food Fact Check: Can you get salmonella from eggs? What you need to know. - GOV.UK blogs",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObmNwbkxtUXo5QVNIemI0M1E3M2p2bEtaVlhVS0RheWNnR21DWGMyNm1kWkZ1S3FJTnRES1UyMDdZWlZaQTlOTXUxSFdSTEJWQ0NCY2Q5MGJxTXE2SVBhYXhJYTh2cVVoZDZ5a216UUJRLXlSZk5nYU5FT0NyZ1NUYnRYXzFWSzFrRnhXRjM2OWpydDZXa0kwOW5wT2VOT21iWHc3cHJ6RGtIQ00?oc=5",
+      "description": "Food Fact Check: Can you get salmonella from eggs? What you need to know. GOV.UK blogs",
+      "pubDate": "Fri, 21 Aug 2026 07:00:00 GMT"
+    },
+    {
       "source": "Hiperbaric",
       "title": "Hiperbaric and Oklahoma State University to Host HPP Protein Workshop - Quality Assurance & Food Safety",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU1REYUFGWjd2S3ZQWEJWcE00dFNDM2xOSlQzbnNzb01HbUJ5VV8wT2dPWDh6MlRsTmZMbEhzQkhiZ1JkMG1uamQtWktHMDN0WjlqWjVzUm1jd0lyUWxPd1VrVVZNZWt6dXpZYmZFZTNkLTlTTkJZeTlvVzI2SVNFSzY3RUQ4Sk5sODZNaV8xTmtla3pOMWhhNG9VYUdtRExDWkk3RU1HMXptYUhzWUpDYg?oc=5",
@@ -296,7 +296,7 @@
       "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "Hiperbaric EU",
+      "source": "Hiperbaric",
       "title": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts - TCT Magazine",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM29NRXg0WXVha25KbzRLcm9zV0dRUG81ZVhpaGllbzdRR0FyVm1uVDBtVTZkR01tR1VKck56c2xxSC0yRDB1bUsyajAyd19Eb1I4UWRtY0VMVU9VNFlrWGJDSzdDQms0T0VwbE04WWl1V2k5b3cxZmVCSXZPUlg3OTI5Uzh1b2ZPRUhhZ0t6ckhqdHhhQVhfdzVJaVI1dEUtRy1OZERuMGwzY3RUdTc0UUZadFRKVU1JRmFWQVFwZHg3UWc0U3drMUVvZmY?oc=5",
       "description": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts TCT Magazine",
