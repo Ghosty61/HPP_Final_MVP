@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-18T08:36:22.565218+00:00",
+  "updated": "2026-10-18T13:47:14.016387+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Sunday Edition: NSW",
+      "link": "https://www.foodsafetynews.com/2026/10/sunday-edition-nsw/",
+      "description": "Quick bites from around the food safety arena this week An outbreak of&#xa0; E coli O157:H7 infections linked to ready-to-eat multi-ingredient chicken wraps has affected 50 patients , up from 35 reported by the FDA just one week ago. Neither the FDA nor the U.S.",
+      "pubDate": "Sun, 18 Oct 2026 12:00:00 GMT"
+    },
     {
       "source": "HPP Healthcare & Medical",
       "title": "Study Identifies High-Pressure Processing Parameters for Effective Pathogen Reduction in Raw Chicken - Food Safety Magazine",
@@ -63,13 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0lVZkExMjJYakZQZHRwcDc3TTZGNlhqTC1QbElMQnpTUFdmQlhNVWswdGw3SFBrVWFpTkNxQXJhdG1KeFFhTERiRWlqU25JbHJKS0tTTmpuYW5VTTVOVXNsLTFrVy13YmpCR1JQWkFlQzVwalhsV3UzTG4ydjg3WXB1R2tHQlM1RUFKWnpLQVRYOFFWaEF1WlBqLVAxbl9YTmdGcnI0OVFEV0VnS0pnU3ozenpIblFS?oc=5",
       "description": "Salad Recall Update as Dozens of Products Given Most Serious FDA Risk Warning Newsweek",
       "pubDate": "Thu, 15 Oct 2026 09:53:00 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Spanish authorities urged to share Salmonella outbreak details",
-      "link": "https://www.foodsafetynews.com/2026/10/spanish-authorities-urged-to-share-salmonella-outbreak-details/",
-      "description": "The affected brands, quantities recalled, and places where eggs may have been distributed have not been made public.",
-      "pubDate": "Thu, 15 Oct 2026 04:06:00 GMT"
     },
     {
       "source": "UK HPP Industry",
