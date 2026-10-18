@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-18T20:11:03.949136+00:00",
+  "updated": "2026-10-18T23:56:22.431337+00:00",
   "articles": [
     {
       "source": "Food Safety News",
-      "title": "Sunday Edition: NSW",
-      "link": "https://www.foodsafetynews.com/2026/10/sunday-edition-nsw/",
-      "description": "Quick bites from around the food safety arena this week An outbreak of&#xa0; E coli O157:H7 infections linked to ready-to-eat multi-ingredient chicken wraps has affected 50 patients , up from 35 reported by the FDA just one week ago. Neither the FDA nor the U.S.",
-      "pubDate": "Sun, 18 Oct 2026 12:00:00 GMT"
+      "title": "Lidl recalls gelato because of Listeria contamination",
+      "link": "https://www.foodsafetynews.com/2026/10/lidl-recalls-gelato-because-of-listeria-contamination/",
+      "description": "Lidl US is recalling one lot of Gelatelli Coffee & Vanilla Gelato with Coffee Sauce & Cookie Pieces because testing showed contamination with Listeria monocytogenes. The recalled product was distributed between July 19, 2026, and Oct. 15, 2026, to all Lidl US retail store locations in Delaware, District of Columbia,",
+      "pubDate": "Sun, 18 Oct 2026 22:19:57 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -100,13 +100,6 @@
       "pubDate": "Mon, 12 Oct 2026 11:28:06 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "Urgent egg recall after salmonella strain linked to 36 illnesses - Swindon Advertiser",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbm5feG42STFEZkV2NVBXdF9SM2xjbm9GMkpsRXpBUXo0LTBfTGJTXzJOaG41SkFFTjRyX05RNmhETXRRTzdKWWljeDlBdThJaWswVVJEZjkxZ3pmMWZGZnFwbU9XRF9FWUU5c0lBeGphRUc1RE4tOURrU3pLRVdSWTZzcTRQdWxFN0k2Vk56X3ZScmo4NWhhdFBVZW9mWXhQUmRHa1B0Tko4RngyWGlfbTJrTklId0Rj?oc=5",
-      "description": "Urgent egg recall after salmonella strain linked to 36 illnesses Swindon Advertiser",
-      "pubDate": "Mon, 12 Oct 2026 06:29:58 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
       "title": "UK egg sampling discovers different Salmonella outbreak - Food Safety News",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYWFTSUlqdXhNV3hYay1QVV9JSTM1OHF0MDZtNlFHUHlHTkhwOURDMU02VElGZEItOWJONUo3WEQ4N1pyOXhaa3ZoVTRpMjRMTXZUbjBsVTlBSUIzMmd3WGJoYkZ5TVdtbXg1SUQwY2hpSkdLSVNBWDR2RGpTMUEwX2lHY29JamFLVXVTX1czSy1VV0xNdlJfWk9KTQ?oc=5",
@@ -118,13 +111,20 @@
       "title": "The Food Standards Agency calls on businesses to withdraw and recall eggs from one Ukrainian food business as investigations find Salmonella Enteritidis contamination - GOV.UK",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQemZHdy1tSS1LbW9YaEN4Y1l3NnVOZ25xLXZReWVxLVRsckJpSzZKam1MR0N6U25IaXZwRzBNRGpGbjBEeEg5U0dlRFlNOVF3M3NxdGprM1VJQXR2N1RHS2NNM1FIVjVmZkRjVGJKejVkbURCWDYxc2ppUTNFelc0MzlMMjdVVVNnY3R6TkVFcmlxOEtHWHR2ejFYd1F5ZkUwTnVYZkNBNGpuaWxzNUdQdHZzZFJwd3BwMGpWejFqeGtybDZaN2N1TUw1UXRXZmQwVUhjOEVZbFQ4STM3enl5ZS0tcGx3ZGxuZXgwME1xN2c0SVRyUHN1QlRwZFBNSVlGN0lOMVNvaFVJSXhnc1JfSkZQTQ?oc=5",
       "description": "The Food Standards Agency calls on businesses to withdraw and recall eggs from one Ukrainian food business as investigations find Salmonella Enteritidis contamination GOV.UK",
-      "pubDate": "Sat, 10 Oct 2026 15:49:00 GMT"
+      "pubDate": "Sat, 10 Oct 2026 07:00:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
       "title": "Outbreak Investigation of Salmonella: Sprouts (September 2026) - U.S. Food and Drug Administration (.gov)",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNG1iTHdOMDdWTnlPUEUtM09Da3VidGZoMUV0U3Z1cmQ5amFramhac0dCdWpVckp2d3FMeldzSUtIN0M1SklFemMwdmtWYnZic2NVcy1iZFNpaE9ubU1EU2Z3N3V5TlhIeUwxQlB1SDFGOElvWEdZYVE0d2Y1Z1FZY1BsaEVsVXVUMzE0WEdhQS00OXdyQnRYTENlNGJYbktpSDRlNklWTzdJdGZfd3c?oc=5",
       "description": "Outbreak Investigation of Salmonella: Sprouts (September 2026) U.S. Food and Drug Administration (.gov)",
+      "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "UK supermarkets issue urgent 'do not eat' warning over salmonella concerns - Oxford Mail",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdFl3MDlKWXFBODdYb1VKam9kNVBBeHBKZmlGNmZIQktvcjh0N0t0ZldqdEFDekJQU2tfRTBQOVRseXRCVFBENVhFa0k5V29TVlBqQXlPWHRoc2twWHpIMXk3S3lqbjFsdi1sWW5ockNmSFNveUZQWW96RDNXNDFHeElsYjZ5Q2gyRU4yLXptaDVKRkFCY0NrVEFraw?oc=5",
+      "description": "UK supermarkets issue urgent 'do not eat' warning over salmonella concerns Oxford Mail",
       "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
     },
     {
