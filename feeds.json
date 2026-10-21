@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-21T03:34:55.581807+00:00",
+  "updated": "2026-10-21T09:09:23.986778+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "UK links Salmonella outbreak to Moroccan tomatoes",
+      "link": "https://www.foodsafetynews.com/2026/10/uk-links-salmonella-outbreak-to-moroccan-tomatoes/",
+      "description": "More than 200 people fell ill in three countries in 2024",
+      "pubDate": "Wed, 21 Oct 2026 04:03:00 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "New South Wales misses Salmonella reduction target",
+      "link": "https://www.foodsafetynews.com/2026/10/new-south-wales-misses-salmonella-reduction-target/",
+      "description": "An Australian state has fallen short of its Salmonella reduction target but made major progress in reducing infections. The New South Wales (NSW) Food Authority said an evaluation revealed that efforts had prevented more than 37,000 illnesses.",
+      "pubDate": "Wed, 21 Oct 2026 04:01:00 GMT"
+    },
     {
       "source": "Salmonella Outbreaks",
       "title": "Salmonella outbreak linked to recalled oysters distributed to Texas and other states - Houston Chronicle",
@@ -14,13 +28,6 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3bkk2N0I4LXBxT3BuZW1JZl8yZGVpSlB0Q3pBY0xnMm5jZGNpbHlET1duU2t2NmRjaGFVLXNVM1VBbnBEUS1sQnF4VEdKYV9NS3ljWUNEOGtwUkR5OHZEa2FzRmw1OWF4Ql9yenM0SQ?oc=5",
       "description": "Salmonella Outbreak Associated With Oysters Virginia Department of Health (.gov)",
       "pubDate": "Tue, 20 Oct 2026 12:40:04 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Oyster Recall Map Shows States Impacted by Salmonella Outbreak - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWF9tLWxhcV9YNXV4ZU5MSnRtem1OX3FNb1ZJV2FWdW52MmVJWGhRMHB0Z01ZTWcxVmNvS3BCUW02OUg3MDN0X21hMXpuSlRHZW9pS0xGRXdLNXFBWkVWY3RhQ2dIcHFoaWhjRnl0VHlNRjdpc0hMRkRuSFVqUXUzQnhMam1ZRHZ6NDFMU2tR?oc=5",
-      "description": "Oyster Recall Map Shows States Impacted by Salmonella Outbreak Newsweek",
-      "pubDate": "Tue, 20 Oct 2026 11:09:00 GMT"
     },
     {
       "source": "Food Safety News",
@@ -51,13 +58,6 @@
       "pubDate": "Tue, 20 Oct 2026 01:03:58 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Frozen smoked salmon recalled after positive test for Listeria",
-      "link": "https://www.foodsafetynews.com/2026/10/frozen-smoked-salmon-recalled-after-positive-test-for-listeria/",
-      "description": "Krasnyi Oktyabr Inc. of Brooklyn, NY, is voluntarily recalling STARFISH SEAFOOD PREMIUM COLD SMOKED NORWEGIAN SALMON SLICED because the product has tested positive for Listeria monocytogenes. The STARFISH SEAFOOD PREMIUM COLD SMOKED NORWEGIAN SALMON SLICED was distributed in New York, Florida, Georgia, New Jersey, Pennsylvania and Ohio. The recalled product",
-      "pubDate": "Tue, 20 Oct 2026 00:47:21 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
       "title": "Salmonella Outbreak Linked to Raw Oysters - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UbDhURTRyTGJkX2RLenFlTWVObzJudUJMYnIxdEdRandOMUpZTV9Na2JCT1E0ejM2dTEtcFJvRFlOc3d0c0dMQzE5cmJPTGlCNk1ha3dMdGtjU2c0V21NZlY1V3JtaDZEMmw2RmdtUE9LcVU?oc=5",
@@ -65,11 +65,18 @@
       "pubDate": "Mon, 19 Oct 2026 23:56:46 GMT"
     },
     {
-      "source": "HPP Healthcare & Medical",
-      "title": "Bidding Ends Tomorrow in All American Equipment Auction of Food & Pharmaceutical Processing Equipment - Food Manufacturing",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTkZNNEJhN3ZITmllaXNWSWY5dzZWTE8zRHhqNk1YLUVUNnlrNjlFRktCOVFabDFqekE4WDVHY3VzNzJQREp3em0tZnVreFFMam1fSlc0SVpYYjk1Mk5nRUU3WTVTMk9maHZCZi05VVJZLXJuU29RMGdNaGxRckhIUS0xVmRUd3pxb2I1Uzdjc1J2dkNyUGFYY2Zqd0hXRnh0T3hfLWF4Z2p4Uk5WRk5CeVB0TVduWGpMcmZENEQ3Yk9lUC1HbHNPcWV6bjRvUkk2VkwxTUFNb3FBSS15V0tKMUZsTkZZOF9sVlBIWA?oc=5",
-      "description": "Bidding Ends Tomorrow in All American Equipment Auction of Food & Pharmaceutical Processing Equipment Food Manufacturing",
-      "pubDate": "Mon, 19 Oct 2026 16:28:41 GMT"
+      "source": "Salmonella Outbreaks",
+      "title": "Biggest FDA food recalls of 2026: lettuce, eggs, more - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlUEl4M2JJbGozdGp0V0d1RVpoTF9FUXU3NHVHVVQyYTVNSnlwSXVaNldERm52aHZqamNqZ01LSjI5T2dpTXZiNVM3Y01wYkFVUTV4ZFV0SQ?oc=5",
+      "description": "Biggest FDA food recalls of 2026: lettuce, eggs, more qz.com",
+      "pubDate": "Mon, 19 Oct 2026 18:20:29 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "Consumers ‘setting’ food and drink market trends - Agriland UK",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeWlXU19jOFFkZ25zRXk4UllKd1hCVktmRHpOaVBFaEx0aUJJaUdqZFdJWjdrcWtiQVBkTm1aWmJoZ1l0Y2NpN3ZmMUxYa1J6b3NfY3IyUmJmS2hxakYtT0Qwc1o3OF9ZWk5ZaVpwUUkzbE1DQlJUTGxwWFp0SjczaVltUGpHRTZkY3Qya3VxUjU?oc=5",
+      "description": "Consumers ‘setting’ food and drink market trends Agriland UK",
+      "pubDate": "Mon, 19 Oct 2026 14:00:00 GMT"
     },
     {
       "source": "HPP Soups & Meals",
@@ -79,25 +86,11 @@
       "pubDate": "Mon, 19 Oct 2026 11:23:02 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Stricter Dutch rules planned as Salmonella battle continues",
-      "link": "https://www.foodsafetynews.com/2026/10/stricter-dutch-rules-planned-as-salmonella-battle-continues/",
-      "description": "The rate of Salmonella in laying hens was 5 percent. The EU target is 2 percent",
-      "pubDate": "Mon, 19 Oct 2026 04:04:00 GMT"
-    },
-    {
-      "source": "HPP Healthcare & Medical",
+      "source": "HPP Meat & Deli",
       "title": "Study Identifies High-Pressure Processing Parameters for Effective Pathogen Reduction in Raw Chicken - Food Safety Magazine",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSzhlMUlKTzNoNGdhU3lmdzg5Q3BENFhqM0ZNbkhFWXJoSnFfelFWUTczQUphVUI5bHBzbElrZWJsU0VseFVLY3ZwU3Z5RjZVMWVFQ3F1Yk5RclRMR1F5T0xMWjg0M2FLSGxlNUV4SjJQLTNJdDlQZEtwTHUxQnR5UHhGQ0NLeDI1R01JLXc3Q0pMRWl3V041Y3JSM3dvU1lJbE1LQVplT3AwVjhrQkxrcC1tMmt5NWlwTkVGM2tidzFYQjhpbklxYTBnSTlJMGVZZXZMbVJSeWpWRnc?oc=5",
       "description": "Study Identifies High-Pressure Processing Parameters for Effective Pathogen Reduction in Raw Chicken Food Safety Magazine",
       "pubDate": "Sat, 17 Oct 2026 10:04:28 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "What to know about listeria after a nationwide recall for cheese - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzNwcWlBTVRsWFp5cUtsaXMxamg0Yy00VnZSYzNuZUhsenNUV1pRVmJXbk1lcWpvTEUzUjByUGotSUdNc1pRSzA2el9oa0txcXQ0RXUzVUVNMTZOaFB2MFhmSUxtMTh1RERsLU9rMDFGbWpTWHlsTkNZVEpYeWxSTk0tMTdpY2hvTUp0dU96a2x2Mnl0cTNaMEwwQTktd0xoWGxTQkZn?oc=5",
-      "description": "What to know about listeria after a nationwide recall for cheese CTV News",
-      "pubDate": "Thu, 15 Oct 2026 22:58:43 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -112,6 +105,13 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb2J2Wk5zX0dsekRzbHhzZUFJVWF4MHU1eUs2UFpxRldPbUhkeUNTTnJOUURzNFFCbzlIUVJ4dndxYjVZMkZSczFQNTM2WmNydVFjbEVvcF9tVHdsWGxtT3RSQ0d1aE1rTlF3TktVVHZoTEtpUHFaZFVHOWx5M3FlUGd2TU5PX0xDX1BDTW5KQWk0cU1GckxEbTNTNkRKdndZ?oc=5",
       "description": "Event: HPP Innovation Summit Business Cornwall",
       "pubDate": "Wed, 14 Oct 2026 10:52:58 GMT"
+    },
+    {
+      "source": "HPP Juices & Beverages",
+      "title": "Pressure Test: Can HPP Cold-Pressed Juice Thrive in the New Functional Beverage Era? - BevNET.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU25mVGozcWpWeTk0bmJMTzhITDV1QVdHRWk0TGwwZmZ3TVVxRnRYVVNoNGVYd0E5M0pudnp6QVJQVWRBeUpEekNlcjB3ckRtSjNQS0t1ZVFYZmdGaV9FUXJ5M0pOamM0S3l0VlpMNk83emRyb3ZZZTdDSXE4ZkFIbGNzWmxHZHlUR0pBQUdUX0FqZV91VGc4RUdWZ3lBdXQ1TFdLeEtIVHBuUHhwQnJaTTFhbF9XTlVtbkktVTRZTUYzaG5r?oc=5",
+      "description": "Pressure Test: Can HPP Cold-Pressed Juice Thrive in the New Functional Beverage Era? BevNET.com",
+      "pubDate": "Tue, 13 Oct 2026 13:13:20 GMT"
     },
     {
       "source": "HPP Equipment & Machines",
@@ -163,6 +163,13 @@
       "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "Recall alert: Walmart pasta may have listeria contamination - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcWJFM2d1ZjlLRjBLWFRxT0hwLUotYmdSWXQxWS1LRmZhMXR1UGhoRUFaU2ZDNl9FSlFxXzNlZXN1X3A0YnhrWFlDWDZGNjJHYVl5d2VUOF9Yb3dEOEtGc184cHprdVBhNVQ5dmdFZk5iaGhsQVh0UkowbVNEUW5EYThMMGtVNDN3V0Nqem5QelJRaDg1VmxEbDZPRlp2LTh6YVZnOTFIdXDSAa4BQVVfeXFMUFhTdVZ2MlE0Z3ZxTnlrc0N3czNSdXAxN3A2b05hcTk1ZmFtQktMb3VZTDhoRTNMRXVya2xaYll0c2hLNDFWeW5VM1h1OU4wZDNORmlDUk5SYm1MNWxXTjJBcUk3dXQ0NHZJWXA2SXp3MEJtTDJaWEV1ei14aFRlUHNhWng5QWh4Yi1Kc0tVajZ1VVNoUnhRNURlOWFIZlM5VEFpSGdxY01nMmRFS0JB?oc=5",
+      "description": "Recall alert: Walmart pasta may have listeria contamination NewsNation",
+      "pubDate": "Sat, 03 Oct 2026 07:00:00 GMT"
+    },
+    {
       "source": "Quintus Technologies",
       "title": "Wallwork to showcase increased HIP capacity at Formnext 2026 - Production Engineering Solutions",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmxFcWZGNzllUmd6LUFoYThUcW40QkhJUXk1Vm81VmpaU0FFN0RkZndncTctN1F5RThJRUVsS3UwVXg1NU1TYUVpaDU0MFhBbGRxZDVNNl9XX0lPU0JScU04UXRXMHU4R3JseWp4T05sdEFVYkNBZW5RVUMzQzZuMG9wSmgydjZJWnVjUjR3?oc=5",
@@ -184,6 +191,13 @@
       "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "Here’s What You Need to Know About All the Listeria Outbreaks—And What Foods Are Affected - Allrecipes",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xQ1FrUmJnREJ2OWdsSEhaQzBDZGFhOHl5UDFUTE1ockdRZ0xiVVB1OWtQQ1huVUV3d0xHWHYtc0g5OVlYZlktYTBsUHotYkhGQThxenRoMC03Q3RIa3J6TmN3?oc=5",
+      "description": "Here’s What You Need to Know About All the Listeria Outbreaks—And What Foods Are Affected Allrecipes",
+      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Healthcare & Medical",
       "title": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 - Fortune Business Insights",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEYwb0FKSE1PSTZtQ1IwTHB1ZHBIbzhSc1piZnR6VTRpODRIaDRUaUx1cGZEVldYT0FjSkdEQ0tpNWVITDZ2eXl5TC1IOFM0V0Qwd0ZLaG9RSlp0WXI5V3NEV0pCYTg5RHFIb0NjOWVmcFVxU0ZILVhHdS10cWVtTk5qTVNfcVk?oc=5",
@@ -198,11 +212,18 @@
       "pubDate": "Wed, 23 Sep 2026 14:27:14 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "Multivac UK to open new CX and innovation centre in Manchester - Food Manufacture",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWmc2cnZsZzY5X0VacGx5ZjQ2VF9jMFBzQ3ExVkhYMVhJd0t2ZlppYlZ1dDBnaG1UTGdkeDVDUmRNaXhsOGtYejV6c1VvRkcxYkZPMUxVM3NSLWNseHBYc3UxVUJxT08tc3A3Wm5BMzdtb0JUTVJJN0R0TFNQMlVrZkRPamo2U1VVaC1FX2J6OHBnYUhKOGhsRUhjZlFQVEZZTDgwbThwQ0VldzQxQjA1eEN0Q0FWQ3VsSms3R2ZHNklzMGhoNmM0?oc=5",
-      "description": "Multivac UK to open new CX and innovation centre in Manchester Food Manufacture",
+      "source": "HPP Innovation & Research",
+      "title": "HPP workshop highlights technology benefits for pet food processing - Pet Food Processing",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNelZBSDBXbzgtSFZMdC1pR3pKQkMzRzM5RVNPYnpqby1vSTJobDJYaDBMaExaNWdOQmpveWxnVDlDMjA5eGFKQy1fMEl6MVJ0ME9XaHNiT3J5RWIzWG0xdm1KV25Mb1RYZmNWRmlaeGEzb2NDQzRzMHlwSmYyRDRNM3kzVUdJVTRrNUlid0hURTF1blVxaFdYa0tNZ3B0U2ZnMV95Um9WYnRwVTVxQ1h4d3ljR3ZxbmM?oc=5",
+      "description": "HPP workshop highlights technology benefits for pet food processing Pet Food Processing",
       "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "FDA Announces Nationwide Recall of Popular Pasta Sold at Walmart - Good Housekeeping",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPelhGdE51bDRsaXlrMjMtMU04b0dGeEhwbWNPWnZvM3UzalBWN1IyS1VMN3FsTG1oNDVwbGkwcVBHekdwSFpiUTR4R0hRYkg4elRGOURRSUVxalZ4OFZlaHNmOXhpSmVZa2FOYmhnNWg5cThST3didF9CS053NHFnSUJMcw?oc=5",
+      "description": "FDA Announces Nationwide Recall of Popular Pasta Sold at Walmart Good Housekeeping",
+      "pubDate": "Mon, 21 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -223,6 +244,13 @@
       "title": "High-pressure processing expands beyond juice - Beverage Industry",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdzlBX1BVTWNYR2RHendiQzlvVjBWU3ZMNTNEZXQwUlo2bmJ4UFd4OU0yc2k2bUdMZ3JQT19YQkQ1cm1INDAtRkQwb2NySmxrTUVFNUJ3MnpmNldOWWFKTHFzUnlZOVFtX2xJcUZ3M0RSeFV1LUlvRTVrc0M0Q3FlazhRYlpoV3ExNVRxNnJabUI3UQ?oc=5",
       "description": "High-pressure processing expands beyond juice Beverage Industry",
+      "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Equipment & Machines",
+      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM0pXdmt2NmZIcFRyQ25Ea29yVGdabk1MRHZodlh2enR0RS1QaThUUDMyaWhzYXZlN2tIODY5cHNWaGJyVW5iOXU1TFBmSkc0MWhkMmlOMF9tOS1jeWViSHNiUnA5RU1LMVFkOTdfaVQ2Y1lLSG1lM2VCYkJ2VEpTdGtINVFKTHFud3lSWWt6QkY5bDR6TzU4YzhUSWV1ZmtVZmhydHl3?oc=5",
+      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 Yahoo Finance",
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
@@ -261,13 +289,6 @@
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "LIST: Here's all the food under recall in the US - WUSA9",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU2FobmpaY3p1SlFxZ1UzZnNIbGE2UlA4T3AwN2xRODgwc0EtNC1pbVZwTEU1cUNyMGVVQi03anhYMXVPTVluVnVGanlXRXR4Yzh1SFhxNDNRbDctZndpbjdrYnVWMGpFUFhqZVF4QU5iRWhlRndqS3dyRGtIZnZnRXNHZFZIb2lYVmFNbXpmMlVzOXZnRXlweG5YbW9qRnR3WkJYODhXdTJZbEFheTkwUEJ2WkxuMnV2QlFFRFUzeTN1MEZoaGQ5RlAxWUZJWWpBczNlblZ3NzhhUXc?oc=5",
-      "description": "LIST: Here's all the food under recall in the US WUSA9",
-      "pubDate": "Mon, 24 Aug 2026 07:00:00 GMT"
-    },
-    {
       "source": "Food Safety UK & EU",
       "title": "Food Fact Check: Can you get salmonella from eggs? What you need to know. - GOV.UK blogs",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObmNwbkxtUXo5QVNIemI0M1E3M2p2bEtaVlhVS0RheWNnR21DWGMyNm1kWkZ1S3FJTnRES1UyMDdZWlZaQTlOTXUxSFdSTEJWQ0NCY2Q5MGJxTXE2SVBhYXhJYTh2cVVoZDZ5a216UUJRLXlSZk5nYU5FT0NyZ1NUYnRYXzFWSzFrRnhXRjM2OWpydDZXa0kwOW5wT2VOT21iWHc3cHJ6RGtIQ00?oc=5",
@@ -289,7 +310,7 @@
       "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Equipment & Machines",
+      "source": "HPP Cosmetics & Beauty",
       "title": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing - Nutritional Outlook",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDBoRW1EZEpqYmQ5Sm9XLVRycFVJN2gzSDNiTkNWX0taRUhvcTlIZlo4UUlvc2tUeldqZ3ZDUEw4bFpLcl9jbW10ZV9DYVpnc1daWS0tc2VyZ0sxSWxDN1llX1J0TGJ1ZUJOVjhVdHViRmg2WDRHRzJTU1Z4UnN3YnpoMkxsWENSblZZV3cwSFJwY1NyQWNGQmxPU190dw?oc=5",
       "description": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing Nutritional Outlook",
@@ -310,13 +331,6 @@
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "Handtmann marks 40 years of UK innovation - Food Manufacture",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkZPZExqWkhlWTBHaTVhckFISWlDaTNLVDhGZ0pNSGxBUDJ0SngySFF3YmtZUk1UaGltVm81MHU5TEpuZlNZdnVmRGw5NWcwcjJ1NzF3OGdLUTl5VEVzUTdqYTRpbEJyd1N5NnhkdmIxQ1U1bTExaElzX01FSnNNVDZR?oc=5",
-      "description": "Handtmann marks 40 years of UK innovation Food Manufacture",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT"
-    },
-    {
       "source": "UK HPP Industry",
       "title": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors - The Engineer",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbFYzSUNCVHQxSHhmR0RBWDNtZFNkMDZTU1FTYXlVSDI3OUtleGZBNy1wNVU4U1ViazJqcW9odzQyOGpqMUM5S2o5aHo3S2R1ZlVVZV9OMTJOaU51eGM2TUtEaEttQ3hUZHRsdWZ5d2Joc01mWmxKY01WSWo1TjYzcmNPWGdlVzU2djJBQ2JDdXVpRHRWV1ZvN2tKZ2UyVXZtU2ZDVS0wQm9NSjVGaFJ1b0lRUHlZOUcwbTZhcDZkS0txSTMxenNvR0RxYnhpUDF1Vl9kS0pZejktaVBPc1ZRMVVBaHVQTzZsY1VMVnZlVG1QeTNwWlpaT3Jn?oc=5",
@@ -329,20 +343,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
       "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
       "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Soft Cheese Recall Expands for Potential Listeria Contamination Causing Deadly Multi-State Outbreak - People.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTm9KbnBnUTBZSDNhVTVDLUNzX3RJM3F4V292aGgyVnV3VkNMT3lnemVMemwwSGlMdUFOR1ZmQWpUaFZxcDRCMzlQa19OMVUxTWN3YlFyZ0ZZR25LZHI1N0pROWVGZnByRXNZMG1hNFZHeGI4ZjJTVDctRUgtRUFFVUM1NXM1Mm50V2NxOHZR?oc=5",
-      "description": "Soft Cheese Recall Expands for Potential Listeria Contamination Causing Deadly Multi-State Outbreak People.com",
-      "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Europe Food and Beverages Market Size and Analysis, 2034 - Market Data Forecast",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFRiSl9GOVdlZHlfalNxOHk1V25kTkhPV20wU3JpbjNrLXV1VmljMjZfR0dNbEV2b3V2NjZpaDZaM3ZKYTZvazBiV3dDSkY2eWl5eWRrVUE0Z09BV2Y0bzdxLXdaeUgzN2lyTFlFLXNoVXRHQ0xsamN4S0pZeFRUSVV6c1otRzZWYlE?oc=5",
-      "description": "Europe Food and Beverages Market Size and Analysis, 2034 Market Data Forecast",
-      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
