@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T23:03:31.603046+00:00",
+  "updated": "2026-10-22T03:34:40.482381+00:00",
   "articles": [
     {
       "source": "HPP Innovation & Research",
@@ -28,6 +28,13 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWdRZzRDbGFfTjZRNHE4VW10a2JPWEVPazhDel9VT0tvTlh5NFFFYlZGbjY2RXVtSDZ4VlhCREpWbVlmU0xsNUJpOUdmMkdPZTVCRVNORlNodWVWcWF0RWMwbXpoN2doM1Y1WkQ2MW9mZF9XazAxYTZyZ0pzOENrbVFBN1lvRWtlTXUzc1h5YUwxcGNwbm5Qcl9iZW5wcDcx?oc=5",
       "description": "Salmonella outbreak linked to recalled oysters distributed to Texas and other states Houston Chronicle",
       "pubDate": "Tue, 20 Oct 2026 19:20:24 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Cheese Recall Update In 13 States As FDA Issues Highest Risk Warning - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMWFGZE9BQ09yOGtJQWVqbXFNNG1EQkJqTXhnRUhXYWJIUHEyQTNWaXBKbDdhVmhtMzJVR0NDU1RGYUtCOHg5WnV6SENiR0JWZUZ4WWlQQldDUWZyWVlfbHBLakxQendpOWVHYkJHQ2pEOFJGUE05b1hCYjhoWFlQeU9OMnZqY3dzWDhWOQ?oc=5",
+      "description": "Cheese Recall Update In 13 States As FDA Issues Highest Risk Warning Newsweek",
+      "pubDate": "Tue, 20 Oct 2026 14:57:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -72,18 +79,18 @@
       "pubDate": "Mon, 19 Oct 2026 23:56:46 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "Ice Cream From Lidl Recalled Due to Listeria Concern - Everyday Health",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUZ6U212T2EySVhueEIwT00xVUVydW1RUlB2LVNQT1FhWnlKdFgxZEdLRk5sbHhXWEwxSEJXZEVqcHZGNUtraW1ic0I2anhzSnVWZk4tMHhRLXpza1BBNjBKcnFzamZyTUR5dlQzSVdKbUVUQXlTaFZ2QXc2UXFVeUZ4eF84TEFnU0hhRkVzajU3OEtTc1czWEpqYjRHV3R1ank5YVlVQXdjS0VOeFFR?oc=5",
+      "description": "Ice Cream From Lidl Recalled Due to Listeria Concern Everyday Health",
+      "pubDate": "Mon, 19 Oct 2026 20:54:20 GMT"
+    },
+    {
       "source": "Salmonella Outbreaks",
       "title": "Biggest FDA food recalls of 2026: lettuce, eggs, more - qz.com",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlUEl4M2JJbGozdGp0V0d1RVpoTF9FUXU3NHVHVVQyYTVNSnlwSXVaNldERm52aHZqamNqZ01LSjI5T2dpTXZiNVM3Y01wYkFVUTV4ZFV0SQ?oc=5",
       "description": "Biggest FDA food recalls of 2026: lettuce, eggs, more qz.com",
       "pubDate": "Mon, 19 Oct 2026 18:20:29 GMT"
-    },
-    {
-      "source": "HPP Healthcare & Medical",
-      "title": "Bidding Ends Tomorrow in All American Equipment Auction of Food & Pharmaceutical Processing Equipment - Food Manufacturing",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTkZNNEJhN3ZITmllaXNWSWY5dzZWTE8zRHhqNk1YLUVUNnlrNjlFRktCOVFabDFqekE4WDVHY3VzNzJQREp3em0tZnVreFFMam1fSlc0SVpYYjk1Mk5nRUU3WTVTMk9maHZCZi05VVJZLXJuU29RMGdNaGxRckhIUS0xVmRUd3pxb2I1Uzdjc1J2dkNyUGFYY2Zqd0hXRnh0T3hfLWF4Z2p4Uk5WRk5CeVB0TVduWGpMcmZENEQ3Yk9lUC1HbHNPcWV6bjRvUkk2VkwxTUFNb3FBSS15V0tKMUZsTkZZOF9sVlBIWA?oc=5",
-      "description": "Bidding Ends Tomorrow in All American Equipment Auction of Food & Pharmaceutical Processing Equipment Food Manufacturing",
-      "pubDate": "Mon, 19 Oct 2026 16:28:41 GMT"
     },
     {
       "source": "HPP Soups & Meals",
@@ -98,13 +105,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSzhlMUlKTzNoNGdhU3lmdzg5Q3BENFhqM0ZNbkhFWXJoSnFfelFWUTczQUphVUI5bHBzbElrZWJsU0VseFVLY3ZwU3Z5RjZVMWVFQ3F1Yk5RclRMR1F5T0xMWjg0M2FLSGxlNUV4SjJQLTNJdDlQZEtwTHUxQnR5UHhGQ0NLeDI1R01JLXc3Q0pMRWl3V041Y3JSM3dvU1lJbE1LQVplT3AwVjhrQkxrcC1tMmt5NWlwTkVGM2tidzFYQjhpbklxYTBnSTlJMGVZZXZMbVJSeWpWRnc?oc=5",
       "description": "Study Identifies High-Pressure Processing Parameters for Effective Pathogen Reduction in Raw Chicken Food Safety Magazine",
       "pubDate": "Sat, 17 Oct 2026 10:04:28 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Salad Recall Update as Dozens of Products Given Most Serious FDA Risk Warning - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0lVZkExMjJYakZQZHRwcDc3TTZGNlhqTC1QbElMQnpTUFdmQlhNVWswdGw3SFBrVWFpTkNxQXJhdG1KeFFhTERiRWlqU25JbHJKS0tTTmpuYW5VTTVOVXNsLTFrVy13YmpCR1JQWkFlQzVwalhsV3UzTG4ydjg3WXB1R2tHQlM1RUFKWnpLQVRYOFFWaEF1WlBqLVAxbl9YTmdGcnI0OVFEV0VnS0pnU3ozenpIblFS?oc=5",
-      "description": "Salad Recall Update as Dozens of Products Given Most Serious FDA Risk Warning Newsweek",
-      "pubDate": "Thu, 15 Oct 2026 09:53:00 GMT"
     },
     {
       "source": "UK HPP Industry",
@@ -226,13 +226,6 @@
       "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "FDA Announces Nationwide Recall of Popular Pasta Sold at Walmart - Good Housekeeping",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPelhGdE51bDRsaXlrMjMtMU04b0dGeEhwbWNPWnZvM3UzalBWN1IyS1VMN3FsTG1oNDVwbGkwcVBHekdwSFpiUTR4R0hRYkg4elRGOURRSUVxalZ4OFZlaHNmOXhpSmVZa2FOYmhnNWg5cThST3didF9CS053NHFnSUJMcw?oc=5",
-      "description": "FDA Announces Nationwide Recall of Popular Pasta Sold at Walmart Good Housekeeping",
-      "pubDate": "Mon, 21 Sep 2026 07:00:00 GMT"
-    },
-    {
       "source": "Hiperbaric",
       "title": "Oklahoma State FAPC Gives Food Industry Professionals a Hands-On Look at HPP Technology - Food Safety Magazine",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdHZJOGYwRElTT3pBTFRha2VmNjU0V2FLLWZFTWNHWGp5TXN0SzltalQ5NEtEcjZHcVJGbGh1S19JYzhZWGV1U2traVpWNmRGOUMxVmtKQy1wdjk4U2JPWGtLTzZiT0dyTzVfRmt6ZzlnWnhPTDJNTXJNSFpGLVFlaXZzMGpYTXpON2NYbWF2dm9ESUZxd2dNXzdHQ182Q2RCMHptM1dDaGJjbF9MS243QW1NQWZNN0Jmc18weEdMODA2WUxvLXVtU093?oc=5",
@@ -254,13 +247,6 @@
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Equipment & Machines",
-      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM0pXdmt2NmZIcFRyQ25Ea29yVGdabk1MRHZodlh2enR0RS1QaThUUDMyaWhzYXZlN2tIODY5cHNWaGJyVW5iOXU1TFBmSkc0MWhkMmlOMF9tOS1jeWViSHNiUnA5RU1LMVFkOTdfaVQ2Y1lLSG1lM2VCYkJ2VEpTdGtINVFKTHFud3lSWWt6QkY5bDR6TzU4YzhUSWV1ZmtVZmhydHl3?oc=5",
-      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 Yahoo Finance",
-      "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
-    },
-    {
       "source": "EU HPP & Food Tech",
       "title": "Europe Pet Food Market Size, Share & Industry Report 2034 - IMARC Group",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjeWdDak84UmpjS1NON0hQZEEtWmlCVWJXUFlqQlhqSUFlWjdUNFdIZFotdkJUOERuN3NOSHNOZ0xYMTBtRDk2U184MHZkOTJYRWN4M3R3U2NxLTBuU0E?oc=5",
@@ -275,7 +261,7 @@
       "pubDate": "Tue, 01 Sep 2026 03:41:13 GMT"
     },
     {
-      "source": "HPP Innovation & Research",
+      "source": "HPP Equipment & Machines",
       "title": "FAPC to host September high-pressure processing workshop for food industry professionals - OKW News",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONnFtZ1dfdzVqMWZCMExKZmdOdGNVM2tVdmQ2akdsOUdreGZzekQyemlsVWhtcmtWb1h5cks2STJDRVZSWlNLZklDNnU3VHpLeDN0aXRpTm9remxKTmoxQW1qREdNOEtHMlN6YkdjUzBuRHpGVUZraGt1dTJwaEpQY1JiUkd0c0dCNWVfWXQwY19sVTNxNkllQlBQOUtzWHdiTEVmY1RqTXR1WE5pWFlsZzVkeWx0UDJaZl9jbzR3eTJTUQ?oc=5",
       "description": "FAPC to host September high-pressure processing workshop for food industry professionals OKW News",
@@ -350,6 +336,20 @@
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbFYzSUNCVHQxSHhmR0RBWDNtZFNkMDZTU1FTYXlVSDI3OUtleGZBNy1wNVU4U1ViazJqcW9odzQyOGpqMUM5S2o5aHo3S2R1ZlVVZV9OMTJOaU51eGM2TUtEaEttQ3hUZHRsdWZ5d2Joc01mWmxKY01WSWo1TjYzcmNPWGdlVzU2djJBQ2JDdXVpRHRWV1ZvN2tKZ2UyVXZtU2ZDVS0wQm9NSjVGaFJ1b0lRUHlZOUcwbTZhcDZkS0txSTMxenNvR0RxYnhpUDF1Vl9kS0pZejktaVBPc1ZRMVVBaHVQTzZsY1VMVnZlVG1QeTNwWlpaT3Jn?oc=5",
       "description": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors The Engineer",
       "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "CAFRE student scoops success with Dale Farm placement - Department of Agriculture, Environment and Rural Affairs",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY3VtQjF6bjdGNWluREU0S1dBbEJ4cGlkb3VJZHRvWmFFRkd4cmVDZWlCbkVCVEdJZWRzSThEbkwydXBBNHo1TXN2amUtdEhYU1RLUWY0aldKdU8zVDdidnFIWXV6b3owTVdUVnJwU1pYUDhZbmp1YWEtOU9ELUVqZWVvSjVHNVZI?oc=5",
+      "description": "CAFRE student scoops success with Dale Farm placement Department of Agriculture, Environment and Rural Affairs",
+      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Seafood",
+      "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
+      "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
+      "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
     }
   ]
 }
