@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T14:41:29.216458+00:00",
+  "updated": "2026-10-23T19:48:38.582459+00:00",
   "articles": [
     {
       "source": "HPP Soups & Meals",
@@ -65,6 +65,13 @@
       "pubDate": "Thu, 22 Oct 2026 04:01:00 GMT"
     },
     {
+      "source": "HPP Innovation & Research",
+      "title": "New Food Processing Technology at UGA Helps Georgia Food Businesses Innovate and Grow - Morning Ag Clips",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYUR5ampCdVZMeHN3bUJBczh3aHhXVnZoSGpDcU80LXBBaENzLWxHWTZLbVdQVWZuWHNXTkdqS1E2SFpfOWlYSXZNRFNqZG5PZkJNRk9nRDR6aGxJVF8xMUtZVnJTU2xfSVVzc2YyYUVJeWt0TEcxcmF0RzdZdENVN1dMOVRuYXJGNElQRWdtcXAyOWJDZVlsLW56ZW5NZXhsanpZZmVSQ1dPQ2pOdlMzZW9hNmRJSXlC?oc=5",
+      "description": "New Food Processing Technology at UGA Helps Georgia Food Businesses Innovate and Grow Morning Ag Clips",
+      "pubDate": "Wed, 21 Oct 2026 13:06:09 GMT"
+    },
+    {
       "source": "Listeria Outbreaks",
       "title": "Cheese Recall Update In 13 States As FDA Issues Highest Risk Warning - Newsweek",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMWFGZE9BQ09yOGtJQWVqbXFNNG1EQkJqTXhnRUhXYWJIUHEyQTNWaXBKbDdhVmhtMzJVR0NDU1RGYUtCOHg5WnV6SENiR0JWZUZ4WWlQQldDUWZyWVlfbHBLakxQendpOWVHYkJHQ2pEOFJGUE05b1hCYjhoWFlQeU9OMnZqY3dzWDhWOQ?oc=5",
@@ -114,13 +121,6 @@
       "pubDate": "Mon, 19 Oct 2026 11:23:02 GMT"
     },
     {
-      "source": "HPP Healthcare & Medical",
-      "title": "Study Identifies High-Pressure Processing Parameters for Effective Pathogen Reduction in Raw Chicken - Food Safety Magazine",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSzhlMUlKTzNoNGdhU3lmdzg5Q3BENFhqM0ZNbkhFWXJoSnFfelFWUTczQUphVUI5bHBzbElrZWJsU0VseFVLY3ZwU3Z5RjZVMWVFQ3F1Yk5RclRMR1F5T0xMWjg0M2FLSGxlNUV4SjJQLTNJdDlQZEtwTHUxQnR5UHhGQ0NLeDI1R01JLXc3Q0pMRWl3V041Y3JSM3dvU1lJbE1LQVplT3AwVjhrQkxrcC1tMmt5NWlwTkVGM2tidzFYQjhpbklxYTBnSTlJMGVZZXZMbVJSeWpWRnc?oc=5",
-      "description": "Study Identifies High-Pressure Processing Parameters for Effective Pathogen Reduction in Raw Chicken Food Safety Magazine",
-      "pubDate": "Sat, 17 Oct 2026 10:04:28 GMT"
-    },
-    {
       "source": "UK HPP Industry",
       "title": "Event: HPP Innovation Summit - Business Cornwall",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb2J2Wk5zX0dsekRzbHhzZUFJVWF4MHU1eUs2UFpxRldPbUhkeUNTTnJOUURzNFFCbzlIUVJ4dndxYjVZMkZSczFQNTM2WmNydVFjbEVvcF9tVHdsWGxtT3RSQ0d1aE1rTlF3TktVVHZoTEtpUHFaZFVHOWx5M3FlUGd2TU5PX0xDX1BDTW5KQWk0cU1GckxEbTNTNkRKdndZ?oc=5",
@@ -164,16 +164,16 @@
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "Greencore pulls products from Tesco and M&S due to Salmonella risk - Food Manufacture",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZjJaOUZycUxvd2pvNkI1WklQdF94ck5uQ3N4d2U2R0tzSUZGVnNIbUV6dXdKNHA0T3cyQ0Zidmw2NzNLQjhvYnp4dkNLUFZzejZnMVFaTnpLQjlMTVY5c1NjcjhwOWwzVDBFakZQUEM2Ql9sVnNpQllWV09DUDhVcUdhNXpzMXViaTdhc1IyZGhGb2NWaGVBV0ZEZ0pWZGdabks1ZE9kNElYQ2tja2RiU3VmcE9CU2VkT2Q1WVdnQUIyazdqWUljUzJZYVF0WEd0WkdWYUN2X0lsdw?oc=5",
-      "description": "Greencore pulls products from Tesco and M&S due to Salmonella risk Food Manufacture",
+      "title": "UK supermarkets issue urgent 'do not eat' warning over salmonella concerns - Oxford Mail",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdFl3MDlKWXFBODdYb1VKam9kNVBBeHBKZmlGNmZIQktvcjh0N0t0ZldqdEFDekJQU2tfRTBQOVRseXRCVFBENVhFa0k5V29TVlBqQXlPWHRoc2twWHpIMXk3S3lqbjFsdi1sWW5ockNmSFNveUZQWW96RDNXNDFHeElsYjZ5Q2gyRU4yLXptaDVKRkFCY0NrVEFraw?oc=5",
+      "description": "UK supermarkets issue urgent 'do not eat' warning over salmonella concerns Oxford Mail",
       "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
-      "title": "UK supermarkets issue urgent 'do not eat' warning over salmonella concerns - Oxford Mail",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdFl3MDlKWXFBODdYb1VKam9kNVBBeHBKZmlGNmZIQktvcjh0N0t0ZldqdEFDekJQU2tfRTBQOVRseXRCVFBENVhFa0k5V29TVlBqQXlPWHRoc2twWHpIMXk3S3lqbjFsdi1sWW5ockNmSFNveUZQWW96RDNXNDFHeElsYjZ5Q2gyRU4yLXptaDVKRkFCY0NrVEFraw?oc=5",
-      "description": "UK supermarkets issue urgent 'do not eat' warning over salmonella concerns Oxford Mail",
+      "title": "Greencore pulls products from Tesco and M&S due to Salmonella risk - Food Manufacture",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZjJaOUZycUxvd2pvNkI1WklQdF94ck5uQ3N4d2U2R0tzSUZGVnNIbUV6dXdKNHA0T3cyQ0Zidmw2NzNLQjhvYnp4dkNLUFZzejZnMVFaTnpLQjlMTVY5c1NjcjhwOWwzVDBFakZQUEM2Ql9sVnNpQllWV09DUDhVcUdhNXpzMXViaTdhc1IyZGhGb2NWaGVBV0ZEZ0pWZGdabks1ZE9kNElYQ2tja2RiU3VmcE9CU2VkT2Q1WVdnQUIyazdqWUljUzJZYVF0WEd0WkdWYUN2X0lsdw?oc=5",
+      "description": "Greencore pulls products from Tesco and M&S due to Salmonella risk Food Manufacture",
       "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
     },
     {
@@ -219,6 +219,13 @@
       "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT"
     },
     {
+      "source": "HPP Healthcare & Medical",
+      "title": "Study Identifies High-Pressure Processing Parameters for Effective Pathogen Reduction in Raw Chicken - Food Safety Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSzhlMUlKTzNoNGdhU3lmdzg5Q3BENFhqM0ZNbkhFWXJoSnFfelFWUTczQUphVUI5bHBzbElrZWJsU0VseFVLY3ZwU3Z5RjZVMWVFQ3F1Yk5RclRMR1F5T0xMWjg0M2FLSGxlNUV4SjJQLTNJdDlQZEtwTHUxQnR5UHhGQ0NLeDI1R01JLXc3Q0pMRWl3V041Y3JSM3dvU1lJbE1LQVplT3AwVjhrQkxrcC1tMmt5NWlwTkVGM2tidzFYQjhpbklxYTBnSTlJMGVZZXZMbVJSeWpWRnc?oc=5",
+      "description": "Study Identifies High-Pressure Processing Parameters for Effective Pathogen Reduction in Raw Chicken Food Safety Magazine",
+      "pubDate": "Thu, 24 Sep 2026 09:07:40 GMT"
+    },
+    {
       "source": "Listeria Outbreaks",
       "title": "Gias Foods recalls bettergoods pasta sold at Walmart due to potential Listeria contamination. Check your freezer. - Facebook",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOU9IVGtjbHl2Tk9ONjlxeU52c0dRRzF6UzNVV1Z4RllDY2E2NTRxOVRheGVZNTBpbFZ1MjZWR1kzZXdRbGtKNFFQYV9rakpmZmo3aFJUQTN4bVFCb01QN2ZFc1d3WHFmaFJnTFl6TnV1UnlqR2VwblR6SmY2cXlSVDN1T1pLeWx6X2thZ1laSUVuYndwM0JGbDNEdHFxdkJ3MTRELWNjcWZ3Y2t0emtYZEh3SHZwWEhxRFZkZUZkYm1hcEhKZi1PcXZRb2lHazR4aTYzUllCSmg0dw?oc=5",
@@ -248,9 +255,9 @@
     },
     {
       "source": "Hiperbaric",
-      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM0pXdmt2NmZIcFRyQ25Ea29yVGdabk1MRHZodlh2enR0RS1QaThUUDMyaWhzYXZlN2tIODY5cHNWaGJyVW5iOXU1TFBmSkc0MWhkMmlOMF9tOS1jeWViSHNiUnA5RU1LMVFkOTdfaVQ2Y1lLSG1lM2VCYkJ2VEpTdGtINVFKTHFud3lSWWt6QkY5bDR6TzU4YzhUSWV1ZmtVZmhydHl3?oc=5",
-      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 Yahoo Finance",
+      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTXZyd2stTWhCMDlUT1Y5Nk5TZlFLdnlRbjMzaTBEZ3ljeW80RTB6ZEI5T0xfOVh0b0Yxd0hWV1BiWGhHSnVQRjVTRU94eXBBaTk3d29hZ0xTNHA5dFpfaHN1SnlINkltYnJYN0Q2ZXVZZTE4NkJZZXlxdEpLd0w3UWJxRm0wWG5FbkNjWlp0b2g0MzJNbFVBRDZvbG05NHI2REVpNFZMX0lHLTEzSHA1R0hpSzF0QnR1OTVYU0pPLUhXYjBqZlQxOFg2NWVIS1JRNDllRjhLemVfakVLUUhEOW9MWDNxQ3ZFU2REVVg2Q1ZGZWE3RjZfVFFwY1JxeF93M2Fsdmx4SQ?oc=5",
+      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 PR Newswire",
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
@@ -261,10 +268,10 @@
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Cosmetics & Beauty",
-      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTXZyd2stTWhCMDlUT1Y5Nk5TZlFLdnlRbjMzaTBEZ3ljeW80RTB6ZEI5T0xfOVh0b0Yxd0hWV1BiWGhHSnVQRjVTRU94eXBBaTk3d29hZ0xTNHA5dFpfaHN1SnlINkltYnJYN0Q2ZXVZZTE4NkJZZXlxdEpLd0w3UWJxRm0wWG5FbkNjWlp0b2g0MzJNbFVBRDZvbG05NHI2REVpNFZMX0lHLTEzSHA1R0hpSzF0QnR1OTVYU0pPLUhXYjBqZlQxOFg2NWVIS1JRNDllRjhLemVfakVLUUhEOW9MWDNxQ3ZFU2REVVg2Q1ZGZWE3RjZfVFFwY1JxeF93M2Fsdmx4SQ?oc=5",
-      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 PR Newswire",
+      "source": "HPP Innovation & Research",
+      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM0pXdmt2NmZIcFRyQ25Ea29yVGdabk1MRHZodlh2enR0RS1QaThUUDMyaWhzYXZlN2tIODY5cHNWaGJyVW5iOXU1TFBmSkc0MWhkMmlOMF9tOS1jeWViSHNiUnA5RU1LMVFkOTdfaVQ2Y1lLSG1lM2VCYkJ2VEpTdGtINVFKTHFud3lSWWt6QkY5bDR6TzU4YzhUSWV1ZmtVZmhydHl3?oc=5",
+      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 Yahoo Finance",
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
@@ -343,13 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM29NRXg0WXVha25KbzRLcm9zV0dRUG81ZVhpaGllbzdRR0FyVm1uVDBtVTZkR01tR1VKck56c2xxSC0yRDB1bUsyajAyd19Eb1I4UWRtY0VMVU9VNFlrWGJDSzdDQms0T0VwbE04WWl1V2k5b3cxZmVCSXZPUlg3OTI5Uzh1b2ZPRUhhZ0t6ckhqdHhhQVhfdzVJaVI1dEUtRy1OZERuMGwzY3RUdTc0UUZadFRKVU1JRmFWQVFwZHg3UWc0U3drMUVvZmY?oc=5",
       "description": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts TCT Magazine",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK HPP Industry",
-      "title": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors - The Engineer",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbFYzSUNCVHQxSHhmR0RBWDNtZFNkMDZTU1FTYXlVSDI3OUtleGZBNy1wNVU4U1ViazJqcW9odzQyOGpqMUM5S2o5aHo3S2R1ZlVVZV9OMTJOaU51eGM2TUtEaEttQ3hUZHRsdWZ5d2Joc01mWmxKY01WSWo1TjYzcmNPWGdlVzU2djJBQ2JDdXVpRHRWV1ZvN2tKZ2UyVXZtU2ZDVS0wQm9NSjVGaFJ1b0lRUHlZOUcwbTZhcDZkS0txSTMxenNvR0RxYnhpUDF1Vl9kS0pZejktaVBPc1ZRMVVBaHVQTzZsY1VMVnZlVG1QeTNwWlpaT3Jn?oc=5",
-      "description": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors The Engineer",
-      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT"
     }
   ]
 }
