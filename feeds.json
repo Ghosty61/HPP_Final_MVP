@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T07:19:27.865903+00:00",
+  "updated": "2026-10-25T12:59:17.437330+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -52,6 +52,13 @@
     },
     {
       "source": "Salmonella Outbreaks",
+      "title": "27 People Are Sick & 5 Hospitalized In A Multistate Raw Oyster Recall - Delish",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeDhrYXpjMmhBeUJZV1BncHBrVTNWQ1Z6N0dfOFFxNS1hdzlTMzhPZkNsbGQ0VHdha0xZemtldzJmbk5yV205eEtzaG5QS1MwdWdBb2V0TENkdi05czJCZWFWRzdPal80RzdHdTJDcE1qRVduenluLVZDdjJ6S2piT0Rvbm1IclNyV1ktbC1IbzhTdw?oc=5",
+      "description": "27 People Are Sick & 5 Hospitalized In A Multistate Raw Oyster Recall Delish",
+      "pubDate": "Thu, 22 Oct 2026 18:23:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
       "title": "Little Wicomico River Oyster Salmonella Outbreak: Virginia Now Counts 55 Sick in 19 States, the Newest Illness Began October 6 — Inside the Recall Window — and Publix Sold the Oysters as James River Oysters Through October 14. What to Do if You Ate R - Food Poison Journal",
       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPNTBkb1hjeHNCbXVTaGQycjdTZ2tMYlNxN1JwaEJOUFdFZHJZNXNMeEZ4c1Q0WkdQYk1wSldLX1hMY0lCa3V2SGhfVUNGSHp3TlpaT0stWU5UNDJPVEo5bFRJN0hhZEZBNlJMSDYtSUpKWVZqTmxkZWsxYnVDVm8xc0ZtMlFTRWpvZVV5dWNVNVdhcF9yWHg5cjN0SmJ5Ry1VUGd2aXBTM3NJdURwSWEzUl9JeV8yRk5Bc0tWRTIyeVMyaHNNOE5nUjJlS2xfLV83VFZOZXJBbzdNOFRXc29vRFNONExoVFIxbmdBck9xam5tVXJxU1BjUFM0VV9qcXZnekJTSjVEdUlCNEJZZWRpeFRXTGtrZVFOQy1MSDNWNkZHWThpUUJUa0lDUUg3cGxjQm53Rmtfc1EtN29uMTRVREVzZ1hsdHJfd2I5OGx6QQ?oc=5",
       "description": "Little Wicomico River Oyster Salmonella Outbreak: Virginia Now Counts 55 Sick in 19 States, the Newest Illness Began October 6 — Inside the Recall Window — and Publix Sold the Oysters as James River Oysters Through October 14. What to Do if You Ate R Food Poison Journal",
@@ -98,13 +105,6 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3bkk2N0I4LXBxT3BuZW1JZl8yZGVpSlB0Q3pBY0xnMm5jZGNpbHlET1duU2t2NmRjaGFVLXNVM1VBbnBEUS1sQnF4VEdKYV9NS3ljWUNEOGtwUkR5OHZEa2FzRmw1OWF4Ql9yenM0SQ?oc=5",
       "description": "Salmonella Outbreak Associated With Oysters Virginia Department of Health (.gov)",
       "pubDate": "Tue, 20 Oct 2026 12:40:04 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Salmonella Outbreak Linked to Little Wicomico River Oysters: 27 Sick in 12 States, and Every Illness Began Before the Recall Window Opened - Marler Blog",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOYkYyb19oZXBPWHlTMG01a3dqYklXSjU4Z2xrNW5nUzJLcGM2ZDVqVG9uckpodkFfWVpZWGZKUVRLdExDcmlwd2VLUjI1OEFKcnl2NnlPQnZGbDI2Z1dieUppM3IzZlV0cDJJWDBkSVZOcmxROEJ6VzgyOE1rS0o1SkRZUUc0cE16c19IT3BwUU9KMzc3LVV0VS1YWkVRejJHNVBhN0k5T2V5ZTktcDBtWnE2UzlQblhYZ3NFajNLOHVVLThuSEZ2Z1l5aENBdnhyREtnVXFELUxCWnlhcTJJamZ2Zk5wZGg5b1BWX1pfSFg5TEtJYmx5Z2hLNE4yZ0ZkanhiaQ?oc=5",
-      "description": "Salmonella Outbreak Linked to Little Wicomico River Oysters: 27 Sick in 12 States, and Every Illness Began Before the Recall Window Opened Marler Blog",
-      "pubDate": "Tue, 20 Oct 2026 01:55:54 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -226,13 +226,6 @@
       "pubDate": "Wed, 23 Sep 2026 14:27:14 GMT"
     },
     {
-      "source": "Hiperbaric",
-      "title": "TTT Group to launch HIP business with Hiperbaric HIP 107 - Metal Additive Manufacturing magazine",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd180QUsweXIyMGJXNHp5NEV5THk3dUc5bkt5YkVXbExSbEVyVzB3azNKMVBqZVdPRnBlNnJFQmhHSHN2UWd6M1N6eUN5LUhJMHNvUGxJam5jb2RUS0xDaXlCYTJVLTJUZi1UM0JETHpGa0JCTDVuQUNKVC1sYktLZkpGSW9uY05RV1E?oc=5",
-      "description": "TTT Group to launch HIP business with Hiperbaric HIP 107 Metal Additive Manufacturing magazine",
-      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT"
-    },
-    {
       "source": "UK Food Industry",
       "title": "Multivac UK to open new CX and innovation centre in Manchester - Food Manufacture",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWmc2cnZsZzY5X0VacGx5ZjQ2VF9jMFBzQ3ExVkhYMVhJd0t2ZlppYlZ1dDBnaG1UTGdkeDVDUmRNaXhsOGtYejV6c1VvRkcxYkZPMUxVM3NSLWNseHBYc3UxVUJxT08tc3A3Wm5BMzdtb0JUTVJJN0R0TFNQMlVrZkRPamo2U1VVaC1FX2J6OHBnYUhKOGhsRUhjZlFQVEZZTDgwbThwQ0VldzQxQjA1eEN0Q0FWQ3VsSms3R2ZHNklzMGhoNmM0?oc=5",
@@ -248,9 +241,9 @@
     },
     {
       "source": "Hiperbaric",
-      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTXZyd2stTWhCMDlUT1Y5Nk5TZlFLdnlRbjMzaTBEZ3ljeW80RTB6ZEI5T0xfOVh0b0Yxd0hWV1BiWGhHSnVQRjVTRU94eXBBaTk3d29hZ0xTNHA5dFpfaHN1SnlINkltYnJYN0Q2ZXVZZTE4NkJZZXlxdEpLd0w3UWJxRm0wWG5FbkNjWlp0b2g0MzJNbFVBRDZvbG05NHI2REVpNFZMX0lHLTEzSHA1R0hpSzF0QnR1OTVYU0pPLUhXYjBqZlQxOFg2NWVIS1JRNDllRjhLemVfakVLUUhEOW9MWDNxQ3ZFU2REVVg2Q1ZGZWE3RjZfVFFwY1JxeF93M2Fsdmx4SQ?oc=5",
-      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 PR Newswire",
+      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM0pXdmt2NmZIcFRyQ25Ea29yVGdabk1MRHZodlh2enR0RS1QaThUUDMyaWhzYXZlN2tIODY5cHNWaGJyVW5iOXU1TFBmSkc0MWhkMmlOMF9tOS1jeWViSHNiUnA5RU1LMVFkOTdfaVQ2Y1lLSG1lM2VCYkJ2VEpTdGtINVFKTHFud3lSWWt6QkY5bDR6TzU4YzhUSWV1ZmtVZmhydHl3?oc=5",
+      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 Yahoo Finance",
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
@@ -261,18 +254,11 @@
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Innovation & Research",
-      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM0pXdmt2NmZIcFRyQ25Ea29yVGdabk1MRHZodlh2enR0RS1QaThUUDMyaWhzYXZlN2tIODY5cHNWaGJyVW5iOXU1TFBmSkc0MWhkMmlOMF9tOS1jeWViSHNiUnA5RU1LMVFkOTdfaVQ2Y1lLSG1lM2VCYkJ2VEpTdGtINVFKTHFud3lSWWt6QkY5bDR6TzU4YzhUSWV1ZmtVZmhydHl3?oc=5",
-      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 Yahoo Finance",
+      "source": "HPP Cosmetics & Beauty",
+      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTXZyd2stTWhCMDlUT1Y5Nk5TZlFLdnlRbjMzaTBEZ3ljeW80RTB6ZEI5T0xfOVh0b0Yxd0hWV1BiWGhHSnVQRjVTRU94eXBBaTk3d29hZ0xTNHA5dFpfaHN1SnlINkltYnJYN0Q2ZXVZZTE4NkJZZXlxdEpLd0w3UWJxRm0wWG5FbkNjWlp0b2g0MzJNbFVBRDZvbG05NHI2REVpNFZMX0lHLTEzSHA1R0hpSzF0QnR1OTVYU0pPLUhXYjBqZlQxOFg2NWVIS1JRNDllRjhLemVfakVLUUhEOW9MWDNxQ3ZFU2REVVg2Q1ZGZWE3RjZfVFFwY1JxeF93M2Fsdmx4SQ?oc=5",
+      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 PR Newswire",
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Europe Pet Food Market Size, Share & Industry Report 2034 - IMARC Group",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjeWdDak84UmpjS1NON0hQZEEtWmlCVWJXUFlqQlhqSUFlWjdUNFdIZFotdkJUOERuN3NOSHNOZ0xYMTBtRDk2U184MHZkOTJYRWN4M3R3U2NxLTBuU0E?oc=5",
-      "description": "Europe Pet Food Market Size, Share & Industry Report 2034 IMARC Group",
-      "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Equipment & Machines",
@@ -338,17 +324,31 @@
       "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "Hiperbaric EU",
+      "source": "Hiperbaric",
       "title": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts - TCT Magazine",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM29NRXg0WXVha25KbzRLcm9zV0dRUG81ZVhpaGllbzdRR0FyVm1uVDBtVTZkR01tR1VKck56c2xxSC0yRDB1bUsyajAyd19Eb1I4UWRtY0VMVU9VNFlrWGJDSzdDQms0T0VwbE04WWl1V2k5b3cxZmVCSXZPUlg3OTI5Uzh1b2ZPRUhhZ0t6ckhqdHhhQVhfdzVJaVI1dEUtRy1OZERuMGwzY3RUdTc0UUZadFRKVU1JRmFWQVFwZHg3UWc0U3drMUVvZmY?oc=5",
       "description": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts TCT Magazine",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
+      "source": "EU HPP & Food Tech",
+      "title": "The EU tightens controls on Listeria, presents the food industry with new challenges - FoodBev Media",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFBHSGtUQzUwd29fU2Mxa2xzWVNwYTJMeEVldnVlS3Y5dU5nT3MxSEtCRDE3QS1EWXBHcXFfZXRFMkdmeHNRaXg3OUJFWjA5cTh4Y0VncDRJUDI2ZzE1RDFHWU5qVHFSd3l0aV9Sc1VWMnp2bC1veDJ5Ylp6dUtXQ0lqWWZmR1hCX1ZMSE9sNi1maFdTdHFvSmVmc1BUWmxGVTNiOHg0WnpuRi04SnhqRlBxZVh3QQ?oc=5",
+      "description": "The EU tightens controls on Listeria, presents the food industry with new challenges FoodBev Media",
+      "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT"
+    },
+    {
       "source": "UK HPP Industry",
       "title": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors - The Engineer",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbFYzSUNCVHQxSHhmR0RBWDNtZFNkMDZTU1FTYXlVSDI3OUtleGZBNy1wNVU4U1ViazJqcW9odzQyOGpqMUM5S2o5aHo3S2R1ZlVVZV9OMTJOaU51eGM2TUtEaEttQ3hUZHRsdWZ5d2Joc01mWmxKY01WSWo1TjYzcmNPWGdlVzU2djJBQ2JDdXVpRHRWV1ZvN2tKZ2UyVXZtU2ZDVS0wQm9NSjVGaFJ1b0lRUHlZOUcwbTZhcDZkS0txSTMxenNvR0RxYnhpUDF1Vl9kS0pZejktaVBPc1ZRMVVBaHVQTzZsY1VMVnZlVG1QeTNwWlpaT3Jn?oc=5",
       "description": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors The Engineer",
+      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK Food Industry",
+      "title": "CAFRE student scoops success with Dale Farm placement - Department of Agriculture, Environment and Rural Affairs",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY3VtQjF6bjdGNWluREU0S1dBbEJ4cGlkb3VJZHRvWmFFRkd4cmVDZWlCbkVCVEdJZWRzSThEbkwydXBBNHo1TXN2amUtdEhYU1RLUWY0aldKdU8zVDdidnFIWXV6b3owTVdUVnJwU1pYUDhZbmp1YWEtOU9ELUVqZWVvSjVHNVZI?oc=5",
+      "description": "CAFRE student scoops success with Dale Farm placement Department of Agriculture, Environment and Rural Affairs",
       "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT"
     }
   ]
