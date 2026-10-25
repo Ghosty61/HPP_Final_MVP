@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-25T00:01:29.976424+00:00",
+  "updated": "2026-10-25T07:19:27.865903+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Publisher's Platform: USDA finally on the record; names Trader Joe's in E. coli outbreak",
+      "link": "https://www.foodsafetynews.com/2026/10/publishers-platform-usda-finally-on-the-record-names-trader-joes-in-e-coli-outbreak/",
+      "description": "Naming the product cost the government nothing on Oct. 23. It would have cost nothing on Sept. 23.",
+      "pubDate": "Sun, 25 Oct 2026 01:49:05 GMT"
+    },
     {
       "source": "Salmonella Outbreaks",
       "title": "CDC Tracking 5 Active Food-Borne Outbreaks Tied to Oysters, Cheese, Sprouts - Contagion Live",
@@ -44,6 +51,13 @@
       "pubDate": "Thu, 22 Oct 2026 23:22:00 GMT"
     },
     {
+      "source": "Salmonella Outbreaks",
+      "title": "Little Wicomico River Oyster Salmonella Outbreak: Virginia Now Counts 55 Sick in 19 States, the Newest Illness Began October 6 — Inside the Recall Window — and Publix Sold the Oysters as James River Oysters Through October 14. What to Do if You Ate R - Food Poison Journal",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPNTBkb1hjeHNCbXVTaGQycjdTZ2tMYlNxN1JwaEJOUFdFZHJZNXNMeEZ4c1Q0WkdQYk1wSldLX1hMY0lCa3V2SGhfVUNGSHp3TlpaT0stWU5UNDJPVEo5bFRJN0hhZEZBNlJMSDYtSUpKWVZqTmxkZWsxYnVDVm8xc0ZtMlFTRWpvZVV5dWNVNVdhcF9yWHg5cjN0SmJ5Ry1VUGd2aXBTM3NJdURwSWEzUl9JeV8yRk5Bc0tWRTIyeVMyaHNNOE5nUjJlS2xfLV83VFZOZXJBbzdNOFRXc29vRFNONExoVFIxbmdBck9xam5tVXJxU1BjUFM0VV9qcXZnekJTSjVEdUlCNEJZZWRpeFRXTGtrZVFOQy1MSDNWNkZHWThpUUJUa0lDUUg3cGxjQm53Rmtfc1EtN29uMTRVREVzZ1hsdHJfd2I5OGx6QQ?oc=5",
+      "description": "Little Wicomico River Oyster Salmonella Outbreak: Virginia Now Counts 55 Sick in 19 States, the Newest Illness Began October 6 — Inside the Recall Window — and Publix Sold the Oysters as James River Oysters Through October 14. What to Do if You Ate R Food Poison Journal",
+      "pubDate": "Thu, 22 Oct 2026 15:01:20 GMT"
+    },
+    {
       "source": "HPP Soups & Meals",
       "title": "Odysea expands into the ready meal category - Grocery Gazette",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQajhFc1VuNkdQWUpIZ2lSU0REcU9ZSmVpbk1zZ2ZraG13WTFhek9EUnp6Y2pCMmhuRUlTSExORFp2N05rUFJETEF2VklfVFp4d1RiZ1hMbkx5dnVENXNqNUljb3JTNVdyNVUwUjRMcW5BQVp0amFscjdaMVNSMDZtY2hRdkxnaUdMWTQ2cEdDdDhGQQ?oc=5",
@@ -65,13 +79,6 @@
       "pubDate": "Thu, 22 Oct 2026 04:03:00 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Project results add to Ciguatera knowledge in Europe",
-      "link": "https://www.foodsafetynews.com/2026/10/project-results-add-to-ciguatera-knowledge-in-europe/",
-      "description": "Researchers analyzing the occurrence of Ciguatera poisoning cases and outbreaks in Europe have found the risk is only partially characterized. The second EuroCigua project looked at the surveillance and control of ciguatera poisoning, which is associated with consumption of fish products. Ciguatoxin is produced by a type of microalgae that",
-      "pubDate": "Thu, 22 Oct 2026 04:01:00 GMT"
-    },
-    {
       "source": "HPP Innovation & Research",
       "title": "New Food Processing Technology at UGA Helps Georgia Food Businesses Innovate and Grow - Morning Ag Clips",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYUR5ampCdVZMeHN3bUJBczh3aHhXVnZoSGpDcU80LXBBaENzLWxHWTZLbVdQVWZuWHNXTkdqS1E2SFpfOWlYSXZNRFNqZG5PZkJNRk9nRDR6aGxJVF8xMUtZVnJTU2xfSVVzc2YyYUVJeWt0TEcxcmF0RzdZdENVN1dMOVRuYXJGNElQRWdtcXAyOWJDZVlsLW56ZW5NZXhsanpZZmVSQ1dPQ2pOdlMzZW9hNmRJSXlC?oc=5",
@@ -91,13 +98,6 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3bkk2N0I4LXBxT3BuZW1JZl8yZGVpSlB0Q3pBY0xnMm5jZGNpbHlET1duU2t2NmRjaGFVLXNVM1VBbnBEUS1sQnF4VEdKYV9NS3ljWUNEOGtwUkR5OHZEa2FzRmw1OWF4Ql9yenM0SQ?oc=5",
       "description": "Salmonella Outbreak Associated With Oysters Virginia Department of Health (.gov)",
       "pubDate": "Tue, 20 Oct 2026 12:40:04 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Oyster Recall Map Shows States Impacted by Salmonella Outbreak - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWF9tLWxhcV9YNXV4ZU5MSnRtem1OX3FNb1ZJV2FWdW52MmVJWGhRMHB0Z01ZTWcxVmNvS3BCUW02OUg3MDN0X21hMXpuSlRHZW9pS0xGRXdLNXFBWkVWY3RhQ2dIcHFoaWhjRnl0VHlNRjdpc0hMRkRuSFVqUXUzQnhMam1ZRHZ6NDFMU2tR?oc=5",
-      "description": "Oyster Recall Map Shows States Impacted by Salmonella Outbreak Newsweek",
-      "pubDate": "Tue, 20 Oct 2026 11:09:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -191,6 +191,13 @@
       "pubDate": "Fri, 02 Oct 2026 11:21:46 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "New Listeria outbreak under investigation - Food Safety News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEllcmhpQUI1dm9DMElaSHhYMF8yc2tYUVJHVnl6d2NCWmlTaDNKSzBuYmNlcFVEakliRWh1MXRHUVVhNTJZT2VLWldDS3RaY1BNdXh5WUY3TENUc3RaZjFxNzZ0VmUxZWdJTWQ1YkI2R3dzdVROWkx0bjRWcWJPTlBtMVFfanpp?oc=5",
+      "description": "New Listeria outbreak under investigation Food Safety News",
+      "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Meat & Deli",
       "title": "High-Pressure Processing Tames Dangerous Bacteria in Raw Beef Pet Food - Bioengineer.org",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlJjUFR5MThYcU1JOWQwcjF4ODlxb2p6Sy15aF9KdzVyT1gtaFE4QVhNWExvSXBsUmhfZWQ1WHAyd1FTV0JUalhaSzFjQm9VVTg5ZGNfZTBWSUMzYWc3VGRnMjFEc2h3dEg4VTh6QVczZ1cwT0ZGbXdHcXhWamhRdjVQaVdBamxkallBR1lIQ3BsUFBQazViTjFhaw?oc=5",
@@ -206,24 +213,10 @@
     },
     {
       "source": "HPP Healthcare & Medical",
-      "title": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 - Fortune Business Insights",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEYwb0FKSE1PSTZtQ1IwTHB1ZHBIbzhSc1piZnR6VTRpODRIaDRUaUx1cGZEVldYT0FjSkdEQ0tpNWVITDZ2eXl5TC1IOFM0V0Qwd0ZLaG9RSlp0WXI5V3NEV0pCYTg5RHFIb0NjOWVmcFVxU0ZILVhHdS10cWVtTk5qTVNfcVk?oc=5",
-      "description": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 Fortune Business Insights",
-      "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Healthcare & Medical",
       "title": "Study Identifies High-Pressure Processing Parameters for Effective Pathogen Reduction in Raw Chicken - Food Safety Magazine",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSzhlMUlKTzNoNGdhU3lmdzg5Q3BENFhqM0ZNbkhFWXJoSnFfelFWUTczQUphVUI5bHBzbElrZWJsU0VseFVLY3ZwU3Z5RjZVMWVFQ3F1Yk5RclRMR1F5T0xMWjg0M2FLSGxlNUV4SjJQLTNJdDlQZEtwTHUxQnR5UHhGQ0NLeDI1R01JLXc3Q0pMRWl3V041Y3JSM3dvU1lJbE1LQVplT3AwVjhrQkxrcC1tMmt5NWlwTkVGM2tidzFYQjhpbklxYTBnSTlJMGVZZXZMbVJSeWpWRnc?oc=5",
       "description": "Study Identifies High-Pressure Processing Parameters for Effective Pathogen Reduction in Raw Chicken Food Safety Magazine",
       "pubDate": "Thu, 24 Sep 2026 09:07:40 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Gias Foods recalls bettergoods pasta sold at Walmart due to potential Listeria contamination. Check your freezer. - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOU9IVGtjbHl2Tk9ONjlxeU52c0dRRzF6UzNVV1Z4RllDY2E2NTRxOVRheGVZNTBpbFZ1MjZWR1kzZXdRbGtKNFFQYV9rakpmZmo3aFJUQTN4bVFCb01QN2ZFc1d3WHFmaFJnTFl6TnV1UnlqR2VwblR6SmY2cXlSVDN1T1pLeWx6X2thZ1laSUVuYndwM0JGbDNEdHFxdkJ3MTRELWNjcWZ3Y2t0emtYZEh3SHZwWEhxRFZkZUZkYm1hcEhKZi1PcXZRb2lHazR4aTYzUllCSmg0dw?oc=5",
-      "description": "Gias Foods recalls bettergoods pasta sold at Walmart due to potential Listeria contamination. Check your freezer. Facebook",
-      "pubDate": "Thu, 24 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Meat & Deli",
@@ -255,9 +248,9 @@
     },
     {
       "source": "Hiperbaric",
-      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM0pXdmt2NmZIcFRyQ25Ea29yVGdabk1MRHZodlh2enR0RS1QaThUUDMyaWhzYXZlN2tIODY5cHNWaGJyVW5iOXU1TFBmSkc0MWhkMmlOMF9tOS1jeWViSHNiUnA5RU1LMVFkOTdfaVQ2Y1lLSG1lM2VCYkJ2VEpTdGtINVFKTHFud3lSWWt6QkY5bDR6TzU4YzhUSWV1ZmtVZmhydHl3?oc=5",
-      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 Yahoo Finance",
+      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTXZyd2stTWhCMDlUT1Y5Nk5TZlFLdnlRbjMzaTBEZ3ljeW80RTB6ZEI5T0xfOVh0b0Yxd0hWV1BiWGhHSnVQRjVTRU94eXBBaTk3d29hZ0xTNHA5dFpfaHN1SnlINkltYnJYN0Q2ZXVZZTE4NkJZZXlxdEpLd0w3UWJxRm0wWG5FbkNjWlp0b2g0MzJNbFVBRDZvbG05NHI2REVpNFZMX0lHLTEzSHA1R0hpSzF0QnR1OTVYU0pPLUhXYjBqZlQxOFg2NWVIS1JRNDllRjhLemVfakVLUUhEOW9MWDNxQ3ZFU2REVVg2Q1ZGZWE3RjZfVFFwY1JxeF93M2Fsdmx4SQ?oc=5",
+      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 PR Newswire",
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
@@ -268,11 +261,18 @@
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Cosmetics & Beauty",
-      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTXZyd2stTWhCMDlUT1Y5Nk5TZlFLdnlRbjMzaTBEZ3ljeW80RTB6ZEI5T0xfOVh0b0Yxd0hWV1BiWGhHSnVQRjVTRU94eXBBaTk3d29hZ0xTNHA5dFpfaHN1SnlINkltYnJYN0Q2ZXVZZTE4NkJZZXlxdEpLd0w3UWJxRm0wWG5FbkNjWlp0b2g0MzJNbFVBRDZvbG05NHI2REVpNFZMX0lHLTEzSHA1R0hpSzF0QnR1OTVYU0pPLUhXYjBqZlQxOFg2NWVIS1JRNDllRjhLemVfakVLUUhEOW9MWDNxQ3ZFU2REVVg2Q1ZGZWE3RjZfVFFwY1JxeF93M2Fsdmx4SQ?oc=5",
-      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 PR Newswire",
+      "source": "HPP Innovation & Research",
+      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM0pXdmt2NmZIcFRyQ25Ea29yVGdabk1MRHZodlh2enR0RS1QaThUUDMyaWhzYXZlN2tIODY5cHNWaGJyVW5iOXU1TFBmSkc0MWhkMmlOMF9tOS1jeWViSHNiUnA5RU1LMVFkOTdfaVQ2Y1lLSG1lM2VCYkJ2VEpTdGtINVFKTHFud3lSWWt6QkY5bDR6TzU4YzhUSWV1ZmtVZmhydHl3?oc=5",
+      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 Yahoo Finance",
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Europe Pet Food Market Size, Share & Industry Report 2034 - IMARC Group",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjeWdDak84UmpjS1NON0hQZEEtWmlCVWJXUFlqQlhqSUFlWjdUNFdIZFotdkJUOERuN3NOSHNOZ0xYMTBtRDk2U184MHZkOTJYRWN4M3R3U2NxLTBuU0E?oc=5",
+      "description": "Europe Pet Food Market Size, Share & Industry Report 2034 IMARC Group",
+      "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Equipment & Machines",
@@ -324,13 +324,6 @@
       "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "High Pressure Gas Testing Facility - EU Science Hub",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSVNYODdqdWxyVE9XSmR0SnRfazhnYW1hMWQzbmVXbWV2UXIxVXp6eTJLb2FjU3ZQTTJCa0N3Q25vRFNKQkZabndOZ3pqNFROYnBvRnRhZENzQzdEU09GUlBlWm5FQU8wX1pSaUJXdVIwWlJjWkNUaHJDSHVQZ3B1cTdjUzdyUUlWSGc0Rm41aUdseXBubDdLUGZaWmNWd1E4UUgzQWdGaw?oc=5",
-      "description": "High Pressure Gas Testing Facility EU Science Hub",
-      "pubDate": "Tue, 18 Aug 2026 17:15:50 GMT"
-    },
-    {
       "source": "HPP Equipment & Machines",
       "title": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing - Nutritional Outlook",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDBoRW1EZEpqYmQ5Sm9XLVRycFVJN2gzSDNiTkNWX0taRUhvcTlIZlo4UUlvc2tUeldqZ3ZDUEw4bFpLcl9jbW10ZV9DYVpnc1daWS0tc2VyZ0sxSWxDN1llX1J0TGJ1ZUJOVjhVdHViRmg2WDRHRzJTU1Z4UnN3YnpoMkxsWENSblZZV3cwSFJwY1NyQWNGQmxPU190dw?oc=5",
@@ -345,11 +338,18 @@
       "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "Hiperbaric",
+      "source": "Hiperbaric EU",
       "title": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts - TCT Magazine",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM29NRXg0WXVha25KbzRLcm9zV0dRUG81ZVhpaGllbzdRR0FyVm1uVDBtVTZkR01tR1VKck56c2xxSC0yRDB1bUsyajAyd19Eb1I4UWRtY0VMVU9VNFlrWGJDSzdDQms0T0VwbE04WWl1V2k5b3cxZmVCSXZPUlg3OTI5Uzh1b2ZPRUhhZ0t6ckhqdHhhQVhfdzVJaVI1dEUtRy1OZERuMGwzY3RUdTc0UUZadFRKVU1JRmFWQVFwZHg3UWc0U3drMUVvZmY?oc=5",
       "description": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts TCT Magazine",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK HPP Industry",
+      "title": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors - The Engineer",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbFYzSUNCVHQxSHhmR0RBWDNtZFNkMDZTU1FTYXlVSDI3OUtleGZBNy1wNVU4U1ViazJqcW9odzQyOGpqMUM5S2o5aHo3S2R1ZlVVZV9OMTJOaU51eGM2TUtEaEttQ3hUZHRsdWZ5d2Joc01mWmxKY01WSWo1TjYzcmNPWGdlVzU2djJBQ2JDdXVpRHRWV1ZvN2tKZ2UyVXZtU2ZDVS0wQm9NSjVGaFJ1b0lRUHlZOUcwbTZhcDZkS0txSTMxenNvR0RxYnhpUDF1Vl9kS0pZejktaVBPc1ZRMVVBaHVQTzZsY1VMVnZlVG1QeTNwWlpaT3Jn?oc=5",
+      "description": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors The Engineer",
+      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT"
     }
   ]
 }
