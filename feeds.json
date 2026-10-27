@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T22:21:19.625737+00:00",
+  "updated": "2026-10-27T03:58:14.043778+00:00",
   "articles": [
     {
       "source": "HPP Equipment & Machines",
@@ -44,13 +44,6 @@
       "pubDate": "Fri, 23 Oct 2026 21:24:48 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Salmonella Outbreak Associated With Oysters - Virginia Department of Health (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3bkk2N0I4LXBxT3BuZW1JZl8yZGVpSlB0Q3pBY0xnMm5jZGNpbHlET1duU2t2NmRjaGFVLXNVM1VBbnBEUS1sQnF4VEdKYV9NS3ljWUNEOGtwUkR5OHZEa2FzRmw1OWF4Ql9yenM0SQ?oc=5",
-      "description": "Salmonella Outbreak Associated With Oysters Virginia Department of Health (.gov)",
-      "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Soups & Meals",
       "title": "Odysea Enters Ready-Meal Market With New Pasta Range At Sainsbury’s - KamCity",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSTF2bDhja01pVHFFNlZtNHRxZm5uN0lCaHlqdF94MVlOWEp1RmJtMi1fX2dDZ25vUktfRWEyNHZ2U2xIRFdyb2VFQW82T0VkeUxDSXAwdFpmNzdDdmpGWVJ6QjNjSzQ3OVh3MlQ2M3dfVWdrTnVoc0FraVNta2YzZDZNYkZFRzQ5V1R4TjhTenJ4cmtydFVwNTlrS1FueWlXM2VTcG5Ka3RBTWRydkJuRFhUTlplS21WRnBv?oc=5",
@@ -93,25 +86,18 @@
       "pubDate": "Thu, 22 Oct 2026 13:50:24 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Multistate Salmonella outbreak linked to Virginia raw oysters sickens 27 people - FOX 5 New York",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWpRQ1g4cGdYSkpRd20xeXlmd19aYXJzS1BfLWprTzVUU0FRZS1DMllRNXFtNUItR3VYVDlwN3ZxSmlHMFFkZUJ3VDhFZUNVSVYtbUhFbm9pNkQzV0YwcDFHTEVvVF9IeF96ZElKQkFkNmdtNWtKSnJJV0pEZWZoMFVwWml5cHNLZ21uZFNuU1l4YlR5QWhmd09Fc2dfOGZScDhSOFMzMjA?oc=5",
-      "description": "Multistate Salmonella outbreak linked to Virginia raw oysters sickens 27 people FOX 5 New York",
-      "pubDate": "Wed, 21 Oct 2026 17:22:03 GMT"
-    },
-    {
-      "source": "HPP Innovation & Research",
-      "title": "New Food Processing Technology at UGA Helps Georgia Food Businesses Innovate and Grow - Morning Ag Clips",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYUR5ampCdVZMeHN3bUJBczh3aHhXVnZoSGpDcU80LXBBaENzLWxHWTZLbVdQVWZuWHNXTkdqS1E2SFpfOWlYSXZNRFNqZG5PZkJNRk9nRDR6aGxJVF8xMUtZVnJTU2xfSVVzc2YyYUVJeWt0TEcxcmF0RzdZdENVN1dMOVRuYXJGNElQRWdtcXAyOWJDZVlsLW56ZW5NZXhsanpZZmVSQ1dPQ2pOdlMzZW9hNmRJSXlC?oc=5",
-      "description": "New Food Processing Technology at UGA Helps Georgia Food Businesses Innovate and Grow Morning Ag Clips",
-      "pubDate": "Wed, 21 Oct 2026 13:06:09 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "Cheese Recall Update In 13 States As FDA Issues Highest Risk Warning - Newsweek",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMWFGZE9BQ09yOGtJQWVqbXFNNG1EQkJqTXhnRUhXYWJIUHEyQTNWaXBKbDdhVmhtMzJVR0NDU1RGYUtCOHg5WnV6SENiR0JWZUZ4WWlQQldDUWZyWVlfbHBLakxQendpOWVHYkJHQ2pEOFJGUE05b1hCYjhoWFlQeU9OMnZqY3dzWDhWOQ?oc=5",
       "description": "Cheese Recall Update In 13 States As FDA Issues Highest Risk Warning Newsweek",
       "pubDate": "Tue, 20 Oct 2026 14:57:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Salmonella Outbreak Associated With Oysters - Virginia Department of Health (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3bkk2N0I4LXBxT3BuZW1JZl8yZGVpSlB0Q3pBY0xnMm5jZGNpbHlET1duU2t2NmRjaGFVLXNVM1VBbnBEUS1sQnF4VEdKYV9NS3ljWUNEOGtwUkR5OHZEa2FzRmw1OWF4Ql9yenM0SQ?oc=5",
+      "description": "Salmonella Outbreak Associated With Oysters Virginia Department of Health (.gov)",
+      "pubDate": "Tue, 20 Oct 2026 12:40:26 GMT"
     },
     {
       "source": "UK HPP Industry",
@@ -240,13 +226,6 @@
       "pubDate": "Wed, 23 Sep 2026 14:27:14 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "Multivac UK to open new CX and innovation centre in Manchester - Food Manufacture",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWmc2cnZsZzY5X0VacGx5ZjQ2VF9jMFBzQ3ExVkhYMVhJd0t2ZlppYlZ1dDBnaG1UTGdkeDVDUmRNaXhsOGtYejV6c1VvRkcxYkZPMUxVM3NSLWNseHBYc3UxVUJxT08tc3A3Wm5BMzdtb0JUTVJJN0R0TFNQMlVrZkRPamo2U1VVaC1FX2J6OHBnYUhKOGhsRUhjZlFQVEZZTDgwbThwQ0VldzQxQjA1eEN0Q0FWQ3VsSms3R2ZHNklzMGhoNmM0?oc=5",
-      "description": "Multivac UK to open new CX and innovation centre in Manchester Food Manufacture",
-      "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
-    },
-    {
       "source": "Hiperbaric",
       "title": "Oklahoma State FAPC Gives Food Industry Professionals a Hands-On Look at HPP Technology - Food Safety Magazine",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdHZJOGYwRElTT3pBTFRha2VmNjU0V2FLLWZFTWNHWGp5TXN0SzltalQ5NEtEcjZHcVJGbGh1S19JYzhZWGV1U2traVpWNmRGOUMxVmtKQy1wdjk4U2JPWGtLTzZiT0dyTzVfRmt6ZzlnWnhPTDJNTXJNSFpGLVFlaXZzMGpYTXpON2NYbWF2dm9ESUZxd2dNXzdHQ182Q2RCMHptM1dDaGJjbF9MS243QW1NQWZNN0Jmc18weEdMODA2WUxvLXVtU093?oc=5",
@@ -255,16 +234,16 @@
     },
     {
       "source": "Hiperbaric",
-      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTXZyd2stTWhCMDlUT1Y5Nk5TZlFLdnlRbjMzaTBEZ3ljeW80RTB6ZEI5T0xfOVh0b0Yxd0hWV1BiWGhHSnVQRjVTRU94eXBBaTk3d29hZ0xTNHA5dFpfaHN1SnlINkltYnJYN0Q2ZXVZZTE4NkJZZXlxdEpLd0w3UWJxRm0wWG5FbkNjWlp0b2g0MzJNbFVBRDZvbG05NHI2REVpNFZMX0lHLTEzSHA1R0hpSzF0QnR1OTVYU0pPLUhXYjBqZlQxOFg2NWVIS1JRNDllRjhLemVfakVLUUhEOW9MWDNxQ3ZFU2REVVg2Q1ZGZWE3RjZfVFFwY1JxeF93M2Fsdmx4SQ?oc=5",
-      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 PR Newswire",
-      "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Equipment & Machines",
       "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM0pXdmt2NmZIcFRyQ25Ea29yVGdabk1MRHZodlh2enR0RS1QaThUUDMyaWhzYXZlN2tIODY5cHNWaGJyVW5iOXU1TFBmSkc0MWhkMmlOMF9tOS1jeWViSHNiUnA5RU1LMVFkOTdfaVQ2Y1lLSG1lM2VCYkJ2VEpTdGtINVFKTHFud3lSWWt6QkY5bDR6TzU4YzhUSWV1ZmtVZmhydHl3?oc=5",
       "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 Yahoo Finance",
+      "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric EU",
+      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTXZyd2stTWhCMDlUT1Y5Nk5TZlFLdnlRbjMzaTBEZ3ljeW80RTB6ZEI5T0xfOVh0b0Yxd0hWV1BiWGhHSnVQRjVTRU94eXBBaTk3d29hZ0xTNHA5dFpfaHN1SnlINkltYnJYN0Q2ZXVZZTE4NkJZZXlxdEpLd0w3UWJxRm0wWG5FbkNjWlp0b2g0MzJNbFVBRDZvbG05NHI2REVpNFZMX0lHLTEzSHA1R0hpSzF0QnR1OTVYU0pPLUhXYjBqZlQxOFg2NWVIS1JRNDllRjhLemVfakVLUUhEOW9MWDNxQ3ZFU2REVVg2Q1ZGZWE3RjZfVFFwY1JxeF93M2Fsdmx4SQ?oc=5",
+      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 PR Newswire",
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
@@ -275,7 +254,21 @@
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Innovation & Research",
+      "source": "EU HPP & Food Tech",
+      "title": "Europe Pet Food Market Size, Share & Industry Report 2034 - IMARC Group",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjeWdDak84UmpjS1NON0hQZEEtWmlCVWJXUFlqQlhqSUFlWjdUNFdIZFotdkJUOERuN3NOSHNOZ0xYMTBtRDk2U184MHZkOTJYRWN4M3R3U2NxLTBuU0E?oc=5",
+      "description": "Europe Pet Food Market Size, Share & Industry Report 2034 IMARC Group",
+      "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "How is salmonella contaminating so many things? What to know from a food safety expert - PBS",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR190d3dMVE03R01pSnQwZ3ZoR2xfdFp5ZVVkMk1pamJmdGs0QXBTdDN1REpsTEdxaG43VXZEZlNzeVROV25MVDVuWEE4cGZnMUs0TjFPdGRQNzRrZ3N6NVFCZDV3NENlbWxlVUJmaU9SQk5mQVByakVEMUVnQXcyRkVyUHhpRTllMG5COWN4SURLTXZ5UXZFcm41OGlDZEZiQ0l0SWVOUDNRRXcwV21GMm1YQkNzU2tOZjZxQTdR?oc=5",
+      "description": "How is salmonella contaminating so many things? What to know from a food safety expert PBS",
+      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Equipment & Machines",
       "title": "FAPC to host September high-pressure processing workshop for food industry professionals - OKW News",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONnFtZ1dfdzVqMWZCMExKZmdOdGNVM2tVdmQ2akdsOUdreGZzekQyemlsVWhtcmtWb1h5cks2STJDRVZSWlNLZklDNnU3VHpLeDN0aXRpTm9remxKTmoxQW1qREdNOEtHMlN6YkdjUzBuRHpGVUZraGt1dTJwaEpQY1JiUkd0c0dCNWVfWXQwY19sVTNxNkllQlBQOUtzWHdiTEVmY1RqTXR1WE5pWFlsZzVkeWx0UDJaZl9jbzR3eTJTUQ?oc=5",
       "description": "FAPC to host September high-pressure processing workshop for food industry professionals OKW News",
@@ -324,13 +317,6 @@
       "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "High Pressure Gas Testing Facility - EU Science Hub",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSVNYODdqdWxyVE9XSmR0SnRfazhnYW1hMWQzbmVXbWV2UXIxVXp6eTJLb2FjU3ZQTTJCa0N3Q25vRFNKQkZabndOZ3pqNFROYnBvRnRhZENzQzdEU09GUlBlWm5FQU8wX1pSaUJXdVIwWlJjWkNUaHJDSHVQZ3B1cTdjUzdyUUlWSGc0Rm41aUdseXBubDdLUGZaWmNWd1E4UUgzQWdGaw?oc=5",
-      "description": "High Pressure Gas Testing Facility EU Science Hub",
-      "pubDate": "Tue, 18 Aug 2026 17:15:50 GMT"
-    },
-    {
       "source": "HPP Healthcare & Medical",
       "title": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing - Nutritional Outlook",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDBoRW1EZEpqYmQ5Sm9XLVRycFVJN2gzSDNiTkNWX0taRUhvcTlIZlo4UUlvc2tUeldqZ3ZDUEw4bFpLcl9jbW10ZV9DYVpnc1daWS0tc2VyZ0sxSWxDN1llX1J0TGJ1ZUJOVjhVdHViRmg2WDRHRzJTU1Z4UnN3YnpoMkxsWENSblZZV3cwSFJwY1NyQWNGQmxPU190dw?oc=5",
@@ -350,6 +336,20 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM29NRXg0WXVha25KbzRLcm9zV0dRUG81ZVhpaGllbzdRR0FyVm1uVDBtVTZkR01tR1VKck56c2xxSC0yRDB1bUsyajAyd19Eb1I4UWRtY0VMVU9VNFlrWGJDSzdDQms0T0VwbE04WWl1V2k5b3cxZmVCSXZPUlg3OTI5Uzh1b2ZPRUhhZ0t6ckhqdHhhQVhfdzVJaVI1dEUtRy1OZERuMGwzY3RUdTc0UUZadFRKVU1JRmFWQVFwZHg3UWc0U3drMUVvZmY?oc=5",
       "description": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts TCT Magazine",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "The EU tightens controls on Listeria, presents the food industry with new challenges - FoodBev Media",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFBHSGtUQzUwd29fU2Mxa2xzWVNwYTJMeEVldnVlS3Y5dU5nT3MxSEtCRDE3QS1EWXBHcXFfZXRFMkdmeHNRaXg3OUJFWjA5cTh4Y0VncDRJUDI2ZzE1RDFHWU5qVHFSd3l0aV9Sc1VWMnp2bC1veDJ5Ylp6dUtXQ0lqWWZmR1hCX1ZMSE9sNi1maFdTdHFvSmVmc1BUWmxGVTNiOHg0WnpuRi04SnhqRlBxZVh3QQ?oc=5",
+      "description": "The EU tightens controls on Listeria, presents the food industry with new challenges FoodBev Media",
+      "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "UK HPP Industry",
+      "title": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors - The Engineer",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbFYzSUNCVHQxSHhmR0RBWDNtZFNkMDZTU1FTYXlVSDI3OUtleGZBNy1wNVU4U1ViazJqcW9odzQyOGpqMUM5S2o5aHo3S2R1ZlVVZV9OMTJOaU51eGM2TUtEaEttQ3hUZHRsdWZ5d2Joc01mWmxKY01WSWo1TjYzcmNPWGdlVzU2djJBQ2JDdXVpRHRWV1ZvN2tKZ2UyVXZtU2ZDVS0wQm9NSjVGaFJ1b0lRUHlZOUcwbTZhcDZkS0txSTMxenNvR0RxYnhpUDF1Vl9kS0pZejktaVBPc1ZRMVVBaHVQTzZsY1VMVnZlVG1QeTNwWlpaT3Jn?oc=5",
+      "description": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors The Engineer",
+      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT"
     }
   ]
 }
