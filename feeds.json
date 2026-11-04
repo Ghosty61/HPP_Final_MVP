@@ -1,26 +1,47 @@
 {
-  "updated": "2026-11-04T00:24:46.137497+00:00",
+  "updated": "2026-11-04T08:41:43.289525+00:00",
   "articles": [
     {
-      "source": "Food Safety UK & EU",
-      "title": "The latest product recalls and safety alerts from Which? - Which?",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnZEdm8tLUMxdlpRajZ4bGZ1eE5nRElJdGtTVDB5R0hMcWxoV2NIV1BvSkNsY3BUaGl6TzV2cXZSdEZWV0JOenZseW5icmxadFBZcERkOGpMb3BjaGJrN241Q1VCeWw1TldCMjBscEtfTzkwM2tsTTJyQlI0VkFaVWRseVZObmoycnRFaXJkQlY?oc=5",
-      "description": "The latest product recalls and safety alerts from Which? Which?",
-      "pubDate": "Sun, 01 Nov 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Budget 2026: The packaging and processing industry reacts - Sustainable Packaging News",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5rUWowRzVYX3d6cTFUOF9qOFhRNVBBSUtzSVFsLU1sdXA4ZDd6OXBtXzhSVTUzbXdlNDhuRGJtUE5yUFhibFHSAVBBVV95cUxQajRLYU5mN2xHb0NpVnBieXVHS1FVNFFWLVpUMExaeTNZck1nM2tEbzRwYUFPejlsM0E2b3lXS3FneTBWZ0lBVGJxaGlKLXp5Qg?oc=5",
-      "description": "Budget 2026: The packaging and processing industry reacts Sustainable Packaging News",
-      "pubDate": "Fri, 30 Oct 2026 11:33:36 GMT"
+      "source": "Food Safety News",
+      "title": "UK records two raw milk outbreaks",
+      "link": "https://www.foodsafetynews.com/2026/11/uk-records-two-raw-milk-outbreaks/",
+      "description": "One of the outbreaks involved Cryptosporidium while Shiga toxin-producing E. coli (STEC) was behind the other.",
+      "pubDate": "Wed, 04 Nov 2026 05:05:00 GMT"
     },
     {
       "source": "Food Safety News",
-      "title": "FDA declares end to outbreak linked to Trader Joe's chicken wraps; a new outbreak is under investigation",
-      "link": "https://www.foodsafetynews.com/2026/10/fda-report-says-outbreak-linked-to-trader-joes-chicken-wraps-has-ended-a-new-outbreak-is-under-investigation/",
-      "description": "Also: The FDA has posted a heavily redacted summary of its investigation into one of this summer's Cyclospora outbreaks.",
-      "pubDate": "Thu, 29 Oct 2026 04:05:00 GMT"
+      "title": "Congresswoman has concerns about sale of infant formula company",
+      "link": "https://www.foodsafetynews.com/2026/11/congresswoman-has-concerns-about-sale-of-infant-formula-company/",
+      "description": "The brother sister duo whose company was behind the largest ever outbreak of infant botulism is planning to buy another infant formula company. A statement from MeridianMade, a new company founded and led by ByHeart co-founders Ron Belldegrun and Mia Funt, says they plan to buy Dublin-based Perrigo",
+      "pubDate": "Wed, 04 Nov 2026 05:03:00 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Slovenia sees rise in E. coli but fall in Salmonella cases",
+      "link": "https://www.foodsafetynews.com/2026/11/slovenia-sees-rise-in-e-coli-but-fall-in-salmonella-cases/",
+      "description": "A waterborne outbreak involved multiple pathogens with 777 people sick",
+      "pubDate": "Wed, 04 Nov 2026 05:01:00 GMT"
+    },
+    {
+      "source": "HPP Soups & Meals",
+      "title": "World Food Product Machinery Manufacturing - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT0VXNDdmZFVsQXIwNlFTZS1HcUx4dFVWa0dLVjE4bGlySUh3dVZHa3BIOUVkZ3ZjbkxicG5uYnVnLXpnVGlTcU5fZUlfbng5WC1FenNHQVozWlhtWFEwM0NNNkpGa3NJSGEyZFpNek16RG80MUVKMmRwOTJlcUlLMy12UEpQSkhDVUtwdTQ1NHpYNUo4dDI1N05tbm5La2pVcVFlYWhiNHBpaDhkOHlKU3A3aFg3N0NhOWVZSmd4LVdoMld1RHFqN29uLXI1enBzenZtVXhwQklMSHEzemc?oc=5",
+      "description": "World Food Product Machinery Manufacturing - Market Analysis, Forecast, Size, Trends and Insights IndexBox",
+      "pubDate": "Tue, 03 Nov 2026 00:31:04 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
+      "title": "On the Beat: Salmonella Outbreaks in Europe - Food Safety News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd2RxZmVfcl85bjlfR1g5ZjNaMDA2RkgtMGgxbG1Xb2JGb3FsMk5hbXAxNEYzbm1IYWFmeXZ1UjlJNWtyWVE1NzI1enlpT1JoR0lyczNHb2xBdjU4ZldTVHp2YVotQ0hlRXdCcEhLaEQxOHQxdFNSeHJvcVphTWNodXZ5OTdzei1HY05n?oc=5",
+      "description": "On the Beat: Salmonella Outbreaks in Europe Food Safety News",
+      "pubDate": "Sun, 01 Nov 2026 02:52:37 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Botulism, Salmonella, E. Coli, Listeria Prompt Food Recalls Across U.S.: Recall Roundup New Safety Recalls, - Patch",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeFoyTEUyNnZTNS1oSUhZVkxTdjM1eVc3MFk3MkxCSjdLZ0FnNVZucXNRWExuWDlEWjVPeUZiSVotRks4SzA4RENLWm9UbUYwTmFzdk8xT0p0ZDY4TTR1cVVrWDJmU2hHamdmR0piZlZqUXFVS3pOY3E5cFc2ZEN5UkxzRTdRbFV0Rl9XcmRFaFlNRExJRnpTTl80cFpnMDEwTnIxQ2xFa3pKNWNqQVVzeFVZVlBhVVRl0gHjAUFVX3lxTFBBblZuckZFMjctcFBUUTdOUXVYS3BoR3pjUkdRSHdNeGpnQV9oWTMweGdUbTVRNlNzSV81XzQtLVpWZVpodUx0Vl9FS1RiTW11dmlhSkh6Q1ZvVnRoeHRqY3JKa0dkalF2R1FaVW1TV3ZZZlduSXVRWW5DaW4xZ0QzS0drMFFDS2hzeDFPcVJuRFB0WnZHQ2x1cVp6T0J0bEswVE1wZjQ4SDJhUEZRU1NWWTc4ckJ5NFZ4SEdOOWVUak9UT2FtTmt4WHR6N29IekZVWWtMeUJITUs3NnoyTEV2cm80?oc=5",
+      "description": "Botulism, Salmonella, E. Coli, Listeria Prompt Food Recalls Across U.S.: Recall Roundup New Safety Recalls, Patch",
+      "pubDate": "Fri, 30 Oct 2026 13:55:56 GMT"
     },
     {
       "source": "HPP Juices & Beverages",
@@ -30,11 +51,11 @@
       "pubDate": "Wed, 28 Oct 2026 07:17:29 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "Canned Fruit From Walmart Recalled Due to Potential Lead Contamination - Everyday Health",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM2c5Z0NxNDJRMTJUTlhNTUtEZWlneXdBanhPb2ltOHhoSVQ5MGlTRlZOSzdoekVGb3ZGTUZTTTNFY2pTZ2FLeTl1RUpxRWJnUEl4Tk00Nzc3VnBhd3JTVS1SYmcwSkhpd0RYeXdqZ2RnYkJoUVZreUgzckROclpZeVEzM0xYSVl3U2l5ZFpvbld2NEV0VWVhV3B1YWg3Q0R1cWtOaEVIVjRGS19OUFVQSUVLencwLXJ6?oc=5",
-      "description": "Canned Fruit From Walmart Recalled Due to Potential Lead Contamination Everyday Health",
-      "pubDate": "Tue, 27 Oct 2026 07:12:49 GMT"
+      "source": "HPP Soups & Meals",
+      "title": "Back to Winning Women Asia-Pacific Class of 2025 - EY",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZEFBTmlEaVBMdWtfTjFyU0VobGxuNHlwWURDZl9paWdPTjNLRHY0Zk1hSEF6by00ZFprSTN0T1lJd0xnQzNTYjNEbFJJVVBjaE9kV21sem1VNWFxWFRjaTU0ejJHZ0NhZU1za3ZHdEdoODlqYkZlLUNLRlFRNkZxdXVfdmZ1ajN1bTFkcWhlSUdjaU9K?oc=5",
+      "description": "Back to Winning Women Asia-Pacific Class of 2025 EY",
+      "pubDate": "Tue, 27 Oct 2026 04:48:25 GMT"
     },
     {
       "source": "Quintus Technologies",
@@ -48,7 +69,28 @@
       "title": "Innovative food processing technique boosts Nebraska companies, educational outreach - Nebraska Today",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSENlZnBvRnYycmFPODBIT18zbVdscWF4dFN4YW5paXhHRlNNT2dzdVlocjFnZTNQT3liVTFKWmdJcFE2ZEtaYkp0eXVPTTh6UDFKY3VmV0s0RkdDdnVvbzZFU2lsSXI0Q21Vc1BWZXFEb3YwWTVEWG5mVFh4R3V4WTM3aUl0MUhCNGdvZ01OVFRxOEhYNUoyY0ZQaHdSbHhDUDdNM1BIS09vaUNkR2E5Smpn?oc=5",
       "description": "Innovative food processing technique boosts Nebraska companies, educational outreach Nebraska Today",
-      "pubDate": "Mon, 26 Oct 2026 05:01:51 GMT"
+      "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Texas food recalls down in 2026 despite Cyclospora lettuce outbreak - KWTX",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYjMtZDZSN3hPSTZHajZyaG00eHBpdmtiVEFwMmFNRzQzUUU0OTNXTEkzdlVEMVVVUllRYm0tenBvSTg5OEJ6NFhBNk5zTmRPVXpjTkZtSW14QjRkVkpPUVFuR2VEWGV2TEVXNE9XTnNXcDR1TS1uMmNRdGRjQzE2TTd6ZzhMVFZDa0FqM0Q3bDFuOVd2OVpXVklVMHNWZ9IBsgFBVV95cUxOWHRRT2Z3cHJSZ1pCLUxXY1FIVmdmaWVvNF9IZ2JCaXBnUzR2dGxmV0JuMm0tR3Q0VlNkMGsweXI1Q3p4dGlyNjRqOXI4UFd1cnNmMEZINUlPZWRxbExxdlFOUm43SVVhRTVBaXFwamRtSWgxUEdOMWxjcWZhMWlWNTh3ZXp0SVp3RTdpeUE1YTUwWVBxc3V1d1Q5dTZUVU95Z2RPaHREdUZtOW1fODBJdEtn?oc=5",
+      "description": "Texas food recalls down in 2026 despite Cyclospora lettuce outbreak KWTX",
+      "pubDate": "Thu, 22 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Innovation & Research",
+      "title": "New Food Processing Technology at UGA Helps Georgia Food Businesses Innovate and Grow - Morning Ag Clips",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYUR5ampCdVZMeHN3bUJBczh3aHhXVnZoSGpDcU80LXBBaENzLWxHWTZLbVdQVWZuWHNXTkdqS1E2SFpfOWlYSXZNRFNqZG5PZkJNRk9nRDR6aGxJVF8xMUtZVnJTU2xfSVVzc2YyYUVJeWt0TEcxcmF0RzdZdENVN1dMOVRuYXJGNElQRWdtcXAyOWJDZVlsLW56ZW5NZXhsanpZZmVSQ1dPQ2pOdlMzZW9hNmRJSXlC?oc=5",
+      "description": "New Food Processing Technology at UGA Helps Georgia Food Businesses Innovate and Grow Morning Ag Clips",
+      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Cheese Recall Update In 13 States As FDA Issues Highest Risk Warning - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMWFGZE9BQ09yOGtJQWVqbXFNNG1EQkJqTXhnRUhXYWJIUHEyQTNWaXBKbDdhVmhtMzJVR0NDU1RGYUtCOHg5WnV6SENiR0JWZUZ4WWlQQldDUWZyWVlfbHBLakxQendpOWVHYkJHQ2pEOFJGUE05b1hCYjhoWFlQeU9OMnZqY3dzWDhWOQ?oc=5",
+      "description": "Cheese Recall Update In 13 States As FDA Issues Highest Risk Warning Newsweek",
+      "pubDate": "Tue, 20 Oct 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -58,10 +100,10 @@
       "pubDate": "Mon, 19 Oct 2026 16:29:36 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "Meet the finalists of the Fi Europe Innovation Awards 2026 - Ingredients Network",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdDNVWVUycWx4Q0JnVXFCdGJJUFI1ajdjcFgwQzFtYnpMbHNJS3dtbFBVWmtfcE12RW5mZWl3SUE0QW94Z3lfRl9BTHY3OWRDZzdMeUhwNkJvM2hING9BTHBwbWMzamFUQ2ZfSVNKRm9Hdk5IQzVaVngwVHlKVXk4OGc1dTdoQnpXS1UwSlBhTkFVVGs1a1d6d1BEMzR3UQ?oc=5",
-      "description": "Meet the finalists of the Fi Europe Innovation Awards 2026 Ingredients Network",
+      "source": "UK HPP Industry",
+      "title": "Event: HPP Innovation Summit - Business Cornwall",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb2J2Wk5zX0dsekRzbHhzZUFJVWF4MHU1eUs2UFpxRldPbUhkeUNTTnJOUURzNFFCbzlIUVJ4dndxYjVZMkZSczFQNTM2WmNydVFjbEVvcF9tVHdsWGxtT3RSQ0d1aE1rTlF3TktVVHZoTEtpUHFaZFVHOWx5M3FlUGd2TU5PX0xDX1BDTW5KQWk0cU1GckxEbTNTNkRKdndZ?oc=5",
+      "description": "Event: HPP Innovation Summit Business Cornwall",
       "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT"
     },
     {
@@ -93,18 +135,25 @@
       "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
     },
     {
+      "source": "Food Safety UK & EU",
+      "title": "UK supermarkets issue urgent 'do not eat' warning over salmonella concerns - Oxford Mail",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdFl3MDlKWXFBODdYb1VKam9kNVBBeHBKZmlGNmZIQktvcjh0N0t0ZldqdEFDekJQU2tfRTBQOVRseXRCVFBENVhFa0k5V29TVlBqQXlPWHRoc2twWHpIMXk3S3lqbjFsdi1sWW5ockNmSFNveUZQWW96RDNXNDFHeElsYjZ5Q2gyRU4yLXptaDVKRkFCY0NrVEFraw?oc=5",
+      "description": "UK supermarkets issue urgent 'do not eat' warning over salmonella concerns Oxford Mail",
+      "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Clover Hill Dairy Requesón Listeria Outbreak Is Over: 15 Sick, 14 Hospitalized, 1 Dead in Four States - Marler Clark",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ1Z4SVMzMTdnajR4RU1sNm92UjNCNnV3SlA4T1NEVG9YSTFna1BpOE0zVGxxLWV1cjd5NENTY19VNEpYaUo5TkNuQ0NjaEZncDV4UmV0aE54R2hLWUZBWk4wQ1FVdG1DWjhvZjA2bWV3UjJXTXBpcjQzSUVlT2w0RDJlM1g4c3VWbzVXbTZaMmpzOHhyNldUT1RtLTEzMW9QYjlscy14Y2FwZ0xIcDJva0g5bU9oZkRLeXJVX0pPZm9yLVFJYnhobVFXRURtZnM?oc=5",
+      "description": "Clover Hill Dairy Requesón Listeria Outbreak Is Over: 15 Sick, 14 Hospitalized, 1 Dead in Four States Marler Clark",
+      "pubDate": "Thu, 08 Oct 2026 04:42:07 GMT"
+    },
+    {
       "source": "HPP Equipment & Machines",
       "title": "The Turmeric Co. brings HPP in-house with £3.6M investment - Food Manufacture",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUUNRendkLVI0c0stSU9aOHlFSUlVSGc0bDR6NkFjZ0QxQzJ6VENlN1FJTm1CZlV1U0Y4RGhLS2daODBIT2VxaEF3Rk13bDlUOVpHQ3MwYWhDUE9WMVdoUE01MUlZcEVOWnEzRi1USW9pVm9kSmhDT2RCV3NMTEhSa1RNVmtWRVpHNG1wZFBGS1g5LU5QajdzeVAxQjFzeHE0anRLOFByVm5IZDZ2SFQ4TzFDMGNVRURBaWlzbmRYNXNCMW5KOExJSnBFNkN3OTZnSTNHTlA3R2FJWFQ0a2wtMWdaTl9fUQ?oc=5",
       "description": "The Turmeric Co. brings HPP in-house with £3.6M investment Food Manufacture",
       "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Outbreak Investigation of E. coli O145:H28: Frozen Blueberries (July 2026) - U.S. Food and Drug Administration (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMFBlMFg4UU1DSUxIdDhRQnpSc0F5RjBmTWE3Z0NMcGlvVEo5azJKdmR2T2t3N0RoRHpWTGJtZFRldkgtRWx4UnhKYUJNbUxCMEhDWW1kUFhFa1VoVmsxazFqLUFTdXdGYjYwUEp6XzNHMFptSDhjUGNNdmxjdjVSWDJya2FBUVgwUlFZd2E1Z0lHZDg2ZDZsOHp5YVZUS3BiVDFtZ0E0QTJZelZDMTRocERmMUw0UFEtcEZ3?oc=5",
-      "description": "Outbreak Investigation of E. coli O145:H28: Frozen Blueberries (July 2026) U.S. Food and Drug Administration (.gov)",
-      "pubDate": "Mon, 05 Oct 2026 07:00:00 GMT"
     },
     {
       "source": "Quintus Technologies",
@@ -114,6 +163,20 @@
       "pubDate": "Fri, 02 Oct 2026 11:21:46 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "FDA Opened a New Listeria Outbreak Investigation on September 30, 2026: 11 Sick, No Food Named, No States Listed. Here Is What Pregnant Women, Older Adults and Everyone Else Should Know. - Food Poison Journal",
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOOUNMd21hSngzQmxUUG1HRW9vSkd3amJJWFNPdWgyYkhhd0VhQjl2U2VtaVlySHZKUk5OUFFCQ3p3R2V5MUlvQ2xiU0l2YmxPVFdGbVlUSklTZkhrN0kwaXY3RTduSUxkUS1GbXV1NWJkSEwwM3FoZndmRDI0bHBmNXpvSW03aTFybFRsMm1Kcy1ZRGZNS2ZRUVNYWjB1dUZzQjM4aWtISlJDeDhXWWF6YXRUSFRrYXN3NkN4RHFhcGI3dEhYV28wWHk0UC1ZcmNnRlpaM0ExS2lYMGwtVV82aklMbnl4eUNoaFFpY0JOaU1NNmpKcTBhWmhRLVdVWVhxUndHR0M1Vy11YmMyWUxVZTFIUUszY1hnNXVUTkhTaXhiT040RWxseVAtZUx5MmV6Y1d6LTJhdXFpSkcxNk16NEt1Qk83MzB2SkU4SlpjQnBjM2pWT2I1SDlwR0xjUQ?oc=5",
+      "description": "FDA Opened a New Listeria Outbreak Investigation on September 30, 2026: 11 Sick, No Food Named, No States Listed. Here Is What Pregnant Women, Older Adults and Everyone Else Should Know. Food Poison Journal",
+      "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "New Listeria outbreak under investigation - Food Safety News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEllcmhpQUI1dm9DMElaSHhYMF8yc2tYUVJHVnl6d2NCWmlTaDNKSzBuYmNlcFVEakliRWh1MXRHUVVhNTJZT2VLWldDS3RaY1BNdXh5WUY3TENUc3RaZjFxNzZ0VmUxZWdJTWQ1YkI2R3dzdVROWkx0bjRWcWJPTlBtMVFfanpp?oc=5",
+      "description": "New Listeria outbreak under investigation Food Safety News",
+      "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT"
+    },
+    {
       "source": "UK HPP Industry",
       "title": "ROSS details 600-gallon pressure vessel - www.bestmag.co.uk",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SMmp2VUNXOVI2SVM5VUNYUjh3QTNzTk9RXzZKU3hwRHBKZTlhWmJOOHM1LVVwVzFHSDd4TGdvQ2p1a3VTMl9GVHd2a0FLamxweV90R25YdjdBejVKN0RZTXMzX2lTRmo3RXpRYVBscFlpV2FJ?oc=5",
@@ -121,11 +184,11 @@
       "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Dairy",
-      "title": "Engineered Cheese Starter Culture Wipes Out the Microbe Behind Costly Blowing Defects - Bioengineer.org",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ29Ubnk4RkVTMFpPd1N2aW1kaDNGdzNIN3BMREJxenhteFRZM2xQRlplTm9xRHp0TVFRWnhGTzlwYlZyTm1oN2FnaHdleTA2UjdpOVd5WDdHM0dRNUhTYkYtd1JYbHlyUkRabWZ4bGwxeWtPX091MktsMmdMX0ZBa1RnbDBoNkw2LVVrN1VsU1BJZ1Y4UGxzOTE5dS1aT1l5c1I0WV93ZTFMMWVqNS1B?oc=5",
-      "description": "Engineered Cheese Starter Culture Wipes Out the Microbe Behind Costly Blowing Defects Bioengineer.org",
-      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT"
+      "source": "HPP Healthcare & Medical",
+      "title": "Study Identifies High-Pressure Processing Parameters for Effective Pathogen Reduction in Raw Chicken - Food Safety Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSzhlMUlKTzNoNGdhU3lmdzg5Q3BENFhqM0ZNbkhFWXJoSnFfelFWUTczQUphVUI5bHBzbElrZWJsU0VseFVLY3ZwU3Z5RjZVMWVFQ3F1Yk5RclRMR1F5T0xMWjg0M2FLSGxlNUV4SjJQLTNJdDlQZEtwTHUxQnR5UHhGQ0NLeDI1R01JLXc3Q0pMRWl3V041Y3JSM3dvU1lJbE1LQVplT3AwVjhrQkxrcC1tMmt5NWlwTkVGM2tidzFYQjhpbklxYTBnSTlJMGVZZXZMbVJSeWpWRnc?oc=5",
+      "description": "Study Identifies High-Pressure Processing Parameters for Effective Pathogen Reduction in Raw Chicken Food Safety Magazine",
+      "pubDate": "Thu, 24 Sep 2026 09:07:40 GMT"
     },
     {
       "source": "HPP Meat & Deli",
@@ -140,13 +203,6 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWmc2cnZsZzY5X0VacGx5ZjQ2VF9jMFBzQ3ExVkhYMVhJd0t2ZlppYlZ1dDBnaG1UTGdkeDVDUmRNaXhsOGtYejV6c1VvRkcxYkZPMUxVM3NSLWNseHBYc3UxVUJxT08tc3A3Wm5BMzdtb0JUTVJJN0R0TFNQMlVrZkRPamo2U1VVaC1FX2J6OHBnYUhKOGhsRUhjZlFQVEZZTDgwbThwQ0VldzQxQjA1eEN0Q0FWQ3VsSms3R2ZHNklzMGhoNmM0?oc=5",
       "description": "Multivac UK to open new CX and innovation centre in Manchester Food Manufacture",
       "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Dairy",
-      "title": "Microbial responses to emerging technologies in fermented dairy processing: Implications for product development - Wiley Online Library",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMcUFFaXNZYnBIMldNRHprcmdvMEpXZ3Bkb3JMdGNJcUQ3UnpjQl9nLU84cFR6M2tfNEdWcmZwY00xeUZlakhBVHByZjRmbmU0SnJ6VThvZVdsVXlHQVd0VGx6Qk5tS0RZTWJZcnlaSmFkUQ?oc=5",
-      "description": "Microbial responses to emerging technologies in fermented dairy processing: Implications for product development Wiley Online Library",
-      "pubDate": "Sun, 20 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -240,41 +296,6 @@
       "pubDate": "Tue, 18 Aug 2026 17:15:50 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "Are we seeing more food recalls these days? - PIRG",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lM0Q3S3pJZEhlUE4xZHBEbVBVSXRuRTBXRzZTWFkzbU9PYzV6czEyR3JQc2d6S1hKMmdlUGZkX2NjWFV1NTFONlkyR3JrdlZLU2FXaHZ1NG5SS3l4cGcxWmxrRjh5MzJCRDE5WDZUSXNBV2s?oc=5",
-      "description": "Are we seeing more food recalls these days? PIRG",
-      "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "More recalls as US faces several foodborne illness outbreaks - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN3R5YlVOeElIRnBWNWRua3F4NUZXSEl6M3NMM1VXdjlSM0dNZVE4eXJMZmhHekV5MnFLUnM4Y2hONkFVN0JwWTJSSmVWbmlmQmJScWJFQUd4QzZYV191S0F6QUNBRlI2ZV8tc3JzcmYtUmcycEVpZ1YyMzcwREgxQVFaT2xMRVBycEpGcEZVa3JmU19Na01rUDlKVQ?oc=5",
-      "description": "More recalls as US faces several foodborne illness outbreaks CIDRAP",
-      "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Chicago-area shoppers looking for foods to avoid amid salmonella, cyclospora outbreak and Taylor Farms recall - ABC7 Chicago",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWEY4VmNJN1RfMVhIaHNSb1ZYa3ZCaHRhTzBvZ1hhTDhMNHF6cWQtZjY0V0xldmpTYzRNcVRBaGZUZDVNTzVqN3F1Zmk3cE9XbVdJVXVTVlJCNXVlSm9fVTFra3h2QUYzWFRpZDdSNkVpc1U2eWJjUUxwQzBpNnVSZS1kc0tlNXFuWnRPTFc5cUo4U0dlaGtldTZNam42Ri1PaElmbk5XUjN5SFlxV2hBNmFPUV9hSGNrN3JkYUNfOUZqNjFiTnRnaG5iczVucVVSdVHSAdcBQVVfeXFMTm1VaVJRMlp5SEZ5d1FZYmoyVHJGSV80TjRrTks2UnJ2eUVOb2xjX0dYWUhxdFZRdXNiTVVGRGU5bHlpZGlYU0FvSFBpUURXbDRLLTZiZVQ3QWFQTm4xQmVwZkpwYlZwTnF4eWNzcC12QXdjZXpGTG5NcTlSbFNtY0FoRHU1QTQtM2NFd3hCQk5kOTZEY3M2VENHM0xBNnBDdk15cVgxbVJkUmswV2xOQzB1Z2hTWjRNaGtqVU0tRnlhSEZ0dU9JY3FMbHktR01IQXJ0MkRVS0E?oc=5",
-      "description": "Chicago-area shoppers looking for foods to avoid amid salmonella, cyclospora outbreak and Taylor Farms recall ABC7 Chicago",
-      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "Taylor Farms recalls jalapeno products after salmonella outbreak - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKTlNobWFRZHVUZ0JOTkpoNU9vZVQwZGhtamJjR2F3eWtMYnJucUJNaWpoT0ZkTi00aDUxbGg3eHJtQ3pxS1R3NVVXYTBVQm9zeWN4c3luU1VRQTdy?oc=5",
-      "description": "Taylor Farms recalls jalapeno products after salmonella outbreak BBC",
-      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "There Are 11 Active FDA Foodborne Outbreak Investigations — Should You Be Concerned? - Food & Wine",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtX3NybUxqVWFQV1N0RWlEVVFfMmlyUUZSTGtucWRCX1ZCQzdROGJlWk5TR0FOYkE3OEN3V2N3SG1JdzZqWGUxcHZKdGpHQlpSYklaLVZ3RzUyb2JsZkYxbGFtSDRyZHdpanB0clFfeG05OERYX3FqeGFWLVFmV2c?oc=5",
-      "description": "There Are 11 Active FDA Foodborne Outbreak Investigations — Should You Be Concerned? Food & Wine",
-      "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Cosmetics & Beauty",
       "title": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing - Nutritional Outlook",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDBoRW1EZEpqYmQ5Sm9XLVRycFVJN2gzSDNiTkNWX0taRUhvcTlIZlo4UUlvc2tUeldqZ3ZDUEw4bFpLcl9jbW10ZV9DYVpnc1daWS0tc2VyZ0sxSWxDN1llX1J0TGJ1ZUJOVjhVdHViRmg2WDRHRzJTU1Z4UnN3YnpoMkxsWENSblZZV3cwSFJwY1NyQWNGQmxPU190dw?oc=5",
@@ -296,11 +317,11 @@
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "UK Food Industry",
-      "title": "Handtmann marks 40 years of UK innovation - Food Manufacture",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkZPZExqWkhlWTBHaTVhckFISWlDaTNLVDhGZ0pNSGxBUDJ0SngySFF3YmtZUk1UaGltVm81MHU5TEpuZlNZdnVmRGw5NWcwcjJ1NzF3OGdLUTl5VEVzUTdqYTRpbEJyd1N5NnhkdmIxQ1U1bTExaElzX01FSnNNVDZR?oc=5",
-      "description": "Handtmann marks 40 years of UK innovation Food Manufacture",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT"
+      "source": "HPP Soups & Meals",
+      "title": "We Braised 100+ Pounds of Pork Shoulder to Find the 8 Best Pressure Cookers - Food & Wine",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfYXEwOC1TdFdPOEtQQVZ5a012UEVVZkRob3Y2Rjd5b0w1NVhNd2M0anhWVU5UZDh6UmRyTXZ1Mld5d3hiVlRNRGR6cU9pTENUcXo0encxNDg2RXhVeGo5X1ZUMUVncUdXNmw3alpTa1N2bG53YWc?oc=5",
+      "description": "We Braised 100+ Pounds of Pork Shoulder to Find the 8 Best Pressure Cookers Food & Wine",
+      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "UK HPP Industry",
@@ -310,6 +331,13 @@
       "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT"
     },
     {
+      "source": "UK Food Industry",
+      "title": "New guidance for cell-cultivated and novel food businesses - GOV.UK",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUm9sSVVvSVpVZ2c4UWhVU2RQb3lWaER6YXk0Qnd5eFZoWEdmdVpJN0JqVzVxeUtfR0d6NG9oNUNIamtaUk5WcXhKNHJwN2RoaHFFSWJFUTdKQjJmMmdrUXYyVVpEdDFwQjdFbENzUDl2c0xnN0VXSTdoRTNKV003X1FPLUdnUzY5SktlN3E4RUpXaERSWmlYQQ?oc=5",
+      "description": "New guidance for cell-cultivated and novel food businesses GOV.UK",
+      "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT"
+    },
+    {
       "source": "HPP Innovation & Research",
       "title": "Pressure, Purpose, & Possibility - IFT.org",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUo3RVhlX3dfRTlmMC1XbXJ5X2IzdW5rRlBBN0NXcWIxS1RPLU91RllrN0hMckNCVXJYaVRLME4wSU9xTnJCdHRfVUY5ZWdOdGM4MTdOLWtxQ3FTanBmWnVRRTFGMHBSdlgwSHNLUWhMdHNYZlNzQzF1TV9XZm9KNTl4QQ?oc=5",
@@ -317,39 +345,11 @@
       "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Dairy",
-      "title": "Maharashtra FDA tightens milk safety rules - Dairy Business Middle East & Africa",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWTRyNDdYb00yNHlja1ZhZDQ2NFBabzVxeU84TTZwdmkzQ0hNY0preTV5V1J6WVgzWmtxLUUway15MG5XSXFLS0ZmZjctMkxQNkJ6bWpqYVJoX3BFTWRFQ09HRlJnRWlUZnlEM2RuVkxHQkJjTjlIRTZLNGkzNzFSaHpadF9DbDVpLXZR?oc=5",
-      "description": "Maharashtra FDA tightens milk safety rules Dairy Business Middle East & Africa",
-      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Seafood",
       "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
       "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
       "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "Investigation Update: Listeria Outbreak, June 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeURCSzJmTjhpWEttM0RXTC1fcmtWZHkxeGk5Q2lheTdneWhwMW1KaHYyamVLeWNnYVhROW1lcm1QMWFzZzZhdmtIcHhVTDFjekVkakhwcVpaMTgtOWFERE1QYUNFOUwwQUc2OW5ITldOVXRLRW5MbWluZ2Y0WXRtNA?oc=5",
-      "description": "Investigation Update: Listeria Outbreak, June 2026 Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "UK Food Valley highlights innovation and ambition at Lincolnshire Show Brunch - Lincolnshire County Council",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZElmZFZsNzZXMlNWQlZQTm96OHZEYW1kdkJWWTlQQS14dUd2OFhHVURRMkpBcFZ0SU5hOG5oSWxpVVdTZFdYcFF5R0VSNjZ5UEx5QzctaWFZdlRaM2xlWW5QX2tRUnlMeVE1bXAyUFRNVzlEWlgxOEd5NHNfSEdidngzWjNGclRfU21IUWNMRGtlcU5jNEFNUDRoNExmc1VKemVEaFF6M3YtYzUzeDFDNVFLTVJnaDh4ZXdSaU1iYjdqLVFPZHc?oc=5",
-      "description": "UK Food Valley highlights innovation and ambition at Lincolnshire Show Brunch Lincolnshire County Council",
-      "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "source": "UK Food Industry",
-      "title": "Laminar Wins FoodTech Innovation Award for Innovative Solution on Digitalization in the Food & Beverage Industry - PR Newswire UK",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcUE0R2ZZQk53dTZoOTloWmxtbTRvaEo4M1lYZWxXNXZmVVE5ZS0tWWFPY3BWY01sR3JVZktXMEtjUDRVTk9PYWFxYXFBZVkzZ0ppNXFUbTB0SWlLTWF1REFibjczcnRhNkszUzRLanc4ZXdMVlRwLXJLLWZVeU5GRElnQm5WTlZEQS1qTjlnNzZHNWJNWnJsVjRyTkd4cFlqRkxndXAtLWRpWEIzNjhYaFk4b1haQmlveERvWDZ3UlZnS3RGVG9EZW0xMk5kb3NqZjlwVmppblBuQ0hqYVB0QjVaaHlWQy1sWnlicEk4WEtGeS1pQWJwOEF1LXRGUQ?oc=5",
-      "description": "Laminar Wins FoodTech Innovation Award for Innovative Solution on Digitalization in the Food & Beverage Industry PR Newswire UK",
-      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT"
     }
   ]
 }
