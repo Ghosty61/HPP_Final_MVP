@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-08T12:51:30.946062+00:00",
+  "updated": "2026-11-08T18:40:32.384735+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Sunday Edition: Farm Bill 2.0",
+      "link": "https://www.foodsafetynews.com/2026/11/sunday-edition-farm-bill-2-0-2/",
+      "description": "Quick bites from around the food safety arena this week Infant formula maker ByHeart has &#x201c;discontinued&#x201d; manufacturing its products after getting caught up in an outbreak of infant botulism. ByHeart&#x2019;s founders started a new company, MeridianMade, earlier this year and announced in late October that it",
+      "pubDate": "Sun, 08 Nov 2026 13:00:00 GMT"
+    },
     {
       "source": "Salmonella Outbreaks",
       "title": "What's safe to eat? Recent food recalls you might have missed - The Oklahoman",
@@ -42,13 +49,6 @@
       "link": "https://www.foodsafetynews.com/2026/11/fda-closes-investigation-into-romaine-outbreak-without-naming-brand-or-producer-other-investigations-updated/",
       "description": "The FDA reported that it conducted traceback, onsite inspections and sample testing but did not reveal what it traced, what locations were inspected or whether testing involved production environments or finished product.",
       "pubDate": "Thu, 05 Nov 2026 05:06:00 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Public health officials say sprout outbreak is over; won't name seed supplier",
-      "link": "https://www.foodsafetynews.com/2026/11/public-health-officials-say-sprout-outbreak-is-over-wont-name-seed-supplier/",
-      "description": "The CDC and FDA have declared an end to an outbreak of Salmonella Bovismorbificans infections linked to broccoli sprouts and microgreens. The agencies reported that the sprouts were grown from a contaminated seed lot imported from New Zealand, but neither revealed the name of the seed company. The outbreak sickened",
-      "pubDate": "Thu, 05 Nov 2026 05:05:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -135,13 +135,6 @@
       "pubDate": "Sat, 10 Oct 2026 07:00:00 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "Popular supermarket snacks among five products recalled over salmonella fears - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcVJZNzM1MHB0ZXNpckhBRTNpWmRKUmtxTV9DaXhwcVd5MWJvWlJ3b0xnMnVxa2doZ0VRanpiYktoZ29KdlB1SlRJWFNERHhtcEJCSTRXeEdqbGczc2NrVzFoNnhkaFZKamtsNVVCay1pSy1EWTZJZjg1TVJvUlpnbjQ2VlNZSjBuUEdLTkozeHlldEdXNm13SXhqZnYyalJmU3QwR1Fn?oc=5",
-      "description": "Popular supermarket snacks among five products recalled over salmonella fears The Independent",
-      "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Equipment & Machines",
       "title": "The Turmeric Co. brings HPP in-house with £3.6M investment - Food Manufacture",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUUNRendkLVI0c0stSU9aOHlFSUlVSGc0bDR6NkFjZ0QxQzJ6VENlN1FJTm1CZlV1U0Y4RGhLS2daODBIT2VxaEF3Rk13bDlUOVpHQ3MwYWhDUE9WMVdoUE01MUlZcEVOWnEzRi1USW9pVm9kSmhDT2RCV3NMTEhSa1RNVmtWRVpHNG1wZFBGS1g5LU5QajdzeVAxQjFzeHE0anRLOFByVm5IZDZ2SFQ4TzFDMGNVRURBaWlzbmRYNXNCMW5KOExJSnBFNkN3OTZnSTNHTlA3R2FJWFQ0a2wtMWdaTl9fUQ?oc=5",
@@ -161,6 +154,13 @@
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSmk2RjVBcUQwY0NzYmNZRks4NFh6RmJncFNWbXFXLW5ZdVBCZWpKM21jVm5MYWtGWjBOQ2lzOW9xLTVJZ3pwNkhULWlvU3czSFplQzY0em1JbHR0QnNjX19TOXdYOHdYVVFfMXlnMXhPeHpUbTJCX1pJU2NwYzNFNWtiX2hBdjBrbFdsWmQ0d2g5dEtBTGxaVUliRzJSVUJEaHk5SmE3enQ2Y1o3SU1pWFp4YzhiTHpHVXJ4dVFndW5PQUVCVEt6c3BQaE95aE5wR0RkVU1nVDF5Z20tbkE?oc=5",
       "description": "Oklahoma State University Workshop Highlights High-Pressure Processing Benefits for Beef Producers Oklahoma Farm Report",
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric EU",
+      "title": "HPP workshop highlights technology benefits for pet food processing - Pet Food Processing",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNelZBSDBXbzgtSFZMdC1pR3pKQkMzRzM5RVNPYnpqby1vSTJobDJYaDBMaExaNWdOQmpveWxnVDlDMjA5eGFKQy1fMEl6MVJ0ME9XaHNiT3J5RWIzWG0xdm1KV25Mb1RYZmNWRmlaeGEzb2NDQzRzMHlwSmYyRDRNM3kzVUdJVTRrNUlid0hURTF1blVxaFdYa0tNZ3B0U2ZnMV95Um9WYnRwVTVxQ1h4d3ljR3ZxbmM?oc=5",
+      "description": "HPP workshop highlights technology benefits for pet food processing Pet Food Processing",
+      "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
