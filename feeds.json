@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-14T22:01:03.477789+00:00",
+  "updated": "2026-11-15T05:08:06.294401+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "County reports new E. coli patient who did not visit pumpkin farm; classroom to be closed",
+      "link": "https://www.foodsafetynews.com/2026/11/county-reports-new-e-coli-patient-who-did-not-visit-pumpkin-farm/",
+      "description": "On Nov. 14, the County of San Luis Obispo (CA) Department of Public Health&#xa0; reported a new&#xa0;E. coli&#xa0;O157 infection &#xa0;in a person who never visited Brookshire Farms. The farm is the suspected source of the pathogen which has sickened 15 and killed one. The",
+      "pubDate": "Sun, 15 Nov 2026 03:57:47 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "USDA issues alert for biscuit and sausage gravy products because of Listeria risk",
+      "link": "https://www.foodsafetynews.com/2026/11/usda-issues-alert-for-biscuit-and-sausage-gravy-products-because-of-listeria-risk/",
+      "description": "The USDA&#x2019;s Food Safety and Inspection Service (FSIS) is issuing a public health alert for ready-to-eat meat products containing FDA-regulated biscuits that may be contaminated with Listeria monocytogenes.&#xa0; Additional downstream products may be identified as this ingredient recall progresses. As more information becomes available,",
+      "pubDate": "Sun, 15 Nov 2026 03:31:41 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "E. coli outbreak at Ohio University spreading",
@@ -51,20 +65,6 @@
       "pubDate": "Thu, 12 Nov 2026 07:40:16 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "Oysters from Virginia river continue to test positive for Salmonella",
-      "link": "https://www.foodsafetynews.com/2026/11/oysters-from-virginia-river-continue-to-test-positive-for-salmonella/",
-      "description": "The Virginia Department of Health is reporting that a third round of oysters taken from Little Wicomico Oyster Company cages on Nov. 2 tested positive for&#xa0;Salmonella, representing three of eight meat samples from two of the company&#x2019;s four leases.&#xa0; The Little Wicomico River in Northumberland",
-      "pubDate": "Thu, 12 Nov 2026 05:04:00 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "More sprouting seeds recalled because of possible contamination with E. coli and Salmonella",
-      "link": "https://www.foodsafetynews.com/2026/11/more-sprouting-seeds-recalled-because-of-possible-contamination-with-e-coli-and-salmonella/",
-      "description": "More sprouting seeds have been recalled because of possible contamination with Salmonella or E. coli. The seeds are sold under the Country Creek LLC&#x2019;s Country Creek Acres brand and the Francisco Family Foods brand. Neither company has posted a recall notice and the Food and Drug Administration has",
-      "pubDate": "Thu, 12 Nov 2026 04:42:35 GMT"
-    },
-    {
       "source": "Food Safety UK & EU",
       "title": "UK Salmonella outbreak captures public’s attention - Food Safety News",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZmtNOHFuZzltX3ByeUZublBoYW50Nk5xSV9xZUdHNzI1dmFMSjdseGgwWm0yWDR1bUJHQUhMUFFTZHJmeVFScEtNT0kzV2xnWGI1Mlp1bFJWMVp2OHp2MDAwVndfc19jZjdDVWZycmRxV0R1NG1rUVpGLW9IbTk4Y3BjQ0NnSE5EZVFSX3p2RU1NZDA?oc=5",
@@ -77,6 +77,13 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUmJsYXNFRkZhdjExWnN2ak9MRVRqR196NHlWSzY4WFZtODdyTjh4R1ZWQzJPNGVYTWNBRTdFYVJYbUN4ZG9RdlV2VnVrR3VfM0VoM0E0M0xIdnJCenQ1U2FjaHdZcm1vaHhHRGNJWjFjV1BheE5XQW42OVBJQUlUWS1Rd1pBTDRsYjFJNjlLSW51dHpBRi1BMU0yeHlFNXJZbVVHV1VvQ1Z4OVdveWludUJnOW1MbEdmaWNEdDlqaHpjYzJfYjJiUVhoN3U0bTU3RWc?oc=5",
       "description": "What's safe to eat? Recent food recalls you might have missed The Oklahoman",
       "pubDate": "Sun, 08 Nov 2026 11:03:00 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Food Processing Equipment Market Size, Share, Trends 2036 - Future Market Insights",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON2dJSGRockNmckhCU3g5YXNWX0otS3VYUzUzclNtODZxUWFMdU1OZFBsc1NkVlN1NzQ4V0xLajVQc1BCcTBEd2l1V0FwQW5WQ1p1aTJPTldOMDduWldwN0RBcmU1VUdqbTU4UlRmcjVqYnA5Q0N2QldVS2hSckhVZ1gzRQ?oc=5",
+      "description": "Food Processing Equipment Market Size, Share, Trends 2036 Future Market Insights",
+      "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -112,6 +119,13 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNalZHdWJ4am9CS1FBbW8xSEUwMFIySTJVTkhNQ1RNTDJqT3M5dTVQTC12N1dvbkZMMEY1eFprZmZaQ01jel9fd2VjX3g3M3V3NnNyb19GY2VWNU9jY0Y4eXdNVTljQm9yaWtyYVlSNFFYaXNJeGJTUk14UDVyRVVXelh3?oc=5",
       "description": "High Pressure Processing Equipment Market Size, Share, Trends 2036 Future Market Insights",
       "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Innovation & Research",
+      "title": "New Food Processing Technology at UGA Helps Georgia Food Businesses Innovate and Grow - Morning Ag Clips",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYUR5ampCdVZMeHN3bUJBczh3aHhXVnZoSGpDcU80LXBBaENzLWxHWTZLbVdQVWZuWHNXTkdqS1E2SFpfOWlYSXZNRFNqZG5PZkJNRk9nRDR6aGxJVF8xMUtZVnJTU2xfSVVzc2YyYUVJeWt0TEcxcmF0RzdZdENVN1dMOVRuYXJGNElQRWdtcXAyOWJDZVlsLW56ZW5NZXhsanpZZmVSQ1dPQ2pOdlMzZW9hNmRJSXlC?oc=5",
+      "description": "New Food Processing Technology at UGA Helps Georgia Food Businesses Innovate and Grow Morning Ag Clips",
+      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Healthcare & Medical",
@@ -261,13 +275,6 @@
       "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT"
     },
     {
-      "source": "EU HPP & Food Tech",
-      "title": "High Pressure Gas Testing Facility - EU Science Hub",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSVNYODdqdWxyVE9XSmR0SnRfazhnYW1hMWQzbmVXbWV2UXIxVXp6eTJLb2FjU3ZQTTJCa0N3Q25vRFNKQkZabndOZ3pqNFROYnBvRnRhZENzQzdEU09GUlBlWm5FQU8wX1pSaUJXdVIwWlJjWkNUaHJDSHVQZ3B1cTdjUzdyUUlWSGc0Rm41aUdseXBubDdLUGZaWmNWd1E4UUgzQWdGaw?oc=5",
-      "description": "High Pressure Gas Testing Facility EU Science Hub",
-      "pubDate": "Tue, 18 Aug 2026 17:15:50 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "Are we seeing more food recalls these days? - PIRG",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lM0Q3S3pJZEhlUE4xZHBEbVBVSXRuRTBXRzZTWFkzbU9PYzV6czEyR3JQc2d6S1hKMmdlUGZkX2NjWFV1NTFONlkyR3JrdlZLU2FXaHZ1NG5SS3l4cGcxWmxrRjh5MzJCRDE5WDZUSXNBV2s?oc=5",
@@ -329,13 +336,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTUpmWHBEaEdMem5tR0R6ZkhUdTZxUXBiNVppU1dSZ1MyVHBjWTRaenlFdmE1SFhlWVVkc0ZlU0ZTZktET3JNcVZjVTNPVkoyN3lRR1N3T29jQlR4SU80RE5waEg5bDdJNi03RGdwT0ZhNjRzRU1uT0VqUW1Nck8wdEJiSXdKMlhJaWpFc00zY0R0d9IBlwFBVV95cUxOT1lqVHB4dFBqY0habDlzdmlNSG5uUVJWVURkOVdNTzlrNDMwMTRjLU5raTBYTXNnMUUweDRYclM2UE9lZlpjLVBONWlCMFdxam5xQlY2QmdGc21LOVN1U18tSjNGNHRTenVYQW5YV0tpREpuS3NpUEphWEpwYXdJcW51M2dqVmJnbXlqVExrZDFtUTBxRUg0?oc=5",
       "description": "15 recent food, product recalls that may impact you The Hill",
       "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Innovation & Research",
-      "title": "Pressure, Purpose, & Possibility - IFT.org",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUo3RVhlX3dfRTlmMC1XbXJ5X2IzdW5rRlBBN0NXcWIxS1RPLU91RllrN0hMckNCVXJYaVRLME4wSU9xTnJCdHRfVUY5ZWdOdGM4MTdOLWtxQ3FTanBmWnVRRTFGMHBSdlgwSHNLUWhMdHNYZlNzQzF1TV9XZm9KNTl4QQ?oc=5",
-      "description": "Pressure, Purpose, & Possibility IFT.org",
-      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Seafood",
