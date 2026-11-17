@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-16T23:59:24.513390+00:00",
+  "updated": "2026-11-17T07:43:17.780683+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "More E. coli patients confirmed in Ohio University outbreak",
+      "link": "https://www.foodsafetynews.com/2026/11/more-e-coli-patients-confirmed-in-ohio-university-outbreak/",
+      "description": "The patient count for an E. coli outbreak at Ohio University continues to grow. As of Monday, Nov. 16, there were 16 confirmed patients, up from 11 patients on Nov. 13. According to a statement from the Athens City-County Health Department, a source of the pathogen has not yet",
+      "pubDate": "Tue, 17 Nov 2026 05:04:00 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Cheese linked to Swiss Listeria infections",
+      "link": "https://www.foodsafetynews.com/2026/11/cheese-linked-to-swiss-listeria-infections/",
+      "description": "Examples of the recalled products",
+      "pubDate": "Tue, 17 Nov 2026 05:03:00 GMT"
+    },
     {
       "source": "EU HPP & Food Tech",
       "title": "Thailand’s changing food industry – the opportunity for UK startups - Startups Magazine",
@@ -30,20 +44,6 @@
       "pubDate": "Sun, 15 Nov 2026 03:31:41 GMT"
     },
     {
-      "source": "Food Safety News",
-      "title": "E. coli outbreak at Ohio University spreading",
-      "link": "https://www.foodsafetynews.com/2026/11/e-coli-outbreak-at-ohio-university-spreading/",
-      "description": "An increasing number of students at Ohio University are becoming sick with E. coli infections. The number of confirmed patients has increased to 11, up from seven on Nov. 11.&#xa0; All 11 cases involve Ohio University students, according to a joint news release early Friday afternoon from the Athens",
-      "pubDate": "Sat, 14 Nov 2026 03:58:59 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "FDA final report on Salmonella outbreak traced to japalenos fails to reveal grower, exporter",
-      "link": "https://www.foodsafetynews.com/2026/11/fda-final-report-on-salmonella-outbreak-traced-to-japalenos-fails-to-reveal-grower-exporter/",
-      "description": "The FDA has posted an Executive Summary report on an investigation into Salmonella infections traced to jalape&#xf1;o peppers. The agency continues to refuse to name the supplier or grower of the peppers. The outbreak was first reported to the Food and Drug Administration on July 10 by its",
-      "pubDate": "Sat, 14 Nov 2026 03:22:36 GMT"
-    },
-    {
       "source": "EU HPP & Food Tech",
       "title": "Robotic technology helps unlock the hidden microbial world of the deep sea - The University of Manchester",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNUpsMWtHaXlqSUYxX1h4bHlKaUlkaE1Jb2FBS3NEbVFPTlg3RXFadGR1aUZ1eU1ldFdDQkFMRldoeEdGOXZud24xUlllSlNIdTBUR0lKUURhOEg5U1pxUTE5VTVGSFRZTXN4bWljcnZZZzJLdmRxRkFib0poNzhQNGJsNlI2T0VPTmIwWjhIWXVrN1ZiYzhGSC15NnBmRmFRbzhVX1BSYmp4RW5GSVBxZzZyaEk4QQ?oc=5",
@@ -58,39 +58,11 @@
       "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Outbreak Investigation of Salmonella: Sprouts (September 2026) - U.S. Food and Drug Administration (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNG1iTHdOMDdWTnlPUEUtM09Da3VidGZoMUV0U3Z1cmQ5amFramhac0dCdWpVckp2d3FMeldzSUtIN0M1SklFemMwdmtWYnZic2NVcy1iZFNpaE9ubU1EU2Z3N3V5TlhIeUwxQlB1SDFGOElvWEdZYVE0d2Y1Z1FZY1BsaEVsVXVUMzE0WEdhQS00OXdyQnRYTENlNGJYbktpSDRlNklWTzdJdGZfd3c?oc=5",
-      "description": "Outbreak Investigation of Salmonella: Sprouts (September 2026) U.S. Food and Drug Administration (.gov)",
-      "pubDate": "Wed, 04 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Innovation & Research",
-      "title": "Innovative food processing technique boosts Nebraska companies, educational outreach - Nebraska Today",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSENlZnBvRnYycmFPODBIT18zbVdscWF4dFN4YW5paXhHRlNNT2dzdVlocjFnZTNQT3liVTFKWmdJcFE2ZEtaYkp0eXVPTTh6UDFKY3VmV0s0RkdDdnVvbzZFU2lsSXI0Q21Vc1BWZXFEb3YwWTVEWG5mVFh4R3V4WTM3aUl0MUhCNGdvZ01OVFRxOEhYNUoyY0ZQaHdSbHhDUDdNM1BIS09vaUNkR2E5Smpn?oc=5",
-      "description": "Innovative food processing technique boosts Nebraska companies, educational outreach Nebraska Today",
-      "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Equipment & Machines",
       "title": "High Pressure Processing Equipment Market Size, Share, Trends 2036 - Future Market Insights",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNalZHdWJ4am9CS1FBbW8xSEUwMFIySTJVTkhNQ1RNTDJqT3M5dTVQTC12N1dvbkZMMEY1eFprZmZaQ01jel9fd2VjX3g3M3V3NnNyb19GY2VWNU9jY0Y4eXdNVTljQm9yaWtyYVlSNFFYaXNJeGJTUk14UDVyRVVXelh3?oc=5",
       "description": "High Pressure Processing Equipment Market Size, Share, Trends 2036 Future Market Insights",
       "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Innovation & Research",
-      "title": "New Food Processing Technology at UGA Helps Georgia Food Businesses Innovate and Grow - Morning Ag Clips",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYUR5ampCdVZMeHN3bUJBczh3aHhXVnZoSGpDcU80LXBBaENzLWxHWTZLbVdQVWZuWHNXTkdqS1E2SFpfOWlYSXZNRFNqZG5PZkJNRk9nRDR6aGxJVF8xMUtZVnJTU2xfSVVzc2YyYUVJeWt0TEcxcmF0RzdZdENVN1dMOVRuYXJGNElQRWdtcXAyOWJDZVlsLW56ZW5NZXhsanpZZmVSQ1dPQ2pOdlMzZW9hNmRJSXlC?oc=5",
-      "description": "New Food Processing Technology at UGA Helps Georgia Food Businesses Innovate and Grow Morning Ag Clips",
-      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Healthcare & Medical",
-      "title": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 - Fortune Business Insights",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEYwb0FKSE1PSTZtQ1IwTHB1ZHBIbzhSc1piZnR6VTRpODRIaDRUaUx1cGZEVldYT0FjSkdEQ0tpNWVITDZ2eXl5TC1IOFM0V0Qwd0ZLaG9RSlp0WXI5V3NEV0pCYTg5RHFIb0NjOWVmcFVxU0ZILVhHdS10cWVtTk5qTVNfcVk?oc=5",
-      "description": "Non-thermal Pasteurization Market Share, Size, &, Report, 2034 Fortune Business Insights",
-      "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Equipment & Machines",
@@ -121,24 +93,17 @@
       "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
     },
     {
-      "source": "Hiperbaric",
-      "title": "Oklahoma State FAPC Gives Food Industry Professionals a Hands-On Look at HPP Technology - Food Safety Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdHZJOGYwRElTT3pBTFRha2VmNjU0V2FLLWZFTWNHWGp5TXN0SzltalQ5NEtEcjZHcVJGbGh1S19JYzhZWGV1U2traVpWNmRGOUMxVmtKQy1wdjk4U2JPWGtLTzZiT0dyTzVfRmt6ZzlnWnhPTDJNTXJNSFpGLVFlaXZzMGpYTXpON2NYbWF2dm9ESUZxd2dNXzdHQ182Q2RCMHptM1dDaGJjbF9MS243QW1NQWZNN0Jmc18weEdMODA2WUxvLXVtU093?oc=5",
-      "description": "Oklahoma State FAPC Gives Food Industry Professionals a Hands-On Look at HPP Technology Food Safety Magazine",
-      "pubDate": "Fri, 04 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric",
-      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTXZyd2stTWhCMDlUT1Y5Nk5TZlFLdnlRbjMzaTBEZ3ljeW80RTB6ZEI5T0xfOVh0b0Yxd0hWV1BiWGhHSnVQRjVTRU94eXBBaTk3d29hZ0xTNHA5dFpfaHN1SnlINkltYnJYN0Q2ZXVZZTE4NkJZZXlxdEpLd0w3UWJxRm0wWG5FbkNjWlp0b2g0MzJNbFVBRDZvbG05NHI2REVpNFZMX0lHLTEzSHA1R0hpSzF0QnR1OTVYU0pPLUhXYjBqZlQxOFg2NWVIS1JRNDllRjhLemVfakVLUUhEOW9MWDNxQ3ZFU2REVVg2Q1ZGZWE3RjZfVFFwY1JxeF93M2Fsdmx4SQ?oc=5",
-      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 PR Newswire",
-      "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Equipment & Machines",
       "title": "High-pressure processing expands beyond juice - Beverage Industry",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdzlBX1BVTWNYR2RHendiQzlvVjBWU3ZMNTNEZXQwUlo2bmJ4UFd4OU0yc2k2bUdMZ3JQT19YQkQ1cm1INDAtRkQwb2NySmxrTUVFNUJ3MnpmNldOWWFKTHFzUnlZOVFtX2xJcUZ3M0RSeFV1LUlvRTVrc0M0Q3FlazhRYlpoV3ExNVRxNnJabUI3UQ?oc=5",
       "description": "High-pressure processing expands beyond juice Beverage Industry",
+      "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Equipment & Machines",
+      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTXZyd2stTWhCMDlUT1Y5Nk5TZlFLdnlRbjMzaTBEZ3ljeW80RTB6ZEI5T0xfOVh0b0Yxd0hWV1BiWGhHSnVQRjVTRU94eXBBaTk3d29hZ0xTNHA5dFpfaHN1SnlINkltYnJYN0Q2ZXVZZTE4NkJZZXlxdEpLd0w3UWJxRm0wWG5FbkNjWlp0b2g0MzJNbFVBRDZvbG05NHI2REVpNFZMX0lHLTEzSHA1R0hpSzF0QnR1OTVYU0pPLUhXYjBqZlQxOFg2NWVIS1JRNDllRjhLemVfakVLUUhEOW9MWDNxQ3ZFU2REVVg2Q1ZGZWE3RjZfVFFwY1JxeF93M2Fsdmx4SQ?oc=5",
+      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 PR Newswire",
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
@@ -149,88 +114,11 @@
       "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "How is salmonella contaminating so many things? What to know from a food safety expert - PBS",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR190d3dMVE03R01pSnQwZ3ZoR2xfdFp5ZVVkMk1pamJmdGs0QXBTdDN1REpsTEdxaG43VXZEZlNzeVROV25MVDVuWEE4cGZnMUs0TjFPdGRQNzRrZ3N6NVFCZDV3NENlbWxlVUJmaU9SQk5mQVByakVEMUVnQXcyRkVyUHhpRTllMG5COWN4SURLTXZ5UXZFcm41OGlDZEZiQ0l0SWVOUDNRRXcwV21GMm1YQkNzU2tOZjZxQTdR?oc=5",
-      "description": "How is salmonella contaminating so many things? What to know from a food safety expert PBS",
-      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric",
-      "title": "HPP protein workshop to address Listeria control, dark-cutting beef recovery - The Journal Record",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVdVdUtLUXY1WVpJRW1sVHRoZ3NoYlRoOEJ0NTZnclhHR0RibTZ0LVRKclZhdmZDTFdfX2c1MjJBLTJ3RngtNmthMzAxV3BnZUdsLWo0LUdUTWduNWxPc1dRaTZtWXVKakUtSzJOMnpqUnVraVAzcFBtNWxXdzd5S21MTEQzRFU?oc=5",
-      "description": "HPP protein workshop to address Listeria control, dark-cutting beef recovery The Journal Record",
-      "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric",
-      "title": "HPP Protein Workshop: OSU, Hiperbaric Sept. 17 - Food & Beverage Magazine",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeGw2N0hBNzRFOS1PRm1jUERTc1IxSFBRaXo2QllCY213QmhKVW1zcGY1eUZPZVJibF9XMFFDOHZ5ZUYyQktBNVFpWTFCaFRGNTBkNk55M0s0UlVwVXVkTFVwUXlJRFo1X3RORTlDaU1DUmUzUjJBWTE1ZjVsd01GYl9NQzYyR2tXTjl6bVVqanFIaUI2bVUtdG1B?oc=5",
-      "description": "HPP Protein Workshop: OSU, Hiperbaric Sept. 17 Food & Beverage Magazine",
-      "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Innovation & Research",
-      "title": "FAPC to host September high-pressure processing workshop for food industry professionals - OKW News",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONnFtZ1dfdzVqMWZCMExKZmdOdGNVM2tVdmQ2akdsOUdreGZzekQyemlsVWhtcmtWb1h5cks2STJDRVZSWlNLZklDNnU3VHpLeDN0aXRpTm9remxKTmoxQW1qREdNOEtHMlN6YkdjUzBuRHpGVUZraGt1dTJwaEpQY1JiUkd0c0dCNWVfWXQwY19sVTNxNkllQlBQOUtzWHdiTEVmY1RqTXR1WE5pWFlsZzVkeWx0UDJaZl9jbzR3eTJTUQ?oc=5",
-      "description": "FAPC to host September high-pressure processing workshop for food industry professionals OKW News",
-      "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Investigation Update: Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zb05obHd4ZVBoakNZLXo3RXN1eTFHWF9HeHlrRVJERXk5anNKby1QbXNtZkRiSWVZWE51QUlacFBBcDhmUDVmZXREVmNCZ1ZuaEtDVWl3NnZkSGxvQ1FrX2FRRl9PdHpBRHc4UG9qU0dvVmdxV0JkSTEwNWtuZw?oc=5",
-      "description": "Investigation Update: Salmonella Outbreak, August 2026 Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric",
-      "title": "Hiperbaric and Oklahoma State University to Host HPP Protein Workshop - Quality Assurance & Food Safety",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU1REYUFGWjd2S3ZQWEJWcE00dFNDM2xOSlQzbnNzb01HbUJ5VV8wT2dPWDh6MlRsTmZMbEhzQkhiZ1JkMG1uamQtWktHMDN0WjlqWjVzUm1jd0lyUWxPd1VrVVZNZWt6dXpZYmZFZTNkLTlTTkJZeTlvVzI2SVNFSzY3RUQ4Sk5sODZNaV8xTmtla3pOMWhhNG9VYUdtRExDWkk3RU1HMXptYUhzWUpDYg?oc=5",
-      "description": "Hiperbaric and Oklahoma State University to Host HPP Protein Workshop Quality Assurance & Food Safety",
-      "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Recall roundup: The products tied to a multistate salmonella outbreak - KCRA",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd1ZhWE1YeDU5TEFVMkFHVHRSZ1M2bTBrc28yRUhMU0p3WGdvaDVrNlFKbFVpdHltUXdYdENsTkZFZUhIR0tLTkFfOUVnSDNCcU5KRXl1bVZEUEluSk43c2lCUkhQdWxnUFRrRXZyOXRTSVJaSnZhUElQVXRWOXFMb0VR?oc=5",
-      "description": "Recall roundup: The products tied to a multistate salmonella outbreak KCRA",
-      "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric",
-      "title": "UNL, OSU, Hiperbaric to host HPP protein workshop - Pet Food Processing",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTUVWRllBNGxQRDJXUXBWVHJPZXBNOTFIQy14WVUzS0k3VXI2MmFmRjFmLXR2M1hMRERyWjhIUm05Q3NINWxoUGRQRndBdUxaYnRMbnlCdHcwcFpyNHFaR2pfS3VRWmk4MzZEbmd5d2ktcU1KeElBeUo2SkVwbllaV2JhUXhHZkFTWG83NFRpRkVmM01OSTRpNUY2OHA?oc=5",
-      "description": "UNL, OSU, Hiperbaric to host HPP protein workshop Pet Food Processing",
-      "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "More recalls as US faces several foodborne illness outbreaks - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN3R5YlVOeElIRnBWNWRua3F4NUZXSEl6M3NMM1VXdjlSM0dNZVE4eXJMZmhHekV5MnFLUnM4Y2hONkFVN0JwWTJSSmVWbmlmQmJScWJFQUd4QzZYV191S0F6QUNBRlI2ZV8tc3JzcmYtUmcycEVpZ1YyMzcwREgxQVFaT2xMRVBycEpGcEZVa3JmU19Na01rUDlKVQ?oc=5",
-      "description": "More recalls as US faces several foodborne illness outbreaks CIDRAP",
-      "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Cosmetics & Beauty",
       "title": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing - Nutritional Outlook",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDBoRW1EZEpqYmQ5Sm9XLVRycFVJN2gzSDNiTkNWX0taRUhvcTlIZlo4UUlvc2tUeldqZ3ZDUEw4bFpLcl9jbW10ZV9DYVpnc1daWS0tc2VyZ0sxSWxDN1llX1J0TGJ1ZUJOVjhVdHViRmg2WDRHRzJTU1Z4UnN3YnpoMkxsWENSblZZV3cwSFJwY1NyQWNGQmxPU190dw?oc=5",
       "description": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing Nutritional Outlook",
       "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric",
-      "title": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts - TCT Magazine",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM29NRXg0WXVha25KbzRLcm9zV0dRUG81ZVhpaGllbzdRR0FyVm1uVDBtVTZkR01tR1VKck56c2xxSC0yRDB1bUsyajAyd19Eb1I4UWRtY0VMVU9VNFlrWGJDSzdDQms0T0VwbE04WWl1V2k5b3cxZmVCSXZPUlg3OTI5Uzh1b2ZPRUhhZ0t6ckhqdHhhQVhfdzVJaVI1dEUtRy1OZERuMGwzY3RUdTc0UUZadFRKVU1JRmFWQVFwZHg3UWc0U3drMUVvZmY?oc=5",
-      "description": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts TCT Magazine",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Salmonella Outbreaks",
-      "title": "Nearly 100 Sick in Multistate Salmonella Outbreak, Millions of Eggs Recalled - Food Safety Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOWp4MS1vOW11ZVpvXzZoSjlManJ3YWRSak03N3lTTnA3OS1fNVBGc1FvYkFCR3RCSkRqandqREZzSi1nN0xRTG55OE81elhHN1poM0ZCMmtmWnEteGZfa3Y1MVVZek55bjh5NXp6VXMxOVBtUkhkdndYS2toT3VLaDlLbzQ5elNUM0hDQWZqQmVhajNxQ19PMXhMTGVUTHloX2N5SWE2SjZMMWNMc25vaXBCV2M0RU1OZ0E?oc=5",
-      "description": "Nearly 100 Sick in Multistate Salmonella Outbreak, Millions of Eggs Recalled Food Safety Magazine",
-      "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "UK Food Industry",
@@ -247,13 +135,6 @@
       "pubDate": "Wed, 20 May 2026 07:00:00 GMT"
     },
     {
-      "source": "Hiperbaric",
-      "title": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? - PetfoodIndustry",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTVFPakRRZlRhZG50MVZBdmVxdVZhVzlJRC1LNlBFOS1MNVI0SUhlT2FrUloxRkN5Qi1Bcm4yS0hFLUtDdnY5RC12dUY0TWoyQWh1eUlnSU5ZNmJMNmhSQlkyeU0yeHpGVDNZZE12MlI4TjZvNzZXR2RFN0htMFZlSkxFQmxqYnBEUG1VdUNpT3VMQ1pwUG1jel95SVltMkpVOW1wZDUwWTBkb2xZYmp5dlF5V3ZnV00tTzRubW9yTlhENDVpT1VCTW1rNDFhZURtR0Z5ZlBrOWNVenAxSFlyMmhGN3FkLVAzeWNCWVZYVzBKc2VaWTllemU3NA?oc=5",
-      "description": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? PetfoodIndustry",
-      "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
-    },
-    {
       "source": "UK Food Industry",
       "title": "The two new features spotlighting innovation at the UK Food & Drink Shows - The Grocer",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeUZaQU1SNUc4UzdNbnBVVk41endlM3h5RFc4R2pRSUZud3V5ZEI0THhRUDc1dmJxVUxTUHlzM3JVMGdmRF9HYXNnRUMxVGQ1eENZSUFiX0ZlUnNCQUJmVWNIQm1vS2N4MGZzb1pmanFfdkpURTEyeGoxZHpZcS1RUUR1THo3Mng0Ti1DTzRXb2FaNDg3VlllSE5BMWJ0QS1kaWQ5cVhBTDRycE5qRHcxQ1pfZmlCdjI2elpFeU1sUTBZNWxETFNPaGw5dTFoaVVXcEN1eHFfUQ?oc=5",
@@ -268,20 +149,6 @@
       "pubDate": "Thu, 26 Feb 2026 12:53:13 GMT"
     },
     {
-      "source": "HPP Soups & Meals",
-      "title": "Pressure Cooker Chicken Stock Recipe - Serious Eats",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIcUJLSXctR05PSU9RQlNEaTFaa0VmMEFVazhEcEY0VUhqNEVPaHY2M0tfRkR2RVMxRVRqbmtLNS1ici1IUGttMFNDTFdScmdPcmJWR0tBX01wV2RpcVR2OWR5MWl6bzNHbGNkMHpNUTNQdw?oc=5",
-      "description": "Pressure Cooker Chicken Stock Recipe Serious Eats",
-      "pubDate": "Sun, 08 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Soups & Meals",
-      "title": "Incidental food nanoparticles from freshwater clam soup stabilize Pickering emulsions - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3M29MLW96aDdhaV81RWJmYlhTTHYxWER6SlcybnI2S2RjZHhjSjJXNjR6TGxIUUdqcXBnMzFxQkFOa1JiaVlxR1N1b1dMbzQ1RHlieGs0dUpjaGxIMXJj?oc=5",
-      "description": "Incidental food nanoparticles from freshwater clam soup stabilize Pickering emulsions Nature",
-      "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT"
-    },
-    {
       "source": "HPP Meat & Deli",
       "title": "High-Pressure Processing reverses the dark color or dark-cutting beef to bright red - meat+poultry",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzJuTUJEMjVscTBHVnRDWjdnR2hTM0dDWTk5ZkkwV2lXdzJwR0N0dmZaeHJ0OEhjNnRBbGNSUElDcHM1T3Y3emNBeGJrZDltMXJ3S0VydloyUXM1WWVxNzhKU1NSZGFEeUtKZ3ZtY2hLR3BSV2thNFNDMG13Tll2eTZSOEZ2aHZSMm51Q3doSGJtcHlpWlUwcm5OYU1sZjNkLXBhdzZoWDYzeFJDRzRvdWs2YjNGZnkzaXM5OE1DMDg0VUg3?oc=5",
@@ -289,14 +156,7 @@
       "pubDate": "Fri, 21 Nov 2025 08:00:00 GMT"
     },
     {
-      "source": "HPP Meat & Deli",
-      "title": "Effect of low-temperature sous vide under high-pressure on the moisture retention, tenderness, and color of pork loins - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfQVRRcWxoT2tFQzQyRFFSWTFuU2ZzcFBGWG55VFFiUzEtNXdjRGtMNmV2RUVxb1VRbmRpNFFlTTZsYWwzR2VmWkk1Wl9lU2pvYTk0U09fRDhxTS11VUFn?oc=5",
-      "description": "Effect of low-temperature sous vide under high-pressure on the moisture retention, tenderness, and color of pork loins Nature",
-      "pubDate": "Sat, 30 Aug 2025 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Healthcare & Medical",
+      "source": "HPP Cosmetics & Beauty",
       "title": "High-Pressure Processing Equipment Market Size, Forecasts Report 2026-2035 - Global Market Insights Inc.",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMDYtWF9rdDFpb2J5NnpJZW9weURRWTl2MzVmbUJGMGptVWhfQXNoMWkxYmZTcFlNbEZnMS15V3U0NDBkYXk0NnRjUzlmLWYyWFRLNGJUNXBiRUxPaXdRZ3ZDZHhaQnRldzRSWUxGQzA4VWRNMkhIc192cFJPQ3h4c1JSd3d1QXJNQllQWlNtRQ?oc=5",
       "description": "High-Pressure Processing Equipment Market Size, Forecasts Report 2026-2035 Global Market Insights Inc.",
@@ -324,18 +184,11 @@
       "pubDate": "Mon, 04 Nov 2024 08:00:00 GMT"
     },
     {
-      "source": "HPP Healthcare & Medical",
-      "title": "﻿Raw food dog diets: Trend or risky fad? Experts weigh in - ABC7 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGg3YTN5blZJZjdiQmdtcDc4bkxqOFRoSW1wN1RJemNrT0RudmlwMWMtUjlsUGJqcTQ0VUJWZHo1LWRackljektDaUNucTMyb2JjT2xOYXRnM05iMFpTc3c1Y2tSUEZOUEpWbDJTWlU3Y0RrZGRWNURFMG9WdGhDRm9sUmN5QkXSAYwBQVVfeXFMTllMME5WbHlSei1PUUoydGVtT0h5MUhiMDRqZjJ4RV9ybURNT0FWNktORWlzdi1BSVpkRm0wTXBZWE5qa0lNOVQ5a05xa0hreWtacVVhTDhRcURia0JfYS1zUnU4TU9FWDJyTE9xRjBJMHM5eFktaXFjMmJOdDFFSEdELXZ4cEdwUTd3TGQ?oc=5",
-      "description": "﻿Raw food dog diets: Trend or risky fad? Experts weigh in ABC7 Los Angeles",
-      "pubDate": "Mon, 02 Sep 2024 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Healthcare & Medical",
-      "title": "HPP putting healthy pressure on conventional processing methods - Packaging Digest",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUmFDMXZhaDFBSnotOXZpM2tNUzZSOFNmdURsY1FobUJCWmZCREM3Z056b1Eyb053ZmZHcVNidlNjLUw1bEpBTHMwZncxNk1jeG02M1lCbjZnRGlQanJUcnBLYWxROGN1MWpiYkJDdDdReUFEMjA3N0RyekhSSTdZVmVpWDVKaDNFVW9SdEFsMmYzQS0xdG9kQTJtNUppemlKOGZiMmZFM0hMOUdVbERN?oc=5",
-      "description": "HPP putting healthy pressure on conventional processing methods Packaging Digest",
-      "pubDate": "Thu, 30 Nov 2023 01:02:58 GMT"
+      "source": "HPP Dairy",
+      "title": "Why could high-pressure breast milk processing improve the life of preterm babies? - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92RTBVSTFlVFBlWXFoRHV0UWtFclFwLWYzWGNHSURSNzRyZUlGVjFGOWUtZE93dHhyWUtuekdRVDY0OVVhMkVkbWVpdkFRZGdCWTNlR2IxYlJVZGRZVGJB?oc=5",
+      "description": "Why could high-pressure breast milk processing improve the life of preterm babies? Nature",
+      "pubDate": "Fri, 22 Dec 2023 08:00:00 GMT"
     },
     {
       "source": "HPP Dairy",
@@ -350,6 +203,76 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82MlRYaEtkZnZ4RGZUWEs5ZzRYamFuS21PbDUyMTVGeUdJQkJLSHdjUkxjOTFMampBcHhRSTFyUnJJbFR5UmI2NWJTaDRrNVJNMzBlMjVhQnhvTW4xWDZCb0FqVlkyZGV5Sl93ZHpXeG55MHluV0xHUA?oc=5",
       "description": "Hot food under pressure CORDIS",
       "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Cosmetics & Beauty",
+      "title": "Toxic ingredient to avoid: BHA and BHT - David Suzuki Foundation",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DRFVtOHVwbllZVHRDWTJDTVZYMUNXUHpzSkNoV1hHb01vWjZFTElBc2s5SHg0eGJwQl8zdGFWczNmYlBiNlFhZ1lFTXpfemx4MEx3a2cwMFBIQm9IZmpuLXotUGxYWFcw?oc=5",
+      "description": "Toxic ingredient to avoid: BHA and BHT David Suzuki Foundation",
+      "pubDate": "Thu, 21 Apr 2022 00:10:58 GMT"
+    },
+    {
+      "source": "HPP Meat & Deli",
+      "title": "High-pressure processing: food safety without compromising quality - EFSA",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeFFxT2hXZ3V3Ym9sR1NCVUIzWExYaFNrWllPTy1RYURGd2QzdVc4RFV3dEtGck5SR2cwZ0lBMnc3ODhSTmtfQTNfdzRBY1RDbG1mQW03LVNBbWlpaG82QzR1bzg3MG1pbC10a2JGV2VycGJmdHVCNldvMVhmYUxRRW5icC02QXp0NmRzU0ZiaVRaNkx3WTNzbXhNRnkzWnhCOEE?oc=5",
+      "description": "High-pressure processing: food safety without compromising quality EFSA",
+      "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Dairy",
+      "title": "Keeping chocolate milk smooth, stable without carrageenan - The Pennsylvania State University",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa0hFald4QUZXby1rSDlfQjh5bHU3WTJvQVRkTzRyWGs2Q1BLSFZ1ODNXRVJGNDNxbHQzdkk3c3hQZk1NVDRpVDRFaGkwYkhCekI3UjNCQVkxbVVBNWpJV3RZdTBsOURYQWhyWGc0Qi1VdGIzMlJtYkFIa1lpWEVXbmduNUg0UEJwdWFZeVJYWWZMS25KTUxMVDFhSng?oc=5",
+      "description": "Keeping chocolate milk smooth, stable without carrageenan The Pennsylvania State University",
+      "pubDate": "Fri, 12 Nov 2021 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Cosmetics & Beauty",
+      "title": "HPPY Skin Enters Facial Skincare Market with New Mask Formulations - Happi | Household And Personal Products Industry",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSWJvTkI2Q3JBMmFVQ1B5MEZqMUkxNk84MFN2QjFnaGJzZjBlOWdiNGdJbDllZ091MDUyT2czTTJSODJRd0NxLTh6am5KYWlUZFJINjJVT3dzLVN5N3BRbFlDYnZhY29wT3R4YU00My1vXzQ5Q1ZTVXpNTGNCdGJfLUFUTDJaUTN3MFZfcDd0d2tvMk9yN19RclBzYmlHR1h1bVE?oc=5",
+      "description": "HPPY Skin Enters Facial Skincare Market with New Mask Formulations Happi | Household And Personal Products Industry",
+      "pubDate": "Tue, 21 Sep 2021 07:00:00 GMT"
+    },
+    {
+      "source": "UK HPP Industry",
+      "title": "Exclusive interview: Q&A on high-pressure processing and Listeria outbreaks - Food Safety Magazine",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNTdjQ1RaYXd6TjAxbDRYN2JqWjduSllGMjZGM0Z0VkdPVjVWZ194QWlCVWNJQkFmVkRlbF9IU3FPR2ZxQVQ3Zy16NkU5ejRoWWsxazE3cUplWVIzdUY2ZVZrS3NVdUh6VTVES2xVUklsOEQ1dXRVeTNOeWY4aEZuS1M3bWgxOElucmVJVHlDQWwtckl4aF9vRE0zelZGaGhzc3NvbnZ5Umo3THpDbF9IaG9fRnY?oc=5",
+      "description": "Exclusive interview: Q&A on high-pressure processing and Listeria outbreaks Food Safety Magazine",
+      "pubDate": "Fri, 19 Jul 2019 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Dairy",
+      "title": "High-pressure processing destroys pathogens - Dairy Foods Magazine",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUXZ0YmFRdGNfT3lJSFFWSllUMzE5R1M2Rll2ZVhpeTJiT0F2UkxxdE9UdkZqOWJ2c2ptWk9hUVFXc0hmRFNxMHR5UUtnZmNYbkdpcjFsS3ZRaThsUEZYLVpWT3RPdkFlWkRlc0ZuZjhDUEV3c2I3dDlROWZrdGJZTVp2NmFCQ0dkWW5aXzhR?oc=5",
+      "description": "High-pressure processing destroys pathogens Dairy Foods Magazine",
+      "pubDate": "Wed, 26 Jun 2019 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Meat & Deli",
+      "title": "High-Pressure Processing during Drying of Fermented Sausages to Enhance Safety and Stability - Food Safety Magazine",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcFJnWnRkWFBhUlFSYUlxd3c0NlIwZTZXT3ROeWpicHRlek1tR1FZUDNPbUFOMHZJMkpDQVc2UFFwVXFoQUxKaml6N0Z2OGlsNUlLV1RnX2MxcnA5LVRVUGE4Z2JnMVFnbjkxNjdiZHdYMGp3czZDdjJGUjJxVUx1aE11RU41WDhwQzhUNF9WQ2FlMklyQm5WdmVpaUZJOFRBYVhiY0hOVV9Bb3BvLXdWOU5BS21uc21CaE1vZmFNTGdLNGpJQ3FmZHRfcTFRTDA?oc=5",
+      "description": "High-Pressure Processing during Drying of Fermented Sausages to Enhance Safety and Stability Food Safety Magazine",
+      "pubDate": "Wed, 20 Feb 2019 08:00:00 GMT"
+    },
+    {
+      "source": "HPP Meat & Deli",
+      "title": "New high-pressure processor destroys foodborne pathogens - Cornell Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcDJfUjg5TFZyejFPcjRkSU85ZGVhdnIxQWViVENJUXp2akpBNVppODRodmVNclg5QlF3TmtfcGJPV294WW0tc3ZBcEg5Q0pTTnFkM2RVWS1MaHN2Qk1xbFRYWk1RVEFtUDdNMDZhR0VjTzFFMW9yN0Fpek0wTmFjNENuOEYxTkNxUXdab1d1bHRGRl9wMTBEbEQ2OVNKUQ?oc=5",
+      "description": "New high-pressure processor destroys foodborne pathogens Cornell Chronicle",
+      "pubDate": "Wed, 01 Feb 2017 08:00:00 GMT"
+    },
+    {
+      "source": "UK HPP Industry",
+      "title": "Fruitapeel Invests in HPP Technology - Food Ingredients First",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSlU4SFVtWk5abW9FTXAyVFhCOThHY2p4TVF6OXZnQ3A4Q21hZmlzWGdseEYzNDhtMDFnOW80NTFhbndDSE1NS2pTUUROdERCenpON0NuS2VxM2hvWmFVTTh0YUlxRW9rTjQwejBlSE9FcDBPNGFkN3FweXBPZUVvaG1rRDJ0WWFEdEpz?oc=5",
+      "description": "Fruitapeel Invests in HPP Technology Food Ingredients First",
+      "pubDate": "Fri, 27 Feb 2015 08:00:00 GMT"
+    },
+    {
+      "source": "NC Hyperbaric",
+      "title": "Deli 24 gains radical shelf-life boost with novel processing technology - Food Manufacture",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORjRXUzN2UUM2WnRvUXc1cmlSRjI1ckZueDBJLVRRVTlaOFRQR3k5VVJzNjQ3VXJ1eWZOWnhOemMwd0hTUVU0bUM5ck9fLU5XbTJ6Vl9DcFllaThUaEhTVi1hMG81RnBMRkdHSmFpVlo5dEJEa3V1Y3I2N1Z3b1I2Q09pWUlWOGU4N3dQRHY3SUZ6Skt5bVUtUHczZ2pXMkhEWkZpdnN2ZGl4TlZtQXg3aWJWdVF4YmVDZGh4TmxXUDh0M3M?oc=5",
+      "description": "Deli 24 gains radical shelf-life boost with novel processing technology Food Manufacture",
+      "pubDate": "Mon, 17 Jan 2011 08:00:00 GMT"
     }
   ]
 }
