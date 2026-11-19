@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-18T18:40:19.095919+00:00",
+  "updated": "2026-11-19T01:44:38.510277+00:00",
   "articles": [
+    {
+      "source": "Food Safety News",
+      "title": "Aldi recalls tortelloni because of botulism risk",
+      "link": "https://www.foodsafetynews.com/2026/11/aldi-recalls-tortelloni-because-of-botulism-risk/",
+      "description": "ALDI of Batavia, IL, is recalling Priano Protein Carbonara Tortelloni and Priano Protein Herb & Cheese Tortelloni because of the risk of botulism. The products may not have been stored, distributed or sold at temperatures that may allow growth of pathogens including Clostridium botulinum, which causes botulism poisoning.&#xa0; Consumers",
+      "pubDate": "Thu, 19 Nov 2026 00:37:11 GMT"
+    },
     {
       "source": "Food Safety News",
       "title": "California plans research project to investigate Cyclospora contamination of lettuce",
@@ -268,13 +275,6 @@
       "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
     },
     {
-      "source": "HPP Cosmetics & Beauty",
-      "title": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing - Nutritional Outlook",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDBoRW1EZEpqYmQ5Sm9XLVRycFVJN2gzSDNiTkNWX0taRUhvcTlIZlo4UUlvc2tUeldqZ3ZDUEw4bFpLcl9jbW10ZV9DYVpnc1daWS0tc2VyZ0sxSWxDN1llX1J0TGJ1ZUJOVjhVdHViRmg2WDRHRzJTU1Z4UnN3YnpoMkxsWENSblZZV3cwSFJwY1NyQWNGQmxPU190dw?oc=5",
-      "description": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing Nutritional Outlook",
-      "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Juices & Beverages",
       "title": "How Suja Organic Pressed Optimism Out of the Cyclospora Outbreak — LBB - LBB - Little Black Book",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUXI5UUFKbXE3bE85TmZJeU0yQ0dWQ2RHWFBEWjZOLWxjN1RyUGdaazhLMUJKYTV4alNvN1hPbkVhWGNkeGFIWVVFU3dMSXlxempjSkFrcDJINktoX3ZKeUtQc2RYMFNwZXZzaC10NTJBSnNaZEJudGtGOTRJTGpNRXVWemprdnV1?oc=5",
@@ -283,6 +283,13 @@
     },
     {
       "source": "Hiperbaric",
+      "title": "Hiperbaric to supply first Spanish-built HIP system to TTT Group - Metal Additive Manufacturing magazine",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2pMRnhXaDV5blFZbGRMRUxQb1dxRFJFQXl2Z29WOEc1Ry1RNWdNSFVCUHhGb3cxMHhVOWJIRUt6QnF1MW5tdWRiaDdvNExubUN0WVB1RW41dEVhcVFuUTdFLVdXaFRIU1FOempJZk90MVFjRXdnTGtUTzdxc2lYWTRWaWRjSU1iUDdvWVpCN3NTcGVL?oc=5",
+      "description": "Hiperbaric to supply first Spanish-built HIP system to TTT Group Metal Additive Manufacturing magazine",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Hiperbaric EU",
       "title": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts - TCT Magazine",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM29NRXg0WXVha25KbzRLcm9zV0dRUG81ZVhpaGllbzdRR0FyVm1uVDBtVTZkR01tR1VKck56c2xxSC0yRDB1bUsyajAyd19Eb1I4UWRtY0VMVU9VNFlrWGJDSzdDQms0T0VwbE04WWl1V2k5b3cxZmVCSXZPUlg3OTI5Uzh1b2ZPRUhhZ0t6ckhqdHhhQVhfdzVJaVI1dEUtRy1OZERuMGwzY3RUdTc0UUZadFRKVU1JRmFWQVFwZHg3UWc0U3drMUVvZmY?oc=5",
       "description": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts TCT Magazine",
@@ -343,13 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CWjFEcVNqTGJGakV4YUVfWWNyWlF1d2MwWTB0bXNqZEV4MUZDMWpDbktqYkV2SjZMWmstbGx5YjQ4Y0xPN2wtQUkwbVVXUmp2bUpfYTk5XzlTZw?oc=5",
       "description": "Salmonella: Lidl Ireland recalls chicken products over bacteria concerns BBC",
       "pubDate": "Tue, 12 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Seafood",
-      "title": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence - SeafoodSource",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTVMd1J4UjR3aFU0UzdQTzhWRUJ4ZlZhdk93RXN5U3I1MkRhNThxM3luS3pLQ3pRWVJub282WC1mQ0RjeWczNEpMbWR0cHRwbGV0Z2IyNUYta2tDU1k3YUpoVDRnT3JpR2JwdUlvUVNDWGRDSEdoOHNvYzd0dGVKY3NuYVpWaWNBWXltWkxmUWlzNkhuazJSSXZ0clBvSUFJZ1dWclVhZkg3YVhmV2lzelhGQVNsS2d5amQybVZVR3FxbDAzUE9Db1ZncUdibzJadzV5X05VZm9YT0hsZ29LdklzRFptNVVBUW9FTzNR?oc=5",
-      "description": "UK oyster producer turns toward tech investment to overcome public food safety fears, boost consumer confidence SeafoodSource",
-      "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
     }
   ]
 }
