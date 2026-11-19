@@ -1,19 +1,54 @@
 {
-  "updated": "2026-11-19T01:44:38.510277+00:00",
+  "updated": "2026-11-19T09:56:36.917272+00:00",
   "articles": [
     {
       "source": "Food Safety News",
-      "title": "Aldi recalls tortelloni because of botulism risk",
-      "link": "https://www.foodsafetynews.com/2026/11/aldi-recalls-tortelloni-because-of-botulism-risk/",
-      "description": "ALDI of Batavia, IL, is recalling Priano Protein Carbonara Tortelloni and Priano Protein Herb & Cheese Tortelloni because of the risk of botulism. The products may not have been stored, distributed or sold at temperatures that may allow growth of pathogens including Clostridium botulinum, which causes botulism poisoning.&#xa0; Consumers",
-      "pubDate": "Thu, 19 Nov 2026 00:37:11 GMT"
+      "title": "FDA report fails to name restaurants, packing house, farms behind Salmonella outbreak",
+      "link": "https://www.foodsafetynews.com/2026/11/fda-report-fails-to-name-restaurants-packing-house-farms-behind-salmonella-outbreak/",
+      "description": "“State partners were investigating a subcluster of illnesses associated with a local (redacted) (redacted) restaurant, and illnesses in restaurants,\" the report states.",
+      "pubDate": "Thu, 19 Nov 2026 05:08:00 GMT"
     },
     {
       "source": "Food Safety News",
-      "title": "California plans research project to investigate Cyclospora contamination of lettuce",
-      "link": "https://www.foodsafetynews.com/2026/11/california-plans-research-project-to-investigate-cyclospora-contamination-of-lettuce/",
-      "description": "The California Department of Food and Agriculture plans to conduct research on Cyclospora infections and how to prevent them. The move comes on the heels of a nationwide outbreak of infections this past summer. The agency plans to use &#x24;250,000 of left over specialty block grant funding from",
-      "pubDate": "Wed, 18 Nov 2026 05:03:00 GMT"
+      "title": "FDA report on romaine outbreak has much information redacted",
+      "link": "https://www.foodsafetynews.com/2026/11/fda-report-on-romaine-outbreak-has-much-information-redacted/",
+      "description": "The FDA has posted an Executive Summary of an outbreak investigation into a Salmonella I 4,[5], 12:i- outbreak, but much of the key information has been redacted. In addition to blacking out other information, the Food and Drug Administration redacted what state entities assisted with the investigation and",
+      "pubDate": "Thu, 19 Nov 2026 05:06:00 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Senators ask HHS Inspector General to investigate Cyclospora outbreak response",
+      "link": "https://www.foodsafetynews.com/2026/11/senators-ask-hhs-inspector-general-to-investigate-cyclospora-outbreak-response/",
+      "description": "Three senators have asked the Inspector General of the Health and Human Services Department to investigate how staff cuts and policy changes at the FDA and CDC contributed to the response to this summer&#x2019;s Cyclospora outbreak. Senators Patty Murray, D-WA, Vice Chair of the Senate Appropriations Committee;",
+      "pubDate": "Thu, 19 Nov 2026 05:06:00 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "FDA report withholds information on what produce sickened more than 100",
+      "link": "https://www.foodsafetynews.com/2026/11/fda-report-withholds-information-on-what-produce-sickened-more-than-100/",
+      "description": "A final outbreak report from the FDA says a common produce ingredient was responsible for the infections, but the agency redacted that information. In its Executive Summary about a Salmonella Newport outbreak that sickened 119 people, resulting in the hospitalization of 19, the Food and Drug Administration also redacted the",
+      "pubDate": "Thu, 19 Nov 2026 05:05:00 GMT"
+    },
+    {
+      "source": "Food Safety News",
+      "title": "Tomato restrictions eased in Italy after Salmonella concerns",
+      "link": "https://www.foodsafetynews.com/2026/11/tomato-restrictions-eased-in-italy-after-salmonella-concerns/",
+      "description": "An Italian region has lifted restrictions on the use of most fresh tomatoes in food service. Officials in Foggia said raw tomatoes can now be served unless they come from Caltanissetta or Ragusa. The change was made based on the updated epidemiological situation and guidance from the regional health authority.",
+      "pubDate": "Thu, 19 Nov 2026 05:04:00 GMT"
+    },
+    {
+      "source": "Quintus Technologies",
+      "title": "Quintus Technologies Appoints Maria Samuelsson as Chief Human Resources Officer - https://hrtoday.in/",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWG1MSGV1Tkw5X3B1cUtBR2JibmYteW1OVXZFbUp2REpmTEFZZ3RTVk1wYjNNcDRtUzJQZ2w1MlhMamJwQkZSM0FkdVVYRlJ4WkNnOWhGZGlKUlEtNUxHUlJnZ1BXWHpTOWhCU3VSQXU0bWU1a0lfYXdqR2poeUIwRks2Z2tEa3FiVUZJb2o2QlpRdFRfNlZQT252WTh6UHFs?oc=5",
+      "description": "Quintus Technologies Appoints Maria Samuelsson as Chief Human Resources Officer https://hrtoday.in/",
+      "pubDate": "Wed, 18 Nov 2026 23:56:51 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Chinese potato processing equipment expands into international markets - FreshPlaza",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbmRZQjdPRy1zWkd5aGNaYXBTTktuUHdZQnhYU3RjU3R2RVdvNnFpcmdLY0g5NDlUZ2xITFhUSTFySEV5cGE4RWVnZlJqRDhsNk43R0pmZ3FJY0RKZ2hSZkNYaVhOU3ZLU1FFWWtRYXg3TThFSFMwX2pXQ3c2cE5OemYzWU9maGFUd2RJS1EtTXhGSngyd0Q2VC1Na2VOTjhKMXhoU2tlU1k1V0xzanE5VWstUkF2ZU9sYklkd3pn?oc=5",
+      "description": "Chinese potato processing equipment expands into international markets FreshPlaza",
+      "pubDate": "Wed, 18 Nov 2026 17:04:18 GMT"
     },
     {
       "source": "Quintus Technologies",
@@ -28,34 +63,6 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmN1RGpDX1drcTd6TlJMWTNyR3BpeDhPTnlFUXRMTTV2OW5fSVRuTWZKTjRsZkdmYnlFQVFOdXAwRTRvamtYYW00amRlaGFWNEZEQXlXdTNyUjRpaFczSlNMem1VZ0l4R0tPQmFPbF83S3VaaldiN3M3bElrcWV4TWNxT2prN2JXSmI4QnhUMy1LLVZ1M0M2NzFxYw?oc=5",
       "description": "10 reasons to attend Food Manufacture 360 Food Manufacture",
       "pubDate": "Tue, 17 Nov 2026 10:52:35 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "More E. coli patients confirmed in Ohio University outbreak",
-      "link": "https://www.foodsafetynews.com/2026/11/more-e-coli-patients-confirmed-in-ohio-university-outbreak/",
-      "description": "The patient count for an E. coli outbreak at Ohio University continues to grow. As of Monday, Nov. 16, there were 16 confirmed patients, up from 11 patients on Nov. 13. According to a statement from the Athens City-County Health Department, a source of the pathogen has not yet",
-      "pubDate": "Tue, 17 Nov 2026 05:04:00 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "Cheese linked to Swiss Listeria infections",
-      "link": "https://www.foodsafetynews.com/2026/11/cheese-linked-to-swiss-listeria-infections/",
-      "description": "Officials in Switzerland are trying to find out if Listeria detected at a company is connected to recent infections. In early November, Swiss authorities announced that Listeria had been detected in soft cheeses sold by Eberle Spezialit&#xe4;ten and Str&#xe4;hl K&#xe4;se. Items were available at",
-      "pubDate": "Tue, 17 Nov 2026 05:03:00 GMT"
-    },
-    {
-      "source": "Quintus Technologies",
-      "title": "Quintus Technologies Appoints Maria Samuelsson as Chief Human Resources Officer - https://hrtoday.in/",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWG1MSGV1Tkw5X3B1cUtBR2JibmYteW1OVXZFbUp2REpmTEFZZ3RTVk1wYjNNcDRtUzJQZ2w1MlhMamJwQkZSM0FkdVVYRlJ4WkNnOWhGZGlKUlEtNUxHUlJnZ1BXWHpTOWhCU3VSQXU0bWU1a0lfYXdqR2poeUIwRks2Z2tEa3FiVUZJb2o2QlpRdFRfNlZQT252WTh6UHFs?oc=5",
-      "description": "Quintus Technologies Appoints Maria Samuelsson as Chief Human Resources Officer https://hrtoday.in/",
-      "pubDate": "Mon, 16 Nov 2026 23:18:24 GMT"
-    },
-    {
-      "source": "Food Safety News",
-      "title": "FDA investigating two new Salmonella outbreaks",
-      "link": "https://www.foodsafetynews.com/2026/11/fda-investigating-two-new-salmonella-outbreaks/",
-      "description": "The FDA is investigating two new Salmonella&#xa0;Enteritidis outbreaks with traceback efforts having begun in both on unnamed foods. One of the outbreaks has sickened 31 people while the other has sickened 14. The Food and Drug Administration is not releasing any patient information such as their ages or",
-      "pubDate": "Mon, 16 Nov 2026 05:05:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -112,6 +119,13 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYUR5ampCdVZMeHN3bUJBczh3aHhXVnZoSGpDcU80LXBBaENzLWxHWTZLbVdQVWZuWHNXTkdqS1E2SFpfOWlYSXZNRFNqZG5PZkJNRk9nRDR6aGxJVF8xMUtZVnJTU2xfSVVzc2YyYUVJeWt0TEcxcmF0RzdZdENVN1dMOVRuYXJGNElQRWdtcXAyOWJDZVlsLW56ZW5NZXhsanpZZmVSQ1dPQ2pOdlMzZW9hNmRJSXlC?oc=5",
       "description": "New Food Processing Technology at UGA Helps Georgia Food Businesses Innovate and Grow Morning Ag Clips",
       "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Avure HPP",
+      "title": "Agricultural Corporation Tomato Corpora - [Used] Avure HPP Food Processing Equipment - 다아라",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84WTNQOVVVaDU4d25ELVdLV09HWkxSMkZoaEhqVDZDX2ltVm51c2hDZDBVTS15NW0wbC1aMndmNS1jbjVMWmo0dl91YXlpOTYzRV9SS0psNjA4emRPYVlJREJ1UXNYQ2lsUHc?oc=5",
+      "description": "Agricultural Corporation Tomato Corpora - [Used] Avure HPP Food Processing Equipment 다아라",
+      "pubDate": "Tue, 13 Oct 2026 10:03:34 GMT"
     },
     {
       "source": "HPP Equipment & Machines",
@@ -261,13 +275,6 @@
       "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Taylor Farms recalls jalapeno products after salmonella outbreak - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uXzFFNDRtRnhNcEl5LXNla2tJQmZCY0lkQ0NtN0ZnYzJ5aWRXenhXT1hiYkRDbUhqTkJTYkJvaHNwV2RoR19vUGRwaHctNzdyWmtWcWRKWWl3QQ?oc=5",
-      "description": "Taylor Farms recalls jalapeno products after salmonella outbreak BBC",
-      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
-    },
-    {
       "source": "Food Safety UK & EU",
       "title": "Taylor Farms recalls jalapeno products after salmonella outbreak - BBC",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKTlNobWFRZHVUZ0JOTkpoNU9vZVQwZGhtamJjR2F3eWtMYnJucUJNaWpoT0ZkTi00aDUxbGg3eHJtQ3pxS1R3NVVXYTBVQm9zeWN4c3luU1VRQTdy?oc=5",
@@ -294,6 +301,13 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM29NRXg0WXVha25KbzRLcm9zV0dRUG81ZVhpaGllbzdRR0FyVm1uVDBtVTZkR01tR1VKck56c2xxSC0yRDB1bUsyajAyd19Eb1I4UWRtY0VMVU9VNFlrWGJDSzdDQms0T0VwbE04WWl1V2k5b3cxZmVCSXZPUlg3OTI5Uzh1b2ZPRUhhZ0t6ckhqdHhhQVhfdzVJaVI1dEUtRy1OZERuMGwzY3RUdTc0UUZadFRKVU1JRmFWQVFwZHg3UWc0U3drMUVvZmY?oc=5",
       "description": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts TCT Magazine",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "Nearly 100 Sick in Multistate Salmonella Outbreak, Millions of Eggs Recalled - Food Safety Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOWp4MS1vOW11ZVpvXzZoSjlManJ3YWRSak03N3lTTnA3OS1fNVBGc1FvYkFCR3RCSkRqandqREZzSi1nN0xRTG55OE81elhHN1poM0ZCMmtmWnEteGZfa3Y1MVVZek55bjh5NXp6VXMxOVBtUkhkdndYS2toT3VLaDlLbzQ5elNUM0hDQWZqQmVhajNxQ19PMXhMTGVUTHloX2N5SWE2SjZMMWNMc25vaXBCV2M0RU1OZ0E?oc=5",
+      "description": "Nearly 100 Sick in Multistate Salmonella Outbreak, Millions of Eggs Recalled Food Safety Magazine",
+      "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT"
     },
     {
       "source": "Listeria Outbreaks",
@@ -336,20 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGNnaExYaDZIa3BFcnRyZGJxODFSSHFWTTFSTk5fNUNqbHJsbFVEbVloWVZYdUhMakFTZmloTnpacGI4N3c3c2lUcS1HcjhRTG1aTU81UmZIQVRRMWZqSk9QYUhfUjJ5RENGaVQ0clRfd0NoenlLNk1IdXdzRlBpZlNR?oc=5",
       "description": "Why Trader Joe's Was Once Sued Over Juice Tasting Table",
       "pubDate": "Sun, 17 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric",
-      "title": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? - PetfoodIndustry",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTVFPakRRZlRhZG50MVZBdmVxdVZhVzlJRC1LNlBFOS1MNVI0SUhlT2FrUloxRkN5Qi1Bcm4yS0hFLUtDdnY5RC12dUY0TWoyQWh1eUlnSU5ZNmJMNmhSQlkyeU0yeHpGVDNZZE12MlI4TjZvNzZXR2RFN0htMFZlSkxFQmxqYnBEUG1VdUNpT3VMQ1pwUG1jel95SVltMkpVOW1wZDUwWTBkb2xZYmp5dlF5V3ZnV00tTzRubW9yTlhENDVpT1VCTW1rNDFhZURtR0Z5ZlBrOWNVenAxSFlyMmhGN3FkLVAzeWNCWVZYVzBKc2VaWTllemU3NA?oc=5",
-      "description": "Webinar: The Science Behind Safe Raw Pet Food: Does HPP Deliver on Food Safety and Product Integrity? PetfoodIndustry",
-      "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "Salmonella: Lidl Ireland recalls chicken products over bacteria concerns - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CWjFEcVNqTGJGakV4YUVfWWNyWlF1d2MwWTB0bXNqZEV4MUZDMWpDbktqYkV2SjZMWmstbGx5YjQ4Y0xPN2wtQUkwbVVXUmp2bUpfYTk5XzlTZw?oc=5",
-      "description": "Salmonella: Lidl Ireland recalls chicken products over bacteria concerns BBC",
-      "pubDate": "Tue, 12 May 2026 07:00:00 GMT"
     }
   ]
 }
