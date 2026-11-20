@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T09:44:06.423395+00:00",
+  "updated": "2026-11-20T18:21:22.008381+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -51,6 +51,13 @@
       "pubDate": "Wed, 18 Nov 2026 23:56:51 GMT"
     },
     {
+      "source": "Food Safety UK & EU",
+      "title": "The latest product recalls and safety alerts from Which? - Which?",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnZEdm8tLUMxdlpRajZ4bGZ1eE5nRElJdGtTVDB5R0hMcWxoV2NIV1BvSkNsY3BUaGl6TzV2cXZSdEZWV0JOenZseW5icmxadFBZcERkOGpMb3BjaGJrN241Q1VCeWw1TldCMjBscEtfTzkwM2tsTTJyQlI0VkFaVWRseVZObmoycnRFaXJkQlY?oc=5",
+      "description": "The latest product recalls and safety alerts from Which? Which?",
+      "pubDate": "Wed, 18 Nov 2026 08:00:00 GMT"
+    },
+    {
       "source": "Quintus Technologies",
       "title": "Maria Samuelsson Appointed Chief Human Resources Officer at Quintus Technologies - https://hrtoday.in/",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2Z6NlBodEh2S0hnR2hJa0pUV3c5OGtVdmJIbDREenJvS3VrVWU1bHBZazJ3aEplQjlhNnhqbFhScnhmcjFxY3ZmQkRaaXIzcEVYSGFIVVJLaG1hWDVNSGkxbFczWS1HTlJoVG1LZDVLb0NqaGFET19faHhHc0xMQTExZWRvN3ROVkpsbHVMXzBCSVg2WHl0Z0RpMmJYVTR2a0E?oc=5",
@@ -65,11 +72,18 @@
       "pubDate": "Mon, 16 Nov 2026 09:03:59 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "UK Salmonella outbreak captures public’s attention - Food Safety News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZmtNOHFuZzltX3ByeUZublBoYW50Nk5xSV9xZUdHNzI1dmFMSjdseGgwWm0yWDR1bUJHQUhMUFFTZHJmeVFScEtNT0kzV2xnWGI1Mlp1bFJWMVp2OHp2MDAwVndfc19jZjdDVWZycmRxV0R1NG1rUVpGLW9IbTk4Y3BjQ0NnSE5EZVFSX3p2RU1NZDA?oc=5",
-      "description": "UK Salmonella outbreak captures public’s attention Food Safety News",
-      "pubDate": "Wed, 11 Nov 2026 05:04:45 GMT"
+      "source": "Salmonella Outbreaks",
+      "title": "FDA Adds Two New Salmonella Enteritidis Outbreaks to Its Investigations Table, 49 Sick and No Food Named. Here Is Everything That Changed This Week. - Food Poison Journal",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPMkdNbzN2eVFpTURrbzE4dXlaSkJHLXhCYUdJZFhLMzdyYkNwSFFLajZlQWZBcVVjRkpwdHU4dDlfNFVZLUlMVFo0SEFzcElSSHU5ejl5QmZtVlFjNXpKYVphZGhmQ0NrcWk3X0laaFZabkNVbS1neTJaZ3dVM1lIdmUtc2h0a0xYNXlxeW10QXNLVFNPVGMxVlhyOFhsMEQ0ODlPUTc1a1R1b2hSTlNRV0RqWnhpdkRWTFBsc29qaWNaQWpXTnJDZlExZGlxRzhLdkRnUms5WkFZdHRIbVBqQ0UyWGpDX3lkaXVZSTRjUmoyQ1lQdmtFcFFWNURaUVRWMnJ5R1NFamFqQmdyVDA5WnRCNndHc0VVYnpUN2d2MzJMYU4tTlVyTTh5X294Uy1L?oc=5",
+      "description": "FDA Adds Two New Salmonella Enteritidis Outbreaks to Its Investigations Table, 49 Sick and No Food Named. Here Is Everything That Changed This Week. Food Poison Journal",
+      "pubDate": "Sat, 14 Nov 2026 03:48:11 GMT"
+    },
+    {
+      "source": "EU HPP & Food Tech",
+      "title": "Food Processing Equipment Market Size, Share, Trends 2036 - Future Market Insights",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON2dJSGRockNmckhCU3g5YXNWX0otS3VYUzUzclNtODZxUWFMdU1OZFBsc1NkVlN1NzQ4V0xLajVQc1BCcTBEd2l1V0FwQW5WQ1p1aTJPTldOMDduWldwN0RBcmU1VUdqbTU4UlRmcjVqYnA5Q0N2QldVS2hSckhVZ1gzRQ?oc=5",
+      "description": "Food Processing Equipment Market Size, Share, Trends 2036 Future Market Insights",
+      "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -79,14 +93,7 @@
       "pubDate": "Wed, 04 Nov 2026 08:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Salmonella Outbreak Linked to Broccoli Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QbXN1MHR6ZnJRR0MyMDNLVVFaUmlEM0w2NEp5SVJYbVJwVjROVGxJRDBWeExBUnJpaE9nRTF6aUNrNkxPRHB2UGFfRWtsTEdxWnRBQmw5SzZVMjliVXAwdzRCakpxd2Q3MWhZdWk4bUZUNlNLWlM0bkFIVW1odzA?oc=5",
-      "description": "Salmonella Outbreak Linked to Broccoli Sprouts Centers for Disease Control and Prevention | CDC (.gov)",
-      "pubDate": "Wed, 04 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "source": "HPP Seafood",
+      "source": "HPP Dairy",
       "title": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 - Fortune Business Insights",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaExyNHUyeE9rM0ZPN2dtQk0yMzllUTFZQnBYMnE5SkxXZGpLVlZwTk54eWY2eFF6S3RZWFFUcUR1Yjk5WXVaUGRIQV8zN2d4Y2doUzNPM1RiVkxjdy0yNDExTV9pN1hybUpYbE1iSU5pcnlMcUN0TGZJTUZpc28yR2VEU1M0M0dGc0k2a2lUVjcwQS1OZlFB?oc=5",
       "description": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 Fortune Business Insights",
@@ -156,13 +163,6 @@
       "pubDate": "Fri, 02 Oct 2026 11:21:46 GMT"
     },
     {
-      "source": "UK HPP Industry",
-      "title": "ROSS details 600-gallon pressure vessel - www.bestmag.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SMmp2VUNXOVI2SVM5VUNYUjh3QTNzTk9RXzZKU3hwRHBKZTlhWmJOOHM1LVVwVzFHSDd4TGdvQ2p1a3VTMl9GVHd2a0FLamxweV90R25YdjdBejVKN0RZTXMzX2lTRmo3RXpRYVBscFlpV2FJ?oc=5",
-      "description": "ROSS details 600-gallon pressure vessel www.bestmag.co.uk",
-      "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT"
-    },
-    {
       "source": "HPP Meat & Deli",
       "title": "Oklahoma State University Workshop Highlights High-Pressure Processing Benefits for Beef Producers - Oklahoma Farm Report",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSmk2RjVBcUQwY0NzYmNZRks4NFh6RmJncFNWbXFXLW5ZdVBCZWpKM21jVm5MYWtGWjBOQ2lzOW9xLTVJZ3pwNkhULWlvU3czSFplQzY0em1JbHR0QnNjX19TOXdYOHdYVVFfMXlnMXhPeHpUbTJCX1pJU2NwYzNFNWtiX2hBdjBrbFdsWmQ0d2g5dEtBTGxaVUliRzJSVUJEaHk5SmE3enQ2Y1o3SU1pWFp4YzhiTHpHVXJ4dVFndW5PQUVCVEt6c3BQaE95aE5wR0RkVU1nVDF5Z20tbkE?oc=5",
@@ -192,9 +192,9 @@
     },
     {
       "source": "Hiperbaric",
-      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTXZyd2stTWhCMDlUT1Y5Nk5TZlFLdnlRbjMzaTBEZ3ljeW80RTB6ZEI5T0xfOVh0b0Yxd0hWV1BiWGhHSnVQRjVTRU94eXBBaTk3d29hZ0xTNHA5dFpfaHN1SnlINkltYnJYN0Q2ZXVZZTE4NkJZZXlxdEpLd0w3UWJxRm0wWG5FbkNjWlp0b2g0MzJNbFVBRDZvbG05NHI2REVpNFZMX0lHLTEzSHA1R0hpSzF0QnR1OTVYU0pPLUhXYjBqZlQxOFg2NWVIS1JRNDllRjhLemVfakVLUUhEOW9MWDNxQ3ZFU2REVVg2Q1ZGZWE3RjZfVFFwY1JxeF93M2Fsdmx4SQ?oc=5",
-      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 PR Newswire",
+      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM0pXdmt2NmZIcFRyQ25Ea29yVGdabk1MRHZodlh2enR0RS1QaThUUDMyaWhzYXZlN2tIODY5cHNWaGJyVW5iOXU1TFBmSkc0MWhkMmlOMF9tOS1jeWViSHNiUnA5RU1LMVFkOTdfaVQ2Y1lLSG1lM2VCYkJ2VEpTdGtINVFKTHFud3lSWWt6QkY5bDR6TzU4YzhUSWV1ZmtVZmhydHl3?oc=5",
+      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 Yahoo Finance",
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
@@ -202,6 +202,13 @@
       "title": "High-pressure processing expands beyond juice - Beverage Industry",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdzlBX1BVTWNYR2RHendiQzlvVjBWU3ZMNTNEZXQwUlo2bmJ4UFd4OU0yc2k2bUdMZ3JQT19YQkQ1cm1INDAtRkQwb2NySmxrTUVFNUJ3MnpmNldOWWFKTHFzUnlZOVFtX2xJcUZ3M0RSeFV1LUlvRTVrc0M0Q3FlazhRYlpoV3ExNVRxNnJabUI3UQ?oc=5",
       "description": "High-pressure processing expands beyond juice Beverage Industry",
+      "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Equipment & Machines",
+      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTXZyd2stTWhCMDlUT1Y5Nk5TZlFLdnlRbjMzaTBEZ3ljeW80RTB6ZEI5T0xfOVh0b0Yxd0hWV1BiWGhHSnVQRjVTRU94eXBBaTk3d29hZ0xTNHA5dFpfaHN1SnlINkltYnJYN0Q2ZXVZZTE4NkJZZXlxdEpLd0w3UWJxRm0wWG5FbkNjWlp0b2g0MzJNbFVBRDZvbG05NHI2REVpNFZMX0lHLTEzSHA1R0hpSzF0QnR1OTVYU0pPLUhXYjBqZlQxOFg2NWVIS1JRNDllRjhLemVfakVLUUhEOW9MWDNxQ3ZFU2REVVg2Q1ZGZWE3RjZfVFFwY1JxeF93M2Fsdmx4SQ?oc=5",
+      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 PR Newswire",
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
@@ -247,18 +254,11 @@
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "US dog food brands issue urgent recall over salmonella and metal contamination - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFUwQVFZc0FuMHRIQnZWUWFEZzBxYkJrUWdMcjlGdGpTWm02Q3U4NDBYaEtWLXRyQ1pnYkc3LXhxeHEza3JkX2R3MWNrMmRBcGlYUWRQaVROdEYtdjBsd1BfRlcyMFlEa2RVR1NBOWg4XzVFOWZMaGtfZHMzWF9rbGY1S1l0ekREMXV0RHh1WXBXZTRwWU9hQ2lmVWx5VURsTlhHbzBuMk5HV1JTOTJaRmY3dlUyZw?oc=5",
-      "description": "US dog food brands issue urgent recall over salmonella and metal contamination The Independent",
+      "source": "Salmonella Outbreaks",
+      "title": "Investigation Update: Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zb05obHd4ZVBoakNZLXo3RXN1eTFHWF9HeHlrRVJERXk5anNKby1QbXNtZkRiSWVZWE51QUlacFBBcDhmUDVmZXREVmNCZ1ZuaEtDVWl3NnZkSGxvQ1FrX2FRRl9PdHpBRHc4UG9qU0dvVmdxV0JkSTEwNWtuZw?oc=5",
+      "description": "Investigation Update: Salmonella Outbreak, August 2026 Centers for Disease Control and Prevention | CDC (.gov)",
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "source": "EU HPP & Food Tech",
-      "title": "Fruit juices Made in Italy: quality and innovation - www.greatitalianfoodtrade.it",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTHBnZFo0blBzcVd1bUs4bW1jNzd0STRJRUpjamVkRGtycG0yLW5FbS1ZRUlERTZPakFodURrQWtiSWEwTW9wTUY1WUJHZmRsWUd3aHpmbWFDZGJ4Um1LM0VidjlYVXNGZmdVSkh1ejk4OHU4aDNGQzM2T0lISnBqRDRIOWJSeUU?oc=5",
-      "description": "Fruit juices Made in Italy: quality and innovation www.greatitalianfoodtrade.it",
-      "pubDate": "Mon, 24 Aug 2026 07:00:00 GMT"
     },
     {
       "source": "Food Safety UK & EU",
@@ -338,18 +338,18 @@
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Nearly 100 Sick in Multistate Salmonella Outbreak, Millions of Eggs Recalled - Food Safety Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOWp4MS1vOW11ZVpvXzZoSjlManJ3YWRSak03N3lTTnA3OS1fNVBGc1FvYkFCR3RCSkRqandqREZzSi1nN0xRTG55OE81elhHN1poM0ZCMmtmWnEteGZfa3Y1MVVZek55bjh5NXp6VXMxOVBtUkhkdndYS2toT3VLaDlLbzQ5elNUM0hDQWZqQmVhajNxQ19PMXhMTGVUTHloX2N5SWE2SjZMMWNMc25vaXBCV2M0RU1OZ0E?oc=5",
-      "description": "Nearly 100 Sick in Multistate Salmonella Outbreak, Millions of Eggs Recalled Food Safety Magazine",
-      "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT"
+      "source": "Listeria Outbreaks",
+      "title": "15 recent food, product recalls that may impact you - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTUpmWHBEaEdMem5tR0R6ZkhUdTZxUXBiNVppU1dSZ1MyVHBjWTRaenlFdmE1SFhlWVVkc0ZlU0ZTZktET3JNcVZjVTNPVkoyN3lRR1N3T29jQlR4SU80RE5waEg5bDdJNi03RGdwT0ZhNjRzRU1uT0VqUW1Nck8wdEJiSXdKMlhJaWpFc00zY0R0d9IBlwFBVV95cUxOT1lqVHB4dFBqY0habDlzdmlNSG5uUVJWVURkOVdNTzlrNDMwMTRjLU5raTBYTXNnMUUweDRYclM2UE9lZlpjLVBONWlCMFdxam5xQlY2QmdGc21LOVN1U18tSjNGNHRTenVYQW5YV0tpREpuS3NpUEphWEpwYXdJcW51M2dqVmJnbXlqVExrZDFtUTBxRUg0?oc=5",
+      "description": "15 recent food, product recalls that may impact you The Hill",
+      "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "UK HPP Industry",
-      "title": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors - The Engineer",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbFYzSUNCVHQxSHhmR0RBWDNtZFNkMDZTU1FTYXlVSDI3OUtleGZBNy1wNVU4U1ViazJqcW9odzQyOGpqMUM5S2o5aHo3S2R1ZlVVZV9OMTJOaU51eGM2TUtEaEttQ3hUZHRsdWZ5d2Joc01mWmxKY01WSWo1TjYzcmNPWGdlVzU2djJBQ2JDdXVpRHRWV1ZvN2tKZ2UyVXZtU2ZDVS0wQm9NSjVGaFJ1b0lRUHlZOUcwbTZhcDZkS0txSTMxenNvR0RxYnhpUDF1Vl9kS0pZejktaVBPc1ZRMVVBaHVQTzZsY1VMVnZlVG1QeTNwWlpaT3Jn?oc=5",
-      "description": "Peace of mind under pressure: Deli 24 strengthens reliability in food manufacturing with Atlas Copco Oil-Free Compressors The Engineer",
-      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT"
+      "source": "HPP Seafood",
+      "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
+      "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
+      "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
     }
   ]
 }
