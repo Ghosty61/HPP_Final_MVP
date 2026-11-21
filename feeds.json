@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T18:21:22.008381+00:00",
+  "updated": "2026-11-21T01:06:51.408280+00:00",
   "articles": [
     {
       "source": "Food Safety News",
@@ -51,13 +51,6 @@
       "pubDate": "Wed, 18 Nov 2026 23:56:51 GMT"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "The latest product recalls and safety alerts from Which? - Which?",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnZEdm8tLUMxdlpRajZ4bGZ1eE5nRElJdGtTVDB5R0hMcWxoV2NIV1BvSkNsY3BUaGl6TzV2cXZSdEZWV0JOenZseW5icmxadFBZcERkOGpMb3BjaGJrN241Q1VCeWw1TldCMjBscEtfTzkwM2tsTTJyQlI0VkFaVWRseVZObmoycnRFaXJkQlY?oc=5",
-      "description": "The latest product recalls and safety alerts from Which? Which?",
-      "pubDate": "Wed, 18 Nov 2026 08:00:00 GMT"
-    },
-    {
       "source": "Quintus Technologies",
       "title": "Maria Samuelsson Appointed Chief Human Resources Officer at Quintus Technologies - https://hrtoday.in/",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2Z6NlBodEh2S0hnR2hJa0pUV3c5OGtVdmJIbDREenJvS3VrVWU1bHBZazJ3aEplQjlhNnhqbFhScnhmcjFxY3ZmQkRaaXIzcEVYSGFIVVJLaG1hWDVNSGkxbFczWS1HTlJoVG1LZDVLb0NqaGFET19faHhHc0xMQTExZWRvN3ROVkpsbHVMXzBCSVg2WHl0Z0RpMmJYVTR2a0E?oc=5",
@@ -79,11 +72,32 @@
       "pubDate": "Sat, 14 Nov 2026 03:48:11 GMT"
     },
     {
+      "source": "Food Safety UK & EU",
+      "title": "UK Salmonella outbreak captures public’s attention - Food Safety News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZmtNOHFuZzltX3ByeUZublBoYW50Nk5xSV9xZUdHNzI1dmFMSjdseGgwWm0yWDR1bUJHQUhMUFFTZHJmeVFScEtNT0kzV2xnWGI1Mlp1bFJWMVp2OHp2MDAwVndfc19jZjdDVWZycmRxV0R1NG1rUVpGLW9IbTk4Y3BjQ0NnSE5EZVFSX3p2RU1NZDA?oc=5",
+      "description": "UK Salmonella outbreak captures public’s attention Food Safety News",
+      "pubDate": "Wed, 11 Nov 2026 05:04:45 GMT"
+    },
+    {
+      "source": "HPP Meat & Deli",
+      "title": "Combined Sous-Vide and High-Pressure Processing Extends Barramundi Shelf Life - Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTWNTVEpGc2FRcXNzYXpHMWM5VVpnYVBjdzdFZkdYVDdySXlsbXdZZTNaRVVobXV4LUlWM0RaZmQzVTZPRnBUTmp4TlhrUHloZHdFQ3ptZWk5T2drYjNyNlJDaTA0LVR0MllJNHQyMnhXSk5XTElEbE1qWndwTzBNMTliWGxQcFFiZUg2bmxDQlNNVkI2V2dRTXozTnNKamk3QzZicg?oc=5",
+      "description": "Combined Sous-Vide and High-Pressure Processing Extends Barramundi Shelf Life Bioengineer.org",
+      "pubDate": "Mon, 09 Nov 2026 22:06:26 GMT"
+    },
+    {
       "source": "EU HPP & Food Tech",
       "title": "Food Processing Equipment Market Size, Share, Trends 2036 - Future Market Insights",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON2dJSGRockNmckhCU3g5YXNWX0otS3VYUzUzclNtODZxUWFMdU1OZFBsc1NkVlN1NzQ4V0xLajVQc1BCcTBEd2l1V0FwQW5WQ1p1aTJPTldOMDduWldwN0RBcmU1VUdqbTU4UlRmcjVqYnA5Q0N2QldVS2hSckhVZ1gzRQ?oc=5",
       "description": "Food Processing Equipment Market Size, Share, Trends 2036 Future Market Insights",
       "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "Seafood Recall Update as FDA Sets Most Serious Risk Level Over Listeria - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWlZpMEVpOXR4clM4S3YzaDhPNE84Q3B2Y2R6MkpjWXRxM2t6U3JMZ2o0eUJ0MFBodVZFbG55UTFOekUtVmlXUldWOWlZRlo1YXZJTGlRWTVKN3Z6UDdoT1doVkR2elhNcDljWWtiMU5raGFFcWx6WGs0cnJxbkFUWjBJVnlpbFhWQ0t3cV9YR1FoYW1RYTBYS0s0UDZsc0dDWDhGRENFZWk?oc=5",
+      "description": "Seafood Recall Update as FDA Sets Most Serious Risk Level Over Listeria Newsweek",
+      "pubDate": "Wed, 04 Nov 2026 08:00:00 GMT"
     },
     {
       "source": "Salmonella Outbreaks",
@@ -93,11 +107,18 @@
       "pubDate": "Wed, 04 Nov 2026 08:00:00 GMT"
     },
     {
-      "source": "HPP Dairy",
+      "source": "HPP Equipment & Machines",
       "title": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 - Fortune Business Insights",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaExyNHUyeE9rM0ZPN2dtQk0yMzllUTFZQnBYMnE5SkxXZGpLVlZwTk54eWY2eFF6S3RZWFFUcUR1Yjk5WXVaUGRIQV8zN2d4Y2doUzNPM1RiVkxjdy0yNDExTV9pN1hybUpYbE1iSU5pcnlMcUN0TGZJTUZpc28yR2VEU1M0M0dGc0k2a2lUVjcwQS1OZlFB?oc=5",
       "description": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 Fortune Business Insights",
       "pubDate": "Mon, 02 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Listeria Outbreaks",
+      "title": "New Safety Recalls, From The Kitchen To The Driveway: Recall Roundup - Patch",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeFoyTEUyNnZTNS1oSUhZVkxTdjM1eVc3MFk3MkxCSjdLZ0FnNVZucXNRWExuWDlEWjVPeUZiSVotRks4SzA4RENLWm9UbUYwTmFzdk8xT0p0ZDY4TTR1cVVrWDJmU2hHamdmR0piZlZqUXFVS3pOY3E5cFc2ZEN5UkxzRTdRbFV0Rl9XcmRFaFlNRExJRnpTTl80cFpnMDEwTnIxQ2xFa3pKNWNqQVVzeFVZVlBhVVRl?oc=5",
+      "description": "New Safety Recalls, From The Kitchen To The Driveway: Recall Roundup Patch",
+      "pubDate": "Fri, 30 Oct 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Juices & Beverages",
@@ -149,6 +170,13 @@
       "pubDate": "Sat, 10 Oct 2026 07:00:00 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "Clover Hill Dairy Requesón Listeria Outbreak Is Over: 15 Sick, 14 Hospitalized, 1 Dead in Four States - Marler Clark",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ1Z4SVMzMTdnajR4RU1sNm92UjNCNnV3SlA4T1NEVG9YSTFna1BpOE0zVGxxLWV1cjd5NENTY19VNEpYaUo5TkNuQ0NjaEZncDV4UmV0aE54R2hLWUZBWk4wQ1FVdG1DWjhvZjA2bWV3UjJXTXBpcjQzSUVlT2w0RDJlM1g4c3VWbzVXbTZaMmpzOHhyNldUT1RtLTEzMW9QYjlscy14Y2FwZ0xIcDJva0g5bU9oZkRLeXJVX0pPZm9yLVFJYnhobVFXRURtZnM?oc=5",
+      "description": "Clover Hill Dairy Requesón Listeria Outbreak Is Over: 15 Sick, 14 Hospitalized, 1 Dead in Four States Marler Clark",
+      "pubDate": "Thu, 08 Oct 2026 04:42:07 GMT"
+    },
+    {
       "source": "UK HPP Industry",
       "title": "The Turmeric Co. brings HPP in-house with £3.6M investment - Food Manufacture",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUUNRendkLVI0c0stSU9aOHlFSUlVSGc0bDR6NkFjZ0QxQzJ6VENlN1FJTm1CZlV1U0Y4RGhLS2daODBIT2VxaEF3Rk13bDlUOVpHQ3MwYWhDUE9WMVdoUE01MUlZcEVOWnEzRi1USW9pVm9kSmhDT2RCV3NMTEhSa1RNVmtWRVpHNG1wZFBGS1g5LU5QajdzeVAxQjFzeHE0anRLOFByVm5IZDZ2SFQ4TzFDMGNVRURBaWlzbmRYNXNCMW5KOExJSnBFNkN3OTZnSTNHTlA3R2FJWFQ0a2wtMWdaTl9fUQ?oc=5",
@@ -163,6 +191,20 @@
       "pubDate": "Fri, 02 Oct 2026 11:21:46 GMT"
     },
     {
+      "source": "Listeria Outbreaks",
+      "title": "FDA Opened a New Listeria Outbreak Investigation on September 30, 2026: 11 Sick, No Food Named, No States Listed. Here Is What Pregnant Women, Older Adults and Everyone Else Should Know. - Food Poison Journal",
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOOUNMd21hSngzQmxUUG1HRW9vSkd3amJJWFNPdWgyYkhhd0VhQjl2U2VtaVlySHZKUk5OUFFCQ3p3R2V5MUlvQ2xiU0l2YmxPVFdGbVlUSklTZkhrN0kwaXY3RTduSUxkUS1GbXV1NWJkSEwwM3FoZndmRDI0bHBmNXpvSW03aTFybFRsMm1Kcy1ZRGZNS2ZRUVNYWjB1dUZzQjM4aWtISlJDeDhXWWF6YXRUSFRrYXN3NkN4RHFhcGI3dEhYV28wWHk0UC1ZcmNnRlpaM0ExS2lYMGwtVV82aklMbnl4eUNoaFFpY0JOaU1NNmpKcTBhWmhRLVdVWVhxUndHR0M1Vy11YmMyWUxVZTFIUUszY1hnNXVUTkhTaXhiT040RWxseVAtZUx5MmV6Y1d6LTJhdXFpSkcxNk16NEt1Qk83MzB2SkU4SlpjQnBjM2pWT2I1SDlwR0xjUQ?oc=5",
+      "description": "FDA Opened a New Listeria Outbreak Investigation on September 30, 2026: 11 Sick, No Food Named, No States Listed. Here Is What Pregnant Women, Older Adults and Everyone Else Should Know. Food Poison Journal",
+      "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Meat & Deli",
+      "title": "Study Identifies High-Pressure Processing Parameters for Effective Pathogen Reduction in Raw Chicken - Food Safety Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSzhlMUlKTzNoNGdhU3lmdzg5Q3BENFhqM0ZNbkhFWXJoSnFfelFWUTczQUphVUI5bHBzbElrZWJsU0VseFVLY3ZwU3Z5RjZVMWVFQ3F1Yk5RclRMR1F5T0xMWjg0M2FLSGxlNUV4SjJQLTNJdDlQZEtwTHUxQnR5UHhGQ0NLeDI1R01JLXc3Q0pMRWl3V041Y3JSM3dvU1lJbE1LQVplT3AwVjhrQkxrcC1tMmt5NWlwTkVGM2tidzFYQjhpbklxYTBnSTlJMGVZZXZMbVJSeWpWRnc?oc=5",
+      "description": "Study Identifies High-Pressure Processing Parameters for Effective Pathogen Reduction in Raw Chicken Food Safety Magazine",
+      "pubDate": "Thu, 24 Sep 2026 09:07:40 GMT"
+    },
+    {
       "source": "HPP Meat & Deli",
       "title": "Oklahoma State University Workshop Highlights High-Pressure Processing Benefits for Beef Producers - Oklahoma Farm Report",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSmk2RjVBcUQwY0NzYmNZRks4NFh6RmJncFNWbXFXLW5ZdVBCZWpKM21jVm5MYWtGWjBOQ2lzOW9xLTVJZ3pwNkhULWlvU3czSFplQzY0em1JbHR0QnNjX19TOXdYOHdYVVFfMXlnMXhPeHpUbTJCX1pJU2NwYzNFNWtiX2hBdjBrbFdsWmQ0d2g5dEtBTGxaVUliRzJSVUJEaHk5SmE3enQ2Y1o3SU1pWFp4YzhiTHpHVXJ4dVFndW5PQUVCVEt6c3BQaE95aE5wR0RkVU1nVDF5Z20tbkE?oc=5",
@@ -175,13 +217,6 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWmc2cnZsZzY5X0VacGx5ZjQ2VF9jMFBzQ3ExVkhYMVhJd0t2ZlppYlZ1dDBnaG1UTGdkeDVDUmRNaXhsOGtYejV6c1VvRkcxYkZPMUxVM3NSLWNseHBYc3UxVUJxT08tc3A3Wm5BMzdtb0JUTVJJN0R0TFNQMlVrZkRPamo2U1VVaC1FX2J6OHBnYUhKOGhsRUhjZlFQVEZZTDgwbThwQ0VldzQxQjA1eEN0Q0FWQ3VsSms3R2ZHNklzMGhoNmM0?oc=5",
       "description": "Multivac UK to open new CX and innovation centre in Manchester Food Manufacture",
       "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric EU",
-      "title": "Hiperbaric to Present Its Hot Isostatic Pressing Systems at IMTS 2026 - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMy1Rb1ppc1V6TEZvR1o5NUNsWXRDbDJrelV3RGJiYVZMdkVMZDlhTkhYSmxXZldCVGJlNUZXWnRsTFppQ24wUWZMRjE2cVc2bWZsTUxrUkRyZDhLR0xfNS1Zb1poZ0VERlJCRHVDYllqTVJFRGF5NWRjYWE4TEgxNGZVNDhzSFM1Q0N2a3hpOUxfTURBQ1dBUVpBaDE2QjQtallxYVdpeWtGbU9reFBhdHE4Rzg4OUNxdElSTTZTUFllbHo5ZS1wM0FB?oc=5",
-      "description": "Hiperbaric to Present Its Hot Isostatic Pressing Systems at IMTS 2026 Morningstar",
-      "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric",
@@ -262,6 +297,13 @@
     },
     {
       "source": "Food Safety UK & EU",
+      "title": "US dog food brands issue urgent recall over salmonella and metal contamination - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFUwQVFZc0FuMHRIQnZWUWFEZzBxYkJrUWdMcjlGdGpTWm02Q3U4NDBYaEtWLXRyQ1pnYkc3LXhxeHEza3JkX2R3MWNrMmRBcGlYUWRQaVROdEYtdjBsd1BfRlcyMFlEa2RVR1NBOWg4XzVFOWZMaGtfZHMzWF9rbGY1S1l0ekREMXV0RHh1WXBXZTRwWU9hQ2lmVWx5VURsTlhHbzBuMk5HV1JTOTJaRmY3dlUyZw?oc=5",
+      "description": "US dog food brands issue urgent recall over salmonella and metal contamination The Independent",
+      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Food Safety UK & EU",
       "title": "Food Fact Check: Can you get salmonella from eggs? What you need to know. - GOV.UK blogs",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObmNwbkxtUXo5QVNIemI0M1E3M2p2bEtaVlhVS0RheWNnR21DWGMyNm1kWkZ1S3FJTnRES1UyMDdZWlZaQTlOTXUxSFdSTEJWQ0NCY2Q5MGJxTXE2SVBhYXhJYTh2cVVoZDZ5a216UUJRLXlSZk5nYU5FT0NyZ1NUYnRYXzFWSzFrRnhXRjM2OWpydDZXa0kwOW5wT2VOT21iWHc3cHJ6RGtIQ00?oc=5",
       "description": "Food Fact Check: Can you get salmonella from eggs? What you need to know. GOV.UK blogs",
@@ -289,13 +331,6 @@
       "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT"
     },
     {
-      "source": "Listeria Outbreaks",
-      "title": "Are we seeing more food recalls these days? - PIRG",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lM0Q3S3pJZEhlUE4xZHBEbVBVSXRuRTBXRzZTWFkzbU9PYzV6czEyR3JQc2d6S1hKMmdlUGZkX2NjWFV1NTFONlkyR3JrdlZLU2FXaHZ1NG5SS3l4cGcxWmxrRjh5MzJCRDE5WDZUSXNBV2s?oc=5",
-      "description": "Are we seeing more food recalls these days? PIRG",
-      "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
-    },
-    {
       "source": "Salmonella Outbreaks",
       "title": "More recalls as US faces several foodborne illness outbreaks - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN3R5YlVOeElIRnBWNWRua3F4NUZXSEl6M3NMM1VXdjlSM0dNZVE4eXJMZmhHekV5MnFLUnM4Y2hONkFVN0JwWTJSSmVWbmlmQmJScWJFQUd4QzZYV191S0F6QUNBRlI2ZV8tc3JzcmYtUmcycEVpZ1YyMzcwREgxQVFaT2xMRVBycEpGcEZVa3JmU19Na01rUDlKVQ?oc=5",
@@ -315,41 +350,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDBoRW1EZEpqYmQ5Sm9XLVRycFVJN2gzSDNiTkNWX0taRUhvcTlIZlo4UUlvc2tUeldqZ3ZDUEw4bFpLcl9jbW10ZV9DYVpnc1daWS0tc2VyZ0sxSWxDN1llX1J0TGJ1ZUJOVjhVdHViRmg2WDRHRzJTU1Z4UnN3YnpoMkxsWENSblZZV3cwSFJwY1NyQWNGQmxPU190dw?oc=5",
       "description": "Ross Introduces 250-Gallon Retention Mixers for High-Pressure Processing Nutritional Outlook",
       "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Juices & Beverages",
-      "title": "How Suja Organic Pressed Optimism Out of the Cyclospora Outbreak — LBB - LBB - Little Black Book",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUXI5UUFKbXE3bE85TmZJeU0yQ0dWQ2RHWFBEWjZOLWxjN1RyUGdaazhLMUJKYTV4alNvN1hPbkVhWGNkeGFIWVVFU3dMSXlxempjSkFrcDJINktoX3ZKeUtQc2RYMFNwZXZzaC10NTJBSnNaZEJudGtGOTRJTGpNRXVWemprdnV1?oc=5",
-      "description": "How Suja Organic Pressed Optimism Out of the Cyclospora Outbreak — LBB LBB - Little Black Book",
-      "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric",
-      "title": "Hiperbaric to supply first Spanish-built HIP system to TTT Group - Metal Additive Manufacturing magazine",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2pMRnhXaDV5blFZbGRMRUxQb1dxRFJFQXl2Z29WOEc1Ry1RNWdNSFVCUHhGb3cxMHhVOWJIRUt6QnF1MW5tdWRiaDdvNExubUN0WVB1RW41dEVhcVFuUTdFLVdXaFRIU1FOempJZk90MVFjRXdnTGtUTzdxc2lYWTRWaWRjSU1iUDdvWVpCN3NTcGVL?oc=5",
-      "description": "Hiperbaric to supply first Spanish-built HIP system to TTT Group Metal Additive Manufacturing magazine",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Hiperbaric EU",
-      "title": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts - TCT Magazine",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM29NRXg0WXVha25KbzRLcm9zV0dRUG81ZVhpaGllbzdRR0FyVm1uVDBtVTZkR01tR1VKck56c2xxSC0yRDB1bUsyajAyd19Eb1I4UWRtY0VMVU9VNFlrWGJDSzdDQms0T0VwbE04WWl1V2k5b3cxZmVCSXZPUlg3OTI5Uzh1b2ZPRUhhZ0t6ckhqdHhhQVhfdzVJaVI1dEUtRy1OZERuMGwzY3RUdTc0UUZadFRKVU1JRmFWQVFwZHg3UWc0U3drMUVvZmY?oc=5",
-      "description": "TTT Group installs Hiperbaric HIP system to boost mechanical performance of aerospace and oil & gas parts TCT Magazine",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Listeria Outbreaks",
-      "title": "15 recent food, product recalls that may impact you - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTUpmWHBEaEdMem5tR0R6ZkhUdTZxUXBiNVppU1dSZ1MyVHBjWTRaenlFdmE1SFhlWVVkc0ZlU0ZTZktET3JNcVZjVTNPVkoyN3lRR1N3T29jQlR4SU80RE5waEg5bDdJNi03RGdwT0ZhNjRzRU1uT0VqUW1Nck8wdEJiSXdKMlhJaWpFc00zY0R0d9IBlwFBVV95cUxOT1lqVHB4dFBqY0habDlzdmlNSG5uUVJWVURkOVdNTzlrNDMwMTRjLU5raTBYTXNnMUUweDRYclM2UE9lZlpjLVBONWlCMFdxam5xQlY2QmdGc21LOVN1U18tSjNGNHRTenVYQW5YV0tpREpuS3NpUEphWEpwYXdJcW51M2dqVmJnbXlqVExrZDFtUTBxRUg0?oc=5",
-      "description": "15 recent food, product recalls that may impact you The Hill",
-      "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Seafood",
-      "title": "High-pressure ammonia removed from seafood processing plant in Tiruvallur - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemNXR0FXdDA5Tk5tMnJRQXRmTUhoLTVhQ2w1R0hxNVVHcHlwYzFGeTRtYVNrZUhVVS04UUVIeVFVdmptRTZHMjF3bDlENDhrZi1lTW8yWENHOGRZcTd1U2pmZ0xhbUdsTGdFNmRXemdkMmljWk5pY2Rpb2Npd3FtMWNPd2x0ZlJnRVFJazBXeGZHbzl2VjNoVHRDbTgyQVBTeUVUaGlCb1NPUmRrck5OUmZmSkVYS2s5dGhvcnNBX0JmZHVFUXc1NE8ta2pzUGFkelHSAd8BQVVfeXFMTUJLUG9hUFFhQXAxU1J5eVQ3Z25GUzdlRVJKV2hXdEN6bURrdXNWaVdnVzI4c3BDUXZacEwxcTkwRlhuRTRhYVBSOUNsVEwzMVB2d2pwOFhYNDhJNUc0TFE1Y3R4Q2lhU2Jzal9aMHMyOHBKN2MxZl8wMHNadUItaDNEdjJFMW02WXRzanhIWF9LaFd3dVpFWTl2SlpvVE1pS00yb09QLTZPNVJSTWRsUXg3UUtkLVdLd2JNbUdBV053Sk94cjItcHEzU2R6X0prWjY5YVJNck8tR1F6YzVXNA?oc=5",
-      "description": "High-pressure ammonia removed from seafood processing plant in Tiruvallur The New Indian Express",
-      "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
     }
   ]
 }
