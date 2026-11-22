@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T05:26:53.762108+00:00",
+  "updated": "2026-11-22T14:09:57.767007+00:00",
   "articles": [
     {
       "source": "Quintus Technologies",
@@ -65,11 +65,11 @@
       "pubDate": "Thu, 19 Nov 2026 09:58:00 -0500"
     },
     {
-      "source": "Food Safety UK & EU",
-      "title": "Salmonella Outbreak Linked to Noodles Sickens 106 Across Europe - https://docksiderestaurant.com.au/",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuT21BYTdSQTdMMFZleVowZU9kdzFENmx3NlRuNGxjR0Y4eGVTb1J5aEVmNEZTQTdxVVpyZTdjQXA2cThtSV9nOWYtQUNDd2xLZURIVUhIM0hwSWNFQ1FMLTJPODItZzVXQTl0TzlLMGpCZThZMmpKMkZyUTY?oc=5",
-      "description": "Salmonella Outbreak Linked to Noodles Sickens 106 Across Europe https://docksiderestaurant.com.au/",
-      "pubDate": "Thu, 19 Nov 2026 09:56:46 GMT"
+      "source": "Salmonella Outbreaks",
+      "title": "FDA Tracing the Food Behind Two New Salmonella Enteritidis Outbreaks That Have Sickened 49 - Nature World News",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNWQyWm80aGN2NGFqNDA2RGZvY3VNRUxZcUplbzZKQmJrQ1pveGR2a2Y5VS01NHFyUDVnRUh2c2RhZnN4UElFS2kxRXRfdzZweXRndG05ZURFbnRqT0RIU0gyODZLSVpfekIzMVc3OFR3VjVta3NQZW4wQ3BVaFlZV0luVjM5Sy1jeUU5Y2Z0ZE5vVHExUjVFNlA4SzBNcnRxeWYwZ1NBWGdXMnNWbXBIZHdUM0hJbGpJbDNFdkFnQ2NLbjEtcUV1TG1sdnN3ZF9MWWF1cUwzMWtnR290RUdN?oc=5",
+      "description": "FDA Tracing the Food Behind Two New Salmonella Enteritidis Outbreaks That Have Sickened 49 Nature World News",
+      "pubDate": "Thu, 19 Nov 2026 07:55:40 GMT"
     },
     {
       "source": "Quintus Technologies",
@@ -79,18 +79,18 @@
       "pubDate": "Wed, 18 Nov 2026 23:56:51 GMT"
     },
     {
+      "source": "Food Safety UK & EU",
+      "title": "The latest product recalls and safety alerts from Which? - Which?",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnZEdm8tLUMxdlpRajZ4bGZ1eE5nRElJdGtTVDB5R0hMcWxoV2NIV1BvSkNsY3BUaGl6TzV2cXZSdEZWV0JOenZseW5icmxadFBZcERkOGpMb3BjaGJrN241Q1VCeWw1TldCMjBscEtfTzkwM2tsTTJyQlI0VkFaVWRseVZObmoycnRFaXJkQlY?oc=5",
+      "description": "The latest product recalls and safety alerts from Which? Which?",
+      "pubDate": "Wed, 18 Nov 2026 08:00:00 GMT"
+    },
+    {
       "source": "UK HPP Industry",
       "title": "Thailand’s changing food industry – the opportunity for UK startups - Startups Magazine",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUlpwMWpXQW9fYzcwdHRMaUU5NEFCNXplNmRkTmVIZmJpclB6S3Z1T1U5czd0ZUtRa1I2RjV1eERsMG84bW5MVS1Nb2tXNi11Yzd5UUJndXJjVlFJc2s4QWcxR1QwT0xSOUhKZVRGaTF6azVKdGh3dkd2b29hU0RRaXQtXy1jcFU0Z19XaWx0cjBueGdyRDZyODVwVQ?oc=5",
       "description": "Thailand’s changing food industry – the opportunity for UK startups Startups Magazine",
       "pubDate": "Mon, 16 Nov 2026 09:03:59 GMT"
-    },
-    {
-      "source": "Food Safety UK & EU",
-      "title": "UK Salmonella outbreak captures public’s attention - Food Safety News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZmtNOHFuZzltX3ByeUZublBoYW50Nk5xSV9xZUdHNzI1dmFMSjdseGgwWm0yWDR1bUJHQUhMUFFTZHJmeVFScEtNT0kzV2xnWGI1Mlp1bFJWMVp2OHp2MDAwVndfc19jZjdDVWZycmRxV0R1NG1rUVpGLW9IbTk4Y3BjQ0NnSE5EZVFSX3p2RU1NZDA?oc=5",
-      "description": "UK Salmonella outbreak captures public’s attention Food Safety News",
-      "pubDate": "Wed, 11 Nov 2026 05:04:45 GMT"
     },
     {
       "source": "EU HPP & Food Tech",
@@ -112,6 +112,13 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaExyNHUyeE9rM0ZPN2dtQk0yMzllUTFZQnBYMnE5SkxXZGpLVlZwTk54eWY2eFF6S3RZWFFUcUR1Yjk5WXVaUGRIQV8zN2d4Y2doUzNPM1RiVkxjdy0yNDExTV9pN1hybUpYbE1iSU5pcnlMcUN0TGZJTUZpc28yR2VEU1M0M0dGc0k2a2lUVjcwQS1OZlFB?oc=5",
       "description": "High Pressure Processing (HPP) Equipment Market Size, Share 2034 Fortune Business Insights",
       "pubDate": "Mon, 02 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Salmonella Outbreaks",
+      "title": "New Safety Recalls, From The Kitchen To The Driveway: Recall Roundup - Patch",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeFoyTEUyNnZTNS1oSUhZVkxTdjM1eVc3MFk3MkxCSjdLZ0FnNVZucXNRWExuWDlEWjVPeUZiSVotRks4SzA4RENLWm9UbUYwTmFzdk8xT0p0ZDY4TTR1cVVrWDJmU2hHamdmR0piZlZqUXFVS3pOY3E5cFc2ZEN5UkxzRTdRbFV0Rl9XcmRFaFlNRExJRnpTTl80cFpnMDEwTnIxQ2xFa3pKNWNqQVVzeFVZVlBhVVRl?oc=5",
+      "description": "New Safety Recalls, From The Kitchen To The Driveway: Recall Roundup Patch",
+      "pubDate": "Fri, 30 Oct 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Juices & Beverages",
@@ -171,10 +178,10 @@
     },
     {
       "source": "Quintus Technologies",
-      "title": "Wallwork to showcase increased HIP capacity at Formnext 2026 - Production Engineering Solutions",
+      "title": "Wallwork to showcase increased HIP capacity at Formnext 2026 - PES Media",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmxFcWZGNzllUmd6LUFoYThUcW40QkhJUXk1Vm81VmpaU0FFN0RkZndncTctN1F5RThJRUVsS3UwVXg1NU1TYUVpaDU0MFhBbGRxZDVNNl9XX0lPU0JScU04UXRXMHU4R3JseWp4T05sdEFVYkNBZW5RVUMzQzZuMG9wSmgydjZJWnVjUjR3?oc=5",
-      "description": "Wallwork to showcase increased HIP capacity at Formnext 2026 Production Engineering Solutions",
-      "pubDate": "Fri, 02 Oct 2026 11:21:46 GMT"
+      "description": "Wallwork to showcase increased HIP capacity at Formnext 2026 PES Media",
+      "pubDate": "Fri, 02 Oct 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Meat & Deli",
@@ -185,10 +192,10 @@
     },
     {
       "source": "UK Food Industry",
-      "title": "Innovation activity by sector - UK innovation survey 2025: results for Scotland - The Scottish Government",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR3N2VWhUamo2NlhLNGhiR2g0Y0hUTXdwS0NsMU9mcHNlal9ZSmRod0QwbnBTSWJwVEt6RHJHbEhOSER1QkV2QnJydzJCQzFqUDZEVTViekpyeWxFTVg5TWwzTVNCX3VyN3BzT3JJRnNfLVJUM2VkeDdfQkhBMGV5VVRUakowZ3B3R0VlLWpiN2sxTXIxeEZYVElvTUxWMXZ3MmJwU2wwamFvRGJkamNHX1dkQ0VnOEY4?oc=5",
-      "description": "Innovation activity by sector - UK innovation survey 2025: results for Scotland The Scottish Government",
-      "pubDate": "Wed, 16 Sep 2026 07:00:00 GMT"
+      "title": "Multivac UK to open new CX and innovation centre in Manchester - Food Manufacture",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWmc2cnZsZzY5X0VacGx5ZjQ2VF9jMFBzQ3ExVkhYMVhJd0t2ZlppYlZ1dDBnaG1UTGdkeDVDUmRNaXhsOGtYejV6c1VvRkcxYkZPMUxVM3NSLWNseHBYc3UxVUJxT08tc3A3Wm5BMzdtb0JUTVJJN0R0TFNQMlVrZkRPamo2U1VVaC1FX2J6OHBnYUhKOGhsRUhjZlFQVEZZTDgwbThwQ0VldzQxQjA1eEN0Q0FWQ3VsSms3R2ZHNklzMGhoNmM0?oc=5",
+      "description": "Multivac UK to open new CX and innovation centre in Manchester Food Manufacture",
+      "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "Hiperbaric EU",
@@ -206,9 +213,9 @@
     },
     {
       "source": "Hiperbaric",
-      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTXZyd2stTWhCMDlUT1Y5Nk5TZlFLdnlRbjMzaTBEZ3ljeW80RTB6ZEI5T0xfOVh0b0Yxd0hWV1BiWGhHSnVQRjVTRU94eXBBaTk3d29hZ0xTNHA5dFpfaHN1SnlINkltYnJYN0Q2ZXVZZTE4NkJZZXlxdEpLd0w3UWJxRm0wWG5FbkNjWlp0b2g0MzJNbFVBRDZvbG05NHI2REVpNFZMX0lHLTEzSHA1R0hpSzF0QnR1OTVYU0pPLUhXYjBqZlQxOFg2NWVIS1JRNDllRjhLemVfakVLUUhEOW9MWDNxQ3ZFU2REVVg2Q1ZGZWE3RjZfVFFwY1JxeF93M2Fsdmx4SQ?oc=5",
-      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 PR Newswire",
+      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM0pXdmt2NmZIcFRyQ25Ea29yVGdabk1MRHZodlh2enR0RS1QaThUUDMyaWhzYXZlN2tIODY5cHNWaGJyVW5iOXU1TFBmSkc0MWhkMmlOMF9tOS1jeWViSHNiUnA5RU1LMVFkOTdfaVQ2Y1lLSG1lM2VCYkJ2VEpTdGtINVFKTHFud3lSWWt6QkY5bDR6TzU4YzhUSWV1ZmtVZmhydHl3?oc=5",
+      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 Yahoo Finance",
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
@@ -216,6 +223,13 @@
       "title": "High-pressure processing expands beyond juice - Beverage Industry",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdzlBX1BVTWNYR2RHendiQzlvVjBWU3ZMNTNEZXQwUlo2bmJ4UFd4OU0yc2k2bUdMZ3JQT19YQkQ1cm1INDAtRkQwb2NySmxrTUVFNUJ3MnpmNldOWWFKTHFzUnlZOVFtX2xJcUZ3M0RSeFV1LUlvRTVrc0M0Q3FlazhRYlpoV3ExNVRxNnJabUI3UQ?oc=5",
       "description": "High-pressure processing expands beyond juice Beverage Industry",
+      "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "source": "HPP Equipment & Machines",
+      "title": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTXZyd2stTWhCMDlUT1Y5Nk5TZlFLdnlRbjMzaTBEZ3ljeW80RTB6ZEI5T0xfOVh0b0Yxd0hWV1BiWGhHSnVQRjVTRU94eXBBaTk3d29hZ0xTNHA5dFpfaHN1SnlINkltYnJYN0Q2ZXVZZTE4NkJZZXlxdEpLd0w3UWJxRm0wWG5FbkNjWlp0b2g0MzJNbFVBRDZvbG05NHI2REVpNFZMX0lHLTEzSHA1R0hpSzF0QnR1OTVYU0pPLUhXYjBqZlQxOFg2NWVIS1JRNDllRjhLemVfakVLUUhEOW9MWDNxQ3ZFU2REVVg2Q1ZGZWE3RjZfVFFwY1JxeF93M2Fsdmx4SQ?oc=5",
+      "description": "Hiperbaric Debuts the Most Productive, Smallest-Footprint High-Pressure Processing System at PACK EXPO International 2026 PR Newswire",
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
@@ -296,11 +310,11 @@
       "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "More recalls as US faces several foodborne illness outbreaks - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN3R5YlVOeElIRnBWNWRua3F4NUZXSEl6M3NMM1VXdjlSM0dNZVE4eXJMZmhHekV5MnFLUnM4Y2hONkFVN0JwWTJSSmVWbmlmQmJScWJFQUd4QzZYV191S0F6QUNBRlI2ZV8tc3JzcmYtUmcycEVpZ1YyMzcwREgxQVFaT2xMRVBycEpGcEZVa3JmU19Na01rUDlKVQ?oc=5",
-      "description": "More recalls as US faces several foodborne illness outbreaks CIDRAP",
-      "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT"
+      "source": "Food Safety UK & EU",
+      "title": "Taylor Farms recalls jalapeno products after salmonella outbreak - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKTlNobWFRZHVUZ0JOTkpoNU9vZVQwZGhtamJjR2F3eWtMYnJucUJNaWpoT0ZkTi00aDUxbGg3eHJtQ3pxS1R3NVVXYTBVQm9zeWN4c3luU1VRQTdy?oc=5",
+      "description": "Taylor Farms recalls jalapeno products after salmonella outbreak BBC",
+      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
     },
     {
       "source": "HPP Cosmetics & Beauty",
@@ -331,25 +345,11 @@
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
-      "source": "Salmonella Outbreaks",
-      "title": "Nearly 100 Sick in Multistate Salmonella Outbreak, Millions of Eggs Recalled - Food Safety Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOWp4MS1vOW11ZVpvXzZoSjlManJ3YWRSak03N3lTTnA3OS1fNVBGc1FvYkFCR3RCSkRqandqREZzSi1nN0xRTG55OE81elhHN1poM0ZCMmtmWnEteGZfa3Y1MVVZek55bjh5NXp6VXMxOVBtUkhkdndYS2toT3VLaDlLbzQ5elNUM0hDQWZqQmVhajNxQ19PMXhMTGVUTHloX2N5SWE2SjZMMWNMc25vaXBCV2M0RU1OZ0E?oc=5",
-      "description": "Nearly 100 Sick in Multistate Salmonella Outbreak, Millions of Eggs Recalled Food Safety Magazine",
-      "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT"
-    },
-    {
       "source": "Listeria Outbreaks",
       "title": "15 recent food, product recalls that may impact you - The Hill",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTUpmWHBEaEdMem5tR0R6ZkhUdTZxUXBiNVppU1dSZ1MyVHBjWTRaenlFdmE1SFhlWVVkc0ZlU0ZTZktET3JNcVZjVTNPVkoyN3lRR1N3T29jQlR4SU80RE5waEg5bDdJNi03RGdwT0ZhNjRzRU1uT0VqUW1Nck8wdEJiSXdKMlhJaWpFc00zY0R0d9IBlwFBVV95cUxOT1lqVHB4dFBqY0habDlzdmlNSG5uUVJWVURkOVdNTzlrNDMwMTRjLU5raTBYTXNnMUUweDRYclM2UE9lZlpjLVBONWlCMFdxam5xQlY2QmdGc21LOVN1U18tSjNGNHRTenVYQW5YV0tpREpuS3NpUEphWEpwYXdJcW51M2dqVmJnbXlqVExrZDFtUTBxRUg0?oc=5",
       "description": "15 recent food, product recalls that may impact you The Hill",
       "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "source": "HPP Innovation & Research",
-      "title": "Pressure, Purpose, & Possibility - IFT.org",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUo3RVhlX3dfRTlmMC1XbXJ5X2IzdW5rRlBBN0NXcWIxS1RPLU91RllrN0hMckNCVXJYaVRLME4wSU9xTnJCdHRfVUY5ZWdOdGM4MTdOLWtxQ3FTanBmWnVRRTFGMHBSdlgwSHNLUWhMdHNYZlNzQzF1TV9XZm9KNTl4QQ?oc=5",
-      "description": "Pressure, Purpose, & Possibility IFT.org",
-      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT"
     }
   ]
 }
